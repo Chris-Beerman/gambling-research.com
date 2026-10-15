@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.title }}: {{ site.descriptor|lower }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ site.descriptor }}. Updated nightly from PubMed, OpenAlex, Crossref and journal feeds; no industry funding.{% endblock %}">
+<link rel="canonical" href="{{ site.url }}{{ path }}">
+<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}: weekly digest" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}: new studies" href="/research/feed.xml">
+<meta name="color-scheme" content="light dark">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta property="og:url" content="{{ site.url }}{{ path }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+{% block head %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <a class="wordmark" href="/" aria-label="{{ site.title }} home"><span class="mark" aria-hidden="true"></span>{{ site.title }}</a>
+    <nav aria-label="Main">
+      {% for href, label in nav %}
+      <a href="{{ href }}"{% if path.startswith(href) or (href == '/journals/' and path in ['/conferences/', '/datasets/', '/measures/', '/guide/']) %} aria-current="page"{% endif %}>{{ label }}</a>
+      {% endfor %}
+      <a href="/about/"{% if path == '/about/' %} aria-current="page"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>
+{% if fixture %}
+<div class="notice wrap" role="status">Showing sample records until the first nightly index run completes.</div>
+{% endif %}
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="colophon">
+  <div class="wrap colophon-grid">
+    <div>
+      <p class="colophon-name">{{ site.title }}</p>
+      <p>{{ site.descriptor }}. Edited by {{ site.editor.name }}, {{ site.editor.credentials }}. No funding, advertising or data from gambling operators, suppliers or affiliates.</p>
+      {% if updated %}<p>Index last updated {{ updated }}.</p>{% endif %}
+    </div>
+    <div>
+      <p><a href="/research/">New research</a><br><a href="/news/">Policy and news</a><br><a href="/digest/">Weekly digest</a><br><a href="/research/topics/">Topics</a><br><a href="/research/archive/">Archive</a></p>
+    </div>
+    <div>
+      <p><a href="/journals/">Journals</a><br><a href="/conferences/">Conferences</a><br><a href="/datasets/">Datasets</a><br><a href="/measures/">Measures</a><br><a href="/guide/">Research without a university</a></p>
+    </div>
+    <div>
+      <p><a href="/about/">About</a><br><a href="/methodology/">How the index works</a><br><a href="/feed.xml">Digest feed</a><br><a href="/research/feed.xml">New-studies feed</a><br><a href="/data/papers.json">Index data (JSON)</a><br><a href="https://github.com/{{ site.github_repo }}">Source on GitHub</a></p>
+    </div>
+  </div>
+  <div class="wrap colophon-fine">
+    <p>Index metadata is released under CC0. Study titles, abstracts and news headlines belong to their publishers; this site links to them and reproduces only short excerpts. Editorial text is licensed CC BY 4.0.</p>
+  </div>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

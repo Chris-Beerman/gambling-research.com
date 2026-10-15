@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="lede">
+  <h1 class="lede-title">{{ site.descriptor }}.</h1>
+  <p class="lede-live">
+    {% if this_week_count %}<strong>{{ this_week_count }} new {{ 'study' if this_week_count == 1 else 'studies' }}</strong> added in the past seven days{% else %}The index is being assembled{% endif %}{% if total_count %}, {{ '{:,}'.format(total_count) }} in the index{% endif %}.
+    {% if updated %}Updated {{ updated }}.{% endif %}
+    <a href="/methodology/">How it works</a>
+  </p>
+</section>
+
+<div class="home-grid">
+  <section class="home-main">
+    <h2 class="section-title">New research</h2>
+    <ol class="ledger">
+      {% for p in papers %}{{ m.entry(p, show_summary=False) }}{% endfor %}
+    </ol>
+    <p class="more"><a href="/research/">All new research, with filters</a></p>
+
+    <h2 class="section-title">Policy and public health news</h2>
+    {% if news %}
+    <ol class="ledger ledger-news">
+      {% for n in news %}{{ m.news_item(n) }}{% endfor %}
+    </ol>
+    <p class="more"><a href="/news/">All news from the past {{ site.news_window_days }} days</a></p>
+    {% else %}
+    <p class="empty">No news items yet. The nightly run fills this in.</p>
+    {% endif %}
+  </section>
+
+  <aside class="rail">
+    <section class="rail-block rail-digest">
+      <h2 class="rail-title">Weekly digest</h2>
+      {% if digest %}
+      <p class="rail-digest-title"><a href="{{ digest.url }}">{{ digest.title }}</a></p>
+      <p class="rail-meta">{{ digest.date|fmt_date }}</p>
+      {% if digest.summary %}<p>{{ digest.summary }}</p>{% endif %}
+      <p><a href="/digest/">Past digests</a></p>
+      {% else %}
+      <p>Every week: the five to eight studies worth reading, with a short note on each, plus the policy news that matters.</p>
+      <p>The first digest goes out once the index has a full week of data.</p>
+      {% endif %}
+      <p><a href="/feed.xml">Subscribe by RSS</a></p>
+    </section>
+
+    <section class="rail-block">
+      <h2 class="rail-title">Topics in the past {{ site.index_window_days }} days</h2>
+      <ul class="topic-list">
+        {% for slug, label, n in topics %}
+        <li><a href="/research/topics/{{ slug }}/">{{ label }}</a> <span class="count">{{ n }}</span></li>
+        {% endfor %}
+      </ul>
+      <p><a href="/research/topics/">All topics</a></p>
+    </section>
+
+    <section class="rail-block">
+      <h2 class="rail-title">Reference</h2>
+      <ul class="plain-list">
+        <li><a href="/journals/">Where to publish gambling research</a></li>
+        <li><a href="/conferences/">Conference calendar</a></li>
+        <li><a href="/datasets/">Datasets and public data</a></li>
+        <li><a href="/measures/">Screening instruments and scales</a></li>
+        <li><a href="/guide/">Doing research without a university</a></li>
+      </ul>
+    </section>
+
+    <section class="rail-block">
+      <h2 class="rail-title">About this index</h2>
+      <p>Every new peer-reviewed study and preprint on gambling, betting, lotteries, loot boxes and prediction markets, collected nightly from PubMed, OpenAlex, Crossref and the journals' own feeds, and tagged by topic and country. Edited by {{ site.editor.name }}, {{ site.editor.credentials }}. Independent of the gambling industry. <a href="/about/">More</a></p>
+    </section>
+  </aside>
+</div>
+{% endblock %}

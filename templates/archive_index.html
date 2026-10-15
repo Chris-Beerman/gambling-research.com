@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Archive: {{ site.title }}{% endblock %}
+{% block description %}Every study in the index, by the month it was added.{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="crumb"><a href="/research/">New research</a></p>
+  <h1>Archive</h1>
+  <p class="page-deck">Every study in the index, by the month it was added. The whole index is also available as <a href="/data/papers.json">JSON</a>.</p>
+</section>
+<ul class="topic-grid">
+  {% for x, l, n in months %}<li><a href="/research/archive/{{ x[:4] }}/{{ x[5:7] }}/">{{ l }}</a> <span class="count">{{ n }}</span></li>{% endfor %}
+</ul>
+{% endblock %}

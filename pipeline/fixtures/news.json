@@ -1,0 +1,6 @@
+[
+ {"id": "samplenews1", "title": "Sample headline: state gaming board publishes self-exclusion enrolment figures", "url": "#", "source": "Sample regulator", "feed_id": "sample", "kind": "regulator", "published": "2026-10-15", "summary": "", "categories": ["regulation", "public-health"], "primary": "public-health", "first_seen": "2026-10-15"},
+ {"id": "samplenews2", "title": "Sample headline: appeals court hears arguments on sports event contracts", "url": "#", "source": "Sample court feed", "feed_id": "sample", "kind": "court", "published": "2026-10-15", "summary": "", "categories": ["prediction-markets", "regulation"], "primary": "prediction-markets", "first_seen": "2026-10-15"},
+ {"id": "samplenews3", "title": "Sample headline: study links in-play betting features to higher losses", "url": "#", "source": "Sample newspaper", "feed_id": "sample", "kind": "press", "published": "2026-10-14", "summary": "", "categories": ["research"], "primary": "research", "first_seen": "2026-10-14"},
+ {"id": "samplenews4", "title": "Sample headline: operator reports record quarterly handle", "url": "#", "source": "Sample trade outlet", "feed_id": "sample", "kind": "trade", "published": "2026-10-14", "summary": "", "categories": ["industry"], "primary": "industry", "first_seen": "2026-10-14"}
+]

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ digest.title }}: {{ site.title }} weekly digest{% endblock %}
+{% block description %}{{ digest.summary or site.descriptor }}{% endblock %}
+{% block content %}
+<article class="prose">
+  <p class="crumb"><a href="/digest/">Weekly digest</a></p>
+  <h1>{{ digest.title }}</h1>
+  <p class="byline">{{ digest.date|fmt_date('long') }}. By {{ site.editor.name }}.</p>
+  {% if digest.summary %}<p class="deck">{{ digest.summary }}</p>{% endif %}
+  {{ digest.html|safe }}
+</article>
+{% endblock %}

@@ -1,0 +1,53 @@
+# Site-wide settings. Edit freely; the build reads this file.
+
+title: Gambling Research
+descriptor: An independent index of new gambling studies and policy news
+url: https://gambling-research.com
+canonical_domain: gambling-research.com
+alt_domain: gamblingresearch.net
+
+editor:
+  name: Chris Beerman
+  credentials: LCSW, CADC
+  orcid: 0009-0004-8277-2086
+
+# Placeholder until a mailbox exists for the domain (see README, "Handoff").
+contact_email: editor@gambling-research.com
+
+github_repo: Chris-Beerman/gambling-research.com
+
+# How much of the index each page shows.
+index_window_days: 90     # /research/ shows studies first seen in this window
+topic_window_days: 365    # topic pages
+news_window_days: 30      # /news/
+home_paper_count: 24
+home_news_days: 7
+home_news_count: 12
+
+# Journals treated as "core" for ranking digest candidates.
+core_journals:
+  - Journal of Gambling Studies
+  - International Gambling Studies
+  - Journal of Gambling Issues
+  - Journal of Behavioral Addictions
+  - Critical Gambling Studies
+  - Addiction
+  - Addictive Behaviors
+  - Psychology of Addictive Behaviors
+  - Addiction Research & Theory
+  - International Journal of Mental Health and Addiction
+  - Gaming Law Review
+  - JAMA
+  - JAMA Internal Medicine
+  - JAMA Psychiatry
+  - JAMA Network Open
+  - The Lancet
+  - The Lancet Public Health
+  - The Lancet Psychiatry
+  - BMJ
+  - Science
+  - Nature
+  - Nature Human Behaviour
+  - American Journal of Psychiatry
+  - Drug and Alcohol Dependence
+  - Journal of Addiction Medicine

@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}: {{ site.title }}{% endblock %}
+{% block description %}{{ page.description or site.descriptor }}{% endblock %}
+{% block content %}
+<article class="prose prose-wide">
+  <h1>{{ page.title }}</h1>
+  {% if page.deck %}<p class="deck">{{ page.deck }}</p>{% endif %}
+  {{ body|safe }}
+
+  <h2 id="sources">Source health</h2>
+  {% if log.sources %}
+  <p>Last run started {{ log.started|replace('T', ' ')|replace('+00:00', ' UTC') }} ({{ log.mode }}). {{ log.papers.added if log.papers else 0 }} studies and {{ log.news.added if log.news else 0 }} news items were new.</p>
+  <table>
+    <thead><tr><th>Source</th><th>Kind</th><th>Status</th><th>Items returned</th></tr></thead>
+    <tbody>
+    {% for s in log.sources %}
+    <tr><td>{{ s.id }}</td><td>{{ s.kind }}</td><td>{% if s.ok %}ok{% else %}failed: {{ s.error }}{% endif %}</td><td>{{ s.items }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% if log.history %}
+  <h3>Recent runs</h3>
+  <table>
+    <thead><tr><th>Finished</th><th>Mode</th><th>Studies added</th><th>News added</th><th>Sources failed</th></tr></thead>
+    <tbody>
+    {% for h in log.history[:14] %}
+    <tr><td>{{ h.finished|replace('T', ' ')|replace('+00:00', ' UTC') }}</td><td>{{ h.mode }}</td><td>{{ h.added }}</td><td>{{ h.news_added }}</td><td>{{ h.failed }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+  {% else %}
+  <p>No run has completed yet.</p>
+  {% endif %}
+
+  <h2 id="tagging">Topic rules</h2>
+  <p>A study is tagged with a topic when its title or abstract matches any of the patterns below (case-insensitive regular expressions). The same rules are in <code>config/taxonomy.yml</code> in the repository, where anyone can propose a change.</p>
+  <table>
+    <thead><tr><th>Topic</th><th>Patterns</th></tr></thead>
+    <tbody>
+    {% for slug, label, pats in topics %}
+    <tr><td><a href="/research/topics/{{ slug }}/">{{ label }}</a></td><td><code>{{ pats|map(attribute='pattern')|join(' | ') }}</code></td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <h3>Design rules</h3>
+  <table>
+    <thead><tr><th>Design</th><th>Patterns</th></tr></thead>
+    <tbody>
+    {% for slug, label, pats in designs %}
+    <tr><td>{{ label }}</td><td><code>{{ pats|map(attribute='pattern')|join(' | ') }}</code></td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</article>
+{% endblock %}

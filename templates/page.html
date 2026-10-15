@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}: {{ site.title }}{% endblock %}
+{% block description %}{{ page.description or site.descriptor }}{% endblock %}
+{% block content %}
+<article class="prose{% if page.wide %} prose-wide{% endif %}">
+  <h1>{{ page.title }}</h1>
+  {% if page.deck %}<p class="deck">{{ page.deck }}</p>{% endif %}
+  {% if page.updated %}<p class="byline">Last checked {{ page.updated|fmt_date('long') }}. Details change; confirm against the source before relying on them.</p>{% endif %}
+  {{ body|safe }}
+</article>
+{% endblock %}

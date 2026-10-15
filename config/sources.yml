@@ -1,0 +1,179 @@
+# Where the nightly index looks. Every source is optional: a source that fails
+# is logged in data/fetch_log.json and shown on /methodology/, and the rest of
+# the run continues. Add, disable or re-order sources here; no code changes needed.
+
+pubmed:
+  enabled: true
+  # PubMed E-utilities. Fields: [tiab] = title/abstract, [mh] = MeSH heading.
+  query: >-
+    (gambling[tiab] OR gambler[tiab] OR gamblers[tiab] OR gambled[tiab] OR
+    gambling[mh] OR "problem gambling"[tiab] OR "gambling disorder"[tiab] OR
+    "sports betting"[tiab] OR "sports bettors"[tiab] OR "sports wagering"[tiab] OR
+    bettors[tiab] OR "online betting"[tiab] OR wagering[tiab] OR
+    lottery[tiab] OR lotteries[tiab] OR "scratch cards"[tiab] OR
+    casino[tiab] OR casinos[tiab] OR "slot machine"[tiab] OR "slot machines"[tiab] OR
+    "electronic gaming machines"[tiab] OR "poker machines"[tiab] OR
+    "loot box"[tiab] OR "loot boxes"[tiab] OR
+    "prediction market"[tiab] OR "prediction markets"[tiab] OR
+    "event contracts"[tiab] OR "self-exclusion"[tiab] OR "daily fantasy"[tiab] OR
+    "esports betting"[tiab])
+  # Window for the nightly run (days back by entry date). The first run backfills further.
+  days: 14
+  backfill_days: 120
+
+openalex:
+  enabled: true
+  # Boolean search over title + abstract. OpenAlex supports AND / OR / NOT and quoted phrases.
+  search: >-
+    gambling OR gambler OR gamblers OR "problem gambling" OR "gambling disorder" OR
+    "sports betting" OR "sports bettors" OR "sports wagering" OR bettors OR wagering OR
+    "online betting" OR lottery OR lotteries OR "scratch cards" OR casino OR casinos OR
+    "slot machine" OR "slot machines" OR "electronic gaming machines" OR "poker machines" OR
+    "loot box" OR "loot boxes" OR "prediction market" OR "prediction markets" OR
+    "event contracts" OR "self-exclusion" OR "daily fantasy" OR "esports betting"
+  types: article|review|preprint|letter|editorial|report
+  days: 21
+  backfill_days: 120
+  # Optional contact for OpenAlex's polite pool (faster, more reliable). Leave blank or
+  # set the OPENALEX_MAILTO repository secret.
+  mailto: ""
+
+crossref:
+  enabled: true
+  days: 21
+  backfill_days: 120
+  # Dedicated gambling journals: everything they register is indexed. Broad journals
+  # (Addiction, Addictive Behaviors, ...) are covered by PubMed and OpenAlex.
+  journals:
+    - name: Journal of Gambling Studies
+      issn: ["1573-3602", "1050-5350"]
+    - name: International Gambling Studies
+      issn: ["1479-4276", "1445-9795"]
+    - name: Journal of Gambling Issues
+      issn: ["1910-7595"]
+    - name: Journal of Behavioral Addictions
+      issn: ["2063-5303", "2062-5871"]
+    - name: Critical Gambling Studies
+      issn: ["2563-190X"]
+    - name: Gaming Law Review
+      issn: ["2572-5300", "2572-5297"]
+      note: verify ISSNs
+
+# Journal RSS/Atom feeds. Entries are matched to the same relevance filter as the
+# API sources, so broad journals are safe to include.
+journal_feeds:
+  - id: igs
+    name: International Gambling Studies
+    url: https://www.tandfonline.com/feed/rss/rigs20
+  - id: art
+    name: Addiction Research & Theory
+    url: https://www.tandfonline.com/feed/rss/iart20
+  - id: jswpa
+    name: Journal of Social Work Practice in the Addictions
+    url: https://www.tandfonline.com/feed/rss/wswp20
+  - id: addiction
+    name: Addiction
+    url: https://onlinelibrary.wiley.com/feed/13600443/most-recent
+  - id: addictive-behaviors
+    name: Addictive Behaviors
+    url: https://rss.sciencedirect.com/publication/science/03064603
+  - id: cbp
+    name: Cognitive and Behavioral Practice
+    url: https://rss.sciencedirect.com/publication/science/10777229
+  - id: cgs
+    name: Critical Gambling Studies
+    url: https://criticalgamblingstudies.com/index.php/cgs/gateway/plugin/WebFeedGatewayPlugin/rss2
+    note: standard OJS feed path; confirm on first run
+  - id: jgs
+    name: Journal of Gambling Studies
+    url: https://link.springer.com/search.rss?facet-journal-id=10899&channel-name=Journal+of+Gambling+Studies
+    note: Springer search feed; confirm on first run
+  - id: ijmha
+    name: International Journal of Mental Health and Addiction
+    url: https://link.springer.com/search.rss?query=gambling&facet-journal-id=11469&channel-name=IJMHA
+    note: Springer search feed; confirm on first run
+  - id: jft
+    name: Journal of Financial Therapy
+    url: https://journals.newprairiepress.org/jft/recent.rss
+    note: bepress feed; confirm on first run
+  - id: glr
+    name: Gaming Law Review
+    url: https://www.liebertpub.com/action/showFeed?type=etoc&feed=rss&jc=glr
+    note: confirm on first run
+  - id: medrxiv-addiction
+    name: medRxiv (addiction medicine)
+    url: https://connect.medrxiv.org/medrxiv_xml/?subject=Addiction_Medicine
+    note: preprints; confirm on first run
+
+# News feeds. Each item must match the inclusion patterns in taxonomy.yml to be kept.
+# "kind" steers the default category when the headline is ambiguous.
+news_feeds:
+  - id: lsr
+    name: Legal Sports Report
+    url: https://www.legalsportsreport.com/feed/
+    kind: trade
+  - id: sbc-americas
+    name: SBC Americas
+    url: https://sbcamericas.com/feed/
+    kind: trade
+  - id: sports-handle
+    name: Sports Handle
+    url: https://sportshandle.com/feed/
+    kind: trade
+  - id: cdc-gaming
+    name: CDC Gaming
+    url: https://cdcgaming.com/feed/
+    kind: trade
+  - id: igb
+    name: iGaming Business
+    url: https://igamingbusiness.com/feed/
+    kind: trade
+  - id: aga
+    name: American Gaming Association
+    url: https://www.americangaming.org/feed/
+    kind: industry
+  - id: ncpg
+    name: National Council on Problem Gambling
+    url: https://www.ncpgambling.org/feed/
+    kind: public-health
+  - id: guardian-gambling
+    name: The Guardian (gambling)
+    url: https://www.theguardian.com/society/gambling/rss
+    kind: press
+  - id: cftc
+    name: CFTC press releases
+    url: https://www.cftc.gov/RSS/RSSGP/rssgp.xml
+    kind: regulator
+  - id: federal-register-cftc
+    name: Federal Register (CFTC)
+    url: https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=commodity-futures-trading-commission
+    kind: regulator
+  - id: ukgc
+    name: UK Gambling Commission
+    url: https://www.gamblingcommission.gov.uk/news/rss
+    kind: regulator
+    note: confirm feed URL on first run
+  - id: courtlistener-kalshi
+    name: CourtListener (Kalshi)
+    url: https://www.courtlistener.com/feed/search/?q=kalshi
+    kind: court
+    note: confirm on first run
+  - id: gnews-problem-gambling
+    name: Google News
+    url: https://news.google.com/rss/search?q=%22problem+gambling%22+OR+%22gambling+addiction%22+OR+%22gambling+disorder%22&hl=en-US&gl=US&ceid=US:en
+    kind: press
+  - id: gnews-betting-law
+    name: Google News
+    url: https://news.google.com/rss/search?q=%22sports+betting%22+(bill+OR+law+OR+lawsuit+OR+regulator+OR+ruling+OR+legislature)&hl=en-US&gl=US&ceid=US:en
+    kind: press
+  - id: gnews-prediction-markets
+    name: Google News
+    url: https://news.google.com/rss/search?q=%22prediction+markets%22+OR+Kalshi+OR+Polymarket&hl=en-US&gl=US&ceid=US:en
+    kind: press
+  - id: gnews-self-exclusion
+    name: Google News
+    url: https://news.google.com/rss/search?q=%22self-exclusion%22+gambling&hl=en-US&gl=US&ceid=US:en
+    kind: press
+
+# Cap per source per day so one feed cannot flood the page.
+news_max_per_source_per_day: 10

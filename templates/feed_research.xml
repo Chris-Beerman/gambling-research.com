@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ site.title }}: new studies</title>
+<link>{{ site.url }}/research/</link>
+<atom:link href="{{ site.url }}/research/feed.xml" rel="self" type="application/rss+xml"/>
+<description>New peer-reviewed studies and preprints on gambling, betting, lotteries, loot boxes and prediction markets, as they enter the index.</description>
+<language>en</language>
+{% for p in papers %}
+<item>
+<title>{{ p.title }}</title>
+<link>{{ p.url }}</link>
+<guid isPermaLink="false">{{ p.id }}</guid>
+<pubDate>{{ p.first_seen|rfc822(7) }}</pubDate>
+<description>{{ p.journal }}{% if p.published %}, {{ p.published|fmt_date }}{% endif %}. {{ p.authors|authors_line }}.{% if p.summary %} {{ p.summary }}{% endif %}{% if p.topics %} Topics: {{ p.topics|map('topic_label')|join(', ') }}.{% endif %}</description>
+</item>
+{% endfor %}
+</channel>
+</rss>

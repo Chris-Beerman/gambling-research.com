@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ site.title }}: weekly digest</title>
+<link>{{ site.url }}/digest/</link>
+<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+<description>{{ site.descriptor }}. Each week: the studies worth reading and the policy news that matters.</description>
+<language>en</language>
+{% for dg in digests %}
+<item>
+<title>{{ dg.title }}</title>
+<link>{{ site.url }}{{ dg.url }}</link>
+<guid isPermaLink="true">{{ site.url }}{{ dg.url }}</guid>
+<pubDate>{{ dg.date|string|rfc822 }}</pubDate>
+<description>{{ dg.summary }}</description>
+</item>
+{% endfor %}
+</channel>
+</rss>

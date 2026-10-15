@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Topics: {{ site.title }}{% endblock %}
+{% block description %}New gambling research by topic, from sports betting and prediction markets to treatment, self-exclusion and advertising.{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="crumb"><a href="/research/">New research</a></p>
+  <h1>Topics</h1>
+  <p class="page-deck">Counts are for studies that entered the index in the past {{ window }} days. Tags come from keyword rules applied to titles and abstracts, listed on the <a href="/methodology/#tagging">methodology page</a>.</p>
+</section>
+<ul class="topic-grid">
+  {% for slug, label, n in topics %}
+  <li><a href="/research/topics/{{ slug }}/">{{ label|capitalize }}</a> <span class="count">{{ n }}</span></li>
+  {% endfor %}
+</ul>
+{% endblock %}

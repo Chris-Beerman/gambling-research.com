@@ -1,0 +1,74 @@
+[
+ {
+  "id": "sample:1", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: in-play betting and lapse after a quit attempt in a cohort of sports bettors",
+  "journal": "Sample Journal of Gambling Studies", "authors": ["Alex Sample", "Jordan Example", "Casey Placeholder", "Riley Demo"],
+  "published": "2026-10-09", "year": 2026, "created": "2026-10-12", "first_seen": "2026-10-14",
+  "summary": "This is a sample record shown until the first nightly index run completes. Real entries carry the opening sentence or two of the abstract here, with a link to the publisher's record.",
+  "url": "#", "oa_url": "#", "sources": ["pubmed", "openalex"], "type": "article",
+  "topics": ["sports-betting", "treatment", "online-gambling"], "designs": ["longitudinal", "survey"], "countries": ["US"], "regions": ["us"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:2", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: documented self-exclusion coverage across event-contract and wagering pathways in one US state",
+  "journal": "Sample International Gambling Studies", "authors": ["Morgan Sample", "Taylor Example"],
+  "published": "2026-10-07", "year": 2026, "created": "2026-10-10", "first_seen": "2026-10-13",
+  "summary": "Sample record. A documentary audit design with no human participants; the real version would summarise what the audit counted and found.",
+  "url": "#", "oa_url": null, "sources": ["crossref"], "type": "article",
+  "topics": ["self-exclusion", "prediction-markets", "policy"], "designs": ["behavioral-data"], "countries": ["US"], "regions": ["us"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:3", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: opting out of direct marketing and subsequent betting, a randomised field experiment",
+  "journal": "Sample Addiction", "authors": ["Sam Sample", "Drew Example", "Jamie Placeholder"],
+  "published": "2026-10-03", "year": 2026, "created": "2026-10-06", "first_seen": "2026-10-08",
+  "summary": "Sample record illustrating a randomised trial entry. The free-full-text tag appears when PubMed Central or OpenAlex reports an open copy.",
+  "url": "#", "oa_url": "#", "sources": ["pubmed", "openalex", "feed:addiction"], "type": "article",
+  "topics": ["advertising", "sports-betting", "prevention"], "designs": ["trial"], "countries": ["AU"], "regions": ["australia-nz"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:4", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: seasonality of searches for gambling help across the sports calendar, 2019 to 2026",
+  "journal": "Sample Journal of Gambling Studies", "authors": ["Quinn Sample"],
+  "published": "2026-09-29", "year": 2026, "created": "2026-10-01", "first_seen": "2026-10-02",
+  "summary": "Sample record for a public-data study. Country tags come from author affiliations, not from where the data were collected.",
+  "url": "#", "oa_url": null, "sources": ["openalex"], "type": "article",
+  "topics": ["treatment", "prevalence", "sports-betting"], "designs": ["behavioral-data"], "countries": ["US"], "regions": ["us"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:5", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: loot-box spending, gambling cognitions and problem gambling in adolescents, a cross-sectional survey",
+  "journal": "Sample Addictive Behaviors", "authors": ["Avery Sample", "Reese Example", "Rowan Placeholder", "Parker Demo", "Skyler Test"],
+  "published": "2026-09-25", "year": 2026, "created": "2026-09-27", "first_seen": "2026-09-30",
+  "summary": "Sample record. Up to three family names are shown, then a count of the rest.",
+  "url": "#", "oa_url": "#", "sources": ["pubmed"], "type": "article",
+  "topics": ["loot-boxes", "youth", "cognition", "measurement"], "designs": ["survey"], "countries": ["GB"], "regions": ["uk-ireland"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:6", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: prediction markets and the regulation of sports event contracts, a commentary",
+  "journal": "Sample Gaming Law Review", "authors": ["Harper Sample"],
+  "published": "2026-09-20", "year": 2026, "created": "2026-09-22", "first_seen": "2026-09-23",
+  "summary": "Sample record for a commentary. Letters, editorials and commentaries are tagged as such so the digest can weigh them accordingly.",
+  "url": "#", "oa_url": null, "sources": ["crossref"], "type": "editorial",
+  "topics": ["prediction-markets", "policy"], "designs": ["commentary"], "countries": ["US"], "regions": ["us"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:7", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: a systematic review of treatments for gambling-like trading",
+  "journal": "Sample Journal of Behavioral Addictions", "authors": ["Emerson Sample", "Finley Example"],
+  "published": "2026-09-15", "year": 2026, "created": "2026-09-16", "first_seen": "2026-09-17",
+  "summary": "Sample record for a review.",
+  "url": "#", "oa_url": "#", "sources": ["pubmed", "openalex"], "type": "review",
+  "topics": ["trading", "treatment"], "designs": ["review"], "countries": ["IT"], "regions": ["europe"], "language": "en", "relevance": "high", "retracted": false
+ },
+ {
+  "id": "sample:8", "doi": null, "pmid": null, "pmcid": null, "openalex": null,
+  "title": "Sample record: lottery incentives for survey participation, a methodological note",
+  "journal": "Sample Methods Journal", "authors": ["Blake Sample"],
+  "published": "2026-09-14", "year": 2026, "created": "2026-09-14", "first_seen": "2026-09-15",
+  "summary": "Sample of a low-relevance record: it mentions lotteries only as a survey incentive, so it is kept out of the main list and shown under possibly related.",
+  "url": "#", "oa_url": null, "sources": ["openalex"], "type": "article",
+  "topics": ["lottery"], "designs": ["survey"], "countries": [], "regions": [], "language": "en", "relevance": "low", "retracted": false
+ }
+]

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}{{ label }}: archive: {{ site.title }}{% endblock %}
+{% block description %}Gambling studies that entered the index in {{ label }}.{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="crumb"><a href="/research/">New research</a> / <a href="/research/archive/">Archive</a></p>
+  <h1>{{ label }}</h1>
+  <p class="page-deck">{{ papers|length }} studies entered the index this month.</p>
+</section>
+<ol class="ledger">
+  {% for p in papers %}{{ m.entry(p) }}{% endfor %}
+</ol>
+<nav class="month-nav" aria-label="Other months">
+  {% for x, l, n in months %}<a href="/research/archive/{{ x[:4] }}/{{ x[5:7] }}/"{% if x == ym %} aria-current="page"{% endif %}>{{ l }} <span class="count">{{ n }}</span></a>{% endfor %}
+</nav>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}Gambling policy and news: {{ site.title }}{% endblock %}
+{% block description %}Regulation, court rulings, prediction markets, public health and treatment news about gambling from the past {{ window }} days, collected from regulators, the press and trade outlets.{% endblock %}
+{% block content %}
+<section class="page-head">
+  <h1>Policy and news</h1>
+  <p class="page-deck">{{ count }} items from the past {{ window }} days, collected from regulators, courts, the press and trade outlets and sorted by category. Headlines link to the original source; nothing is rewritten here. Items are categorised by keyword, so expect the occasional miss.</p>
+</section>
+<form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
+  <div class="filter-row">
+    <label class="filter-search"><span class="visually-hidden">Search headlines and sources</span><input type="search" id="q" placeholder="Search headlines and sources" autocomplete="off"></label>
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Categories">
+    {% for s, l, n in categories %}<button type="button" class="chip" data-cat="{{ s }}" id="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <p class="filter-status" id="status" aria-live="polite"></p>
+</form>
+<div id="list">
+{% for day, items in days %}
+<section class="week" data-day="{{ day }}">
+  <h2 class="week-head"><span>{{ day|fmt_date('long') }}</span><span class="count">{{ items|length }}</span></h2>
+  <ol class="ledger ledger-news">
+    {% for n in items %}{{ m.news_item(n, show_summary=True) }}{% endfor %}
+  </ol>
+</section>
+{% else %}
+<p class="empty">No news yet. The nightly run fills this in.</p>
+{% endfor %}
+</div>
+{% endblock %}
+{% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}

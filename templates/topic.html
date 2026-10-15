@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}{{ label|capitalize }}: new gambling research by topic: {{ site.title }}{% endblock %}
+{% block description %}Studies tagged "{{ label }}" that entered the index in the past {{ window }} days.{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="crumb"><a href="/research/">New research</a> / <a href="/research/topics/">Topics</a></p>
+  <h1>{{ label|capitalize }}</h1>
+  <p class="page-deck">{{ count }} studies in the past {{ window }} days. Tags are assigned automatically from titles and abstracts; a study can carry several.</p>
+</section>
+<ol class="ledger">
+  {% for p in papers %}{{ m.entry(p) }}{% else %}<li class="empty">Nothing tagged "{{ label }}" yet.</li>{% endfor %}
+</ol>
+{% endblock %}

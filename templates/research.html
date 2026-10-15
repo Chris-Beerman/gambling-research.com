@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}{% if borderline %}Possibly related studies{% else %}New gambling research{% endif %}: {{ site.title }}{% endblock %}
+{% block description %}{% if borderline %}Studies that mention gambling or betting in passing, kept separate from the main index.{% else %}Every new study on gambling, betting, lotteries, loot boxes and prediction markets from the past {{ window }} days, with filters by topic, country, design and free full text.{% endif %}{% endblock %}
+{% block content %}
+<section class="page-head">
+  {% if borderline %}
+  <h1>Possibly related</h1>
+  <p class="page-deck">{{ count }} items from the past {{ window }} days that mention gambling, betting or lotteries only in passing, usually economics papers that use lotteries as a method or neuroscience papers that use a gambling task. They are kept out of the <a href="/research/">main index</a> and listed here so that misfiled studies can be found and corrected.</p>
+  {% else %}
+  <h1>New research</h1>
+  <p class="page-deck">{{ count }} studies added in the past {{ window }} days{% if this_week_count %}, {{ this_week_count }} of them this week{% endif %}. Dates in the margin are when a study entered the index; the publication date follows the journal name. <a href="/research/archive/">Older months</a>, <a href="/research/topics/">topic pages</a>, <a href="/research/feed.xml">RSS feed</a>.</p>
+  {% endif %}
+</section>
+
+{% if not borderline %}
+<form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
+  <div class="filter-row">
+    <label class="filter-search"><span class="visually-hidden">Search titles, journals and authors</span><input type="search" id="q" placeholder="Search titles, journals, authors" autocomplete="off"></label>
+    <label class="filter-select"><span class="visually-hidden">Country or region</span><select id="region"><option value="">Any region</option>{% for s, l, n in regions %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
+    <label class="filter-select"><span class="visually-hidden">Study design</span><select id="design"><option value="">Any design</option>{% for s, l, n in designs %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
+    <label class="filter-check"><input type="checkbox" id="oa"> Free full text only</label>
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Topics">
+    {% for s, l, n in topics %}<button type="button" class="chip" data-topic="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <p class="filter-status" id="status" aria-live="polite"></p>
+</form>
+{% endif %}
+
+<div id="list">
+{% for monday, papers in weeks %}
+<section class="week" data-week="{{ monday }}">
+  <h2 class="week-head"><span>Week of {{ monday|fmt_date('long') }}</span><span class="count">{{ papers|length }}</span></h2>
+  <ol class="ledger">
+    {% for p in papers %}{{ m.entry(p) }}{% endfor %}
+  </ol>
+</section>
+{% else %}
+<p class="empty">Nothing in this window yet.</p>
+{% endfor %}
+</div>
+{% if not borderline %}
+<p class="fine">Something misfiled, or a study missing? <a href="/methodology/#corrections">How to report it</a>. Items judged only loosely related are listed under <a href="/research/borderline/">possibly related</a>.</p>
+{% endif %}
+{% endblock %}
+{% block scripts %}{% if not borderline %}<script src="/static/filters.js" defer></script>{% endif %}{% endblock %}
