@@ -207,9 +207,10 @@ class Builder:
         (SITE_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {self.site['url']}/sitemap.xml\n")
         # Public copies of the index.
         (SITE_DIR / "data").mkdir()
-        for name in ("papers.json", "news.json", "fetch_log.json"):
+        for name in ("papers.json", "news.json", "fetch_log.json", "weekly/latest.json"):
             src = DATA_DIR / name
             if src.exists():
+                (SITE_DIR / "data" / name).parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy(src, SITE_DIR / "data" / name)
 
         window = self.site.get("index_window_days", 90)
