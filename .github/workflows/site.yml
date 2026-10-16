@@ -43,6 +43,7 @@ jobs:
       - name: Fetch sources and update the index
         if: github.event_name != 'push'
         env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}

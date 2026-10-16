@@ -18,6 +18,11 @@ SELECT = ",".join(
 
 
 def fetch(s, cfg: dict, days: int) -> list[dict]:
+    # OpenAlex has required an API key on every request since February 13, 2026.
+    # Keys are free: https://openalex.org/settings/api. Set the OPENALEX_API_KEY repository secret.
+    api_key = os.environ.get("OPENALEX_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("OpenAlex needs a free API key (openalex.org/settings/api); set the OPENALEX_API_KEY repository secret")
     mailto = os.environ.get("OPENALEX_MAILTO") or cfg.get("mailto") or ""
     since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
     search = " ".join(str(cfg["search"]).split())
@@ -25,7 +30,7 @@ def fetch(s, cfg: dict, days: int) -> list[dict]:
     cursor = "*"
     out: list[dict] = []
     while cursor:
-        params = {"filter": filt, "per-page": "200", "cursor": cursor, "select": SELECT}
+        params = {"filter": filt, "per-page": "200", "cursor": cursor, "select": SELECT, "api_key": api_key}
         if mailto:
             params["mailto"] = mailto
         r = get(s, API, params=params)

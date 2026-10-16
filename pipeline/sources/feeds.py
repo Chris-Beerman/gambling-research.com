@@ -53,7 +53,12 @@ def fetch_journal_feed(s, feed: dict) -> list[dict]:
         doi = _doi_from_entry(e)
         authors = [clean_text(a.get("name", "")) for a in (e.get("authors") or []) if a.get("name")]
         if not authors and e.get("author"):
-            authors = [clean_text(a) for a in re.split(r",\s*|\s+and\s+", e["author"]) if a.strip()]
+            authors = [clean_text(e["author"])]
+        if len(authors) == 1 and ("," in authors[0] or " and " in authors[0]):
+            # OJS and Springer feeds put every author in one dc:creator string.
+            parts = [a.strip() for a in re.split(r",\s*|;\s*|\s+and\s+", authors[0]) if a.strip()]
+            if all(len(x.split()) <= 5 for x in parts):
+                authors = parts
         summary = clean_text(e.get("summary") or (e.get("content") or [{}])[0].get("value", ""))
         d = _entry_date(e)
         out.append(

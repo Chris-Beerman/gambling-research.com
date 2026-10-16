@@ -34,12 +34,15 @@ def run(backfill: bool = False, only: set[str] | None = None) -> int:
         return not only or name in only
 
     def record(name: str, kind: str, fn):
-        entry = {"id": name, "kind": kind, "ok": False, "items": 0, "error": None}
+        entry = {"id": name, "kind": kind, "ok": False, "items": 0, "error": None, "warning": None}
+        warnings: list[str] = []
         try:
-            items = fn()
+            items = fn(warnings) if name == "crossref" else fn()
             entry["ok"] = True
             entry["items"] = len(items)
-            print(f"  {name}: {len(items)} items", file=sys.stderr)
+            if warnings:
+                entry["warning"] = "; ".join(warnings)[:400]
+            print(f"  {name}: {len(items)} items" + (f" (warnings: {entry['warning']})" if warnings else ""), file=sys.stderr)
             return items
         except Exception as e:  # noqa: BLE001
             entry["error"] = f"{type(e).__name__}: {str(e)[:300]}"
@@ -58,7 +61,7 @@ def run(backfill: bool = False, only: set[str] | None = None) -> int:
         raw_papers += record("openalex", "papers", lambda: openalex.fetch(s, cfg, cfg["backfill_days"] if backfill else cfg["days"]))
     if want("crossref") and sources_cfg.get("crossref", {}).get("enabled"):
         cfg = sources_cfg["crossref"]
-        raw_papers += record("crossref", "papers", lambda: crossref.fetch(s, cfg, cfg["backfill_days"] if backfill else cfg["days"]))
+        raw_papers += record("crossref", "papers", lambda w: crossref.fetch(s, cfg, cfg["backfill_days"] if backfill else cfg["days"], w))
     if want("journals"):
         for feed in sources_cfg.get("journal_feeds", []):
             if feed.get("enabled", True):

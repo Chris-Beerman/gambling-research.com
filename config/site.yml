@@ -24,6 +24,31 @@ home_paper_count: 24
 home_news_days: 7
 home_news_count: 12
 
+# Display names for journals whose PubMed name differs from the proper one.
+journal_names:
+  - Frontiers in Psychology
+  - Frontiers in Public Health
+  - Frontiers in Psychiatry
+  - European Psychiatry
+  - Journal of American College Health
+  - General Hospital Psychiatry
+  - Journal of Clinical Oncology
+  - BMC Public Health
+  - BMJ Open
+  - PLOS ONE
+  - Journal of Medical Internet Research
+  - JMIR Mental Health
+  - Addictive Behaviors Reports
+  - Comprehensive Psychiatry
+  - Journal of Psychiatric Research
+  - Psychiatry Research
+  - BMC Psychiatry
+  - Substance Use & Misuse
+  - Journal of Substance Use and Addiction Treatment
+  - Health Promotion International
+  - Harm Reduction Journal
+  - Scientific Reports
+
 # Journals treated as "core" for ranking digest candidates.
 core_journals:
   - Journal of Gambling Studies

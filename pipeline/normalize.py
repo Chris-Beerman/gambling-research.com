@@ -4,12 +4,53 @@ from __future__ import annotations
 import datetime as dt
 import re
 
-from .common import norm_title, stable_id, summarize
+from .common import load_yaml, norm_title, stable_id, summarize
+
+_SMALL_WORDS = {"of", "and", "the", "in", "for", "on", "a", "an", "to", "at", "by", "or", "de", "et", "la", "le", "les", "des", "du", "der", "die", "das", "und", "für", "von", "&"}
+_PAREN = re.compile(r"\s*\([^)]*\)\s*$")
+
+
+def _title_case(name: str) -> str:
+    words = name.split()
+    out = []
+    for i, w in enumerate(words):
+        if w.isupper() and len(w) > 1:  # JAMA, BMJ, PLOS
+            out.append(w)
+        elif i > 0 and w.lower() in _SMALL_WORDS:
+            out.append(w.lower())
+        else:
+            out.append(w[:1].upper() + w[1:])
+    return " ".join(out)
+
+
+class JournalNames:
+    """PubMed reports journals in sentence case with subtitles ("Journal of
+    gambling studies", "Addiction (Abingdon, England)"); feeds and Crossref use
+    the proper name. Map everything to one display name."""
+
+    def __init__(self, known: list[str]):
+        self.known = {k.lower(): k for k in known}
+
+    def canonical(self, name: str | None) -> str:
+        if not name:
+            return ""
+        n = name.strip()
+        n = n.split(" : ")[0].strip()  # "Psychology of addictive behaviors : journal of the Society..."
+        n = _PAREN.sub("", n)  # "Addiction (Abingdon, England)"
+        key = n.lower()
+        if key in self.known:
+            return self.known[key]
+        # Sentence-case names from PubMed: first letter capital, the rest lower.
+        if n == n[:1].upper() + n[1:].lower() and " " in n:
+            return _title_case(n)
+        return n
 
 
 class Taxonomy:
     def __init__(self, cfg: dict):
         self.cfg = cfg
+        site = load_yaml("site.yml")
+        self.journals = JournalNames(list(site.get("core_journals", [])) + list(site.get("journal_names", [])))
         rel = cfg.get("relevance", {})
         self.strong = [re.compile(p, re.I) for p in rel.get("strong", [])]
         self.weak = [re.compile(p, re.I) for p in rel.get("weak", [])]
@@ -109,23 +150,39 @@ def _prio(source: str) -> int:
     return SOURCE_PRIORITY.get(source.split(":")[0], 0)
 
 
+def _prefix_match(nt: str, titles: dict[str, str]) -> str | None:
+    """A feed that drops subtitles ("Solidarity and Chance") should still merge
+    with the full record ("Solidarity and Chance: Bingo in Italy")."""
+    if len(nt) < 15:
+        return None
+    for full, key in titles.items():
+        if full.startswith(nt + " ") or nt.startswith(full + " "):
+            return key
+    return None
+
+
 def merge_raw(raw: list[dict]) -> dict[str, dict]:
     """Group raw records by DOI/PMID/title, merging fields by source priority."""
     groups: dict[str, dict] = {}
     pmid_to_key: dict[str, str] = {}
     title_to_key: dict[str, str] = {}
-    for rec in raw:
+    # DOI-bearing records first so that DOI-less feed items attach to them.
+    ordered = sorted(raw, key=lambda r: 0 if r.get("doi") else 1)
+    for rec in ordered:
         if not rec.get("title"):
             continue
         key = key_for(rec)
         # Link records that lack a DOI to an existing DOI group via PMID or title.
         if not key.startswith("doi:"):
+            nt = norm_title(rec["title"])[:200]
             if rec.get("pmid") and rec["pmid"] in pmid_to_key:
                 key = pmid_to_key[rec["pmid"]]
+            elif nt in title_to_key:
+                key = title_to_key[nt]
             else:
-                nt = norm_title(rec["title"])[:200]
-                if nt in title_to_key:
-                    key = title_to_key[nt]
+                pm = _prefix_match(nt, title_to_key)
+                if pm:
+                    key = pm
         g = groups.get(key)
         if g is None:
             g = {"sources": [], "_recs": []}
@@ -190,7 +247,7 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
         "pmcid": pmcid,
         "openalex": first("openalex"),
         "title": title,
-        "journal": first("journal") or "",
+        "journal": tax.journals.canonical(first("journal")),
         "authors": (first("authors") or [])[:50],
         "published": published,
         "year": int(published[:4]) if published else None,
@@ -232,7 +289,12 @@ def update_index(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt
                     prev = by_pmid[r["pmid"]]
                     break
             if prev is None:
-                prev = by_title.get(norm_title(sample["title"])[:200])
+                nt = norm_title(sample["title"])[:200]
+                prev = by_title.get(nt)
+                if prev is None and not any(r.get("doi") for r in group["_recs"]):
+                    pm = _prefix_match(nt, {t: p["id"] for t, p in by_title.items()})
+                    if pm:
+                        prev = by_id.get(pm)
         rec = canonical(key, group, tax, today, prev)
         if rec is None:
             dropped += 1

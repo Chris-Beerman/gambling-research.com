@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import datetime as dt
 import hashlib
+import html
 import json
 import os
 import re
@@ -88,8 +89,8 @@ def clean_text(s: str | None) -> str:
     if not s:
         return ""
     s = re.sub(r"<[^>]+>", " ", s)  # strip tags (JATS inline markup, HTML in feeds)
-    s = s.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"').replace("&#39;", "'").replace("&nbsp;", " ")
-    return _WS.sub(" ", s).strip()
+    s = html.unescape(s)
+    return _WS.sub(" ", s.replace("\xa0", " ")).strip()
 
 
 def norm_title(title: str) -> str:

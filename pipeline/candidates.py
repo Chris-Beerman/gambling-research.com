@@ -10,7 +10,7 @@ from .common import DATA_DIR, load_yaml, save_json
 
 def score(p: dict, core: set[str]) -> tuple[int, list[str]]:
     s, why = 0, []
-    if (p.get("journal") or "") in core:
+    if (p.get("journal") or "").lower() in core:
         s += 3
         why.append("core journal")
     d = set(p.get("designs") or [])
@@ -44,7 +44,7 @@ def score(p: dict, core: set[str]) -> tuple[int, list[str]]:
 
 def write_candidates(papers: list[dict], news: list[dict], today: dt.date, days: int = 7) -> dict:
     site = load_yaml("site.yml")
-    core = set(site.get("core_journals", []))
+    core = {j.lower() for j in site.get("core_journals", [])}
     since = (today - dt.timedelta(days=days)).isoformat()
     week = [p for p in papers if (p.get("first_seen") or "") >= since and p.get("relevance") == "high"]
     ranked = []

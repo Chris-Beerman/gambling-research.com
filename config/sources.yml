@@ -34,8 +34,8 @@ openalex:
   types: article|review|preprint|letter|editorial|report
   days: 21
   backfill_days: 120
-  # Optional contact for OpenAlex's polite pool (faster, more reliable). Leave blank or
-  # set the OPENALEX_MAILTO repository secret.
+  # OpenAlex requires a free API key since Feb 13, 2026 (openalex.org/settings/api):
+  # set it as the OPENALEX_API_KEY repository secret. OPENALEX_MAILTO is optional.
   mailto: ""
 
 crossref:
@@ -56,8 +56,9 @@ crossref:
     - name: Critical Gambling Studies
       issn: ["2563-190X"]
     - name: Gaming Law Review
-      issn: ["2572-5300", "2572-5297"]
-      note: verify ISSNs
+      issn: ["2572-5300", "2572-5327"]
+    - name: Journal of Financial Therapy
+      issn: ["1944-9771", "1945-7774"]
 
 # Journal RSS/Atom feeds. Entries are matched to the same relevance filter as the
 # API sources, so broad journals are safe to include.
@@ -92,18 +93,14 @@ journal_feeds:
     name: International Journal of Mental Health and Addiction
     url: https://link.springer.com/search.rss?query=gambling&facet-journal-id=11469&channel-name=IJMHA
     note: Springer search feed; confirm on first run
-  - id: jft
-    name: Journal of Financial Therapy
-    url: https://journals.newprairiepress.org/jft/recent.rss
-    note: bepress feed; confirm on first run
   - id: glr
     name: Gaming Law Review
     url: https://www.liebertpub.com/action/showFeed?type=etoc&feed=rss&jc=glr
     note: confirm on first run
   - id: medrxiv-addiction
     name: medRxiv (addiction medicine)
-    url: https://connect.medrxiv.org/medrxiv_xml/?subject=Addiction_Medicine
-    note: preprints; confirm on first run
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=addiction_medicine
+    note: preprints; RSS 1.0, most recent 30
 
 # News feeds. Each item must match the inclusion patterns in taxonomy.yml to be kept.
 # "kind" steers the default category when the headline is ambiguous.
@@ -152,7 +149,12 @@ news_feeds:
     name: UK Gambling Commission
     url: https://www.gamblingcommission.gov.uk/news/rss
     kind: regulator
-    note: confirm feed URL on first run
+    enabled: false
+    note: the Commission's site serves HTML at every feed-like path; covered by the Google News query below
+  - id: gnews-ukgc
+    name: Google News
+    url: https://news.google.com/rss/search?q=%22Gambling+Commission%22+(UK+OR+Britain+OR+British)&hl=en-GB&gl=GB&ceid=GB:en
+    kind: regulator
   - id: courtlistener-kalshi
     name: CourtListener (Kalshi)
     url: https://www.courtlistener.com/feed/search/?q=kalshi

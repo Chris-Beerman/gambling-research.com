@@ -30,6 +30,8 @@ relevance:
     - "\\bgambling task\\b"
     - "lottery (incentive|voucher|based|draw for|system for|allocation|assignment|mechanism)|by lottery|lottery design|randomi[sz]ed lottery"
     - "cambridge gambling task"
+    - "gambl\\w* (on|with) (the|our|their|its|a) (future|economy|lives|health|climate|planet)"
+    - "(won|win|winning) .{0,30}(the )?lottery"
 
 # Same idea for news headlines: at least one inclusion match.
 news_include:
@@ -49,6 +51,10 @@ news_include:
 news_exclude:
   - "\\bodds\\b.*(election|poll|weather)"   # "odds" in non-betting senses
   - "video game(s)? (review|sales)"
+  # Picks, previews and promo-code content from affiliate sites
+  - "\\bvs\\.? .*\\b(odds|picks?|predictions?|preview|props|parlay)\\b"
+  - "promo code|bonus code|best bets?\\b|player props|odds today|betting preview|parlay picks|odds, picks|picks and predictions|how to bet on|betting guide|sportsbook promo|sign.up bonus"
+  - "hires and higher.ups|people moves|executive (appointments|moves)"
 
 news_categories:
   - slug: public-health

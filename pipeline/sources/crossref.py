@@ -10,7 +10,9 @@ from ..common import clean_text, get, iso, norm_doi, parse_date
 API = "https://api.crossref.org/journals/{issn}/works"
 
 
-def fetch(s, cfg: dict, days: int) -> list[dict]:
+def fetch(s, cfg: dict, days: int, warnings: list[str] | None = None) -> list[dict]:
+    """One journal or ISSN failing (a wrong ISSN returns 404) must not lose the
+    others, so failures are collected in `warnings` and the rest continue."""
     mailto = os.environ.get("CROSSREF_MAILTO") or cfg.get("mailto") or ""
     since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
     out: list[dict] = []
@@ -25,8 +27,10 @@ def fetch(s, cfg: dict, days: int) -> list[dict]:
                 try:
                     r = get(s, API.format(issn=issn), params=params)
                 except RuntimeError as e:
-                    # A wrong ISSN returns 404; record and move on to the next ISSN.
-                    raise RuntimeError(f"{j.get('name')} ({issn}): {e}") from e
+                    msg = f"{j.get('name')} ({issn}): {str(e)[:120]}"
+                    if warnings is not None:
+                        warnings.append(msg)
+                    break
                 msg = r.json().get("message", {})
                 items = msg.get("items", [])
                 for it in items:
@@ -46,7 +50,11 @@ def fetch(s, cfg: dict, days: int) -> list[dict]:
 
 def convert(it: dict, journal_name: str | None) -> dict:
     doi = norm_doi(it.get("DOI"))
-    title = clean_text((it.get("title") or [""])[0]).rstrip(".")
+    titles = it.get("title") or [""]
+    title = clean_text(titles[0]).rstrip(".")
+    subtitle = clean_text((it.get("subtitle") or [""])[0])
+    if subtitle and subtitle.lower() not in title.lower():
+        title = f"{title}: {subtitle}"
     authors, affiliations = [], []
     for a in it.get("author") or []:
         name = " ".join(p for p in [a.get("given"), a.get("family")] if p) or a.get("name")
@@ -65,10 +73,6 @@ def convert(it: dict, journal_name: str | None) -> dict:
     created = parse_date(((it.get("created") or {}).get("date-parts")))
     ctype = it.get("type") or "journal-article"
     rtype = {"journal-article": "article", "posted-content": "preprint", "book-chapter": "chapter"}.get(ctype, ctype)
-    oa_url = None
-    for link in it.get("link") or []:
-        if link.get("content-version") == "vor" and "pdf" in (link.get("content-type") or ""):
-            oa_url = None  # a publisher PDF link is not evidence of open access; leave to OpenAlex
     return {
         "source": "crossref",
         "doi": doi,
@@ -85,7 +89,7 @@ def convert(it: dict, journal_name: str | None) -> dict:
         "created": iso(created),
         "abstract": clean_text(it.get("abstract") or ""),
         "url": f"https://doi.org/{doi}" if doi else it.get("URL"),
-        "oa_url": oa_url,
+        "oa_url": None,
         "type": rtype,
         "language": it.get("language"),
         "retracted": False,

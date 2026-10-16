@@ -14,7 +14,7 @@
     <thead><tr><th>Source</th><th>Kind</th><th>Status</th><th>Items returned</th></tr></thead>
     <tbody>
     {% for s in log.sources %}
-    <tr><td>{{ s.id }}</td><td>{{ s.kind }}</td><td>{% if s.ok %}ok{% else %}failed: {{ s.error }}{% endif %}</td><td>{{ s.items }}</td></tr>
+    <tr><td>{{ s.id }}</td><td>{{ s.kind }}</td><td>{% if s.ok %}ok{% if s.warning %} with warnings: {{ s.warning }}{% endif %}{% else %}failed: {{ s.error }}{% endif %}</td><td>{{ s['items'] }}</td></tr>
     {% endfor %}
     </tbody>
   </table>
