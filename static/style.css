@@ -129,7 +129,11 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
 .prose-wide { max-width: 100%; }
 .prose-wide p, .prose-wide li, .prose-wide h2, .prose-wide h3, .prose-wide .deck, .prose-wide h1 { max-width: 70ch; }
 .prose h2 { font-size: 1.45rem; font-weight: 600; margin: 2.2rem 0 .5rem; line-height: 1.2; letter-spacing: -.01em; }
-.prose h3 { font-size: 1.12rem; font-weight: 600; margin: 1.5rem 0 .4rem; }
+.prose h3 { font-size: 1.12rem; font-weight: 600; margin: 1.6rem 0 .3rem; line-height: 1.3; }
+.prose h3 a { color: var(--ink); text-decoration-color: var(--rule); text-underline-offset: 3px; }
+.prose h3 a:hover { text-decoration-color: var(--baize); }
+.prose h3 + p > em:only-child { font-family: var(--sans); font-style: normal; font-size: .82rem; color: var(--ink-2); }
+.prose h3 + p { margin: 0 0 .35rem; }
 .prose p, .prose li { line-height: 1.6; }
 .prose li { margin: .25rem 0; }
 .prose ul, .prose ol { padding-left: 1.3rem; }

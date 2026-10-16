@@ -55,6 +55,7 @@ news_exclude:
   - "\\bvs\\.? .*\\b(odds|picks?|predictions?|preview|props|parlay)\\b"
   - "promo code|bonus code|best bets?\\b|player props|odds today|betting preview|parlay picks|odds, picks|picks and predictions|how to bet on|betting guide|sportsbook promo|sign.up bonus"
   - "hires and higher.ups|people moves|executive (appointments|moves)"
+  - "referral code|\\bcode\\b.{0,12}(bonus|free|\\$)|\\$\\d+ (kalshi|polymarket|draftkings|fanduel|betmgm|caesars|bet365)|market combos|\\bcombos\\b|^focus on [A-Z]"
 
 news_categories:
   - slug: public-health
