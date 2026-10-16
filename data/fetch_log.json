@@ -1,12 +1,20 @@
 {
- "started": "2026-10-16T01:14:40+00:00",
+ "started": "2026-10-16T11:18:48+00:00",
  "mode": "nightly",
  "sources": [
+  {
+   "id": "pubmed",
+   "kind": "papers",
+   "ok": true,
+   "items": 37,
+   "error": null,
+   "warning": null
+  },
   {
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 1440,
+   "items": 197,
    "error": null,
    "warning": null
   },
@@ -14,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 27,
+   "items": 28,
    "error": null,
    "warning": null
   },
@@ -105,26 +113,161 @@
    "items": 30,
    "error": null,
    "warning": null
+  },
+  {
+   "id": "news:lsr",
+   "kind": "news",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:sbc-americas",
+   "kind": "news",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:sports-handle",
+   "kind": "news",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:cdc-gaming",
+   "kind": "news",
+   "ok": true,
+   "items": 20,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:igb",
+   "kind": "news",
+   "ok": true,
+   "items": 100,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:aga",
+   "kind": "news",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:ncpg",
+   "kind": "news",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:guardian-gambling",
+   "kind": "news",
+   "ok": true,
+   "items": 20,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:cftc",
+   "kind": "news",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:federal-register-cftc",
+   "kind": "news",
+   "ok": true,
+   "items": 5,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:gnews-ukgc",
+   "kind": "news",
+   "ok": true,
+   "items": 100,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:courtlistener-kalshi",
+   "kind": "news",
+   "ok": true,
+   "items": 6,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:gnews-problem-gambling",
+   "kind": "news",
+   "ok": true,
+   "items": 100,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:gnews-betting-law",
+   "kind": "news",
+   "ok": true,
+   "items": 100,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:gnews-prediction-markets",
+   "kind": "news",
+   "ok": true,
+   "items": 100,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "news:gnews-self-exclusion",
+   "kind": "news",
+   "ok": true,
+   "items": 100,
+   "error": null,
+   "warning": null
   }
  ],
  "papers": {
-  "raw": 1856,
-  "groups": 1812,
-  "added": 1346,
-  "updated": 147,
-  "dropped_irrelevant": 319,
-  "total": 1692
+  "raw": 651,
+  "groups": 590,
+  "added": 16,
+  "updated": 179,
+  "dropped_irrelevant": 395,
+  "total": 422
  },
  "news": {
-  "raw": 0,
-  "added": 0,
-  "dropped_irrelevant": 0,
-  "total": 461
+  "raw": 711,
+  "added": 160,
+  "dropped_irrelevant": 108,
+  "total": 616
  },
- "finished": "2026-10-16T01:15:24+00:00",
- "papers_total": 1692,
- "news_total": 461,
+ "finished": "2026-10-16T11:19:17+00:00",
+ "papers_total": 422,
+ "news_total": 616,
  "history": [
+  {
+   "finished": "2026-10-16T11:19:17+00:00",
+   "mode": "nightly",
+   "added": 16,
+   "news_added": 160,
+   "failed": 0
+  },
   {
    "finished": "2026-10-16T01:15:24+00:00",
    "mode": "nightly",
