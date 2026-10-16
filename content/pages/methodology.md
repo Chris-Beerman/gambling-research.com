@@ -1,7 +1,7 @@
 ---
 title: How the index works
 slug: methodology
-description: Where the Gambling Research index gets its studies and news, how it decides what belongs, how it tags, and how to report a mistake.
+description: Where the Gambling Research Index gets its studies and news, how it decides what belongs, how it tags, and how to report a mistake.
 deck: Sources, search rules, tagging and known gaps, so the index can be checked and improved by anyone.
 ---
 
