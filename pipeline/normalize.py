@@ -55,6 +55,8 @@ class Taxonomy:
         self.strong = [re.compile(p, re.I) for p in rel.get("strong", [])]
         self.weak = [re.compile(p, re.I) for p in rel.get("weak", [])]
         self.exclude = [re.compile(p, re.I) for p in rel.get("exclude_contexts", [])]
+        self.drop = [re.compile(p, re.I) for p in rel.get("drop_titles", [])]
+        self.single_source_min_hits = int(rel.get("single_source_min_abstract_hits", 2))
         self.topics = [(t["slug"], t["label"], [re.compile(p, re.I) for p in t["patterns"]]) for t in cfg.get("topics", [])]
         self.designs = [(d["slug"], d["label"], [re.compile(p, re.I) for p in d["patterns"]]) for d in cfg.get("designs", [])]
         self.regions = cfg.get("regions", {})
@@ -68,18 +70,30 @@ class Taxonomy:
         self.news_categories = [(c["slug"], c["label"], [re.compile(p, re.I) for p in c["patterns"]]) for c in cfg.get("news_categories", [])]
 
     # ---- papers -------------------------------------------------------
-    def relevance(self, text: str) -> str | None:
-        """'high', 'low' or None (drop)."""
-        cleaned = text
+    def _clean(self, text: str) -> str:
         for ex in self.exclude:
-            cleaned = ex.sub(" ", cleaned)
-        if any(p.search(cleaned) for p in self.strong):
-            return "high"
+            text = ex.sub(" ", text)
+        return text
+
+    def assess(self, title: str, abstract: str) -> tuple[str | None, bool, int]:
+        """Returns (relevance, strong term in title, number of strong matches in abstract).
+        relevance is 'high', 'low' or None (drop)."""
+        if any(p.search(title) for p in self.drop):
+            return None, False, 0
+        ct, ca = self._clean(title), self._clean(abstract)
+        title_hit = any(p.search(ct) for p in self.strong)
+        abstract_hits = sum(len(p.findall(ca)) for p in self.strong)
+        if title_hit or abstract_hits:
+            return "high", title_hit, abstract_hits
         # Weak terms are checked on the original text so that excluded contexts
         # (a lottery used as a survey incentive) still land on the borderline list.
-        if any(p.search(text) for p in self.weak):
-            return "low"
-        return None
+        if any(p.search(f"{title} {abstract}") for p in self.weak):
+            return "low", False, 0
+        return None, False, 0
+
+    def relevance(self, text: str) -> str | None:
+        """'high', 'low' or None (drop). Title-only convenience wrapper."""
+        return self.assess(text, "")[0]
 
     def tag(self, text: str) -> tuple[list[str], list[str]]:
         topics = [slug for slug, _, pats in self.topics if any(p.search(text) for p in pats)]
@@ -209,8 +223,13 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
     title = first("title")
     abstract = max((r.get("abstract") or "" for r in recs), key=len)
     text = f"{title}. {abstract}"
-    rel = tax.relevance(text)
+    rel, title_hit, abstract_hits = tax.assess(title, abstract)
     if rel is None:
+        return None
+    # OpenAlex's search is loose and its corpus includes repository spam. A record
+    # that only OpenAlex supplies must name the subject in its title or mention it
+    # more than once in the abstract, and never earns a borderline listing.
+    if group["sources"] == ["openalex"] and (rel == "low" or not (title_hit or abstract_hits >= tax.single_source_min_hits)):
         return None
     countries: list[str] = []
     for r in recs:

@@ -32,6 +32,16 @@ relevance:
     - "cambridge gambling task"
     - "gambl\\w* (on|with) (the|our|their|its|a) (future|economy|lives|health|climate|planet)"
     - "(won|win|winning) .{0,30}(the )?lottery"
+    - "standard gamble"                      # health-economics utility elicitation
+    - "\\(wager & dixon\\)|wager & dixon"     # botanist, not a bet
+  # Titles that mark promotional or machine-generated content; dropped outright.
+  drop_titles:
+    - "promo code|code promo|bonus code|welcome bonus|free spins|no deposit|referral code"
+    - "complete guide to|ultimate guide|how to (play|win|bet|develop)|best (online )?(casinos?|betting sites?|sportsbooks?)|top \\d+ (online )?casinos?|casino sites|betting sites|review \\d{4}"
+    - "breakthrough mining|leads extracted|provably fair|crypto casino"
+  # A record supplied only by OpenAlex needs the subject in its title or this many
+  # strong-term matches in its abstract.
+  single_source_min_abstract_hits: 2
 
 # Same idea for news headlines: at least one inclusion match.
 news_include:

@@ -4,48 +4,8 @@
   "from": "2026-10-09",
   "to": "2026-10-16"
  },
- "new_studies": 318,
+ "new_studies": 47,
  "candidates": [
-  {
-   "id": "doi:10.31235/osf.io/frq9z_v1",
-   "title": "Social media and the prevention or reduction of harmful gambling: a rapid evidence review with integrated lived experience",
-   "journal": "SocArXiv",
-   "authors": [
-    "Jennifer Sweetman",
-    "Liz Littlewood",
-    "Patricia Darcy",
-    "Greg Forshaw",
-    "Amanda Perry",
-    "Su Golder"
-   ],
-   "published": "2026-10-06",
-   "first_seen": "2026-10-16",
-   "summary": "Background and aims: Research has established a clear link between social media use and harmful gambling. Existing systematic reviews highlight how social media platforms enable and normalise gambling. This rapid evidence review aimed to identify interventions using social media to prevent or reduce harmful gambling …",
-   "url": "https://doi.org/10.31235/osf.io/frq9z_v1",
-   "oa_url": "https://doi.org/10.31235/osf.io/frq9z_v1",
-   "topics": [
-    "treatment",
-    "prevention",
-    "prevalence",
-    "measurement",
-    "lived-experience"
-   ],
-   "designs": [
-    "review",
-    "trial",
-    "qualitative",
-    "longitudinal"
-   ],
-   "regions": [],
-   "score": 8,
-   "why": [
-    "trial",
-    "review",
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
   {
    "id": "doi:10.1080/16066359.2026.2741076",
    "title": "Risky parental gambling and child delinquency: longitudinal evidence on financial strain and disrupted parenting",
@@ -78,75 +38,6 @@
    "score": 6,
    "why": [
     "core journal",
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.5281/zenodo.23106624",
-   "title": "Gambling and its digital distribution, 2005-2026",
-   "journal": "Zenodo",
-   "authors": [
-    "Emil Valiyev"
-   ],
-   "published": "2026-10-02",
-   "first_seen": "2026-10-16",
-   "summary": "The internet changed how gambling is delivered and how gambling-related material circulates. These changes need to be measured separately. Operator revenue measures market activity, while advertising expenditure measures commercial inputs. Neither measures how many people encountered content or suffered harm …",
-   "url": "https://doi.org/10.5281/zenodo.23106624",
-   "oa_url": "https://doi.org/10.5281/zenodo.23106624",
-   "topics": [
-    "treatment",
-    "advertising",
-    "policy",
-    "industry"
-   ],
-   "designs": [
-    "trial",
-    "survey",
-    "longitudinal"
-   ],
-   "regions": [],
-   "score": 6,
-   "why": [
-    "trial",
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.3389/fpsyt.2026.1907023",
-   "title": "Social communities in gacha gaming and adolescent problem gambling risk: a mixed methods study",
-   "journal": "Frontiers in Psychiatry",
-   "authors": [
-    "Ashley Du",
-    "Janet Wolfe"
-   ],
-   "published": "2026-10-02",
-   "first_seen": "2026-10-16",
-   "summary": "Introduction Gacha games are free-to-play mobile games featuring randomized-reward mechanics to acquire characters and items. These games have grown into a multi-billion-dollar global industry, yet their relationship with adolescent problem gambling remains largely unstudied …",
-   "url": "https://doi.org/10.3389/fpsyt.2026.1907023",
-   "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1907023/pdf",
-   "topics": [
-    "online-gambling",
-    "loot-boxes",
-    "youth",
-    "policy",
-    "prevalence",
-    "cognition",
-    "industry"
-   ],
-   "designs": [
-    "trial",
-    "qualitative",
-    "survey",
-    "longitudinal"
-   ],
-   "regions": [],
-   "score": 6,
-   "why": [
-    "trial",
     "longitudinal or behavioral data",
     "free full text",
     "priority topic"
@@ -381,172 +272,6 @@
    ]
   },
   {
-   "id": "doi:10.5281/zenodo.23331836",
-   "title": "AI as CEO: Why AI's Next Productivity Gains Depend on Managing Work, Not Doing It",
-   "journal": "Zenodo",
-   "authors": [
-    "Meinhaj Hussain"
-   ],
-   "published": "2026-10-01",
-   "first_seen": "2026-10-16",
-   "summary": "AI is now cheap for companies. Ramp's AI Index, which tracks card and bill-pay spending at more than 70,000 US businesses, shows the median adopter spends $11.95 per employee a month on AI, while the top 1% spend more than $7,400 (Ramp, 2025) …",
-   "url": "https://doi.org/10.5281/zenodo.23331836",
-   "oa_url": "https://doi.org/10.5281/zenodo.23331836",
-   "topics": [
-    "policy",
-    "measurement"
-   ],
-   "designs": [
-    "trial",
-    "experiment"
-   ],
-   "regions": [
-    "asia"
-   ],
-   "score": 5,
-   "why": [
-    "trial",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.61440/jcpn.2026.v4.94",
-   "title": "Decision-Making: A Narrative Review",
-   "journal": "",
-   "authors": [
-    "Tiffany Martini Field"
-   ],
-   "published": "2026-10-14",
-   "first_seen": "2026-10-16",
-   "summary": "The risks that have been presented in this current literature on decision-making include elevated arousal, COVID-19, independent medical decisions, gaming disorder, and gambling addiction …",
-   "url": "https://doi.org/10.61440/jcpn.2026.v4.94",
-   "oa_url": "https://doi.org/10.61440/jcpn.2026.v4.94",
-   "topics": [
-    "loot-boxes",
-    "treatment",
-    "cognition"
-   ],
-   "designs": [
-    "review"
-   ],
-   "regions": [
-    "us"
-   ],
-   "score": 5,
-   "why": [
-    "review",
-    "free full text",
-    "US",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1016/j.jbct.2026.100642",
-   "title": "Effectiveness of exposure-based therapy through inhibitory learning via virtual reality in electronic gambling machines: Multiple baseline single-case experimental design",
-   "journal": "Journal of Behavioral and Cognitive Therapy",
-   "authors": [
-    "Zoé Strazzeri",
-    "Isabelle Giroux",
-    "Claudia Bergeron",
-    "Stéphane Bouchard"
-   ],
-   "published": "2026-10-01",
-   "first_seen": "2026-10-16",
-   "summary": "Context: Electronic gambling machines (EGMs) can harm individuals and contribute to gambling disorder (GD). Empirically supported cognitive-behavioral interventions are effective yet associated with high relapse rates. One avenue for improvement is to target the urge to gamble through exposure …",
-   "url": "https://doi.org/10.1016/j.jbct.2026.100642",
-   "oa_url": "https://doi.org/10.1016/j.jbct.2026.100642",
-   "topics": [
-    "casino",
-    "treatment",
-    "measurement",
-    "cognition"
-   ],
-   "designs": [
-    "trial",
-    "experiment"
-   ],
-   "regions": [
-    "canada"
-   ],
-   "score": 5,
-   "why": [
-    "trial",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.5281/zenodo.23189199",
-   "title": "Lottery funding and academic career outcomes: a randomized natural experiment at the Swiss National Science Foundation",
-   "journal": "Zenodo",
-   "authors": [
-    "Rachel Heyard",
-    "Hillary Wnfried Ramirez",
-    "Ben Jann",
-    "Dominic Rohner",
-    "Leonhard Held",
-    "Matthias Egger"
-   ],
-   "published": "2026-10-06",
-   "first_seen": "2026-10-16",
-   "summary": "Peer review is crucial for research grant evaluation, yet rankings of proposals near the funding line are often unreliable and may reflect chance or bias rather than meaningful differences in scientific quality. In response, some funders use modified lotteries, in which random selection is used among proposals that experts judge to be equally strong …",
-   "url": "https://doi.org/10.5281/zenodo.23189199",
-   "oa_url": "https://doi.org/10.5281/zenodo.23189199",
-   "topics": [
-    "lottery",
-    "prevalence"
-   ],
-   "designs": [
-    "trial",
-    "longitudinal",
-    "behavioral-data",
-    "experiment",
-    "protocol"
-   ],
-   "regions": [
-    "europe"
-   ],
-   "score": 5,
-   "why": [
-    "trial",
-    "longitudinal or behavioral data",
-    "free full text"
-   ]
-  },
-  {
-   "id": "doi:10.61440/jcpn.2026.v4.92",
-   "title": "Risk Aversion: A Narrative Review",
-   "journal": "",
-   "authors": [
-    "Tiffany Martini Field"
-   ],
-   "published": "2026-10-14",
-   "first_seen": "2026-10-16",
-   "summary": "Several effects have been noted for risk aversion including risk – reducing behaviors, social distancing, staying at home, distress and gambling disorder. A few predictors of risk aversion have been noted in this current literature including social activity, social standing and incentives to work …",
-   "url": "https://doi.org/10.61440/jcpn.2026.v4.92",
-   "oa_url": "https://doi.org/10.61440/jcpn.2026.v4.92",
-   "topics": [
-    "cognition",
-    "comorbidity"
-   ],
-   "designs": [
-    "review",
-    "survey",
-    "longitudinal"
-   ],
-   "regions": [
-    "us"
-   ],
-   "score": 5,
-   "why": [
-    "review",
-    "longitudinal or behavioral data",
-    "free full text",
-    "US"
-   ]
-  },
-  {
    "id": "doi:10.1016/j.addbeh.2026.108873",
    "title": "Exploring the relationships between problem and responsible gambling behaviors across time",
    "journal": "Addictive Behaviors",
@@ -575,126 +300,33 @@
    ]
   },
   {
-   "id": "doi:10.26623/slr.v7i2.14081",
-   "title": "A Critical Analysis of Trauma Resilience among Domestic Violence Victims Seeking Divorce at the Semarang Religious Court",
-   "journal": "Semarang Law Review",
+   "id": "doi:10.36096/ijbes.v8i4.1359",
+   "title": "Gaps in Cyber-Enforcement: Investigating SAPS’s Response to Illegal Online Gambling Platforms",
+   "journal": "International Journal of Business Ecosystem and Strategy",
    "authors": [
-    "Siti Mutmainah",
-    "Nafisya Kholifatul Izza"
+    "Mmabatho Portia Aphane"
    ],
-   "published": "2026-10-14",
-   "first_seen": "2026-10-16",
-   "summary": "Traumatic experiences resulting from domestic violence can adversely affect the psychological well-being and mental development of mumayyiz children, particularly those involved in parental divorce proceedings …",
-   "url": "https://doi.org/10.26623/slr.v7i2.14081",
-   "oa_url": "https://doi.org/10.26623/slr.v7i2.14081",
+   "published": "2026-10-09",
+   "first_seen": "2026-10-10",
+   "summary": "This article examines how illegal online gambling platforms stress-test South Africa's cyber-enforcement capacity and evaluates the South African Police Service's (SAPS) operational readiness to enforce the National Gambling Act against digitally mediated and often offshore operators …",
+   "url": "https://doi.org/10.36096/ijbes.v8i4.1359",
+   "oa_url": "https://www.bussecon.com/ojs/index.php/ijbes/article/download/1359/856",
    "topics": [
     "online-gambling",
-    "treatment",
     "policy",
-    "comorbidity",
-    "families",
-    "financial-harm",
     "industry"
    ],
    "designs": [
-    "review"
+    "review",
+    "qualitative"
    ],
    "regions": [
-    "asia"
+    "africa"
    ],
    "score": 4,
    "why": [
     "review",
     "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.9771/cgd.v12i3.70340",
-   "title": "A greve dos mineiros de 1984: A Criação do Grupo Lesbians and Gays Support the Miners (LGSM)",
-   "journal": "Cadernos de Gênero e Diversidade",
-   "authors": [
-    "Levi Correia de Sousa",
-    "Joice De Almeida Lima"
-   ],
-   "published": "2026-09-28",
-   "first_seen": "2026-10-16",
-   "summary": "The 1984 Miners' Strike stands as one of the most significant landmarks of social struggle against the neoliberal policies implemented during Margaret Thatcher’s government (1979–1990) in Great Britain …",
-   "url": "https://doi.org/10.9771/cgd.v12i3.70340",
-   "oa_url": "https://periodicos.ufba.br/index.php/cadgendiv/article/download/70340/41037",
-   "topics": [
-    "policy",
-    "equity"
-   ],
-   "designs": [
-    "review"
-   ],
-   "regions": [
-    "latin-america"
-   ],
-   "score": 4,
-   "why": [
-    "review",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.13140/rg.2.2.29374.86089",
-   "title": "Cross-Border Gambling Regulation Cooperation for African Jurisdictions: A Structured Literature Review",
-   "journal": "",
-   "authors": [
-    "Mayibongwe Madisa"
-   ],
-   "published": "2026-10-11",
-   "first_seen": "2026-10-16",
-   "summary": "",
-   "url": "https://doi.org/10.13140/rg.2.2.29374.86089",
-   "oa_url": "https://doi.org/10.13140/rg.2.2.29374.86089",
-   "topics": [
-    "policy"
-   ],
-   "designs": [
-    "review"
-   ],
-   "regions": [],
-   "score": 4,
-   "why": [
-    "review",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.17615/4932-jx20",
-   "title": "Cryptocurrency Pump-and-Dump Schemes",
-   "journal": "UNC Libraries",
-   "authors": [
-    "Wang B.",
-    "Li T.",
-    "Shin D."
-   ],
-   "published": "2026-10-09",
-   "first_seen": "2026-10-16",
-   "summary": "We document numerous occurrences of pump-and-dump schemes (P&Ds) targeting cryptocurrencies, which tend to trigger short-term episodes that feature dramatic increases in prices, volume, and volatility, followed by quick reversals …",
-   "url": "https://doi.org/10.17615/4932-jx20",
-   "oa_url": "https://doi.org/10.17615/4932-jx20",
-   "topics": [
-    "trading",
-    "policy"
-   ],
-   "designs": [
-    "behavioral-data",
-    "experiment"
-   ],
-   "regions": [
-    "us"
-   ],
-   "score": 4,
-   "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "US",
     "priority topic"
    ]
   },
@@ -720,550 +352,787 @@
    ]
   },
   {
-   "id": "doi:10.48550/arxiv.2609.33474",
-   "title": "Gaps and Augmentations in Bayesian Scheduling",
-   "journal": "arXiv",
-   "authors": [
-    "Ahuva Mu'alem"
-   ],
-   "published": "2026-09-27",
+   "id": "doi:10.4309/wrlk2324",
+   "title": "The NCAA’s Campaign to “Draw the Line” against Gamblers Harassing Student-Athletes",
+   "journal": "Journal of Gambling Issues",
+   "authors": [],
+   "published": "2026-01-01",
    "first_seen": "2026-10-16",
-   "summary": "The recent resolution of the Nisan--Ronen conjecture~\\cite{NR,CKK} establishes that the optimal worst-case approximation ratio of deterministic truthful mechanisms for makespan on m unrelated machines is exactly m. We ask how prior information, Bayesian incentive compatibility (BIC), randomization, and machine-side resource augmentation change this barrier …",
-   "url": "https://doi.org/10.48550/arxiv.2609.33474",
-   "oa_url": "https://arxiv.org/pdf/2609.33474",
+   "summary": "",
+   "url": "https://doi.org/10.4309/wrlk2324",
+   "oa_url": null,
    "topics": [
-    "lottery",
-    "industry"
+    "youth"
    ],
-   "designs": [
-    "trial",
-    "commentary"
-   ],
+   "designs": [],
    "regions": [],
-   "score": 4,
+   "score": 3,
    "why": [
-    "trial",
-    "free full text"
+    "core journal"
    ]
   },
   {
-   "id": "doi:10.36096/ijbes.v8i4.1359",
-   "title": "Gaps in Cyber-Enforcement: Investigating SAPS’s Response to Illegal Online Gambling Platforms",
-   "journal": "International Journal of Business Ecosystem and Strategy",
-   "authors": [
-    "Mmabatho Portia Aphane"
-   ],
-   "published": "2026-10-09",
+   "id": "doi:10.4309/vkar6281",
+   "title": "The Prevalence of Gambling among University Students in Central and Southern Iran",
+   "journal": "Journal of Gambling Issues",
+   "authors": [],
+   "published": "2026-01-01",
    "first_seen": "2026-10-16",
-   "summary": "This article examines how illegal online gambling platforms stress-test South Africa's cyber-enforcement capacity and evaluates the South African Police Service's (SAPS) operational readiness to enforce the National Gambling Act against digitally mediated and often offshore operators …",
-   "url": "https://doi.org/10.36096/ijbes.v8i4.1359",
-   "oa_url": "https://www.bussecon.com/ojs/index.php/ijbes/article/download/1359/856",
+   "summary": "",
+   "url": "https://doi.org/10.4309/vkar6281",
+   "oa_url": null,
    "topics": [
-    "online-gambling",
-    "policy",
-    "industry"
+    "youth",
+    "prevalence"
    ],
-   "designs": [
-    "review",
-    "qualitative"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "score": 4,
+   "designs": [],
+   "regions": [],
+   "score": 3,
    "why": [
-    "review",
-    "free full text",
-    "priority topic"
+    "core journal"
    ]
   },
   {
-   "id": "doi:10.63822/tr28h979",
-   "title": "Isu Fatherless dalam film “Andai Ibu Tidak Menikah dengan Ayah”. Analisis Framing Robert N Entman",
-   "journal": "Jejak digital Jurnal Ilmiah Multidisiplin",
-   "authors": [
-    "Tulus Waskitha Anjarwi",
-    "Chepi Nurdiansyah",
-    "Jaka Atmaja"
-   ],
-   "published": "2026-10-13",
+   "id": "doi:10.4309/vwww8145",
+   "title": "The Prevalence of Problem Gambling Among Young Adults (18-25) and Related Risk Factors in Türkiye",
+   "journal": "Journal of Gambling Issues",
+   "authors": [],
+   "published": "2026-01-01",
    "first_seen": "2026-10-16",
-   "summary": "The fatherless issue refers to the absence of a father's role in a child's life, both physically and emotionally, which can affect children's psychological, social, and character development. As a mass communication medium, film has the ability to frame various social issues, including the issue of fatherless …",
-   "url": "https://doi.org/10.63822/tr28h979",
-   "oa_url": "https://indojurnal.com/index.php/jejakdigital/article/download/5208/4539",
+   "summary": "",
+   "url": "https://doi.org/10.4309/vwww8145",
+   "oa_url": null,
    "topics": [
-    "online-gambling",
-    "treatment",
-    "families",
-    "industry"
+    "youth",
+    "prevalence"
    ],
-   "designs": [
-    "review",
-    "qualitative"
-   ],
-   "regions": [
-    "asia"
-   ],
-   "score": 4,
+   "designs": [],
+   "regions": [],
+   "score": 3,
    "why": [
-    "review",
-    "free full text",
-    "priority topic"
+    "core journal"
    ]
   },
   {
-   "id": "doi:10.48550/arxiv.2610.05588",
-   "title": "Sender-Receiver Games with Payment Commitments",
-   "journal": "arXiv",
-   "authors": [
-    "Ivan Geffner"
-   ],
-   "published": "2026-10-04",
+   "id": "doi:10.4309/uqej5866",
+   "title": "Understanding responsible gambling: Insights from Chinese visitors in Macao casinos",
+   "journal": "Journal of Gambling Issues",
+   "authors": [],
+   "published": "2026-01-01",
    "first_seen": "2026-10-16",
-   "summary": "We study sender-receiver games in which players commit, before the state is drawn, to payments contingent on the subsequently verified state and the receiver's action. Payments may be transferred or burned, serving as contractual guarantees or promised tips. We analyze equilibrium guarantees, welfare, and computational complexity …",
-   "url": "https://doi.org/10.48550/arxiv.2610.05588",
-   "oa_url": "https://arxiv.org/pdf/2610.05588",
+   "summary": "",
+   "url": "https://doi.org/10.4309/uqej5866",
+   "oa_url": null,
    "topics": [
-    "lottery"
+    "casino",
+    "prevention"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 3,
+   "why": [
+    "core journal"
+   ]
+  },
+  {
+   "id": "doi:10.3390/brainsci16101077",
+   "title": "Decision-Making Performance and Block-Wise Trajectories in Gambling Disorder and Opioid Use Disorder Using the Iowa Gambling Task",
+   "journal": "Brain Sciences",
+   "authors": [
+    "Edward Jacek Gorzelańczyk",
+    "Aleksandra Kawala‐Sterniuk",
+    "Ewa Laskowska",
+    "Piotr Kamiński",
+    "Piotr Krzysztof Walecki"
+   ],
+   "published": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "summary": "Background/Objectives: Decision-making differences have been reported in substance-related and behavioral addictions, but Iowa Gambling Task (IGT) performance patterns may differ. We compared IGT performance in gambling disorder, opioid use disorder (OUD) before and approximately 90 min after methadone dosing, and healthy controls …",
+   "url": "https://doi.org/10.3390/brainsci16101077",
+   "oa_url": "https://doi.org/10.3390/brainsci16101077",
+   "topics": [
+    "prevalence",
+    "cognition"
    ],
    "designs": [
-    "trial"
+    "longitudinal"
    ],
    "regions": [
     "europe"
    ],
-   "score": 4,
+   "score": 2,
    "why": [
-    "trial",
+    "longitudinal or behavioral data",
     "free full text"
    ]
   },
   {
-   "id": "doi:10.13140/rg.2.2.21495.79522",
-   "title": "Traditional vs. Modern Gambling Practices in Botswana: A Comparative Analysis of Cultural Evolution and Regulatory Frameworks A Systematic Literature Review",
-   "journal": "",
+   "id": "doi:10.1017/elo.2026.10094",
+   "title": "Vulnerability and unfair profits: the wider implications of recent measures in British gambling law",
+   "journal": "European Law Open",
    "authors": [
-    "Mayibongwe Kagiso Madisa"
+    "Kate Bedford"
    ],
-   "published": "2026-09-27",
-   "first_seen": "2026-10-16",
-   "summary": "",
-   "url": "https://doi.org/10.13140/rg.2.2.21495.79522",
-   "oa_url": "https://doi.org/10.13140/rg.2.2.21495.79522",
-   "topics": [
-    "policy",
-    "equity"
-   ],
-   "designs": [
-    "review"
-   ],
-   "regions": [],
-   "score": 4,
-   "why": [
-    "review",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.48550/arxiv.2609.31390",
-   "title": "AlphaOpsBench: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets",
-   "journal": "arXiv",
-   "authors": [
-    "Huaiyu Jia",
-    "Mingxuan Zhao",
-    "Jincheng Gao",
-    "Zifan Peng",
-    "Wentao Zhang",
-    "Siguang Li",
-    "Shuo Sun"
-   ],
-   "published": "2026-09-25",
-   "first_seen": "2026-10-16",
-   "summary": "Large language models increasingly generate quantitative trading strategies, yet existing benchmarks assume standardized assets, numerical features, or directly compilable strategy representations---assumptions that prediction-market strategies violate, since a coarse idea may leave the traded outcome, causal information source, signal definition …",
-   "url": "https://doi.org/10.48550/arxiv.2609.31390",
-   "oa_url": "https://arxiv.org/pdf/2609.31390",
-   "topics": [
-    "prediction-markets",
-    "policy",
-    "prevalence",
-    "measurement",
-    "industry"
-   ],
-   "designs": [
-    "longitudinal",
-    "experiment"
-   ],
-   "regions": [
-    "asia"
-   ],
-   "score": 3,
-   "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.26466/opusjsr.1984484",
-   "title": "An examination of online gambling through users’ perceptions: A qualitative analysis of YouTube comments on the “BET” documentary",
-   "journal": "Opus Uluslararası Toplum Araştırmaları Dergisi",
-   "authors": [
-    "İpen İlknur Ünlü"
-   ],
-   "published": "2026-09-29",
-   "first_seen": "2026-10-16",
-   "summary": "This research explores perceptions of online gambling expressed in comments on the “BET” documentary on YouTube. It examines how these perceptions relate to social decay, identifies potential risks, and proposes solutions. This qualitative study analyses user comments posted on YouTube following the release of the “BET” documentary …",
-   "url": "https://doi.org/10.26466/opusjsr.1984484",
-   "oa_url": "https://dergipark.org.tr/en/download/article-file/6173732",
+   "published": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "summary": "Abstract This paper examines recent measures to address excess profits in online gambling. In a wider UK context of growing public distrust of gambling companies and concern about gambling harm, there has been a recent surge of interest in exploitative profits, focused on gambling as an extractive industry preying on vulnerable groups and individuals …",
+   "url": "https://doi.org/10.1017/elo.2026.10094",
+   "oa_url": "https://doi.org/10.1017/elo.2026.10094",
    "topics": [
     "online-gambling",
+    "youth",
     "policy",
-    "financial-harm",
-    "equity"
-   ],
-   "designs": [
-    "qualitative",
-    "behavioral-data"
-   ],
-   "regions": [
-    "asia"
-   ],
-   "score": 3,
-   "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.3386/w35846",
-   "title": "Are Prediction Markets Politically Biased?",
-   "journal": "National Bureau of Economic Research",
-   "authors": [
-    "Eric W. Zitzewitz"
-   ],
-   "published": "2026-10-01",
-   "first_seen": "2026-10-16",
-   "summary": "This version of the paper is preliminary; it will be revised following the 2026 midterms to include those elections and data from Polymarket.The author would like to thank the prediction markets included in the sample for making their data available for academic research.The pre-2007 data included in the sample was collected jointly with Andrew Leigh and …",
-   "url": "https://doi.org/10.3386/w35846",
-   "oa_url": "https://doi.org/10.3386/w35846",
-   "topics": [
-    "prediction-markets",
     "industry"
    ],
    "designs": [],
    "regions": [
-    "us"
+    "uk-ireland"
    ],
-   "score": 3,
+   "score": 2,
    "why": [
-    "free full text",
-    "US",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.5281/zenodo.23112661",
-   "title": "Australian Constitutional Sovereignty White Paper Series",
-   "journal": "Zenodo",
-   "authors": [
-    "Garret R J Krampe"
-   ],
-   "published": "2026-10-03",
-   "first_seen": "2026-10-16",
-   "summary": "Australian Constitutional Sovereignty White Paper Series Document Index and Short Contents Version 1.3 Garret R. J. Krampe, GRE Foundry Copyright © 2025-2026 Garret R. J …",
-   "url": "https://doi.org/10.5281/zenodo.23112661",
-   "oa_url": "https://doi.org/10.5281/zenodo.23112661",
-   "topics": [
-    "policy",
-    "cognition",
-    "families",
-    "equity",
-    "industry",
-    "older-adults"
-   ],
-   "designs": [
-    "behavioral-data"
-   ],
-   "regions": [],
-   "score": 3,
-   "why": [
-    "longitudinal or behavioral data",
     "free full text",
     "priority topic"
    ]
   },
   {
-   "id": "doi:10.31673/2415-8089.2026.035404",
-   "title": "BUSINESS PROCESSES OF ENTERPRISE MANAGEMENT AS AN OBJECT OF INTELLIGENT MODELING",
-   "journal": "Economy Management Business",
+   "id": "doi:10.12740/pp/205179",
+   "title": "Personality, dopamine, and addiction: the DRD4 Ex3 (VNTR) polymorphism and personality traits in men addicted to gambling and amphetamine",
+   "journal": "Psychiatria Polska",
    "authors": [
-    "Сергій Мозговий"
+    "Agnieszka Boroń",
+    "Remigiusz Recław",
+    "Krzysztof Chmielowiec",
+    "Jolanta Chmielowiec",
+    "Aleksandra Strońska-Pluta",
+    "Michał Tomasz Kowalski",
+    "Jolanta Masiak",
+    "Magdalena Gibas-Dorna",
+    "Grzegorz Trybek",
+    "Anna Grzywacz"
    ],
-   "published": "2026-09-30",
-   "first_seen": "2026-10-16",
-   "summary": "The rapid expansion of artificial intelligencemethods applicable to management data increasingly outpaces the development of a coherenttheoretical foundation defining how a management business process should be understood as anobject suitable for such modeling …",
-   "url": "https://doi.org/10.31673/2415-8089.2026.035404",
-   "oa_url": "https://journals.duikt.edu.ua/index.php/emb/article/download/3651/3487",
+   "published": "2026-10-08",
+   "first_seen": "2026-10-10",
+   "summary": "The present study analyzed the polymorphism of the dopamine receptor gene DRD4, which is widely described in the literature as being associated with sensation seeking. Gambling disorder (GD) shares similar biological mechanisms and symptoms with substance use disorders (SUD). Therefore, a behavioral addiction group was selected for this study …",
+   "url": "https://doi.org/10.12740/pp/205179",
+   "oa_url": "https://www.psychiatriapolska.pl/pdf-205179-149116?filename=Personality--dopamine--an.pdf",
    "topics": [
+    "treatment",
     "measurement",
     "cognition",
+    "comorbidity"
+   ],
+   "designs": [],
+   "regions": [
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.24256/jiis.v6i1.12746",
+   "title": "Interpreting Maisir in Qur’an 5:90–91 and Its Relevance to Togel Gambling in Celawan Village",
+   "journal": "Journal of Indonesian Islamic Studies.",
+   "authors": [
+    "Edo Dermawan",
+    "Amroeni Drajat"
+   ],
+   "published": "2026-10-05",
+   "first_seen": "2026-10-11",
+   "summary": "Lottery gambling (togel) persists despite its prohibition in Islam, raising questions about the relationship between religious knowledge and social practice. This study examines interpretations of maisir in Qur’an 5:90–91 and their relevance to togel in Celawan Village, Serdang Bedagai Regency, Indonesia …",
+   "url": "https://doi.org/10.24256/jiis.v6i1.12746",
+   "oa_url": "https://ejournal.iainpalopo.ac.id/index.php/jiis/article/download/12746/7877",
+   "topics": [
+    "lottery",
+    "prevention",
+    "policy",
+    "families",
+    "financial-harm",
     "industry"
    ],
    "designs": [
-    "review",
+    "qualitative",
+    "case-report"
+   ],
+   "regions": [
+    "asia"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.3389/fpsyg.2026.1936216",
+   "title": "Early detection of problematic internet use among university students: psychometric validation of the PIUQ-9",
+   "journal": "Frontiers in Psychology",
+   "authors": [
+    "Roser Granero",
+    "Fernando Fernández‐Aranda",
+    "Zsolt Demetrovics",
+    "Susana Jiménez‐Múrcia"
+   ],
+   "published": "2026-09-30",
+   "first_seen": "2026-10-15",
+   "summary": "Background University students extensively use the internet for academic, social, and recreational purposes, increasing the risk of developing problematic internet use (PIU) …",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1936216",
+   "oa_url": "https://doi.org/10.3389/fpsyg.2026.1936216",
+   "topics": [
+    "online-gambling",
+    "loot-boxes",
+    "youth",
+    "prevention",
+    "policy",
+    "measurement",
+    "cognition",
+    "equity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "europe",
+    "australia-nz"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.3389/fpubh.2026.1931143",
+   "title": "Sport participation and gambling-related problems in adolescents: findings from a large school-based study",
+   "journal": "Frontiers in Public Health",
+   "authors": [
+    "Dragana Ratković",
+    "Vladimir Knežević",
+    "Aleksandra Dickov",
+    "Svetlana Ivanović-Kovačević",
+    "Predrag Savić",
+    "Olga Ivetić",
+    "Sanja Bjelan",
+    "Maša Čomić"
+   ],
+   "published": "2026-10-14",
+   "first_seen": "2026-10-15",
+   "summary": "Background Adolescent gambling is increasingly shaped by digital access, sports betting, and gambling-like mechanisms embedded in everyday youth culture …",
+   "url": "https://doi.org/10.3389/fpubh.2026.1931143",
+   "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1931143/pdf",
+   "topics": [
+    "sports-betting",
+    "youth",
+    "treatment",
+    "prevention",
+    "measurement",
+    "comorbidity",
+    "families",
+    "equity"
+   ],
+   "designs": [
     "survey"
    ],
    "regions": [
     "europe"
    ],
-   "score": 3,
+   "score": 2,
    "why": [
-    "review",
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1192/j.eurpsy.2026.12261",
+   "title": "Undirected and directed networks of problem gambling: Follow the money trail",
+   "journal": "European Psychiatry",
+   "authors": [
+    "André Syvertsen",
+    "Omid V Ebrahimi",
+    "Dominic Sagoe",
+    "Joakim H Kristensen",
+    "Ståle Pallesen"
+   ],
+   "published": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "summary": "Psychometric network analysis offers a granular understanding of problem gambling (PG) by modeling individual symptoms within an interconnected system. Identifying central symptoms can help explain symptom co-occurrence and core symptoms relevant for escalating severity …",
+   "url": "https://doi.org/10.1192/j.eurpsy.2026.12261",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "policy",
+    "prevalence",
+    "measurement",
+    "financial-harm",
+    "equity"
+   ],
+   "designs": [
+    "survey",
+    "longitudinal"
+   ],
+   "regions": [
+    "uk-ireland",
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "longitudinal or behavioral data",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.64898/2026.10.01.26363633",
+   "title": "Understanding sports betting as an emerging behavioral addiction among young men in Ethiopia",
+   "journal": "medRxiv",
+   "authors": [
+    "Mesay Teshome",
+    "Beakal Amare",
+    "Awoke M Sisaye"
+   ],
+   "published": "2026-10-02",
+   "first_seen": "2026-10-16",
+   "summary": "ABSTRACT Background Sports betting is one of the most popular, rapidly evolving, and attractive forms of gambling. It is associated with an increased risk of gambling-related harms like relationship difficulties, crime, and physical and mental health problems …",
+   "url": "https://doi.org/10.64898/2026.10.01.26363633",
+   "oa_url": "https://www.medrxiv.org/content/medrxiv/early/2026/10/02/2026.10.01.26363633.full.pdf",
+   "topics": [
+    "sports-betting",
+    "treatment",
+    "measurement",
+    "cognition",
+    "comorbidity",
+    "equity"
+   ],
+   "designs": [
+    "qualitative"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.70268/sacc-11-24-22",
+   "title": "Beyond the Screen: Betwinner’s Strategic Gamble in Kenya",
+   "journal": "Strathmore University Africa case centre.",
+   "authors": [
+    "Robert Wanyama"
+   ],
+   "published": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "summary": "",
+   "url": "https://doi.org/10.70268/sacc-11-24-22",
+   "oa_url": "https://doi.org/10.70268/sacc-11-24-22",
+   "topics": [],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
     "free full text"
    ]
   },
   {
-   "id": "doi:10.48550/arxiv.2609.32885",
-   "title": "Can LLMs Predict the Future? A Brier Score Analysis of Prediction Markets",
-   "journal": "arXiv",
+   "id": "doi:10.1093/ej/ueag127",
+   "title": "Gambling for Re-election",
+   "journal": "The Economic Journal",
    "authors": [
-    "Yuanbo Li",
-    "Zekun Li",
-    "Xiaoyan Cong"
+    "Alastair Langtry",
+    "Niklas Potrafke",
+    "Marcel Schlepper",
+    "Timo Wochner"
    ],
-   "published": "2026-09-26",
-   "first_seen": "2026-10-16",
-   "summary": "We study whether model upgrades improve probability estimates for prediction-market questions. Our Resolved Market Forecasting (RMF) benchmark contains 3,000 resolved binary questions across nine domains, on which we evaluate six Claude and Qwen model variants using a question-only, zero-shot protocol …",
-   "url": "https://doi.org/10.48550/arxiv.2609.32885",
-   "oa_url": "https://arxiv.org/pdf/2609.32885",
-   "topics": [
-    "prediction-markets",
-    "industry"
-   ],
+   "published": "2026-10-07",
+   "first_seen": "2026-10-09",
+   "summary": "Abstract We show that gambling-style behaviour is important in politics: politicians ‛gamble for re-election‚ in the context of a political leader selection. We exploit unique access to leaked information on MPs' individual decisions in the 2021 leadership election of Germany's centre-right parties …",
+   "url": "https://doi.org/10.1093/ej/ueag127",
+   "oa_url": "http://dx.doi.org/10.2139/ssrn.4855850",
+   "topics": [],
    "designs": [],
    "regions": [
-    "us"
+    "uk-ireland",
+    "europe"
    ],
-   "score": 3,
+   "score": 1,
    "why": [
-    "free full text",
-    "US",
-    "priority topic"
+    "free full text"
    ]
   },
   {
-   "id": "doi:10.1177/10439862261487992",
-   "title": "Chance-Based Gaming Monetization and Online Gambling",
-   "journal": "Journal of Contemporary Criminal Justice",
+   "id": "doi:10.1364/ao.610874",
+   "title": "Lightweight Event Recognition Framework for Φ-OTDR Systems with Space-Frequency Fusion Based on Self-Exclusion Relational Knowledge Distillation",
+   "journal": "Applied Optics",
    "authors": [
-    "Andrew Kuo",
-    "Mashooq A. Salehin"
+    "胡劲华 Hu Jinhua",
+    "Jianglong Zhao",
+    "Longfei Li",
+    "Zhen Liu"
    ],
-   "published": "2026-09-27",
-   "first_seen": "2026-10-16",
-   "summary": "The monetization of the gaming industry has included mechanisms that allow monetary transactions for virtual items or gaming progression. This pilot research aims to collect public perception of the similarities between gambling and various commonly seen gaming monetization mechanisms through online surveys …",
-   "url": "https://doi.org/10.1177/10439862261487992",
+   "published": "2026-09-28",
+   "first_seen": "2026-10-09",
+   "summary": "",
+   "url": "https://doi.org/10.1364/ao.610874",
    "oa_url": null,
    "topics": [
-    "online-gambling",
-    "policy",
-    "industry"
+    "self-exclusion"
    ],
-   "designs": [
-    "survey",
-    "behavioral-data"
-   ],
-   "regions": [
-    "us"
-   ],
-   "score": 3,
+   "designs": [],
+   "regions": [],
+   "score": 1,
    "why": [
-    "longitudinal or behavioral data",
-    "US",
     "priority topic"
    ]
   },
   {
-   "id": "doi:10.67929/ecgi-law-966-2026",
-   "title": "Don't Bet on Bankruptcy: Prediction Markets and the Limits of Insolvency Law",
-   "journal": "",
+   "id": "doi:10.1108/intr-06-2025-0905",
+   "title": "Predicting participation and expenditure on distinct gambling-like mechanics: financial engagement, selective problem gambling effects and a gaming disorder null",
+   "journal": "Internet Research",
    "authors": [
-    "Nizan Geslevich Packin",
-    "William Organek"
+    "Topias Mattinen",
+    "Joseph Macey",
+    "Juho Hamari"
    ],
-   "published": "2026-09-26",
-   "first_seen": "2026-10-16",
-   "summary": "Prediction markets have become multibillion-dollar platforms for putting a price on uncertainty in politics, sports, finance, and even war. States and the federal government are fighting to establish regulatory authority over them …",
-   "url": "https://doi.org/10.67929/ecgi-law-966-2026",
-   "oa_url": "https://www.ecgi.global/sites/default/files/2026-09/law-966-2026_dont_bet_on_bankruptcy_prediction_markets_and_the_limits_of_.pdf",
+   "published": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "summary": "Purpose Quantitative work on gambling-like mechanics (GLMs) in video games has largely treated them as a uniform category, overlooking differences in reward structure and similarity to traditional gambling …",
+   "url": "https://doi.org/10.1108/intr-06-2025-0905",
+   "oa_url": "https://doi.org/10.1108/intr-06-2025-0905",
+   "topics": [
+    "online-gambling",
+    "loot-boxes",
+    "cognition"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1017/s1049096526102984",
+   "title": "When Do Prediction Markets Improve Election Forecasts? Evidence from Matched U.S. Races",
+   "journal": "PS Political Science & Politics",
+   "authors": [
+    "Jack Rossbach"
+   ],
+   "published": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "summary": "",
+   "url": "https://doi.org/10.1017/s1049096526102984",
+   "oa_url": null,
    "topics": [
     "prediction-markets",
-    "policy",
-    "financial-harm",
     "industry"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.21608/jfsu.2026.506410.1368",
+   "title": "المراهنات الإلكترونية \" دراسة فقهية\". Online Betting: A Jurisprudential Study",
+   "journal": "مجلة کلیة الشریعة والقانون بأسیوط دوریة علمیة محکمة",
+   "authors": [
+    "نادر محمد حسين"
+   ],
+   "published": "2026-10-01",
+   "first_seen": "2026-10-12",
+   "summary": "",
+   "url": "https://doi.org/10.21608/jfsu.2026.506410.1368",
+   "oa_url": "https://doi.org/10.21608/jfsu.2026.506410.1368",
+   "topics": [
+    "online-gambling"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.12688/wellcomeopenres.25913.2",
+   "title": "Gambling behaviour of Bradford teenagers: evidence from the Born in Bradford Age of Wonder study",
+   "journal": "Wellcome Open Research",
+   "authors": [
+    "Gillian Santorelli",
+    "Jane West",
+    "John Pickavance"
+   ],
+   "published": "2026-08-17",
+   "first_seen": "2026-10-13",
+   "summary": "Gambling among young people is a public health concern, and gambling-like mechanics in digital games (e.g., loot boxes) may increase exposure. We estimated the prevalence of traditional gambling and gambling-like online behaviours among adolescents in Bradford …",
+   "url": "https://doi.org/10.12688/wellcomeopenres.25913.2",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13654074/",
+   "topics": [
+    "online-gambling",
+    "casino",
+    "loot-boxes",
+    "youth",
+    "prevention",
+    "prevalence",
+    "equity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "uk-ireland"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.20878/cshr.2026.32.9.007",
+   "title": "A Study on the Efficiency Evaluation of Training Programs in Domestic Casino Hotels using IPA Analysis",
+   "journal": "Culinary Science & Hospitality Research",
+   "authors": [
+    "SooYeon Kim",
+    "Sangmook Lee"
+   ],
+   "published": "2026-09-30",
+   "first_seen": "2026-10-14",
+   "summary": "This study aims to analyze the importance and satisfaction levels of educational service quality perceived by casino hotel employees in Jeju and to identify perceptual differences by work department to derive practical directions for improving casino hotel training programs …",
+   "url": "https://doi.org/10.20878/cshr.2026.32.9.007",
+   "oa_url": "https://doi.org/10.20878/cshr.2026.32.9.007",
+   "topics": [
+    "casino",
+    "youth",
+    "measurement",
+    "industry"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1504/ijbsr.2027.10081655",
+   "title": "Brand loyalty and tribalism motivational factors in sports betting in the post-pandemic era",
+   "journal": "International Journal of Business and Systems Research",
+   "authors": [
+    "Alan D. Smith N.A."
+   ],
+   "published": "2026-10-13",
+   "first_seen": "2026-10-14",
+   "summary": "",
+   "url": "https://doi.org/10.1504/ijbsr.2027.10081655",
+   "oa_url": null,
+   "topics": [
+    "sports-betting"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1016/j.genhosppsych.2026.09.017",
+   "title": "Suicidal ideation and psychiatric comorbidity in a nationally representative sample of ED visits with documented gambling concerns",
+   "journal": "General Hospital Psychiatry",
+   "authors": [
+    "Heather M. Gray",
+    "Nathaniel A. Dell",
+    "Debi A. LaPlante"
+   ],
+   "published": "2026-10-03",
+   "first_seen": "2026-10-14",
+   "summary": "Gambling disorder is associated with suicide and other severe harms. In an era of rapid gambling expansion, psychiatrists might benefit from information about the clinical needs of patients with gambling concerns who present to the emergency department (ED) …",
+   "url": "https://doi.org/10.1016/j.genhosppsych.2026.09.017",
+   "oa_url": null,
+   "topics": [
+    "prevalence",
+    "comorbidity"
    ],
    "designs": [],
    "regions": [
     "us"
    ],
-   "score": 3,
+   "score": 1,
    "why": [
-    "free full text",
-    "US",
-    "priority topic"
+    "US"
    ]
   },
   {
-   "id": "doi:10.35188/unu-wider/2026/784-8",
-   "title": "From demand over self-exclusion to access—the role of social capital in firms' credit journey: Evidence from Mozambican manufacturing firms, 2012–22",
-   "journal": "Working Paper Series",
+   "id": "doi:10.3389/fpsyt.2026.1978508",
+   "title": "Financially focused self-concept and problem lottery gambling: the chain mediating role of gambling-related luck beliefs and lottery gambling passion",
+   "journal": "Frontiers in Psychiatry",
    "authors": [
-    "Hilário Muchabel",
-    "Hanna Berkel"
+    "Yue Hu",
+    "Lian Liu",
+    "Caimei Bai",
+    "Zheng Gan",
+    "Xiaolong Liu"
    ],
-   "published": "2026-10-01",
-   "first_seen": "2026-10-16",
-   "summary": "Rather than treating access to formal credit as a single binary outcome, we develop a credit-journey framework that distinguishes credit demand, application versus self-exclusion among demanding firms, and access among applying firms. We examine how different types of social capital are associated with progression at each stage …",
-   "url": "https://doi.org/10.35188/unu-wider/2026/784-8",
-   "oa_url": "https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2026-109-social-capital-firms-credit-journey-Mozambique.pdf",
-   "topics": [
-    "self-exclusion",
-    "industry"
-   ],
-   "designs": [
-    "longitudinal"
-   ],
-   "regions": [
-    "europe",
-    "uk-ireland"
-   ],
-   "score": 3,
-   "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.5281/zenodo.23068648",
-   "title": "Ghost Patterns: Reading the Hidden Generator on Both Sides of the AI Equation",
-   "journal": "Zenodo",
-   "authors": [
-    "E. M. Honeycutt III"
-   ],
-   "published": "2026-09-30",
-   "first_seen": "2026-10-16",
-   "summary": "A ghost pattern is a recurring structural signature that betrays a hidden generating process even when the surface content looks clean …",
-   "url": "https://doi.org/10.5281/zenodo.23068648",
-   "oa_url": "https://doi.org/10.5281/zenodo.23068648",
-   "topics": [
-    "prediction-markets",
-    "industry"
-   ],
-   "designs": [
-    "longitudinal"
-   ],
-   "regions": [],
-   "score": 3,
-   "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.48550/arxiv.2610.05450",
-   "title": "Groupwise Distortion Guarantees for Preference-Based Alignment",
-   "journal": "arXiv",
-   "authors": [
-    "Jacob Brodkey",
-    "Roberto Tamez",
-    "Aaron Roth"
-   ],
-   "published": "2026-10-04",
-   "first_seen": "2026-10-16",
-   "summary": "Preference-based alignment methods such as reinforcement learning from human feedback (RLHF) and Nash learning from human feedback (NLHF) aggregate pairwise preferences to learn an LLM policy, but a natural goal is maximizing social welfare (average cardinal utility), which comparisons alone need not identify …",
-   "url": "https://doi.org/10.48550/arxiv.2610.05450",
-   "oa_url": "https://arxiv.org/pdf/2610.05450",
+   "published": "2026-10-14",
+   "first_seen": "2026-10-15",
+   "summary": "Background China operates the world’s largest lottery market, yet the psychological mechanisms linking individual dispositions to problem lottery gambling remain insufficiently understood, particularly among mainland Chinese samples. Financially focused self-concept—the tendency to base self-worth on financial success—has been linked to gambling problems …",
+   "url": "https://doi.org/10.3389/fpsyt.2026.1978508",
+   "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1978508/pdf",
    "topics": [
     "lottery",
-    "policy"
-   ],
-   "designs": [
-    "experiment"
-   ],
-   "regions": [
-    "us"
-   ],
-   "score": 3,
-   "why": [
-    "free full text",
-    "US",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.5281/zenodo.23102443",
-   "title": "ISLAMIC FINANCE STANDARDS AND THE DEVELOPMENT PROSPECTS OF ISLAMIC FINANCE IN THE ECONOMY OF UZBEKISTAN",
-   "journal": "Zenodo",
-   "authors": [
-    "Elomonov Eldor"
-   ],
-   "published": "2026-10-02",
-   "first_seen": "2026-10-16",
-   "summary": "This thesis examines the fundamental principles of Islamic finance, international Islamic finance standards, and their significance in the modern financial system. It also analyzes the existing opportunities, legal and regulatory framework, and development prospects for introducing Islamic financial services into the economy of Uzbekistan …",
-   "url": "https://doi.org/10.5281/zenodo.23102443",
-   "oa_url": "https://doi.org/10.5281/zenodo.23102443",
-   "topics": [
-    "policy",
+    "prevention",
     "industry"
    ],
    "designs": [
-    "behavioral-data"
-   ],
-   "regions": [],
-   "score": 3,
-   "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.37481/sjr.v9i4.1661",
-   "title": "Konsep Dasar Penyusunan Anggaran dalam Prespektif Akuntansi Syari’ah",
-   "journal": "SCIENTIFIC JOURNAL OF REFLECTION Economic Accounting Management and Business",
-   "authors": [
-    "Afni Maulia Farhani",
-    "M Bima Saputra",
-    "Salsabila Salsabila",
-    "Alif Ikhwanul Muttaqin",
-    "Suhendi Suhendi"
-   ],
-   "published": "2026-10-02",
-   "first_seen": "2026-10-16",
-   "summary": "One of the most important aspects of an organization’s financial management, even in Sharia-based organizations. The objective of this study is to examine the fundamental principles of budget preparation from a Sharia perspective and to identify the principles that distinguish it from conventional budgeting …",
-   "url": "https://doi.org/10.37481/sjr.v9i4.1661",
-   "oa_url": "https://ojspustek.org/index.php/SJR/article/download/1661/1104",
-   "topics": [
-    "policy"
-   ],
-   "designs": [
-    "review",
-    "qualitative",
-    "commentary"
+    "survey"
    ],
    "regions": [
     "asia"
    ],
-   "score": 3,
+   "score": 1,
    "why": [
-    "review",
-    "free full text",
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1017/s1049096526103023",
+   "title": "Forecasting 2026 Congressional Control: A Comparison of IEM and Kalshi Prediction Markets",
+   "journal": "PS Political Science & Politics",
+   "authors": [
+    "Thomas S. Gruca",
+    "Thomas A. Rietz"
+   ],
+   "published": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "summary": "",
+   "url": "https://doi.org/10.1017/s1049096526103023",
+   "oa_url": null,
+   "topics": [
+    "prediction-markets",
+    "industry"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
     "priority topic"
    ]
+  },
+  {
+   "id": "title:837c698212b5f709",
+   "title": "Cognitive-Behavioral Therapy for Gambling Disorder: Current Status and Future Directions",
+   "journal": "Cognitive and Behavioral Practice",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-10-16",
+   "summary": "Publication date: Available online 25 May 2026 Source: Cognitive and Behavioral Practice Author(s): Rory A. Pfund, Simone N. Rodda, Jeremiah Weinstock",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000623?dgcid=rss_sd_all",
+   "oa_url": null,
+   "topics": [
+    "treatment"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "title:119c8c134d627a45",
+   "title": "Online Sports Betting and Financial Trading in Young Adults: A Qualitative Exploration of Problem Gambling and Behavioral Change to Guide Treatment Development",
+   "journal": "Cognitive and Behavioral Practice",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-10-16",
+   "summary": "Publication date: Available online 22 May 2026 Source: Cognitive and Behavioral Practice Author(s): Jennifer J. Park, Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000611?dgcid=rss_sd_all",
+   "oa_url": null,
+   "topics": [
+    "sports-betting",
+    "online-gambling",
+    "youth",
+    "treatment"
+   ],
+   "designs": [
+    "qualitative"
+   ],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1016/j.jaac.2026.07.105",
+   "title": "6.1 Evolving Landscape of How Adolescents Game and Gamble",
+   "journal": "Journal of the American Academy of Child & Adolescent Psychiatry",
+   "authors": [
+    "Alexander Chevalier"
+   ],
+   "published": "2026-10-01",
+   "first_seen": "2026-10-11",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.jaac.2026.07.105",
+   "oa_url": null,
+   "topics": [
+    "youth"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 0,
+   "why": []
+  },
+  {
+   "id": "doi:10.1016/j.jaac.2026.07.106",
+   "title": "6.2 Betting on the Future: Gambling Disorders in Adolescents and Transitional-Age Youth",
+   "journal": "Journal of the American Academy of Child & Adolescent Psychiatry",
+   "authors": [
+    "Allison N. Chang"
+   ],
+   "published": "2026-10-01",
+   "first_seen": "2026-10-11",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.jaac.2026.07.106",
+   "oa_url": null,
+   "topics": [
+    "youth"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 0,
+   "why": []
+  },
+  {
+   "id": "doi:10.1016/j.jaac.2026.07.107",
+   "title": "6.3 Calculated Risk: Understanding Risk Factors for Adolescent Gambling Disorders",
+   "journal": "Journal of the American Academy of Child & Adolescent Psychiatry",
+   "authors": [
+    "Jennifer Creedon"
+   ],
+   "published": "2026-10-01",
+   "first_seen": "2026-10-11",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.jaac.2026.07.107",
+   "oa_url": null,
+   "topics": [
+    "youth"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 0,
+   "why": []
   }
  ],
  "news": [

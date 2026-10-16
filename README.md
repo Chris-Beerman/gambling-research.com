@@ -47,7 +47,7 @@ Body in Markdown. Link each study to its publisher record.
 - `config/site.yml`: title, descriptor, editor, contact address, how many days each page shows.
 - `config/sources.yml`: add or disable a source with `enabled: false`; news feeds take a `kind` that sets the fallback category.
 - `config/taxonomy.yml`: topic, design and news-category rules (regular expressions), region mapping, and the relevance rules that decide what is kept.
-- Repository secrets (optional): `OPENALEX_MAILTO` and `CROSSREF_MAILTO` (an email for the APIs' polite pools), `NCBI_API_KEY` (raises PubMed's rate limit).
+- Repository secrets: `OPENALEX_API_KEY` (required for the OpenAlex source; free at openalex.org/settings/api). Optional: `OPENALEX_MAILTO` and `CROSSREF_MAILTO` (an email for the APIs' polite pools), `NCBI_API_KEY` (raises PubMed's rate limit).
 
 ## Handoff: domains and mail
 

@@ -31,7 +31,10 @@ openalex:
     "slot machine" OR "slot machines" OR "electronic gaming machines" OR "poker machines" OR
     "loot box" OR "loot boxes" OR "prediction market" OR "prediction markets" OR
     "event contracts" OR "self-exclusion" OR "daily fantasy" OR "esports betting"
-  types: article|review|preprint|letter|editorial|report
+  types: article|review|letter|editorial
+  # Journals only: OpenAlex's repository records (Zenodo, OSF) are mostly SEO spam.
+  # Preprints come from the medRxiv feed instead.
+  source_types: journal
   days: 21
   backfill_days: 120
   # OpenAlex requires a free API key since Feb 13, 2026 (openalex.org/settings/api):

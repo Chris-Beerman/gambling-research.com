@@ -16,7 +16,7 @@ It does not try to cover gaming disorder in the video-game sense, gambling as a 
 Each night a job queries:
 
 - **PubMed** (NCBI E-utilities): a saved query over titles, abstracts and MeSH headings, by entry date. PubMed brings the strongest metadata (abstracts, affiliations, publication types, PubMed Central links).
-- **OpenAlex**: a boolean search over titles and abstracts, by publication date. OpenAlex brings preprints, non-MEDLINE journals, author country codes and free-full-text links.
+- **OpenAlex**: a boolean search over titles and abstracts, by publication date, limited to journal sources (its repository records, from Zenodo and the like, are mostly promotional spam). OpenAlex brings journals outside MEDLINE, including law, economics and non-English titles, plus author country codes and free-full-text links. Because its search is loose, a study that only OpenAlex supplies must name the subject in its title or mention it more than once in the abstract.
 - **Crossref**: everything registered by the journals devoted to gambling (Journal of Gambling Studies, International Gambling Studies, Journal of Gambling Issues, Journal of Behavioral Addictions, Critical Gambling Studies, Gaming Law Review), by DOI registration date.
 - **Journal feeds**: the tables of contents of the gambling journals and of the addiction journals that publish gambling work most often, plus medRxiv's addiction-medicine preprints.
 

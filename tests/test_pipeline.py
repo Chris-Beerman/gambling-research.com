@@ -76,10 +76,15 @@ def test_merge_and_relevance():
     raw = pubmed.parse_efetch(PUBMED_XML)
     raw.append(crossref.convert({"DOI": "10.1007/s10899-026-99999-1", "title": ["Direct marketing and sports betting: a randomised field experiment"], "container-title": ["Journal of Gambling Studies"], "created": {"date-parts": [[2026, 10, 2]]}, "type": "journal-article"}, None))
     raw.append({"source": "openalex", "doi": None, "pmid": None, "pmcid": None, "openalex": "W9", "title": "Neural correlates of risk in the Iowa Gambling Task", "journal": "NeuroImage", "issn": [], "authors": [], "affiliations": [], "countries": ["DE"], "published": "2026-10-01", "created": None, "abstract": "We used the Iowa Gambling Task to study reward.", "url": "x", "oa_url": None, "type": "article", "language": "en", "retracted": False})
-    raw.append({"source": "openalex", "doi": "10.1000/lottery", "pmid": None, "pmcid": None, "openalex": "W8", "title": "Lottery incentives for survey response", "journal": "Survey Methods", "issn": [], "authors": [], "affiliations": [], "countries": [], "published": "2026-10-01", "created": None, "abstract": "A lottery incentive raised response rates.", "url": "x", "oa_url": None, "type": "article", "language": "en", "retracted": False})
+    raw.append({"source": "pubmed", "doi": "10.1000/lottery", "pmid": "1", "pmcid": None, "openalex": None, "title": "Lottery incentives for survey response", "journal": "Survey Methods", "issn": [], "authors": [], "affiliations": [], "countries": [], "published": "2026-10-01", "created": None, "abstract": "A lottery incentive raised response rates.", "url": "x", "oa_url": None, "type": "article", "language": "en", "retracted": False})
+    # OpenAlex-only records: a single passing mention is not enough, and spam titles are dropped.
+    raw.append({"source": "openalex", "doi": "10.1000/oa-weak", "pmid": None, "pmcid": None, "openalex": "W7", "title": "Corporate debt maturity in China", "journal": "Applied Economics", "issn": [], "authors": [], "affiliations": [], "countries": [], "published": "2026-10-01", "created": None, "abstract": "We use local gambling preferences as a proxy for risk appetite.", "url": "x", "oa_url": None, "type": "article", "language": "en", "retracted": False})
+    raw.append({"source": "openalex", "doi": "10.1000/oa-spam", "pmid": None, "pmcid": None, "openalex": "W6", "title": "Code promo 1xBet 2027: welcome bonus for sports betting", "journal": "Zenodo", "issn": [], "authors": [], "affiliations": [], "countries": [], "published": "2026-10-01", "created": None, "abstract": "Sports betting bonus code.", "url": "x", "oa_url": None, "type": "article", "language": "en", "retracted": False})
+    raw.append({"source": "openalex", "doi": "10.1000/oa-good", "pmid": None, "pmcid": None, "openalex": "W5", "title": "Vulnerability and unfair profits in British gambling regulation", "journal": "European Law Open", "issn": [], "authors": [], "affiliations": [], "countries": ["GB"], "published": "2026-10-01", "created": None, "abstract": "Recent measures.", "url": "x", "oa_url": None, "type": "article", "language": "en", "retracted": False})
     papers, stats = update_index([], raw, TAX, TODAY, backfill=True)
-    assert stats["dropped_irrelevant"] == 1  # Iowa Gambling Task dropped
-    assert len(papers) == 2
+    assert stats["dropped_irrelevant"] == 3  # Iowa Gambling Task, weak OpenAlex-only record, spam title
+    assert len(papers) == 3
+    assert any(p["doi"] == "10.1000/oa-good" for p in papers)
     main = [p for p in papers if p["doi"] == "10.1007/s10899-026-99999-1"][0]
     assert set(main["sources"]) == {"pubmed", "crossref"}
     assert "sports-betting" in main["topics"] and "advertising" in main["topics"]

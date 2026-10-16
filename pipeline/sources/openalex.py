@@ -26,7 +26,9 @@ def fetch(s, cfg: dict, days: int) -> list[dict]:
     mailto = os.environ.get("OPENALEX_MAILTO") or cfg.get("mailto") or ""
     since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
     search = " ".join(str(cfg["search"]).split())
-    filt = f"title_and_abstract.search:{search},from_publication_date:{since},type:{cfg.get('types', 'article|review|preprint')}"
+    filt = f"title_and_abstract.search:{search},from_publication_date:{since},type:{cfg.get('types', 'article|review|letter|editorial')}"
+    if cfg.get("source_types"):
+        filt += f",primary_location.source.type:{cfg['source_types']}"
     cursor = "*"
     out: list[dict] = []
     while cursor:
