@@ -1,243 +1,137 @@
 {
- "started": "2026-10-16T00:00:48+00:00",
- "mode": "backfill",
+ "started": "2026-10-16T01:14:40+00:00",
+ "mode": "nightly",
  "sources": [
-  {
-   "id": "pubmed",
-   "kind": "papers",
-   "ok": true,
-   "items": 306,
-   "error": null
-  },
   {
    "id": "openalex",
    "kind": "papers",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: GET failed after 3 tries: https://api.openalex.org/works: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3Agambling+OR+gambler+OR+gamblers+OR+%22problem+gambling%22+OR+%22gambling+disorder%22+OR+%22sports+betting%22+OR+%22sports+bettors%22+OR+"
+   "ok": true,
+   "items": 1440,
+   "error": null,
+   "warning": null
   },
   {
    "id": "crossref",
    "kind": "papers",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: Gaming Law Review (2572-5297): GET failed after 3 tries: https://api.crossref.org/journals/2572-5297/works: 404 Client Error: Not Found for url: https://api.crossref.org/journals/2572-5297/works?filter=from-created-date%3A2026-06-18&rows=100&offset=0&sort=created&order=desc"
+   "ok": true,
+   "items": 27,
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:igs",
    "kind": "papers",
    "ok": true,
    "items": 21,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:art",
    "kind": "papers",
    "ok": true,
    "items": 45,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:jswpa",
    "kind": "papers",
    "ok": true,
    "items": 25,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:addiction",
    "kind": "papers",
    "ok": true,
    "items": 87,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:addictive-behaviors",
    "kind": "papers",
    "ok": true,
    "items": 43,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:cbp",
    "kind": "papers",
    "ok": true,
    "items": 64,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:cgs",
    "kind": "papers",
    "ok": true,
    "items": 30,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:jgs",
    "kind": "papers",
    "ok": true,
    "items": 20,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:ijmha",
    "kind": "papers",
    "ok": true,
    "items": 20,
-   "error": null
-  },
-  {
-   "id": "feed:jft",
-   "kind": "papers",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: GET failed after 3 tries: https://journals.newprairiepress.org/jft/recent.rss: 404 Client Error: Not Found for url: https://journals.newprairiepress.org/jft/recent.rss"
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:glr",
    "kind": "papers",
    "ok": true,
    "items": 4,
-   "error": null
+   "error": null,
+   "warning": null
   },
   {
    "id": "feed:medrxiv-addiction",
    "kind": "papers",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: GET failed after 3 tries: https://connect.medrxiv.org/medrxiv_xml/?subject=Addiction_Medicine: 404 Client Error: Not Found for url: https://connect.medrxiv.org/medrxiv_xml/?subject=Addiction_Medicine"
-  },
-  {
-   "id": "news:lsr",
-   "kind": "news",
    "ok": true,
-   "items": 10,
-   "error": null
-  },
-  {
-   "id": "news:sbc-americas",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null
-  },
-  {
-   "id": "news:sports-handle",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null
-  },
-  {
-   "id": "news:cdc-gaming",
-   "kind": "news",
-   "ok": true,
-   "items": 20,
-   "error": null
-  },
-  {
-   "id": "news:igb",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null
-  },
-  {
-   "id": "news:aga",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null
-  },
-  {
-   "id": "news:ncpg",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null
-  },
-  {
-   "id": "news:guardian-gambling",
-   "kind": "news",
-   "ok": true,
-   "items": 20,
-   "error": null
-  },
-  {
-   "id": "news:cftc",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null
-  },
-  {
-   "id": "news:federal-register-cftc",
-   "kind": "news",
-   "ok": true,
-   "items": 5,
-   "error": null
-  },
-  {
-   "id": "news:ukgc",
-   "kind": "news",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: feed could not be parsed: <unknown>:70:6: mismatched tag"
-  },
-  {
-   "id": "news:courtlistener-kalshi",
-   "kind": "news",
-   "ok": true,
-   "items": 6,
-   "error": null
-  },
-  {
-   "id": "news:gnews-problem-gambling",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null
-  },
-  {
-   "id": "news:gnews-betting-law",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null
-  },
-  {
-   "id": "news:gnews-prediction-markets",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null
-  },
-  {
-   "id": "news:gnews-self-exclusion",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "items": 30,
+   "error": null,
+   "warning": null
   }
  ],
  "papers": {
-  "raw": 665,
-  "groups": 637,
-  "added": 346,
-  "updated": 0,
-  "dropped_irrelevant": 291,
-  "total": 346
+  "raw": 1856,
+  "groups": 1812,
+  "added": 1346,
+  "updated": 147,
+  "dropped_irrelevant": 319,
+  "total": 1692
  },
  "news": {
-  "raw": 611,
-  "added": 501,
-  "dropped_irrelevant": 93,
-  "total": 478
+  "raw": 0,
+  "added": 0,
+  "dropped_irrelevant": 0,
+  "total": 461
  },
- "finished": "2026-10-16T00:02:11+00:00",
- "papers_total": 346,
- "news_total": 478,
+ "finished": "2026-10-16T01:15:24+00:00",
+ "papers_total": 1692,
+ "news_total": 461,
  "history": [
+  {
+   "finished": "2026-10-16T01:15:24+00:00",
+   "mode": "nightly",
+   "added": 1346,
+   "news_added": 0,
+   "failed": 0
+  },
   {
    "finished": "2026-10-16T00:02:11+00:00",
    "mode": "backfill",
