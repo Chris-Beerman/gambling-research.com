@@ -62,6 +62,8 @@ jobs:
             echo "no data changes"
           else
             git commit -m "index: update $(date -u +%Y-%m-%d)"
+            # Someone may have pushed to main while the fetch ran; replay the data commit on top.
+            git pull --rebase origin main
             git push
           fi
 
