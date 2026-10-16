@@ -1,0 +1,1089 @@
+{
+ "generated": "2026-10-16",
+ "window": {
+  "from": "2026-10-09",
+  "to": "2026-10-16"
+ },
+ "new_studies": 20,
+ "candidates": [
+  {
+   "id": "doi:10.1080/16066359.2026.2741076",
+   "title": "Risky parental gambling and child delinquency: longitudinal evidence on financial strain and disrupted parenting",
+   "journal": "Addiction Research & Theory",
+   "authors": [
+    "Azamsadat Hosseini Shoabjareh Ben Edwards Aino Suomi a ANU Centre for Gambling Researchb POLIS: Centre for Social Policy Research, Australian National University"
+   ],
+   "published": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "summary": ".",
+   "url": "https://doi.org/10.1080/16066359.2026.2741076",
+   "oa_url": null,
+   "topics": [],
+   "designs": [
+    "longitudinal"
+   ],
+   "regions": [],
+   "score": 4,
+   "why": [
+    "core journal",
+    "longitudinal or behavioral data"
+   ]
+  },
+  {
+   "id": "doi:10.1200/jco-26-01303",
+   "title": "Clinical Trial Prediction Markets",
+   "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+   "authors": [
+    "Nicholas G Zaorsky"
+   ],
+   "published": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "summary": "",
+   "url": "https://doi.org/10.1200/jco-26-01303",
+   "oa_url": null,
+   "topics": [
+    "prediction-markets",
+    "treatment",
+    "industry"
+   ],
+   "designs": [
+    "trial"
+   ],
+   "regions": [],
+   "score": 4,
+   "why": [
+    "trial",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1016/j.addbeh.2026.108873",
+   "title": "Exploring the relationships between problem and responsible gambling behaviors across time",
+   "journal": "Addictive behaviors",
+   "authors": [
+    "Alexander J Connolly",
+    "Kristiana D Carrasquillo",
+    "Shane W Kraus",
+    "Joshua B Grubbs"
+   ],
+   "published": "2026-10-08",
+   "first_seen": "2026-10-10",
+   "summary": "Recent legislative and technological changes have transformed the gambling landscape in the United States, underscoring the need to better understand both problem gambling and responsible gambling behaviors …",
+   "url": "https://doi.org/10.1016/j.addbeh.2026.108873",
+   "oa_url": null,
+   "topics": [
+    "prevention",
+    "policy",
+    "measurement"
+   ],
+   "designs": [
+    "longitudinal",
+    "commentary"
+   ],
+   "regions": [
+    "us",
+    "latin-america"
+   ],
+   "score": 2,
+   "why": [
+    "longitudinal or behavioral data",
+    "US",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10899-026-10565-5",
+   "title": "Invisible Obstacles: Audit of Consumer Experience When Calling Gambling Helplines in the United States",
+   "journal": "Journal of gambling studies",
+   "authors": [
+    "Natasha M Bourgoin",
+    "Mark R Hastings",
+    "Jordan N Jones",
+    "Meredith K Ginley",
+    "James P Whelan"
+   ],
+   "published": "2026-10-13",
+   "first_seen": "2026-10-12",
+   "summary": "Gambling helplines offer an important entry point to treatment for individuals who experience harm from gambling problems. To date, research has not directly explored callers' expectations for helplines or whether helplines consistently connect individuals to services and resources …",
+   "url": "https://doi.org/10.1007/s10899-026-10565-5",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "policy"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "us"
+   ],
+   "score": 2,
+   "why": [
+    "US",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10899-026-10567-3",
+   "title": "Gambling, Discrimination, and Stressful Life Events among Substance Use Disorder Treatment Patients",
+   "journal": "Journal of gambling studies",
+   "authors": [
+    "Anna Pagano",
+    "Nadra E Lisha",
+    "Jennifer T Le",
+    "Caravella McCuistian"
+   ],
+   "published": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "summary": "People with addictive disorders are vulnerable to stigma and discrimination, which can impact addiction treatment outcomes through increased psychological distress and reduced self-efficacy …",
+   "url": "https://doi.org/10.1007/s10899-026-10567-3",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "measurement",
+    "comorbidity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "us"
+   ],
+   "score": 2,
+   "why": [
+    "US",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.3389/fpsyg.2026.1936216",
+   "title": "Early detection of problematic internet use among university students: psychometric validation of the PIUQ-9",
+   "journal": "Frontiers in psychology",
+   "authors": [
+    "Roser Granero",
+    "Fernando Fernández-Aranda",
+    "Zsolt Demetrovics",
+    "Susana Jiménez-Murcia"
+   ],
+   "published": "2026-09-30",
+   "first_seen": "2026-10-15",
+   "summary": "University students extensively use the internet for academic, social, and recreational purposes, increasing the risk of developing problematic internet use (PIU) …",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1936216",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13661367/",
+   "topics": [
+    "online-gambling",
+    "loot-boxes",
+    "youth",
+    "prevention",
+    "policy",
+    "measurement",
+    "cognition",
+    "equity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "australia-nz",
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1192/j.eurpsy.2026.12261",
+   "title": "Undirected and directed networks of problem gambling: Follow the money trail",
+   "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+   "authors": [
+    "André Syvertsen",
+    "Omid V Ebrahimi",
+    "Dominic Sagoe",
+    "Joakim H Kristensen",
+    "Ståle Pallesen"
+   ],
+   "published": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "summary": "Psychometric network analysis offers a granular understanding of problem gambling (PG) by modeling individual symptoms within an interconnected system. Identifying central symptoms can help explain symptom co-occurrence and core symptoms relevant for escalating severity …",
+   "url": "https://doi.org/10.1192/j.eurpsy.2026.12261",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "policy",
+    "prevalence",
+    "measurement",
+    "financial-harm",
+    "equity"
+   ],
+   "designs": [
+    "survey",
+    "longitudinal"
+   ],
+   "regions": [
+    "uk-ireland",
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "longitudinal or behavioral data",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1556/2006.2026.00021",
+   "title": "From scroll to norm: How gambling norms are being shaped by social media sponsorships",
+   "journal": "Journal of behavioral addictions",
+   "authors": [
+    "Bram Hartmann",
+    "Steffi De Jans",
+    "Liselot Hudders",
+    "Bram Constandt"
+   ],
+   "published": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "summary": "Background And Aims: Gambling sponsorship is increasingly visible on social media, yet it remains unclear how it contributes to the perceived normalization of gambling. This study explores whether sponsored gambling posts endorsed on social media affect young adults' perceived descriptive and injunctive gambling norms. Methods: A 2 (brand type: gambling vs …",
+   "url": "https://doi.org/10.1556/2006.2026.00021",
+   "oa_url": null,
+   "topics": [
+    "youth",
+    "advertising",
+    "prevalence"
+   ],
+   "designs": [
+    "experiment"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10899-026-10568-2",
+   "title": "Distribution of Losses Among Horse Race Bettors: An Analysis of Account-Based Player Tracking Data",
+   "journal": "Journal of gambling studies",
+   "authors": [
+    "Kerem Buzcular",
+    "Ingeborg Rossow",
+    "Ståle Pallesen",
+    "Tony Leino"
+   ],
+   "published": "2026-10-10",
+   "first_seen": "2026-10-10",
+   "summary": "Previous research on gambling loss patterns has mainly relied on self-reported data, which has some inherent biases (e.g., low accuracy). While some studies are based on large samples of horse bettors, few have examined how losses are distributed among them …",
+   "url": "https://doi.org/10.1007/s10899-026-10568-2",
+   "oa_url": null,
+   "topics": [
+    "equity"
+   ],
+   "designs": [
+    "survey",
+    "behavioral-data"
+   ],
+   "regions": [
+    "europe",
+    "asia"
+   ],
+   "score": 1,
+   "why": [
+    "longitudinal or behavioral data"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10899-026-10566-4",
+   "title": "Online vs. In Person Gambling: Does Exposure to Brick-and-Mortar Gambling Shops Lead to Increased Online Gambling?",
+   "journal": "Journal of gambling studies",
+   "authors": [
+    "Jing Zhang",
+    "Luning Li",
+    "Emmanouil Tranos"
+   ],
+   "published": "2026-10-10",
+   "first_seen": "2026-10-10",
+   "summary": "The rise of online gambling in Great Britain in the past two decades has caused increased public health concerns. This study adds to existing evidence on physical gambling environment as a driver of gambling participation, using a 2022 national survey …",
+   "url": "https://doi.org/10.1007/s10899-026-10566-4",
+   "oa_url": null,
+   "topics": [
+    "online-gambling",
+    "treatment",
+    "policy",
+    "prevalence"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "uk-ireland"
+   ],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.12740/pp/205179",
+   "title": "Personality, dopamine, and addiction: the DRD4 Ex3 (VNTR) polymorphism and personality traits in men addicted to gambling and amphetamine",
+   "journal": "Psychiatria polska",
+   "authors": [
+    "Agnieszka Boroń",
+    "Remigiusz Recław",
+    "Krzysztof Chmielowiec",
+    "Jolanta Chmielowiec",
+    "Aleksandra Strońska-Pluta",
+    "Michał Tomasz Kowalski",
+    "Jolanta Masiak",
+    "Magdalena Gibas-Dorna",
+    "Grzegorz Trybek",
+    "Anna Grzywacz"
+   ],
+   "published": "2026-10-08",
+   "first_seen": "2026-10-10",
+   "summary": "The present study analyzed the polymorphism of the dopamine receptor gene DRD4, which is widely described in the literature as being associated with sensation seeking. Gambling disorder (GD) shares similar biological mechanisms and symptoms with substance use disorders (SUD). Therefore, a behavioral addiction group was selected for this study …",
+   "url": "https://doi.org/10.12740/pp/205179",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "measurement",
+    "cognition",
+    "comorbidity"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.12688/wellcomeopenres.25913.2",
+   "title": "Gambling behaviour of Bradford teenagers: evidence from the Born in Bradford Age of Wonder study",
+   "journal": "Wellcome open research",
+   "authors": [
+    "Gillian Santorelli",
+    "Jane West",
+    "John Pickavance"
+   ],
+   "published": "2026-08-17",
+   "first_seen": "2026-10-13",
+   "summary": "Gambling among young people is a public health concern, and gambling-like mechanics in digital games (e.g., loot boxes) may increase exposure. We estimated the prevalence of traditional gambling and gambling-like online behaviours among adolescents in Bradford …",
+   "url": "https://doi.org/10.12688/wellcomeopenres.25913.2",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13654074/",
+   "topics": [
+    "online-gambling",
+    "casino",
+    "loot-boxes",
+    "youth",
+    "prevention",
+    "prevalence",
+    "equity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "uk-ireland"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1080/07448481.2026.2746416",
+   "title": "Gambling in fraternity and sorority life: leadership perspectives on social influences, risk, and prevention",
+   "journal": "Journal of American college health : J of ACH",
+   "authors": [
+    "Jackie F Stanmyre",
+    "Alexander Cohen",
+    "Lia Nower"
+   ],
+   "published": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "summary": "To examine Greek life leaders' perceptions of gambling prevalence, peer influences, capacity for member support, and prevention strategies. Participants: Eleven Greek life leaders from a northeastern university were recruited in Summer/Fall 2025 …",
+   "url": "https://doi.org/10.1080/07448481.2026.2746416",
+   "oa_url": null,
+   "topics": [
+    "sports-betting",
+    "online-gambling",
+    "casino",
+    "prevention",
+    "policy",
+    "prevalence",
+    "equity"
+   ],
+   "designs": [
+    "qualitative",
+    "commentary"
+   ],
+   "regions": [
+    "us"
+   ],
+   "score": 1,
+   "why": [
+    "US",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1001/jamapsychiatry.2026.3175",
+   "title": "Online Sports Betting Legalization and Behavioral Health Care Use",
+   "journal": "JAMA psychiatry",
+   "authors": [
+    "Benjamin Westermeyer",
+    "Matthew D Eisenberg",
+    "Mark K Meiselbach"
+   ],
+   "published": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "summary": "The number of states with legal online sports betting has grown from 1 to 31 since 2018, expanding access to gambling. Despite the known behavioral health burdens associated with gambling, little is understood about legalization's impact on mental health and substance use treatment use …",
+   "url": "https://doi.org/10.1001/jamapsychiatry.2026.3175",
+   "oa_url": null,
+   "topics": [
+    "sports-betting",
+    "online-gambling",
+    "treatment",
+    "prevention",
+    "policy",
+    "comorbidity",
+    "equity"
+   ],
+   "designs": [
+    "experiment"
+   ],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1016/j.genhosppsych.2026.09.017",
+   "title": "Suicidal ideation and psychiatric comorbidity in a nationally representative sample of ED visits with documented gambling concerns",
+   "journal": "General hospital psychiatry",
+   "authors": [
+    "Heather M Gray",
+    "Nathaniel A Dell",
+    "Debi A LaPlante"
+   ],
+   "published": "2026-10-03",
+   "first_seen": "2026-10-14",
+   "summary": "Gambling disorder is associated with suicide and other severe harms. In an era of rapid gambling expansion, psychiatrists might benefit from information about the clinical needs of patients with gambling concerns who present to the emergency department (ED) …",
+   "url": "https://doi.org/10.1016/j.genhosppsych.2026.09.017",
+   "oa_url": null,
+   "topics": [
+    "prevalence",
+    "cognition",
+    "comorbidity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "us"
+   ],
+   "score": 1,
+   "why": [
+    "US"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s11187-026-01230-7",
+   "title": "Variable and fixed rate debt: Gambling on the future state of the economy after Covid-19",
+   "journal": "Small business economics",
+   "authors": [
+    "Marc Cowling",
+    "Kit Pong Wong",
+    "Huan Yang"
+   ],
+   "published": "2026-05-22",
+   "first_seen": "2026-10-15",
+   "summary": "After a decade of low and stable interest rates, recent global events have introduced a significant degree of economic turbulence causing a spike in inflation and central banks across the world to raise their base rates. This in turn was transmitted to commercial lenders who raised their loan interest rates …",
+   "url": "https://doi.org/10.1007/s11187-026-01230-7",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13661636/",
+   "topics": [
+    "financial-harm",
+    "industry"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "uk-ireland",
+    "asia"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "title:837c698212b5f709",
+   "title": "Cognitive-Behavioral Therapy for Gambling Disorder: Current Status and Future Directions",
+   "journal": "Cognitive and Behavioral Practice",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-10-16",
+   "summary": "Publication date: Available online 25 May 2026 Source: Cognitive and Behavioral Practice Author(s): Rory A. Pfund, Simone N. Rodda, Jeremiah Weinstock",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000623?dgcid=rss_sd_all",
+   "oa_url": null,
+   "topics": [
+    "treatment"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "title:119c8c134d627a45",
+   "title": "Online Sports Betting and Financial Trading in Young Adults: A Qualitative Exploration of Problem Gambling and Behavioral Change to Guide Treatment Development",
+   "journal": "Cognitive and Behavioral Practice",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-10-16",
+   "summary": "Publication date: Available online 22 May 2026 Source: Cognitive and Behavioral Practice Author(s): Jennifer J. Park, Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000611?dgcid=rss_sd_all",
+   "oa_url": null,
+   "topics": [
+    "sports-betting",
+    "online-gambling",
+    "youth",
+    "treatment"
+   ],
+   "designs": [
+    "qualitative"
+   ],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "title:528e28da3be42525",
+   "title": "Perspectives of Treatment Providers and Individuals Who Experienced Problem Gambling on Useful Cognitive-Behavioral Approaches for Sustained Recovery",
+   "journal": "Cognitive and Behavioral Practice",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-10-16",
+   "summary": "Publication date: Available online 7 April 2026 Source: Cognitive and Behavioral Practice Author(s): Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Jennifer J. Park, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000362?dgcid=rss_sd_all",
+   "oa_url": null,
+   "topics": [
+    "treatment"
+   ],
+   "designs": [
+    "commentary"
+   ],
+   "regions": [],
+   "score": 0,
+   "why": [
+    "priority topic"
+   ]
+  },
+  {
+   "id": "title:a1c763a20050320d",
+   "title": "Seeking Safety: A Clinical Guide to Implementation for Gambling Disorder",
+   "journal": "Cognitive and Behavioral Practice",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-10-16",
+   "summary": "Publication date: Available online 7 April 2026 Source: Cognitive and Behavioral Practice Author(s): Lisa M. Najavits, Marsha Harris, Melissa J. Muir, David M. Ledgerwood",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000374?dgcid=rss_sd_all",
+   "oa_url": null,
+   "topics": [],
+   "designs": [],
+   "regions": [],
+   "score": 0,
+   "why": []
+  }
+ ],
+ "news": [
+  {
+   "title": "New York, Massachusetts targeting AI use by sportsbooks after DraftKings stories",
+   "url": "https://sbcamericas.com/2026/10/15/states-ai-use-sportsbooks-draftkings/",
+   "source": "SBC Americas",
+   "published": "2026-10-15",
+   "primary": "regulation",
+   "summary": "In recent days following media coverage about how DraftKings might use artificial intelligence to target losing bettors, state regulators are asking more of their sports betting licensees. Regulators in Massachusetts…"
+  },
+  {
+   "title": "Underdog sues Tennessee after state threatens fantasy license",
+   "url": "https://sbcamericas.com/2026/10/15/underdog-sues-tn-prediction-markets/",
+   "source": "SBC Americas",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Underdog sued Tennessee officials Tuesday over an order to stop offering sports event contracts, challenging a crackdown that threatens both its prediction markets business and a fantasy sports license. The lawsuit…"
+  },
+  {
+   "title": "Seahawks vs. Broncos Prediction Markets: Trade Polymarket TNF Odds Today",
+   "url": "https://sportshandle.com/seahawks-vs-broncos-prediction-markets-trade-polymarket-tnf-odds-today/",
+   "source": "Sports Handle",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": ""
+  },
+  {
+   "title": "Louisiana: Regulators delay DraftKings license renewal over AI concerns",
+   "url": "https://cdcgaming.com/louisiana-regulators-delay-draftkings-license-renewal-over-ai-concerns/",
+   "source": "CDC Gaming",
+   "published": "2026-10-15",
+   "primary": "regulation",
+   "summary": "DraftKings&#8217;s application for renewal of its sports betting permit in Louisiana has been put on hold until early next year, after regulators continue to investigate reports over the company’s use of artificial…"
+  },
+  {
+   "title": "Prediction markets innovation claims questioned by tribal, state gaming regulators",
+   "url": "https://cdcgaming.com/prediction-markets-innovation-claims-questioned-by-tribal-state-gaming-regulators/",
+   "source": "CDC Gaming",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Prediction markets have moved into the mainstream, bolstered by a large consumer appetite for sports-event contracts and a friendly regulatory scheme with the Trump administration. Kalshi and other companies argue that…"
+  },
+  {
+   "title": "Nevada gambling regulator not surprised by CFTC’s rulemaking on prediction markets",
+   "url": "https://cdcgaming.com/nevada-gambling-regulator-not-surprised-by-cftcs-rulemaking-on-prediction-markets/",
+   "source": "CDC Gaming",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "The decision by the Commodity Futures Trading Commission (CFTC) to advance a regulatory overhaul of prediction markets late last Friday did not come as a surprise to Nevada’s top gaming regulator. “Definitely, this is…"
+  },
+  {
+   "title": "Pennsylvania Gaming Control Board renews Live! Casino’s license, places players on exclusion list",
+   "url": "https://cdcgaming.com/pennsylvania-gaming-control-board-renews-live-casinos-license-places-players-on-exclusion-list/",
+   "source": "CDC Gaming",
+   "published": "2026-10-15",
+   "primary": "regulation",
+   "summary": "The Pennsylvania Gaming Control Board on Wednesday moved forward on the renewal of a casino’s license and placed five players on its Involuntary Casino Exclusion list for leaving minors unattended at a casino property…"
+  },
+  {
+   "title": "Polistina Bill Focusing on Accountability, Education, Gambling Addiction Prevention Passes Committee",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WNXZzZFdXQlVWbWx5SF9aVTNDczZReFg5b2w1d19LN2xhcWJRbmNhTE5FVml2bUNUX1JHa1BmTHdDUlRKVWY3eUptbnhKbEFIeEQ2clcyNFVETVlFZkdN?oc=5",
+   "source": "NJ Senate Republican",
+   "published": "2026-10-15",
+   "primary": "public-health",
+   "summary": "Polistina Bill Focusing on Accountability, Education, Gambling Addiction Prevention Passes Committee NJ Senate"
+  },
+  {
+   "title": "Connecticut Council on Problem Gambling hosts annual conference",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGsyM1UwbzVYQzR6WXEtVllRVXRQaTNhVnJmS0FubVYxR2o3RkNOS0g5b3RKeHZEcnZNUnhBMGV0YlVvdHlLYXhkeWNxSUdIeW1pX05pSHFHcjhnNHBTSEtvTzZNNk5pZlpmTlVXRDMta1NNRG4wbFR3VmhxWmg5N2JIckdCRnNxSHd2UjhrUGFrekpFYl9B?oc=5",
+   "source": "CDC Gaming",
+   "published": "2026-10-15",
+   "primary": "public-health",
+   "summary": "Connecticut Council on Problem Gambling hosts annual conference CDC"
+  },
+  {
+   "title": "US states left $43M in problem gambling funds unspent: Report",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTNkaFMyU1o0MTY2X1BKRk9ZWXpaZXZLUzB4VFdDVk8tS19JZnZlVHozVFVTYXBIcURaaHZJdVpKQndta3dac3JDLWctMTIxQlFkdVlSOWxXTHJHbTZRdlg0blNWU1dhWGJBNTFMSXF2UjhvdHd0MTZ6UDBqeDhNaGltZDU?oc=5",
+   "source": "sigma.world",
+   "published": "2026-10-15",
+   "primary": "public-health",
+   "summary": "US states left $43M in problem gambling funds unspent: Report"
+  },
+  {
+   "title": "NCPG Warns US Problem Gambling System Faces Capacity Crisis",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmZxUFJIODBnTGtBb3U0MzRlOFpFd1RfNGhQNXhlbVlJTVRGSW1MSnBfRkdfd1RJUXFEZWl6dmlmZjlKQTRKNjN2QmFWOGYwN2tRTTR2TlV6VDhJSGdMRWlnWHJsamZuT0tuS1hwcllhSkNvU2FmTmtOa0FWMmZVdm1R?oc=5",
+   "source": "GamblingSites.com",
+   "published": "2026-10-15",
+   "primary": "public-health",
+   "summary": "NCPG Warns US Problem Gambling System Faces Capacity Crisis"
+  },
+  {
+   "title": "South Carolina Sports Betting Bill Eyes $40M, Treatment Funds",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHplaE5XU1BzeUI0VWNsMEhVdzhsX1lPOWNXaUgyRE92ei1qWmJrUS1TSnlDTDF4bVFxcV9QMVp4R0dCXzJReUUza0lMMFo3dVlyTzhOcjVGcUUzbVdpaFR4Y1c3VkhEWnRfYmJFSXc5RkhsTUFXclZxLWp0Wl9lcEJ5UlRBaUhnWWJqd0VZQU5CWWV1Y2J4RWY1MWVIZnRaSnF5bHoxMFE?oc=5",
+   "source": "GamingToday",
+   "published": "2026-10-15",
+   "primary": "public-health",
+   "summary": "South Carolina Sports Betting Bill Eyes $40M, Treatment Funds"
+  },
+  {
+   "title": "Best Kalshi promo code CBSSPORTS55: Pocket $55 bonus for Broncos-Seahawks, NFL, Brewers-Dodgers on Thursday",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3JUbmZlQU9qMUhiaVZ6eFZXc3RJbzVubHM4al9ZeTFtNFB1RERxeWpBYVp5LXljOXdTcE9vNURPZXFSbmFUMnFDNE91VEhrZWN0bDVuR3dJUWdNdGt0V3BCX2xmN0R5RkFuTF9HT19RZEZmbmxpRTY5MDN0S1p6MDlhQ3VtRmR3RGVhaFNrak5KeFBLZG1RSDhCU0Rhbl90akJJY2Rnbk8xbVdoQVNFbnMyU0doNmJ5Um9FT3JsVUx1dHQ0XzhmQ0t4OTQ1YUJ4c3JYTGhzTGx1ZlE?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Best Kalshi promo code CBSSPORTS55: Pocket $55 bonus for Broncos-Seahawks, NFL, Brewers-Dodgers on Thursday CBS"
+  },
+  {
+   "title": "Kalshi Promo Code FOXSPORTS55 Unlocks $55 Promo for Broncos vs. Seahawks",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEhITTVUc3lYd25fQnBHRVdkUjdZYTFnN1E2Y0FWdzRER0FYeDFVaF9xaWJQUXFtdkJMZFBxUGtqS0N0MEh0eXk5QnZEOUQzcFc4cmxUOHpCY2VTT2tFdlNDZWRRUUROUy1vdTd4Y2lYSERnT2F1NEZrSEJJcmJ5Q0U4X3dDbDQ4QjR2UnVpYnJxQ09JcDVPb3VIZDhsdHRNNEpxejZnVG1SQnpE0gGsAUFVX3lxTE1ia1dLaUcwdmtSZllGekFnVHZLUXloWkpSQU16LTExM2Z1dm5rcHp4S0ZnODU1VFBfMXg4S2VhOTJSTGF5MWh4VGZUR3FnUnlPaFFyYl9IVFdNNWVMSkFzdXZxMXBWbEhNY1YzSWRDRWhvT215X29BWXp2T0lSNkhITi1yT2x6S3lYQ3VzanFHb0pLVTc0TXQ3MXdGYkFQd3JfZEs5VTU4c213WjU?oc=5",
+   "source": "FOX Sports",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Kalshi Promo Code FOXSPORTS55 Unlocks $55 Promo for Broncos vs. Seahawks FOX"
+  },
+  {
+   "title": "New $55 Kalshi code “OREGONLIVE55” updated for Thursday Night Football live odds",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1ZqOHdsOWtYNmZvREhjUHNpSGk3MGRCS0dSSWZJNzBsSlBKNElZMnFjMkhsanhhU1gtOENyT2V4ZkpyN0g1TC1SUFRmMzJBRDRNSFZ1Rjh0cUl4N1NlREFOb01ZWmxwTHl6dFZ5Qkc5ZVd1VzJmbklOY3YxUXpvaWs3YzY2VlZXRGJuN0NHMngwSFdIMlhtMHVxVGZGRVJKQ2RKYUVKMUxhazVnZlgzSS04blBrQ0hWaEVsaE5QVUpldDQ?oc=5",
+   "source": "OregonLive.com",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "New $55 Kalshi code “OREGONLIVE55” updated for Thursday Night Football live odds"
+  },
+  {
+   "title": "Will Tesla's Roadster Fly Tonight? Prediction Markets Say It's Likely",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHdRTVNLeVpHSFlmOTZJTU9MTE9Qb2RNZE5VTE5qZUppeWtBWjlHUTRSdEJHRHF1anVWalhOYzRBOGpmZVFFbGlVd2hZU214N0Vzbk1Ud2ZqeDRMa2pUZ3llVmZSSWxNNU9tTVpRTEpaYWRBMTFmSk15ejdGMjZkS0k0R0cxckc3aHBzSDk2cnF2d3FZUmNjeS1iRjVlQWZaOF83VWowUQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Will Tesla's Roadster Fly Tonight? Prediction Markets Say It's Likely Yahoo"
+  },
+  {
+   "title": "Polymarket extends $25 promo code “CUSE” through Thursday Night Football",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEo3MVRxZS0wQUZpazJjS3d3cmFkeW1nLWxGS3ctUEdfbE81dm1HVWtsdFpQVUxZa2tmNGVvR1R4R05sQ1VHY242UzZsVVJnWWZMaTQzTDhvVHotejBHcEZyUlY2WWtnUGloYk9rZEQyTGk3SXFBSXFDTDNvWl9tNmRQZnNWeC1jd0dsTmRXcWRUZEZGSTJxTk44UW9TTzBraU9sTkJzbTJKRjRWc3RMTzJjUHRuQQ?oc=5",
+   "source": "Syracuse.com",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Polymarket extends $25 promo code “CUSE” through Thursday Night Football"
+  },
+  {
+   "title": "Kalshi Promo Code AL55: Get $55 bonus for Thursday Night Football Seahawks vs. Broncos trades",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3ZGdkZwSHViS2R5dlgxQlIxYjg2SGpOMUliNzFKbkdRZkhERmFHQXdjMGJDekdPeDR6OUdGUkpQWW0wTmNFX05raWRtbHJSVVFrMmFkWVRhWVMyNWx5RGFOZFFQWmlWU1hWNXdIdmludzNqTU1JcHMwdDFtWnBWUTFKMUJuRTFYV2dKX2dOZTVUUDhZQ2hQRVFYWm4ydDExLU43OEtBZVY3RVJCRnIzeXF1SU9VRlhIY3Zheno5RjVZX0pyM2c?oc=5",
+   "source": "AL.com",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Kalshi Promo Code AL55: Get $55 bonus for Thursday Night Football Seahawks vs. Broncos trades"
+  },
+  {
+   "title": "Prediction markets are taking big bets on Ontario municipal races. Here's what the rules say",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajJsNzh5eDlnOV9ob1JoVEdxNWw5akdPWTl3dHktcUJ5aDNQWnJVZ1NHejJPSllwUjB4SE51RDgwd21wZ3ZwcGR1VVNncDFDQXN6a2dkXzVQWWgzUHltX1pHNVdxcExGenMwZVNxT2xYUmlmRmZzNmhGUlZrOGVLc2ZvZ3lrMkdDUnNCUDVNN20?oc=5",
+   "source": "CBC",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Prediction markets are taking big bets on Ontario municipal races. Here's what the rules say"
+  },
+  {
+   "title": "Polymarket referral code “CLEVE” extends $25 bonus in OH for Seahawks-Broncos tonight",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEVDNkFxVmRJRkFCbjVTLWctZGlNS01xNUQyU1ViMm05MjZaYThma3R0VEJlMXo4cGg1UGZlejg0WjFyOFY4YXVESmRxSHpSS1U4NGlXSmp6OHhJbW5IMnFERVdBY1J6LWN3NGxWSm5ra1d5SldXeVhOdFk1TTB3WEd5LWdsVXBqUE4xd3VnQ192QUJzeGZYSkxtMHF0TUQ3dno1bFkycmY4QUdKdElSMlJWQzZvVzBUOFJmTm5EY0JoRFk2OEpJLQ?oc=5",
+   "source": "Cleveland.com",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Polymarket referral code “CLEVE” extends $25 bonus in OH for Seahawks-Broncos tonight"
+  },
+  {
+   "title": "New $25 Polymarket promo code “OREGON” extended for Seahawks-Broncos live odds",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnBBbjIzQ042YWN6SW1lOEQyandHZnRxMF8wSTRnM1REc0hlaHh6S1NWTlRfU29BOWVBNmpxQ1NaWmFTVDdILUp3V0UyNk83YUhOWkg1UUNlbVNvOWlRVkFhWTBLS1I2NWhKd2JMelVsOTF3bTJaOExsbXFRWmpLWURicFlGZGVWRUdCaGFhaFBkY1d2SktwaXM1OGE5TnB0X0xwVHFHemZBTUh3YkNndDVCNFI3QURXYUdZbWlWNGo?oc=5",
+   "source": "OregonLive.com",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "New $25 Polymarket promo code “OREGON” extended for Seahawks-Broncos live odds"
+  },
+  {
+   "title": "Polymarket Promo Code AL25BONUS kicks off Thursday Night Football with $25 trading bonus",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOenBjRy05ZnBoWUc3STExWVp2aEtkcVQxWmlYTm9GazBXTGl2N0liSHZJbzhqYmNVSk84UURpMjA2WHZiTmdYUmlKWW40LU1jY1MzZGx3RkhKUmlnTEVLb1RMYTN2dTBkZllXMEFhb01fOEVGekUybzVXRUxhV0lXbmtBWFZSTlZvRmN3WWRnUlRHRWF4V1pyOU4yZERfM2tZbmR0UHpzQU9IR3phelhSQTluT1hERmYyNmUxOEppZ2Y?oc=5",
+   "source": "AL.com",
+   "published": "2026-10-15",
+   "primary": "prediction-markets",
+   "summary": "Polymarket Promo Code AL25BONUS kicks off Thursday Night Football with $25 trading bonus"
+  },
+  {
+   "title": "Kalshi Faces Conflicting Claims Over Oklahoma Tribal Partnership",
+   "url": "https://www.legalsportsreport.com/281907/kalshi-faces-conflicting-claims-over-oklahoma-tribal-partnership/",
+   "source": "Legal Sports Report",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "A faction of the Oklahoma tribe Kalshi calls a prediction market partner is disputing that relationship amid a broader fight over tribal gaming rights and federally regulated sports event"
+  },
+  {
+   "title": "Massachusetts Regulators Ask Operators If AI Targets Losing Bettors",
+   "url": "https://www.legalsportsreport.com/281888/massachusetts-regulators-ask-operators-if-ai-targets-losing-bettors/",
+   "source": "Legal Sports Report",
+   "published": "2026-10-14",
+   "primary": "regulation",
+   "summary": "The Massachusetts Gaming Commission’s review of how operators use artificial intelligence is now underway, with regulators sending every licensed sports betting operator a detailed list of questions"
+  },
+  {
+   "title": "NBA, WNBA Launching Responsible Gaming Campaign With NCPG",
+   "url": "https://www.legalsportsreport.com/281846/nba-wnba-launching-responsible-gaming-campaign-with-ncpg/",
+   "source": "Legal Sports Report",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "The NBA and WNBA will launch a responsible gaming campaign that warns fans about the risks of both sports betting and prediction markets, partnering with the National Council on Problem Gambling"
+  },
+  {
+   "title": "NBA, WNBA group together betting and prediction markets in RG campaign with NCPG",
+   "url": "https://sbcamericas.com/2026/10/14/nba-wnba-ncpg-betting-prediction-market/",
+   "source": "SBC Americas",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "The week before the 2026-27 NBA season starts, the NBA and WNBA announced a new responsible gaming campaign in collaboration with the National Council on Problem Gambling (NCPG) that addresses state-regulated sports…"
+  },
+  {
+   "title": "Pennsylvania sweepstakes casinos ban would need fast-tracking as session nears end",
+   "url": "https://sbcamericas.com/2026/10/14/pennsylvania-sweepstakes-casinos-bill/",
+   "source": "SBC Americas",
+   "published": "2026-10-14",
+   "primary": "regulation",
+   "summary": "A Pennsylvania lawmaker introduced a bill that would make the country&#8217;s largest online casino market the latest state to ban sweepstakes casinos, but it&#8217;s short on time. Republican Rep. Russ Diamond filed…"
+  },
+  {
+   "title": "Massachusetts: Sports betting operators face deadline to respond to AI letter",
+   "url": "https://cdcgaming.com/massachusetts-sports-betting-operators-face-deadline-to-respond-to-ai-letter/",
+   "source": "CDC Gaming",
+   "published": "2026-10-14",
+   "primary": "regulation",
+   "summary": "Mobile sports betting operators are facing a deadline next month to answer a series of questions put to them by Massachusetts gaming regulators regarding their use of artificial intelligence and machine learning. Dean…"
+  },
+  {
+   "title": "Sun International unveils responsible gambling charter with new advertising restrictions",
+   "url": "https://igamingbusiness.com/sustainable-gambling/responsible-gambling/sun-international-responsible-gambling-charter/",
+   "source": "iGaming Business",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "The charter includes a number of responsible gaming commitments, including voluntary watersheds on Sun International's"
+  },
+  {
+   "title": "Matchbook completes acquisition of rival exchange Betdaq",
+   "url": "https://igamingbusiness.com/strategy/ma/matchbook-completes-acquisition-rival-exchange-betdaq/",
+   "source": "iGaming Business",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Matchbook’s Betdaq acquisition brings together two established betting exchanges as peer-to-peer betting and prediction markets gain global"
+  },
+  {
+   "title": "Finland threatens €1.2m fines in illegal gambling marketing crackdown",
+   "url": "https://igamingbusiness.com/marketing-affiliates/finland-threatens-1m-fines-illegal-gambling-marketing-crackdown/",
+   "source": "iGaming Business",
+   "published": "2026-10-14",
+   "primary": "regulation",
+   "summary": "Head of group at the National Police Board emphasised that the purpose of the fines was to reinforce compliance, not to"
+  },
+  {
+   "title": "CT Council on Problem Gambling hosts annual conference for those seeking help",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2ZkWWpOMG1DSHRmYWxSbTdaT19zYlV1R3RPUFA1Vno0ZlVudDVhaEpnbmNuLUlSUTZuak9wZkNxcnFiU19UcFFXSldyMjc2Y3JPSzRFWFBpajV2c2wzTV9Zamt3bDFQY2diVGUzUWFVX2VkTk9uSGd4Vk1TTFpXdE9VeUktaFdBQ1ktRE5ubTlxY0lkdllYa3oydE9mTTlBT1M5QThCaTlyLTBpeXl4NktmSFZ5YzUzSWJqdWNwSHBtZUXSAcgBQVVfeXFMUHBNVUlhVHpDOTF3dFFEQ3NMTFJOT2VtQi03dUhVTjBlaE1DOXB5ZTdBXzQtRzFDUUd5cWxRVFFaR0Rka2hoVjRwQXZ1bjc5VzMxWExERUJiQTFpMnlyUU54anlVdnV6aWxoZVVJSnptSk5tY0dSdHIyYlliWlBUS3p6LVdKWUFoTDJlR2N2UU5EZ2Voblc3V1B3UXdQcW0ta29lNS0xbEJMVS1uWHh2eVZMUWwxUEtFaGcxM3N0Vm5JdGFNQ1AzVWI?oc=5",
+   "source": "WTNH.com",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "CT Council on Problem Gambling hosts annual conference for those seeking help"
+  },
+  {
+   "title": "How Connecticut keeps gambling addiction under control",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeVZLbjA0RzRqZy1kam1JQS14ZjhXaEdUb2pkX3N1M3ZRQjBkRkU0Y3VOTktBTnhERjR5eTYyYmxzQjNyUUNWLWlFRUw1Q0Q3RV9nQWE4R01fRzFFazlmdGxuNmNSd3V3MHlYdlBrUy1ZZTMzTnJVWGp6WFBib0pncWlWWTEzOU9ad1ZSbERYQ3pFWGRHVTRRM3dGa0o3QllzLWtRWTZTVEpDb0ZTdlRzVVBvYUZfZkVhenczOHRwQWFHN3lPTEs1WUM4VXFVSVE?oc=5",
+   "source": "fox61.com",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "How Connecticut keeps gambling addiction under control"
+  },
+  {
+   "title": "As entry bans surge, questions asked over Kangwon Land’s requirements for gambling addiction treatment before lifting restrict",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTXhDWm1yNlB0UUpJQk9VRGJSMmo3QmtSdy1MUy1vZEE3OWhZVzd0NGt5M2U1MGh3WEJPamZYZFZJYWNWU3VCbWxOY1MyZm8zMnNTQVVZcUZuekM1NXpJYURkRHlLTE42TzNhX0Z2VGNtaEZhZnNvYWZZa1dKZVl3cHVudUV1WjRCeWVnZ3dUQklSQ1BackMzVGtNZVJSc2VoQkZSUjB1NnBQYU1yV1Z3MU56c0hLb1d5aVB2ZXd4dzhqMFRoeHdpckx5Yk82b2NxWVpLM0FwX1IzUnU5X0c0NHkydDlZNUE2UmR1Slpmaw?oc=5",
+   "source": "IAG – Inside Asian Gaming",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "As entry bans surge, questions asked over Kangwon Land’s requirements for gambling addiction treatment before lifting restrict IAG – Inside Asian"
+  },
+  {
+   "title": "States Spend $75 per Problem Gambler vs. $919 for Substance Abuse, Study Finds",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWxyNEZxQ2pYU0Fxd3UtYnV6cVNWYW1SbGZyTC1HbDZUVUZfWmFsUHBsR2p2eTdfSnRheU1iUXl1MmFQVUtudnVFZGc1c0lYV2FsaGNlcWRlZnhMdWlLMWMzaVBzXzhxZGwyZlFHOEE0b1pVUXhUa1k4ODd6REJlVkRVQ1ZCa2dLc3lLY0lpNHhRQ2ZLTnc?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-14",
+   "primary": "research",
+   "summary": "States Spend $75 per Problem Gambler vs. $919 for Substance Abuse, Study Finds"
+  },
+  {
+   "title": "Order in the Court? Study Finds High Rates of Problem Gambling Among Lawyers",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlIzVUFJdGFhb1JuczNrZzByc0ZxV0Q3QmJMRzRhOTZmMVc4RlR0X3dsYjgxdjk1OU8zTTgzNHZELWQwb3YwR3JSQ2VMYjd1Rk81VmZzQkZIS3I4cDZNdEJiZzZOR1ozbE9Cdkg3bTEycjdyQ1FJY241ZUJWLXFwWG41YktiZw?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "Order in the Court? Study Finds High Rates of Problem Gambling Among Lawyers"
+  },
+  {
+   "title": "7% of Gambling Coloradans Show Signs of Problem Gambling, Study Says",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEMtNC1Gd21SMXFueUZCNkVyeE5uczZQcnVWNkdWY1hQcjdsaWREYmk1b29RQUZ6cWlIOWlYbC1EUWp6OFdGWVRLbFRIWFVfaVlHY3ZZNE1KRWF3WmZzZHo1Y09rOEtVeFNrWmljZHFPV3JHVXFoVnNFZ1dhdVJ0MFhXTFZSNzZvWXA1T1p3dlJ3VzRiLUNpZlBXQjNacGJFNURB?oc=5",
+   "source": "Gambling News",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "7% of Gambling Coloradans Show Signs of Problem Gambling, Study Says Gambling"
+  },
+  {
+   "title": "US states left US$43m in problem gambling funds unspent despite rise in demand",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcy15QzIwclRDcGpIUTFPY2I1b3VrQng4ZjNsMWM5THlNRk9pb2traXExWVNGWTlUMWlVU0FacW9nVG11bFp5OVJnM19rYl9pUFM3MURnWHFLU0s0WF9LVUVCWnc5S09iSERBM2d3b0tjcm8?oc=5",
+   "source": "Focus Gaming News",
+   "published": "2026-10-14",
+   "primary": "public-health",
+   "summary": "US states left US$43m in problem gambling funds unspent despite rise in demand Focus Gaming"
+  },
+  {
+   "title": "‘Landmark’ Lawyer Survey Shows Disturbing Gambling Habits",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2pBeXhBa2FMU1o5SjM5Zy1MQkt2UTc0X0JZR0RialBMUGVibjNLYmluZGZ4MEhwTVRYYS1USC1FdXczbUszdjltQnNBaUFQU2pMaGV3anNsNklnUW92MjVVOHNyVERiSzQ1RWtkLXM0MDRhOHZWM01XdDIzc3ZOTW9GRFQwMW1C?oc=5",
+   "source": "GamblingHarm.org",
+   "published": "2026-10-14",
+   "primary": "research",
+   "summary": "‘Landmark’ Lawyer Survey Shows Disturbing Gambling Habits"
+  },
+  {
+   "title": "Bettors wager over $220M on midterm election outcomes on Kalshi, Polymarket -- with big money on Texas Senate battle",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0pOa3QzN0RhaG54azROWmt3bWI4eHJhTXVWa2J6YUdDY2UyTVEzOFdOYTU0Smx1LVhydS1FeWQtcEpGSFFqVFlGdlVMbl9wVWhzTFlOZjBnalQ1Zk03ZS1YVTNvY1U2QWQwVnVsa3NWa1liMXZFbjhYWFVaUTJNNTBDRFgwc2ZwTHlhcUlyT09ERm1iM1VieUkxMHhRSmFKTV9IdG84ZUVDdGlzV2NNcmZ2UUUtQ2EyZ0lON0lhOG9MTFlodVdSMXJobVpWSDJldXp2azFxdl9fc01Nay1vN1F3M1hmdw?oc=5",
+   "source": "New York Post",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Bettors wager over $220M on midterm election outcomes on Kalshi, Polymarket -- with big money on Texas Senate battle New York"
+  },
+  {
+   "title": "Best prediction market combos at Kalshi, Polymarket: Dodgers, Kennesaw State, Western Kentucky on Wednesday",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmt6N2ZfdlpYeDZibmtTMi02YW5jZGtQcXRoU09icTlBcWpSQ0ZNZU1fWm9TbVlqc2JXNUNnRTlIZUk5WTZpdWlDRlFza0lwMHdtZzlCbzhZdUdXZFNFNW1tX3E1YzJIY2tUZ0s3U05hU1JwOEd4eHdIc05LZm9QWlFnN3p6aV9kTWtFcXNtcXFwWTV2b2t5bkRUVG9CZHAtaGRDT3RWODdPaTExNElzM1dVWFlFYTBhdFdQb2twSDRZY2h5bHgtRWNaWFhndzQxUC0zYVZZWQ?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Best prediction market combos at Kalshi, Polymarket: Dodgers, Kennesaw State, Western Kentucky on Wednesday CBS"
+  },
+  {
+   "title": "'Survival is at stake': Inside prediction markets' race to curb inside trading - ABC News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDhHX2pQVHdiYm9vSENYTkVVWkZUXzBjcHZHc2pGYWpjVGFEZ01MUVRncjRwUW9CeU5qbzV5cG5jUk1IU0hkNlFpWG1qWmEzemZ4dU42RWNuX2NhcGdVemVnN0cycXp6aGZYOV95ZTFZcktaNEdQT3ZadlItRlVkRWdnckJVUEFpSEZOWHREOXRpRkpfR3lSZUlBdHE5VXpE0gGmAUFVX3lxTE85ZVI2M0pSZFhidnpFWjlWQzdzbUptbjM2Z2xlbW5UV0NqZUhtZy1iMy0wUnJkY1VtcHg5WVRYYUtsdnoyOFNOdDN0RXJFZF9UOUV2UGp3RzVqNlgwY1NMYWJDRC1fNjEzRGFweXN5NVhQOXRybUpxbC1ESzNOZENDSDhKQ2IwdF9XbjVOUDVCdmQ4bGpEb2poX0VwRGdwSGtzLVl4TXc?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "'Survival is at stake': Inside prediction markets' race to curb inside trading ABC News - Breaking News, Latest News and"
+  },
+  {
+   "title": "Kalshi cofounder says having no VPs has been key to the company’s explosive growth",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkJFTE1HaExsTjl4djN3YnY4WkZuZkR3SnJ4dlMyejRYTWRVYjFjV0YyZFRZX2Y0RXRlYUxLUGJ4ejdZdDZobXJFWUJFQUNKdzlUa0VpTW1UcnZWRUNhNHJRc0dNRUtwbWxKMG0xSzk3Rzhtc3dlbzQweDFyWHBzOUVzdjh0aDZrNjVYLWtxYWNiSXhNbDNSVGZmMlA4YjB6QzA4THh3?oc=5",
+   "source": "Fortune",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Kalshi cofounder says having no VPs has been key to the company’s explosive growth"
+  },
+  {
+   "title": "Are sports prediction markets legal? Status of Kalshi and Polymarket in all 50 states",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yLUp4NkJfVE04WUoxdGxnejRNUG8yckl3R3duYmJzVzdsRkhCVUo0S2lfWklaVmZjUlU5YldrenpteEFOZTVaNlBkd0NuU0VIX25WSlQtTmd0NXdrX3ZUNjhYY3pHclkzTURaUGRLd1hoRHpaUXZ6NGxMQWd5QQ?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Are sports prediction markets legal? Status of Kalshi and Polymarket in all 50 states CBS"
+  },
+  {
+   "title": "Polymarket promo code CBSSPORTS: $25 trading bonus with $10 deposit (October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoRFFUWElKT3VILXpBTHZKSnJ2VXFSazIxOHRheWNqdWhWQ0R0d29fQ1pFNXZjRDBSTWk0X3Y1VTA4RnFYM3ZtN3A3M25LQkdSdmlEbmhtbXNta0RhLWpGUnZzT3h0M2Z0Q0FIUmZtUlpQZw?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Polymarket promo code CBSSPORTS: $25 trading bonus with $10 deposit (October 2026) CBS"
+  },
+  {
+   "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0I1VHRDNmpxejgyT0x5Z3g1NUVWUnFxUUZOWWxQWTk5OERuNzYtVng0SmxhN1pHSmNIdFNqWFpSM0xzZFgwTl8wUWdJRnhqdU1qbW1jZTFXQ3kyUzFfQWlJSExXSHoyV1h4TGFQSjJTNC1LRWZ3TVQ5WGU0WTdMc3NGZi1YUkFoUU05bUpZLU12RUNoOFJRWTJhQloyMFAyUl92WFROTk95dG5tbDNTUjAyNkx5UXZkWHlXVDNYRkc0Zw?oc=5",
+   "source": "CoinDesk",
+   "published": "2026-10-14",
+   "primary": "prediction-markets",
+   "summary": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out"
+  },
+  {
+   "title": "Poll: Most Americans Oppose Betting On Elections Through Prediction Markets",
+   "url": "https://www.legalsportsreport.com/281709/poll-most-americans-oppose-betting-on-elections-through-prediction-markets/",
+   "source": "Legal Sports Report",
+   "published": "2026-10-13",
+   "primary": "prediction-markets",
+   "summary": "Most Americans oppose using prediction markets to bet on U.S. elections, according to a new Reuters/Ipsos poll released weeks before the midterms. The poll, conducted Sept. 30 through Oct. 5,"
+  },
+  {
+   "title": "BetMGM retreats from states without iGaming as prediction market impact hits",
+   "url": "https://sbcamericas.com/2026/10/13/betmgm-igaming-focus-prediction-markets/",
+   "source": "SBC Americas",
+   "published": "2026-10-13",
+   "primary": "prediction-markets",
+   "summary": "BetMGM CEO Adam Greenblatt said Tuesday the company continues to lean into “higher value, higher staking players” as a winning strategy as the company reassesses overall strategy based on the effects of prediction…"
+  },
+  {
+   "title": "Guardians vs. Rays Prediction Markets | Kalshi Promo Code HANDLE for $55 Bonus",
+   "url": "https://sportshandle.com/guardians-vs-rays-prediction-markets-kalshi-promo-code-handle-for-55-bonus/",
+   "source": "Sports Handle",
+   "published": "2026-10-13",
+   "primary": "prediction-markets",
+   "summary": ""
+  },
+  {
+   "title": "Focus on CasinoTrac: Overcoming daily operational challenges with CasinoTrac",
+   "url": "https://cdcgaming.com/focus-on-casinotrac-overcoming-daily-operational-challenges-with-casinotrac/",
+   "source": "CDC Gaming",
+   "published": "2026-10-13",
+   "primary": "regulation",
+   "summary": "Casinos face some wide-ranging challenges in managing all aspects of operations – from gaming and loyalty programs to hospitality services and regulatory reporting. Keeping up with all that is no easy task, but…"
+  },
+  {
+   "title": "Will SCOTUS take up prediction markets case after CFTC issues proposed rules on swaps?",
+   "url": "https://igamingbusiness.com/prediction-markets/cftc-designates-sports-contracts-as-swaps-proposed-rules/",
+   "source": "iGaming Business",
+   "published": "2026-10-13",
+   "primary": "prediction-markets",
+   "summary": "After an appellate court classified sports event contracts as wagers on sports, the CFTC aims to broaden swaps to encompass the"
+  },
+  {
+   "title": "Luiz Felipe Maia: The ban on betting creates distrust towards Brazil",
+   "url": "https://igamingbusiness.com/legal-compliance/regulation/luiz-felipe-maia-ban-betting-distrust-towards-brazil/",
+   "source": "iGaming Business",
+   "published": "2026-10-13",
+   "primary": "regulation",
+   "summary": "Renowned lawyer Maia believes the ban on betting will not hold up in the Brazilian judiciary and"
+  },
+  {
+   "title": "Tim Miller is starting a new chapter",
+   "url": "https://igamingbusiness.com/legal-compliance/regulation/tim-miller-is-starting-a-new-chapter/",
+   "source": "iGaming Business",
+   "published": "2026-10-13",
+   "primary": "research",
+   "summary": "The Gambling Commission's former executive director of policy and research tells iGB why he left, why financial risk assessments became a lightning rod and why he sees no conflict in his new advisory"
+  },
+  {
+   "title": "Greece targets VIP gamblers in push for unified player verification",
+   "url": "https://igamingbusiness.com/igaming/greece-targets-vip-gamblers-push-unified-player-verification/",
+   "source": "iGaming Business",
+   "published": "2026-10-13",
+   "primary": "regulation",
+   "summary": "In a bid to enhance player identification and better regulate online gambling activities, Greek authorities are moving to strengthen the certification process for online gamblers and closely examine high-value"
+  },
+  {
+   "title": "NCPG warns of ‘capacity crisis’ in US problem gambling support",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFk4N3dQekFaaUJzR2tWdmwtQ0JMTFgzUUNGZ01HQVBsai1nRlIyVVZQTm5RcnVpUFFYenlfb05zcG1rdjBscjVkQnQyeDJXbkJwOG9iWE8zUEhhVXhsV0pzME5pZEIwNW1Rdnk1clV0UWdraTRzUURuaGtHWklPWW9mQWFkSjlNZ2ZVZnhWb3ZFblY4cFNZVg?oc=5",
+   "source": "InterGame Online",
+   "published": "2026-10-13",
+   "primary": "public-health",
+   "summary": "NCPG warns of ‘capacity crisis’ in US problem gambling support InterGame"
+  },
+  {
+   "title": "Problem Gambling in West Virginia: Why Slot Play Rises on Social Security Days",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSXlFWFNDeU9aVUVETkRxQWhoU2NLeGE0dmEwY1FkaXhnNVhVY2w1bTVaSTkydWlOVHJtOUhqZS1ibFhHTXIzY3pYWFRyX3lmcHVjTFpxUXlIaXJYZ0hLYXlmYjBEdGlDY19lc0FVX3B0dGhyWE1Sc25kUG05Z1k?oc=5",
+   "source": "Action Network",
+   "published": "2026-10-13",
+   "primary": "public-health",
+   "summary": "Problem Gambling in West Virginia: Why Slot Play Rises on Social Security Days Action"
+  },
+  {
+   "title": "NBA and WNBA target problem gambling in NCPG campaign",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kckdkMmJjUXlxNkV3OWw1UWVxUk42akVITk5ncHpEX0pSTGF0TTM1UGpUcjE5VngzUXFjVUU2R1Mza2NjQUlUa2Ewd1NpR3YteEpUNGs1YlVqblB6VERlMzNCOWZiZkh0emE3SVR3?oc=5",
+   "source": "Focus Gaming News",
+   "published": "2026-10-13",
+   "primary": "public-health",
+   "summary": "NBA and WNBA target problem gambling in NCPG campaign Focus Gaming"
+  },
+  {
+   "title": "UNLV Study Raises Concerns Over Colorado Gambling Risks",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbk5OZXY5RU0xOElwNjhFMnBybmI4c3FYY0loVGxrTEM5d0VNT3AyNjBJZGhGdk9wWEVPb19TbUtPaGdqYWkwTTJEanBPcFRKcVFsS1lkNS1YZVB3REp3R2JxQjVGNjZEQTJ0LXNvZmc3Rm8tQVU3SDRTNTlkSnNYLUhOWlpnM0g3ZEc4dWRITDUxUDNpWFFPLWktTFNKVms4alE?oc=5",
+   "source": "World Casino News",
+   "published": "2026-10-13",
+   "primary": "research",
+   "summary": "UNLV Study Raises Concerns Over Colorado Gambling Risks World Casino"
+  },
+  {
+   "title": "Kalshi | Prediction Market Exchange, History, & Regulation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVDlZTF9yQWFEdk0xVmZQTG5NUDZFeTZESXdIYzg1R1YwNzFzMVFyc1hteXd6MUxudjBpZ205SnEyeUNyUVRUR1F6bm9lUkJUMV80ZlpR?oc=5",
+   "source": "Britannica",
+   "published": "2026-10-13",
+   "primary": "prediction-markets",
+   "summary": "Kalshi | Prediction Market Exchange, History, & Regulation"
+  },
+  {
+   "title": "Kalshi's Inflation Whale Beats Wall Street, Month After Month",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlFBNGlCLW9ObmVjNWJhNlVCWlBiUnRic3FWTWlkbjNZUnZWeC1fYXg2RmJmVlF6cWY5Qkx0cE1wUXVfcE5EdzZva2hxM3ZOVWJfXzJPelVQYzVJWVVFbDdEODRJSjFUbWRheGk0NEhNUXpxaC1ZcVNDR2pKajFrcHdGOFZVcmNMdHI3WWtsRGpWd2pUSXhOS3NpcFFrX0x3dmxlYnhqQjZpYXctb1dLM3diRjNJTFU2WURfWg?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-10-13",
+   "primary": "prediction-markets",
+   "summary": "Kalshi's Inflation Whale Beats Wall Street, Month After Month"
+  }
+ ]
+}
