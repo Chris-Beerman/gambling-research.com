@@ -2,12 +2,14 @@
 {% import "_macros.html" as m %}
 {% block title %}{% if borderline %}Possibly related studies{% else %}New gambling research{% endif %}: {{ site.title }}{% endblock %}
 {% block description %}{% if borderline %}Studies that mention gambling or betting in passing, kept separate from the main index.{% else %}Every new study on gambling, betting, lotteries, loot boxes and prediction markets from the past {{ window }} days, with filters by topic, country, design and free full text.{% endif %}{% endblock %}
+{% block body_class %}section-research{% endblock %}
 {% block content %}
 <section class="page-head">
   {% if borderline %}
   <h1>Possibly related</h1>
   <p class="page-deck">{{ count }} items from the past {{ window }} days that mention gambling, betting or lotteries only in passing, usually economics papers that use lotteries as a method or neuroscience papers that use a gambling task. They are kept out of the <a href="/research/">main index</a> and listed here so that misfiled studies can be found and corrected.</p>
   {% else %}
+  <p class="kicker kind-research">Research index</p>
   <h1>New research</h1>
   <p class="page-deck">{{ count }} studies added in the past {{ window }} days{% if this_week_count %}, {{ this_week_count }} of them this week{% endif %}. Dates in the margin are when a study entered the index; the publication date follows the journal name. <a href="/research/archive/">Older months</a>, <a href="/research/topics/">topic pages</a>, <a href="/research/feed.xml">RSS feed</a>.</p>
   {% endif %}

@@ -2,6 +2,7 @@
 {% import "_macros.html" as m %}
 {% block title %}{{ label|capitalize }}: new gambling research by topic: {{ site.title }}{% endblock %}
 {% block description %}Studies tagged "{{ label }}" that entered the index in the past {{ window }} days.{% endblock %}
+{% block body_class %}section-research{% endblock %}
 {% block content %}
 <section class="page-head">
   <p class="crumb"><a href="/research/">New research</a> / <a href="/research/topics/">Topics</a></p>

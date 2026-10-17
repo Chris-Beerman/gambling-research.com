@@ -1,4 +1,5 @@
 ---
+kind: reference
 title: Datasets and public data
 slug: datasets
 description: Public datasets and data sources for gambling research, from transaction-level prediction-market trades to national prevalence surveys and regulator revenue reports.

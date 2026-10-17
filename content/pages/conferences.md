@@ -1,4 +1,5 @@
 ---
+kind: reference
 title: Conference calendar
 slug: conferences
 description: Gambling research and problem-gambling conferences, with dates and proposal deadlines where they have been confirmed.

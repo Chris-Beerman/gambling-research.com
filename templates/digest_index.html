@@ -1,15 +1,16 @@
 {% extends "base.html" %}
 {% block title %}Weekly digest: {{ site.title }}{% endblock %}
 {% block description %}Each week: the gambling studies worth reading, with a short note on each, and the policy news that matters.{% endblock %}
+{% block body_class %}section-digest{% endblock %}
 {% block content %}
 <section class="page-head">
-  <h1>Weekly digest</h1>
+  <h1>The Weekly Digest</h1>
   <p class="page-deck">Each week, five to eight studies worth reading, with a short note on why, and the policy news that matters. Written by the editor from the week's index; studies are chosen for relevance and quality, never for a sponsor. <a href="/feed.xml">RSS feed</a>.</p>
 </section>
 <ol class="ledger">
   {% for dg in digests %}
   <li class="entry">
-    <time class="entry-date" datetime="{{ dg.date }}">{{ dg.date|fmt_date('short') }}</time>
+    <p class="entry-date"><span class="issue-no">No. {{ dg.number }}</span><br><time datetime="{{ dg.date }}">{{ dg.date|fmt_date('short') }}</time></p>
     <div class="entry-body">
       <h2 class="entry-title"><a href="{{ dg.url }}">{{ dg.title }}</a></h2>
       {% if dg.summary %}<p class="entry-summary">{{ dg.summary }}</p>{% endif %}

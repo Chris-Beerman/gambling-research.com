@@ -1,4 +1,5 @@
 ---
+kind: reference
 title: Doing research without a university
 slug: guide
 description: "How clinicians and independent researchers publish gambling research without an institution: literature access, preregistration, ethics review, preprints, free tools and the journals that accept it."
