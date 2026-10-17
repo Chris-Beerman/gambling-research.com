@@ -26,3 +26,9 @@
   </div>
 </li>
 {% endmacro %}
+
+{% macro subnav(items, current, kind) %}
+<nav class="subnav kind-{{ kind }}" aria-label="In this section">
+  {% for href, label in items %}<a href="{{ href }}"{% if current == href %} aria-current="page"{% endif %}>{{ label }}</a>{% endfor %}
+</nav>
+{% endmacro %}

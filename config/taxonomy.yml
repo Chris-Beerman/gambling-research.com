@@ -67,6 +67,38 @@ news_exclude:
   - "hires and higher.ups|people moves|executive (appointments|moves)"
   - "referral code|\\bcode\\b.{0,12}(bonus|free|\\$)|\\$\\d+ (kalshi|polymarket|draftkings|fanduel|betmgm|caesars|bet365)|market combos|\\bcombos\\b|^focus on [A-Z]"
 
+# Bills (title + abstract + subjects). Stricter than news: "gaming" alone is
+# video games in many bills, so it needs a gambling context.
+bills_include:
+  - "gambl"
+  - "sports (betting|wagering|book|pool)|sportsbook|\\bbet(s|ting|tors?)?\\b"
+  - "\\bwager"
+  - "casino|racino|riverboat"
+  - "lotter"
+  - "slot machine|video gaming terminal|video lottery|electronic gaming|gaming machine|\\bVGTs?\\b|\\bVLTs?\\b"
+  - "prediction market|event contract|\\bkalshi\\b"
+  - "self.exclusion"
+  - "gaming (board|commission|regulat|control|authority|act|compact|facility|facilities|licen[cs]e|operator|revenue|tax|fund)|(charitable|tribal|indian|internet|online|interactive|i)gaming|igaming"
+  - "daily fantasy|fantasy (sports|contest)|sweepstakes|pari.?mutuel|horse rac|racetrack|\\bbingo\\b|\\bkeno\\b|\\bpoker\\b|raffle"
+  - "loot box"
+bills_exclude:
+  - "video game (rating|content|violence)"
+
+# Court records (case name + snippet + docket entries).
+cases_include:
+  - "gambl"
+  - "sports (betting|wagering|book)|sportsbook|\\bbetting\\b"
+  - "\\bwager"
+  - "casino"
+  - "lotter"
+  - "slot machine|video gaming|gaming machine|gaming device"
+  - "prediction market|event contract|kalshi|polymarket"
+  - "self.exclusion"
+  - "indian gaming|igra\\b|gaming compact|gaming commission|gaming control|gaming board|gaming act|wire act|\\biGaming\\b|internet gaming"
+  - "daily fantasy|fantasy sports|draftkings|fanduel|sweepstakes casino|loot box|bookmak"
+cases_exclude:
+  - "\\bgambl\\w* (on|with) (the|a|his|her|their) (future|life|lives|health|economy)"
+
 news_categories:
   - slug: public-health
     label: public health and treatment

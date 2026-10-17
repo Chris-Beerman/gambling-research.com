@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}Gambling court rulings and dockets: {{ site.title }}{% endblock %}
+{% block description %}Court opinions and federal dockets involving gambling, sports betting, lotteries, tribal gaming, sweepstakes and event contracts from the past {{ window }} days, from CourtListener.{% endblock %}
+{% block body_class %}section-news{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="kicker kind-news">Policy and public health</p>
+  <h1>Courts</h1>
+  {% if subnav %}{{ m.subnav(subnav, subnav_current, 'news') }}{% endif %}
+  <p class="page-deck">{{ n_opinions }} {{ 'opinion' if n_opinions == 1 else 'opinions' }} filed and {{ n_dockets }} federal {{ 'docket' if n_dockets == 1 else 'dockets' }} with filings in the past {{ window }} days that involve gambling, betting, lotteries, casinos, tribal gaming, sweepstakes or event contracts, from <a href="https://www.courtlistener.com" rel="noopener">CourtListener</a>; {{ recent_opinions }} {{ 'opinion' if recent_opinions == 1 else 'opinions' }} in the past 30 days. Opinions are listed by filing date, dockets by their latest filing. Search terms chose these, not a lawyer; the weekly digest notes the ones that matter. <a href="/courts/feed.xml">RSS feed</a>, <a href="/methodology/#courts">how this list is made</a>.</p>
+</section>
+
+<form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
+  <div class="filter-row">
+    <label class="filter-search"><span class="visually-hidden">Search case names, courts and docket numbers</span><input type="search" id="q" placeholder="Search case names, courts, docket numbers" autocomplete="off"></label>
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Kind">
+    <button type="button" class="chip" data-group="kind" data-value="opinion" aria-pressed="false">opinions <span class="count">{{ n_opinions }}</span></button>
+    <button type="button" class="chip" data-group="kind" data-value="docket" aria-pressed="false">dockets <span class="count">{{ n_dockets }}</span></button>
+    {% for s, l, n in levels %}<button type="button" class="chip" data-group="level" data-value="{{ s }}" id="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Topics">
+    {% for s, l, n in topics %}<button type="button" class="chip" data-topic="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <p class="filter-status" id="status" aria-live="polite"></p>
+</form>
+
+<div id="list">
+{% for ym, items in months %}
+<section class="week" data-month="{{ ym }}">
+  <h2 class="week-head"><span>{{ (ym ~ '-01')|fmt_date('month') }}</span><span class="count">{{ items|length }}</span></h2>
+  <ol class="ledger">
+    {% for c in items %}
+    <li class="entry" data-topics="{{ c.topics|join(' ') }}" data-kind="{{ c.kind }}" data-level="{{ c.court_level }}" data-text="{{ (c.case_name ~ ' ' ~ c.court ~ ' ' ~ c.docket_number ~ ' ' ~ c.citation)|lower }}">
+      <time class="entry-date" datetime="{{ c.latest_activity }}" title="{% if c.kind == 'opinion' %}Filed{% else %}Latest filing{% endif %} {{ c.latest_activity|fmt_date('long') }}">{{ c.latest_activity|fmt_date('short') }}</time>
+      <div class="entry-body">
+        <h3 class="entry-title"><a href="{{ c.url }}" rel="noopener">{{ c.case_name }}</a></h3>
+        <p class="entry-meta">{{ c.court }}{% if c.docket_number %}, No. {{ c.docket_number }}{% endif %}{% if c.citation %}, {{ c.citation }}{% endif %}.{% if c.kind == 'opinion' %}{% if c.date_filed %} Filed {{ c.date_filed|fmt_date }}.{% endif %}{% if c.status %} {{ c.status }}.{% endif %}{% else %}{% if c.date_filed %} Case opened {{ c.date_filed|fmt_date }}.{% endif %}{% if c.date_terminated %} Closed {{ c.date_terminated|fmt_date }}.{% endif %}{% endif %}</p>
+        {% if c.snippet %}<p class="entry-summary">{{ c.snippet }}</p>{% endif %}
+        {% if c.documents %}
+        <ul class="docket-docs">
+          {% for doc in c.documents[:3] %}<li><time datetime="{{ doc.date }}">{{ doc.date|fmt_date('short') }}</time> {% if doc.url %}<a href="{{ doc.url }}" rel="noopener">{{ doc.description }}</a>{% else %}{{ doc.description }}{% endif %}</li>{% endfor %}
+        </ul>
+        {% endif %}
+        <p class="entry-tags">
+          <span class="tag tag-state tag-level">{{ c.court_level|level_label }}</span>
+          <span class="tag tag-design">{{ 'opinion' if c.kind == 'opinion' else 'docket' }}</span>
+          {% for x in c.topics[:4] %}<a class="tag" href="/research/topics/{{ x }}/">{{ x|topic_label }}</a>{% endfor %}
+        </p>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% else %}
+<p class="empty">No court records yet. The nightly run fills this in.</p>
+{% endfor %}
+</div>
+<p class="fine">CourtListener's search is queried nightly for opinions filed in the window and for federal dockets (RECAP) with new filings, using gambling terms; a record is kept when its case name, snippet or docket entries name gambling, betting, a lottery, casino, gaming regulation, prediction markets or self-exclusion. State trial courts and most state dockets are not in CourtListener, and criminal cases that mention gambling in passing do get through. Something wrong? <a href="/methodology/#corrections">How to report it</a>.</p>
+{% endblock %}
+{% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}
