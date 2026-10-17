@@ -87,7 +87,8 @@ bills_exclude:
 
 # Court records (case name + snippet + docket entries).
 cases_include:
-  - "gambl"
+  # "gamble" alone is a metaphor or a surname in most opinions; "gambling" is not.
+  - "\\bgambling\\b|\\bgamblers?\\b"
   - "sports (betting|wagering|book)|sportsbook|\\bbetting\\b"
   - "\\bwager"
   - "casino"

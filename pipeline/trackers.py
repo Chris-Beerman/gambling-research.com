@@ -272,17 +272,41 @@ def court_level(court_id: str, jurisdiction: str) -> str:
     return "other"
 
 
+# PACER "nature of suit" codes for cases that name a casino or sportsbook as a
+# party but are not about gambling: personal injury and property torts, civil
+# rights and employment, prisoner petitions, labour, social security, immigration.
+_SUIT_EXCLUDE = {
+    "310", "315", "320", "330", "340", "345", "350", "355", "360", "362", "365", "367", "368", "375", "380", "385",
+    "440", "441", "442", "443", "444", "445", "446", "448", "462", "463", "465", "510", "530", "535", "540", "550", "555", "560",
+    "710", "720", "740", "751", "790", "791", "861", "862", "863", "864", "865",
+}
+
+
+def docket_noise(r: dict, level: str) -> bool:
+    """Dockets whose only link to gambling is a party's name, in a kind of case
+    that is not about gambling."""
+    if r.get("kind") != "docket":
+        return False
+    code = (r.get("suit_nature") or "").strip()[:3]
+    if code in _SUIT_EXCLUDE:
+        return True
+    matched = r.get("matched") or []
+    if level == "federal-bankruptcy" and matched == ["name"]:
+        return True  # a debtor surnamed Casino, or a resort's adversary proceeding
+    return False
+
+
 def update_cases(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt.date, backfill: bool, keep_days: int = 730) -> tuple[list[dict], dict]:
     by_id = {c["id"]: c for c in existing}
     added = updated = dropped = 0
     for r in raw:
         docs = r.get("documents") or []
         text = " ".join([r.get("case_name") or "", r.get("snippet") or ""] + [d.get("description") or "" for d in docs])
-        if not tax.cases_keep(text):
+        level = court_level(r.get("court_id") or "", r.get("court_jurisdiction") or "")
+        if not tax.cases_keep(text) or docket_noise(r, level):
             dropped += 1
             continue
         topics, _ = tax.tag(text)
-        level = court_level(r.get("court_id") or "", r.get("court_jurisdiction") or "")
         prev = by_id.get(r["id"])
         latest_doc = docs[0]["date"] if docs and docs[0].get("date") else None
         rec = {
@@ -302,6 +326,7 @@ def update_cases(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt
             "status": r.get("status") or "",
             "url": r.get("url") or "",
             "snippet": r.get("snippet") or "",
+            "suit_nature": r.get("suit_nature") or "",
             "documents": docs[:3],
             "cite_count": r.get("cite_count") or 0,
             "topics": topics,

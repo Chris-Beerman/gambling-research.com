@@ -87,9 +87,15 @@ def convert_opinion(item: dict) -> dict | None:
         return None
     snippets = [o.get("snippet") for o in (item.get("opinions") or []) if o.get("snippet")]
     cites = item.get("citation") or []
+    matched = []
+    if "<mark>" in (item.get("caseName") or ""):
+        matched.append("name")
+    if any("<mark>" in (sn or "") for sn in snippets):
+        matched.append("text")
     return {
         "id": f"cl-o-{cid}",
         "kind": "opinion",
+        "matched": matched,
         "case_name": name,
         "court": clean_text(item.get("court") or ""),
         "court_id": item.get("court_id") or "",
@@ -113,8 +119,15 @@ def convert_docket(item: dict) -> dict | None:
     if not did or not name:
         return None
     docs = []
+    matched = []
+    if "<mark>" in (item.get("caseName") or ""):
+        matched.append("name")
     for d in item.get("recap_documents") or []:
-        desc = clean_text(_MARK.sub("", d.get("description") or d.get("short_description") or ""))
+        raw_desc = d.get("description") or d.get("short_description") or ""
+        if "<mark>" in raw_desc or "<mark>" in (d.get("snippet") or ""):
+            if "documents" not in matched:
+                matched.append("documents")
+        desc = clean_text(_MARK.sub("", raw_desc))
         if not desc:
             continue
         docs.append(
@@ -125,9 +138,14 @@ def convert_docket(item: dict) -> dict | None:
             }
         )
     docs.sort(key=lambda d: d["date"] or "", reverse=True)
+    if any("<mark>" in (item.get(f) or "") for f in ("cause", "suitNature", "assignedTo", "referredTo")):
+        matched.append("fields")
+    suit = clean_text(_MARK.sub("", item.get("suitNature") or ""))
     return {
         "id": f"cl-d-{did}",
         "kind": "docket",
+        "matched": matched,
+        "suit_nature": suit,
         "case_name": name,
         "court": clean_text(item.get("court") or ""),
         "court_id": item.get("court_id") or "",

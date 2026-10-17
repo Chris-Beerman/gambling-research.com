@@ -191,8 +191,13 @@ def test_courtlistener_convert_and_levels():
     assert len(out) == 2 and stats["dropped_irrelevant"] == 0
     docket = [c for c in out if c["kind"] == "docket"][0]
     assert docket["court_level"] == "federal-district" and docket["latest_activity"] == "2026-10-10" and "prediction-markets" in docket["topics"]
-    # Noise: an opinion whose only hit is a metaphor is dropped.
-    noise = dict(o, id="x", cluster_id=5, caseName="Smith v. Jones", snippet="", opinions=[{"snippet": "the defendant gambled with the future of the company"}])
-    noise = courts.convert_opinion(noise)
+    # Noise: an opinion whose only hit is a metaphor or a surname is dropped.
+    noise = courts.convert_opinion(dict(CL_OPINION, cluster_id=5, caseName="Smith v. Jones", opinions=[{"snippet": "the defendant took a <mark>gamble</mark> on a favorable verdict, see Charles W. Gamble, Evidence"}]))
     out2, stats2 = update_cases(out, [noise], TAX, TODAY, backfill=False)
     assert stats2["dropped_irrelevant"] == 1 and len(out2) == 2
+    # A slip-and-fall suit against a casino (nature of suit 360) and a bankruptcy debtor named Casino are dropped.
+    pi = courts.convert_docket(dict(CL_DOCKET, docket_id=7, caseName="Taylor v. Treasure Chest <mark>Casino</mark>, L.L.C.", suitNature="360 P.I.: Other", recap_documents=[]))
+    debtor = courts.convert_docket(dict(CL_DOCKET, docket_id=8, caseName="Bryce <mark>Casino</mark>-Shells", court_id="nysb", suitNature="", cause="", recap_documents=[]))
+    assert pi["matched"] == ["name"] and pi["suit_nature"].startswith("360")
+    out3, stats3 = update_cases(out2, [pi, debtor], TAX, TODAY, backfill=False)
+    assert stats3["dropped_irrelevant"] == 2 and len(out3) == 2

@@ -218,10 +218,8 @@ class Builder:
                 items = [t for t in items if (t.get("first_posted") or t.get("first_seen") or "") >= two_years]
             if slug == "completed":
                 items.sort(key=lambda t: (t.get("completion_date") or t.get("last_updated") or "", t["title"]), reverse=True)
-            elif slug == "registered":
-                items.sort(key=lambda t: (t.get("first_posted") or "", t["title"]), reverse=True)
             else:
-                items.sort(key=lambda t: (t.get("start_date") or t.get("first_posted") or "", t["title"]), reverse=True)
+                items.sort(key=lambda t: (t.get("first_posted") or t.get("first_seen") or "", t["title"]), reverse=True)
             for t in items:
                 t["status_group"] = slug
             if items:
@@ -360,7 +358,7 @@ class Builder:
         self.render(
             "trials.html", "trials/index.html", section="research",
             groups=trial_groups, n_trials=n_trials, n_regs=n_regs, n_recruiting=n_recruiting, n_results=n_results, n_new_year=n_new_year,
-            topics=[(x, self.tax.topic_label(x), n) for x, n in trial_topics.most_common(16)],
+            topics=[(x, self.tax.topic_label(x), n) for x, n in trial_topics.most_common(10)],
             regions=[(x, self.tax.regions[x]["label"], n) for x, n in trial_regions.most_common() if x in self.tax.regions],
             registries=[(k, v) for k, v in (("clinicaltrials", "ClinicalTrials.gov"), ("isrctn", "ISRCTN"), ("osf", "OSF Registries")) if any(t.get("registry") == k for t in self.trials_all)],
         )
