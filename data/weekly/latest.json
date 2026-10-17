@@ -1746,5 +1746,27 @@
    "primary": "public-health",
    "summary": "Order in the Court? Study Finds High Rates of Problem Gambling Among Lawyers"
   }
- ]
+ ],
+ "trials": [
+  {
+   "id": "osf:hye8s",
+   "registry_label": "OSF Registries",
+   "kind": "registration",
+   "title": "Household, family and economic factors associated with sports betting among adolescents and young people in sub-Saharan Africa: a mixed-methods systematic review (protocol)",
+   "status": "registered",
+   "previous_status": null,
+   "status_changed": null,
+   "sponsor": "",
+   "country_names": [],
+   "start_date": null,
+   "completion_date": null,
+   "enrollment": null,
+   "results_posted": false,
+   "summary": "Protocol for a mixed-methods systematic review of the household, family and economic factors associated with sports betting and problem gambling among people aged 10–24 in sub-Saharan Africa. Conducted by Missinglink (Family Economic Intelligence), Lagos, Nigeria …",
+   "url": "https://osf.io/hye8s/",
+   "first_seen": "2026-10-12"
+  }
+ ],
+ "bills": [],
+ "cases": []
 }

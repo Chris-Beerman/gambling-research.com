@@ -1,0 +1,339 @@
+[
+ {
+  "id": "us-119-hr-10732",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "H.R. 10732",
+  "title": "No Betting on Your Own Race Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rep. Davis, Donald G. [D-NC-1]"
+  ],
+  "introduced": "2026-10-05",
+  "latest_action_date": "2026-10-05",
+  "latest_action": "Referred to the House Committee on House Administration.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/house-bill/10732",
+  "source_url": "",
+  "topics": [],
+  "updated": "2026-10-08",
+  "first_seen": "2026-10-05",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "hr",
+  "number": 10732
+ },
+ {
+  "id": "us-119-hr-10109",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "H.R. 10109",
+  "title": "Wildfire Event Contract Prohibition Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
+  "sponsors": [
+   "Rep. Baumgartner, Michael [R-WA-5]"
+  ],
+  "introduced": "2026-08-17",
+  "latest_action_date": "2026-08-17",
+  "latest_action": "Referred to the Committee on Agriculture, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/house-bill/10109",
+  "source_url": "",
+  "topics": [
+   "prediction-markets"
+  ],
+  "updated": "2026-08-26",
+  "first_seen": "2026-08-17",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "hr",
+  "number": 10109
+ },
+ {
+  "id": "us-119-hr-9856",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "H.R. 9856",
+  "title": "Prediction Markets Are Gambling Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Sports and Recreation"
+  ],
+  "sponsors": [
+   "Rep. Horsford, Steven [D-NV-4]"
+  ],
+  "introduced": "2026-07-22",
+  "latest_action_date": "2026-07-22",
+  "latest_action": "Referred to the House Committee on Agriculture.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/house-bill/9856",
+  "source_url": "",
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "updated": "2026-09-18",
+  "first_seen": "2026-07-22",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "hr",
+  "number": 9856
+ },
+ {
+  "id": "us-119-sres-708",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S.Res. 708",
+  "title": "A resolution amending rule XXXVII of the Standing Rules of the Senate to prohibit Senators from trading on prediction markets.",
+  "abstract": "Amending rule XXXVII of the Standing Rules of the Senate to prohibit Senators from trading on prediction markets.",
+  "classification": "resolution",
+  "subjects": [
+   "Congress"
+  ],
+  "sponsors": [
+   "Sen. Moreno, Bernie [R-OH]"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-04-30",
+  "latest_action": "Resolution agreed to in Senate with amendments by Unanimous Consent. (consideration: CR S2151-2152, S2161; text: CR S2151-2152)",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/708",
+  "source_url": "",
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "updated": "2026-09-30",
+  "first_seen": "2026-04-30",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "sres",
+  "number": 708
+ },
+ {
+  "id": "us-119-s-4469",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S. 4469",
+  "title": "Prediction Market Act of 2026",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
+  "sponsors": [
+   "Sen. McCormick, David [R-PA]"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-04-30",
+  "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4469",
+  "source_url": "",
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "updated": "2026-08-04",
+  "first_seen": "2026-04-30",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "s",
+  "number": 4469
+ },
+ {
+  "id": "us-119-s-4226",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S. 4226",
+  "title": "STOP Corrupt Bets Act of 2026",
+  "abstract": "Stop Trading On Predictions and Corrupt Bets Act of 2026; STOP Corrupt Bets Act of 2026",
+  "classification": "bill",
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
+  "sponsors": [
+   "Sen. Merkley, Jeff [D-OR]"
+  ],
+  "introduced": "2026-03-26",
+  "latest_action_date": "2026-03-26",
+  "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4226",
+  "source_url": "",
+  "topics": [],
+  "updated": "2026-04-13",
+  "first_seen": "2026-03-26",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "s",
+  "number": 4226
+ },
+ {
+  "id": "us-119-s-4188",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S. 4188",
+  "title": "Public Integrity in Financial Prediction Markets Act of 2026",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
+  "sponsors": [
+   "Sen. Slotkin, Elissa [D-MI]"
+  ],
+  "introduced": "2026-03-25",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4188",
+  "source_url": "",
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "updated": "2026-04-09",
+  "first_seen": "2026-03-25",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "s",
+  "number": 4188
+ },
+ {
+  "id": "us-119-s-4160",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S. 4160",
+  "title": "Prediction Markets Are Gambling Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Sports and Recreation"
+  ],
+  "sponsors": [
+   "Sen. Schiff, Adam B. [D-CA]"
+  ],
+  "introduced": "2026-03-23",
+  "latest_action_date": "2026-03-23",
+  "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4160",
+  "source_url": "",
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "updated": "2026-08-01",
+  "first_seen": "2026-03-23",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "s",
+  "number": 4160
+ },
+ {
+  "id": "us-119-s-4115",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S. 4115",
+  "title": "BETS OFF Act",
+  "abstract": "Banning Event Trading on Sensitive Operations and Federal Functions Act; BETS OFF Act",
+  "classification": "bill",
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
+  "sponsors": [
+   "Sen. Murphy, Christopher [D-CT]"
+  ],
+  "introduced": "2026-03-17",
+  "latest_action_date": "2026-03-17",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4115",
+  "source_url": "",
+  "topics": [],
+  "updated": "2026-08-10",
+  "first_seen": "2026-03-17",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "s",
+  "number": 4115
+ },
+ {
+  "id": "us-119-s-454",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "S. 454",
+  "title": "Gambling Addiction Recovery, Investment, and Treatment Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Health"
+  ],
+  "sponsors": [
+   "Sen. Blumenthal, Richard [D-CT]"
+  ],
+  "introduced": "2025-02-06",
+  "latest_action_date": "2025-02-06",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/senate-bill/454",
+  "source_url": "",
+  "topics": [
+   "treatment"
+  ],
+  "updated": "2025-12-05",
+  "first_seen": "2025-02-06",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "s",
+  "number": 454
+ }
+]
