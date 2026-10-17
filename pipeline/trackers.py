@@ -282,17 +282,31 @@ _SUIT_EXCLUDE = {
 }
 
 
+_SUIT_EXCLUDE_TEXT = re.compile(r"P\.I\.|personal injury|civil rights|labor|employment|prisoner|habeas|social security|immigration|product liability|asbestos|malpractice|motor vehicle|\bmarine\b|airplane|property damage", re.I)
+# A docket whose only link to gambling is a party's name is kept when that name
+# shows a regulator, a government, a tribe or an operator in a policy dispute,
+# not a casino being sued as a hotel or an employer.
+_POLICY_PARTY = re.compile(
+    r"(gaming|casino|lottery|racing|horse)\s*(control\s*)?(commission|board|authority|division|regulat|department|agency)|state of|commonwealth of|attorney general|people of|united states|department of|"
+    r"kalshi|polymarket|robinhood|draftkings|fanduel|underdog|prizepicks|crypto\.com|coinbase|prediction|gambling recovery|sweepstakes|tribe\b|tribal|band of|nation\b|rancheria|pueblo|indians\b|\bigra\b|"
+    r"sportsbook|betting|wager|lottery|lotto|poker|bingo|fantasy|gambl|skill game|loot box",
+    re.I,
+)
+
+
 def docket_noise(r: dict, level: str) -> bool:
-    """Dockets whose only link to gambling is a party's name, in a kind of case
-    that is not about gambling."""
+    """Dockets that name a casino or sportsbook but are not about gambling."""
     if r.get("kind") != "docket":
         return False
-    code = (r.get("suit_nature") or "").strip()[:3]
-    if code in _SUIT_EXCLUDE:
+    suit = (r.get("suit_nature") or "").strip()
+    if suit[:3] in _SUIT_EXCLUDE or _SUIT_EXCLUDE_TEXT.search(suit):
         return True
     matched = r.get("matched") or []
-    if level == "federal-bankruptcy" and matched == ["name"]:
-        return True  # a debtor surnamed Casino, or a resort's adversary proceeding
+    if matched == ["name"]:
+        if level == "federal-bankruptcy":
+            return True  # a debtor surnamed Casino, or a resort's adversary proceeding
+        if not _POLICY_PARTY.search(r.get("case_name") or ""):
+            return True
     return False
 
 
@@ -301,9 +315,10 @@ def update_cases(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt
     added = updated = dropped = 0
     for r in raw:
         docs = r.get("documents") or []
-        text = " ".join([r.get("case_name") or "", r.get("snippet") or ""] + [d.get("description") or "" for d in docs])
+        body = " ".join([r.get("snippet") or ""] + [d.get("description") or "" for d in docs])
+        text = f"{r.get('case_name') or ''} {body}"
         level = court_level(r.get("court_id") or "", r.get("court_jurisdiction") or "")
-        if not tax.cases_keep(text) or docket_noise(r, level):
+        if not tax.cases_keep(r.get("case_name") or "", body) or docket_noise(r, level):
             dropped += 1
             continue
         topics, _ = tax.tag(text)

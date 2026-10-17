@@ -201,3 +201,15 @@ def test_courtlistener_convert_and_levels():
     assert pi["matched"] == ["name"] and pi["suit_nature"].startswith("360")
     out3, stats3 = update_cases(out2, [pi, debtor], TAX, TODAY, backfill=False)
     assert stats3["dropped_irrelevant"] == 2 and len(out3) == 2
+    # Name-only docket matches: a casino sued as a hotel is dropped, a regulator or an operator in a policy case is kept.
+    hotel = courts.convert_docket(dict(CL_DOCKET, docket_id=9, caseName="Cates v. Harrah's Hotel and <mark>Casino</mark>", suitNature="", cause="", recap_documents=[]))
+    regulator = courts.convert_docket(dict(CL_DOCKET, docket_id=10, caseName="Luis v. Virgin Islands <mark>Casino</mark> Control Commission", suitNature="", cause="", recap_documents=[]))
+    operator = courts.convert_docket(dict(CL_DOCKET, docket_id=11, caseName="v. QCX LLC, d/b/a <mark>Polymarket</mark> US", suitNature="", cause="", recap_documents=[]))
+    out4, stats4 = update_cases(out3, [hotel, regulator, operator], TAX, TODAY, backfill=False)
+    assert stats4["dropped_irrelevant"] == 1 and len(out4) == 4
+    # Opinions: a citation to a case named Casino, or a visa lottery, is not a gambling case; a gambling statute is.
+    cite = courts.convert_opinion(dict(CL_OPINION, cluster_id=12, caseName="Hennepin County v. HHS", opinions=[{"snippet": "cf. Venetian <mark>Casino</mark> Resort, LLC v. EEOC, 530 F.3d 925"}]))
+    visa = courts.convert_opinion(dict(CL_OPINION, cluster_id=13, caseName="Silva v. Rubio", opinions=[{"snippet": "He received an H-1B visa through the H-1B <mark>lottery</mark> system"}]))
+    statute = courts.convert_opinion(dict(CL_OPINION, cluster_id=14, caseName="State v. Sims", opinions=[{"snippet": "devices that might be used for <mark>gambling</mark>, under the state's gambling statute"}]))
+    out5, stats5 = update_cases(out4, [cite, visa, statute], TAX, TODAY, backfill=False)
+    assert stats5["dropped_irrelevant"] == 2 and len(out5) == 5
