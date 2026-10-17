@@ -1,54 +1,14 @@
 {
- "started": "2026-10-17T13:48:15+00:00",
+ "started": "2026-10-17T13:53:55+00:00",
  "mode": "nightly",
  "sources": [
-  {
-   "id": "trials:clinicaltrials",
-   "kind": "trials",
-   "ok": true,
-   "items": 210,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "trials:isrctn",
-   "kind": "trials",
-   "ok": true,
-   "items": 34,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "trials:osf",
-   "kind": "trials",
-   "ok": true,
-   "items": 645,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "bills:openstates",
-   "kind": "bills",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: Open States needs a free API key (openstates.org/accounts/profile); set the OPENSTATES_API_KEY repository secret",
-   "warning": null
-  },
-  {
-   "id": "bills:congress",
-   "kind": "bills",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": "using api.data.gov's shared DEMO_KEY (set the CONGRESS_API_KEY repository secret for a real key); rate limited at s4060 after 10 bills; the rest wait for the next run"
-  },
   {
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 120,
+   "items": 70,
    "error": null,
-   "warning": "stopped in type=o page 7 with 120 records: GET failed after 3 tries: https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0xNzg3NTI5NjAwMDAwJnM9MTA5NTY3MTYmd"
+   "warning": null
   }
  ],
  "papers": {
@@ -66,31 +26,41 @@
   "total": 675
  },
  "trials": {
-  "raw": 889,
-  "added": 696,
+  "raw": 0,
+  "added": 0,
   "updated": 0,
-  "dropped_irrelevant": 192,
+  "dropped_irrelevant": 0,
   "removed": 0,
   "total": 696
  },
  "bills": {
-  "raw": 10,
-  "added": 10,
+  "raw": 0,
+  "added": 0,
   "updated": 0,
   "dropped_irrelevant": 0,
   "total": 10
  },
  "cases": {
-  "raw": 120,
-  "added": 8,
-  "updated": 0,
-  "dropped_irrelevant": 112,
-  "total": 8
+  "raw": 70,
+  "added": 27,
+  "updated": 1,
+  "dropped_irrelevant": 42,
+  "total": 35
  },
- "finished": "2026-10-17T13:52:43+00:00",
+ "finished": "2026-10-17T13:55:09+00:00",
  "papers_total": 437,
  "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T13:55:09+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 27,
+   "failed": 0
+  },
   {
    "finished": "2026-10-17T13:52:43+00:00",
    "mode": "nightly",
