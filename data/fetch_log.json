@@ -1,5 +1,5 @@
 {
- "started": "2026-10-16T11:18:48+00:00",
+ "started": "2026-10-17T10:39:32+00:00",
  "mode": "nightly",
  "sources": [
   {
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 197,
+   "items": 221,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 28,
+   "items": 26,
    "error": null,
    "warning": null
   },
@@ -190,7 +190,7 @@
    "id": "news:federal-register-cftc",
    "kind": "news",
    "ok": true,
-   "items": 5,
+   "items": 7,
    "error": null,
    "warning": null
   },
@@ -244,23 +244,30 @@
   }
  ],
  "papers": {
-  "raw": 651,
-  "groups": 590,
-  "added": 16,
-  "updated": 179,
-  "dropped_irrelevant": 395,
-  "total": 422
+  "raw": 673,
+  "groups": 610,
+  "added": 15,
+  "updated": 190,
+  "dropped_irrelevant": 405,
+  "total": 437
  },
  "news": {
-  "raw": 711,
-  "added": 160,
-  "dropped_irrelevant": 108,
-  "total": 616
+  "raw": 713,
+  "added": 66,
+  "dropped_irrelevant": 112,
+  "total": 675
  },
- "finished": "2026-10-16T11:19:17+00:00",
- "papers_total": 422,
- "news_total": 616,
+ "finished": "2026-10-17T10:39:56+00:00",
+ "papers_total": 437,
+ "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T10:39:56+00:00",
+   "mode": "nightly",
+   "added": 15,
+   "news_added": 66,
+   "failed": 0
+  },
   {
    "finished": "2026-10-16T11:19:17+00:00",
    "mode": "nightly",

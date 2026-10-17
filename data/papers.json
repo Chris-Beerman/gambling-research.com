@@ -1,10 +1,645 @@
 [
  {
+  "id": "doi:10.1186/s12954-026-01565-0",
+  "doi": "10.1186/s12954-026-01565-0",
+  "pmid": "42888425",
+  "pmcid": null,
+  "openalex": "W7222638795",
+  "title": "Study protocol: seeking treatment for gambling - a 10-year retrospective clinical and register study of gambling patterns and physical and psychiatric comorbidity in patients with gambling disorder",
+  "journal": "Harm Reduction Journal",
+  "authors": [
+   "Anders Håkansson",
+   "Yassir Abdul Rahim",
+   "Molly Miles",
+   "Carolina Widinghoff"
+  ],
+  "published": "2026-10-16",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "Abstract Background Gambling disorder, the first non-substance-related addictive disorder to be recognized, can have a severe impact on health and psycho-social well-being, but treatment seeking is often low, and the documentation of clinical needs and medical comorbidities is sparser than for substance use disorders …",
+  "url": "https://doi.org/10.1186/s12954-026-01565-0",
+  "oa_url": "https://doi.org/10.1186/s12954-026-01565-0",
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "self-exclusion",
+   "comorbidity",
+   "equity",
+   "lived-experience"
+  ],
+  "designs": [
+   "trial",
+   "commentary",
+   "protocol"
+  ],
+  "countries": [
+   "SE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1186/s12874-026-03048-z",
+  "doi": "10.1186/s12874-026-03048-z",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222423213",
+  "title": "Sequential randomization tests using e-values for clinical trial monitoring across endpoint types",
+  "journal": "BMC Medical Research Methodology",
+  "authors": [
+   "Fernando Godinho Zampieri",
+   "Arthur M. Albuquerque",
+   "Aaditya Ramdas"
+  ],
+  "published": "2026-10-16",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "Abstract Background In randomized trials, repeated interim analyses of accumulating data must keep the Type I error controlled. Sequential analyses that use e-values allow continuous assessment of evidence while controlling their own Type I error …",
+  "url": "https://doi.org/10.1186/s12874-026-03048-z",
+  "oa_url": "https://doi.org/10.1186/s12874-026-03048-z",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "policy",
+   "equity"
+  ],
+  "designs": [
+   "trial"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/07448481.2026.2744233",
+  "doi": "10.1080/07448481.2026.2744233",
+  "pmid": "42885879",
+  "pmcid": null,
+  "openalex": "W7222726804",
+  "title": "Problem sports betting/gambling in U.S. undergraduate students at a large public university",
+  "journal": "Journal of American College Health",
+  "authors": [
+   "Elizabeth McEvoy",
+   "Lindsey Y Mortenson",
+   "Christopher J Frank"
+  ],
+  "published": "2026-10-16",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-17",
+  "summary": "To estimate the prevalence of potential problem gambling among college students at a large U.S. public university who reported having participated in sports betting/gambling. Participants: A customized Healthy Minds Study (HMS) Student Survey was administered to undergraduate students (n = 1,489) at a large U.S. public university in 2025 …",
+  "url": "https://doi.org/10.1080/07448481.2026.2744233",
+  "oa_url": "https://doi.org/10.1080/07448481.2026.2744233",
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth",
+   "prevalence",
+   "measurement"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1002/adaw.35086",
+  "doi": "10.1002/adaw.35086",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222495107",
+  "title": "In Case You Haven't Heard…",
+  "journal": "Alcoholism & Drug Abuse Weekly",
+  "authors": [],
+  "published": "2026-10-16",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "Last month the Heather Maurer, executive director of the National Council on Problem Gambling resigned after taking $2 million from Kalshi, a prediction market. The problems of gambling addiction and problem gambling have been growing with online sports betting and prediction markets …",
+  "url": "https://doi.org/10.1002/adaw.35086",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "prediction-markets",
+   "youth",
+   "treatment",
+   "policy",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s44202-026-00943-w",
+  "doi": "10.1007/s44202-026-00943-w",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7162272727",
+  "title": "An empirical investigation of the pathways model of problem gambling and the UPPS-P",
+  "journal": "Discover Psychology",
+  "authors": [
+   "Chris James Serafim",
+   "Luna Collie Clark",
+   "Peter Richard Gill"
+  ],
+  "published": "2026-10-16",
+  "year": 2026,
+  "created": "2026-05-25",
+  "first_seen": "2026-10-17",
+  "summary": "Abstract While impulsivity is recognised as a central aetiological factor of problem gambling within the pathways model, limited research has examined the different dimensions of this trait and the three gambling sub-types contained within this model …",
+  "url": "https://doi.org/10.1007/s44202-026-00943-w",
+  "oa_url": "https://doi.org/10.1007/s44202-026-00943-w",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "measurement",
+   "cognition"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:307ec8581403399f",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222769003",
+  "title": "From Prohibition to Supervision: Licensed Betting in Uzbekistan and the Control of Payment Flows, Financial Crime and Consumer Harm",
+  "journal": "American Journal of Public Diplomacy and International Studies",
+  "authors": [
+   "Sardor Khushvaktov"
+  ],
+  "published": "2026-10-15",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "In July 2026 Uzbekistan issued its first licences for online bookmaking, under a framework adopted in 2024. This article argues that the reform is better understood as a shift from prohibition to supervision than as the legalisation of a new activity, because betting demand, and the payment channels serving it, existed throughout the period of prohibition …",
+  "url": "https://grnjournal.us/index.php/AJPDIS/article/view/9794",
+  "oa_url": "https://grnjournal.us/index.php/AJPDIS/article/view/9794",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "prevention",
+   "self-exclusion",
+   "policy",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [
+   "UZ"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.51878/paedagogy.v6i4.15038",
+  "doi": "10.51878/paedagogy.v6i4.15038",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222291292",
+  "title": "DAMPAK PSIKOLOGIS KETERGANTUNGAN JUDI ONLINE PADA REMAJA DESA BANJARANYAR KECAMATAN RANDUDONGKAL KABUPATEN PEMALANG",
+  "journal": "PAEDAGOGY Jurnal Ilmu Pendidikan dan Psikologi",
+  "authors": [
+   "Galang Dwi Risaldi"
+  ],
+  "published": "2026-10-15",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-17",
+  "summary": "Online gambling among adolescents is a growing concern because it may be associated with changes in psychological well-being and social life. This study aimed to describe the psychological impacts of online gambling addiction among adolescents in Banjaranyar Village, Randudongkal District, Pemalang Regency, Indonesia …",
+  "url": "https://doi.org/10.51878/paedagogy.v6i4.15038",
+  "oa_url": "https://jurnalp4i.com/index.php/paedagogy/article/download/15038/10627",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "policy",
+   "comorbidity",
+   "families"
+  ],
+  "designs": [
+   "qualitative",
+   "case-report"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/jrfm19100818",
+  "doi": "10.3390/jrfm19100818",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7221940577",
+  "title": "Behavioral Financial Signals and Explainable AI in Credit Risk Assessment: Evidence from Utility Arrears and Gambling Activity",
+  "journal": "Journal of Risk and Financial Management",
+  "authors": [
+   "Shynara Sarkambayeva",
+   "Aliya Turegeldinova",
+   "Marat Sultangaziyev",
+   "Yerkezhan Mussabayeva",
+   "Satyanand Singh"
+  ],
+  "published": "2026-10-15",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-17",
+  "summary": "Traditional consumer credit scoring models frequently fail to identify rising default risks in transition economies because they rely almost exclusively on formal macroeconomic indicators and unchanging demographic data …",
+  "url": "https://doi.org/10.3390/jrfm19100818",
+  "oa_url": "https://doi.org/10.3390/jrfm19100818",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "policy",
+   "prevalence",
+   "measurement",
+   "cognition",
+   "financial-harm",
+   "industry"
+  ],
+  "designs": [
+   "survey",
+   "longitudinal",
+   "behavioral-data"
+  ],
+  "countries": [
+   "KZ",
+   "FJ"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1002/poi3.70060",
+  "doi": "10.1002/poi3.70060",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7221949327",
+  "title": "Gambling Advertising and Problem Gambling in the United States: Multi‐Level Evidence Beyond Sports‐Betting Legal Status",
+  "journal": "Policy & Internet",
+  "authors": [
+   "Chris J. Vargo",
+   "Toby Hopp",
+   "Harsha Gangadharbatla"
+  ],
+  "published": "2026-10-14",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-17",
+  "summary": "ABSTRACT US gambling debates often center on the legal status of sports‐betting, but advertising can also be used as a distinct policy lever. This paper presents the findings of two related studies …",
+  "url": "https://doi.org/10.1002/poi3.70060",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/poi3.70060",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "advertising",
+   "policy"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.23969/jp.v11i04.70628",
+  "doi": "10.23969/jp.v11i04.70628",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222638772",
+  "title": "Edukasi Pasar Modal sebagai Upaya Penguatan Literasi Keuangan dan Pencegahan Risiko Keuangan Digital pada Siswa SMA/SMK Yaspen Palapa Binjai",
+  "journal": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+  "authors": [
+   "Deva Fitri Zuya",
+   "Herma Yanti Piliang",
+   "Mareta Rindiani",
+   "Sri Rapida",
+   "Azizah Hanum OK"
+  ],
+  "published": "2026-10-14",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "The development of digital financial services has provided convenience for the younger generation, but it has also increased the risk of irresponsible use of financial services, such as uncontrolled use of paylater services, online gambling, and illegal investments …",
+  "url": "https://doi.org/10.23969/jp.v11i04.70628",
+  "oa_url": "https://journal.unpas.ac.id/index.php/pendas/article/view/70628",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "policy",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:72faad4e0b7b3e1a",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222369858",
+  "title": "Online Gambling Disorder and Its Psychosocial Impact on Adolescent Mental Health: Outcomes of a Multidisciplinary Community",
+  "journal": "Lentera Pengabdian",
+  "authors": [
+   "Amalina Nur Arifah",
+   "Desy Eliana",
+   "Ruri Trisasri",
+   "Fauzia Liesly Anindya",
+   "Awaludin Awaludin"
+  ],
+  "published": "2026-10-13",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-17",
+  "summary": "Online gambling has become a serious threat to the mental health of Indonesian adolescents, with rising cases of addiction (gambling disorder), anxiety, depression, social isolation, and suicide risk …",
+  "url": "https://jurnal.lenteranusa.id/index.php/lp/article/view/1494",
+  "oa_url": "https://jurnal.lenteranusa.id/index.php/lp/article/download/1494/1097",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "treatment",
+   "prevention",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "behavioral-data"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:c943a8eddfbae785",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222390870",
+  "title": "JOGOS ELETRÔNICOS E A PROTEÇÃO DE CRIANÇAS E ADOLESCENTES: : TECNOSOCIAIS E LEGAIS - A QUESTÃO DAS CAIXAS DE RECOMPENSA",
+  "journal": "Revista Direito Mackenzie",
+  "authors": [
+   "Renan Melo de Sousa",
+   "Maria Vitória Silva Santana"
+  ],
+  "published": "2026-10-12",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-17",
+  "summary": "The present article aims to analyze the technosocial and legal dimensions of electronic games, focusing on the protection of children and adolescents in the face of monetization practices, particularly the so-called loot boxes …",
+  "url": "https://editorarevistas.mackenzie.br/rmd/article/view/18451",
+  "oa_url": "https://editorarevistas.mackenzie.br/rmd/article/download/18451/13277",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "youth",
+   "policy",
+   "equity",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "pt",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:9b8d8ccbcbecdf36",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222767101",
+  "title": "Gambling regulations in Europe : results from a regulator survey",
+  "journal": "Työväentutkimus Vuosikirja",
+  "authors": [
+   "Mette Eveliina Kivistö",
+   "Jenny Cisneros Örnberg",
+   "Håkan Wall",
+   "Denis Kypr",
+   "Virve Marionneau"
+  ],
+  "published": "2026-10-06",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "This report summarises the results of a survey to European gambling regulators, conducted in 2026. The report addresses regulatory structures and practices in different European countries, focusing specifically on three topical issues: duty of care, advertising regulation and financial regulatory measures …",
+  "url": "http://hdl.handle.net/10138/639952",
+  "oa_url": "http://hdl.handle.net/10138/639952",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "advertising",
+   "policy"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.21181/kjpc.2026.35.3.291",
+  "doi": "10.21181/kjpc.2026.35.3.291",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222428271",
+  "title": "Environmental and Cognitive Factors Associated with Adolescent Gambling Experience: Focusing on Exposure to Gambling Promotional Materials, Peer Gambling Exposure, and Gambling Risk Perception",
+  "journal": "Korean Association of Public Safety and Criminal Justice",
+  "authors": [
+   "Yong Eun Lee",
+   "Dae Gyung Kwack"
+  ],
+  "published": "2026-09-30",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "This study aimed to examine environmental and cognitive factors associated with lifetime gambling experience among adolescents. Data were drawn from the 2025 Survey on Youth Gambling, and a total of 13,481 adolescents were included in the final analytic sample. Lifetime gambling experience was specified as the dependent variable …",
+  "url": "https://doi.org/10.21181/kjpc.2026.35.3.291",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "treatment",
+   "prevention",
+   "advertising",
+   "cognition"
+  ],
+  "designs": [
+   "survey",
+   "commentary"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.21181/kjpc.2026.35.3.97",
+  "doi": "10.21181/kjpc.2026.35.3.97",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222740193",
+  "title": "A Typology of Adolescent Gamblers Using Latent Class Analysis",
+  "journal": "Korean Association of Public Safety and Criminal Justice",
+  "authors": [
+   "Heejoo Noh",
+   "Younoh Cho"
+  ],
+  "published": "2026-09-30",
+  "year": 2026,
+  "created": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "summary": "Adolescent gambling has emerged as a serious social concern, as gambling problems that begin at an early age may extend beyond juvenile delinquency to school maladjustment, secondary offending, and continued involvement in crime during adulthood …",
+  "url": "https://doi.org/10.21181/kjpc.2026.35.3.97",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "lottery",
+   "youth",
+   "treatment",
+   "prevention",
+   "prevalence",
+   "comorbidity",
+   "families",
+   "financial-harm"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.3928/02793695-20261008-01",
   "doi": "10.3928/02793695-20261008-01",
   "pmid": "42879692",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7222234507",
   "title": "The Impact of Problematic Online Gambling on University Students' Lives: Exploring Links With Impulsivity, Emotion Regulation, and Psychological Distress",
   "journal": "Journal of Psychosocial Nursing and Mental Health Services",
   "authors": [
@@ -20,6 +655,7 @@
   "url": "https://doi.org/10.3928/02793695-20261008-01",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -55,7 +691,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-16",
+  "published": "2026-10-17",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -83,7 +719,7 @@
   "doi": "10.1111/add.70626",
   "pmid": "42885285",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7222501486",
   "title": "System-frame interventions to prevent gambling harms and beyond",
   "journal": "Addiction",
   "authors": [
@@ -93,16 +729,19 @@
   "year": 2026,
   "created": "2026-10-16",
   "first_seen": "2026-10-16",
-  "summary": "Addiction, EarlyView.",
+  "summary": "System-frame interventions to prevent gambling harms and beyondLiving environments should be designed in a way that promotes health.Evidence-based gambling addiction prevention, therefore, requires systemic (s-frame) interventions that are considered both effective and cost-efficient.Future research should not only evaluate the effects associated with …",
   "url": "https://doi.org/10.1111/add.70626",
-  "oa_url": null,
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/add.70626",
   "sources": [
-   "pubmed",
-   "feed:addiction"
+   "feed:addiction",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
-   "treatment"
+   "treatment",
+   "prevention",
+   "policy"
   ],
   "designs": [],
   "countries": [
@@ -182,7 +821,7 @@
   "first_seen": "2026-10-16",
   "summary": "ABSTRAK Kuliah Kerja Nyata (KKN) merupakan salah satu wujud pelaksanaan Tri Dharma Perguruan Tinggi yang menempatkan mahasiswa secara langsung di tengah masyarakat untuk mengidentifikasi dan menjawab persoalan nyata yang dihadapi warga desa …",
   "url": "http://jahe.or.id/index.php/jahe/article/view/3035",
-  "oa_url": "http://jahe.or.id/index.php/jahe/article/view/3035",
+  "oa_url": "http://jahe.or.id/index.php/jahe/article/download/3035/1614",
   "sources": [
    "openalex"
   ],
@@ -1080,20 +1719,26 @@
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-15",
-  "summary": "",
+  "summary": "We report Iowa Electronic Markets (IEM) and Kalshi prediction market forecasts for the congressional control configuration resulting from the 2026 U.S …",
   "url": "https://doi.org/10.1017/s1049096526103023",
-  "oa_url": null,
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E0C41754EC84EA7DAF254CC638652FAB/S1049096526103023a.pdf/div-class-title-forecasting-2026-congressional-control-a-comparison-of-iem-and-kalshi-prediction-markets-div.pdf",
   "sources": [
    "openalex"
   ],
   "type": "article",
   "topics": [
    "prediction-markets",
+   "trading",
+   "measurement",
    "industry"
   ],
   "designs": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -1146,7 +1791,7 @@
   "regions": [
    "europe"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -1190,7 +1835,7 @@
   "regions": [
    "asia"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -1357,7 +2002,7 @@
   "first_seen": "2026-10-14",
   "summary": "Abstract People with addictive disorders are vulnerable to stigma and discrimination, which can impact addiction treatment outcomes through increased psychological distress and reduced self-efficacy …",
   "url": "https://doi.org/10.1007/s10899-026-10567-3",
-  "oa_url": "https://doi.org/10.1007/s10899-026-10567-3",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10567-3.pdf",
   "sources": [
    "crossref",
    "feed:jgs",
@@ -1602,7 +2247,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-16",
+  "published": "2026-10-17",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -2472,6 +3117,43 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1364/ao.610874",
+  "doi": "10.1364/ao.610874",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7221006774",
+  "title": "Lightweight event recognition framework for Φ-OTDR systems with space-frequency fusion based on self-exclusion relational knowledge distillation",
+  "journal": "Applied Optics",
+  "authors": [
+   "胡劲华 Hu Jinhua",
+   "Jinhua Hu",
+   "Longfei Li",
+   "Zhen Liu"
+  ],
+  "published": "2026-10-08",
+  "year": 2026,
+  "created": "2026-10-09",
+  "first_seen": "2026-10-09",
+  "summary": "Phase-sensitive optical time-domain reflectometry (Φ-OTDR) systems are widely utilized in large-scale perimeter security and critical infrastructure protection. However, disturbance signal classification in Φ-OTDR systems heavily relies on complex model structures …",
+  "url": "https://doi.org/10.1364/ao.610874",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "self-exclusion",
+   "measurement"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.3390/brainsci16101077",
   "doi": "10.3390/brainsci16101077",
   "pmid": null,
@@ -2580,41 +3262,6 @@
    "uk-ireland",
    "europe"
   ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1364/ao.610874",
-  "doi": "10.1364/ao.610874",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7221006774",
-  "title": "Lightweight Event Recognition Framework for Φ-OTDR Systems with Space-Frequency Fusion Based on Self-Exclusion Relational Knowledge Distillation",
-  "journal": "Applied Optics",
-  "authors": [
-   "胡劲华 Hu Jinhua",
-   "Jianglong Zhao",
-   "Longfei Li",
-   "Zhen Liu"
-  ],
-  "published": "2026-09-28",
-  "year": 2026,
-  "created": "2026-10-09",
-  "first_seen": "2026-10-09",
-  "summary": "",
-  "url": "https://doi.org/10.1364/ao.610874",
-  "oa_url": null,
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "self-exclusion"
-  ],
-  "designs": [],
-  "countries": [],
-  "regions": [],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -5368,16 +6015,13 @@
   "title": "The gambling environment and gambling problems in Western Australia",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Buly A. Cardak",
-   "Nicola Thomas",
-   "Charles Livingstone",
-   "Heng Jiang"
+   "Buly A. Cardak Nicola Thomas Charles Livingstone Heng Jiang a La Trobe Business School, La Trobe University, Melbourne, Australiab School of Business, Charles Sturt University, Albury, Australiac School of Public Health & Preventive Medicine, Monash University, Melbourne, Australiad School of Psychology and Public Health, La Trobe University, Melbourne, Australiae Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Australia"
   ],
   "published": "2026-09-25",
   "year": 2026,
-  "created": "2026-09-26",
+  "created": "2026-09-25",
   "first_seen": "2026-09-25",
-  "summary": "Background Gambling-related harm is a widely recognized global public health challenge, yet comparatively little work has examined how differences in gambling environments relate to patterns of gambling behavior and harm …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2733842",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2733842?needAccess=true",
   "sources": [
@@ -5385,22 +6029,11 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "lottery",
-   "casino",
-   "policy",
-   "measurement"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "topics": [],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
