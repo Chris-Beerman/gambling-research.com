@@ -211,8 +211,11 @@ class Builder:
 
     def trials_view(self):
         groups: list[tuple[str, str, list]] = []
+        two_years = (self.today - dt.timedelta(days=730)).isoformat()
         for slug, label, statuses in self.STATUS_GROUPS:
             items = [t for t in self.trials_all if t.get("status") in statuses]
+            if slug == "registered":  # OSF goes back to 2013; the page shows recent registrations, the JSON has all
+                items = [t for t in items if (t.get("first_posted") or t.get("first_seen") or "") >= two_years]
             if slug == "completed":
                 items.sort(key=lambda t: (t.get("completion_date") or t.get("last_updated") or "", t["title"]), reverse=True)
             elif slug == "registered":

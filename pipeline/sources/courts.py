@@ -33,11 +33,15 @@ def fetch_courtlistener(s, cfg: dict, days: int, warnings: list[str] | None = No
     out: dict[str, dict] = {}
     max_pages = int(cfg.get("max_pages", 3))
     query = " ".join(str(cfg.get("query", "gambling")).split())
+    # highlight=on makes `snippet` the passage that matched rather than the
+    # opening lines of the document, which is what the relevance rules need.
     searches = [
-        ("o", {"type": "o", "q": query, "order_by": "dateFiled desc", "filed_after": since}),
+        ("o", {"type": "o", "q": query, "order_by": "dateFiled desc", "filed_after": since, "highlight": "on"}),
     ]
     if cfg.get("dockets", True):
-        searches.append(("r", {"type": "r", "q": query, "order_by": "entry_date_filed desc", "entry_date_filed_after": since}))
+        searches.append(("r", {"type": "r", "q": query, "order_by": "entry_date_filed desc", "entry_date_filed_after": since, "highlight": "on"}))
+    # Authenticated free accounts are throttled to five requests a minute.
+    pause = float(cfg.get("pause_seconds", 13))
     for kind, params in searches:
         url = CL_API
         pages = 0
@@ -60,8 +64,8 @@ def fetch_courtlistener(s, cfg: dict, days: int, warnings: list[str] | None = No
             pages += 1
             if pages >= max_pages:
                 break
-            time.sleep(1.0)
-        time.sleep(1.0)
+            time.sleep(pause)
+        time.sleep(pause)
     return list(out.values())
 
 
