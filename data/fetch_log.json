@@ -1,12 +1,12 @@
 {
- "started": "2026-10-17T13:53:55+00:00",
+ "started": "2026-10-17T13:56:52+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 70,
+   "items": 400,
    "error": null,
    "warning": null
   }
@@ -41,16 +41,26 @@
   "total": 10
  },
  "cases": {
-  "raw": 70,
-  "added": 27,
-  "updated": 1,
-  "dropped_irrelevant": 42,
-  "total": 35
+  "raw": 400,
+  "added": 148,
+  "updated": 0,
+  "dropped_irrelevant": 252,
+  "total": 148
  },
- "finished": "2026-10-17T13:55:09+00:00",
+ "finished": "2026-10-17T14:02:10+00:00",
  "papers_total": 437,
  "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T14:02:10+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 148,
+   "failed": 0
+  },
   {
    "finished": "2026-10-17T13:55:09+00:00",
    "mode": "nightly",
