@@ -44,6 +44,22 @@ Topics, study designs and regions are assigned by keyword rules, listed in full 
 
 News comes from the feeds of regulators, courts, the press and trade outlets, and from Google News searches for a few phrases. A headline is kept when it matches gambling terms, categorised by keyword (public health and treatment, research in the news, prediction markets, regulation and law, industry), and capped at ten items per source per day. The home page shows everything except pure industry news; the [news page](/news/) shows everything. Headlines link to their sources; nothing is rewritten.
 
+## Trials and preregistrations {#trials}
+
+The [trials page](/trials/) lists registered studies rather than published ones. Each night the index queries **ClinicalTrials.gov** (API v2: studies whose conditions mention gambling, plus studies that mention sports betting, wagering, loot boxes or prediction markets anywhere), **ISRCTN** (the registry's query API, for "gambling") and **OSF Registries** (public registrations whose title or description mentions gambling, betting, wagering, loot boxes or prediction markets). Records pass the same relevance rules as studies, so a Parkinson's trial that uses the Iowa Gambling Task is dropped. An ISRCTN record that quotes a ClinicalTrials.gov number is treated as the same trial.
+
+Status is the registry's own (ClinicalTrials.gov's "unknown" means the sponsor has not updated the record for two years; ISRCTN's is derived from its recruitment and end dates), and "results posted" means results appear in the registry, not that a paper exists. When a trial's status changes between runs, the previous status is shown for a while. Not covered: ANZCTR, PROSPERO, the EU register and AsPredicted, which have no usable public interface.
+
+## Bills {#bills}
+
+The [bills page](/bills/) tracks legislation with action in the past year. State bills come from **Open States** (API v3): a full-text search for each of a short list of terms (sports betting, sports wagering, gambling, casino, lottery, wagering, prediction market, event contract, self-exclusion, problem gambling, daily fantasy, sweepstakes, video gaming terminal, internet gaming) over bills updated since the last run. Federal bills come from **GovInfo**, whose listing of bill texts modified in the window is matched by official title, and **Congress.gov**, which supplies the latest action; known federal bills are re-checked a few at a time so their stage stays current between text versions.
+
+A bill is kept when its title, abstract or subject names gambling, betting, a lottery, casino, gaming regulation, prediction markets or self-exclusion; the rules are `bills_include` in the taxonomy file. Appropriations and omnibus bills that mention gambling only in their text are usually missed, which is deliberate. The stage (introduced, in committee, reported, passed one chamber, passed both, enacted, vetoed, failed) is derived from the legislature's recorded actions, or from the wording of the latest action for federal bills, and can lag the legislature's site by a day or two.
+
+## Courts {#courts}
+
+The [courts page](/courts/) comes from **CourtListener**'s search API: opinions filed in the window and federal dockets (RECAP) with filings in the window, for a query built from gambling terms (sports betting, gambling, casino, lottery, gaming compact, Indian Gaming, event contracts, prediction market, Kalshi, Polymarket, sweepstakes casino, daily fantasy, loot box, self-exclusion). A record is kept when its case name, snippet or docket entries match the `cases_include` rules. The court level comes from CourtListener's jurisdiction codes. Criminal cases that mention gambling in passing do get through, and state trial courts and most state dockets are not in CourtListener at all, so this is a watch list, not a complete record.
+
 ## The digest
 
 The weekly digest is written by the editor from a ranked shortlist the index produces each Monday (`data/weekly/latest.json`). The shortlist scores studies by journal, design, free availability and topic, which is a convenience, not a quality judgment. Choosing what to write about and what to say is editorial.
@@ -58,4 +74,4 @@ Write to <editor@gambling-research.com> or open an issue in the [repository](htt
 
 ## Data and code
 
-The whole index is published at [/data/papers.json](/data/papers.json) and [/data/news.json](/data/news.json) under CC0. The code is MIT-licensed. Anyone can run it for another field by changing the configuration files.
+The whole index is published at [/data/papers.json](/data/papers.json), [/data/news.json](/data/news.json), [/data/trials.json](/data/trials.json), [/data/bills.json](/data/bills.json) and [/data/cases.json](/data/cases.json) under CC0. The code is MIT-licensed. Anyone can run it for another field by changing the configuration files.

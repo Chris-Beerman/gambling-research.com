@@ -1,266 +1,122 @@
 {
- "started": "2026-10-17T10:39:32+00:00",
+ "started": "2026-10-17T14:05:25+00:00",
  "mode": "nightly",
  "sources": [
   {
-   "id": "pubmed",
-   "kind": "papers",
-   "ok": true,
-   "items": 37,
-   "error": null,
+   "id": "bills:openstates",
+   "kind": "bills",
+   "ok": false,
+   "items": 0,
+   "error": "RuntimeError: Open States needs a free API key (openstates.org/accounts/profile); set the OPENSTATES_API_KEY repository secret",
    "warning": null
   },
   {
-   "id": "openalex",
-   "kind": "papers",
-   "ok": true,
-   "items": 221,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "crossref",
-   "kind": "papers",
-   "ok": true,
-   "items": 26,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:igs",
-   "kind": "papers",
-   "ok": true,
-   "items": 21,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:art",
-   "kind": "papers",
-   "ok": true,
-   "items": 45,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:jswpa",
-   "kind": "papers",
-   "ok": true,
-   "items": 25,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:addiction",
-   "kind": "papers",
-   "ok": true,
-   "items": 87,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:addictive-behaviors",
-   "kind": "papers",
-   "ok": true,
-   "items": 43,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:cbp",
-   "kind": "papers",
-   "ok": true,
-   "items": 64,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:cgs",
-   "kind": "papers",
-   "ok": true,
-   "items": 30,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:jgs",
-   "kind": "papers",
-   "ok": true,
-   "items": 20,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:ijmha",
-   "kind": "papers",
-   "ok": true,
-   "items": 20,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:glr",
-   "kind": "papers",
-   "ok": true,
-   "items": 4,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "feed:medrxiv-addiction",
-   "kind": "papers",
-   "ok": true,
-   "items": 30,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:lsr",
-   "kind": "news",
+   "id": "bills:congress",
+   "kind": "bills",
    "ok": true,
    "items": 10,
    "error": null,
-   "warning": null
+   "warning": "using api.data.gov's shared DEMO_KEY (set the CONGRESS_API_KEY repository secret for a real key)"
   },
   {
-   "id": "news:sbc-americas",
-   "kind": "news",
+   "id": "courts:courtlistener",
+   "kind": "cases",
    "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:sports-handle",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:cdc-gaming",
-   "kind": "news",
-   "ok": true,
-   "items": 20,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:igb",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:aga",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:ncpg",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:guardian-gambling",
-   "kind": "news",
-   "ok": true,
-   "items": 20,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:cftc",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:federal-register-cftc",
-   "kind": "news",
-   "ok": true,
-   "items": 7,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-ukgc",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:courtlistener-kalshi",
-   "kind": "news",
-   "ok": true,
-   "items": 6,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-problem-gambling",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-betting-law",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-prediction-markets",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-self-exclusion",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
+   "items": 400,
    "error": null,
    "warning": null
   }
  ],
  "papers": {
-  "raw": 673,
-  "groups": 610,
-  "added": 15,
-  "updated": 190,
-  "dropped_irrelevant": 405,
+  "raw": 0,
+  "groups": 0,
+  "added": 0,
+  "updated": 0,
+  "dropped_irrelevant": 0,
   "total": 437
  },
  "news": {
-  "raw": 713,
-  "added": 66,
-  "dropped_irrelevant": 112,
+  "raw": 0,
+  "added": 0,
+  "dropped_irrelevant": 0,
   "total": 675
  },
- "finished": "2026-10-17T10:39:56+00:00",
+ "trials": {
+  "raw": 0,
+  "added": 0,
+  "updated": 0,
+  "dropped_irrelevant": 0,
+  "removed": 0,
+  "total": 696
+ },
+ "bills": {
+  "raw": 10,
+  "added": 0,
+  "updated": 10,
+  "dropped_irrelevant": 0,
+  "total": 10
+ },
+ "cases": {
+  "raw": 400,
+  "added": 53,
+  "updated": 0,
+  "dropped_irrelevant": 347,
+  "total": 53
+ },
+ "finished": "2026-10-17T14:09:55+00:00",
  "papers_total": 437,
  "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T14:09:55+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 53,
+   "failed": 1
+  },
+  {
+   "finished": "2026-10-17T14:02:10+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 148,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T13:55:09+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 27,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T13:52:43+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 696,
+   "bills_added": 10,
+   "cases_added": 8,
+   "failed": 1
+  },
+  {
+   "finished": "2026-10-17T13:45:15+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 804,
+   "bills_added": 10,
+   "cases_added": 0,
+   "failed": 2
+  },
   {
    "finished": "2026-10-17T10:39:56+00:00",
    "mode": "nightly",

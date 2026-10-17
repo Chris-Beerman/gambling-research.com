@@ -7,6 +7,7 @@
 <section class="page-head">
   <p class="kicker kind-news">Policy and public health</p>
   <h1>Policy and news</h1>
+  {% if subnav %}{{ m.subnav(subnav, subnav_current, 'news') }}{% endif %}
   <p class="page-deck">{{ count }} items from the past {{ window }} days, collected from regulators, courts, the press and trade outlets and sorted by category. Headlines link to the original source; nothing is rewritten here. Items are categorised by keyword, so expect the occasional miss.</p>
 </section>
 <form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ site.title }}: trials and preregistrations</title>
+<link>{{ site.url }}/trials/</link>
+<atom:link href="{{ site.url }}/trials/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Registered trials and preregistered studies on gambling and betting, as they enter the index.</description>
+<language>en</language>
+{% for t in trials %}
+<item>
+<title>{{ t.title }}</title>
+<link>{{ t.url }}</link>
+<guid isPermaLink="false">{{ t.id }}</guid>
+<pubDate>{{ t.first_seen|rfc822(7) }}</pubDate>
+<description>{{ t.registry_label }} {{ t.id|replace('osf:', '') }}, {{ t.status|status_label }}.{% if t.sponsor %} {{ t.sponsor }}.{% endif %}{% if t.country_names %} {{ t.country_names[:3]|join(', ') }}.{% endif %}{% if t.enrollment %} {{ t.enrollment }} participants.{% endif %}{% if t.summary %} {{ t.summary }}{% endif %}</description>
+</item>
+{% endfor %}
+</channel>
+</rss>

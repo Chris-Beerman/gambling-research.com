@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ site.title }}: bills</title>
+<link>{{ site.url }}/bills/</link>
+<atom:link href="{{ site.url }}/bills/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Gambling, betting, lottery, casino and prediction-market bills in the state legislatures and Congress, by latest action.</description>
+<language>en</language>
+{% for b in bills %}
+<item>
+<title>{{ b.jurisdiction }} {{ b.identifier }}: {{ b.title }}</title>
+<link>{{ b.url }}</link>
+<guid isPermaLink="false">{{ b.id }}:{{ b.latest_action_date }}</guid>
+<pubDate>{{ b.latest_action_date|rfc822(7) }}</pubDate>
+<description>{{ b.stage|stage_label|capitalize }}.{% if b.latest_action %} {{ b.latest_action }} ({{ b.latest_action_date|fmt_date }}).{% endif %}{% if b.abstract %} {{ b.abstract }}{% endif %}</description>
+</item>
+{% endfor %}
+</channel>
+</rss>

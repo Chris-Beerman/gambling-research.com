@@ -51,6 +51,10 @@ Enrolment counts for state self-exclusion programs appear in regulator annual re
 
 The Google Ads Transparency Center and Meta Ad Library expose currently running creatives by advertiser and are the cleanest sampling frame for served gambling advertising; neither back-fills, so collection has to start before the period of interest. Affiliate listings (Legal Sports Report and others) record welcome-offer terms and state availability daily.
 
+## Trials, bills and court records
+
+This site's own trackers publish their data as JSON under CC0: [registered trials and preregistrations](/data/trials.json) (ClinicalTrials.gov, ISRCTN, OSF Registries), [bills](/data/bills.json) (Open States for the states, GovInfo and Congress.gov for Congress) and [court opinions and federal dockets](/data/cases.json) (CourtListener). The upstream APIs are free: [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-api/api), the [ISRCTN API](https://www.isrctn.com/page/api), the [OSF API](https://developer.osf.io), [Open States](https://docs.openstates.org/api-v3/), [Congress.gov](https://api.congress.gov), [GovInfo](https://api.govinfo.gov/docs/) and [CourtListener](https://www.courtlistener.com/help/api/rest/).
+
 ## Literature data
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov) (E-utilities), [OpenAlex](https://openalex.org) (API, no key), [Crossref](https://api.crossref.org) and [Semantic Scholar](https://www.semanticscholar.org) (API key for volume) are free and are what this site's own [index](/methodology/) runs on. Retraction Watch's database is free through Crossref.

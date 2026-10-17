@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ site.title }}: courts</title>
+<link>{{ site.url }}/courts/</link>
+<atom:link href="{{ site.url }}/courts/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Court opinions and federal dockets involving gambling, betting, lotteries, tribal gaming and event contracts, by latest activity.</description>
+<language>en</language>
+{% for c in cases %}
+<item>
+<title>{{ c.case_name }}{% if c.kind == 'docket' %} (docket){% endif %}</title>
+<link>{{ c.url }}</link>
+<guid isPermaLink="false">{{ c.id }}:{{ c.latest_activity }}</guid>
+<pubDate>{{ c.latest_activity|rfc822(7) }}</pubDate>
+<description>{{ c.court }}{% if c.docket_number %}, No. {{ c.docket_number }}{% endif %}{% if c.citation %}, {{ c.citation }}{% endif %}. {{ c.court_level|level_label|capitalize }}.{% if c.snippet %} {{ c.snippet }}{% endif %}{% for doc in c.documents[:2] %} {{ doc.date|fmt_date }}: {{ doc.description }}.{% endfor %}</description>
+</item>
+{% endfor %}
+</channel>
+</rss>

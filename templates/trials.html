@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}Gambling trials and preregistrations: {{ site.title }}{% endblock %}
+{% block description %}Registered clinical trials and preregistered studies on gambling, sports betting and related behaviour, from ClinicalTrials.gov, ISRCTN and OSF Registries: what is recruiting, what has finished, and whether results were posted.{% endblock %}
+{% block body_class %}section-research{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="kicker kind-research">Research index</p>
+  <h1>Trials and preregistrations</h1>
+  {% if subnav %}{{ m.subnav(subnav, subnav_current, 'research') }}{% endif %}
+  <p class="page-deck">{{ n_trials }} registered {{ 'trial' if n_trials == 1 else 'trials' }} from ClinicalTrials.gov and ISRCTN and {{ n_regs }} public {{ 'preregistration' if n_regs == 1 else 'preregistrations' }} from OSF Registries that study gambling, betting or a related activity (the page lists preregistrations from the past two years; <a href="/data/trials.json">the data</a> has all of them). {{ n_recruiting }} {{ 'is' if n_recruiting == 1 else 'are' }} recruiting now; {{ n_results }} completed {{ 'trial has' if n_results == 1 else 'trials have' }} posted results; {{ n_new_year }} {{ 'was' if n_new_year == 1 else 'were' }} registered this year. Status is what the registries report and can lag reality by months. <a href="/trials/feed.xml">RSS feed</a>, <a href="/methodology/#trials">how this list is made</a>.</p>
+</section>
+
+<form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
+  <div class="filter-row">
+    <label class="filter-search"><span class="visually-hidden">Search titles, sponsors and conditions</span><input type="search" id="q" placeholder="Search titles, sponsors, conditions" autocomplete="off"></label>
+    <label class="filter-select"><span class="visually-hidden">Registry</span><select id="registry" data-attr="registry"><option value="">Any registry</option>{% for s, l in registries %}<option value="{{ s }}">{{ l }}</option>{% endfor %}</select></label>
+    <label class="filter-select"><span class="visually-hidden">Country or region</span><select id="region"><option value="">Any region</option>{% for s, l, n in regions %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
+    <label class="filter-check"><input type="checkbox" id="results" data-attr="results"> Results posted</label>
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Status">
+    {% for slug, label, items in groups %}<button type="button" class="chip" data-group="status" data-value="{{ slug }}" aria-pressed="false">{{ label }} <span class="count">{{ items|length }}</span></button>{% endfor %}
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Topics">
+    {% for s, l, n in topics %}<button type="button" class="chip" data-topic="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <p class="filter-status" id="status" aria-live="polite"></p>
+</form>
+
+<div id="list">
+{% for slug, label, items in groups %}
+<section class="week" data-status="{{ slug }}">
+  <h2 class="week-head"><span>{{ label|capitalize }}</span><span class="count">{{ items|length }}</span></h2>
+  <ol class="ledger">
+    {% for t in items %}
+    <li class="entry" data-topics="{{ t.topics|join(' ') }}" data-regions="{{ t.regions|join(' ') }}" data-status="{{ slug }}" data-registry="{{ t.registry }}" data-results="{{ 1 if t.results_posted else 0 }}" data-text="{{ (t.title ~ ' ' ~ t.sponsor ~ ' ' ~ (t.conditions|join(' ')) ~ ' ' ~ (t.authors|join(' ')) ~ ' ' ~ (t.country_names|join(' ')) ~ ' ' ~ t.id)|lower }}">
+      <time class="entry-date" datetime="{{ t.first_posted or t.first_seen }}" title="Registered {{ (t.first_posted or t.first_seen)|fmt_date('long') }}">{{ (t.first_posted or t.first_seen)|fmt_date('short') }}</time>
+      <div class="entry-body">
+        <h3 class="entry-title"><a href="{{ t.url }}" rel="noopener">{{ t.title }}</a></h3>
+        <p class="entry-meta">{{ t.registry_label }} {{ t.id|replace('osf:', '') }}.{% if t.registration_type %} {{ t.registration_type }}.{% endif %}{% if t.authors %} {{ t.authors|authors_line }}.{% endif %}{% if t.sponsor %} {{ t.sponsor }}{% if t.sponsor_class == 'industry' %} (commercial sponsor){% endif %}.{% endif %}{% if t.country_names %} {{ t.country_names[:3]|join(', ') }}{% if t.country_names|length > 3 %} and {{ t.country_names|length - 3 }} more{% endif %}.{% endif %}{% if t.enrollment %} {{ '{:,}'.format(t.enrollment) }} participants.{% endif %}{% if t.study_type %} {{ t.study_type|capitalize }}{% if t.phases %}, {{ t.phases|join(', ') }}{% endif %}.{% endif %}{% if t.start_date %} {{ t.start_date|fmt_date('month') }}{% if t.completion_date %} to {{ t.completion_date|fmt_date('month') }}{% endif %}.{% endif %}</p>
+        {% if t.summary %}<p class="entry-summary">{{ t.summary }}</p>{% endif %}
+        <p class="entry-tags">
+          <span class="tag tag-state tag-state-{{ slug }}">{{ t.status|status_label }}</span>
+          {% if t.results_posted %}<span class="tag tag-oa">results posted</span>{% elif slug == 'completed' %}<span class="tag tag-design">no results posted</span>{% endif %}
+          {% if t.status_changed %}<span class="tag tag-design" title="Status changed on {{ t.status_changed|fmt_date('long') }}">was {{ t.previous_status|status_label }}</span>{% endif %}
+          {% for x in t.topics[:4] %}<a class="tag" href="/research/topics/{{ x }}/">{{ x|topic_label }}</a>{% endfor %}
+          {% if t.interventions %}<span class="tag tag-design">{{ t.interventions[0]|truncate(48) }}</span>{% endif %}
+        </p>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% else %}
+<p class="empty">No registered trials yet. The nightly run fills this in.</p>
+{% endfor %}
+</div>
+<p class="fine">Coverage: ClinicalTrials.gov (condition or any field mentions gambling, betting, wagering, loot boxes or prediction markets), ISRCTN (query "gambling") and public OSF registrations whose title or description mentions those terms, each filtered by the same relevance rules as the studies index. Not covered: ANZCTR, PROSPERO, the EU trials register and AsPredicted, none of which offers a usable public interface. Something missing or misfiled? <a href="/methodology/#corrections">How to report it</a>.</p>
+{% endblock %}
+{% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}

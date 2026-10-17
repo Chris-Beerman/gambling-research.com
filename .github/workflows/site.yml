@@ -10,7 +10,7 @@ on:
         type: boolean
         default: false
       only:
-        description: "Comma-separated sources to run (pubmed,openalex,crossref,journals,news); empty = all"
+        description: "Comma-separated sources to run (pubmed,openalex,crossref,journals,news,trials,bills,courts); empty = all"
         type: string
         default: ""
   push:
@@ -47,6 +47,10 @@ jobs:
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          COURTLISTENER_API_TOKEN: ${{ secrets.COURTLISTENER_API_TOKEN }}
+          OSF_TOKEN: ${{ secrets.OSF_TOKEN }}
         run: |
           ARGS=""
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill"; fi
@@ -63,9 +67,9 @@ jobs:
             echo "no data changes"
           else
             git commit -m "index: update $(date -u +%Y-%m-%d)"
-            # Someone may have pushed to main while the fetch ran; replay the data commit on top.
-            git pull --rebase origin main
-            git push
+            # Someone may have pushed while the fetch ran; replay the data commit on top.
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push origin HEAD:"${{ github.ref_name }}"
           fi
 
       - name: Build the site
@@ -77,6 +81,8 @@ jobs:
 
   deploy:
     needs: build
+    # Only main is published; a manual run on another branch fetches and builds without deploying.
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

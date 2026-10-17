@@ -68,6 +68,11 @@ class Taxonomy:
         self.news_include = [re.compile(p, re.I) for p in cfg.get("news_include", [])]
         self.news_exclude = [re.compile(p, re.I) for p in cfg.get("news_exclude", [])]
         self.news_categories = [(c["slug"], c["label"], [re.compile(p, re.I) for p in c["patterns"]]) for c in cfg.get("news_categories", [])]
+        self.bills_include = [re.compile(p, re.I) for p in cfg.get("bills_include", [])] or self.news_include
+        self.bills_exclude = [re.compile(p, re.I) for p in cfg.get("bills_exclude", [])]
+        self.cases_name = [re.compile(p, re.I) for p in cfg.get("cases_name", cfg.get("cases_include", []))] or self.news_include
+        self.cases_text = [re.compile(p, re.I) for p in cfg.get("cases_text", cfg.get("cases_include", []))] or self.news_include
+        self.cases_exclude = [re.compile(p, re.I) for p in cfg.get("cases_exclude", [])]
 
     # ---- papers -------------------------------------------------------
     def _clean(self, text: str) -> str:
@@ -145,6 +150,21 @@ class Taxonomy:
             if s == slug:
                 return label
         return slug
+
+    # ---- bills and court records ---------------------------------------
+    def bills_keep(self, text: str) -> bool:
+        if any(p.search(text) for p in self.bills_exclude):
+            return False
+        return any(p.search(text) for p in self.bills_include)
+
+    def cases_keep(self, name: str, text: str = "") -> bool:
+        """Keep when the case name names a gambling party, or the matched text is
+        about gambling (after removing excluded contexts such as visa lotteries)."""
+        if any(p.search(name) for p in self.cases_name):
+            return True
+        for ex in self.cases_exclude:
+            text = ex.sub(" ", text)
+        return any(p.search(text) for p in self.cases_text)
 
 
 # ----------------------------------------------------------------------

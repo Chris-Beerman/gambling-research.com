@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block title %}Gambling bills in state legislatures and Congress: {{ site.title }}{% endblock %}
+{% block description %}Every bill on gambling, sports betting, lotteries, casinos, prediction markets and self-exclusion with action in the past {{ window }} days, across the state legislatures and Congress, with its current stage.{% endblock %}
+{% block body_class %}section-news{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="kicker kind-news">Policy and public health</p>
+  <h1>Bills</h1>
+  {% if subnav %}{{ m.subnav(subnav, subnav_current, 'news') }}{% endif %}
+  <p class="page-deck">{{ count }} {{ 'bill' if count == 1 else 'bills' }} on gambling, betting, lotteries, casinos, prediction markets or self-exclusion with action in the past {{ window }} days{% if n_jurisdictions %}, in {{ n_jurisdictions }} state {{ 'legislature' if n_jurisdictions == 1 else 'legislatures' }}{% if has_federal %} and Congress{% endif %}{% endif %}; {{ recent_count }} moved in the past 30 days{% if enacted_year %}, {{ enacted_year|length }} {{ 'was' if enacted_year|length == 1 else 'were' }} enacted this year{% endif %}. State bills come from Open States, federal bills from GovInfo and Congress.gov. The stage is read from recorded actions and can lag a legislature's own site by a day or two. <a href="/bills/feed.xml">RSS feed</a>, <a href="/methodology/#bills">how this list is made</a>.</p>
+</section>
+
+<form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
+  <div class="filter-row">
+    <label class="filter-search"><span class="visually-hidden">Search titles, numbers and sponsors</span><input type="search" id="q" placeholder="Search titles, bill numbers, sponsors" autocomplete="off"></label>
+    <label class="filter-select"><span class="visually-hidden">Legislature</span><select id="jurisdiction" data-attr="jurisdiction"><option value="">Any legislature</option>{% for code, name, n in jurisdictions %}<option value="{{ code }}">{{ name }} ({{ n }})</option>{% endfor %}</select></label>
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Stage">
+    {% for s, l, n in stages %}<button type="button" class="chip" data-group="stage" data-value="{{ s }}" id="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <div class="filter-row filter-topics" role="group" aria-label="Topics">
+    {% for s, l, n in topics %}<button type="button" class="chip" data-topic="{{ s }}" aria-pressed="false">{{ l }} <span class="count">{{ n }}</span></button>{% endfor %}
+  </div>
+  <p class="filter-status" id="status" aria-live="polite"></p>
+</form>
+
+<div id="list">
+{% for ym, items in months %}
+<section class="week" data-month="{{ ym }}">
+  <h2 class="week-head"><span>{{ (ym ~ '-01')|fmt_date('month') }}</span><span class="count">{{ items|length }}</span></h2>
+  <ol class="ledger">
+    {% for b in items %}
+    <li class="entry" data-topics="{{ b.topics|join(' ') }}" data-stage="{{ b.stage }}" data-jurisdiction="{{ b.jurisdiction_code }}" data-text="{{ (b.jurisdiction ~ ' ' ~ b.identifier ~ ' ' ~ b.title ~ ' ' ~ (b.sponsors|join(' ')) ~ ' ' ~ (b.subjects|join(' ')))|lower }}">
+      <time class="entry-date" datetime="{{ b.latest_action_date }}" title="Latest action {{ b.latest_action_date|fmt_date('long') }}">{{ b.latest_action_date|fmt_date('short') }}</time>
+      <div class="entry-body">
+        <h3 class="entry-title"><a href="{{ b.url }}" rel="noopener"><span class="bill-id">{{ b.jurisdiction }} {{ b.identifier }}</span> {{ b.title }}</a></h3>
+        <p class="entry-meta">{% if b.latest_action %}{{ b.latest_action }}{% if b.latest_action_date %} ({{ b.latest_action_date|fmt_date }}){% endif %}.{% endif %}{% if b.introduced %} Introduced {{ b.introduced|fmt_date }}.{% endif %}{% if b.sponsors %} {{ b.sponsors[:2]|join(', ') }}{% if b.sponsors|length > 2 %} and {{ b.sponsors|length - 2 }} more{% endif %}.{% endif %}{% if b.source_url %} <a href="{{ b.source_url }}" rel="noopener">Legislature's page</a>.{% endif %}</p>
+        {% if b.abstract %}<p class="entry-summary">{{ b.abstract }}</p>{% endif %}
+        <p class="entry-tags">
+          <span class="tag tag-state tag-stage-{{ b.stage }}">{{ b.stage|stage_label }}</span>
+          {% if b.stage_changed and b.previous_stage %}<span class="tag tag-design" title="Stage changed on {{ b.stage_changed|fmt_date('long') }}">was {{ b.previous_stage|stage_label }}</span>{% endif %}
+          {% if b.level == 'federal' %}<span class="tag tag-design">federal</span>{% endif %}
+          {% for x in b.topics[:4] %}<a class="tag" href="/research/topics/{{ x }}/">{{ x|topic_label }}</a>{% endfor %}
+        </p>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% else %}
+<p class="empty">No bills yet. The nightly run fills this in once an Open States key is set.</p>
+{% endfor %}
+</div>
+<p class="fine">Found by full-text search of state bills for gambling terms (Open States) and by matching the official titles of federal bill texts (GovInfo), then kept only if the title, abstract or subject names gambling, betting, a lottery, casino, gaming regulation, prediction markets or self-exclusion. Appropriations and omnibus bills that mention gambling only in passing are usually missed. Stage is derived from the legislature's recorded actions. Something wrong? <a href="/methodology/#corrections">How to report it</a>.</p>
+{% endblock %}
+{% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}

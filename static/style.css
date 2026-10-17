@@ -168,6 +168,30 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
 .topic-list a, .plain-list a { text-decoration: none; }
 .topic-list a:hover, .plain-list a:hover { text-decoration: underline; }
 
+/* Section sub-navigation: small tabs under a page title */
+.subnav { display: flex; flex-wrap: wrap; gap: .2rem 1.2rem; font-family: var(--sans); font-size: .85rem; font-weight: 500; margin: .1rem 0 .9rem; }
+.subnav a { color: var(--ink-2); text-decoration: none; padding: .15rem 0; border-bottom: 2px solid transparent; }
+.subnav a:hover { color: var(--ink); }
+.subnav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--kind, var(--baize)); }
+
+/* Tracker entries */
+.bill-id { font-family: var(--sans); font-weight: 600; font-size: .78em; color: var(--ink-2); letter-spacing: .01em; margin-right: .25rem; white-space: nowrap; }
+.entry-title a:hover .bill-id { color: var(--ink); }
+.tag-state { font-weight: 500; }
+.tag-state-recruiting, .tag-stage-enacted { background: var(--baize-tint); color: var(--baize); }
+.tag-state-active, .tag-stage-passed-both, .tag-stage-passed-one { box-shadow: inset 0 0 0 1px var(--baize); background: transparent; color: var(--baize); }
+.tag-stage-vetoed, .tag-state-stopped { box-shadow: inset 0 0 0 1px var(--c-news); background: transparent; color: var(--c-news); }
+.section-news .tag-state { background: var(--c-news-tint); color: var(--c-news); }
+.section-news .tag-stage-enacted { background: var(--c-news); color: #fff; }
+.section-news .tag-stage-passed-both, .section-news .tag-stage-passed-one { background: transparent; box-shadow: inset 0 0 0 1px var(--c-news); }
+.section-news .tag-stage-vetoed, .section-news .tag-stage-failed { background: transparent; box-shadow: inset 0 0 0 1px var(--rule); color: var(--ink-2); }
+.section-news .tag-stage-introduced, .section-news .tag-stage-committee { background: var(--paper-2); color: var(--ink-2); }
+.docket-docs { list-style: none; margin: .1rem 0 .45rem; padding: 0; font-family: var(--sans); font-size: .82rem; line-height: 1.5; }
+.docket-docs li { padding-left: 4.2rem; text-indent: -4.2rem; }
+.docket-docs time { display: inline-block; width: 3.8rem; text-indent: 0; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.docket-docs a { color: var(--ink); text-decoration-color: var(--rule); }
+.docket-docs a:hover { text-decoration-color: var(--c-news); }
+
 /* Page heads, prose */
 .page-head { padding: 1.6rem 0 .5rem; max-width: var(--measure); }
 .page-head h1, .prose h1 { font-family: var(--serif); font-weight: 600; font-size: 2rem; line-height: 1.15; margin: .2rem 0 .6rem; letter-spacing: -.012em; }
@@ -245,6 +269,8 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
   .masthead nav { gap: 1rem; font-size: .88rem; }
   .colophon-grid { grid-template-columns: 1fr; gap: 1rem; }
   .filters input[type="search"], .filters select { min-width: 0; width: 100%; }
+  .docket-docs li { padding-left: 0; text-indent: 0; }
+  .docket-docs time { width: auto; margin-right: .4rem; }
 }
 @media (prefers-reduced-motion: no-preference) {
   .chip, .masthead nav a, .tag { transition: background-color .12s ease, color .12s ease; }

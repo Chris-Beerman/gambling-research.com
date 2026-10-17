@@ -9,7 +9,7 @@
 
   <h2 id="sources">Source health</h2>
   {% if log.sources %}
-  <p>Last run started {{ log.started|replace('T', ' ')|replace('+00:00', ' UTC') }} ({{ log.mode }}). {{ log.papers.added if log.papers else 0 }} studies and {{ log.news.added if log.news else 0 }} news items were new.</p>
+  <p>Last run started {{ log.started|replace('T', ' ')|replace('+00:00', ' UTC') }} ({{ log.mode }}). New: {{ log.papers.added if log.papers else 0 }} studies, {{ log.news.added if log.news else 0 }} news items{% if log.trials %}, {{ log.trials.added }} trials or registrations{% endif %}{% if log.bills %}, {{ log.bills.added }} bills{% endif %}{% if log.cases %}, {{ log.cases.added }} court records{% endif %}.</p>
   <table>
     <thead><tr><th>Source</th><th>Kind</th><th>Status</th><th>Items returned</th></tr></thead>
     <tbody>
@@ -21,10 +21,10 @@
   {% if log.history %}
   <h3>Recent runs</h3>
   <table>
-    <thead><tr><th>Finished</th><th>Mode</th><th>Studies added</th><th>News added</th><th>Sources failed</th></tr></thead>
+    <thead><tr><th>Finished</th><th>Mode</th><th>Studies</th><th>News</th><th>Trials</th><th>Bills</th><th>Courts</th><th>Sources failed</th></tr></thead>
     <tbody>
     {% for h in log.history[:14] %}
-    <tr><td>{{ h.finished|replace('T', ' ')|replace('+00:00', ' UTC') }}</td><td>{{ h.mode }}</td><td>{{ h.added }}</td><td>{{ h.news_added }}</td><td>{{ h.failed }}</td></tr>
+    <tr><td>{{ h.finished|replace('T', ' ')|replace('+00:00', ' UTC') }}</td><td>{{ h.mode }}</td><td>{{ h.added }}</td><td>{{ h.news_added }}</td><td>{{ h.trials_added if h.trials_added is defined else '' }}</td><td>{{ h.bills_added if h.bills_added is defined else '' }}</td><td>{{ h.cases_added if h.cases_added is defined else '' }}</td><td>{{ h.failed }}</td></tr>
     {% endfor %}
     </tbody>
   </table>

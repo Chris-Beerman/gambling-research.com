@@ -59,6 +59,22 @@
     </section>
 
     <section class="rail-block">
+      <h2 class="rail-title kind-research">Trials and preregistrations</h2>
+      <ul class="plain-list">
+        <li><a href="/trials/">{{ trackers.recruiting }} {{ 'trial' if trackers.recruiting == 1 else 'trials' }} recruiting now</a></li>
+        <li><a href="/trials/">{{ trackers.trials_year }} registered this year</a>{% if trackers.regs_year %}, {{ trackers.regs_year }} of them preregistrations{% endif %}</li>
+      </ul>
+    </section>
+
+    <section class="rail-block">
+      <h2 class="rail-title kind-news">Bills and courts</h2>
+      <ul class="plain-list">
+        <li><a href="/bills/">{{ trackers.bills_month }} {{ 'bill' if trackers.bills_month == 1 else 'bills' }} with action in the past 30 days</a>{% if trackers.bills_enacted_year %}, {{ trackers.bills_enacted_year }} enacted this year{% endif %}</li>
+        <li><a href="/courts/">{{ trackers.opinions_month }} {{ 'opinion' if trackers.opinions_month == 1 else 'opinions' }} and {{ trackers.dockets_month }} active {{ 'docket' if trackers.dockets_month == 1 else 'dockets' }} in the past 30 days</a></li>
+      </ul>
+    </section>
+
+    <section class="rail-block">
       <h2 class="rail-title kind-reference">Reference</h2>
       <ul class="plain-list">
         <li><a href="/journals/">Where to publish gambling research</a></li>

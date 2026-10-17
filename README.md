@@ -6,14 +6,15 @@ An independent index of new gambling studies and policy news. Static site, rebui
 
 ```
 config/      site.yml (names, windows), sources.yml (queries and feeds), taxonomy.yml (tags, relevance rules)
-pipeline/    fetch.py (nightly collection) -> data/papers.json, data/news.json, data/fetch_log.json, data/weekly/latest.json
+pipeline/    fetch.py (nightly collection) -> data/papers.json, data/news.json, data/trials.json, data/bills.json,
+             data/cases.json, data/fetch_log.json, data/weekly/latest.json
              build.py (renders _site/ from data/ and content/ with templates/)
 content/     pages/*.md (reference pages, About, methodology), digests/YYYY-MM-DD.md (weekly digest posts)
 templates/   Jinja2 templates; static/ holds the stylesheet, the filter script and the favicon
 .github/     workflows/site.yml: nightly fetch + commit + build + deploy; also runs on every push to main
 ```
 
-Nightly at 06:17 UTC the workflow queries PubMed, OpenAlex, Crossref and the configured journal and news feeds, merges and tags the results, commits the updated `data/` files, builds the site and deploys it. A push to `main` rebuilds and deploys without fetching. Run it by hand from the Actions tab ("Build and deploy", "Run workflow"); tick *backfill* for a wider window.
+Nightly at 06:17 UTC the workflow queries PubMed, OpenAlex, Crossref and the configured journal and news feeds, plus the trackers (ClinicalTrials.gov, ISRCTN and OSF for trials; Open States, GovInfo and Congress.gov for bills; CourtListener for courts), merges and tags the results, commits the updated `data/` files, builds the site and deploys it. A push to `main` rebuilds and deploys without fetching. Run it by hand from the Actions tab ("Build and deploy", "Run workflow"); tick *backfill* for a wider window.
 
 ## Local use
 
@@ -21,6 +22,7 @@ Nightly at 06:17 UTC the workflow queries PubMed, OpenAlex, Crossref and the con
 pip install -r requirements.txt
 python -m pytest -q                 # unit tests
 python -m pipeline.fetch --backfill # first collection (needs network)
+python -m pipeline.fetch --only trials,bills,courts   # just the trackers
 python -m pipeline.build            # renders _site/
 python -m http.server -d _site 8000
 ```
@@ -47,7 +49,7 @@ Body in Markdown. Link each study to its publisher record.
 - `config/site.yml`: title, descriptor, editor, contact address, how many days each page shows.
 - `config/sources.yml`: add or disable a source with `enabled: false`; news feeds take a `kind` that sets the fallback category.
 - `config/taxonomy.yml`: topic, design and news-category rules (regular expressions), region mapping, and the relevance rules that decide what is kept.
-- Repository secrets: `OPENALEX_API_KEY` (required for the OpenAlex source; free at openalex.org/settings/api). Optional: `OPENALEX_MAILTO` and `CROSSREF_MAILTO` (an email for the APIs' polite pools), `NCBI_API_KEY` (raises PubMed's rate limit).
+- Repository secrets: `OPENALEX_API_KEY` (required for the OpenAlex source; free at openalex.org/settings/api) and `OPENSTATES_API_KEY` (required for state bills; free at openstates.org/accounts/profile). Recommended: `CONGRESS_API_KEY` (an api.data.gov key from api.congress.gov/sign-up, used for both GovInfo and Congress.gov; without it the shared DEMO_KEY is used and capped at 25 requests a run) and `COURTLISTENER_API_TOKEN` (free account at courtlistener.com; anonymous access is limited to about 100 requests a day per address, shared with every other GitHub Actions runner on the same address). Optional: `OSF_TOKEN` (raises OSF's rate limit), `OPENALEX_MAILTO` and `CROSSREF_MAILTO` (an email for the APIs' polite pools), `NCBI_API_KEY` (raises PubMed's rate limit).
 
 ## Handoff: domains and mail
 

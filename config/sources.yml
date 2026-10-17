@@ -182,3 +182,80 @@ news_feeds:
 
 # Cap per source per day so one feed cannot flood the page.
 news_max_per_source_per_day: 10
+
+# ---------------------------------------------------------------------------
+# Trackers. Each writes its own file (data/trials.json, data/bills.json,
+# data/cases.json) and is filtered by the bills_*/cases_* rules in taxonomy.yml
+# (trials use the same relevance rules as studies). Keys go in repository
+# secrets; a tracker whose key is missing is logged as failed and skipped.
+
+trials:
+  clinicaltrials:
+    enabled: true
+    # ClinicalTrials.gov API v2. query.cond searches conditions; query.term searches every field.
+    cond: "gambling"
+    term: "\"sports betting\" OR wagering OR \"loot box\" OR \"prediction market\" OR \"gambling disorder\""
+    page_size: 200
+  isrctn:
+    enabled: true
+    query: gambling
+  osf:
+    enabled: true
+    # Public registrations (preregistrations, registered reports) whose title or
+    # description contains one of these. Optional OSF_TOKEN secret raises the rate limit.
+    terms: ["gambling", "gambler", "sports betting", "sports bettor", "wagering", "loot box", "prediction market"]
+    max_pages: 5
+
+bills:
+  openstates:
+    enabled: true
+    # Open States API v3: full-text search over state bills updated since the window.
+    # Free key: openstates.org/accounts/profile -> OPENSTATES_API_KEY secret.
+    queries:
+      - sports betting
+      - sports wagering
+      - gambling
+      - casino
+      - lottery
+      - wagering
+      - prediction market
+      - event contract
+      - self-exclusion
+      - problem gambling
+      - daily fantasy
+      - sweepstakes
+      - video gaming terminal
+      - internet gaming
+    days: 7
+    backfill_days: 365
+    max_pages: 5
+    backfill_max_pages: 15
+  congress:
+    enabled: true
+    # GovInfo lists bill texts by modification date; titles are matched against the
+    # bills_include rules; Congress.gov supplies status. One api.data.gov key serves both:
+    # api.congress.gov/sign-up -> CONGRESS_API_KEY secret. Without it the shared DEMO_KEY
+    # is used, capped at demo_budget requests a run.
+    days: 7
+    backfill_days: 365
+    max_pages: 8
+    max_requests: 400
+    demo_budget: 25
+    refresh_per_run: 30
+
+courts:
+  courtlistener:
+    enabled: true
+    # CourtListener search API v4: opinions filed in the window and federal dockets
+    # (RECAP) with filings in the window. Anonymous access is about 100 requests a day
+    # per address; a free account token (COURTLISTENER_API_TOKEN secret) raises it.
+    query: >-
+      "sports betting" OR "sports wagering" OR gambling OR casino OR lottery OR
+      "gaming compact" OR "Indian Gaming" OR "event contracts" OR "prediction market" OR
+      Kalshi OR Polymarket OR "sweepstakes casino" OR "daily fantasy" OR "loot box" OR
+      "self-exclusion"
+    dockets: true
+    days: 7
+    backfill_days: 180
+    max_pages: 3
+    backfill_max_pages: 10

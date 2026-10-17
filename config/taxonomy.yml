@@ -34,6 +34,7 @@ relevance:
     - "(won|win|winning) .{0,30}(the )?lottery"
     - "standard gamble"                      # health-economics utility elicitation
     - "\\(wager & dixon\\)|wager & dixon"     # botanist, not a bet
+    - "procter\\s*(&|&amp;|\\\\&|and)\\s*gamble"       # the company
   # Titles that mark promotional or machine-generated content; dropped outright.
   drop_titles:
     - "promo code|code promo|bonus code|welcome bonus|free spins|no deposit|referral code"
@@ -66,6 +67,48 @@ news_exclude:
   - "promo code|bonus code|best bets?\\b|player props|odds today|betting preview|parlay picks|odds, picks|picks and predictions|how to bet on|betting guide|sportsbook promo|sign.up bonus"
   - "hires and higher.ups|people moves|executive (appointments|moves)"
   - "referral code|\\bcode\\b.{0,12}(bonus|free|\\$)|\\$\\d+ (kalshi|polymarket|draftkings|fanduel|betmgm|caesars|bet365)|market combos|\\bcombos\\b|^focus on [A-Z]"
+
+# Bills (title + abstract + subjects). Stricter than news: "gaming" alone is
+# video games in many bills, so it needs a gambling context.
+bills_include:
+  - "gambl"
+  - "sports (betting|wagering|book|pool)|sportsbook|\\bbet(s|ting|tors?)?\\b"
+  - "\\bwager"
+  - "casino|racino|riverboat"
+  - "lotter"
+  - "slot machine|video gaming terminal|video lottery|electronic gaming|gaming machine|\\bVGTs?\\b|\\bVLTs?\\b"
+  - "prediction market|event contract|\\bkalshi\\b"
+  - "self.exclusion"
+  - "gaming (board|commission|regulat|control|authority|act|compact|facility|facilities|licen[cs]e|operator|revenue|tax|fund)|(charitable|tribal|indian|internet|online|interactive|i)gaming|igaming"
+  - "daily fantasy|fantasy (sports|contest)|sweepstakes|pari.?mutuel|horse rac|racetrack|\\bbingo\\b|\\bkeno\\b|\\bpoker\\b|raffle"
+  - "loot box"
+bills_exclude:
+  - "video game (rating|content|violence)"
+
+# Court records. A record is kept when the case NAME names a gambling party
+# (cases_name), or when the matched passage or docket entry is ABOUT gambling
+# (cases_text) rather than citing a case with Casino in its name or mentioning a
+# visa lottery. Dockets whose only link is a casino defendant's name are dropped
+# unless the name shows a regulator, a state, a tribe or an operator in a policy
+# dispute (handled in pipeline/trackers.py).
+cases_name:
+  - "gambl|casino|lotter|sportsbook|\\bwager|\\bbetting\\b|\\bbets?\\b|kalshi|polymarket|prediction market|event contract"
+  - "gaming (commission|board|control|authority|association|compact|enterprise|corporation)|gam\\.? (control|comm)|control b(oar)?d\\.?|racing commission|racing (board|association)"
+  - "draftkings|fanduel|underdog|prizepicks|robinhood|crypto\\.com|coinbase|sweepstakes|loot box"
+  - "rancheria|band of|tribe\\b|tribal|pueblo|indians\\b|\\bigra\\b|\\bbingo\\b|\\bpoker\\b|fantasy sports|daily fantasy|\\bslots?\\b|racetrack|\\bracino"
+cases_text:
+  - "gambling (disorder|addiction|problem|law|statute|act|device|machine|business|operation|offen|debt|loss|winnings|revenue|tax|licens|regulat|compact|contract|activit|enterprise|establishment|industry|operator|promotion|advertis)|illegal gambling|unlawful gambling|problem gambl|pathological gambl|compulsive gambl|\\bgamblers?\\b"
+  - "sports (betting|wagering|book|gambling)|sportsbook|\\bbetting\\b|\\bwagering\\b|\\bwagers?\\b|bookmak"
+  - "casino (licens|gaming|operat|revenue|tax|patron|floor|industry|regulat|compact|act\\b)|indian gaming|\\bigra\\b|gaming compact|tribal gaming|class (ii|iii) gaming|gaming (commission|control|board|act|device|machine|licens|regulat|revenue|tax)"
+  - "lottery (act|commission|ticket|winnings|game|sales|retailer|proceeds|corporation|prize)|state lottery|scratch.?off|powerball|mega millions|\\blotto\\b|\\bkeno\\b"
+  - "slot machine|video gaming|video lottery|gaming terminal|poker machine|electronic gaming|skill game"
+  - "prediction market|event contract|kalshi|polymarket|sweepstakes casino|sweepstakes (game|model|platform|site)|daily fantasy|fantasy sports|draftkings|fanduel|loot box|self.exclusion|wire act|uigea|unlawful internet gambling|internet gambling|online gambling"
+cases_exclude:
+  # Citations to other cases with a gambling party ("Venetian Casino Resort v. EEOC"; "Zafar v. State Lottery Comm'n").
+  - "[A-Za-z][\\w.'&-]*( [A-Za-z][\\w.'&-]*){0,6} (casino|lottery|gaming|gambling)[^,;()]{0,40} v\\. "
+  - "\\bv\\. [^,;()]{0,50}(lottery|casino|gaming|gambling)[^,;()]{0,40}(comm|com\\b|corp|resort|div|inc|llc|l\\.l\\.c|bd|board|co\\b|p.ship|fund|dev|ass.n|hotel)"
+  - "visa lottery|h-1b lottery|diversity.visa|lottery system|lottery for|by lottery|chosen by lottery|selected .{0,20}lottery|license lottery|licenses? .{0,30}lottery|lottery .{0,20}(licens|permit|admission|housing|vaccin|draft)"
+  - "\\bgambl\\w* (on|with) (the|a|his|her|their|our) (future|life|lives|health|economy|outcome|verdict)"
 
 news_categories:
   - slug: public-health
