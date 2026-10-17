@@ -1794,6 +1794,74 @@
     "sports-betting",
     "industry"
    ]
+  },
+  {
+   "id": "ocd-bill/1e4529dd-4a3b-4c9b-b306-149b819f270b",
+   "jurisdiction": "Montana",
+   "identifier": "LC 706",
+   "title": "Generally revise gambling laws",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-14",
+   "latest_action": "(LC) Drafter Assigned",
+   "url": "https://openstates.org/mt/bills/2027/LC706/",
+   "topics": []
+  },
+  {
+   "id": "ocd-bill/d8d9fcda-6178-4c5d-a90f-69f97f1f6666",
+   "jurisdiction": "Montana",
+   "identifier": "LC 705",
+   "title": "Generally revise gambling laws",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-14",
+   "latest_action": "(LC) Drafter Assigned",
+   "url": "https://openstates.org/mt/bills/2027/LC705/",
+   "topics": []
+  },
+  {
+   "id": "ocd-bill/79a80305-a5de-44b1-ab8f-5e1be99fde26",
+   "jurisdiction": "Puerto Rico",
+   "identifier": "PC 1514",
+   "title": "Para crear la “Ley para establecer la política pública sobre los juegos de azar en línea o iGaming en Puerto Rico”, añadir un nuevo Capítulo VII y reenumerar el actual Capítulo VII como Capítulo VIII, de la Ley 81-2019, según enmendada, conocida como la “Ley de la Comisión de Juegos del Gobierno de Puerto Rico”; establecer la política pública del Gobierno de Puerto Rico respecto a esta modalidad de juegos de azar; establecer el marco legal, regulatorio, contributivo y de fiscalización aplicable; definir términos; establecer requisitos, condiciones y limitaciones para operadores, proveedores y jugadores; disponer medidas de protección al consumidor, juego responsable, ciberseguridad y prevención de fraude y lavado de dinero; establecer las facultades de la Comisión de Juegos del Gobierno de Puerto Rico y los mecanismos de coordinación con el Departamento de Hacienda, la Oficina del Comisionado de Instituciones Financieras y otras instrumentalidades gubernamentales pertinentes; establecer un arbitrio sobre los Ingresos Brutos Ajustados del Juego; disponer la distribución y utilización de los recaudos provenientes de dicho arbitrio para financiar aumentos a las pensiones de los jubilados del sector público del Gobierno de Puerto Rico; establecer multas, sanciones y disposiciones transitorias y reglamentarias; y para otros fines relacionados.",
+   "stage": "committee",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-15",
+   "latest_action": "Referido a Comisión(es)",
+   "url": "https://openstates.org/pr/bills/2025-2028/PC1514/",
+   "topics": [
+    "policy"
+   ]
+  },
+  {
+   "id": "ocd-bill/69f7d6d4-ceca-42ff-ab6f-ff467c369891",
+   "jurisdiction": "New Jersey",
+   "identifier": "S 597",
+   "title": "Revises penalty for underage gambling to be civil penalty; provides for all associated fines to be used for gambling addiction treatment.",
+   "stage": "committee",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-15",
+   "latest_action": "Referred to Senate Budget and Appropriations Committee",
+   "url": "https://openstates.org/nj/bills/222/S597/",
+   "topics": [
+    "youth",
+    "treatment"
+   ]
+  },
+  {
+   "id": "ocd-bill/9a14df7d-0ed4-458b-aaf3-7079ccb0305f",
+   "jurisdiction": "New York",
+   "identifier": "S 10721",
+   "title": "Authorizes a person to limit the gambling self-exclusion to online platforms",
+   "stage": "committee",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-16",
+   "latest_action": "REFERRED TO RULES",
+   "url": "https://openstates.org/ny/bills/2025-2026/S10721/",
+   "topics": [
+    "online-gambling",
+    "self-exclusion"
+   ]
   }
  ],
  "cases": [
