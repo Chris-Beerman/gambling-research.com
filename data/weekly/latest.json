@@ -1896,19 +1896,6 @@
    "url": "https://www.courtlistener.com/docket/73181420/dc-gambling-recovery-llc-v-american-wagering-inc/"
   },
   {
-   "id": "cl-o-11035091",
-   "kind": "opinion",
-   "case_name": "Moore v. Primadonna Co., LLC",
-   "court": "Nevada Supreme Court",
-   "court_level": "state-supreme",
-   "date_filed": "2026-10-15",
-   "latest_activity": "2026-10-15",
-   "citation": "142 Nev. Adv. Op. No. 64",
-   "snippet": "COMPANY, LLC, D/B/A WHISKEY PETE’S HOTEL & CASINO, A NEVADA LIMITED LIABILITY COMPANY; AND FULL SERVICE",
-   "documents": [],
-   "url": "https://www.courtlistener.com/opinion/11035091/moore-v-primadonna-co-llc/"
-  },
-  {
    "id": "cl-d-73406137",
    "kind": "docket",
    "case_name": "Smith v. Kalshi Inc.",
@@ -1936,35 +1923,6 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/73406137/smith-v-kalshi-inc/"
-  },
-  {
-   "id": "cl-d-73150611",
-   "kind": "docket",
-   "case_name": "Smith v. Hollywood Casino",
-   "court": "District Court, N.D. Illinois",
-   "court_level": "federal-district",
-   "date_filed": "2026-04-06",
-   "latest_activity": "2026-10-13",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-13",
-     "description": "Order on Motion to Reopen Case",
-     "url": "https://www.courtlistener.com/docket/73150611/11/smith-v-hollywood-casino/"
-    },
-    {
-     "date": "2026-09-30",
-     "description": "Reopen Case",
-     "url": "https://www.courtlistener.com/docket/73150611/10/smith-v-hollywood-casino/"
-    },
-    {
-     "date": "2026-06-29",
-     "description": "Complaint",
-     "url": "https://www.courtlistener.com/docket/73150611/8/smith-v-hollywood-casino/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73150611/smith-v-hollywood-casino/"
   },
   {
    "id": "cl-d-73453634",
@@ -2025,93 +1983,6 @@
    "url": "https://www.courtlistener.com/docket/73231673/in-re-robinhood-prediction-market-litigation/"
   },
   {
-   "id": "cl-d-70621689",
-   "kind": "docket",
-   "case_name": "Grace v. Ameristar Casino East Chicago LLC",
-   "court": "District Court, N.D. Indiana",
-   "court_level": "federal-district",
-   "date_filed": "2025-06-24",
-   "latest_activity": "2026-10-13",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-13",
-     "description": "Order AND ~Util - Set Deadlines",
-     "url": ""
-    },
-    {
-     "date": "2026-10-09",
-     "description": "Notice of Settlement",
-     "url": "https://www.courtlistener.com/docket/70621689/37/grace-v-ameristar-casino-east-chicago-llc/"
-    },
-    {
-     "date": "2026-10-02",
-     "description": "Order on Motion for Extension of Time to File Response/Reply",
-     "url": ""
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/70621689/grace-v-ameristar-casino-east-chicago-llc/"
-  },
-  {
-   "id": "cl-d-74767051",
-   "kind": "docket",
-   "case_name": "BROWN v. BALLY'S ATLANTIC CITY CASINO RESORT",
-   "court": "District Court, D. New Jersey",
-   "court_level": "federal-district",
-   "date_filed": "2026-09-09",
-   "latest_activity": "2026-10-13",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-13",
-     "description": "Order",
-     "url": ""
-    },
-    {
-     "date": "2026-10-06",
-     "description": "Order",
-     "url": ""
-    },
-    {
-     "date": "2026-09-29",
-     "description": "Letter: Attorney Not Admitted",
-     "url": "https://www.courtlistener.com/docket/74767051/7/brown-v-ballys-atlantic-city-casino-resort/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/74767051/brown-v-ballys-atlantic-city-casino-resort/"
-  },
-  {
-   "id": "cl-d-73464466",
-   "kind": "docket",
-   "case_name": "Ramirez v. Ameristar Casino",
-   "court": "District Court, N.D. Indiana",
-   "court_level": "federal-district",
-   "date_filed": "2026-06-09",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-14",
-     "description": "Order on Motion for Extension of Time to Answer",
-     "url": "https://www.courtlistener.com/docket/73464466/16/ramirez-v-ameristar-casino/"
-    },
-    {
-     "date": "2026-10-08",
-     "description": "Extension of Time to File Answer",
-     "url": "https://www.courtlistener.com/docket/73464466/15/ramirez-v-ameristar-casino/"
-    },
-    {
-     "date": "2026-10-08",
-     "description": "Corporate Disclosure Statement",
-     "url": "https://www.courtlistener.com/docket/73464466/14/ramirez-v-ameristar-casino/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73464466/ramirez-v-ameristar-casino/"
-  },
-  {
    "id": "cl-d-72239485",
    "kind": "docket",
    "case_name": "Luis Jr. v. VIRGIN ISLANDS CASINO CONTROL COMMISSION",
@@ -2139,25 +2010,6 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/72239485/luis-jr-v-virgin-islands-casino-control-commission/"
-  },
-  {
-   "id": "cl-d-74706258",
-   "kind": "docket",
-   "case_name": "Ledesma v. Monarch Casino & Resort, Inc.",
-   "court": "District Court, D. Colorado",
-   "court_level": "federal-district",
-   "date_filed": "2026-08-26",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-14",
-     "description": "Order",
-     "url": ""
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/74706258/ledesma-v-monarch-casino-resort-inc/"
   },
   {
    "id": "cl-d-69813518",
@@ -2189,64 +2041,6 @@
    "url": "https://www.courtlistener.com/docket/69813518/kalshiex-llc-v-hendrick/"
   },
   {
-   "id": "cl-d-74744270",
-   "kind": "docket",
-   "case_name": "JOHNSON v. DGMB CASINO LLC",
-   "court": "District Court, D. New Jersey",
-   "court_level": "federal-district",
-   "date_filed": "2026-09-03",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-14",
-     "description": "Answer to Complaint",
-     "url": "https://www.courtlistener.com/docket/74744270/8/johnson-v-dgmb-casino-llc/"
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Order Initial Scheduling Conference (Camden)",
-     "url": "https://www.courtlistener.com/docket/74744270/9/johnson-v-dgmb-casino-llc/"
-    },
-    {
-     "date": "2026-10-08",
-     "description": "Proposed Order",
-     "url": "https://www.courtlistener.com/docket/74744270/7/johnson-v-dgmb-casino-llc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/74744270/johnson-v-dgmb-casino-llc/"
-  },
-  {
-   "id": "cl-d-72532521",
-   "kind": "docket",
-   "case_name": "JOHNS v. BALLY'S ATLANTIC CITY CASINO RESORT",
-   "court": "District Court, D. New Jersey",
-   "court_level": "federal-district",
-   "date_filed": "2026-03-23",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-14",
-     "description": "Scheduling Order",
-     "url": "https://www.courtlistener.com/docket/72532521/9/johns-v-ballys-atlantic-city-casino-resort/"
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Status Conference",
-     "url": ""
-    },
-    {
-     "date": "2026-07-24",
-     "description": "Add and Terminate Judges",
-     "url": ""
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/72532521/johns-v-ballys-atlantic-city-casino-resort/"
-  },
-  {
    "id": "cl-d-64908240",
    "kind": "docket",
    "case_name": "In RE Lottery.com, Inc. Securities Litigation",
@@ -2274,64 +2068,6 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/64908240/in-re-lotterycom-inc-securities-litigation/"
-  },
-  {
-   "id": "cl-d-69655790",
-   "kind": "docket",
-   "case_name": "HERNANDEZ-ZAMORA v. BALLY'S ATLANTIC CITY HOTEL AND CASINO RESORT",
-   "court": "District Court, D. New Jersey",
-   "court_level": "federal-district",
-   "date_filed": "2025-02-20",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "28:1441 Notice of Removal; nature of suit: P.I.: Other",
-   "documents": [
-    {
-     "date": "2026-10-14",
-     "description": "Order on Motion for Miscellaneous Relief",
-     "url": "https://www.courtlistener.com/docket/69655790/46/hernandez-zamora-v-ballys-atlantic-city-hotel-and-casino-resort/"
-    },
-    {
-     "date": "2026-10-13",
-     "description": "Miscellaneous Relief",
-     "url": "https://www.courtlistener.com/docket/69655790/45/hernandez-zamora-v-ballys-atlantic-city-hotel-and-casino-resort/"
-    },
-    {
-     "date": "2026-10-13",
-     "description": "Order on Motion for Magistrate Judge",
-     "url": ""
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/69655790/hernandez-zamora-v-ballys-atlantic-city-hotel-and-casino-resort/"
-  },
-  {
-   "id": "cl-d-70886423",
-   "kind": "docket",
-   "case_name": "GOULET v. BALLY'S ATLANTIC CITY CASINO AND HOTEL",
-   "court": "District Court, D. New Jersey",
-   "court_level": "federal-district",
-   "date_filed": "2025-07-22",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-14",
-     "description": "Scheduling Order",
-     "url": "https://www.courtlistener.com/docket/70886423/17/goulet-v-ballys-atlantic-city-casino-and-hotel/"
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Status Conference",
-     "url": ""
-    },
-    {
-     "date": "2026-08-12",
-     "description": "1 - Terminate Hearings AND Scheduling Order",
-     "url": "https://www.courtlistener.com/docket/70886423/16/goulet-v-ballys-atlantic-city-casino-and-hotel/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/70886423/goulet-v-ballys-atlantic-city-casino-and-hotel/"
   },
   {
    "id": "cl-d-70884560",
@@ -2363,83 +2099,6 @@
    "url": "https://www.courtlistener.com/docket/70884560/blue-lake-rancheria-v-kalshi-inc/"
   },
   {
-   "id": "cl-d-71423837",
-   "kind": "docket",
-   "case_name": "Stegmaier v. Circus and El Dorado Joint Venture, LLC dba Silver Legacy Resort Casino",
-   "court": "District Court, D. Nevada",
-   "court_level": "federal-district",
-   "date_filed": "2025-09-22",
-   "latest_activity": "2026-10-15",
-   "citation": "",
-   "snippet": "28:1331 Fed. Question: Employment Discrimination; nature of suit: Civil Rights: Jobs",
-   "documents": [
-    {
-     "date": "2026-10-15",
-     "description": "Minute Order",
-     "url": ""
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/71423837/stegmaier-v-circus-and-el-dorado-joint-venture-llc-dba-silver-legacy/"
-  },
-  {
-   "id": "cl-d-73492626",
-   "kind": "docket",
-   "case_name": "Ferebee v. Bellagio Hotel & Casino",
-   "court": "District Court, D. Nevada",
-   "court_level": "federal-district",
-   "date_filed": "2026-06-16",
-   "latest_activity": "2026-10-15",
-   "citation": "",
-   "snippet": "28:1331 Fed. Question: Fair Labor Standards; nature of suit: Labor: Other",
-   "documents": [
-    {
-     "date": "2026-10-15",
-     "description": "Minute Order AND Order on Motion for Appointment of Counsel",
-     "url": ""
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Motion Appointment of Counsel",
-     "url": "https://www.courtlistener.com/docket/73492626/8/ferebee-v-bellagio-hotel-casino/"
-    },
-    {
-     "date": "2026-10-07",
-     "description": "ORDER IT IS THEREFORE ORDERED that Plaintiff shall have until November 23, 2026, to file a corrected version of his motion for appointment of counsel. Failure to timely comply with this order will res",
-     "url": "https://www.courtlistener.com/docket/73492626/7/ferebee-v-bellagio-hotel-casino/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73492626/ferebee-v-bellagio-hotel-casino/"
-  },
-  {
-   "id": "cl-d-73705373",
-   "kind": "docket",
-   "case_name": "Banks v. Horseshoe Hammond Casino",
-   "court": "District Court, N.D. Indiana",
-   "court_level": "federal-district",
-   "date_filed": "2026-07-31",
-   "latest_activity": "2026-10-15",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-15",
-     "description": "Notice - Other",
-     "url": "https://www.courtlistener.com/docket/73705373/13/banks-v-horseshoe-hammond-casino/"
-    },
-    {
-     "date": "2026-10-08",
-     "description": "Pretrial Conference - Preliminary - customized ddls & hrgs AND ~Util - Set Deadlines/Hearings",
-     "url": "https://www.courtlistener.com/docket/73705373/11/banks-v-horseshoe-hammond-casino/"
-    },
-    {
-     "date": "2026-10-08",
-     "description": "Report of Mediation",
-     "url": "https://www.courtlistener.com/docket/73705373/10/banks-v-horseshoe-hammond-casino/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73705373/banks-v-horseshoe-hammond-casino/"
-  },
-  {
    "id": "cl-d-74979090",
    "kind": "docket",
    "case_name": "v. QCX LLC, d/b/a Polymarket US",
@@ -2467,35 +2126,6 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/74979090/v-qcx-llc-dba-polymarket-us/"
-  },
-  {
-   "id": "cl-d-71843255",
-   "kind": "docket",
-   "case_name": "Taylor v. Treasure Chest Casino, L.L.C.",
-   "court": "District Court, E.D. Louisiana",
-   "court_level": "federal-district",
-   "date_filed": "2025-10-31",
-   "latest_activity": "2026-10-16",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-16",
-     "description": "Text Order",
-     "url": ""
-    },
-    {
-     "date": "2026-10-15",
-     "description": "Order on Motion to Substitute Party",
-     "url": "https://www.courtlistener.com/docket/71843255/18/taylor-v-treasure-chest-casino-llc/"
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Substitute Party",
-     "url": "https://www.courtlistener.com/docket/71843255/17/taylor-v-treasure-chest-casino-llc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/71843255/taylor-v-treasure-chest-casino-llc/"
   },
   {
    "id": "cl-d-73243156",
@@ -2583,35 +2213,6 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/73435998/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-  },
-  {
-   "id": "cl-d-74975624",
-   "kind": "docket",
-   "case_name": "RSBC Real Estate Company LLLP v. M/Y Casino Royale (EX: Solo)",
-   "court": "District Court, S.D. Florida",
-   "court_level": "federal-district",
-   "date_filed": "2026-10-16",
-   "latest_activity": "2026-10-16",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-16",
-     "description": "Complaint",
-     "url": "https://www.courtlistener.com/docket/74975624/1/rsbc-real-estate-company-lllp-dba-rybovich-v-my-casino-royale-ex/"
-    },
-    {
-     "date": "2026-10-16",
-     "description": "Clerk's Notice of Judge Assignment and Optional Consent",
-     "url": ""
-    },
-    {
-     "date": "2026-10-16",
-     "description": "- Order (PAPERLESS or pdf attached)",
-     "url": ""
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/74975624/rsbc-real-estate-company-lllp-v-my-casino-royale-ex-solo/"
   },
   {
    "id": "cl-d-73485862",
@@ -2718,61 +2319,6 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/69847551/dc-gambling-recovery-llc-v-american-wagering-inc/"
-  },
-  {
-   "id": "cl-d-71593096",
-   "kind": "docket",
-   "case_name": "Cates v. Harrah's Hotel and Casino, New Orleans, LA.",
-   "court": "District Court, E.D. Louisiana",
-   "court_level": "federal-district",
-   "date_filed": "2025-10-09",
-   "latest_activity": "2026-10-16",
-   "citation": "",
-   "snippet": "",
-   "documents": [
-    {
-     "date": "2026-10-16",
-     "description": "Order",
-     "url": "https://www.courtlistener.com/docket/71593096/50/cates-v-harrahs-hotel-and-casino-new-orleans-la/"
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Order AND ~Util - Set/Reset Scheduling Order Deadlines",
-     "url": "https://www.courtlistener.com/docket/71593096/49/cates-v-harrahs-hotel-and-casino-new-orleans-la/"
-    },
-    {
-     "date": "2026-10-14",
-     "description": "Proposed Pretrial Order",
-     "url": "https://www.courtlistener.com/docket/71593096/48/cates-v-harrahs-hotel-and-casino-new-orleans-la/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/71593096/cates-v-harrahs-hotel-and-casino-new-orleans-la/"
-  },
-  {
-   "id": "cl-o-11032682",
-   "kind": "opinion",
-   "case_name": "McInerney v. Regents of the Univ. of California",
-   "court": "California Court of Appeal",
-   "court_level": "state-appellate",
-   "date_filed": "2026-10-13",
-   "latest_activity": "2026-10-13",
-   "citation": "",
-   "snippet": "law or statutory law. (Janis v. California State Lottery Com. (1998) 68 Cal.App.4th 824, 832 [to maintain",
-   "documents": [],
-   "url": "https://www.courtlistener.com/opinion/11032682/mcinerney-v-regents-of-the-univ-of-california/"
-  },
-  {
-   "id": "cl-o-11036988",
-   "kind": "opinion",
-   "case_name": "Southern Arizona Health Services Phoenix, LLC v. United States",
-   "court": "United States Court of Federal Claims",
-   "court_level": "federal-other",
-   "date_filed": "2026-10-14",
-   "latest_activity": "2026-10-14",
-   "citation": "",
-   "snippet": "S. 23, 34 (1987) (addressing whether full-time gambling is a “trade or business” for income tax purposes)",
-   "documents": [],
-   "url": "https://www.courtlistener.com/opinion/11036988/southern-arizona-health-services-phoenix-llc-v-united-states/"
   },
   {
    "id": "cl-d-68849283",

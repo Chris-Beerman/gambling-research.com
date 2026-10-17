@@ -1,7 +1,23 @@
 {
- "started": "2026-10-17T13:56:52+00:00",
+ "started": "2026-10-17T14:05:25+00:00",
  "mode": "nightly",
  "sources": [
+  {
+   "id": "bills:openstates",
+   "kind": "bills",
+   "ok": false,
+   "items": 0,
+   "error": "RuntimeError: Open States needs a free API key (openstates.org/accounts/profile); set the OPENSTATES_API_KEY repository secret",
+   "warning": null
+  },
+  {
+   "id": "bills:congress",
+   "kind": "bills",
+   "ok": true,
+   "items": 10,
+   "error": null,
+   "warning": "using api.data.gov's shared DEMO_KEY (set the CONGRESS_API_KEY repository secret for a real key)"
+  },
   {
    "id": "courts:courtlistener",
    "kind": "cases",
@@ -34,23 +50,33 @@
   "total": 696
  },
  "bills": {
-  "raw": 0,
+  "raw": 10,
   "added": 0,
-  "updated": 0,
+  "updated": 10,
   "dropped_irrelevant": 0,
   "total": 10
  },
  "cases": {
   "raw": 400,
-  "added": 148,
+  "added": 53,
   "updated": 0,
-  "dropped_irrelevant": 252,
-  "total": 148
+  "dropped_irrelevant": 347,
+  "total": 53
  },
- "finished": "2026-10-17T14:02:10+00:00",
+ "finished": "2026-10-17T14:09:55+00:00",
  "papers_total": 437,
  "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T14:09:55+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 53,
+   "failed": 1
+  },
   {
    "finished": "2026-10-17T14:02:10+00:00",
    "mode": "nightly",
