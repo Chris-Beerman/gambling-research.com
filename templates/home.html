@@ -1,24 +1,42 @@
 {% extends "base.html" %}
 {% import "_macros.html" as m %}
+{% block body_class %}page-home{% endblock %}
 {% block content %}
+{% set promise = site.descriptor.rsplit(', ', 1) %}
 <section class="lede">
-  <h1 class="lede-title">{{ site.descriptor }}.</h1>
-  <p class="lede-live">
-    {% if this_week_count %}<strong>{{ this_week_count }} new {{ 'study' if this_week_count == 1 else 'studies' }}</strong> added in the past seven days{% else %}The index is being assembled{% endif %}{% if total_count %}, {{ '{:,}'.format(total_count) }} in the index{% endif %}.
-    {% if updated %}Updated {{ updated }}.{% endif %}
-    <a href="/methodology/">How it works</a>
-  </p>
+  <div class="lede-promise">
+    <h1 class="lede-title">{% if promise|length == 2 %}{{ promise[0] }}, <em>{{ promise[1] }}</em>{% else %}{{ site.descriptor }}{% endif %}.</h1>
+    <ul class="lede-stats" aria-label="The index today">
+      {% if this_week_count %}<li><strong>{{ this_week_count }}</strong> new {{ 'study' if this_week_count == 1 else 'studies' }} this week</li>{% else %}<li>The index is being assembled</li>{% endif %}
+      {% if total_count %}<li><strong>{{ '{:,}'.format(total_count) }}</strong> in the index</li>{% endif %}
+      {% if updated %}<li>Updated {{ updated }}</li>{% endif %}
+    </ul>
+    <p class="lede-sources">From PubMed, OpenAlex, Crossref{% if journal_feed_count %} and {{ journal_feed_count }} journal feeds{% endif %}. No funding, advertising or data from gambling operators. <a href="/methodology/">How it works</a></p>
+  </div>
+
+  <aside class="digest-card" aria-labelledby="digest-card-title">
+    <p class="kicker kicker-digest">The Weekly Digest{% if digest %} <span class="issue">No. {{ digest.number }}, {{ digest.date|fmt_date }}</span>{% endif %}</p>
+    {% if digest %}
+    <h2 class="digest-card-title" id="digest-card-title"><a href="{{ digest.url }}">{{ digest.title }}</a></h2>
+    {% if digest.summary %}<p class="digest-card-deck">{{ digest.summary }}</p>{% endif %}
+    <p class="digest-card-links"><a class="digest-card-read" href="{{ digest.url }}">Read the digest</a><a href="/digest/">Past issues</a><a href="/feed.xml">RSS</a></p>
+    {% else %}
+    <h2 class="digest-card-title" id="digest-card-title">The studies worth reading, once a week</h2>
+    <p class="digest-card-deck">Five to eight studies chosen by the editor, each with a short note on why it matters, plus the policy news of the week. The first issue is in preparation.</p>
+    <p class="digest-card-links"><a href="/feed.xml">Subscribe by RSS</a></p>
+    {% endif %}
+  </aside>
 </section>
 
 <div class="home-grid">
   <section class="home-main">
-    <h2 class="section-title">New research</h2>
+    <h2 class="section-title kind-research">New research</h2>
     <ol class="ledger">
       {% for p in papers %}{{ m.entry(p, show_summary=False) }}{% endfor %}
     </ol>
     <p class="more"><a href="/research/">All new research, with filters</a></p>
 
-    <h2 class="section-title">Policy and public health news</h2>
+    <h2 class="section-title kind-news">Policy and public health news</h2>
     {% if news %}
     <ol class="ledger ledger-news">
       {% for n in news %}{{ m.news_item(n) }}{% endfor %}
@@ -30,22 +48,8 @@
   </section>
 
   <aside class="rail">
-    <section class="rail-block rail-digest">
-      <h2 class="rail-title">Weekly digest</h2>
-      {% if digest %}
-      <p class="rail-digest-title"><a href="{{ digest.url }}">{{ digest.title }}</a></p>
-      <p class="rail-meta">{{ digest.date|fmt_date }}</p>
-      {% if digest.summary %}<p>{{ digest.summary }}</p>{% endif %}
-      <p><a href="/digest/">Past digests</a></p>
-      {% else %}
-      <p>Every week: the five to eight studies worth reading, with a short note on each, plus the policy news that matters.</p>
-      <p>The first digest goes out once the index has a full week of data.</p>
-      {% endif %}
-      <p><a href="/feed.xml">Subscribe by RSS</a></p>
-    </section>
-
     <section class="rail-block">
-      <h2 class="rail-title">Topics in the past {{ site.index_window_days }} days</h2>
+      <h2 class="rail-title kind-research">Topics in the past {{ site.index_window_days }} days</h2>
       <ul class="topic-list">
         {% for slug, label, n in topics %}
         <li><a href="/research/topics/{{ slug }}/">{{ label }}</a> <span class="count">{{ n }}</span></li>
@@ -55,7 +59,7 @@
     </section>
 
     <section class="rail-block">
-      <h2 class="rail-title">Reference</h2>
+      <h2 class="rail-title kind-reference">Reference</h2>
       <ul class="plain-list">
         <li><a href="/journals/">Where to publish gambling research</a></li>
         <li><a href="/conferences/">Conference calendar</a></li>

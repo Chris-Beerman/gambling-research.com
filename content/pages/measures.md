@@ -1,4 +1,5 @@
 ---
+kind: reference
 title: Screening instruments and scales
 slug: measures
 description: "The measures used in gambling research and practice, with authors, length, timeframe and licensing notes: PGSI, SOGS, NODS, BBGS, Lie/Bet, SGHS, GRCS, GMQ and others."

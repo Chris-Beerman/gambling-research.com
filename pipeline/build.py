@@ -174,6 +174,9 @@ class Builder:
             slug = path.stem
             out.append({"slug": slug, "url": f"/digest/{slug}/", "title": meta.get("title", slug), "date": meta.get("date", slug[:10]), "summary": meta.get("summary", ""), "html": html, "meta": meta})
         out.sort(key=lambda x: str(x["date"]), reverse=True)
+        # Issue numbers count up from the oldest published digest.
+        for i, dg in enumerate(out):
+            dg["number"] = len(out) - i
         return out
 
     # ---- rendering ----
@@ -182,7 +185,7 @@ class Builder:
         base = {
             "site": self.site,
             "today": self.today,
-            "nav": [("/research/", "Research"), ("/news/", "News"), ("/digest/", "Digest"), ("/journals/", "Reference")],
+            "nav": [("/research/", "Research", "research"), ("/news/", "News", "news"), ("/digest/", "Digest", "digest"), ("/journals/", "Reference", "reference")],
             "fixture": self.fixture,
             "updated": fmt_time_utc(self.fetch_log.get("finished")),
             "path": "/" + out_path.replace("index.html", "").strip("/") + ("/" if not out_path.endswith(".xml") and not out_path.endswith(".txt") else ""),
@@ -229,6 +232,7 @@ class Builder:
             "home.html", "index.html",
             papers=recent[: self.site.get("home_paper_count", 24)], this_week_count=len(this_week), total_count=len(self.papers(None)),
             news=home_news, digest=digests[0] if digests else None, topics=topics_sorted[:14],
+            journal_feed_count=sum(1 for f in self.sources.get("journal_feeds", []) if f.get("enabled", True)),
         )
         # Research index
         self.render(

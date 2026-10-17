@@ -1,4 +1,5 @@
 ---
+kind: reference
 title: Where to publish gambling research
 slug: journals
 description: Journals that publish gambling research, with free-to-publish routes, word limits, review model, indexing, ethics and data requirements, checked against their author pages.

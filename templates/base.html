@@ -20,14 +20,14 @@
 <link rel="stylesheet" href="/static/style.css">
 {% block head %}{% endblock %}
 </head>
-<body>
+<body class="{% block body_class %}{% endblock %}">
 <a class="skip" href="#main">Skip to content</a>
 <header class="masthead">
   <div class="wrap masthead-row">
     <a class="wordmark" href="/" aria-label="{{ site.title }} home"><span class="mark" aria-hidden="true"></span>{{ site.title }}</a>
     <nav aria-label="Main">
-      {% for href, label in nav %}
-      <a href="{{ href }}"{% if path.startswith(href) or (href == '/journals/' and path in ['/conferences/', '/datasets/', '/measures/', '/guide/']) %} aria-current="page"{% endif %}>{{ label }}</a>
+      {% for href, label, kind in nav %}
+      <a href="{{ href }}" data-kind="{{ kind }}"{% if path.startswith(href) or (href == '/journals/' and path in ['/conferences/', '/datasets/', '/measures/', '/guide/']) %} aria-current="page"{% endif %}>{{ label }}</a>
       {% endfor %}
       <a href="/about/"{% if path == '/about/' %} aria-current="page"{% endif %}>About</a>
     </nav>
