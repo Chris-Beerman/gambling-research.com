@@ -128,15 +128,18 @@ def convert_docket(item: dict) -> dict | None:
             if "documents" not in matched:
                 matched.append("documents")
         desc = clean_text(_MARK.sub("", raw_desc))
+        # PACER descriptions carry attachment lists and clerk notes; keep the filing itself.
+        desc = re.split(r"\s*\((?:Attachments?|Entered|Filing fee)", desc, maxsplit=1)[0].strip(" .;,")
         if not desc:
             continue
-        docs.append(
-            {
-                "date": iso(parse_date(d.get("entry_date_filed"))),
-                "description": desc[:200],
-                "url": CL_SITE + d["absolute_url"] if d.get("absolute_url") else "",
-            }
-        )
+        entry = {
+            "date": iso(parse_date(d.get("entry_date_filed"))),
+            "description": desc[:140],
+            "url": CL_SITE + d["absolute_url"] if d.get("absolute_url") else "",
+        }
+        if any(x["date"] == entry["date"] and x["description"] == entry["description"] for x in docs):
+            continue
+        docs.append(entry)
     docs.sort(key=lambda d: d["date"] or "", reverse=True)
     if any("<mark>" in (item.get(f) or "") for f in ("cause", "suitNature", "assignedTo", "referredTo")):
         matched.append("fields")
