@@ -144,6 +144,9 @@ def test_openstates_convert_and_stage():
     both = r["actions"] + [{"date": "2026-04-01", "description": "Passed Senate", "classification": ["passage"], "chamber": "upper"}]
     assert stage_from_actions(both, "") == "passed-both"
     assert stage_from_actions(both + [{"date": "2026-05-01", "description": "Governor Approved", "classification": ["executive-signature"], "chamber": "executive"}], "") == "enacted"
+    # A bill that passed both chambers and then died in messages is failed, not passed; "Enrolled" alone means passed both.
+    assert stage_from_actions(both + [{"date": "2026-05-02", "description": "Died in returning Messages", "classification": [], "chamber": "upper"}], "") == "failed"
+    assert stage_from_actions([{"date": "2025-04-01", "description": "Enrolled on Tuesday, April 1, 2025", "classification": [], "chamber": "lower"}], "") == "passed-both"
     out, stats = update_bills([], [r], TAX, TODAY, backfill=True)
     assert len(out) == 1 and out[0]["stage"] == "passed-one" and out[0]["first_seen"] == "2026-01-15"
     assert {"sports-betting", "self-exclusion", "prediction-markets"} <= set(out[0]["topics"])

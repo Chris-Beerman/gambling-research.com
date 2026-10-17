@@ -132,36 +132,44 @@ STAGE_LABEL = dict(STAGES)
 STAGE_RANK = {s: i for i, (s, _) in enumerate(STAGES)}
 
 
+_DEAD = re.compile(r"\bdied\b|\blost\b|indefinitely postponed|withdrawn|\btabled\b|sine die|stricken|failed to pass|not adopted", re.I)
+
+
 def stage_from_actions(actions: list[dict], latest_action: str) -> str:
+    """Stage from the legislature's recorded actions. Enactment and vetoes are
+    final whatever follows; a bill whose latest action says it died is failed
+    even if it had passed a chamber; otherwise the highest passage reached."""
     cls = [c for a in actions for c in (a.get("classification") or [])]
     if "became-law" in cls or "executive-signature" in cls or "veto-override-passage" in cls:
         return "enacted"
     if "executive-veto" in cls or "executive-veto-line-item" in cls:
         return "vetoed"
-    if "withdrawal" in cls:
+    last = actions[-1] if actions else {}
+    last_cls = last.get("classification") or []
+    last_text = last.get("description") or latest_action or ""
+    if "withdrawal" in last_cls or "failure" in last_cls or _DEAD.search(last_text):
         return "failed"
     chambers = {a.get("chamber") for a in actions if "passage" in (a.get("classification") or [])}
     chambers.discard("")
     chambers.discard(None)
-    if "legislature" in chambers or len(chambers) >= 2:
+    text_stage = stage_from_text(last_text)
+    if "legislature" in chambers or len(chambers) >= 2 or "enrolled" in cls or text_stage == "passed-both":
         return "passed-both"
-    if "passage" in cls:
+    if "passage" in cls or text_stage == "passed-one":
         return "passed-one"
-    if "failure" in cls and "passage" not in cls:
-        return "failed"
-    if any(c.startswith("committee-passage") for c in cls):
+    if any(c.startswith("committee-passage") for c in cls) or text_stage == "reported":
         return "reported"
-    if "referral-committee" in cls:
+    if "referral-committee" in cls or text_stage == "committee":
         return "committee"
     if cls:
         return "introduced"
-    return stage_from_text(latest_action)
+    return text_stage
 
 
 _STAGE_TEXT = [
     ("enacted", r"became public law|signed by (the )?president|became law|signed by governor|approved by (the )?governor|chaptered|act no\.|public act"),
     ("vetoed", r"\bvetoed\b|veto message"),
-    ("passed-both", r"presented to (the )?president|cleared for white house|passed both|sent to (the )?governor|enrolled and (presented|delivered)|to governor"),
+    ("passed-both", r"presented to (the )?president|cleared for white house|passed both|sent to (the )?governor|\benrolled\b|to governor|delivered to (the )?governor"),
     ("passed-one", r"passed (house|senate|assembly)|passed/agreed to in (house|senate)|received in the (house|senate)|third reading - passed|read third time and passed|engrossed"),
     ("reported", r"reported (by|from|favorably|out of)|ordered to be reported|placed on (the )?(union|senate|house|legislative|consent) calendar|do pass"),
     ("committee", r"referred to|committee referral|assigned to|in committee|hearing"),

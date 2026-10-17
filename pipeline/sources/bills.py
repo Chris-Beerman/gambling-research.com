@@ -34,19 +34,43 @@ def fetch_openstates(s, cfg: dict, days: int, warnings: list[str] | None = None)
     headers = {"X-API-KEY": api_key}
     out: dict[str, dict] = {}
     max_pages = int(cfg.get("max_pages", 5))
+    # Free keys are throttled per minute as well as per second (about twenty
+    # requests a minute in practice): pace requests, and on a 429 wait out the
+    # minute once before giving up on the run.
+    pause = float(cfg.get("pause_seconds", 3.2))
+    budget = int(cfg.get("max_requests", 240))
+    made = 0
     for q in cfg.get("queries", ["gambling"]):
         page = 1
         while True:
+            if made >= budget:
+                if warnings is not None:
+                    warnings.append(f"request budget ({budget}) reached at '{q}' page {page}; later queries wait for the next run")
+                return list(out.values())
             params = [("q", q), ("sort", "updated_desc"), ("updated_since", since), ("per_page", "20"), ("page", str(page))]
             params += [("include", x) for x in ("abstracts", "actions", "sponsorships", "sources")]
             try:
                 r = get(s, OPENSTATES_API, params=params, headers=headers, timeout=60)
+                made += 1
             except RuntimeError as e:
-                if not out:
-                    raise
-                if warnings is not None:
-                    warnings.append(f"stopped at '{q}' page {page} with {len(out)} bills: {str(e)[:120]}")
-                return list(out.values())
+                made += 1
+                if "429" in str(e):
+                    time.sleep(65)
+                    try:
+                        r = get(s, OPENSTATES_API, params=params, headers=headers, timeout=60)
+                        made += 1
+                    except RuntimeError as e2:
+                        if not out:
+                            raise
+                        if warnings is not None:
+                            warnings.append(f"rate limited at '{q}' page {page} with {len(out)} bills: {str(e2)[:100]}")
+                        return list(out.values())
+                else:
+                    if not out:
+                        raise
+                    if warnings is not None:
+                        warnings.append(f"stopped at '{q}' page {page} with {len(out)} bills: {str(e)[:120]}")
+                    return list(out.values())
             js = r.json()
             for b in js.get("results", []):
                 rec = convert_openstates(b)
@@ -56,8 +80,8 @@ def fetch_openstates(s, cfg: dict, days: int, warnings: list[str] | None = None)
             if page >= int(pg.get("max_page") or 1) or page >= max_pages:
                 break
             page += 1
-            time.sleep(1.1)  # free keys are limited to about one request a second
-        time.sleep(1.1)
+            time.sleep(pause)
+        time.sleep(pause)
     return list(out.values())
 
 

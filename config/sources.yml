@@ -211,25 +211,28 @@ bills:
     enabled: true
     # Open States API v3: full-text search over state bills updated since the window.
     # Free key: openstates.org/accounts/profile -> OPENSTATES_API_KEY secret.
+    # In priority order: the request budget may run out before the last ones.
     queries:
       - sports betting
       - sports wagering
-      - gambling
-      - casino
-      - lottery
-      - wagering
       - prediction market
       - event contract
       - self-exclusion
       - problem gambling
-      - daily fantasy
+      - gambling
       - sweepstakes
-      - video gaming terminal
+      - daily fantasy
+      - casino
+      - lottery
       - internet gaming
+      - video gaming terminal
+      - wagering
     days: 7
     backfill_days: 365
     max_pages: 5
-    backfill_max_pages: 15
+    backfill_max_pages: 10
+    pause_seconds: 3.2
+    max_requests: 240
   congress:
     enabled: true
     # GovInfo lists bill texts by modification date; titles are matched against the
