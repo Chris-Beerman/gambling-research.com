@@ -1,5 +1,5 @@
 {
- "started": "2026-10-17T13:40:34+00:00",
+ "started": "2026-10-17T13:48:15+00:00",
  "mode": "nightly",
  "sources": [
   {
@@ -40,15 +40,15 @@
    "ok": true,
    "items": 10,
    "error": null,
-   "warning": "using api.data.gov's shared DEMO_KEY (set the CONGRESS_API_KEY repository secret for a real key); s4060: GET failed after 3 tries: https://api.congress.gov/v3/bill/119/s/4060: 429 from ; s4035: GET failed after 3 tries: https://api.congress.gov/v3/bill/119/s/4035: 429 from ; s4017: GET failed after 3 tries: https://api.congress.gov/v3/bill/119/s/4017: 429 from ; s2773: GET failed after 3 tries: ht"
+   "warning": "using api.data.gov's shared DEMO_KEY (set the CONGRESS_API_KEY repository secret for a real key); rate limited at s4060 after 10 bills; the rest wait for the next run"
   },
   {
    "id": "courts:courtlistener",
    "kind": "cases",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: GET failed after 3 tries: https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0xNzg4MjIwODAwMDAwJnM9MTA5NjM2NjgmdD1vJmQ9MjAyNi0xMC0xNyZwPTY%3D&filed_after=2026-04-20&order_by=dateFiled+desc&q=%22sports+betting%22+OR+%22sports+wagering%22+OR+gambling+OR+casino+OR+lottery+OR+%22gaming+compact%2",
-   "warning": null
+   "ok": true,
+   "items": 120,
+   "error": null,
+   "warning": "stopped in type=o page 7 with 120 records: GET failed after 3 tries: https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0xNzg3NTI5NjAwMDAwJnM9MTA5NTY3MTYmd"
   }
  ],
  "papers": {
@@ -67,10 +67,11 @@
  },
  "trials": {
   "raw": 889,
-  "added": 804,
+  "added": 696,
   "updated": 0,
-  "dropped_irrelevant": 84,
-  "total": 804
+  "dropped_irrelevant": 192,
+  "removed": 0,
+  "total": 696
  },
  "bills": {
   "raw": 10,
@@ -80,16 +81,26 @@
   "total": 10
  },
  "cases": {
-  "raw": 0,
-  "added": 0,
+  "raw": 120,
+  "added": 8,
   "updated": 0,
-  "dropped_irrelevant": 0,
-  "total": 0
+  "dropped_irrelevant": 112,
+  "total": 8
  },
- "finished": "2026-10-17T13:45:15+00:00",
+ "finished": "2026-10-17T13:52:43+00:00",
  "papers_total": 437,
  "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T13:52:43+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 696,
+   "bills_added": 10,
+   "cases_added": 8,
+   "failed": 1
+  },
   {
    "finished": "2026-10-17T13:45:15+00:00",
    "mode": "nightly",

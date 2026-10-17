@@ -1768,5 +1768,19 @@
   }
  ],
  "bills": [],
- "cases": []
+ "cases": [
+  {
+   "id": "cl-o-11035091",
+   "kind": "opinion",
+   "case_name": "Moore v. Primadonna Co., LLC",
+   "court": "Nevada Supreme Court",
+   "court_level": "state-supreme",
+   "date_filed": "2026-10-15",
+   "latest_activity": "2026-10-15",
+   "citation": "142 Nev. Adv. Op. No. 64",
+   "snippet": "IN THE SUPREME COURT OF THE STATE OF NEVADA RONNY MOORE, No. 89261 Appellant, vs. THE PRIMADONNA COMPANY, LLC, D/B/A WHISKEY PETE’S HOTEL & CASINO, A NEVADA LIMITED LIABILITY COMPANY; AND FULL SERVICE SYSTEMS CORPORATION, A FOREIGN CORPORATION, Respondents. Appeal from a district court order granting summary judgment …",
+   "documents": [],
+   "url": "https://www.courtlistener.com/opinion/11035091/moore-v-primadonna-co-llc/"
+  }
+ ]
 }
