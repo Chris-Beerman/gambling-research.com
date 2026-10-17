@@ -1767,7 +1767,35 @@
    "first_seen": "2026-10-12"
   }
  ],
- "bills": [],
+ "bills": [
+  {
+   "id": "ocd-bill/c3353ccb-7e6a-4c23-9ef7-028389315490",
+   "jurisdiction": "Ohio",
+   "identifier": "SB 479",
+   "title": "Specify that betting on elections constitutes prohibited gambling",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-13",
+   "latest_action": "Introduced",
+   "url": "https://openstates.org/oh/bills/136/SB479/",
+   "topics": []
+  },
+  {
+   "id": "ocd-bill/9dabc33c-6c1f-4d6a-a3aa-1f646a01b8dc",
+   "jurisdiction": "Massachusetts",
+   "identifier": "HD 6367",
+   "title": "A communication from the Massachusetts Gaming Commission (see Section 69 of Chapter 23K of the General Laws) submitting its gaming revenue reports and associated sports wagering revenue report through August, 2026",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-13",
+   "latest_action": "Placed on file",
+   "url": "https://openstates.org/ma/bills/194th/HD6367/",
+   "topics": [
+    "sports-betting",
+    "industry"
+   ]
+  }
+ ],
  "cases": [
   {
    "id": "cl-o-11032256",
@@ -1795,18 +1823,18 @@
    "documents": [
     {
      "date": "2026-10-14",
-     "description": "CLERK ACTION: Answering Brief, Answering Brief, Answering Brief, Answering Brief submitted at DE 56, DE 57, DE 58, DE 59 by Appellee The Mirage Casino - Hotel, LLC, Appellee Treasure Island, LLC, Appe",
-     "url": "https://www.courtlistener.com/docket/73608189/62/keller-v-the-mirage-casino-hotel-llc-et-al/"
+     "description": "Streamlined Request for Extension of Time to File Brief filed by Appellant McKenzie Keller. [Entered: 10/14/2026 07:06 AM]",
+     "url": "https://www.courtlistener.com/docket/73608189/60/keller-v-the-mirage-casino-hotel-llc-et-al/"
     },
     {
      "date": "2026-10-14",
-     "description": "ORDER FILED. Streamlined Request for Extension of Time to File Brief (DE 60) granted. Amended briefing schedule: Optional Reply Brief due 12/3/2026. All briefs shall be served and filed pursuant to FR",
+     "description": "ORDER FILED. Streamlined Request for Extension of Time to File Brief (DE 60) granted. Amended briefing schedule: Optional Reply Brief due 12",
      "url": "https://www.courtlistener.com/docket/73608189/61/keller-v-the-mirage-casino-hotel-llc-et-al/"
     },
     {
      "date": "2026-10-14",
-     "description": "Streamlined Request for Extension of Time to File Brief filed by Appellant McKenzie Keller. [Entered: 10/14/2026 07:06 AM]",
-     "url": "https://www.courtlistener.com/docket/73608189/60/keller-v-the-mirage-casino-hotel-llc-et-al/"
+     "description": "CLERK ACTION: Answering Brief, Answering Brief, Answering Brief, Answering Brief submitted at DE 56, DE 57, DE 58, DE 59 by Appellee The Mir",
+     "url": "https://www.courtlistener.com/docket/73608189/62/keller-v-the-mirage-casino-hotel-llc-et-al/"
     }
    ],
    "url": "https://www.courtlistener.com/docket/73608189/keller-v-the-mirage-casino-hotel-llc-et-al/"
@@ -1824,7 +1852,7 @@
    "documents": [
     {
      "date": "2026-10-14",
-     "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, Harold E. Hodges, E. Randolph Marriner, John A. Martin, Maryl",
+     "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, H",
      "url": "https://www.courtlistener.com/docket/71042736/132/kalshiex-llc-v-john-martin/"
     },
     {
@@ -1834,7 +1862,12 @@
     },
     {
      "date": "2026-10-09",
-     "description": "RESPONSE/ANSWER by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, Harold E. Hodges, E. Randolph Marriner, John A. Martin, Maryland Lotte",
+     "description": "Docket correction requested from Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eat",
+     "url": "https://www.courtlistener.com/docket/71042736/130/kalshiex-llc-v-john-martin/"
+    },
+    {
+     "date": "2026-10-09",
+     "description": "RESPONSE/ANSWER by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, Harold E. ",
      "url": ""
     }
    ],
@@ -1884,12 +1917,12 @@
     },
     {
      "date": "2026-10-02",
-     "description": "CLERK'S ORDER [2196159] filed granting intervenor-appellee's motion to modify briefing schedule [2195527-2], setting revised briefing schedule: Defendant-Appellees Brief due on 10/26/2026 (unchanged).",
+     "description": "CLERK'S ORDER [2196159] filed granting intervenor-appellee's motion to modify briefing schedule [2195527-2], setting revised briefing schedu",
      "url": "https://www.courtlistener.com/docket/73181420/01208894204/dc-gambling-recovery-llc-v-american-wagering-inc/"
     },
     {
      "date": "2026-09-29",
-     "description": "UNOPPOSED MOTION [2195527] to modify briefing schedule filed by DC [Service Date: 09/29/2026 ] Length Certification: 180 Words. [26-7046] (Gellerson, Tessa) [Entered: 09/29/2026 04:02 PM]",
+     "description": "UNOPPOSED MOTION [2195527] to modify briefing schedule filed by DC [Service Date: 09/29/2026 ] Length Certification: 180 Words. [26-7046] (G",
      "url": "https://www.courtlistener.com/docket/73181420/01208892973/dc-gambling-recovery-llc-v-american-wagering-inc/"
     }
    ],
@@ -1908,7 +1941,7 @@
    "documents": [
     {
      "date": "2026-10-13",
-     "description": "Response by Robinhood Derivatives, LLC to 64 Notice of Supplemental Authorities, . (Waksler, Craig) (Entered: 10/13/2026)",
+     "description": "Response by Robinhood Derivatives, LLC to 64 Notice of Supplemental Authorities, . (Waksler, Craig)",
      "url": "https://www.courtlistener.com/docket/73406137/67/smith-v-kalshi-inc/"
     },
     {
@@ -1918,7 +1951,7 @@
     },
     {
      "date": "2026-10-06",
-     "description": "Response filed in error using incorrect attorney credentials deleted, re-filed correctly at 66 (CAM). (Entered: 10/06/2026)",
+     "description": "Response filed in error using incorrect attorney credentials deleted, re-filed correctly at 66 (CAM)",
      "url": "https://www.courtlistener.com/docket/73406137/65/smith-v-kalshi-inc/"
     }
    ],
@@ -1937,7 +1970,7 @@
    "documents": [
     {
      "date": "2026-10-13",
-     "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Court Reporter ECRO Fresno. (Dhillon, Navtej) (Entered: 10/13/",
+     "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Co",
      "url": "https://www.courtlistener.com/docket/73453634/58/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
     },
     {
@@ -1947,7 +1980,7 @@
     },
     {
      "date": "2026-10-13",
-     "description": "TRANSCRIPT REQUEST by North Fork Rancheria of Mono Indians for proceedings held on 10/09/2026 before Judge Kirk E. Sherriff. Court Reporter ECRO Fresno. (Vittor, Joshua) (Entered: 10/13/2026)",
+     "description": "TRANSCRIPT REQUEST by North Fork Rancheria of Mono Indians for proceedings held on 10/09/2026 before Judge Kirk E. Sherriff. Court Reporter ",
      "url": "https://www.courtlistener.com/docket/73453634/60/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
     }
    ],
@@ -1966,17 +1999,17 @@
    "documents": [
     {
      "date": "2026-10-13",
-     "description": "ADR Certification (ADR L.R. 3-5 b) of discussion of ADR options by Defendants Robinhood Markets, Inc. and Robinhood Derivatives, LLC (Barrera, Abigail) (Filed on 10/13/2026) (Entered: 10/13/2026)",
+     "description": "ADR Certification (ADR L.R. 3-5 b) of discussion of ADR options by Defendants Robinhood Markets, Inc. and Robinhood Derivatives, LLC (Barrer",
      "url": "https://www.courtlistener.com/docket/73231673/64/in-re-robinhood-prediction-market-litigation/"
     },
     {
      "date": "2026-09-28",
-     "description": "STATEMENT OF RECENT DECISION pursuant to Civil Local Rule 7-3.d filed byKevin Austin, Prabhdeep Chehal, Timothy Collar, Kaden Dean, Michael Gayed, Jason Gordon, Rick Gregory, Michael Hernandez, Jason ",
+     "description": "STATEMENT OF RECENT DECISION pursuant to Civil Local Rule 7-3.d filed byKevin Austin, Prabhdeep Chehal, Timothy Collar, Kaden Dean, Michael ",
      "url": "https://www.courtlistener.com/docket/73231673/63/in-re-robinhood-prediction-market-litigation/"
     },
     {
      "date": "2026-09-25",
-     "description": "STIPULATION Regarding Plaintiffs' Accounts with Robinhood Derivatives, LLC filed by Robinhood Derivatives, LLC, Robinhood Markets, Inc.. (Bond, Jonathan) (Filed on 9/25/2026) (Entered: 09/25/2026)",
+     "description": "STIPULATION Regarding Plaintiffs' Accounts with Robinhood Derivatives, LLC filed by Robinhood Derivatives, LLC, Robinhood Markets, Inc.. (Bo",
      "url": "https://www.courtlistener.com/docket/73231673/61/in-re-robinhood-prediction-market-litigation/"
     }
    ],
@@ -2024,17 +2057,17 @@
    "documents": [
     {
      "date": "2026-10-14",
-     "description": "ORDER Granting 312 Stipulation Regarding Third Party Discovery. Signed by Magistrate Judge Brenda Weksler on 10/14/2026. (Copies have been distributed pursuant to the NEF - MAM)",
+     "description": "ORDER Granting 312 Stipulation Regarding Third Party Discovery. Signed by Magistrate Judge Brenda Weksler on 10/14/2026. (Copies have been d",
      "url": "https://www.courtlistener.com/docket/69813518/313/kalshiex-llc-v-hendrick/"
     },
     {
      "date": "2026-09-24",
-     "description": "ORDER Granting 310 Stipulation to Stay Discovery. Signed by Magistrate Judge Brenda Weksler on 9/24/2026. (Copies have been distributed pursuant to the NEF - MAM)",
+     "description": "ORDER Granting 310 Stipulation to Stay Discovery. Signed by Magistrate Judge Brenda Weksler on 9/24/2026. (Copies have been distributed purs",
      "url": "https://www.courtlistener.com/docket/69813518/311/kalshiex-llc-v-hendrick/"
     },
     {
      "date": "2026-06-23",
-     "description": "MINUTE ORDER IN CHAMBERS of the Honorable Magistrate Judge Brenda Weksler on 6/23/2026. Before this Court is Plaintiff's motion seeking to redact certain information and seal specific exhibits accompa",
+     "description": "MINUTE ORDER IN CHAMBERS of the Honorable Magistrate Judge Brenda Weksler on 6/23/2026. Before this Court is Plaintiff's motion seeking to r",
      "url": "https://www.courtlistener.com/docket/69813518/307/kalshiex-llc-v-hendrick/"
     }
    ],
@@ -2058,13 +2091,13 @@
     },
     {
      "date": "2026-10-14",
-     "description": "***NOTICE TO COURT REGARDING PROPOSED ORDER. Document No. 270 Proposed Order was reviewed and approved as to form. (km)",
-     "url": ""
+     "description": "NOTICE OF APPEARANCE by Andrew Martin McNeela on behalf of Preston Million..(McNeela, Andrew)",
+     "url": "https://www.courtlistener.com/docket/64908240/279/in-re-lotterycom-inc-securities-litigation/"
     },
     {
      "date": "2026-10-14",
-     "description": "NOTICE OF APPEARANCE by Andrew Martin McNeela on behalf of Preston Million..(McNeela, Andrew) (Entered: 10/14/2026)",
-     "url": "https://www.courtlistener.com/docket/64908240/279/in-re-lotterycom-inc-securities-litigation/"
+     "description": "***NOTICE TO COURT REGARDING PROPOSED ORDER. Document No. 270 Proposed Order was reviewed and approved as to form. (km)",
+     "url": ""
     }
    ],
    "url": "https://www.courtlistener.com/docket/64908240/in-re-lotterycom-inc-securities-litigation/"
@@ -2087,12 +2120,12 @@
     },
     {
      "date": "2026-10-08",
-     "description": "MANDATE of USCA 25-7504 as to 73 Notice of Appeal to the Ninth Circuit, filed by Chicken Ranch Rancheria of Me-Wuk Indians, Picayune Rancheria of the Chukchansi Indians, Blue Lake Rancheria (kxo, COUR",
+     "description": "MANDATE of USCA 25-7504 as to 73 Notice of Appeal to the Ninth Circuit, filed by Chicken Ranch Rancheria of Me-Wuk Indians, Picayune Rancher",
      "url": "https://www.courtlistener.com/docket/70884560/99/blue-lake-rancheria-v-kalshi-inc/"
     },
     {
      "date": "2026-10-08",
-     "description": "CLERK'S NOTICE SETTING ZOOM HEARING. Because the Ninth Circuit issued its formal mandate today, the Court is setting a further status conference for October 21, 2026 at 2:00 p.m. to discuss next steps",
+     "description": "CLERK'S NOTICE SETTING ZOOM HEARING. Because the Ninth Circuit issued its formal mandate today, the Court is setting a further status confer",
      "url": "https://www.courtlistener.com/docket/70884560/100/blue-lake-rancheria-v-kalshi-inc/"
     }
    ],
@@ -2169,18 +2202,13 @@
    "documents": [
     {
      "date": "2026-10-16",
-     "description": "Notice of Supplemental Authority by Plaintiff State of Wisconsin . (Attachments: # 1 D. Ky. R&R (Polymarket) 26-CV-00047, # 2 D. Ky. R&R (Kalshi) 26-CV-00048) (Roth, Colin) (Entered: 10/16/2026)",
+     "description": "Notice of Supplemental Authority by Plaintiff State of Wisconsin",
      "url": "https://www.courtlistener.com/docket/73243813/34/state-of-wisconsin-v-foris-dax-markets-inc/"
     },
     {
      "date": "2026-04-24",
-     "description": "NOTICE OF REMOVAL from Dane County Circuit Court, case number 2026CV001286. ( Filing fee $ 405 receipt number AWIWDC-3783499), filed by All Defendants. (Attachments: # 1 Exhibit 1 - State Court Summon",
+     "description": "NOTICE OF REMOVAL from Dane County Circuit Court, case number 2026CV001286. ( Filing fee $ 405 receipt number AWIWDC-3783499), filed by All ",
      "url": "https://www.courtlistener.com/docket/73243813/1/state-of-wisconsin-justice-department-v-foris-dax-markets-inc/"
-    },
-    {
-     "date": "2026-04-24",
-     "description": "NOTICE OF REMOVAL from Dane County Circuit Court, case number 2026CV001286. ( Filing fee $ 405 receipt number AWIWDC-3783499), filed by All Defendants. (Attachments: # 1 Exhibit 1 - State Court Summon",
-     "url": "https://www.courtlistener.com/docket/73243813/1/1/state-of-wisconsin-justice-department-v-foris-dax-markets-inc/"
     }
    ],
    "url": "https://www.courtlistener.com/docket/73243813/state-of-wisconsin-v-foris-dax-markets-inc/"
@@ -2208,7 +2236,7 @@
     },
     {
      "date": "2026-10-06",
-     "description": "NOTICE of Hearing on Motion(s) 33, 34, 35, 37, 38, 39, 40, 43, 44, 45, 46, 47, 48, 49, 50, and 59 as set out. Motion Hearing set for 12/15/2026 10:00 AM in Greenville #5200, Carroll A Campbell Jr Cour",
+     "description": "NOTICE of Hearing on Motion(s) 33, 34, 35, 37, 38, 39, 40, 43, 44, 45, 46, 47, 48, 49, 50, and 59 as set out. Motion Hearing set for 12/15/2",
      "url": "https://www.courtlistener.com/docket/73435998/110/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
     }
    ],
@@ -2227,17 +2255,22 @@
    "documents": [
     {
      "date": "2026-10-16",
-     "description": "ORDER on Joint Motion to Continue Hearing Date (ECF No. 13 ). Signed by District Judge Robert S. Huie on 10/15/2026. (axc1) (Entered: 10/16/2026)",
+     "description": "ORDER on Joint Motion to Continue Hearing Date (ECF No. 13 ). Signed by District Judge Robert S. Huie on 10/15/2026. (axc1)",
      "url": "https://www.courtlistener.com/docket/73485862/14/james-v-kalshi-inc/"
     },
     {
      "date": "2026-10-13",
-     "description": "Joint MOTION to Continue Hearing on Defendant's Motion to Dismiss by Stephen James. (Attachments: # 1 Declaration of Joshua R. Wilner)(Wilner, Joshua)(axc1). (Entered: 10/13/2026)",
+     "description": "Joint MOTION to Continue Hearing on Defendant's Motion to Dismiss by Stephen James",
      "url": "https://www.courtlistener.com/docket/73485862/13/james-v-kalshi-inc/"
     },
     {
      "date": "2026-10-02",
-     "description": "NOTICE of Party With Financial Interest by Kalshi, Inc. . No Parties With Financial Interest. (Baird, Courtney) (axc1). (Entered: 10/02/2026)",
+     "description": "MOTION to Dismiss for Failure to State a Claim, MOTION to Dismiss for Lack of Jurisdiction by Kalshi, Inc",
+     "url": "https://www.courtlistener.com/docket/73485862/11/james-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-10-02",
+     "description": "NOTICE of Party With Financial Interest by Kalshi, Inc. . No Parties With Financial Interest. (Baird, Courtney) (axc1)",
      "url": "https://www.courtlistener.com/docket/73485862/12/james-v-kalshi-inc/"
     }
    ],
@@ -2289,11 +2322,6 @@
      "url": "https://www.courtlistener.com/docket/74835453/12/federacion-mexicana-de-futbol-asociacion-ac-v-kalshi-inc/"
     },
     {
-     "date": "2026-10-16",
-     "description": "Affidavit of Service Complaints",
-     "url": "https://www.courtlistener.com/docket/74835453/11/federacion-mexicana-de-futbol-asociacion-ac-v-kalshi-inc/"
-    },
-    {
      "date": "2026-10-13",
      "description": "Order on Motion for Extension of Time to Answer",
      "url": ""
@@ -2314,7 +2342,7 @@
    "documents": [
     {
      "date": "2026-10-16",
-     "description": "TRANSCRIPT OF MOTION HEARING PROCEEDINGS, before Judge Carl J. Nichols, hearing had on January 9, 2026. Page Numbers: 1-95. Date of Issuance: January 9, 2026. Court Reporter: Lorraine Herman. EMAIL: l",
+     "description": "TRANSCRIPT OF MOTION HEARING PROCEEDINGS, before Judge Carl J. Nichols, hearing had on January 9, 2026. Page Numbers: 1-95. Date of Issuance",
      "url": "https://www.courtlistener.com/docket/69847551/67/dc-gambling-recovery-llc-v-american-wagering-inc/"
     }
    ],
@@ -2343,7 +2371,7 @@
     },
     {
      "date": "2026-10-07",
-     "description": "Limited Objection Only to Certain Language Appearing in the Trustee's Revised Proposed Order (related document(s)218) Filed by Deborah A. Vitale (GNP) (Entered: 10/09/2026)",
+     "description": "Limited Objection Only to Certain Language Appearing in the Trustee's Revised Proposed Order (related document(s)218) Filed by Deborah A. Vi",
      "url": "https://www.courtlistener.com/docket/68849283/241/diamondhead-casino-corporation/"
     }
    ],

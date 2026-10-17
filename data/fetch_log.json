@@ -1,22 +1,22 @@
 {
- "started": "2026-10-17T14:05:25+00:00",
- "mode": "nightly",
+ "started": "2026-10-17T17:10:41+00:00",
+ "mode": "backfill",
  "sources": [
   {
    "id": "bills:openstates",
    "kind": "bills",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: Open States needs a free API key (openstates.org/accounts/profile); set the OPENSTATES_API_KEY repository secret",
-   "warning": null
+   "ok": true,
+   "items": 326,
+   "error": null,
+   "warning": "stopped at 'sports wagering' page 7 with 326 bills: GET failed after 3 tries: https://v3.openstates.org/bills: 429 from https://v3.openstates.org/bills"
   },
   {
    "id": "bills:congress",
    "kind": "bills",
    "ok": true,
-   "items": 10,
+   "items": 15,
    "error": null,
-   "warning": "using api.data.gov's shared DEMO_KEY (set the CONGRESS_API_KEY repository secret for a real key)"
+   "warning": null
   },
   {
    "id": "courts:courtlistener",
@@ -50,23 +50,33 @@
   "total": 696
  },
  "bills": {
-  "raw": 10,
-  "added": 0,
+  "raw": 341,
+  "added": 255,
   "updated": 10,
-  "dropped_irrelevant": 0,
-  "total": 10
+  "dropped_irrelevant": 76,
+  "total": 265
  },
  "cases": {
   "raw": 400,
-  "added": 53,
-  "updated": 0,
-  "dropped_irrelevant": 347,
+  "added": 0,
+  "updated": 50,
+  "dropped_irrelevant": 350,
   "total": 53
  },
- "finished": "2026-10-17T14:09:55+00:00",
+ "finished": "2026-10-17T17:16:27+00:00",
  "papers_total": 437,
  "news_total": 675,
  "history": [
+  {
+   "finished": "2026-10-17T17:16:27+00:00",
+   "mode": "backfill",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 255,
+   "cases_added": 0,
+   "failed": 0
+  },
   {
    "finished": "2026-10-17T14:09:55+00:00",
    "mode": "nightly",
