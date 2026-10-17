@@ -24,7 +24,7 @@ DEMO_KEY = "DEMO_KEY"  # api.data.gov's shared demo key: 30 requests an hour, fo
 
 
 # ---------------------------------------------------------------- Open States
-def fetch_openstates(s, cfg: dict, days: int) -> list[dict]:
+def fetch_openstates(s, cfg: dict, days: int, warnings: list[str] | None = None) -> list[dict]:
     api_key = os.environ.get("OPENSTATES_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("Open States needs a free API key (openstates.org/accounts/profile); set the OPENSTATES_API_KEY repository secret")
@@ -39,7 +39,14 @@ def fetch_openstates(s, cfg: dict, days: int) -> list[dict]:
         while True:
             params = [("q", q), ("sort", "updated_desc"), ("updated_since", since), ("per_page", "20"), ("page", str(page))]
             params += [("include", x) for x in ("abstracts", "actions", "sponsorships", "sources")]
-            r = get(s, OPENSTATES_API, params=params, headers=headers, timeout=60)
+            try:
+                r = get(s, OPENSTATES_API, params=params, headers=headers, timeout=60)
+            except RuntimeError as e:
+                if not out:
+                    raise
+                if warnings is not None:
+                    warnings.append(f"stopped at '{q}' page {page} with {len(out)} bills: {str(e)[:120]}")
+                return list(out.values())
             js = r.json()
             for b in js.get("results", []):
                 rec = convert_openstates(b)
@@ -178,9 +185,13 @@ def fetch_congress(s, cfg: dict, days: int, include_patterns: list, known: list[
         try:
             r = get(s, f"{CONGRESS_API}/bill/{congress}/{btype}/{number}", params={"api_key": key, "format": "json"}, timeout=60)
         except RuntimeError as e:
+            requests_made += 1
+            if "429" in str(e):
+                if warnings is not None:
+                    warnings.append(f"rate limited at {btype}{number} after {len(out)} bills; the rest wait for the next run")
+                break
             if warnings is not None:
                 warnings.append(f"{btype}{number}: {str(e)[:80]}")
-            requests_made += 1
             continue
         requests_made += 1
         rec = convert_congress((r.json() or {}).get("bill") or {}, congress, btype, number, official.get(k, ""))

@@ -62,7 +62,7 @@ _CT_SPONSOR_CLASS = {
 
 
 # ---------------------------------------------------------------- ClinicalTrials.gov
-def fetch_clinicaltrials(s, cfg: dict) -> list[dict]:
+def fetch_clinicaltrials(s, cfg: dict, warnings: list[str] | None = None) -> list[dict]:
     """Every study whose conditions mention gambling, plus studies whose other
     fields mention the configured terms. Relevance is decided later."""
     out: dict[str, dict] = {}
@@ -78,7 +78,14 @@ def fetch_clinicaltrials(s, cfg: dict) -> list[dict]:
             params = dict(q, pageSize=str(cfg.get("page_size", 200)), countTotal="true", format="json")
             if token:
                 params["pageToken"] = token
-            r = get(s, CT_API, params=params)
+            try:
+                r = get(s, CT_API, params=params)
+            except RuntimeError as e:
+                if not out:
+                    raise
+                if warnings is not None:
+                    warnings.append(f"stopped after {len(out)} studies: {str(e)[:120]}")
+                break
             js = r.json()
             for study in js.get("studies", []):
                 rec = convert_clinicaltrials(study)
@@ -287,7 +294,7 @@ def parse_isrctn(content: bytes, today=None) -> tuple[list[dict], int]:
 
 
 # ---------------------------------------------------------------- OSF Registries
-def fetch_osf(s, cfg: dict) -> list[dict]:
+def fetch_osf(s, cfg: dict, warnings: list[str] | None = None) -> list[dict]:
     """Public registrations whose title or description contains a term.
     OSF's API filters strings case-insensitively by substring; a comma-separated
     field list ORs the fields."""
@@ -309,7 +316,11 @@ def fetch_osf(s, cfg: dict) -> list[dict]:
                     if fields == "title,description" and "400" in str(e):
                         ok = False  # fall back to the title-only filter
                         break
-                    raise
+                    if not out:
+                        raise
+                    if warnings is not None:
+                        warnings.append(f"stopped at '{term}' with {len(out)} registrations: {str(e)[:120]}")
+                    return list(out.values())
                 js = r.json()
                 for item in js.get("data", []):
                     rec = convert_osf(item)

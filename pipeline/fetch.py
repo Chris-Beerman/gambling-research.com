@@ -89,20 +89,31 @@ def run(backfill: bool = False, only: set[str] | None = None) -> int:
                 raw_news += record(f"news:{feed['id']}", "news", lambda f=feed: feeds.fetch_news_feed(s, f))
 
     tcfg = sources_cfg.get("trials", {})
+    refreshed: set[str] = set()  # registries fetched in full this run
+
+    def full(name: str):
+        """Mark a registry as fully refreshed when its fetch succeeded without warnings."""
+        entry = log["sources"][-1]
+        if entry["id"] == f"trials:{name}" and entry["ok"] and not entry["warning"]:
+            refreshed.add(name)
+
     if want("trials"):
         if tcfg.get("clinicaltrials", {}).get("enabled"):
-            raw_trials += record("trials:clinicaltrials", "trials", lambda: trials_src.fetch_clinicaltrials(s, tcfg["clinicaltrials"]))
+            raw_trials += record("trials:clinicaltrials", "trials", lambda w: trials_src.fetch_clinicaltrials(s, tcfg["clinicaltrials"], w), with_warnings=True)
+            full("clinicaltrials")
         if tcfg.get("isrctn", {}).get("enabled"):
             raw_trials += record("trials:isrctn", "trials", lambda: trials_src.fetch_isrctn(s, tcfg["isrctn"]))
+            full("isrctn")
         if tcfg.get("osf", {}).get("enabled"):
-            raw_trials += record("trials:osf", "trials", lambda: trials_src.fetch_osf(s, tcfg["osf"]))
+            raw_trials += record("trials:osf", "trials", lambda w: trials_src.fetch_osf(s, tcfg["osf"], w), with_warnings=True)
+            full("osf")
     bcfg = sources_cfg.get("bills", {})
     if want("bills"):
         if bcfg.get("openstates", {}).get("enabled"):
             cfg = dict(bcfg["openstates"])
             if bf_bills and cfg.get("backfill_max_pages"):
                 cfg["max_pages"] = cfg["backfill_max_pages"]
-            raw_bills += record("bills:openstates", "bills", lambda: bills_src.fetch_openstates(s, cfg, window(cfg, bf_bills)))
+            raw_bills += record("bills:openstates", "bills", lambda w, cfg=cfg: bills_src.fetch_openstates(s, cfg, window(cfg, bf_bills), w), with_warnings=True)
         if bcfg.get("congress", {}).get("enabled"):
             cfg = bcfg["congress"]
             raw_bills += record("bills:congress", "bills", lambda w: bills_src.fetch_congress(s, cfg, window(cfg, bf_bills), tax.bills_include, bills, w), with_warnings=True)
@@ -111,11 +122,11 @@ def run(backfill: bool = False, only: set[str] | None = None) -> int:
         cfg = dict(ccfg["courtlistener"])
         if bf_cases and cfg.get("backfill_max_pages"):
             cfg["max_pages"] = cfg["backfill_max_pages"]
-        raw_cases += record("courts:courtlistener", "cases", lambda: courts_src.fetch_courtlistener(s, cfg, window(cfg, bf_cases, 7, 180)))
+        raw_cases += record("courts:courtlistener", "cases", lambda w, cfg=cfg: courts_src.fetch_courtlistener(s, cfg, window(cfg, bf_cases, 7, 180), w), with_warnings=True)
 
     papers, pstats = update_index(papers, raw_papers, tax, today, backfill)
     news, nstats = update_news(news, raw_news, tax, today, int(sources_cfg.get("news_max_per_source_per_day", 10)))
-    trials, tstats = update_trials(trials, raw_trials, tax, today, bf_trials)
+    trials, tstats = update_trials(trials, raw_trials, tax, today, bf_trials, refreshed)
     bills, bstats = update_bills(bills, raw_bills, tax, today, bf_bills)
     cases, cstats = update_cases(cases, raw_cases, tax, today, bf_cases)
     log["papers"] = pstats

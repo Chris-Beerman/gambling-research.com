@@ -37,8 +37,19 @@ def country_codes(names: list[str]) -> list[str]:
 
 
 # ---------------------------------------------------------------- trials
-def update_trials(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt.date, backfill: bool) -> tuple[list[dict], dict]:
+def update_trials(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt.date, backfill: bool, refreshed: set[str] | None = None) -> tuple[list[dict], dict]:
+    """`refreshed` names the registries whose fetch succeeded in full: records
+    of those registries that the fetch no longer returns (deleted, or no longer
+    matching after a rule change) are removed. Registries that failed keep
+    their old records."""
     by_id = {t["id"]: t for t in existing}
+    if refreshed:
+        returned = {r["id"] for r in raw}
+        removed = [k for k, t in by_id.items() if t.get("registry") in refreshed and k not in returned]
+        for k in removed:
+            del by_id[k]
+    else:
+        removed = []
     # ISRCTN records that quote an NCT number are the same trial; keep the CT.gov copy.
     ct_ids = {r["id"].upper() for r in raw if r.get("registry") == "clinicaltrials"} | {k.upper() for k in by_id if k.upper().startswith("NCT")}
     added = updated = dropped = 0
@@ -46,8 +57,11 @@ def update_trials(existing: list[dict], raw: list[dict], tax: Taxonomy, today: d
         if r["registry"] == "isrctn" and any(o.upper() in ct_ids for o in r.get("other_ids") or []):
             continue
         text = " ".join([r.get("title") or "", r.get("official_title") or "", " ".join(r.get("conditions") or []), " ".join(r.get("keywords") or []), r.get("summary") or ""])
-        rel, _, _ = tax.assess(f"{r.get('title') or ''} {' '.join(r.get('conditions') or [])}", f"{r.get('official_title') or ''} {' '.join(r.get('keywords') or [])} {r.get('summary') or ''}")
-        if rel != "high":
+        # Keep a record when its title or conditions name the subject, or the rest of
+        # the record mentions it at least twice (one mention is usually a gambling task
+        # used as a measure, or gambling listed among many outcomes).
+        rel, title_hit, hits = tax.assess(f"{r.get('title') or ''} {' '.join(r.get('conditions') or [])}", f"{r.get('official_title') or ''} {' '.join(r.get('keywords') or [])} {r.get('summary') or ''}")
+        if rel != "high" or not (title_hit or hits >= 2):
             dropped += 1
             continue
         topics, designs = tax.tag(text)
@@ -100,7 +114,7 @@ def update_trials(existing: list[dict], raw: list[dict], tax: Taxonomy, today: d
         by_id[rec["id"]] = rec
     trials = list(by_id.values())
     trials.sort(key=lambda t: (t.get("last_updated") or t.get("first_posted") or "", t["title"]), reverse=True)
-    return trials, {"raw": len(raw), "added": added, "updated": updated, "dropped_irrelevant": dropped, "total": len(trials)}
+    return trials, {"raw": len(raw), "added": added, "updated": updated, "dropped_irrelevant": dropped, "removed": len(removed), "total": len(trials)}
 
 
 # ---------------------------------------------------------------- bills

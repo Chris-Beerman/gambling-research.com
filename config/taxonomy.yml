@@ -34,6 +34,7 @@ relevance:
     - "(won|win|winning) .{0,30}(the )?lottery"
     - "standard gamble"                      # health-economics utility elicitation
     - "\\(wager & dixon\\)|wager & dixon"     # botanist, not a bet
+    - "procter\\s*(&|&amp;|\\\\&|and)\\s*gamble"       # the company
   # Titles that mark promotional or machine-generated content; dropped outright.
   drop_titles:
     - "promo code|code promo|bonus code|welcome bonus|free spins|no deposit|referral code"

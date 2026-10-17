@@ -25,7 +25,7 @@ def _headers() -> dict:
     return {"Authorization": f"Token {token}"} if token else {}
 
 
-def fetch_courtlistener(s, cfg: dict, days: int) -> list[dict]:
+def fetch_courtlistener(s, cfg: dict, days: int, warnings: list[str] | None = None) -> list[dict]:
     import datetime as dt
 
     since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
@@ -42,7 +42,14 @@ def fetch_courtlistener(s, cfg: dict, days: int) -> list[dict]:
         url = CL_API
         pages = 0
         while url:
-            r = get(s, url, params=params, headers=headers, timeout=90)
+            try:
+                r = get(s, url, params=params, headers=headers, timeout=90)
+            except RuntimeError as e:
+                if not out:
+                    raise
+                if warnings is not None:
+                    warnings.append(f"stopped in type={kind} page {pages + 1} with {len(out)} records: {str(e)[:120]}")
+                return list(out.values())
             js = r.json()
             for item in js.get("results", []):
                 rec = convert_opinion(item) if kind == "o" else convert_docket(item)

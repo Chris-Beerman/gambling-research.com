@@ -87,6 +87,11 @@ def test_clinicaltrials_convert_and_relevance():
     out2, stats2 = update_trials(out, [r2], TAX, dt.date(2026, 11, 1), backfill=False)
     assert stats2["updated"] == 1 and out2[0]["first_seen"] == "2026-01-20"
     assert out2[0]["status_changed"] == "2026-11-01" and out2[0]["previous_status"] == "recruiting"
+    # A registry fetched in full that no longer returns a record removes it; a failed registry keeps its records.
+    out3, stats3 = update_trials(out2, [], TAX, dt.date(2026, 11, 2), backfill=False, refreshed={"clinicaltrials"})
+    assert out3 == [] and stats3["removed"] == 1
+    out4, _ = update_trials(out2, [], TAX, dt.date(2026, 11, 2), backfill=False, refreshed={"isrctn"})
+    assert len(out4) == 1
 
 
 def test_isrctn_parse():
