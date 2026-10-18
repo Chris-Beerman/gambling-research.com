@@ -105,6 +105,51 @@
   "status_changed": null
  },
  {
+  "id": "osf:vxuwm",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Development and feasibility of a self-guided, CBT-informed digital support program for adult family members affected by a relative's gambling: preliminary registration",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-15",
+  "last_updated": "2026-10-15",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Gambling problems harm the whole family. Partners, parents and other relatives carry stress, conflict, money worry, stigma, guilt and shame, but little support is designed for them, and most services need a professional or an in-person meeting …",
+  "url": "https://osf.io/vxuwm/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Trevor van Mierlo",
+   "Keren Gueta",
+   "Anat Bodniuk",
+   "Maayan Beeri Nagar"
+  ],
+  "topics": [
+   "treatment",
+   "families",
+   "lived-experience"
+  ],
+  "designs": [
+   "review",
+   "qualitative"
+  ],
+  "first_seen": "2026-10-18",
+  "status_changed": null
+ },
+ {
   "id": "osf:hrx8t",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -23270,41 +23315,6 @@
   ],
   "designs": [],
   "first_seen": "2023-01-10",
-  "status_changed": null
- },
- {
-  "id": "osf:rew23",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "What initiates harmful gambling? A rapid evidence assessment.",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-01-09",
-  "last_updated": "2023-01-09",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "A rapid evidence assessment synthesising the current evidence on the perceptions, motivations and decisions that lead to harmful gambling.",
-  "url": "https://osf.io/rew23/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Ben Ford"
-  ],
-  "topics": [],
-  "designs": [],
-  "first_seen": "2023-01-09",
   "status_changed": null
  },
  {

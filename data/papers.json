@@ -1,5 +1,46 @@
 [
  {
+  "id": "doi:10.1159/ear/acrag008",
+  "doi": "10.1159/ear/acrag008",
+  "pmid": "42891958",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Widespread Suspected Illegal Advertising of Paid Loot Boxes and Social Casino Games in Belgium: Empowered by the EU Digital Services Act to Assess Compliance Using Meta's Ad Repository",
+  "journal": "European Addiction Research",
+  "authors": [
+   "Leon Y Xiao",
+   "Elena Petrovskaya",
+   "Nicole Khoo",
+   "Maarten Denoo",
+   "Amanda Roberts"
+  ],
+  "published": "2026-10-17",
+  "year": 2026,
+  "created": "2026-10-18",
+  "first_seen": "2026-10-18",
+  "summary": "Paid loot boxes and social casino mechanics are gambling-like products inside video games that provide random rewards in exchange for real-world money. These products may cause harm to vulnerable consumers, e.g., children and adults experiencing gambling harms …",
+  "url": "https://doi.org/10.1159/ear/acrag008",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "casino",
+   "loot-boxes",
+   "advertising",
+   "policy",
+   "cognition"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1186/s12954-026-01565-0",
   "doi": "10.1186/s12954-026-01565-0",
   "pmid": "42888425",
@@ -17,12 +58,12 @@
   "year": 2026,
   "created": "2026-10-17",
   "first_seen": "2026-10-17",
-  "summary": "Abstract Background Gambling disorder, the first non-substance-related addictive disorder to be recognized, can have a severe impact on health and psycho-social well-being, but treatment seeking is often low, and the documentation of clinical needs and medical comorbidities is sparser than for substance use disorders …",
+  "summary": "Gambling disorder, the first non-substance-related addictive disorder to be recognized, can have a severe impact on health and psycho-social well-being, but treatment seeking is often low, and the documentation of clinical needs and medical comorbidities is sparser than for substance use disorders …",
   "url": "https://doi.org/10.1186/s12954-026-01565-0",
-  "oa_url": "https://doi.org/10.1186/s12954-026-01565-0",
+  "oa_url": "https://link.springer.com/content/pdf/10.1186/s12954-026-01565-0.pdf",
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -79,8 +120,16 @@
   "designs": [
    "trial"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "CA",
+   "BR",
+   "US"
+  ],
+  "regions": [
+   "canada",
+   "latin-america",
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -104,10 +153,10 @@
   "first_seen": "2026-10-17",
   "summary": "To estimate the prevalence of potential problem gambling among college students at a large U.S. public university who reported having participated in sports betting/gambling. Participants: A customized Healthy Minds Study (HMS) Student Survey was administered to undergraduate students (n = 1,489) at a large U.S. public university in 2025 …",
   "url": "https://doi.org/10.1080/07448481.2026.2744233",
-  "oa_url": "https://doi.org/10.1080/07448481.2026.2744233",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/07448481.2026.2744233?needAccess=true",
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -144,7 +193,7 @@
   "first_seen": "2026-10-17",
   "summary": "Last month the Heather Maurer, executive director of the National Council on Problem Gambling resigned after taking $2 million from Kalshi, a prediction market. The problems of gambling addiction and problem gambling have been growing with online sports betting and prediction markets …",
   "url": "https://doi.org/10.1002/adaw.35086",
-  "oa_url": null,
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adaw.35086",
   "sources": [
    "openalex"
   ],
@@ -224,7 +273,7 @@
   "first_seen": "2026-10-17",
   "summary": "In July 2026 Uzbekistan issued its first licences for online bookmaking, under a framework adopted in 2024. This article argues that the reform is better understood as a shift from prohibition to supervision than as the legalisation of a new activity, because betting demand, and the payment channels serving it, existed throughout the period of prohibition …",
   "url": "https://grnjournal.us/index.php/AJPDIS/article/view/9794",
-  "oa_url": "https://grnjournal.us/index.php/AJPDIS/article/view/9794",
+  "oa_url": "https://grnjournal.us/index.php/AJPDIS/article/download/9794/9479",
   "sources": [
    "openalex"
   ],
@@ -402,7 +451,7 @@
   "first_seen": "2026-10-17",
   "summary": "The development of digital financial services has provided convenience for the younger generation, but it has also increased the risk of irresponsible use of financial services, such as uncontrolled use of paylater services, online gambling, and illegal investments …",
   "url": "https://doi.org/10.23969/jp.v11i04.70628",
-  "oa_url": "https://journal.unpas.ac.id/index.php/pendas/article/view/70628",
+  "oa_url": "https://journal.unpas.ac.id/index.php/pendas/article/download/70628/40831",
   "sources": [
    "openalex"
   ],
@@ -691,7 +740,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-17",
+  "published": "2026-10-18",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -1939,7 +1988,7 @@
   "id": "doi:10.1001/jamapsychiatry.2026.3175",
   "doi": "10.1001/jamapsychiatry.2026.3175",
   "pmid": "42873510",
-  "pmcid": null,
+  "pmcid": "PMC13670118",
   "openalex": "W7221815584",
   "title": "Online Sports Betting Legalization and Behavioral Health Care Use",
   "journal": "JAMA Psychiatry",
@@ -1954,7 +2003,7 @@
   "first_seen": "2026-10-14",
   "summary": "The number of states with legal online sports betting has grown from 1 to 31 since 2018, expanding access to gambling. Despite the known behavioral health burdens associated with gambling, little is understood about legalization's impact on mental health and substance use treatment use …",
   "url": "https://doi.org/10.1001/jamapsychiatry.2026.3175",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13670118/",
   "sources": [
    "openalex",
    "pubmed"
@@ -2247,7 +2296,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-17",
+  "published": "2026-10-18",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -4172,8 +4221,8 @@
  {
   "id": "doi:10.3389/fpsyt.2026.1907023",
   "doi": "10.3389/fpsyt.2026.1907023",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42891313",
+  "pmcid": "PMC13674343",
   "openalex": "W7216300231",
   "title": "Social communities in gacha gaming and adolescent problem gambling risk: a mixed methods study",
   "journal": "Frontiers in Psychiatry",
@@ -4183,13 +4232,14 @@
   ],
   "published": "2026-10-02",
   "year": 2026,
-  "created": "2026-10-03",
+  "created": "2026-10-17",
   "first_seen": "2026-10-03",
-  "summary": "Introduction Gacha games are free-to-play mobile games featuring randomized-reward mechanics to acquire characters and items. These games have grown into a multi-billion-dollar global industry, yet their relationship with adolescent problem gambling remains largely unstudied …",
+  "summary": "Gacha games are free-to-play mobile games featuring randomized-reward mechanics to acquire characters and items. These games have grown into a multi-billion-dollar global industry, yet their relationship with adolescent problem gambling remains largely unstudied …",
   "url": "https://doi.org/10.3389/fpsyt.2026.1907023",
-  "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1907023/pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13674343/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -4207,8 +4257,12 @@
    "survey",
    "longitudinal"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -4247,11 +4301,9 @@
   ],
   "designs": [],
   "countries": [
-   "AU",
    "US"
   ],
   "regions": [
-   "australia-nz",
    "us"
   ],
   "language": "en",

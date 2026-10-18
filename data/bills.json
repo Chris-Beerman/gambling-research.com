@@ -20,7 +20,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/ny/bills/2025-2026/S10721/",
-  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10721?summary=&detail=",
+  "source_url": "https://nyassembly.gov/leg/?bn=S10721&term=2025",
   "topics": [
    "online-gambling",
    "self-exclusion"
@@ -173,7 +173,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/oh/bills/136/SB479/",
-  "source_url": "https://www.legislature.ohio.gov/legislation/136/sb479",
+  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb479/",
   "topics": [],
   "updated": "2026-10-14",
   "first_seen": "2026-10-13",
@@ -5517,7 +5517,7 @@
   "stage": "enacted",
   "stage_label": "enacted",
   "url": "https://openstates.org/me/bills/132/LD2007/",
-  "source_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100859",
+  "source_url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100859",
   "topics": [
    "online-gambling"
   ],
@@ -11938,7 +11938,7 @@
    "policy",
    "older-adults"
   ],
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -12786,7 +12786,7 @@
   "stage": "passed-one",
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/pa/bills/2025-2026/HB1072/",
-  "source_url": "https://www.palegis.us/legislation/bills/2025/hb1072",
+  "source_url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=16&rollcallid=296&sessYr=2025&sessInd=0",
   "topics": [
    "lottery",
    "policy",
