@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }}: {{ site.title }}{% endblock %}
 {% block description %}{{ page.description or site.descriptor }}{% endblock %}
+{% block head %}{% if page.schema %}<script type="application/ld+json">{{ page.schema|tojson }}</script>{% endif %}{% endblock %}
 {% block body_class %}{% if page.kind %}section-{{ page.kind }}{% endif %}{% endblock %}
 {% block content %}
 <article class="prose{% if page.wide %} prose-wide{% endif %}">

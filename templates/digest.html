@@ -1,12 +1,14 @@
 {% extends "base.html" %}
 {% block title %}{{ digest.title }}: {{ site.title }} weekly digest{% endblock %}
 {% block description %}{{ digest.summary or site.descriptor }}{% endblock %}
+{% block head %}<meta name="author" content="{{ site.editor.name }}">
+<script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "Article", "headline": digest.title, "description": digest.summary, "datePublished": digest.date|string, "mainEntityOfPage": site.url ~ path, "isPartOf": {"@id": site.url ~ "/#website"}, "author": {"@type": "Person", "@id": site.url ~ "/about/#editor", "name": site.editor.name, "url": site.url ~ "/about/"}, "publisher": {"@type": "Person", "@id": site.url ~ "/about/#editor", "name": site.editor.name}}|tojson }}</script>{% endblock %}
 {% block body_class %}section-digest{% endblock %}
 {% block content %}
 <article class="prose">
   <p class="kicker kicker-digest"><a href="/digest/">The Weekly Digest</a> <span class="issue">No. {{ digest.number }}</span></p>
   <h1>{{ digest.title }}</h1>
-  <p class="byline">{{ digest.date|fmt_date('long') }}. By {{ site.editor.name }}.</p>
+  <p class="byline">{{ digest.date|fmt_date('long') }}. By <a href="/about/#editor">{{ site.editor.name }}</a>, {{ site.editor.credentials }}.</p>
   {% if digest.summary %}<p class="deck">{{ digest.summary }}</p>{% endif %}
   {{ digest.html|safe }}
 </article>
