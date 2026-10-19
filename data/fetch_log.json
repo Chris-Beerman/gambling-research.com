@@ -1,12 +1,12 @@
 {
- "started": "2026-10-18T11:00:00+00:00",
+ "started": "2026-10-19T13:07:39+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 39,
+   "items": 40,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 222,
+   "items": 215,
    "error": null,
    "warning": null
   },
@@ -54,7 +54,7 @@
    "id": "feed:addiction",
    "kind": "papers",
    "ok": true,
-   "items": 87,
+   "items": 89,
    "error": null,
    "warning": null
   },
@@ -270,7 +270,7 @@
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 173,
+   "items": 172,
    "error": null,
    "warning": null
   },
@@ -286,24 +286,24 @@
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 70,
+   "items": 72,
    "error": null,
    "warning": null
   }
  ],
  "papers": {
-  "raw": 679,
-  "groups": 614,
-  "added": 1,
-  "updated": 204,
+  "raw": 675,
+  "groups": 611,
+  "added": 4,
+  "updated": 198,
   "dropped_irrelevant": 409,
-  "total": 438
+  "total": 442
  },
  "news": {
   "raw": 713,
-  "added": 37,
-  "dropped_irrelevant": 125,
-  "total": 707
+  "added": 53,
+  "dropped_irrelevant": 131,
+  "total": 754
  },
  "trials": {
   "raw": 889,
@@ -314,23 +314,33 @@
   "total": 696
  },
  "bills": {
-  "raw": 188,
+  "raw": 187,
   "added": 0,
-  "updated": 51,
+  "updated": 50,
   "dropped_irrelevant": 137,
   "total": 521
  },
  "cases": {
-  "raw": 70,
-  "added": 0,
-  "updated": 10,
-  "dropped_irrelevant": 60,
-  "total": 53
+  "raw": 72,
+  "added": 2,
+  "updated": 9,
+  "dropped_irrelevant": 61,
+  "total": 55
  },
- "finished": "2026-10-18T11:07:06+00:00",
- "papers_total": 438,
- "news_total": 707,
+ "finished": "2026-10-19T13:14:49+00:00",
+ "papers_total": 442,
+ "news_total": 754,
  "history": [
+  {
+   "finished": "2026-10-19T13:14:49+00:00",
+   "mode": "nightly",
+   "added": 4,
+   "news_added": 53,
+   "trials_added": 1,
+   "bills_added": 0,
+   "cases_added": 2,
+   "failed": 0
+  },
   {
    "finished": "2026-10-18T11:07:06+00:00",
    "mode": "nightly",

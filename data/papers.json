@@ -1,10 +1,186 @@
 [
  {
+  "id": "doi:10.1080/15332640.2026.2741047",
+  "doi": "10.1080/15332640.2026.2741047",
+  "pmid": "42893378",
+  "pmcid": null,
+  "openalex": "W7222882079",
+  "title": "Exploring a culturally tailored psychoeducational intervention for Vietnamese Australians affected by alcohol, other drugs and gambling in South Western Sydney: A pre-post qualitative study",
+  "journal": "Journal of Ethnicity in Substance Abuse",
+  "authors": [
+   "Kaniz Fatema",
+   "Hoang Diep",
+   "Dang-Khoa Nguyena",
+   "Mark Hardy",
+   "Fikriye Salih"
+  ],
+  "published": "2026-10-18",
+  "year": 2026,
+  "created": "2026-10-18",
+  "first_seen": "2026-10-19",
+  "summary": "Vietnamese communities in South Western Sydney experience migration-related stressors, stigma, and barriers to accessing alcohol and other drug (AOD) and gambling services. Culturally tailored psychoeducational interventions may improve recovery-oriented outcomes; however, qualitative evidence in this population is limited …",
+  "url": "https://doi.org/10.1080/15332640.2026.2741047",
+  "oa_url": null,
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "policy",
+   "comorbidity",
+   "families",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/23736992.2026.2750933",
+  "doi": "10.1080/23736992.2026.2750933",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222874527",
+  "title": "Epistemic Surrender: How U.S. Sports Journalists Appraise Risks and Rewards of Legal Sports Betting",
+  "journal": "Journal of Media Ethics",
+  "authors": [
+   "Brian A. Petrotta",
+   "Adam Pitluk",
+   "Jason Stamm"
+  ],
+  "published": "2026-10-18",
+  "year": 2026,
+  "created": "2026-10-19",
+  "first_seen": "2026-10-19",
+  "summary": "",
+  "url": "https://doi.org/10.1080/23736992.2026.2750933",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "policy",
+   "cognition"
+  ],
+  "designs": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.18863/pgy.2010753",
+  "doi": "10.18863/pgy.2010753",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222877017",
+  "title": "Association of Borderline Personality Traits and Impulsivity with Problem Gambling Severity in Gambling Disorder",
+  "journal": "Psikiyatride Guncel Yaklasimlar - Current Approaches in Psychiatry",
+  "authors": [
+   "Esma Çörekli Kaymakçı",
+   "Cansu Ünsal",
+   "Yusuf Benli",
+   "Merih Altıntaş"
+  ],
+  "published": "2026-10-18",
+  "year": 2026,
+  "created": "2026-10-19",
+  "first_seen": "2026-10-19",
+  "summary": "This study aimed to examine the associations of borderline personality traits and impulsivity with problem gambling severity in patients with gambling disorder and their relative contributions when considered together.Method: This retrospective, cross-sectional study included 60 patients aged 18–65 with gambling disorder evaluated at psychiatry outpatient …",
+  "url": "https://doi.org/10.18863/pgy.2010753",
+  "oa_url": "https://doi.org/10.18863/pgy.2010753",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "measurement",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "tr",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.7759/cureus.116404",
+  "doi": "10.7759/cureus.116404",
+  "pmid": "42893114",
+  "pmcid": "PMC13675865",
+  "openalex": null,
+  "title": "Ultrasonic-With-Ballistic Versus Pneumatic Lithotripsy in Percutaneous Nephrolithotomy for 2-4 cm Renal Calculi: A Prospective Quasi-experimental Comparative Study in a Bangladeshi Tertiary-Care Hospital",
+  "journal": "Cureus",
+  "authors": [
+   "Md Mahmudul Hasan",
+   "Md Mezbahul Moker Rabin",
+   "Mohammad Alomgir",
+   "Md Mahmood Hasan",
+   "Md Al Mamun",
+   "Mahmud Ul Alam Mondal",
+   "Md Rashedul Islam",
+   "Md Shahinoor",
+   "Ujjal Barua"
+  ],
+  "published": "2026-09-17",
+  "year": 2026,
+  "created": "2026-10-18",
+  "first_seen": "2026-10-19",
+  "summary": "Background Percutaneous nephrolithotomy (PCNL) is the standard treatment for large renal calculi, and the use of an intracorporeal lithotripter strongly influences its success …",
+  "url": "https://doi.org/10.7759/cureus.116404",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13675865/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "youth",
+   "treatment"
+  ],
+  "designs": [
+   "trial",
+   "longitudinal",
+   "experiment"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1159/ear/acrag008",
   "doi": "10.1159/ear/acrag008",
   "pmid": "42891958",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7222865932",
   "title": "Widespread Suspected Illegal Advertising of Paid Loot Boxes and Social Casino Games in Belgium: Empowered by the EU Digital Services Act to Assess Compliance Using Meta's Ad Repository",
   "journal": "European Addiction Research",
   "authors": [
@@ -20,8 +196,9 @@
   "first_seen": "2026-10-18",
   "summary": "Paid loot boxes and social casino mechanics are gambling-like products inside video games that provide random rewards in exchange for real-world money. These products may cause harm to vulnerable consumers, e.g., children and adults experiencing gambling harms …",
   "url": "https://doi.org/10.1159/ear/acrag008",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1159/ear/acrag008",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -44,7 +221,7 @@
   "id": "doi:10.1186/s12954-026-01565-0",
   "doi": "10.1186/s12954-026-01565-0",
   "pmid": "42888425",
-  "pmcid": null,
+  "pmcid": "PMC13675995",
   "openalex": "W7222638795",
   "title": "Study protocol: seeking treatment for gambling - a 10-year retrospective clinical and register study of gambling patterns and physical and psychiatric comorbidity in patients with gambling disorder",
   "journal": "Harm Reduction Journal",
@@ -60,7 +237,7 @@
   "first_seen": "2026-10-17",
   "summary": "Gambling disorder, the first non-substance-related addictive disorder to be recognized, can have a severe impact on health and psycho-social well-being, but treatment seeking is often low, and the documentation of clinical needs and medical comorbidities is sparser than for substance use disorders …",
   "url": "https://doi.org/10.1186/s12954-026-01565-0",
-  "oa_url": "https://link.springer.com/content/pdf/10.1186/s12954-026-01565-0.pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13675995/",
   "sources": [
    "openalex",
    "pubmed"
@@ -740,7 +917,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-18",
+  "published": "2026-10-19",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -2296,7 +2473,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-18",
+  "published": "2026-10-19",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -5653,9 +5830,9 @@
    "Simon Dymond",
    "Jamie Torrance"
   ],
-  "published": "2026-09-27",
+  "published": "2026-09-28",
   "year": 2026,
-  "created": "2026-09-29",
+  "created": "2026-09-28",
   "first_seen": "2026-09-28",
   "summary": "Addiction, EarlyView.",
   "url": "https://doi.org/10.1111/add.70624",
@@ -5671,15 +5848,9 @@
    "industry"
   ],
   "designs": [],
-  "countries": [
-   "GB",
-   "IS"
-  ],
-  "regions": [
-   "uk-ireland",
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
