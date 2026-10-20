@@ -1,5 +1,124 @@
 [
  {
+  "id": "cl-d-73453634",
+  "kind": "docket",
+  "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
+  "court": "District Court, E.D. California",
+  "court_id": "caed",
+  "court_citation": "E.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-05",
+  "date_terminated": null,
+  "latest_activity": "2026-10-19",
+  "docket_number": "1:26-cv-04343",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/",
+  "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "documents": [
+   {
+    "date": "2026-10-19",
+    "description": "Notice (Other)",
+    "url": "https://www.courtlistener.com/docket/73453634/63/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-16",
+    "description": "TRANSCRIPT of Proceedings held on 10/9/2026, before District Judge Kirk E. Sherriff. MOTIONS HEARING filed by ECRO, Phone number 559-499-592",
+    "url": "https://www.courtlistener.com/docket/73453634/62/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-13",
+    "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Co",
+    "url": "https://www.courtlistener.com/docket/73453634/58/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-13",
+    "description": "Motion Hearing",
+    "url": ""
+   },
+   {
+    "date": "2026-10-13",
+    "description": "TRANSCRIPT REQUEST by North Fork Rancheria of Mono Indians for proceedings held on 10/09/2026 before Judge Kirk E. Sherriff. Court Reporter ",
+    "url": "https://www.courtlistener.com/docket/73453634/60/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-74988218",
+  "kind": "docket",
+  "case_name": "Myles v. MICHIGAN BUREAU OF STATE LOTTERY",
+  "court": "District Court, E.D. Michigan",
+  "court_id": "mied",
+  "court_citation": "E.D. Mich.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-19",
+  "date_terminated": null,
+  "latest_activity": "2026-10-19",
+  "docket_number": "2:26-cv-13991",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/74988218/myles-v-michigan-bureau-of-state-lottery/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-19",
+    "description": "Civil Case - Complaint",
+    "url": "https://www.courtlistener.com/docket/74988218/1/myles-v-michigan-bureau-of-state-lottery/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "lottery"
+  ],
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "cl-d-73458112",
+  "kind": "docket",
+  "case_name": "GRAND TRAVERSE BAND OF OTTAWA AND CHIPPEWA INDIANS v. NATIONAL INDIAN GAMING COMMISSION",
+  "court": "District Court, District of Columbia",
+  "court_id": "dcd",
+  "court_citation": "D.D.C.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-09",
+  "date_terminated": null,
+  "latest_activity": "2026-10-19",
+  "docket_number": "1:26-cv-02037",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73458112/grand-traverse-band-of-ottawa-and-chippewa-indians-v-national-indian/",
+  "snippet": "05:0706 Judicial Review of Agency Actions; nature of suit: 899 Administrative Procedure Act/Review or Appeal of Agency Decision",
+  "suit_nature": "899 Administrative Procedure Act/Review or Appeal of Agency Decision",
+  "documents": [
+   {
+    "date": "2026-10-19",
+    "description": "Order AND ~Util - Set/Reset Deadlines",
+    "url": ""
+   },
+   {
+    "date": "2026-10-16",
+    "description": "Proposed Briefing Schedule",
+    "url": "https://www.courtlistener.com/docket/73458112/16/grand-traverse-band-of-ottawa-and-chippewa-indians-v-national-indian/"
+   },
+   {
+    "date": "2026-10-16",
+    "description": "Notice (Other)",
+    "url": "https://www.courtlistener.com/docket/73458112/15/grand-traverse-band-of-ottawa-and-chippewa-indians-v-national-indian/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-16"
+ },
+ {
   "id": "cl-d-74979090",
   "kind": "docket",
   "case_name": "v. QCX LLC, d/b/a Polymarket US",
@@ -229,45 +348,6 @@
   "topics": [
    "prediction-markets"
   ],
-  "first_seen": "2026-10-16"
- },
- {
-  "id": "cl-d-73458112",
-  "kind": "docket",
-  "case_name": "GRAND TRAVERSE BAND OF OTTAWA AND CHIPPEWA INDIANS v. NATIONAL INDIAN GAMING COMMISSION",
-  "court": "District Court, District of Columbia",
-  "court_id": "dcd",
-  "court_citation": "D.D.C.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-06-09",
-  "date_terminated": null,
-  "latest_activity": "2026-10-16",
-  "docket_number": "1:26-cv-02037",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73458112/grand-traverse-band-of-ottawa-and-chippewa-indians-v-national-indian/",
-  "snippet": "05:0706 Judicial Review of Agency Actions; nature of suit: 899 Administrative Procedure Act/Review or Appeal of Agency Decision",
-  "suit_nature": "899 Administrative Procedure Act/Review or Appeal of Agency Decision",
-  "documents": [
-   {
-    "date": "2026-10-16",
-    "description": "Proposed Briefing Schedule",
-    "url": "https://www.courtlistener.com/docket/73458112/16/grand-traverse-band-of-ottawa-and-chippewa-indians-v-national-indian/"
-   },
-   {
-    "date": "2026-10-16",
-    "description": "Notice (Other)",
-    "url": "https://www.courtlistener.com/docket/73458112/15/grand-traverse-band-of-ottawa-and-chippewa-indians-v-national-indian/"
-   },
-   {
-    "date": "2026-10-01",
-    "description": "Set/Reset Deadlines",
-    "url": ""
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
   "first_seen": "2026-10-16"
  },
  {
@@ -807,45 +887,6 @@
   "topics": [
    "prediction-markets"
   ],
-  "first_seen": "2026-10-13"
- },
- {
-  "id": "cl-d-73453634",
-  "kind": "docket",
-  "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
-  "court": "District Court, E.D. California",
-  "court_id": "caed",
-  "court_citation": "E.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-06-05",
-  "date_terminated": null,
-  "latest_activity": "2026-10-13",
-  "docket_number": "1:26-cv-04343",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/",
-  "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-  "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-  "documents": [
-   {
-    "date": "2026-10-13",
-    "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Co",
-    "url": "https://www.courtlistener.com/docket/73453634/58/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-13",
-    "description": "Motion Hearing",
-    "url": ""
-   },
-   {
-    "date": "2026-10-13",
-    "description": "TRANSCRIPT REQUEST by North Fork Rancheria of Mono Indians for proceedings held on 10/09/2026 before Judge Kirk E. Sherriff. Court Reporter ",
-    "url": "https://www.courtlistener.com/docket/73453634/60/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
   "first_seen": "2026-10-13"
  },
  {

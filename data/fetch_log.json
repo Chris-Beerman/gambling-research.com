@@ -1,5 +1,5 @@
 {
- "started": "2026-10-19T13:07:39+00:00",
+ "started": "2026-10-20T11:31:50+00:00",
  "mode": "nightly",
  "sources": [
   {
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 215,
+   "items": 212,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": null,
    "warning": null
   },
@@ -62,7 +62,7 @@
    "id": "feed:addictive-behaviors",
    "kind": "papers",
    "ok": true,
-   "items": 46,
+   "items": 47,
    "error": null,
    "warning": null
   },
@@ -270,7 +270,7 @@
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 172,
+   "items": 178,
    "error": null,
    "warning": null
   },
@@ -286,51 +286,61 @@
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 72,
+   "items": 74,
    "error": null,
    "warning": null
   }
  ],
  "papers": {
-  "raw": 675,
-  "groups": 611,
+  "raw": 674,
+  "groups": 614,
   "added": 4,
-  "updated": 198,
-  "dropped_irrelevant": 409,
-  "total": 442
+  "updated": 196,
+  "dropped_irrelevant": 414,
+  "total": 446
  },
  "news": {
   "raw": 713,
-  "added": 53,
-  "dropped_irrelevant": 131,
-  "total": 754
+  "added": 61,
+  "dropped_irrelevant": 152,
+  "total": 791
  },
  "trials": {
   "raw": 889,
-  "added": 1,
-  "updated": 695,
+  "added": 0,
+  "updated": 696,
   "dropped_irrelevant": 192,
-  "removed": 1,
+  "removed": 0,
   "total": 696
  },
  "bills": {
-  "raw": 187,
-  "added": 0,
-  "updated": 50,
-  "dropped_irrelevant": 137,
-  "total": 521
+  "raw": 193,
+  "added": 1,
+  "updated": 51,
+  "dropped_irrelevant": 141,
+  "total": 522
  },
  "cases": {
-  "raw": 72,
-  "added": 2,
-  "updated": 9,
-  "dropped_irrelevant": 61,
-  "total": 55
+  "raw": 74,
+  "added": 1,
+  "updated": 11,
+  "dropped_irrelevant": 62,
+  "total": 56
  },
- "finished": "2026-10-19T13:14:49+00:00",
- "papers_total": 442,
- "news_total": 754,
+ "finished": "2026-10-20T11:40:49+00:00",
+ "papers_total": 446,
+ "news_total": 791,
  "history": [
+  {
+   "finished": "2026-10-20T11:40:49+00:00",
+   "mode": "nightly",
+   "added": 4,
+   "news_added": 61,
+   "trials_added": 0,
+   "bills_added": 1,
+   "cases_added": 1,
+   "failed": 0
+  },
   {
    "finished": "2026-10-19T13:14:49+00:00",
    "mode": "nightly",

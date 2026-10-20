@@ -1,5 +1,101 @@
 [
  {
+  "id": "osf:dyzrm",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Multi-method study of the dynamics and content of craving for gambling and video gaming: Large-scale online induction",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-04-13",
+  "last_updated": "2026-10-20",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Current models of behavioral addiction posit that the transition from recreational to problematic behavior is driven by a shift from goal-directed action to compulsion, a process centrally fueled by craving …",
+  "url": "https://osf.io/dyzrm/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Jose López-Guerrero",
+   "José C. Perales",
+   "Juan F. Navas",
+   "Ismael Muela",
+   "Francisco J. Rivero"
+  ],
+  "topics": [
+   "online-gambling",
+   "loot-boxes",
+   "policy",
+   "measurement",
+   "cognition"
+  ],
+  "designs": [
+   "survey",
+   "experiment"
+  ],
+  "first_seen": "2026-04-13",
+  "status_changed": null
+ },
+ {
+  "id": "osf:hg4a7",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Craving across the escalating impulsive/compulsive spectrum – a transdiagnostic approach",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-11-15",
+  "last_updated": "2026-10-20",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Increased responsiveness to reward-associated cues, expressed as cue-induced craving, is a hallmark of escalating behaviors such as alcohol use disorder (AUD), binge-eating disorder (BED), and gambling disorder (GD) …",
+  "url": "https://osf.io/hg4a7/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Erik Lukas Bode",
+   "Ferdinand Hiebsch",
+   "Samanda Krasniqi",
+   "Annika Rosenthal",
+   "Eva Friedel",
+   "Anna B. Konova",
+   "Miriam Sebold",
+   "Florian Schlagenhauf"
+  ],
+  "topics": [
+   "cognition",
+   "comorbidity",
+   "industry"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "first_seen": "2025-11-15",
+  "status_changed": null
+ },
+ {
   "id": "osf:6gq48",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -4673,54 +4769,6 @@
   "status_changed": null
  },
  {
-  "id": "osf:dyzrm",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Multi-method study of the dynamics and content of craving for gambling and video gaming: Large-scale online induction",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2026-04-13",
-  "last_updated": "2026-04-10",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "Current models of behavioral addiction posit that the transition from recreational to problematic behavior is driven by a shift from goal-directed action to compulsion, a process centrally fueled by craving …",
-  "url": "https://osf.io/dyzrm/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Jose López-Guerrero",
-   "José C. Perales",
-   "Juan F. Navas",
-   "Ismael Muela",
-   "Francisco J. Rivero"
-  ],
-  "topics": [
-   "online-gambling",
-   "loot-boxes",
-   "policy",
-   "measurement",
-   "cognition"
-  ],
-  "designs": [
-   "survey",
-   "experiment"
-  ],
-  "first_seen": "2026-04-13",
-  "status_changed": null
- },
- {
   "id": "osf:ejkvp",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -7356,51 +7404,6 @@
   ],
   "designs": [],
   "first_seen": "2025-11-17",
-  "status_changed": null
- },
- {
-  "id": "osf:hg4a7",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Craving across the escalating impulsive/compulsive spectrum – a transdiagnostic approach",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2025-11-15",
-  "last_updated": "2025-11-15",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "Increased responsiveness to reward-associated cues, expressed as cue-induced craving, is a hallmark of escalating behaviors such as alcohol use disorder (AUD), binge-eating disorder (BED), and gambling disorder (GD) …",
-  "url": "https://osf.io/hg4a7/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Erik Lukas Bode",
-   "Samanda Krasniqi",
-   "Eva Friedel",
-   "Miriam Sebold",
-   "Florian Schlagenhauf"
-  ],
-  "topics": [
-   "cognition",
-   "comorbidity",
-   "industry"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "first_seen": "2025-11-15",
   "status_changed": null
  },
  {

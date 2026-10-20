@@ -1,5 +1,102 @@
 [
  {
+  "id": "ocd-bill/71749943-407b-4b9a-9143-e8fa6d7155f4",
+  "level": "state",
+  "jurisdiction": "Pennsylvania",
+  "jurisdiction_code": "pa",
+  "session": "2025-2026",
+  "identifier": "HB 2862",
+  "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in fantasy contests, further providing for general and specific powers of board; in interactive gaming, further providing for regulatory authority; in sports wagering, further providing for regulatory authority; and, in administration and enforcement, further providing for prohibited acts and penalties.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joe Webster",
+   "Jeanne Mcneill",
+   "Benjamin Sanchez",
+   "Jamie Flick",
+   "Christina Sappey",
+   "Ben Waxman"
+  ],
+  "introduced": "2026-10-19",
+  "latest_action_date": "2026-10-19",
+  "latest_action": "Referred to Gaming Oversight",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/pa/bills/2025-2026/HB2862/",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/hb2862",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "updated": "2026-10-20",
+  "first_seen": "2026-10-20",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3d6ab07a-80cd-4caf-b39f-a734b32f9d74",
+  "level": "state",
+  "jurisdiction": "New Jersey",
+  "jurisdiction_code": "nj",
+  "session": "222",
+  "identifier": "A 5697",
+  "title": "Dedicates portion of funds in Casino Revenue Fund to DHS for centers providing certain services to State residents with disabilities.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Pintor Marin, Eliana",
+   "Murphy, Carol A."
+  ],
+  "introduced": "2026-10-19",
+  "latest_action_date": "2026-10-19",
+  "latest_action": "Introduced, Referred to Assembly Tourism, Gaming and the Arts Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nj/bills/222/A5697/",
+  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5697",
+  "topics": [
+   "casino",
+   "industry"
+  ],
+  "updated": "2026-10-20",
+  "first_seen": "2026-10-17",
+  "stage_changed": "2026-10-20",
+  "previous_stage": "introduced"
+ },
+ {
+  "id": "ocd-bill/d6da378a-f159-4a7d-a280-c081fbfc451b",
+  "level": "state",
+  "jurisdiction": "New Jersey",
+  "jurisdiction_code": "nj",
+  "session": "222",
+  "identifier": "A 5666",
+  "title": "Upgrades trespass in or upon casino gaming property to fourth degree crime.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rowan, Maureen"
+  ],
+  "introduced": "2026-10-19",
+  "latest_action_date": "2026-10-19",
+  "latest_action": "Introduced, Referred to Assembly Tourism, Gaming and the Arts Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nj/bills/222/A5666/",
+  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5666",
+  "topics": [
+   "casino"
+  ],
+  "updated": "2026-10-20",
+  "first_seen": "2026-10-17",
+  "stage_changed": "2026-10-20",
+  "previous_stage": "introduced"
+ },
+ {
   "id": "ocd-bill/9a14df7d-0ed4-458b-aaf3-7079ccb0305f",
   "level": "state",
   "jurisdiction": "New York",
@@ -41,8 +138,12 @@
   "classification": "bill",
   "subjects": [],
   "sponsors": [
-   "Miembros PNP",
-   "Carlos J. Méndez Núñez"
+   "José E. Torres Zamora",
+   "Carmen Medina Calderón",
+   "Ensol Rodríguez Torres",
+   "Tatiana Pérez Ramírez",
+   "Eddie Charbonier Chinea",
+   "Sergio E. Estévez Vélez"
   ],
   "introduced": "2026-10-15",
   "latest_action_date": "2026-10-15",
@@ -55,7 +156,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-17",
+  "updated": "2026-10-19",
   "first_seen": "2026-10-15",
   "stage_changed": null
  },
@@ -1682,7 +1783,7 @@
    "prediction-markets",
    "industry"
   ],
-  "updated": "2026-09-11",
+  "updated": "2026-10-20",
   "first_seen": "2026-06-28",
   "stage_changed": null
  },
@@ -17054,66 +17155,6 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2024-12-05",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/3d6ab07a-80cd-4caf-b39f-a734b32f9d74",
-  "level": "state",
-  "jurisdiction": "New Jersey",
-  "jurisdiction_code": "nj",
-  "session": "222",
-  "identifier": "A 5697",
-  "title": "Dedicates portion of funds in Casino Revenue Fund to DHS for centers providing certain services to State residents with disabilities.",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [],
-  "sponsors": [
-   "Pintor Marin, Eliana",
-   "Murphy, Carol A."
-  ],
-  "introduced": null,
-  "latest_action_date": null,
-  "latest_action": "",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/nj/bills/222/A5697/",
-  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5697",
-  "topics": [
-   "casino",
-   "industry"
-  ],
-  "updated": "2026-10-16",
-  "first_seen": "2026-10-17",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/d6da378a-f159-4a7d-a280-c081fbfc451b",
-  "level": "state",
-  "jurisdiction": "New Jersey",
-  "jurisdiction_code": "nj",
-  "session": "222",
-  "identifier": "A 5666",
-  "title": "Upgrades trespass in or upon casino gaming property to fourth degree crime.",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [],
-  "sponsors": [
-   "Rowan, Maureen"
-  ],
-  "introduced": null,
-  "latest_action_date": null,
-  "latest_action": "",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/nj/bills/222/A5666/",
-  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5666",
-  "topics": [
-   "casino"
-  ],
-  "updated": "2026-10-16",
-  "first_seen": "2026-10-17",
   "stage_changed": null
  },
  {

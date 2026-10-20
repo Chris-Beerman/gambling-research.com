@@ -1,5 +1,177 @@
 [
  {
+  "id": "doi:10.1007/s10899-026-10560-w",
+  "doi": "10.1007/s10899-026-10560-w",
+  "pmid": "42895599",
+  "pmcid": null,
+  "openalex": "W7222980364",
+  "title": "The Prevalence of Gambling Advertising during a Matchday of the German Bundesliga: A Frequency and Content Analysis of Live TV Coverage, Sport Highlight Programmes and Social Media",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Johannes Singer",
+   "Steffen Otterbach"
+  ],
+  "published": "2026-10-19",
+  "year": 2026,
+  "created": "2026-10-19",
+  "first_seen": "2026-10-20",
+  "summary": "Abstract Gambling advertising is prevalent in sports, especially football. Sponsoring teams, leagues, and national and international competitions is an effective marketing strategy for gambling providers to reach a wide audience. This ‘gamblification’ of football poses risks to public health, particularly for vulnerable groups …",
+  "url": "https://doi.org/10.1007/s10899-026-10560-w",
+  "oa_url": "https://doi.org/10.1007/s10899-026-10560-w",
+  "sources": [
+   "pubmed",
+   "openalex",
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth",
+   "advertising",
+   "policy",
+   "prevalence",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [
+   "DE",
+   "ZA"
+  ],
+  "regions": [
+   "europe",
+   "africa"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/09291016.2026.2748868",
+  "doi": "10.1080/09291016.2026.2748868",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222939143",
+  "title": "Online gambling behavior among medical students: the relationship with chronotype and social anxiety",
+  "journal": "Biological Rhythm Research",
+  "authors": [
+   "Rahime Aslankoç",
+   "Elif Selin Karanfil",
+   "Süleyman Mert Çetinkaya",
+   "Mete Yılmaz",
+   "Ece Güngör",
+   "Sevim Öçal"
+  ],
+  "published": "2026-10-19",
+  "year": 2026,
+  "created": "2026-10-20",
+  "first_seen": "2026-10-20",
+  "summary": "",
+  "url": "https://doi.org/10.1080/09291016.2026.2748868",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "comorbidity"
+  ],
+  "designs": [],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.52436/1.jutif.2026.7.5.5739",
+  "doi": "10.52436/1.jutif.2026.7.5.5739",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222926746",
+  "title": "Public Sentiment Analysis of Online Gambling Using Naïve Bayes and SVM on TikTok Social Media Data",
+  "journal": "Jurnal Teknik Informatika",
+  "authors": [
+   "Agung Raditya",
+   "Jasmir Jasmir",
+   "Effiyaldi Effiyaldi"
+  ],
+  "published": "2026-10-10",
+  "year": 2026,
+  "created": "2026-10-20",
+  "first_seen": "2026-10-20",
+  "summary": "This study investigates public sentiment toward online gambling on TikTok social media and evaluates the performance of two machine learning algorithms, Multinomial Naïve Bayes and Support Vector Machine (SVM), for sentiment classification …",
+  "url": "https://doi.org/10.52436/1.jutif.2026.7.5.5739",
+  "oa_url": "https://doi.org/10.52436/1.jutif.2026.7.5.5739",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "measurement"
+  ],
+  "designs": [
+   "experiment",
+   "commentary"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.52364/jsmi.v4i2.50",
+  "doi": "10.52364/jsmi.v4i2.50",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222923792",
+  "title": "DILEMA ETIKA SPONSORSHIP DI LINGKUNGAN PERGURUAN TINGGI: ANALISIS KASUS PROMOSI JUDI ONLINE MAHASISWA DI SINGARAJA",
+  "journal": "JURNAL SENPLING MULTIDISIPLIN INDONESIA",
+  "authors": [
+   "Ni Wayan Widya Puspitadewi",
+   "Ni Made Anintia Trisna Sari",
+   "Usti Putu Meivi Jenaki Darmayani",
+   "Feby Nur Azizah",
+   "I Kadek Riski Bayu Brawida",
+   "Ni Luh Intan Jayanti",
+   "Bilqis Ayu Ramadhani"
+  ],
+  "published": "2026-09-29",
+  "year": 2026,
+  "created": "2026-10-20",
+  "first_seen": "2026-10-20",
+  "summary": "This study aims to analyze ethical dilemmas in sponsorship practices among university students, focusing on the case of online gambling promotions in Singaraja. The rapid development of digital technology has encouraged students to utilize social media not only as a means of communication but also as a source of income through sponsorship activities …",
+  "url": "https://doi.org/10.52364/jsmi.v4i2.50",
+  "oa_url": "https://doi.org/10.52364/jsmi.v4i2.50",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "advertising",
+   "policy",
+   "industry"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1080/15332640.2026.2741047",
   "doi": "10.1080/15332640.2026.2741047",
   "pmid": "42893378",
@@ -22,8 +194,8 @@
   "url": "https://doi.org/10.1080/15332640.2026.2741047",
   "oa_url": null,
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -106,7 +278,7 @@
   "first_seen": "2026-10-19",
   "summary": "This study aimed to examine the associations of borderline personality traits and impulsivity with problem gambling severity in patients with gambling disorder and their relative contributions when considered together.Method: This retrospective, cross-sectional study included 60 patients aged 18–65 with gambling disorder evaluated at psychiatry outpatient …",
   "url": "https://doi.org/10.18863/pgy.2010753",
-  "oa_url": "https://doi.org/10.18863/pgy.2010753",
+  "oa_url": "https://dergipark.org.tr/en/download/article-file/6300128",
   "sources": [
    "openalex"
   ],
@@ -196,7 +368,7 @@
   "first_seen": "2026-10-18",
   "summary": "Paid loot boxes and social casino mechanics are gambling-like products inside video games that provide random rewards in exchange for real-world money. These products may cause harm to vulnerable consumers, e.g., children and adults experiencing gambling harms …",
   "url": "https://doi.org/10.1159/ear/acrag008",
-  "oa_url": "https://doi.org/10.1159/ear/acrag008",
+  "oa_url": "https://karger.com/ear/article-pdf/doi/10.1159/ear/acrag008/4595707/000554935.pdf",
   "sources": [
    "openalex",
    "pubmed"
@@ -861,6 +1033,41 @@
   "retracted": false
  },
  {
+  "id": "doi:10.55633/s3me/036.2026",
+  "doi": "10.55633/s3me/036.2026",
+  "pmid": "42878301",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Sports betting, online gambling, and suicidal behavior: a relationship to consider in emergency departments",
+  "journal": "Emergencias",
+  "authors": [
+   "Manuel Isorna Folgar",
+   "Francisco Arias Horcajadas"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-15",
+  "first_seen": "2026-10-16",
+  "summary": "",
+  "url": "https://doi.org/10.55633/s3me/036.2026",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "comorbidity"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": "spa",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.3928/02793695-20261008-01",
   "doi": "10.3928/02793695-20261008-01",
   "pmid": "42879692",
@@ -902,41 +1109,6 @@
    "asia"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.55633/s3me/036.2026",
-  "doi": "10.55633/s3me/036.2026",
-  "pmid": "42878301",
-  "pmcid": null,
-  "openalex": null,
-  "title": "Sports betting, online gambling, and suicidal behavior: a relationship to consider in emergency departments",
-  "journal": "Emergencias",
-  "authors": [
-   "Manuel Isorna Folgar",
-   "Francisco Arias Horcajadas"
-  ],
-  "published": "2026-10-19",
-  "year": 2026,
-  "created": "2026-10-15",
-  "first_seen": "2026-10-16",
-  "summary": "",
-  "url": "https://doi.org/10.55633/s3me/036.2026",
-  "oa_url": null,
-  "sources": [
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "sports-betting",
-   "online-gambling",
-   "comorbidity"
-  ],
-  "designs": [],
-  "countries": [],
-  "regions": [],
-  "language": "spa",
   "relevance": "high",
   "retracted": false
  },
@@ -1354,8 +1526,7 @@
   "countries": [
    "KZ",
    "RU",
-   "PK",
-   "TH"
+   "PK"
   ],
   "regions": [
    "asia",
@@ -2473,7 +2644,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-19",
+  "published": "2026-10-20",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -3903,7 +4074,7 @@
   "year": 2026,
   "created": "2026-10-07",
   "first_seen": "2026-10-07",
-  "summary": "Abstract Digital therapeutics for mental health often face low patient engagement, which limits their clinical impact. Interventions that deliver treatment using a video game medium may improve engagement and therapeutic efficacy, but the potential emergence of gaming-related problems remains a safety question and a concern among clinical stakeholders …",
+  "summary": "Digital therapeutics for mental health often face low patient engagement, which limits their clinical impact. Interventions that deliver treatment using a video game medium may improve engagement and therapeutic efficacy, but the potential emergence of gaming-related problems remains a safety question and a concern among clinical stakeholders …",
   "url": "https://doi.org/10.1016/j.invent.2026.101000",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13639965/",
   "sources": [
@@ -3924,12 +4095,12 @@
    "longitudinal"
   ],
   "countries": [
-   "FI",
-   "GB"
+   "GB",
+   "FI"
   ],
   "regions": [
-   "europe",
-   "uk-ireland"
+   "uk-ireland",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -3980,14 +4151,12 @@
   "countries": [
    "ES",
    "CA",
-   "AU",
-   "US"
+   "AU"
   ],
   "regions": [
    "europe",
    "canada",
-   "australia-nz",
-   "us"
+   "australia-nz"
   ],
   "language": "en",
   "relevance": "high",
@@ -4225,16 +4394,16 @@
   "title": "Nudging the uptake of responsible gambling tools among land-based casino players: A randomized controlled trial assessing the utility of incentivization",
   "journal": "Psychology of Addictive Behaviors",
   "authors": [
-   "Michael J A Wohl",
-   "Amy C Ortis",
-   "Christopher G Davis",
+   "Michael J. A. Wohl",
+   "Amy Ortis",
+   "Christopher G. Davis",
    "Nassim Tabri"
   ],
   "published": "2026-10-05",
   "year": 2026,
-  "created": "2026-10-05",
+  "created": "2026-10-06",
   "first_seen": "2026-10-05",
-  "summary": "To test whether a modest incentive increases uptake of a responsible gambling deposit-limit tool among land-based casino players using a digital wallet for electronic gaming machine play and whether reward sensitivity or disordered gambling symptomatology moderates this effect. Method: Participants were 314 U.S …",
+  "summary": "To test whether a modest incentive increases uptake of a responsible gambling deposit-limit tool among land-based casino players using a digital wallet for electronic gaming machine play and whether reward sensitivity or disordered gambling symptomatology moderates this effect …",
   "url": "https://doi.org/10.1037/adb0001193",
   "oa_url": "https://doi.org/10.1037/adb0001193",
   "sources": [
@@ -4274,16 +4443,16 @@
   "journal": "European Archives of Psychiatry and Clinical Neuroscience",
   "authors": [
    "Lisa Jil Krause",
-   "Ronald Fischer",
+   "Ronald D. Fischer",
    "Falk Kiefer",
    "Tagrid Leménager",
    "Patrick Bach"
   ],
   "published": "2026-10-05",
   "year": 2026,
-  "created": "2026-10-05",
+  "created": "2026-10-06",
   "first_seen": "2026-10-05",
-  "summary": "Rationale: Over the last 30 years, the global incidence and prevalence of gambling disorder (GD) have risen, with particularly high risk associated with slot machine gambling. Win-contingent audiovisual stimuli are considered a key mechanism that may promote risky decision-making during gambling …",
+  "summary": "RATIONALE: Over the last 30 years, the global incidence and prevalence of gambling disorder (GD) have risen, with particularly high risk associated with slot machine gambling. Win-contingent audiovisual stimuli are considered a key mechanism that may promote risky decision-making during gambling …",
   "url": "https://doi.org/10.1007/s00406-026-02396-7",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s00406-026-02396-7.pdf",
   "sources": [
