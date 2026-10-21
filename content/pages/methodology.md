@@ -28,6 +28,8 @@ A record is kept when its title or abstract contains at least one strong gamblin
 
 Duplicates are merged by DOI, then by PubMed ID, then by normalised title. When sources disagree, PubMed's fields win, then Crossref's, then OpenAlex's; the free-full-text link comes from whichever source has one.
 
+A few records are entered by hand, in [`content/curated.yml`](https://github.com/Chris-Beerman/gambling-research.com/blob/main/content/curated.yml): preprints on servers the automatic queries do not cover (PsyArXiv, OSF Preprints), and the editor's own studies. Hand-entered records merge with the automatic sources in the usual way and their checked fields take priority. The editor's studies are listed under the same rules as every other paper, are never ranked or placed ahead of other work, and carry the label *by the editor* wherever they appear, including the [digest](/digest/) and the feeds; the label is also applied automatically when the editor's name appears in an author list from any source. The [About page](/about/#editor) states the editor's interests.
+
 ## Dates
 
 Two dates appear on every entry. The date in the margin is when the study entered this index, which is the useful "new" date: journals publish online first, then in an issue, and databases index weeks later. The publication date after the journal name is the earliest date the sources report. The first build of the index used the sources' own dates to backfill, so early entries carry an approximate "added" date.

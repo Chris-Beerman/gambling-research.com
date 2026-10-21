@@ -42,7 +42,11 @@ summary: One-sentence deck shown on the home page and in the feed.
 Body in Markdown. Link each study to its publisher record.
 ```
 
-`data/weekly/latest.json` holds a ranked shortlist of the past seven days (studies and policy news) to draft from. A draft with `draft: true` in its front matter is not published.
+`data/weekly/latest.json` holds a ranked shortlist of the past seven days (studies and policy news) to draft from. A draft with `draft: true` in its front matter is not published. A candidate with `editor_authored: true` is the editor's own study: if it is mentioned, say so in the text ("the editor's own preregistered study…"); it is never the lead item.
+
+## Adding a record by hand (preprints, the editor's own papers)
+
+Edit `content/curated.yml` (format in `pipeline/sources/curated.py`). Every fetch reads it; to publish an entry without waiting for the night, run the workflow with *only* set to `curated`. A record with `editor_authored: true`, or whose author list contains the editor's name, is labelled *by the editor* on every page and in the feeds. It is listed under the same rules as every other paper. Keep `draft: true` on an entry until the DOI and date are known.
 
 ## Settings worth knowing
 

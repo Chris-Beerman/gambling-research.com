@@ -6,6 +6,7 @@ record what happened in data/fetch_log.json.
     python -m pipeline.fetch --backfill # first run / rebuild: wider window, first_seen from source dates
     python -m pipeline.fetch --only pubmed,news
     python -m pipeline.fetch --only trials,bills,courts
+    python -m pipeline.fetch --only curated   # just re-read content/curated.yml
 """
 from __future__ import annotations
 
@@ -18,7 +19,7 @@ from .common import DATA_DIR, load_json, load_yaml, now_utc_iso, save_json, sess
 from .normalize import Taxonomy, update_index, update_news
 from .sources import bills as bills_src
 from .sources import courts as courts_src
-from .sources import crossref, feeds, openalex, pubmed
+from .sources import crossref, curated, feeds, openalex, pubmed
 from .sources import trials as trials_src
 from .trackers import update_bills, update_cases, update_trials
 
@@ -87,6 +88,11 @@ def run(backfill: bool = False, only: set[str] | None = None) -> int:
         for feed in sources_cfg.get("news_feeds", []):
             if feed.get("enabled", True):
                 raw_news += record(f"news:{feed['id']}", "news", lambda f=feed: feeds.fetch_news_feed(s, f))
+    if want("curated") and curated.CURATED_PATH.exists():
+        # Hand-entered records (content/curated.yml): preprints the automatic
+        # sources do not cover and the editor's own studies. Read every run so
+        # that an edit to the file reaches the index on the next build.
+        raw_papers += record("curated", "papers", lambda w: curated.load(warnings=w), with_warnings=True)
 
     tcfg = sources_cfg.get("trials", {})
     refreshed: set[str] = set()  # registries fetched in full this run
@@ -168,7 +174,7 @@ def run(backfill: bool = False, only: set[str] | None = None) -> int:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--backfill", action="store_true")
-    ap.add_argument("--only", default="", help="comma-separated: pubmed,openalex,crossref,journals,news,trials,bills,courts")
+    ap.add_argument("--only", default="", help="comma-separated: pubmed,openalex,crossref,journals,news,curated,trials,bills,courts")
     args = ap.parse_args()
     only = {x.strip() for x in args.only.split(",") if x.strip()} or None
     return run(backfill=args.backfill, only=only)

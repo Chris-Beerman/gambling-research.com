@@ -10,7 +10,7 @@ on:
         type: boolean
         default: false
       only:
-        description: "Comma-separated sources to run (pubmed,openalex,crossref,journals,news,trials,bills,courts); empty = all"
+        description: "Comma-separated sources to run (pubmed,openalex,crossref,journals,news,curated,trials,bills,courts); empty = all"
         type: string
         default: ""
   push:
