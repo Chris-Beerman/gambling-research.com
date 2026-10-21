@@ -67,7 +67,7 @@ def write_candidates(papers: list[dict], news: list[dict], today: dt.date, days:
         "window": {"from": since, "to": today.isoformat()},
         "new_studies": len(week),
         "candidates": [
-            {k: p.get(k) for k in ("id", "title", "journal", "authors", "published", "first_seen", "summary", "url", "oa_url", "topics", "designs", "regions", "score", "why")}
+            {k: p.get(k) for k in ("id", "title", "journal", "authors", "published", "first_seen", "summary", "url", "oa_url", "topics", "designs", "regions", "score", "why", "editor_authored", "note")}
             for p in top
         ],
         "news": [{k: n.get(k) for k in ("title", "url", "source", "published", "primary", "summary")} for n in wk_news[:60]],

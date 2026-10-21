@@ -3,10 +3,11 @@
   <time class="entry-date" datetime="{{ p[date_field] }}" title="{% if date_field == 'first_seen' %}Added to the index {{ p.first_seen|fmt_date('long') }}{% else %}{{ p[date_field]|fmt_date('long') }}{% endif %}">{{ p[date_field]|fmt_date('short') }}</time>
   <div class="entry-body">
     <h3 class="entry-title"><a href="{{ p.url }}" rel="noopener">{{ p.title }}</a></h3>
-    <p class="entry-meta">{% if p.journal %}{{ p.journal }}{% else %}{{ (p.type or 'article')|replace('-', ' ')|capitalize }}{% endif %}{% if p.published %}, {{ p.published|fmt_date }}{% endif %}.{% if p.authors %} {{ p.authors|authors_line }}.{% endif %}{% if p.regions %} {{ p.regions|map('region_label')|join(', ') }}.{% endif %}{% if p.language and p.language != 'en' %} In {{ p.language|upper }}.{% endif %}{% if p.retracted %} <strong>Retracted.</strong>{% endif %}</p>
+    <p class="entry-meta">{% if p.journal %}{{ p.journal }}{% else %}{{ (p.type or 'article')|replace('-', ' ')|capitalize }}{% endif %}{% if p.journal and p.type == 'preprint' %} (preprint){% endif %}{% if p.published %}, {{ p.published|fmt_date }}{% endif %}.{% if p.authors %} {{ p.authors|authors_line }}.{% endif %}{% if p.regions %} {{ p.regions|map('region_label')|join(', ') }}.{% endif %}{% if p.language and p.language != 'en' %} In {{ p.language|upper }}.{% endif %}{% if p.note %} {{ p.note }}{% endif %}{% if p.retracted %} <strong>Retracted.</strong>{% endif %}</p>
     {% if show_summary and p.summary %}<p class="entry-summary">{{ p.summary }}</p>{% endif %}
-    {% if p.oa_url or p.topics or p.designs %}
+    {% if p.oa_url or p.topics or p.designs or p.editor_authored %}
     <p class="entry-tags">
+      {% if p.editor_authored %}<a class="tag tag-editor" href="/about/#editor" title="Written by this index's editor. Listed under the same rules as every other study; see the interests statement on the About page.">by the editor</a>{% endif %}
       {% if p.oa_url %}<a class="tag tag-oa" href="{{ p.oa_url }}" rel="noopener">free full text</a>{% endif %}
       {% for t in p.topics[:4] %}<a class="tag" href="/research/topics/{{ t }}/">{{ t|topic_label }}</a>{% endfor %}
       {% for x in p.designs[:2] %}<span class="tag tag-design">{{ x|design_label }}</span>{% endfor %}

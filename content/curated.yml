@@ -1,0 +1,33 @@
+# Hand-curated records. Read on every fetch (nightly, or "Run workflow" with
+# only=curated). Each record merges with the automatic sources by DOI or title;
+# the fields here take priority. See pipeline/sources/curated.py for the fields.
+#
+# Policy (About page): the editor's own studies enter the index under the same
+# rules as every other paper and carry the label "by the editor". Set
+# editor_authored: true on those; the label is also applied automatically when
+# the editor's name appears in a record's author list.
+#
+# A record with `draft: true` is ignored until the line is removed.
+
+records:
+  - draft: true                      # remove this line once the preprint is posted
+    doi:                             # PsyArXiv/OSF DOI, e.g. 10.31234/osf.io/xxxxx
+    title: "Do losses stop mattering as betting escalates? A preregistered natural experiment in prediction-market sports betting"
+    authors: [Chris Beerman]
+    journal: PsyArXiv
+    type: preprint
+    published:                       # date the preprint went public, YYYY-MM-DD
+    oa_url:                          # the preprint's page, e.g. https://osf.io/preprints/psyarxiv/xxxxx
+    editor_authored: true
+    note: "Preprint of a manuscript under review at the Journal of Gambling Studies; preregistered at osf.io/46c8k."
+    topics: [prediction-markets, sports-betting, online-gambling]
+    designs: [behavioral-data, longitudinal]
+    abstract: >
+      Chasing losses is a diagnostic criterion for gambling disorder, and clinical accounts hold that the brake a loss
+      normally applies wears out as betting escalates. This preregistered study tests that claim with 210,460
+      near-coin-flip outcomes in single-game sports markets on Polymarket, where the contract price makes a loss close
+      to a random draw given its price. Within account, a loss lowered the probability of betting again within 24 hours
+      by 3.7 percentage points relative to a win, lengthened the wait before the next purchase by 2.6 hours and reduced
+      next-day purchases and volume by 6 to 8 percent. The brake did not weaken as the same account's betting intensified
+      (the preregistered primary hypothesis was not supported, with an interval that rules out more than a small
+      attenuation), and losses were not followed by riskier contracts.

@@ -132,3 +132,59 @@ def test_helpers():
     assert norm_doi("https://doi.org/10.1111/ADD.70369.") == "10.1111/add.70369"
     s = summarize("Background: First sentence here. Second sentence is longer and adds detail. Third sentence should be cut when the cap is small.", max_chars=80)
     assert s.startswith("First sentence here.") and s.endswith("…")
+
+
+# ---- hand-curated records and the editor label --------------------------
+def test_curated_load_and_editor_label(tmp_path):
+    from pipeline.normalize import is_editor_author
+    from pipeline.sources import curated
+
+    assert is_editor_author(["Chris Beerman"], "Chris Beerman")
+    assert is_editor_author(["Beerman C", "Smith A"], "Chris Beerman")
+    assert is_editor_author(["Beerman, Chris P."], "Chris Beerman")
+    assert not is_editor_author(["Jane Beerman"], "Chris Beerman")
+    assert not is_editor_author(["Ann Smith"], "Chris Beerman")
+    assert not is_editor_author(["Chris Beerman"], None)
+
+    p = tmp_path / "curated.yml"
+    p.write_text(
+        "records:\n"
+        "  - draft: true\n    title: Not yet\n    doi: 10.31234/osf.io/draft1\n"
+        "  - title: Missing a link\n"
+        "  - doi: 10.31234/osf.io/abcde\n    title: Do losses stop mattering as betting escalates?\n"
+        "    authors: [Chris Beerman]\n    journal: PsyArXiv\n    type: preprint\n    published: 2026-11-06\n"
+        "    editor_authored: true\n    note: Under review.\n    topics: [prediction-markets, nonsense-topic]\n"
+        "    abstract: Losses on near-coin-flip sports contracts on a prediction market act as a brake on further betting.\n",
+        encoding="utf-8",
+    )
+    w: list[str] = []
+    recs = curated.load(p, warnings=w)
+    assert len(recs) == 1 and len(w) == 1
+    r = recs[0]
+    assert r["source"] == "curated" and r["doi"] == "10.31234/osf.io/abcde" and r["url"] == "https://doi.org/10.31234/osf.io/abcde"
+    assert r["editor_authored"] and r["type"] == "preprint"
+
+    papers, stats = update_index([], recs, TAX, TODAY, backfill=False)
+    assert stats["added"] == 1
+    rec = papers[0]
+    assert rec["editor_authored"] is True
+    assert rec["relevance"] == "high"
+    assert rec["journal"] == "PsyArXiv" and rec["note"] == "Under review."
+    assert "prediction-markets" in rec["topics"] and "nonsense-topic" not in rec["topics"]
+    assert rec["sources"] == ["curated"]
+
+    # The same paper arriving later from PubMed (journal version, same DOI)
+    # keeps the label and the hand-entered note.
+    pub = dict(r, source="pubmed", pmid="42424242", journal="Journal of gambling studies", type="article", editor_authored=False, note=None, topics=[])
+    papers2, stats2 = update_index(papers, [pub], TAX, TODAY, backfill=False)
+    assert stats2["updated"] == 1 and len(papers2) == 1
+    assert papers2[0]["editor_authored"] is True and papers2[0]["note"] == "Under review."
+    assert papers2[0]["journal"] == "Journal of Gambling Studies"
+
+    # Automatic labelling from the author list alone.
+    auto = dict(pub, doi="10.1007/s10899-026-10000-0", pmid="4343434", title="The help-seeking clock", authors=["Chris Beerman"])
+    papers3, _ = update_index([], [auto], TAX, TODAY, backfill=False)
+    assert papers3[0]["editor_authored"] is True
+    other = dict(auto, doi="10.1007/s10899-026-10000-1", pmid="4343435", authors=["Ann Smith"])
+    papers4, _ = update_index([], [other], TAX, TODAY, backfill=False)
+    assert papers4[0]["editor_authored"] is False

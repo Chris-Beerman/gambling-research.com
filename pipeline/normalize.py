@@ -51,6 +51,7 @@ class Taxonomy:
         self.cfg = cfg
         site = load_yaml("site.yml")
         self.journals = JournalNames(list(site.get("core_journals", [])) + list(site.get("journal_names", [])))
+        self.editor_name = (site.get("editor") or {}).get("name")
         rel = cfg.get("relevance", {})
         self.strong = [re.compile(p, re.I) for p in rel.get("strong", [])]
         self.weak = [re.compile(p, re.I) for p in rel.get("weak", [])]
@@ -177,11 +178,44 @@ def key_for(rec: dict) -> str:
     return "title:" + stable_id(t[:200])
 
 
-SOURCE_PRIORITY = {"pubmed": 3, "crossref": 2, "openalex": 1}
+SOURCE_PRIORITY = {"curated": 4, "pubmed": 3, "crossref": 2, "openalex": 1}
 
 
 def _prio(source: str) -> int:
     return SOURCE_PRIORITY.get(source.split(":")[0], 0)
+
+
+def _name_parts(name: str) -> tuple[str, str]:
+    """(family name, first initial), lower-cased, from 'Chris Beerman',
+    'Beerman, Chris P.' or the PubMed-style 'Beerman C'."""
+    name = name.strip()
+    if "," in name:
+        fam, given = name.split(",", 1)
+    else:
+        parts = name.split()
+        if not parts:
+            return "", ""
+        if len(parts) >= 2 and parts[-1].isupper() and len(parts[-1]) <= 3 and len(parts[0]) > 1:
+            fam, given = " ".join(parts[:-1]), parts[-1]
+        else:
+            fam, given = parts[-1], (parts[0] if len(parts) > 1 else "")
+    return fam.strip().lower(), given.strip()[:1].lower()
+
+
+def is_editor_author(authors: list[str], editor_name: str | None) -> bool:
+    """True when the site's editor appears in the author list (family name and
+    first initial), so that the editor's own studies are labelled wherever they
+    come from, not only when entered by hand."""
+    if not editor_name:
+        return False
+    fam, ini = _name_parts(editor_name)
+    if not fam:
+        return False
+    for a in authors or []:
+        f, i = _name_parts(a)
+        if f == fam and (not ini or not i or i == ini):
+            return True
+    return False
 
 
 def _prefix_match(nt: str, titles: dict[str, str]) -> str | None:
@@ -244,6 +278,11 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
     abstract = max((r.get("abstract") or "" for r in recs), key=len)
     text = f"{title}. {abstract}"
     rel, title_hit, abstract_hits = tax.assess(title, abstract)
+    curated = "curated" in group["sources"]
+    if curated:
+        # A hand-entered record was chosen by the editor; it is listed in full
+        # even when the relevance rules would have judged it borderline.
+        rel = "high"
     if rel is None:
         return None
     # OpenAlex's search is loose and its corpus includes repository spam. A record
@@ -260,6 +299,12 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
         affs = [a for r in recs for a in (r.get("affiliations") or [])]
         countries = tax.countries_from_affiliations(affs)
     topics, designs = tax.tag(text)
+    for r in recs:  # hand-entered topic tags are added to the rule-based ones; hand-entered designs replace them
+        for t in r.get("topics") or []:
+            if t not in topics and any(t == s for s, _, _ in tax.topics):
+                topics.append(t)
+        if r.get("designs"):
+            designs = [x for x in r["designs"] if any(x == s for s, _, _ in tax.designs)] or designs
     rtype = first("type") or "article"
     if rtype in ("letter", "editorial") and "commentary" not in designs:
         designs.append("commentary")
@@ -304,6 +349,10 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
         "language": first("language"),
         "relevance": rel,
         "retracted": any(r.get("retracted") for r in recs),
+        # The editor's own studies are listed under the same rules as every
+        # other record and labelled, whichever source supplied them.
+        "editor_authored": any(r.get("editor_authored") for r in recs) or is_editor_author(first("authors") or [], tax.editor_name),
+        "note": first("note"),
     }
     return rec
 
@@ -343,9 +392,10 @@ def update_index(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt
             rec["id"] = prev["id"]
             rec["first_seen"] = prev.get("first_seen") or rec["first_seen"]
             rec["sources"] = sorted(set(prev.get("sources", [])) | set(rec["sources"]))
-            for f in ("summary", "oa_url", "pmid", "pmcid", "openalex", "doi", "published"):
+            for f in ("summary", "oa_url", "pmid", "pmcid", "openalex", "doi", "published", "note"):
                 if not rec.get(f) and prev.get(f):
                     rec[f] = prev[f]
+            rec["editor_authored"] = bool(rec.get("editor_authored") or prev.get("editor_authored"))
             if rec.get("published"):
                 rec["year"] = int(rec["published"][:4])
             by_id[prev["id"]] = rec
