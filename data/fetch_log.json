@@ -1,12 +1,12 @@
 {
- "started": "2026-10-20T11:31:50+00:00",
+ "started": "2026-10-21T11:44:44+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 40,
+   "items": 43,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 212,
+   "items": 215,
    "error": null,
    "warning": null
   },
@@ -30,7 +30,7 @@
    "id": "feed:igs",
    "kind": "papers",
    "ok": true,
-   "items": 21,
+   "items": 22,
    "error": null,
    "warning": null
   },
@@ -46,7 +46,7 @@
    "id": "feed:jswpa",
    "kind": "papers",
    "ok": true,
-   "items": 25,
+   "items": 26,
    "error": null,
    "warning": null
   },
@@ -190,7 +190,7 @@
    "id": "news:federal-register-cftc",
    "kind": "news",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null,
    "warning": null
   },
@@ -214,7 +214,7 @@
    "id": "news:gnews-problem-gambling",
    "kind": "news",
    "ok": true,
-   "items": 100,
+   "items": 68,
    "error": null,
    "warning": null
   },
@@ -270,7 +270,7 @@
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 178,
+   "items": 261,
    "error": null,
    "warning": null
   },
@@ -292,18 +292,18 @@
   }
  ],
  "papers": {
-  "raw": 674,
-  "groups": 614,
-  "added": 4,
-  "updated": 196,
+  "raw": 682,
+  "groups": 619,
+  "added": 10,
+  "updated": 195,
   "dropped_irrelevant": 414,
-  "total": 446
+  "total": 456
  },
  "news": {
-  "raw": 713,
-  "added": 61,
-  "dropped_irrelevant": 152,
-  "total": 791
+  "raw": 682,
+  "added": 120,
+  "dropped_irrelevant": 126,
+  "total": 848
  },
  "trials": {
   "raw": 889,
@@ -314,23 +314,33 @@
   "total": 696
  },
  "bills": {
-  "raw": 193,
-  "added": 1,
-  "updated": 51,
-  "dropped_irrelevant": 141,
-  "total": 522
+  "raw": 276,
+  "added": 26,
+  "updated": 54,
+  "dropped_irrelevant": 196,
+  "total": 548
  },
  "cases": {
   "raw": 74,
-  "added": 1,
-  "updated": 11,
-  "dropped_irrelevant": 62,
-  "total": 56
+  "added": 2,
+  "updated": 5,
+  "dropped_irrelevant": 67,
+  "total": 58
  },
- "finished": "2026-10-20T11:40:49+00:00",
- "papers_total": 446,
- "news_total": 791,
+ "finished": "2026-10-21T11:52:55+00:00",
+ "papers_total": 456,
+ "news_total": 848,
  "history": [
+  {
+   "finished": "2026-10-21T11:52:55+00:00",
+   "mode": "nightly",
+   "added": 10,
+   "news_added": 120,
+   "trials_added": 0,
+   "bills_added": 26,
+   "cases_added": 2,
+   "failed": 0
+  },
   {
    "finished": "2026-10-20T11:40:49+00:00",
    "mode": "nightly",

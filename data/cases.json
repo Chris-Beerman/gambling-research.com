@@ -1,5 +1,71 @@
 [
  {
+  "id": "cl-d-74992301",
+  "kind": "docket",
+  "case_name": "Myles v. Michigan State Lottery Charitable Gaming",
+  "court": "District Court, E.D. Michigan",
+  "court_id": "mied",
+  "court_citation": "E.D. Mich.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-19",
+  "date_terminated": null,
+  "latest_activity": "2026-10-20",
+  "docket_number": "4:26-cv-13995",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/74992301/myles-v-michigan-state-lottery-charitable-gaming/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-20",
+    "description": "Civil Case - Complaint",
+    "url": "https://www.courtlistener.com/docket/74992301/1/myles-v-michigan-state-lottery-charitable-gaming/"
+   },
+   {
+    "date": "2026-10-20",
+    "description": "Regarding Parties Responsibility to Notify Court of Address Changes*",
+    "url": "https://www.courtlistener.com/docket/74992301/4/myles-v-michigan-state-lottery-charitable-gaming/"
+   },
+   {
+    "date": "2026-10-20",
+    "description": "Application to Proceed Without Prepaying Fees or Costs",
+    "url": "https://www.courtlistener.com/docket/74992301/2/myles-v-michigan-state-lottery-charitable-gaming/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "lottery"
+  ],
+  "first_seen": "2026-10-21"
+ },
+ {
+  "id": "cl-o-11039862",
+  "kind": "opinion",
+  "case_name": "Commonwealth v. Thomson",
+  "court": "Massachusetts Supreme Judicial Court",
+  "court_id": "mass",
+  "court_citation": "Mass.",
+  "court_level": "state-supreme",
+  "court_level_label": "state supreme",
+  "date_filed": "2026-10-20",
+  "date_terminated": null,
+  "latest_activity": "2026-10-20",
+  "docket_number": "SJC 13856",
+  "citation": "",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11039862/commonwealth-v-thomson/",
+  "snippet": "16For example, one must be eighteen to purchase lottery tickets or drive a common carrier motor vehicle",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [
+   "lottery"
+  ],
+  "first_seen": "2026-10-21"
+ },
+ {
   "id": "cl-d-73453634",
   "kind": "docket",
   "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
@@ -51,7 +117,7 @@
  {
   "id": "cl-d-74988218",
   "kind": "docket",
-  "case_name": "Myles v. MICHIGAN BUREAU OF STATE LOTTERY",
+  "case_name": "Myles v. Michigan Bureau of State Lottery",
   "court": "District Court, E.D. Michigan",
   "court_id": "mied",
   "court_citation": "E.D. Mich.",

@@ -1,5 +1,459 @@
 [
  {
+  "id": "doi:10.71458/rr7wet50",
+  "doi": "10.71458/rr7wet50",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223036059",
+  "title": "The Ravaging Effects of Online Gambling on the Social Functioning of Male Breadwinners in African Families: A Case of Aviator and Soccer Betting",
+  "journal": "Ngenani The Zimbabwe Ezekiel Guti Journal of Community Engagement and Societal Transformations",
+  "authors": [
+   "Kenias Maphosa",
+   "Nyaradzo Shumba",
+   "Belamino K. Chikwaiwa"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-21",
+  "first_seen": "2026-10-21",
+  "summary": "Online gambling has emerged as a pervasive social challenge in many African societies, particularly through platforms such as Aviator and soccer betting. This study investigates the ravaging effects of these gambling practices on the social functioning of male breadwinners within African families …",
+  "url": "https://doi.org/10.71458/rr7wet50",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "treatment",
+   "policy",
+   "cognition",
+   "families",
+   "equity",
+   "industry"
+  ],
+  "designs": [
+   "qualitative",
+   "case-report"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.23990/sa.179739",
+  "doi": "10.23990/sa.179739",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223004017",
+  "title": "Rahapeliriippuvuus ja itsemurha – viimeinen käynti terveydenhuollossa ennen kuolemaa 1996–2023",
+  "journal": "Sosiaalilääketieteellinen Aikakauslehti",
+  "authors": [
+   "Tiina A. Latvala",
+   "Maria Heiskanen",
+   "Jonna M. Levola",
+   "Sari Castrén",
+   "Jani Selin",
+   "Leena Forma"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-21",
+  "first_seen": "2026-10-21",
+  "summary": "Gambling disorder (ICD-10: F63.0) impairs quality of life and increases suicide risk. This study examined how many individuals with a gambling disorder diagnosis died by suicide, what other mental health disorders they had, and how the timing of their last health care visit related to their suicide …",
+  "url": "https://doi.org/10.23990/sa.179739",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "prevalence",
+   "comorbidity"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fpsyt.2026.1931287",
+  "doi": "10.3389/fpsyt.2026.1931287",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7207679652",
+  "title": "Prevalence and correlates of gambling problems among forensic psychiatric patients: evidence of elevated rates from a multi-site study",
+  "journal": "Frontiers in Psychiatry",
+  "authors": [
+   "Jakob Winther Eriksen",
+   "Lisbeth Uhrskov Sørensen",
+   "Søren Kristiansen",
+   "Morten Deleuran Terkildsen",
+   "Rasmus Mølgaard Hansen",
+   "Thomas Marcussen",
+   "Mette Brandt‐Christensen",
+   "Asbjørn Storgaard",
+   "Kaare Bro Wellnitz",
+   "Lisbeth Frostholm"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-09-04",
+  "first_seen": "2026-10-21",
+  "summary": "Introduction Gambling problems (GP) remain underexplored among forensic psychiatric patients (FPPs). Given the associations between GP, mental distress, and criminal behavior, it is imperative to investigate GP in this population …",
+  "url": "https://doi.org/10.3389/fpsyt.2026.1931287",
+  "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1931287/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "self-exclusion",
+   "prevalence",
+   "measurement",
+   "comorbidity",
+   "financial-harm",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "DK"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/14459795.2026.2748058",
+  "doi": "10.1080/14459795.2026.2748058",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222999658",
+  "title": "From the love of the game: a qualitative study exploring mechanisms to online gambling participation in young people",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Aino Suomi",
+   "Debbie Noble-Carr",
+   "Hunter Culbong",
+   "Thomas Stevens"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-20",
+  "first_seen": "2026-10-21",
+  "summary": "Emerging research has identified engagement in sports or video gaming as risk factors for gambling and gambling harm in young adults, but little is known about the mechanisms through which childhood engagement with these activities may lead to gambling in early adulthood …",
+  "url": "https://doi.org/10.1080/14459795.2026.2748058",
+  "oa_url": "https://doi.org/10.1080/14459795.2026.2748058",
+  "sources": [
+   "openalex",
+   "crossref",
+   "feed:igs"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "loot-boxes",
+   "youth",
+   "advertising"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.54254/2754-1169/2026.37992",
+  "doi": "10.54254/2754-1169/2026.37992",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223035745",
+  "title": "Casino-Side Kelly Analysis of Roulette: Growth, Fractional Exposure, and Finite-Horizon Risk",
+  "journal": "Advances in Economics Management and Political Sciences",
+  "authors": [
+   "Chenxin Weng Wang"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-21",
+  "first_seen": "2026-10-21",
+  "summary": "Roulette gives a transparent setting for studying how a small statistical advantage can be converted into a controlled level of repeated financial exposure. This study develops a casino-side analysis based on the Kelly criterion, comparing American and European even-money roulette under full, half, and quarter Kelly strategies …",
+  "url": "https://doi.org/10.54254/2754-1169/2026.37992",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino",
+   "measurement"
+  ],
+  "designs": [],
+  "countries": [
+   "HU"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1136/bmj-2026-101201",
+  "doi": "10.1136/bmj-2026-101201",
+  "pmid": "42901615",
+  "pmcid": null,
+  "openalex": "W7223009524",
+  "title": "\"Postcode lottery\" for children in England accessing healthcare, report warns",
+  "journal": "BMJ",
+  "authors": [
+   "Rosa Furneaux"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-20",
+  "first_seen": "2026-10-21",
+  "summary": "",
+  "url": "https://doi.org/10.1136/bmj-2026-101201",
+  "oa_url": null,
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "title:f16ed94fa25830c8",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223079823",
+  "title": "AN ANALYSIS OF ONLINE GAMBLING IN THE DIGITAL AGE: RISKS, REGULATION, AND SOCIAL-ECONOMICS IMPACTS",
+  "journal": "JOURNAL OF ISLAMIC AND LAW STUDIES",
+  "authors": [
+   "Jasmansyah Jasmansyah",
+   "A. Suganda",
+   "Moch. Najib",
+   "M. Ae Dunnuraeni",
+   "Rasyid Ridlo",
+   "Fuat Al Amin"
+  ],
+  "published": "2026-10-18",
+  "year": 2026,
+  "created": "2026-10-21",
+  "first_seen": "2026-10-21",
+  "summary": "Online gambling has intensified public-health, family-welfare and regulatory concerns by making betting accessible through mobile devices, digital payments and cross-border platforms. Although some jurisdictions permit licensed operators and derive fiscal revenue from them, Indonesia prohibits gambling, creating a different legal and policy context …",
+  "url": "https://jurnal.uin-antasari.ac.id/index.php/jils/article/view/20689",
+  "oa_url": "https://jurnal.uin-antasari.ac.id/index.php/jils/article/view/20689",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "prevention",
+   "advertising",
+   "policy",
+   "families",
+   "financial-harm",
+   "industry"
+  ],
+  "designs": [
+   "qualitative",
+   "behavioral-data",
+   "commentary"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1098/rsos.261484",
+  "doi": "10.1098/rsos.261484",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7222994628",
+  "title": "Can consumers accurately identify loot boxes and loot box receipts?",
+  "journal": "Royal Society Open Science",
+  "authors": [
+   "Matt Hall",
+   "Lauren Camille Hall",
+   "James D. Sauer",
+   "Aaron Drummond"
+  ],
+  "published": "2026-10-07",
+  "year": 2026,
+  "created": "2026-10-21",
+  "first_seen": "2026-10-21",
+  "summary": "Abstract Loot boxes are randomized rewards in video games. Meta-analyses suggest relationships between loot box spending and problem gambling symptomatology, and early longitudinal evidence suggests loot box purchasers migrate into conventional gambling at higher rates than non-purchasers …",
+  "url": "https://doi.org/10.1098/rsos.261484",
+  "oa_url": "https://doi.org/10.1098/rsos.261484",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "policy",
+   "cognition",
+   "families"
+  ],
+  "designs": [
+   "review",
+   "trial",
+   "longitudinal"
+  ],
+  "countries": [
+   "NZ",
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1186/s12903-026-09435-8",
+  "doi": "10.1186/s12903-026-09435-8",
+  "pmid": "42902231",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Behavioural influences on oral health status among individuals with schizophrenia: a cross-sectional study",
+  "journal": "BMC oral health",
+  "authors": [
+   "Harsika Kesavan",
+   "Sibyl Siluvai",
+   "Indumathi K P",
+   "Krishnaprakash G",
+   "Arul Saravanan Ramachandran",
+   "A V Saravanan",
+   "Raghul Gandhi Venkatesan"
+  ],
+  "published": "2026-07-25",
+  "year": 2026,
+  "created": "2026-10-21",
+  "first_seen": "2026-10-21",
+  "summary": "The purpose of the study was to evaluate the behavioural assessment using the schizophrenia oral health profile (SOHP) scale and examine the oral health status using Oral Hygiene Index-Simplified (OHI-S), Decayed, Missing and Filled teeth (DMFT), Community Periodontal Index (CPI) and Loss of attachment (LOA) indices, and correlate the behaviour with oral …",
+  "url": "https://doi.org/10.1186/s12903-026-09435-8",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "treatment",
+   "prevalence",
+   "measurement",
+   "comorbidity",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "IN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.34172/ahj.1704",
+  "doi": "10.34172/ahj.1704",
+  "pmid": "42898418",
+  "pmcid": "PMC13678040",
+  "openalex": null,
+  "title": "Factors Associated with the Prevalence of Online and Offline Gambling Among Medical Sciences Students in Central-Southern Iran: A Cross-Sectional Study",
+  "journal": "Addiction & Health",
+  "authors": [
+   "Yunes Jahani",
+   "Maryam Chegeni",
+   "Elham Sharifpoor",
+   "Reza Tabrizi",
+   "Alireza Dehghani",
+   "Farzan Madadizadeh",
+   "Razieh Najafi",
+   "Saiedeh Haji-Maghsoudi",
+   "Mohammad Reza Baneshi",
+   "Milad Ahmadi Gohari"
+  ],
+  "published": "2026-04-11",
+  "year": 2026,
+  "created": "2026-10-20",
+  "first_seen": "2026-10-21",
+  "summary": "Gambling, as a high-risk behavior among university students, may pose a serious threat to their mental and physical health. This study aimed to identify the primary determinants of online and offline gambling prevalence among students …",
+  "url": "https://doi.org/10.34172/ahj.1704",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678040/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "prevalence",
+   "measurement",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s10899-026-10560-w",
   "doi": "10.1007/s10899-026-10560-w",
   "pmid": "42895599",
@@ -17,12 +471,12 @@
   "first_seen": "2026-10-20",
   "summary": "Abstract Gambling advertising is prevalent in sports, especially football. Sponsoring teams, leagues, and national and international competitions is an effective marketing strategy for gambling providers to reach a wide audience. This ‘gamblification’ of football poses risks to public health, particularly for vulnerable groups …",
   "url": "https://doi.org/10.1007/s10899-026-10560-w",
-  "oa_url": "https://doi.org/10.1007/s10899-026-10560-w",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10560-w.pdf",
   "sources": [
-   "pubmed",
-   "openalex",
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -66,7 +520,7 @@
   "year": 2026,
   "created": "2026-10-20",
   "first_seen": "2026-10-20",
-  "summary": "",
+  "summary": "Online gambling has become an increasingly prevalent form of digital risk behavior among university students, facilitated by continuous internet access and ease of engagement. This cross-sectional study aimed to examine associations of social anxiety and chronotype with online gambling behavior among 268 medical students …",
   "url": "https://doi.org/10.1080/09291016.2026.2748868",
   "oa_url": null,
   "sources": [
@@ -76,9 +530,13 @@
   "topics": [
    "online-gambling",
    "youth",
-   "comorbidity"
+   "measurement",
+   "comorbidity",
+   "equity"
   ],
-  "designs": [],
+  "designs": [
+   "survey"
+  ],
   "countries": [
    "TR"
   ],
@@ -108,7 +566,7 @@
   "first_seen": "2026-10-20",
   "summary": "This study investigates public sentiment toward online gambling on TikTok social media and evaluates the performance of two machine learning algorithms, Multinomial Naïve Bayes and Support Vector Machine (SVM), for sentiment classification …",
   "url": "https://doi.org/10.52436/1.jutif.2026.7.5.5739",
-  "oa_url": "https://doi.org/10.52436/1.jutif.2026.7.5.5739",
+  "oa_url": "https://jutif.if.unsoed.ac.id/index.php/jurnal/article/download/5739/1446",
   "sources": [
    "openalex"
   ],
@@ -1044,7 +1502,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-20",
+  "published": "2026-10-21",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -1524,15 +1982,14 @@
    "commentary"
   ],
   "countries": [
-   "KZ",
    "RU",
    "PK"
   ],
   "regions": [
-   "asia",
-   "europe"
+   "europe",
+   "asia"
   ],
-  "language": "en",
+  "language": "ru",
   "relevance": "high",
   "retracted": false
  },
@@ -2644,7 +3101,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-20",
+  "published": "2026-10-21",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -2777,7 +3234,7 @@
   "year": 2026,
   "created": "2026-10-12",
   "first_seen": "2026-10-12",
-  "summary": "",
+  "summary": "تعتبر ظاهرة المراهنات الإلكترونية من الظواهر الخطيرة على شبكة الانترنت، فقد انتشرت انتشارًا سريعًا بين الشباب، فتعتبر هذه المراهنات من أخطر المستجدات الموجودة حاليًا؛ وذلك لما تسببه من إدمان أكثر من المواد المخدرة، كما تعد المواقع الإلكترونية للقمار والمراهنات في تزايد مستمر فيمكن للمراهن أو المقامر أن يقوم بذلك من خلال شاشة هاتفه الخاص، أو حتى من خلال …",
   "url": "https://doi.org/10.21608/jfsu.2026.506410.1368",
   "oa_url": "https://doi.org/10.21608/jfsu.2026.506410.1368",
   "sources": [
@@ -2785,7 +3242,12 @@
   ],
   "type": "article",
   "topics": [
-   "online-gambling"
+   "online-gambling",
+   "youth",
+   "policy",
+   "comorbidity",
+   "financial-harm",
+   "industry"
   ],
   "designs": [],
   "countries": [],
@@ -4107,34 +4569,92 @@
   "retracted": false
  },
  {
+  "id": "doi:10.3917/spub.263.0279",
+  "doi": "10.3917/spub.263.0279",
+  "pmid": "42838904",
+  "pmcid": null,
+  "openalex": "W7220728411",
+  "title": "Troubles liés à l’usage des jeux de hasard et d’argent chez les adolescents et jeunes adultes en Afrique subsaharienne : analyse exploratoire de la prévalence et des facteurs associés en milieu universitaire au Bénin, 2025",
+  "journal": "Santé Publique",
+  "authors": [
+   "Chabi Olaniran Alphonse Biaou",
+   "Lamidhi Salami",
+   "Yolaine Glèlè Ahanhanzo",
+   "Blaise Choki",
+   "Christian Dari",
+   "Antoine Gbessemehlan",
+   "Bignon Dominique Gnimavo",
+   "Smaïla Ouédraogo",
+   "N’koué Emmanuel Sambieni",
+   "Moussiliou Noël Paraïso"
+  ],
+  "published": "2026-10-05",
+  "year": 2026,
+  "created": "2026-10-07",
+  "first_seen": "2026-10-06",
+  "summary": "Gambling is growing at an alarming rate in Benin, particularly among students. This population, seeking independence and success, is especially vulnerable to the risks of disorders associated with these practices. AIM OF THE STUDY: to determine the prevalence of, and identify factors associated with disorders related to gambling in universities in Benin …",
+  "url": "https://doi.org/10.3917/spub.263.0279",
+  "oa_url": "https://stm.cairn.info/article/SPUB_263_0279/pdf?lang=fr",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "policy",
+   "prevalence",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "BJ",
+   "TN",
+   "FR",
+   "BF"
+  ],
+  "regions": [
+   "africa",
+   "europe"
+  ],
+  "language": "fr",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.3389/fpsyt.2026.1936618",
   "doi": "10.3389/fpsyt.2026.1936618",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42898696",
+  "pmcid": "PMC13678463",
   "openalex": "W7220419740",
   "title": "Mapping risk of gambling disorder in older adults: a neural network approach",
   "journal": "Frontiers in Psychiatry",
   "authors": [
    "Roser Granero",
-   "Fernando Fernández‐Aranda",
+   "Fernando Fernández-Aranda",
    "Isabel Baenas",
    "Lucero Munguía",
-   "Anahí Gaspar‐Pérez",
-   "Mónica Gómez‐Peña",
-   "Jeffrey Lee Derevensky",
+   "Anahí Gaspar-Pérez",
+   "Mónica Gómez-Peña",
+   "Jeffrey Derevensky",
    "Sally Gainsbury",
-   "Rebeca Rodríguez García",
-   "Susana Jiménez‐Múrcia"
+   "Rebeca Rodríguez-García",
+   "Susana Jiménez-Murcia"
   ],
   "published": "2026-10-05",
   "year": 2026,
-  "created": "2026-10-06",
+  "created": "2026-10-20",
   "first_seen": "2026-10-06",
-  "summary": "Background and objectives Gambling disorder (GD) in older adults remains insufficiently understood, despite growing concerns about gambling-related harm in older adulthood …",
+  "summary": "Background And Objectives: Gambling disorder (GD) in older adults remains insufficiently understood, despite growing concerns about gambling-related harm in older adulthood …",
   "url": "https://doi.org/10.3389/fpsyt.2026.1936618",
-  "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1936618/pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678463/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -4234,63 +4754,6 @@
   "countries": [],
   "regions": [],
   "language": null,
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.3917/spub.263.0279",
-  "doi": "10.3917/spub.263.0279",
-  "pmid": "42838904",
-  "pmcid": null,
-  "openalex": "W7220728411",
-  "title": "[Gambling-related disorders among adolescents and young adults in sub-Saharan Africa: An exploratory analysis of prevalence and associated factors in university settings in Benin, 2025]",
-  "journal": "Sante Publique",
-  "authors": [
-   "Chabi Olaniran Alphonse Biaou",
-   "Lamidhi Salami",
-   "Yolaine Glele Ahanhanzo",
-   "Blaise Choki",
-   "Christian Dari",
-   "Antoine Gbessemehlan",
-   "Bignon Dominique Gnimavo",
-   "Smaïla Ouédraogo",
-   "N'koué Emmanuel Sambieni",
-   "Moussiliou Noël Paraïso"
-  ],
-  "published": "2026-01-01",
-  "year": 2026,
-  "created": "2026-10-06",
-  "first_seen": "2026-10-06",
-  "summary": "Gambling is growing at an alarming rate in Benin, particularly among students. This population, seeking independence and success, is especially vulnerable to the risks of disorders associated with these practices. Aim Of The Study: to determine the prevalence of, and identify factors associated with disorders related to gambling in universities in Benin …",
-  "url": "https://doi.org/10.3917/spub.263.0279",
-  "oa_url": "https://stm.cairn.info/article/SPUB_263_0279/pdf?lang=fr",
-  "sources": [
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "youth",
-   "policy",
-   "prevalence",
-   "cognition",
-   "comorbidity"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "countries": [
-   "BJ",
-   "TN",
-   "FR",
-   "BF"
-  ],
-  "regions": [
-   "africa",
-   "europe"
-  ],
-  "language": "fre",
   "relevance": "high",
   "retracted": false
  },
@@ -4403,9 +4866,9 @@
   "year": 2026,
   "created": "2026-10-06",
   "first_seen": "2026-10-05",
-  "summary": "To test whether a modest incentive increases uptake of a responsible gambling deposit-limit tool among land-based casino players using a digital wallet for electronic gaming machine play and whether reward sensitivity or disordered gambling symptomatology moderates this effect …",
+  "summary": "To test whether a modest incentive increases uptake of a responsible gambling deposit-limit tool among land-based casino players using a digital wallet for electronic gaming machine play and whether reward sensitivity or disordered gambling symptomatology moderates this effect.Method: Participants were 314 U.S …",
   "url": "https://doi.org/10.1037/adb0001193",
-  "oa_url": "https://doi.org/10.1037/adb0001193",
+  "oa_url": "https://psycnet.apa.org/fulltext/2028-37010-001.pdf",
   "sources": [
    "openalex",
    "pubmed"
@@ -4414,6 +4877,7 @@
   "topics": [
    "casino",
    "prevention",
+   "policy",
    "measurement",
    "cognition",
    "equity",
@@ -5681,6 +6145,42 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1177/25725300261487889",
+  "doi": "10.1177/25725300261487889",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7214786007",
+  "title": "WHEN LEGALIZATION PRECEDES REGULATION: REGULATORY TIMING AND THE DEVELOPMENT OF SPORTS BETTING MARKETS",
+  "journal": "Gaming Law Review",
+  "authors": [
+   "Felipe Coelho SigristFelipe Coelho Sigrist is a Post-doc Researcher at Escola Superior de Agricultura “Luiz de Queiroz” (ESALQ/USP), Piracicaba, Brazil."
+  ],
+  "published": "2026-09-29",
+  "year": 2026,
+  "created": "2026-09-29",
+  "first_seen": "2026-09-29",
+  "summary": "Gaming Law Review, Ahead of Print. Governments increasingly face the challenge of regulating newly legalized markets while simultaneously protecting consumers and mitigating social harms. While existing research has focused primarily on the design of regulatory instruments, comparatively ...",
+  "url": "https://doi.org/10.1177/25725300261487889",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:glr",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "policy",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1111/ans.70991",
   "doi": "10.1111/ans.70991",
   "pmid": "42810970",
@@ -5722,50 +6222,6 @@
   ],
   "language": "en",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.1177/25725300261487889",
-  "doi": "10.1177/25725300261487889",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7214786007",
-  "title": "WHEN LEGALIZATION PRECEDES REGULATION: REGULATORY TIMING AND THE DEVELOPMENT OF SPORTS BETTING MARKETS",
-  "journal": "Gaming Law Review",
-  "authors": [
-   "Felipe Coelho Sigrist"
-  ],
-  "published": "2026-09-28",
-  "year": 2026,
-  "created": "2026-09-29",
-  "first_seen": "2026-09-29",
-  "summary": "Governments increasingly face the challenge of regulating newly legalized markets while simultaneously protecting consumers and mitigating social harms. While existing research has focused primarily on the design of regulatory instruments, comparatively little attention has been devoted to the consequences of delaying regulation after legalization …",
-  "url": "https://doi.org/10.1177/25725300261487889",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:glr",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "sports-betting",
-   "treatment",
-   "prevention",
-   "policy",
-   "industry"
-  ],
-  "designs": [
-   "commentary"
-  ],
-  "countries": [
-   "BR"
-  ],
-  "regions": [
-   "latin-america"
-  ],
-  "language": "en",
-  "relevance": "high",
   "retracted": false
  },
  {
