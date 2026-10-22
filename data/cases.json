@@ -1,5 +1,285 @@
 [
  {
+  "id": "cl-d-73602152",
+  "kind": "docket",
+  "case_name": "Tariri v. Massachusetts State Lottery Commission",
+  "court": "District Court, D. Massachusetts",
+  "court_id": "mad",
+  "court_citation": "D. Mass.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-07-10",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "1:26-cv-13181",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73602152/tariri-v-massachusetts-state-lottery-commission/",
+  "snippet": "28:1983 Civil Rights; nature of suit: 370 Other Fraud",
+  "suit_nature": "370 Other Fraud",
+  "documents": [
+   {
+    "date": "2026-10-21",
+    "description": "Order on Motion for Extension of Time",
+    "url": ""
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "lottery"
+  ],
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "cl-d-73406137",
+  "kind": "docket",
+  "case_name": "Smith v. Kalshi Inc.",
+  "court": "District Court, D. Massachusetts",
+  "court_id": "mad",
+  "court_citation": "D. Mass.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-05-28",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "1:26-cv-12413",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73406137/smith-v-kalshi-inc/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 850 Securities/Commodities",
+  "suit_nature": "850 Securities/Commodities",
+  "documents": [
+   {
+    "date": "2026-10-21",
+    "description": "Order on Motion for Order",
+    "url": ""
+   },
+   {
+    "date": "2026-10-13",
+    "description": "Response by Robinhood Derivatives, LLC to 64 Notice of Supplemental Authorities, . (Waksler, Craig)",
+    "url": "https://www.courtlistener.com/docket/73406137/67/smith-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-10-06",
+    "description": "Response filed in error using incorrect attorney credentials deleted, re-filed correctly at 66 (CAM)",
+    "url": "https://www.courtlistener.com/docket/73406137/65/smith-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-o-11041797",
+  "kind": "opinion",
+  "case_name": "Mumtaz Mf v. Sammie Lindsey and Smart Grocery, LLC",
+  "court": "Court of Appeals of Arkansas",
+  "court_id": "arkctapp",
+  "court_citation": "Ark. Ct. App.",
+  "court_level": "state-appellate",
+  "court_level_label": "state appellate",
+  "date_filed": "2026-10-21",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "",
+  "citation": "2026 Ark. App. 488",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11041797/mumtaz-mf-v-sammie-lindsey-and-smart-grocery-llc/",
+  "snippet": "summer 2019 after an employee stole $7000 worth of lottery tickets. Hermitage’s mayor reached out to Mumtaz",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [
+   "lottery"
+  ],
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "cl-d-73332277",
+  "kind": "docket",
+  "case_name": "Mescalero Apache Tribe v. Kalshi, Inc.",
+  "court": "District Court, D. New Mexico",
+  "court_id": "nmd",
+  "court_citation": "D.N.M.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-05-12",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "1:26-cv-01517",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73332277/mescalero-apache-tribe-v-kalshi-inc/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-21",
+    "description": "Response (when not to a motion)",
+    "url": "https://www.courtlistener.com/docket/73332277/63/mescalero-apache-tribe-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "cl-d-73231673",
+  "kind": "docket",
+  "case_name": "In re: Robinhood Prediction Market Litigation",
+  "court": "District Court, N.D. California",
+  "court_id": "cand",
+  "court_citation": "N.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-04-22",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "3:26-cv-03415",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73231673/in-re-robinhood-prediction-market-litigation/",
+  "snippet": "28:1332 Diversity-Fraud; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-21",
+    "description": "Administrative Motion per Civil Local Rule 7-11",
+    "url": "https://www.courtlistener.com/docket/73231673/65/in-re-robinhood-prediction-market-litigation/"
+   },
+   {
+    "date": "2026-10-13",
+    "description": "ADR Certification (ADR L.R. 3-5 b) of discussion of ADR options by Defendants Robinhood Markets, Inc. and Robinhood Derivatives, LLC (Barrer",
+    "url": "https://www.courtlistener.com/docket/73231673/64/in-re-robinhood-prediction-market-litigation/"
+   },
+   {
+    "date": "2026-09-28",
+    "description": "STATEMENT OF RECENT DECISION pursuant to Civil Local Rule 7-3.d filed byKevin Austin, Prabhdeep Chehal, Timothy Collar, Kaden Dean, Michael ",
+    "url": "https://www.courtlistener.com/docket/73231673/63/in-re-robinhood-prediction-market-litigation/"
+   },
+   {
+    "date": "2026-09-25",
+    "description": "STIPULATION Regarding Plaintiffs' Accounts with Robinhood Derivatives, LLC filed by Robinhood Derivatives, LLC, Robinhood Markets, Inc.. (Bo",
+    "url": "https://www.courtlistener.com/docket/73231673/61/in-re-robinhood-prediction-market-litigation/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-o-11041862",
+  "kind": "opinion",
+  "case_name": "Com. Dept. of L&I v. Accuserv Pharmacy, Inc.",
+  "court": "Commonwealth Court of Pennsylvania",
+  "court_id": "pacommwct",
+  "court_citation": "Pa. Commw. Ct.",
+  "court_level": "state-appellate",
+  "court_level_label": "state appellate",
+  "date_filed": "2026-10-21",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "1280 C.D. 2024",
+  "citation": "",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11041862/com-dept-of-li-v-accuserv-pharmacy-inc/",
+  "snippet": "card, slot machine or any device to be used for gambling purposes, except playing cards;",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [
+   "casino"
+  ],
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "cl-d-69159636",
+  "kind": "docket",
+  "case_name": "CASTLE v. COINBASE GLOBAL, INC.",
+  "court": "District Court, E.D. Pennsylvania",
+  "court_id": "paed",
+  "court_citation": "E.D. Pa.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2024-09-13",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "2:24-cv-04850",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/69159636/castle-v-coinbase-global-inc/",
+  "snippet": "15:78m(a) Securities Exchange Act; nature of suit: 850 Other Statutes: Securities/Commodities",
+  "suit_nature": "850 Other Statutes: Securities/Commodities",
+  "documents": [
+   {
+    "date": "2026-10-21",
+    "description": "MEMORANDUM AND OPINION. SIGNED BY DISTRICT JUDGE JOEL H. SLOMSKY ON 10/21/26. 10/21/26 ENTERED & E-MAILED.(fdc)",
+    "url": "https://www.courtlistener.com/docket/69159636/79/castle-v-coinbase-global-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "cl-d-70884560",
+  "kind": "docket",
+  "case_name": "Blue Lake Rancheria v. KALSHI INC.",
+  "court": "District Court, N.D. California",
+  "court_id": "cand",
+  "court_citation": "N.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2025-07-22",
+  "date_terminated": null,
+  "latest_activity": "2026-10-21",
+  "docket_number": "3:25-cv-06162",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/70884560/blue-lake-rancheria-v-kalshi-inc/",
+  "snippet": "25:640 Indian Tribal Rights; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-21",
+    "description": "Case Management Conference - Further AND ~Util - Set Hearings AND ~Util - Teleconference Zoom",
+    "url": ""
+   },
+   {
+    "date": "2026-10-21",
+    "description": "ORDER FOLLOWING OCTOBER 21, 2026 FURTHER CASE MANAGEMENT CONFERENCE. Signed by Judge Jacqueline Scott Corley on October 21, 2026. (ahm, COUR",
+    "url": "https://www.courtlistener.com/docket/70884560/103/blue-lake-rancheria-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-10-21",
+    "description": "Minute Entry for proceedings held before Judge Jacqueline Scott Corley: Further Case Management Conference held and recorded by Zoom videoco",
+    "url": "https://www.courtlistener.com/docket/70884560/102/blue-lake-rancheria-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-10-14",
+    "description": "Status Report",
+    "url": "https://www.courtlistener.com/docket/70884560/101/blue-lake-rancheria-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-10-08",
+    "description": "MANDATE of USCA 25-7504 as to 73 Notice of Appeal to the Ninth Circuit, filed by Chicken Ranch Rancheria of Me-Wuk Indians, Picayune Rancher",
+    "url": "https://www.courtlistener.com/docket/70884560/99/blue-lake-rancheria-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ {
   "id": "cl-d-74992301",
   "kind": "docket",
   "case_name": "Myles v. Michigan State Lottery Charitable Gaming",
@@ -851,47 +1131,6 @@
   "first_seen": "2026-10-14"
  },
  {
-  "id": "cl-d-70884560",
-  "kind": "docket",
-  "case_name": "Blue Lake Rancheria v. KALSHI INC.",
-  "court": "District Court, N.D. California",
-  "court_id": "cand",
-  "court_citation": "N.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2025-07-22",
-  "date_terminated": null,
-  "latest_activity": "2026-10-14",
-  "docket_number": "3:25-cv-06162",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/70884560/blue-lake-rancheria-v-kalshi-inc/",
-  "snippet": "25:640 Indian Tribal Rights; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-10-14",
-    "description": "Status Report",
-    "url": "https://www.courtlistener.com/docket/70884560/101/blue-lake-rancheria-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-10-08",
-    "description": "MANDATE of USCA 25-7504 as to 73 Notice of Appeal to the Ninth Circuit, filed by Chicken Ranch Rancheria of Me-Wuk Indians, Picayune Rancher",
-    "url": "https://www.courtlistener.com/docket/70884560/99/blue-lake-rancheria-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-10-08",
-    "description": "CLERK'S NOTICE SETTING ZOOM HEARING. Because the Ninth Circuit issued its formal mandate today, the Court is setting a further status confer",
-    "url": "https://www.courtlistener.com/docket/70884560/100/blue-lake-rancheria-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-14"
- },
- {
   "id": "cl-o-11032256",
   "kind": "opinion",
   "case_name": "United States v. James Bost",
@@ -912,89 +1151,6 @@
   "documents": [],
   "cite_count": 0,
   "topics": [],
-  "first_seen": "2026-10-13"
- },
- {
-  "id": "cl-d-73406137",
-  "kind": "docket",
-  "case_name": "Smith v. Kalshi Inc.",
-  "court": "District Court, D. Massachusetts",
-  "court_id": "mad",
-  "court_citation": "D. Mass.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-05-28",
-  "date_terminated": null,
-  "latest_activity": "2026-10-13",
-  "docket_number": "1:26-cv-12413",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73406137/smith-v-kalshi-inc/",
-  "snippet": "28:1331 Fed. Question; nature of suit: 850 Securities/Commodities",
-  "suit_nature": "850 Securities/Commodities",
-  "documents": [
-   {
-    "date": "2026-10-13",
-    "description": "Response by Robinhood Derivatives, LLC to 64 Notice of Supplemental Authorities, . (Waksler, Craig)",
-    "url": "https://www.courtlistener.com/docket/73406137/67/smith-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-10-06",
-    "description": "Response - not related to a motion",
-    "url": ""
-   },
-   {
-    "date": "2026-10-06",
-    "description": "Response filed in error using incorrect attorney credentials deleted, re-filed correctly at 66 (CAM)",
-    "url": "https://www.courtlistener.com/docket/73406137/65/smith-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-13"
- },
- {
-  "id": "cl-d-73231673",
-  "kind": "docket",
-  "case_name": "In re: Robinhood Prediction Market Litigation",
-  "court": "District Court, N.D. California",
-  "court_id": "cand",
-  "court_citation": "N.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-04-22",
-  "date_terminated": null,
-  "latest_activity": "2026-10-13",
-  "docket_number": "3:26-cv-03415",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73231673/in-re-robinhood-prediction-market-litigation/",
-  "snippet": "28:1332 Diversity-Fraud; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-10-13",
-    "description": "ADR Certification (ADR L.R. 3-5 b) of discussion of ADR options by Defendants Robinhood Markets, Inc. and Robinhood Derivatives, LLC (Barrer",
-    "url": "https://www.courtlistener.com/docket/73231673/64/in-re-robinhood-prediction-market-litigation/"
-   },
-   {
-    "date": "2026-09-28",
-    "description": "STATEMENT OF RECENT DECISION pursuant to Civil Local Rule 7-3.d filed byKevin Austin, Prabhdeep Chehal, Timothy Collar, Kaden Dean, Michael ",
-    "url": "https://www.courtlistener.com/docket/73231673/63/in-re-robinhood-prediction-market-litigation/"
-   },
-   {
-    "date": "2026-09-25",
-    "description": "STIPULATION Regarding Plaintiffs' Accounts with Robinhood Derivatives, LLC filed by Robinhood Derivatives, LLC, Robinhood Markets, Inc.. (Bo",
-    "url": "https://www.courtlistener.com/docket/73231673/61/in-re-robinhood-prediction-market-litigation/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets",
-   "industry"
-  ],
   "first_seen": "2026-10-13"
  },
  {

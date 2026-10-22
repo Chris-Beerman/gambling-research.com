@@ -1,5 +1,141 @@
 [
  {
+  "id": "doi:10.1007/s10899-026-10570-8",
+  "doi": "10.1007/s10899-026-10570-8",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Casino and Online Self-Exclusion in Canada: Awareness, Uptake, and Compliance",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Youssef Allami",
+   "Robert J. Williams",
+   "Darren R. Christensen",
+   "Carrie A. Shaw",
+   "Daniel S. McGrath",
+   "Rhys M.G. Stevens",
+   "Fiona Nicoll",
+   "Hyoun S. Kim",
+   "David C. Hodgins"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-22",
+  "summary": "Voluntary self-exclusion (VSE) is a widely available harm-reduction strategy for individuals experiencing gambling-related harm. However, little is known about factors associated with VSE awareness and utilisation, or gambling during the self-exclusion period …",
+  "url": "https://doi.org/10.1007/s10899-026-10570-8",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "casino",
+   "treatment",
+   "self-exclusion",
+   "advertising",
+   "measurement",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s11845-026-04699-z",
+  "doi": "10.1007/s11845-026-04699-z",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223148790",
+  "title": "Combatting gambling in Ireland: adopting demand and supply strategies from the fight against big tobacco and alcohol",
+  "journal": "Irish Journal of Medical Science",
+  "authors": [
+   "Frank Thomas Houghton",
+   "Daisy Houghton",
+   "Mia Daly",
+   "Anne Campbell"
+  ],
+  "published": "2026-10-21",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-22",
+  "summary": "",
+  "url": "https://doi.org/10.1007/s11845-026-04699-z",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "comorbidity"
+  ],
+  "designs": [],
+  "countries": [
+   "IE",
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.4103/indianjpsychiatry_792_26",
+  "doi": "10.4103/indianjpsychiatry_792_26",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223145023",
+  "title": "Problem gambling and its correlates among treatment-seeking opioid users at a tertiary care center: A cross-sectional study",
+  "journal": "Indian Journal of Psychiatry",
+  "authors": [
+   "Tathagata Biswas",
+   "Pritiman Mishra",
+   "Chinu Patra",
+   "Biswa Ranjan Mishra",
+   "Arpit Parmar"
+  ],
+  "published": "2026-10-01",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-22",
+  "summary": "ABSTRACT Background: Gambling is a major public health concern worldwide. Problem gambling refers to excessive gambling behaviors associated with negative health and socioeconomic consequences. Studies have described a strong association between problem gambling and substance use disorders (SUDs), with shared psychosocial and neurobiological vulnerabilities …",
+  "url": "https://doi.org/10.4103/indianjpsychiatry_792_26",
+  "oa_url": "https://doi.org/10.4103/indianjpsychiatry_792_26",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "measurement",
+   "cognition",
+   "comorbidity",
+   "equity",
+   "industry"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "IN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.71458/rr7wet50",
   "doi": "10.71458/rr7wet50",
   "pmid": null,
@@ -155,11 +291,11 @@
   "first_seen": "2026-10-21",
   "summary": "Emerging research has identified engagement in sports or video gaming as risk factors for gambling and gambling harm in young adults, but little is known about the mechanisms through which childhood engagement with these activities may lead to gambling in early adulthood …",
   "url": "https://doi.org/10.1080/14459795.2026.2748058",
-  "oa_url": "https://doi.org/10.1080/14459795.2026.2748058",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2748058?needAccess=true",
   "sources": [
-   "openalex",
    "crossref",
-   "feed:igs"
+   "feed:igs",
+   "openalex"
   ],
   "type": "article",
   "topics": [
@@ -237,20 +373,16 @@
   "url": "https://doi.org/10.1136/bmj-2026-101201",
   "oa_url": null,
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
    "lottery"
   ],
   "designs": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -277,7 +409,7 @@
   "first_seen": "2026-10-21",
   "summary": "Online gambling has intensified public-health, family-welfare and regulatory concerns by making betting accessible through mobile devices, digital payments and cross-border platforms. Although some jurisdictions permit licensed operators and derive fiscal revenue from them, Indonesia prohibits gambling, creating a different legal and policy context …",
   "url": "https://jurnal.uin-antasari.ac.id/index.php/jils/article/view/20689",
-  "oa_url": "https://jurnal.uin-antasari.ac.id/index.php/jils/article/view/20689",
+  "oa_url": "https://jurnal.uin-antasari.ac.id/index.php/jils/article/download/20689/5192",
   "sources": [
    "openalex"
   ],
@@ -326,7 +458,7 @@
   "first_seen": "2026-10-21",
   "summary": "Abstract Loot boxes are randomized rewards in video games. Meta-analyses suggest relationships between loot box spending and problem gambling symptomatology, and early longitudinal evidence suggests loot box purchasers migrate into conventional gambling at higher rates than non-purchasers …",
   "url": "https://doi.org/10.1098/rsos.261484",
-  "oa_url": "https://doi.org/10.1098/rsos.261484",
+  "oa_url": "https://royalsocietypublishing.org/rsos/article-pdf/doi/10.1098/rsos.261484/6172296/rsos.261484.pdf",
   "sources": [
    "openalex"
   ],
@@ -357,7 +489,7 @@
   "id": "doi:10.1186/s12903-026-09435-8",
   "doi": "10.1186/s12903-026-09435-8",
   "pmid": "42902231",
-  "pmcid": null,
+  "pmcid": "PMC13685338",
   "openalex": null,
   "title": "Behavioural influences on oral health status among individuals with schizophrenia: a cross-sectional study",
   "journal": "BMC oral health",
@@ -376,7 +508,7 @@
   "first_seen": "2026-10-21",
   "summary": "The purpose of the study was to evaluate the behavioural assessment using the schizophrenia oral health profile (SOHP) scale and examine the oral health status using Oral Hygiene Index-Simplified (OHI-S), Decayed, Missing and Filled teeth (DMFT), Community Periodontal Index (CPI) and Loss of attachment (LOA) indices, and correlate the behaviour with oral …",
   "url": "https://doi.org/10.1186/s12903-026-09435-8",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685338/",
   "sources": [
    "pubmed"
   ],
@@ -1502,7 +1634,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-21",
+  "published": "2026-10-22",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -1981,15 +2113,9 @@
   "designs": [
    "commentary"
   ],
-  "countries": [
-   "RU",
-   "PK"
-  ],
-  "regions": [
-   "europe",
-   "asia"
-  ],
-  "language": "ru",
+  "countries": [],
+  "regions": [],
+  "language": "th",
   "relevance": "high",
   "retracted": false
  },
@@ -2733,13 +2859,12 @@
    "survey"
   ],
   "countries": [
-   "ES",
    "AU",
-   "HU"
+   "ES"
   ],
   "regions": [
-   "europe",
-   "australia-nz"
+   "australia-nz",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -3101,7 +3226,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-21",
+  "published": "2026-10-22",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -4312,16 +4437,16 @@
   "pmid": "42842901",
   "pmcid": null,
   "openalex": "W7220837624",
-  "title": "Clinical Trial Prediction Markets - Information, at What Cost?",
-  "journal": "The New England journal of medicine",
+  "title": "Clinical Trial Prediction Markets — Information, at What Cost?",
+  "journal": "New England Journal of Medicine",
   "authors": [
    "Matthew Vogel",
-   "Rona Yaeger",
-   "Olivier J Wouters"
+   "Yaeger Rona",
+   "Olivier J. Wouters"
   ],
   "published": "2026-10-07",
   "year": 2026,
-  "created": "2026-10-07",
+  "created": "2026-10-08",
   "first_seen": "2026-10-07",
   "summary": "",
   "url": "https://doi.org/10.1056/nejmp2610547",
@@ -4368,7 +4493,7 @@
   ],
   "published": "2026-10-06",
   "year": 2026,
-  "created": "2026-10-07",
+  "created": "2026-10-06",
   "first_seen": "2026-10-07",
   "summary": "Abstract Background Disordered gambling has been linked to impairments in goal-directed (model-based) control and reinforcement learning …",
   "url": "https://doi.org/10.1556/2006.2025.00424",
@@ -5852,10 +5977,7 @@
   "openalex": "W7214915687",
   "title": "When Entertainment Normalizes Risk: Affective Engagement with Gambling-Themed Media, Permissive Attitudes, and Casino Visit Intention",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Yoonjae Nam",
-   "Jiwon Park"
-  ],
+  "authors": [],
   "published": "2026-09-30",
   "year": 2026,
   "created": "2026-09-30",
@@ -5876,13 +5998,9 @@
    "advertising"
   ],
   "designs": [],
-  "countries": [
-   "KR"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },

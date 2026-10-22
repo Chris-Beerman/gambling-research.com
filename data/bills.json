@@ -1,5 +1,40 @@
 [
  {
+  "id": "ocd-bill/5ba439c1-5c87-4307-807c-f938a570b3d0",
+  "level": "state",
+  "jurisdiction": "Pennsylvania",
+  "jurisdiction_code": "pa",
+  "session": "2025-2026",
+  "identifier": "SB 398",
+  "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in games of chance, further providing for prize limits and providing for online raffles by fire companies; and, in club licensees, further providing for distribution of proceeds.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Michele Brooks",
+   "Frank Farry",
+   "Rosemary Brown",
+   "Patrick Stefano",
+   "Jay Costa",
+   "Steven Santarsiero"
+  ],
+  "introduced": "2025-03-06",
+  "latest_action_date": "2026-10-20",
+  "latest_action": "Signed in Senate",
+  "latest_passage_date": "2026-10-19",
+  "stage": "passed-both",
+  "stage_label": "passed both chambers",
+  "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-10-21",
+  "first_seen": "2025-03-06",
+  "stage_changed": "2026-10-21",
+  "previous_stage": "passed-one"
+ },
+ {
   "id": "ocd-bill/1c5b2ccb-07ad-4b32-96b5-6eb106739613",
   "level": "state",
   "jurisdiction": "Montana",
@@ -52,41 +87,6 @@
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
- },
- {
-  "id": "ocd-bill/5ba439c1-5c87-4307-807c-f938a570b3d0",
-  "level": "state",
-  "jurisdiction": "Pennsylvania",
-  "jurisdiction_code": "pa",
-  "session": "2025-2026",
-  "identifier": "SB 398",
-  "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in games of chance, further providing for prize limits and providing for online raffles by fire companies; and, in club licensees, further providing for distribution of proceeds.",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [],
-  "sponsors": [
-   "Michele Brooks",
-   "Frank Farry",
-   "Rosemary Brown",
-   "Patrick Stefano",
-   "Jay Costa",
-   "Steven Santarsiero"
-  ],
-  "introduced": "2025-03-06",
-  "latest_action_date": "2026-10-19",
-  "latest_action": "Referred to Rules & Executive Nominations",
-  "latest_passage_date": "2026-10-19",
-  "stage": "passed-both",
-  "stage_label": "passed both chambers",
-  "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
-  "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-10-20",
-  "first_seen": "2025-03-06",
-  "stage_changed": "2026-10-21",
-  "previous_stage": "passed-one"
  },
  {
   "id": "ocd-bill/71749943-407b-4b9a-9143-e8fa6d7155f4",
