@@ -1,5 +1,590 @@
 [
  {
+  "id": "bba71369b32838e8",
+  "title": "Prediction Markets Weekly: Yes, there is news outside of court",
+  "url": "https://sbcamericas.com/2026/10/23/prediction-markets-weekly-october-23/",
+  "source": "SBC Americas",
+  "feed_id": "sbc-americas",
+  "kind": "trade",
+  "published": "2026-10-23",
+  "summary": "The prediction markets news cycle is not all about lawsuits, but a lot of it is. In the last week alone: What else went on outside of court? As always, we round up some of the stories you may have missed each Friday.…",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "c920e28665faff70",
+  "title": "How regulatory failures permit Britain's gambling sector to grow",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGVyZnNSLUFOUHhaTmhIaWRWTjJzYjdWV2lDb2lzZ2ZwSG1BdlFSMi1BTnRZOHl5bDJsZm1OMXIzNzN1dTJHMEkydVlUQXlBTnpfaDgtVnREU0JKNktLSW5jTS1sYi1Vc1Y0amNYa1R3b3BwS3MzTHFIVFJiWWgtS0EtNFpsT044RWVkY2dzZEFLOEh4V0xRaW9td0dyWTczeGh3?oc=5",
+  "source": "Politics Home",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-10-23",
+  "summary": "How regulatory failures permit Britain's gambling sector to grow Politics",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "08443d87771b95c0",
+  "title": "Ohio policymakers wrestle with prediction markets as wagers on sports and politics explode",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRFM1c2N5Uzk0M2g2ZnVWcEt0V1ZvbGFrWWZLbWtGS3BHTjFITk80SUtDOU5YNjh0UUNsMjlMei1CZWxTNkVCcWNPTlFIVFlaMHJNZG80TnVLUHdjQW1MeE1kdWV1ZW1EaVlVMjNGeC1NQXY1RGk3ZDF2UVZvMktlX2xWMGF6Tm51TDRXY08tMFZUNkJmU1lKX2NUV1ZISEMxY2pzY05hdmM2RjRVSXZVci1LWGZvY0xsaEdNaldDcFdmTm5RbU1hcXVrZDlsQQ?oc=5",
+  "source": "Ohio Capital Journal",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Ohio policymakers wrestle with prediction markets as wagers on sports and politics explode Ohio Capital",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "7eb14a9c2d8675e8",
+  "title": "Election prediction markets thriving in Nebraska, despite likely being illegal",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFM2c2VhR1dOaGNQaXZkNFNVLXEyZUpUQS1fZV9kcDlsTHVOQV9VaWJSNHk2dDJQSjM5VU1wTkRMZHZNN2NMUVNxS0VCamJzVVIyODR4a0VoUWNUcDJ6Q0VoZmJ5T0V1dm1LNVNqSFVZTmI2ME5SWm5wS1djdUZNbTBSVmxMbW1RLVd0dWZxWGpnWlJIaHYzWEJ6bzluYTJwaTctZzIwb3VDOEZ4LW45allvdXRRakxMMnpEOWZDSXBuUEJGVkRVZzZ2NDA?oc=5",
+  "source": "Nebraska Public Media",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Election prediction markets thriving in Nebraska, despite likely being illegal Nebraska Public",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "da9adc90c1b9851c",
+  "title": "How Prediction Markets Upstaged Election Polls",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGZsRWFCekptaTRva2k0aTRoQkxOem9WN1dlR1I0Y1pYdTh5WjI5WVB5UUdLUWo5UzVfV2Jickt6QURnZ0dnWF9RSmVaOXNZVWlaRUdlSmM4Nll5UHJwdHQ3Q19Xay1iS1EyVF8xSUhmQ0NRT3NMd3JOeUNrQ3VIdWJFZmw4M05tU0tyWUl0N255Q3lGTC1BX0ZDN3R2UQ?oc=5",
+  "source": "Bloomberg.com",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "How Prediction Markets Upstaged Election Polls",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "5334515d65182181",
+  "title": "Kalshi Could Let You Wager on Admission Rates at 22 Colleges",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWNYdl9aY3J5VTNIUUZhZGZ0a19wdEN2MHhuaGRWVjJSQTI4bzFNdTFLeWdXRkxBZEVhTU5CM3pGTmFLY3NhLThHTHhuLVFVWnNOaVZVaFdTWWZTbW1vTXljNm5CSVlvcTRwOW1oSDJXN2FublVZSllhRVloZU5pcmVLUnk0WC00Rmk1WFZlTmFkdldmazBVaFVZLVZGZ05HOVRWaE5fbjFhZmM0VzFvTkhxYw?oc=5",
+  "source": "Inside Higher Ed",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Kalshi Could Let You Wager on Admission Rates at 22 Colleges Inside Higher",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "2770557b9258c99c",
+  "title": "Kalshi to launch prediction market for admission rates at Duke, other top schools",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNENlSVIzX3RiWm03SGFyUnNxVXR0dWdrbUtYaUJxNmk2bi0yYmlHWVA2QlhueElXQ05tZlBmWGFfU1EzVTlfeFpYUG1abWx4T09NcjljNXk5Y0NfNE9sdGRDNlR1Nk04aDdiQUFWdFp3T3dXc3Vyb2FGSmtpMnNScHR5UGJnWXBjQXhHNWVXT2l5Mk93V3oxZDM0d2RZRzdyM2lXbDY0dm1ELTJlODBoUVdzQ2FBZ3BvSE5lVEp0cnB5ODBiX0JFY1g5b1MtZE1SQ3FQMmtfSEFxUGlQSDFEa2RoZDNwU3NlWTUxX0RiTEFFRi11M0d0RE1Ka1RRdlYy?oc=5",
+  "source": "The Duke Chronicle",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Kalshi to launch prediction market for admission rates at Duke, other top schools The Duke",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "271fd0d61b5dbbe1",
+  "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaWlqWDg4V3VYRTQxWTVockJlWW5rT181azNfY2JUYTNWMzVLZ3NDbW5WQW5uT2RmSEVjbUozZDNaR3JlQ3dQWXQ3b1JWbnRUZnJFUVVRSGY4OXNwb0NfdHktYUhsbXJSYUs3UGpfd3hTMkxCd0o0N09IQzI3Q2tDckdrWVJFQ2VPZGl6QzJxWlNtTWYzWThYM21yN05lTnRlcWRqS1ZLU0lBbm5rejMyTTVlc0VWZ0RCWWo2djc2VFFiTGl4?oc=5",
+  "source": "CoinDesk",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "23435b6c635b5cb2",
+  "title": "Hegseth bans troops from betting military operation with Polymarket",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1dtcko1UVZHa09XOG1acmVnQWpuOU16dmYwSEo1eVg1MVlwMXBPUURKWUlLckhhamFTNklvaHFDV3F3TDM3Nkd1YTRSaHA4bEpzOWFFSGZSR2MwSUt0SXRwUzZjd1VrWDAxZ0NtbDhBUTZqUG55Uk5rTmtCaUM1clVqZnBhcHFDaTIzRDVQdTcyRUHSAZgBQVVfeXFMTndxRDRGdThXc0psZDN3UDh2QlJUeFJVRk84MGNmQU9abFJVVVdyZVdYd3N4eUM4R1NrT1pUOHRRY1JVWklfd0ZrQXpoN1F5N1NIVGhWeUxLUl9FY18zMGpnbE1JZEpVWVRkYTVIaTVxY1dVc3AzWGN3cEc1TXo2US15VWtsREN4V0lrZGtsSjYtVmZlMEtVcS0?oc=5",
+  "source": "upi",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Hegseth bans troops from betting military operation with Polymarket",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "d4ddf0aec3d04843",
+  "title": "Inside the unlikely coalition taking on prediction markets",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDZQeVdwWEJpTy1iMEwySjVIRk4xaXl5RUN1cDFQazZtNk4wMUNMeEVfaS1PMDhOYl81MlY2Zkg0WlRjdTB3V0RuZFJRa2NfaGtXNlZweE1CNEtUcUtRS0gwaDhQVTJScnhwUDU4aGVZdDRPYXVzZ3NUVDFVNUxMMnN1emtWUTdIRWVfU01wMkM?oc=5",
+  "source": "The Hill",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Inside the unlikely coalition taking on prediction markets The",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "1df0460f88009694",
+  "title": "Hegseth prohibits troops from using 'nonpublic information' to bet on prediction markets in new directive",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWJ0bWxJUFhWdHItWWpkYW8yQm53YkxBZjlGVWJSWGYzMExPaXZXeVNIWnk0WXppSWRnZ0sySHdhSXNHSXRyNUlGRmdXQmdCb2x5ZjJaa01la3FDcDBwTkt4U1dsNk9uMlVzbFpwRnRodlZtM29oOEJseDc4ODZ6eXhBTk40V1hhTHhzMWVHZWJmbU5ybkhjM1RKY0xFWDBZa09FV2tGOTZoaFVKODhHYmVjcHIxbUZMakJfdDlZRHNSRmJNSTE5S1ZHSEl3Z1NBMWxpVVVxd3dfZw?oc=5",
+  "source": "New York Post",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Hegseth prohibits troops from using 'nonpublic information' to bet on prediction markets in new directive New York",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "a261aea6c175fdfc",
+  "title": "Kalshi, BitGo Allow Unlock of Crypto Liquidity for Margin",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEwwNUVMdmFaMTA5OVA4Z1lwRmJDb212Z00zRnMxczAxRmhDVmtUcDJVZVIxajdQQk9ON1hULXhjWmk1ZmlDd3J3elNMMnFNR3d0LU00SHNSQXYtZVZ0anJOal9HcWNFblJObU40Yk1qWXl3bmY4aUJHblRfaHdiaFFlb0NzZ0FTN2l1Vi00WkF4ZVgzTXNHdVNNaTM?oc=5",
+  "source": "Markets Media",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Kalshi, BitGo Allow Unlock of Crypto Liquidity for Margin Markets",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "21de7d59f4102596",
+  "title": "Capitol News Illinois | Illinois regulators move to bring video gambling under self-exclusion program - The News-Gazette",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNOXg5WW9RWDRGcnJCdlNIbVF0em9hSUo5U05taThCYldPSk0tRzlxMS1sdzNoZEEyRV96bmY3dnAyNU5lM1VFY3hiNTZJb0wtcURwdDlNSTJBVEloVjhiUHpySlZVeW1tN3dBOFkxX2REWEs5Sktmcmh4SENmSEotT3o3M1h3bFVhMkx4UFRrb0t6Q1VxVkltSVVtSnVrcWJGTENJdko3dUhjaUwxa2JDZ0pYeTR1SHpRWmhYYzZuYWhPcmFCVWY0bWpDM3hTa0JYUnFlYWpKNnhfTlNxN3NOejVzWUdYbVdtTWV4SjZyMzU3STlkOFlNeHJfdGpOVS1CTFhtWlRoOHVfeTVUc19MaTJWQVRPVHhCR2NRLXprbm9yUHdi?oc=5",
+  "source": "The News-Gazette",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Capitol News Illinois | Illinois regulators move to bring video gambling under self-exclusion program The",
+  "categories": [
+   "public-health",
+   "regulation"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "9e206735eb0ffa73",
+  "title": "Illinois moves to bring video gambling terminals under self-exclusion program",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2VMLUoyOEtaMTBZRnlOWG95NjQwR0xFZ0JnczRlSmFUdmpFakJuREFPTFQ0azVqc3c2LUJVN1pFS2ZJX3BYaUpyS0VpYkw5VmEzbEduSVNMc0RKNUtzd1dqUzExRXUwR1dOc3NJaHJkOTNBWWd0NkYyamRCczVUeDA0Z1JrX3lFS2Jhd2hYRTQyMlNPLXgxVmFZUWdoTlYtQTZqUWswLTNLZw?oc=5",
+  "source": "CDC Gaming",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-10-23",
+  "summary": "Illinois moves to bring video gambling terminals under self-exclusion program CDC",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "3328c873e55cfed0",
+  "title": "CFTC, Prediction Markets Address Oversight At Industry Conference",
+  "url": "https://www.legalsportsreport.com/283718/cftc-prediction-markets-address-oversight-at-industry-conference/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "NEW YORK – Prediction markets and the challenges surrounding their oversight took center stage Thursday at the NEXTPredict conference, where federal regulators and industry executives discussed",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "e5e0b059c60e3ece",
+  "title": "CFTC Pauses Novig, ProphetX Micro Contracts",
+  "url": "https://www.legalsportsreport.com/283537/cftc-pauses-novig-prophetx-micro-contracts/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "The Commodity Futures Trading Commission paused micro contracts on the first points scored in basketball games from Novig and scorigami contracts from ProphetX. Bets on individual plays that can",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "6748ed71459f939e",
+  "title": "Ohio Bans Bettor Over Alleged Threats Against Blue Jays Manager",
+  "url": "https://www.legalsportsreport.com/283402/ohio-bans-bettor-over-alleged-threats-against-blue-jays-manager/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "The Ohio Casino Control Commission on Wednesday banned an Ohio man from sports wagering in the state over alleged threats against Toronto Blue Jays manager John Schneider during the 2025",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "43755a55d54cadf9",
+  "title": "Utah Sues Kalshi For Millions After Federal Court Victory",
+  "url": "https://www.legalsportsreport.com/283468/utah-sues-kalshi-for-millions-after-federal-court-victory/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "Utah is suing Kalshi to block the prediction market operator from offering sports and other event contracts in the state, months after a federal judge rejected the company’s attempt to",
+  "categories": [
+   "prediction-markets",
+   "regulation",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "a1e7899d767aef6f",
+  "title": "Blumenthal steps up VIP probe by quizzing leading sportsbooks, prediction markets",
+  "url": "https://sbcamericas.com/2026/10/22/congress-blumenthal-betting-vip-letter/",
+  "source": "SBC Americas",
+  "feed_id": "sbc-americas",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "KEY TAKEAWAYS Congress expanded its investigation into gambling operators’ use of AI and and their VIP practices on Thursday, questioning several major sportsbooks and prediction market leaders. U.S. Sen. Richard…",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "e1653e66fc52ff84",
+  "title": "Former AFL players receive formal warnings over illegal gambling promotion",
+  "url": "https://igamingbusiness.com/legal-compliance/former-afl-players-receive-formal-warnings-illegal-gambling-promotion/",
+  "source": "iGaming Business",
+  "feed_id": "igb",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "These formal warnings were presented days after the ACMA highlighted further enforcement on influencers promoting gambling services deemed illegal in",
+  "categories": [
+   "regulation",
+   "industry"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "1aaf64d1c5a43d83",
+  "title": "UK betting shops drive wider high street spending, YouGov poll finds",
+  "url": "https://igamingbusiness.com/sports-betting/uk-betting-shops-drive-wider-high-street-spending-yougov-poll/",
+  "source": "iGaming Business",
+  "feed_id": "igb",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "As speculation mounts over further gambling tax increases, new research points to the role betting shops play in supporting UK high",
+  "categories": [
+   "research",
+   "regulation"
+  ],
+  "primary": "research",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "3a8578fa32cb9b0f",
+  "title": "Remote operator agrees to pay £900,000 over withdrawal delays as GC hones in on ‘consumer trust’",
+  "url": "https://igamingbusiness.com/legal-compliance/remote-operator-agrees-pay-900000-over-withdrawal-delays-gc-hones-consumer-trust/",
+  "source": "iGaming Business",
+  "feed_id": "igb",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "The Gambling Commission also found anti-money laundering and safe-gambling failures during their regulatory review of the",
+  "categories": [
+   "regulation",
+   "industry"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "08dc4f4f3d6d3a68",
+  "title": "Casinos Austria names Andreas Bierwirth as CEO-designate ahead of concession battle",
+  "url": "https://igamingbusiness.com/people/casinos-austria-names-andreas-bierwirth-ceo-designate-concession-battle/",
+  "source": "iGaming Business",
+  "feed_id": "igb",
+  "kind": "trade",
+  "published": "2026-10-22",
+  "summary": "Board members and stakeholders have commended the new appointment, claiming that Bierwirth will be well equipped to lead the company into the upcoming concession",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "fb7698d02804a98d",
+  "title": "What Makes an Online Casino Trustworthy for British Players?",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1NfdHQ5bDVEX2tlRFB4QUx2SUtRSWRDclMyejI4ZWZfSWtKcVY3dW0teE1tTmNjQ2lVTENub3lQcHZ1RUlGZzRsRmluWVVUY0ljd0dockZZSGFwdVBoa0F3dXNBRng1SDczTm9aaFpiSVlVX1BSRTVYZDBaSGRneThEX1YyaDZQTW0tNlYweVFJbUE5Q19yem1MVk50ZS01azhDVlBn?oc=5",
+  "source": "The Leamington Observer",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-10-22",
+  "summary": "What Makes an Online Casino Trustworthy for British Players? The Leamington",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "412843f8ee44d1bb",
+  "title": "New Jersey Mandates Gambling Addiction Warnings",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnJGUUVPd0xCWVA4dlVHVm1KRXRNYS1lSm9MeE56aFgzU3ZqbmJTUDBuSTRrVExvUUpudmxDOVpRNmdQSU1tZ0laTGVNbXpWSnQxcGpCNzlIaUFPSHB1dWZPZ2xlVjRwVmJIVERRMVdFOU5NejI4RTN6RE11NzNvQzl0bXlZUHJQcXBFOXQ1ZEZvcTFDT29LMzk1NTJDWTg?oc=5",
+  "source": "NewsRadio 600 WMT",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "New Jersey Mandates Gambling Addiction Warnings NewsRadio 600",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "ec41b24564854ead",
+  "title": "Man Who Ran Gambling Addiction Helpline Sentenced to Prison for Stealing $1.4M to Fund His Own Gambling Habit",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDdoNmprMkRqVkpCcTJ3dmJZeXNvbmNVOVN5ckRxd3kyeERpSnBuYjNqZkhoZVRQREhBeFZSQy1PMVJQNjl3bXVoTmhGdXA2UE4zVlI4MmRRTS1jbUhKaDR4WXEtbXlRTFE2QVQ0RGZBU2Y3aEtWd1AwbzgwX2hyQjdaU0VZUQ?oc=5",
+  "source": "People.com",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Man Who Ran Gambling Addiction Helpline Sentenced to Prison for Stealing $1.4M to Fund His Own Gambling Habit",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "5fa81acb28d6ff57",
+  "title": "PA Problem Gambling Caucus: ‘Our Drug of Choice Is No Longer Meth. It’s in Your Pocket.’",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM0VXgwQlFTLUl2NUtabHNjUnF1MkFKWWtCOEMtakliTjVfVS0wQlZKZ0V3YnR6YU1URm4yTVh0czRObno2Rl8tck1PWTVOOTduMmlqR1VGWkVKTDBIcFQzTUxZVkxHUDBNNTVRUVpWeTYxUDk4Y0hpZVd4c0YwYjJzYllRRGt1N0VhMlgtQWduUm1H?oc=5",
+  "source": "Casino.org",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "PA Problem Gambling Caucus: ‘Our Drug of Choice Is No Longer Meth. It’s in Your Pocket.’",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "a315baf81d029742",
+  "title": "Pennsylvania launches first Problem Gambling Caucus",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91eTd6bENKdmU4QUhDdFRyYjNvNjRqajdwclJtbGVPanJ6OVpmblhkN08yY1hqUHZ3SFNicE54QTgtbElXNEZSb2dhQ3NlXzNlcmpSMjRrbEdlaEtuRGFaNUI3UTJhaTg?oc=5",
+  "source": "Focus Gaming News",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Pennsylvania launches first Problem Gambling Caucus Focus Gaming",
+  "categories": [
+   "public-health",
+   "industry"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "68cbdb1362b13f84",
+  "title": "Rep. Jimmy Patronis asks ACC to disclose sports betting policies amid push for college sports bill | OutKick",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTZNZWNibFludDlaZ3NoTFVHalhkWkJDWFZPTUJ2b2lrX184MzQ2VnJqdFRLTXBnS3NFOTN1RTU5ZjlMNDdya1QtSEJrdmk0TXQyNEhCRTU1MGNzaWV3cTJJVksxV3U0MjBVVmRtRDgxTkRYWW1uNGNCYWFWWFVBMGF5UjNyS3ZPQktGa21LZkd5YlRMcmFudF9Ldjlad2hqNXRlQjlZS2h1YklFMEdwV1dfbnREZUJUbExtX2YyVlBhNG15WjdhbQ?oc=5",
+  "source": "Fox News",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Rep. Jimmy Patronis asks ACC to disclose sports betting policies amid push for college sports bill | OutKick Fox",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "df4dada038466abe",
+  "title": "Nebraska voters weigh online sports betting as opponents warn of addiction risks",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHJXQVZTLXVFVVJ0VnA1aTJOZ28wMmVFOXVLWTdmdzZwMXJKcUhSelhOY3I1dWJLcmNoZklCMlJKNDhKYm5wSkZvend6YTVCYXUyNUd3NHMxVzJzVFRxQ0FSMVFCMDdRQ2c1b2NQYkpmMUZETTh5eTRlcTQ4TVpGVlk5aUpDYjZKdWVUMzJGSHFma1ZtaldpUGlhSmtkLV9LT1JwMHhCczZnWkRlOVlRZldubVB3TEdEbjJN?oc=5",
+  "source": "KMTV 3 News Now Omaha",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Nebraska voters weigh online sports betting as opponents warn of addiction risks KMTV 3 News Now",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "8e83c5f5fbc0d022",
+  "title": "Ohio Licensees Face Oct. 30 Deadline To Drop Sports Prediction Market Work",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWF3NlR5TjJWR0w4dHJXZHQ3SVQ4SDNfQmIyMFNPVEtsTE9URlVUV1hadDlHeTlmb0xuYUo5eF9lX1p3cmhtUXRpRkw5ODB2Qmp5MXl6eDVock5GT25hR0dyNGstTWRDV1lmaVZYNnAyUkpKVjh4UUFPRTNSY18xYk1UMXJocElaYTlQZ1VCUmxLempJNUJ5cnFnSHJfWGZUcmNsbkJUNnA0MVpYeFg2T2tB?oc=5",
+  "source": "Northeast Times",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Ohio Licensees Face Oct. 30 Deadline To Drop Sports Prediction Market Work Northeast",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "ff9344945112f571",
+  "title": "DraftKings Lawsuit Seeks Discovery Into Gambling Algorithms, Bonuses and VIP Rewards",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkxESmJKU3ozN1pubHJLSjNWVWE2SlBlY1FkYnVoSWkxVHhWRTMwRjQxWGcxZmZCdUdYZk9tNmZsaTBqbXpDekhVWHhvMlNMXzBVd1o3NFVxTWdEckllb2VFcFZzSmRUQ2lYMG5HSC1meEd5eUxuakxHYklwbUNHdlA5alhqUUhJbU14MVg4N3Y5MXdHR0I3TkVMZUZhMWJvem9RTDdlTW8yMDV6NHlGbXk5MGREMXJxRDF6UGNWb2ZHMm8wTFd2Y0dzRHM?oc=5",
+  "source": "AboutLawsuits.com",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "DraftKings Lawsuit Seeks Discovery Into Gambling Algorithms, Bonuses and VIP Rewards",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "541b7c30319d2fac",
+  "title": "Exclusive | Polymarket fires top executive who was closely allied with CEO Shayne Coplan: sources",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWt4cUJzVlhQX1lzVXAycEQ3bWZaT0VuM2VmZUZYTGpfb1RpZ09ic2tDRTB1SVdaWDVpckVSZ2k3NlNSTEw2X3RzVUdkLVdPNTlMZXpxYVFLSkJDcDAxRUp0OVVFVFBJNkx3NE9lS3ZxVGxTanYxcHpSUXpGa20wQkFzQ3MwQTlFOTdBc2ZlM21jYzFsa1B3blhZb3dRUlpBeDJSOHFESUp6b0QyckM2eElpS3hMNTdPRmVvZno5WmNpdw?oc=5",
+  "source": "New York Post",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Exclusive | Polymarket fires top executive who was closely allied with CEO Shayne Coplan: sources New York",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "ea40b85371ca3b2d",
+  "title": "Hegseth bans DoD personnel from using nonpublic info to bet on U.S. military operations",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb0hRRm8wR0pmcFdoS3VXUUtjc2hDUTltNm1oM3NjTEJRZ0JxNHJ6TzVMX0RwdFM3R3VXWEl1Y2plZjJ1Rk9SdkIyTndoTVdBN21KR2pCMFhWcDB2c2xoUE54eDBKbGJXazdLRWdSNnVmSVN2WXV3dQ?oc=5",
+  "source": "CBS News",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Hegseth bans DoD personnel from using nonpublic info to bet on U.S. military operations CBS",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "5af84e327f96279b",
+  "title": "Hegseth bars US forces from using undisclosed information to bet on Polymarket, Kalshi",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEQ0VEwwX1dPT1VtdURjSFdneV9FaGlueVJzSThqbU9FNnAwbmVVdG5QX2ozbTZqVWRtSGtNdk9naUJ5ZVYzSENGNXVnYjhfZmNhUWtSZmxiZVM4TmYzVGtFZVdEcVdXRmFMdVRyN2Q2Y3hzVHU5MXlPOUZoZ2YtanhqTnBWWG0yWjc40gGQAUFVX3lxTFAtaHhyaDdKZXZtSWwxT1lwYlBuOURCQ3c3Rm92RmpiUVhWbmRHbW00ZTB1X0xQVDh4TFR5ZWtLZkpJWUgxMEhCQUdKemtJTGNlaUlkTDBQc3ZudXZaWkY2Sy1tdjBLb3p4elFHQXVHazlJNDFCcV9idFRlTVdDS1lmU1A5dzd3MGFPc3ZndDJlMg?oc=5",
+  "source": "The Hill",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Hegseth bars US forces from using undisclosed information to bet on Polymarket, Kalshi The",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "92189dd316a6e312",
+  "title": "Tracking Michigan Senate Odds After Final Debate: Trade Midterms on Kalshi",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3ZTbTN5SFptVzNDaUFQTlo1V2Q3TklmWW5fRmxKa2lHQ2t0X0c4REdWX1dqd0JFa1h5OWI4dXJ3STI1cmVXajVwVy1iaWJ5a3hWTXpCN3BKZ1o5dFFnaTdnOG9PUVF6cW1vUElJZERzbG8td2pINU5jMEt5bWE3NlBhVnZXSVV4eUgwLVNIbU0yNHlNaTFDQlZ1cjUtTnA3blJudW9PNGh5QVBMZnVrS05rSGRzenozc3BaMEZtQ1hNa0pDeVNGeA?oc=5",
+  "source": "Federal News Network",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Tracking Michigan Senate Odds After Final Debate: Trade Midterms on Kalshi Federal News",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "480e9c46d8657922",
+  "title": "Illinois regulators move to bring video gambling under self-exclusion program",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3BqWkUwZmxGc1pvb01JdGh0T09weHhRaDZrRTFuY1k0R0lUSXRiQUlaRTJ3WFZMUGF1M0ltLVptc2w4R1d3RWZiMlBTZzVyaDBtUTNQZ0p4blBCam4zamVBWjlwUjN6dWx2VHNEOWY3Q2xqVFdOZUdtOTVWYVpTM21BdXhaRkJobWREUWJBRU5waHNhN1BWY1lCanEtMDMxTDRmbHZhd0l0V1k?oc=5",
+  "source": "KWQC",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Illinois regulators move to bring video gambling under self-exclusion program",
+  "categories": [
+   "public-health",
+   "regulation"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "ae6137473158863e",
+  "title": "Illinois Gaming Board moves to add video gaming to self-exclusion - Herald-Whig",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN25KSmZGQ3dXTVJGNHQxOXlxTzFmclJFQTctRHlGQ1U0Q1A1ZENGUkpXRDkxM1lUV24wM25aRENyMGtCM3ptbVI3Vk9WOEszc3gtbXdzOEZXQnRhdnRBSHBqbUlZSmFTRXVFX0pkWkxNeEF5Z0ZlZFJHUzFZWWZRXzQxZWhBVEtUNzZ6QTl2ek1iSlJEM2g5eHVB?oc=5",
+  "source": "Herald-Whig",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-10-22",
+  "summary": "Illinois Gaming Board moves to add video gaming to self-exclusion",
+  "categories": [
+   "public-health",
+   "regulation"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "6fafd8d502bd0d04",
   "title": "Following Unfair Cashout Investigation: L&L Europe to Pay $1.2M Settlement",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3dXNy1CaF8tNWFvYkRTMlZoYmdXUWxJM3BCZXNuQ0JHWXJvUTN5cVdKSkdnT2MzN2lELVpsMXktUGczWkw5aG1lbk1OMFV1a2ZFMklZajdXY1NNMmVaT2d3Q3Nib3BHQU9oUEs2eGh4SHVOR3VIeEpfV0xCOHVqVkhCSEFteG50eFRGSU52ak5Vd19KRnRaZW9qU3RfdmJfOWZuM0dTa0FIQQ?oc=5",
@@ -125,65 +710,142 @@
   "first_seen": "2026-10-22"
  },
  {
-  "id": "93b9f34d5d525b0c",
-  "title": "Google’s AI Dominance Has Prediction Markets Betting Big — But Anthropic Could Flip the Script",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXllQjJzM3E2SVJ6VVJaVWlRYnR0LXBfbkFEQVVJWXNJWEVpYzhvNExFRE56TlJBNHQwNl9HbjBLQWlQRGZBZVFPZmxWVkRGZ0JIX0N5ZlFfZ2pDbnNxcHpyazQ1dmFNdmtkX2tISk9CNzI2ckVzLVpoVXpHTFViRGxEVjJON3FuMnU1Zk1icWxrTTZtNWFGNnBYS2Rna3VDa1lZY1Z1UU5XTWUzbjlLa0M4U0VabE1RV2NtUmZpV1AwNkdYOHAwekJHY0d1dWNXeWdWLXNMNkhKQVhTaHV0Z2F3MXY3NkIwS2thbEJLZw?oc=5",
-  "source": "Benzinga",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-22",
-  "summary": "Google’s AI Dominance Has Prediction Markets Betting Big — But Anthropic Could Flip the Script",
+  "id": "e6feedcf68a4388d",
+  "title": "Ontario Regulator Settles With PointsBet On Two-Day Suspension",
+  "url": "https://www.legalsportsreport.com/283299/ontario-regulator-settles-with-pointsbet-on-two-day-suspension/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-10-21",
+  "summary": "PointsBet Canada will shut down its Ontario site for two days under a settlement with the Alcohol and Gaming Commission of Ontario, closing a case over suspicious Jontay Porter bets the",
   "categories": [
-   "prediction-markets"
+   "regulation"
   ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-10-22"
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
  },
  {
-  "id": "e1cdc492e67b610a",
-  "title": "Could Lindsay Clancy be Google’s most searched person in 2026? Kalshi traders are betting on it",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjhIWThvZ0NEOXA4V0lfbkZhcG81VE5lU3BqRFc4NGlzX2R5MW9SbnRaZ283MXR5aTBGZHljOWRrQ01KZzRzWW1oV2UxXzhxVXQ3QlNtVF9TZXFHaER6d0E3RnhySXNMYVlLZHAxUlMybEdENXduYXhac1FtdEJIVzRaNFFWbW90VUM1N0k0TC1qWHA2RXhVXzBQSGdWa3d6TW1lWWNMWTU?oc=5",
-  "source": "Greenwich Time",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-22",
-  "summary": "Could Lindsay Clancy be Google’s most searched person in 2026? Kalshi traders are betting on it Greenwich",
-  "categories": [
-   "prediction-markets"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-10-22"
- },
- {
-  "id": "19aa8d1e24e32ccc",
-  "title": "Hyperliquid founder says options are next build on its prediction markets",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFlzWk9iNEtCTzVYWlI4ZzNlLVlwWFBaWXdvNmw2MjRsZG9wZ2lkQThUd3VfOXRGNHNSWTZLRmUxQXZ2UEZQMGoxX01vU0k5ekhubzV3QWNKQlNBUnlhZ1FpWHdrdU1rS3ZsczAwOFZmRmhlUkJ0YXh2ckhBUjQyMC1nU1ZmQnBwRURfLUJHS09hVXNWZGRPYm95dmZfd0F3R0NR?oc=5",
-  "source": "Startup Fortune",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-22",
-  "summary": "Hyperliquid founder says options are next build on its prediction markets Startup",
-  "categories": [
-   "prediction-markets"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-10-22"
- },
- {
-  "id": "d568324c79f97292",
-  "title": "Polymarket US sues Ohio over a cease-and-desist order",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWjcwSUVvMWY0Vl9NemREUVQwbkplY1dEY3QzV1dZOHNMQVFCUmRYX0FYREJIbExjWjI5cjd5ZjlWUHZqUXFWVmxJbHBabjhoRTNyX29JMWplM1BOYWM1S1R4VmZUNU96NnlJQ2NQZHQ?oc=5",
-  "source": "Focus Gaming News",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-22",
-  "summary": "Polymarket US sues Ohio over a cease-and-desist order Focus Gaming",
+  "id": "85ec2cabcf1dc52e",
+  "title": "Ohio Regulator Warns Licensees To Cut Ties With Prediction Markets",
+  "url": "https://www.legalsportsreport.com/283208/ohio-regulator-warns-licensees-to-cut-ties-with-prediction-markets/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-10-21",
+  "summary": "The Ohio Casino Control Commission is widening its prediction markets crackdown beyond the platforms themselves, warning its own sports betting and fantasy licensees that providing services",
   "categories": [
    "prediction-markets",
    "regulation"
   ],
   "primary": "prediction-markets",
-  "first_seen": "2026-10-22"
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "6740fbca8efc96a6",
+  "title": "Poker pro Leforbes has sentencing in Resorts World matter moved to December",
+  "url": "https://igamingbusiness.com/legal-compliance/leforbes-sentencing-moved-to-december-2026/",
+  "source": "iGaming Business",
+  "feed_id": "igb",
+  "kind": "trade",
+  "published": "2026-10-21",
+  "summary": "The government has recommended probation for Leforbes on money laundering and illegal gambling charges, but he will have to wait a few more weeks to learn his",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "aa3ca30f432b01df",
+  "title": "Ireland vs the UK: Comparing Two Evolving Gambling Markets",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHdvbzVIUUFsNXRPODFjdGNaeWs2Uk1mV3k0bEk5eEY4TmRHZC1NRjN3MEQtOFpXeXRaejRMa295OWZIeFNtZURHenZCbl96VGt4b1ZySi1nWEJkc0xLd09ySEhGekw3UnhsdXRxdkNCZGhwOUR4QXhTWG9JdVNtRmRvQ18?oc=5",
+  "source": "AffPapa",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-10-21",
+  "summary": "Ireland vs the UK: Comparing Two Evolving Gambling Markets",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "c58607ffa8fcf11b",
+  "title": "New Jersey makes gambling addiction safeguards mandatory",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmVqWG1rc1VqeDI3Mm9aRjgwZXE4cHpMdmNQTVpqQWk0N3BhRk9JLWNSWm50aVB0VnhRU2pPcDMtVVFxd1p4WmpBd25PaFJaYy1MY0JjbnUybVRWbUhBbDk4R3ZuNDNRVDZGZ3QtUmZnWmw4cUM2YWhzcWxxdTdUekdYNnpOX3NHMHI0U1psbUV0TUxZRjM0aGkybVlYdw?oc=5",
+  "source": "The Jersey Vindicator",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-21",
+  "summary": "New Jersey makes gambling addiction safeguards mandatory The Jersey",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "f2d9750363c57fd7",
+  "title": "New Jersey becomes first state to require gambling operators to identify and address problem gambling",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2phMFQwYklhY1plRGlwRkZkbE1DeFhWQWZGQWk1blNTdU14RXRtbTZUVTk2TU1vSm5MSDRBUWV4XzZxSkFERG5CV2NUWGRYWGhoYW1kZDhKMHhzVmRqaThRV28wZnZESE83TFJyV3lMbk9mc3NOaVdGMGxzRk1HZHJySTVFbGdpSWZKVnczbDk1TjRMbGZ3OEE3QTFmRUdrNExJakN6aGp0MS1zUFoyNklXTnBVVEZmVGRHaXVjMUpUUQ?oc=5",
+  "source": "WRNJ Radio",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-21",
+  "summary": "New Jersey becomes first state to require gambling operators to identify and address problem gambling WRNJ",
+  "categories": [
+   "public-health",
+   "industry"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "2528cd06ab2ccccd",
+  "title": "Problem gambling jumps, suicides triple in Ontario after expansion of online casinos",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX05zVXI1V3AtRWF6VW9uUWk4Uk9TWHZocW8yMjJpTkVKYXdHcXczaFRQSWRMZmt3TWV6Snk0bWxpMDBGcElId0xBTnowclRuYzlaY1hwc1FydEhEWHRpSEFRa3F2N01ydW9JZUFDZzhXNXJmMmxWR0prcnlFYWZ4TlJ3M0xFN1dVT0h2Tg?oc=5",
+  "source": "CBC",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-21",
+  "summary": "Problem gambling jumps, suicides triple in Ontario after expansion of online casinos",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "e4339100dc7515f5",
+  "title": "Ontario’s gambling agency shelved its own problem gambling study",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0c2TXBjS29JYnE4SXRsNnhNLTdtUVgweW15YVpzRUVwMmJsTC0yLS1aRWQ3NEhvU0ZnUFJ0b09ZR3FNbWFjTzJ0QXBHWDdnMU5XbXFUd01ha2twRlAteFJzMzUxX29XaGluOVM3ZnlyQjNTQ1JCeWttX1hvMjNDR1BpZ3I?oc=5",
+  "source": "WellPlayed",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-21",
+  "summary": "Ontario’s gambling agency shelved its own problem gambling study",
+  "categories": [
+   "public-health",
+   "research"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "beee7c45f053dbb6",
+  "title": "Betting on the Ballot: A Philosopher on Why Prediction Markets Aren’t Polls",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHFjTkV0dWxhbGM1d0hMZG1Xa3VYbUpTSksyck9lLUZZUlpmWDltVHpUWkdYczlXYjUzb2ltQmNQNFctMV9UQTVHOXNFQ29PWGRzMVlDMVJMcnpkSXh2SnJJSEloMy1yeEZJM1U1N0pHckVfdngycDFjbF9QSzBZYzFxVy1EUHZCdmZmU3doWHJTcUttcnFwNTFJLVdRZGtjQ3pJRA?oc=5",
+  "source": "Davidson College",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-21",
+  "summary": "Betting on the Ballot: A Philosopher on Why Prediction Markets Aren’t Polls Davidson",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "70897bd956d0349e",
@@ -575,69 +1237,6 @@
   "first_seen": "2026-10-22"
  },
  {
-  "id": "cbb072d9f5255157",
-  "title": "Problem Gambling Caucus forms to tackle online betting crisis in Pa.",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1dXMkNmWUloLUsybG8xRHpabkpHZlUwUUNFSWRDaFNLekdlbnI5bS1qNy1hNmV3VFlIS3lTeDFZMGNobWxXYmxGUS02VlZ3TFRNX292YXc2TUJwcTBZR3JTMVRMSEIwY2pDQ0tmRmJkVjFoTFBnMWNvWDd4ZFV6Y2djVF9jS0l1YXNsUVZRblQyR0dTeU5IM3VNdkd0aEJHeERRbGJucVV0SHJickw1bVU2M1R4dzhxLVdPNGlVcUlEQQ?oc=5",
-  "source": "PennLive.com",
-  "feed_id": "gnews-problem-gambling",
-  "kind": "press",
-  "published": "2026-10-21",
-  "summary": "Problem Gambling Caucus forms to tackle online betting crisis in Pa.",
-  "categories": [
-   "public-health"
-  ],
-  "primary": "public-health",
-  "first_seen": "2026-10-22"
- },
- {
-  "id": "93b72b1ca2903ec0",
-  "title": "Pennsylvania lawmakers look to combat problem gambling with new caucus – 28/22 News",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkUwc21rekF4b0tWMDRMdEVNaUFfS1R5UEs1U0ZDVFlOZFhRTWFabjRxWWF0QUlaT2VBandveHJZelJrT3dpS2Rabi0xa0dZcjRZMlRKbEgtLU9ONzAyNW91dHV5NG03ckc5UzZmSXI5Qkw4MkppTjZqdG1mVXVnbnoybzl3cEYzMGF1dXFya3JvVEZ2UVFsNFlCbkEyZDcwRmhOdl9qRGxpUEowaUsteA?oc=5",
-  "source": "28/22 News",
-  "feed_id": "gnews-problem-gambling",
-  "kind": "press",
-  "published": "2026-10-21",
-  "summary": "Pennsylvania lawmakers look to combat problem gambling with new caucus – 28/22 News 28/22",
-  "categories": [
-   "public-health",
-   "regulation"
-  ],
-  "primary": "public-health",
-  "first_seen": "2026-10-22"
- },
- {
-  "id": "e8c0add9ac49930d",
-  "title": "READ: New state rules on problem gambling",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGdwaWZzU0NQLUR1X3JJMnY5MmpaOFBfc0Jub2FBa3lJaHRJb1h2MjlrWklhSGRTN3p1VV90MEFfZGJLTWNCM1FwZHdzcDJtWFNxSXlEQmdTVzVpN0hiQUlFZjJwTE1MQWthT1lZdjFmOW5oOVRLc0duSm9hZEpBT09wc2Q1M2NnbDk1eEp2ME5GR2FvQTkxOFlmRnE1NFk1LXc?oc=5",
-  "source": "Press of Atlantic City",
-  "feed_id": "gnews-problem-gambling",
-  "kind": "press",
-  "published": "2026-10-21",
-  "summary": "READ: New state rules on problem gambling Press of Atlantic",
-  "categories": [
-   "public-health"
-  ],
-  "primary": "public-health",
-  "first_seen": "2026-10-22"
- },
- {
-  "id": "0fe8717b863d546d",
-  "title": "Pa. lawmakers launch first state caucus to combat rising gambling addiction",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTZ0eGQzMExLRlhWdVlpSktiWUI5SlNyaE9tX29rMGVNaTNqZVI5NTJoY1hIWDhOeHFtVTAwa3R4bFlNRkZLckpkSjlBZHBiMWRHVmt6djhESXBUZHhXTFJDQVlCUlJYeWdxVlRqOGRQSjhhaXpvYS1UZjRXLWFjTE1Lcl9PZmFTWkR2UWY2MkZKTWlsOXdOV3Z2NjZrc1Y5MVdoNXdrQkdtMjA2MFZIV0VpSHRyaTRMcU5zMFAwQnVMU3VEXzNBOGVJQ0dwVHdjQ2lCdXAya0FPUFZMbWVvcEZPUFdmYXNDWXJjaEVB?oc=5",
-  "source": "fox43.com",
-  "feed_id": "gnews-problem-gambling",
-  "kind": "press",
-  "published": "2026-10-21",
-  "summary": "Pa. lawmakers launch first state caucus to combat rising gambling addiction",
-  "categories": [
-   "public-health",
-   "regulation",
-   "industry"
-  ],
-  "primary": "public-health",
-  "first_seen": "2026-10-22"
- },
- {
   "id": "a53307afdc8dec04",
   "title": "Kalshi could be headed for Supreme Court showdown, CEO says",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkFUb056VWJtNGlpcXI0bXI2U25RSjFrNDVkZ3dnSkhFdWZCRkJwOGVkZGRaLU1iZFg1WDdtTnpKZDI3aFIyOFBZUlRJUDlnUGxZYlNURzc3MlAyYjM0N1RLUnM0X3ItaTBPaEJFNlhfcGotQnlQSUZUdEotRWU5TjhpUEt5QkM0djBpQVNCWURvVWlQUFRHMU9rTkE1TUNaZHAzaWtQc2pCRWM?oc=5",
@@ -777,21 +1376,6 @@
   "first_seen": "2026-10-22"
  },
  {
-  "id": "a825c6c759d1cdeb",
-  "title": "Polymarket removes contract allowing wagers on fate of Cornell students accused of sexual assault",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWhGN0YwYk11TUZBUi1vaHdZVlNtTVFvMHBRN2hoYVRzYUo4WU9OcXVJbEFyWnhYdFE1UlE0LUp4NWRzTTBZaVhfdXF3ZnpUREUxVW1YcW9NdHk1ZlNnN21SV1hDaFFfNVZWdWNoSUl1QXNsUVRjR19zVUJLUWJnM19NaWZJVHFPaVR1Qy1SUmotUHEydF9VRkZVZDBqa2w2bHN0aVBhTzJuRUNNdGE2NTY0TkpRYm9kenBYSUxvYW54WUdpbmVNNDhTcFlTVko0REhkRG1SRXlPSDdkZlHSAeMBQVVfeXFMTnFMZkxOV2tockFMaWRFZ19STExieVl4WmR0V3lCTmZTbm5SZVN5WUIzdndZSGxTdzdWd0tNNlRPM2NNbmk1cFIyamNzbjV0Z2U0OUdkSV9XM3IxaDE3cXFDS3p6Y1BFRmdGUHpHU0FHWVYzRDJjMzdsNlFYRlI0Rk1NM2x1VHhLRnFIQllrWHU4YmpBQXlNLWthMUo3d0ZLZ2JEZU80SE9CQ1FVanJlNnk5N0RWUnhuR2I3eTdUYVF2MzJ6djFGY3M2WGZ2SE40czNNS2ctWm9qTU5lV1E2bVNmWmM?oc=5",
-  "source": "KELOLAND.com",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-21",
-  "summary": "Polymarket removes contract allowing wagers on fate of Cornell students accused of sexual assault",
-  "categories": [
-   "prediction-markets"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-10-22"
- },
- {
   "id": "31ad896417d0743d",
   "title": "Picklebet penalised for gambling self-exclusion breach",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNjNEMWNEeDlMNzZJdXhIUHpkeXBoYkFkbjcxNkdHN1ZVbXc3UFM2S2Nzel83dWQxbFlqeFJEUUtSX1A5a0FsOGQyXy1nb01EVU9OT3VuVXg3QURwSl9lQ1Vod0VnUDV2Z3d3d3JTUElrVDhUbmZsWUdYTHlZdmhUWFQ2SEMxZjMxR1RsR1pQQjIwaDZKeEE?oc=5",
@@ -883,6 +1467,68 @@
   ],
   "primary": "regulation",
   "first_seen": "2026-10-21"
+ },
+ {
+  "id": "3d78d62f48dac596",
+  "title": "iGaming Ontario Withheld Problem Gambling Study Amid Concerns Over Results",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDRhdjRkSFhNQXBMZkE1cmZaUklTUDBaUHRGd0hvd3FUOW5RN1JWNTRTLWJkRUhlZ2Q5c1BUeGp0NnRZb1g3N0NYMWhfbWcyRXJCRktCcnAxVF9fN044MzNwbUkwWVVzRE80Q3lmWTR1dnFBaVZ1NUtuSWlWbUJEMlJXQjROYUxadGRF?oc=5",
+  "source": "GamblingSites.com",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-10-20",
+  "summary": "iGaming Ontario Withheld Problem Gambling Study Amid Concerns Over Results",
+  "categories": [
+   "public-health",
+   "research"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "259fcb3196214aa5",
+  "title": "Utah Attorney General declares online gambling public nuisance in lawsuit against Kalshi",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2dyQ0dMSDFTR2JTN0hxQmRCeW5tY2FCRmd0RVZjdjlyUmZxR21lWkxRRzgwUXhKZlRJNFdSU0NSeldaWC1FckUycW1FYVZpcDEzMTZZbzZya1FwSGdiZkpNRXUyRG1HYndHVTdSYlZfc3dqSm1GZjBQR2lwWFNTTnltT2JLaGJCSWhjQURVc1RTdDFWZEpPeGgwZHVJdE5xWkJ1bXkyRUJaOTlCd3BIX1VsT0xyUHZSbEdrazZYR2VWdGNnYlpYbWctaGF2aW9tRWMxSTNCelc0YTBRa0JoWGxqNl9ValNrLTFPNmQ1aHhyWUU?oc=5",
+  "source": "KUTV",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-10-20",
+  "summary": "Utah Attorney General declares online gambling public nuisance in lawsuit against Kalshi",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "1a0139704c943678",
+  "title": "FanDuel cancels Philadelphia Zoo offer for VIP bettors and their kids",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzMySlpMWjJUNnNMQU43ZnRWZlRSSlQ0OVF2OFYxbzNXRkYyaUhpVlNqc3FHUFlOTlVYek16Ui1yWDFGQTZBTWg0TGRQZUdwdndpc2ZKUldFTDZtQ0xSRnM4eU1NS3B6YUNaLWpkSW1iZHZCUTJhUkJNQnR0YnI3N2ZFb1dfOHZMbERHUC12cUd5YUN6S04zb3ZNSzhZbmtQYmc?oc=5",
+  "source": "Inquirer.com",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-10-20",
+  "summary": "FanDuel cancels Philadelphia Zoo offer for VIP bettors and their kids",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "da281e5ae6903ce5",
+  "title": "Polymarket removes contract letting users bet on fate of Cornell students accused of rape",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXZQSHgwdWpNb1NTaWtLbFVKSktqMjlrblhDWTJDbDZwUGcxSThRSGpwRTJNakM5WS16SmdwTUFHNkJGNHBqcEVfSjVaSHBCWTlrUm5WdzRBS3dUYkd2WUlWeUF2Snl0ZUFaVkJMVGxWUWdUZ184WnhqYU4tUFl6OUNoVWNBQW9ZNWxfdnhJYXBvckZ3T0VMTDdJYmNUZzVVSWJwZEszZF8wRnRjOUV5dkNCcDRmWXkyRmc?oc=5",
+  "source": "NBC News",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-20",
+  "summary": "Polymarket removes contract letting users bet on fate of Cornell students accused of rape NBC",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "7943a172e002e648",
@@ -1421,21 +2067,6 @@
   "first_seen": "2026-10-21"
  },
  {
-  "id": "336dab789d1cb63e",
-  "title": "Kalshi announces $55 NBA code “SYRACUSE” for Spurs-Thunder Opening Night",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNBQkVEX1pRdldDQjB3R1FHLVNNTXZpWWRXUl9aWG9lNzlZOHhzYTdDSk5qaVhDUnJfQTRPVVkzVG1KTVg2bXY1cVVReVd6WGVSU0ZzcDBMMWNoVVRFYXYtNjRseGJ2bGZWVFlnd1dKR2x4Z0RheVJVQVdWd3JKWWQ4S2NzQmJJbDQxYkdOckRTZThMMU5JWjhYTkJvc0pibVYxN0t3WVVnWlF4LUtoSE80dy1wQQ?oc=5",
-  "source": "Syracuse.com",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-20",
-  "summary": "Kalshi announces $55 NBA code “SYRACUSE” for Spurs-Thunder Opening Night",
-  "categories": [
-   "prediction-markets"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-10-21"
- },
- {
   "id": "f05d82fd2dc134be",
   "title": "How Self-Exclusion Registers Assist Problem Gamblers Regain Control of Their Lives",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1ZPemZtUzdsZWtTWlJ4bjVIWlU3YWw2YlVjeGVmWHozc2ljaE56dFhVVXlhOXFnZkhrcXVHcnhYWm84TXhmdnlaQ21XSUdyb0Y4VURwMXFCN1BqN1hKR2lFaEUzM1d3LUhoT3pQWUstRGRfemtSbjFRT3l4V3ZXc1pMd0huOU1aMzRTR29MVmJXaF9qdGFQWkVFSEdKTk1lM3BpOXFQSkxVRVdOMV9TNU13?oc=5",
@@ -1464,21 +2095,6 @@
    "industry"
   ],
   "primary": "regulation",
-  "first_seen": "2026-10-20"
- },
- {
-  "id": "9e2fd1e46986123e",
-  "title": "South Korea plans to strengthen support for teenagers with gambling addiction — Korea Herald",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWxCN3FWcGs1WW1QZW8wemRNOXBvNURfX3FIZkV4dld6Z2ZTc2FYaU9nS0FmU3Bpa05lUDFIY2gzNGp3TTRFVmRuTUp0X2RhNVg5ZWZaMXB2YzJHQ3lIbmppQXJITzllUS1FU0Q2czRUZ2ZXejFLTDg1azFNb0NaakpDX040b0NGamxUNzFzM09yblludDQyNkZjTUt2ekNxa2pWX3BLMVk?oc=5",
-  "source": "UA.NEWS",
-  "feed_id": "gnews-problem-gambling",
-  "kind": "press",
-  "published": "2026-10-20",
-  "summary": "South Korea plans to strengthen support for teenagers with gambling addiction — Korea Herald",
-  "categories": [
-   "public-health"
-  ],
-  "primary": "public-health",
   "first_seen": "2026-10-20"
  },
  {
@@ -6686,6 +7302,22 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "7cb1e351a21f2bfc",
+  "title": "Kalshi Split Widens With 6th Circuit Ruling on Sports Event Contracts",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWtlaVdaN3NYMXkzQjBhY1JIWVFKY2Ywc1Z5MWZBd0ppRUk3a0pUNHB4SUdIUF9jN2RoWUljTXNMdHdXWGczcVZUUzBqYXVEUzNaaUpVa3lsN1gwcXJ4eUZaYnBuZTh4R1hscWxmanNZTmFoYjVSZHBockdHNUk0M1lsVml2WVlKNlE?oc=5",
+  "source": "Sportico.com",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-09-26",
+  "summary": "Kalshi Split Widens With 6th Circuit Ruling on Sports Event Contracts",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "c5dcb0c0b709aa8b",
   "title": "National Council on Problem Gambling Announces Resignation of Executive Director Heather Maurer",
   "url": "https://www.ncpgambling.org/news/ncpg-announces-resignation-of-executive-director/",
@@ -7242,6 +7874,21 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "79d40e7bba055028",
+  "title": "AML failures speed up vision of UK gambling consolidation",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52LVBJLUxxTnNmV1BzZVl1X29sMi1tZTNDSTdTeUxOUHlWak9DVlBseE5XUGtVclpnaXNfT0x4cHN6MjZsblpCeUJWOUIxSTU0ekwza1RzRFFxMDk3N0tvVXdMUTI4SnhJSFdlMzhTaUdQZw?oc=5",
+  "source": "SBC News",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-09-22",
+  "summary": "AML failures speed up vision of UK gambling consolidation SBC",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "eebdd625828153e6",
   "title": "What Ruth Evans' Appointment as Gambling Commission Chair Means for UK Casino Sites",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlSmpoU25LVnFvWU53SHFjc1R5Nm83RG9oMWp5ckZOOHJES0FqUEI1dkdvcXFDalRzZ3p6NW5rWEVzOXF3ckVJRjFOX1d1ZEU4SXltck1KS21RQTkwbktUQmFveVJQQ3lH?oc=5",
@@ -7393,6 +8040,21 @@
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "566115e3d2a5f2e1",
+  "title": "UK gambling yield up 4% to £17.5bn, as latest GC data shows growing gaming machine activity",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0RIbDFuSGVfbG9mUnZZVU5jZWJqOTVCbUNDQlQ4R0kwZmo4eFB4NEpRaFVMUFRKZWwxVUI0ZVAxdVNzNFBUS2hRaTF0QlJ6OTlFTXJvUlZtbnlPOURDRnBHVDBJVlpUMUlmNUlEVy1zN0k2LURuRmlvMld5Mi1IRjRwU05oeld1d0Ew?oc=5",
+  "source": "iGaming Business",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-09-18",
+  "summary": "UK gambling yield up 4% to £17.5bn, as latest GC data shows growing gaming machine activity iGaming",
+  "categories": [
+   "research"
+  ],
+  "primary": "research",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "1010efd300737526",
@@ -8208,6 +8870,21 @@
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "53df91bdc7e277cd",
+  "title": "Gambling Commission appoints new Chair after 20 months",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDhUYndYM2E1QXQ5eXNhQXY0VmFTaDI4MmN5ekhiUEVXdlVqWGJVcGYycW11MkYwWUo2TGNEYzl4cWNWWkJCV3JLSHpQNDEwMDByeW5VazZRQXBydDRPLTZJTExRQWR1bWxuVzVsSnZqQl9Ba0NYOTRRM1dlbWVrS202djVDcVk?oc=5",
+  "source": "sbcnews.co.uk",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-09-07",
+  "summary": "Gambling Commission appoints new Chair after 20 months",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "1d729f1cf11a7bc2",
@@ -9038,6 +9715,21 @@
   ],
   "primary": "public-health",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "3fa8cdc3c3ce672e",
+  "title": "Wisconsin governor signs bill legalizing online sports betting run by tribes",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYnRDMU5GTXBXdWt0NHUwa0Jic3J4VHFsb1lhWHFONjYxeFQyN3dDaGhrYW1JQmJzRmNKQTFqVW9OVGp1RTFLd1hBQlJZZmhmRzQ5ZE5Obm8tbFQzcGc4ZEp3aFI1MjgxVWdDLXJxN1QzUkdudkFCUV9JRHZyc25rRG1DMXZDeHhmek1pVHdWUHlndmFMaWdabXN6cVhCSmY5alJ0cG1pX1VJRk02cEtTNUEyaXhKWjRFRktWN3gwVmlaY0dfTnBHRVZ6MjFxclJSajRKS1REWnNpc2pLRl9ZOXVUVQ?oc=5",
+  "source": "Courthouse News",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-08-26",
+  "summary": "Wisconsin governor signs bill legalizing online sports betting run by tribes Courthouse",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "3a99643117b7b2cc",
@@ -10731,6 +11423,21 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "6f5ddc3bfbbebed1",
+  "title": "Horse racing must unite & take 'out of control' Gambling Commission to court over hated betting checks, top pundit says",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNE1fX3NpNU5zZ1IzOThieFUtRWN5M2s3YTMtSFBTSVh5WDdDWHpzUzNrYmhUbTFON3B0T2FYU0JOSlhSZ3NhODgxN3JrejhvZFQwWDZDVmk1RnFOV3ZoUzYyOTlxOXZBSU5iRVFmWXJ0T0lEakozY1FaNi1BbXRHSVlEdVV2LXpSMUNqMm1XeXY4SUtYbEc3QWtuMWhGOXM?oc=5",
+  "source": "The Sun",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-07-10",
+  "summary": "Horse racing must unite & take 'out of control' Gambling Commission to court over hated betting checks, top pundit says The",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "18a1ba4521c1c60c",
   "title": "CMS Committee writes to Gambling Commission over plans to implement Financial Affordability Assessments",
   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZ1lxY0V6NUlZaV9OTWI2UmlFZ2lhRFhEay0wamtQZjA2N2NtWHlxTUVXVEt0TjVySGdBa3FsdmRkZl8td0dvYmVHcHhIU2dtSnBIOWJkQ180MEpYNXZmeHJaY3pUQ0QxSGFOOXJTS01ocU9oR0JLdE0yUWJ2Wm1qbVJIM0phNmhUT2JFaHdLV0J4amp2eG8xOUhYeTFuS0hydXNLbTZFcDhGUE83MW94ajlDd3hseHhGNlVqdXZhZk03VjllVVZRdjJ3cE5BVEJPWnlwMlQwc0huUHQ3RUZYbUZZNFVxWFFpb3ZLUlUwdkVjY1dwZEdvV0FZWTlleUllMkF3OXJkWlhBNHJ2ZGlhVHNSSFFDOGhUclljcTJDOHRJSDQ?oc=5",
@@ -10865,6 +11572,21 @@
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "0b94cfd0d97d3c8f",
+  "title": "Gambling Commission confirms phased financial risk assessments launch",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnl3cHp2cVd6QzdhUVhlRExPb09pcVg5YzQ5bDNLeEVEN3NxSDRfSVJncmpfOUc4MG1JY3QySHBLMEtSM2c2WXdrOGhBXzRMd0xOVGo5YXFjeTRnV0poNmpSdTdfdFA5dnpqdkI5bFE4SXB5ajZGS3ZyS204X3dsRldoZ0FhUHdXdjZJLVpNU1BDXzRQS1AxamJBY2lZSTVOMGc?oc=5",
+  "source": "iGaming Business",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-07-07",
+  "summary": "Gambling Commission confirms phased financial risk assessments launch iGaming",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "1110fde61b4822b6",
@@ -11002,19 +11724,19 @@
   "first_seen": "2026-10-16"
  },
  {
-  "id": "132c094df40cc098",
-  "title": "High-spending online gamblers will face financial checks in UK",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2hGUm4zbGdUZHRaa3NQU1JoSERzN3VaZUxqckZvU1VHeWNUSHZSdTVwNkllMzhwR1V2OFlzb1hlWEd6N1ozVFlSQUgxUktQQXBObTZXYm5OZzFjZm03LW1CSXhTVjF4MUI2eWVrbDBrMGtReXRwTUZkcGltMU9xR0hLWGI?oc=5",
-  "source": "Financial Times",
+  "id": "b559ccc7537d4151",
+  "title": "Labour to introduce affordability checks for gamblers",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVdWbmpMNG12cnRfa3U2cEEtTkNlSnBpdXpIa2ZQS3hvbW9pX0FOQU1fLUMwZ1NoQ25TZzNiTjdrZHdsVG9EYkh3S2NOcDNIS0gtSFMxVUhpeFBNdEJRajJKWDFHTU5ZeTRFMXBVaE1RRUtaZFR2R2RGRVhlNktHNWlJVVVjaHo1YzgweDhFV1BZVGp6SG9LUTIxZzQtMFZWTWlDMg?oc=5",
+  "source": "The Telegraph",
   "feed_id": "gnews-ukgc",
   "kind": "regulator",
-  "published": "2026-07-07",
-  "summary": "High-spending online gamblers will face financial checks in UK Financial",
+  "published": "2026-07-06",
+  "summary": "Labour to introduce affordability checks for gamblers The",
   "categories": [
    "regulation"
   ],
   "primary": "regulation",
-  "first_seen": "2026-10-16"
+  "first_seen": "2026-10-23"
  },
  {
   "id": "e51186239d0f250d",
@@ -11868,6 +12590,21 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "b1a527f052d5e459",
+  "title": "Gov. Jared Polis signs law imposing new limits on sports betting in Colorado",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3JaU3QzeUpxU0ZnUTg0WVcyWDBPZExGZGVJUEFueTlwZnRLeHZyUW05a2F5YnBkTHVCOFRMY09oaUlSUVMzWXBkVEtvLXJibzE3b2p0UndJSVN4WkJVVTlNUTVqWllFcGw0ZkQ3aUREQm44LXpyTEhGYzl1bk54YjR1Q3V2b3FxemZFQ0ZkWW9MeUEyeHd3aWRwb2xYbjdpZmwxMzUtcHRmSmFxTlBMMjNCUnZ0c3ByWlUwcw?oc=5",
+  "source": "Colorado Politics",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-06-02",
+  "summary": "Gov. Jared Polis signs law imposing new limits on sports betting in Colorado Colorado",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "aaa6c773cc490f8e",
   "title": "JOINT RELEASE: ICYMI: Bipartisan Legislation to Prevent Harms Caused by Addictive Sports Betting Signed Into Law",
   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU9qRU15d3FQTUtjSjNYWkx3QTVGb1N5eXFFM0NPXzNqcU5YeHU0TDZ5c1RKZ1B2WFNNTUlSVnFCYTVBRnNBR2Q4Yzg1eXZnV1dSSEtxd1lYVHhaNGZ5MWloeUFqUVA4Y3hRM1ZCSUFiZW5IcGd4YTBaeU91QTdOY1loNGRJNjZ2OFdOUktRZjlELU1QNGY3R0ZBTkZIWWNURnJUZUVPVE1RUEF1RG92aUFnOXY4ZXBJLWRGcUhHcDBLVGpxNEYxVmNacHdDdzdoWWVkOVhkNkZ2cFZVWHc?oc=5",
@@ -12398,6 +13135,21 @@
   ],
   "primary": "regulation",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "9d6f12e0fdd1ba73",
+  "title": "Ladbrokes and Neds breach gambling self-exclusion rules",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFFoSnlLMkJsMVJkWURJaTJ3U2FLbW1YbmtEU09XYWpuZmZvdlNFT2RrWkhUbVp1SUVYbVZsYVpab2J3TGhmanY5NENBTEh5d3h0a2dWeVNJMG5CN2IzTlVPei1OLTlTckptWTJLcXJJbGtfTzlxLUxTdXlKaTVjQ0NDSEd2ZFBsdVRaY1BJendZVFdySmQwLWZqTkE?oc=5",
+  "source": "ACMA",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-05-06",
+  "summary": "Ladbrokes and Neds breach gambling self-exclusion rules",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "9e65fe2cf8095b9c",
@@ -13648,6 +14400,21 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "7383916ecfebeb69",
+  "title": "Winners Bookmaking breaches gambling self-exclusion rules",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkg0RXp6WUJLRDJBTmhfVllyY1IxSUpnOEVOdWlodmx0aFdxcHcxMWhBa0V4R1pLcnJjYmtUZWc4M3ROVDF5Z2pDRElSNVhDeUlLaHRwNnpaT3VRc2ZJQUZYZ3JuNF9XOEVhand5TG1aUUt5aklGRzhLTTV4bzlIVGFaSFhQMnhaQ2hheDFFT0lEc1pRcVNnR2FEdjFYRFU?oc=5",
+  "source": "ACMA",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-03-05",
+  "summary": "Winners Bookmaking breaches gambling self-exclusion rules",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "f1ee09e297a7cf5b",
   "title": "Sports Betting Alliance charges lawmakers with ‘backroom dealing’ on gaming bill",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGJJV3VIOG1MSFJ4dFhCU1FoX0w0ejl3a1BIZUhRQ1JoOS01bFd3aS1rclBtc3FmWWlhQ3VtU2ZLZGludXNyUkdBOFJXaFBrcjNFdlBwZ3BnSlZiY2tiR2Vfblk5RDRWaDJYT2tHdHRCcThVblRRdTk3ck9IblFZNXAyODJ4WkQwT2dxMzVwc1dCOUd2bEl4ckNpTm9IRzJqaDJfQUxtZ2M5WjlTQ3kzdWFR?oc=5",
@@ -13784,6 +14551,21 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "f886d2db6b9fa21b",
+  "title": "Six wagering providers breach gambling self-exclusion rules",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUhoUDl3ZUFWeU80OFdJeVdCTVR2VFk5T0oxVGY2TFRXeE83TjhhQU90dktxNmRKR1lMSVJ5LVVneTM5d2lYQ0l6MWFpSG1abER4YXJhbmUwSExYUm9pMzBJS2ZjVDctcGVPck1zZ3ZkakZGdmVUN1lzQkVBWVhIamhyN0tTdTQwYXJNQWV6WXNWOWZSWWJKeEdvSVEtQ0FhTWc?oc=5",
+  "source": "ACMA",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-01-29",
+  "summary": "Six wagering providers breach gambling self-exclusion rules",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "d73bb1112c5963d8",
   "title": "Joint AGA-IGA Letter Addressing Unregulated Sports Event Contracts",
   "url": "https://www.americangaming.org/joint-aga-iga-letter-addressing-unregulated-sports-event-contracts/",
@@ -13800,6 +14582,21 @@
   "first_seen": "2026-10-16"
  },
  {
+  "id": "c11b7e0b032340ce",
+  "title": "Tribal leaders to debut self-exclusion program for participating casinos",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWktQMUd4c2ZGZktTZUhJQ0UzVzI2R1ByZDNhaTlnMzFLUkVUak1OeGdhUDkwR010TVl4RHBIUGw5SkhZSmhES3NYbGN3Si12blBvVXZpMzd6dUluNExZTElkNmdoVWNkeVI5c2xDejYzRGlDZV83VVFtTWNqVHV0eGF1WmFzS2JyQXNHTXBVTVV2bXZ2T2hCbnVwSzNuV2R5Y2gyN2dQSjFJLVIzLVE?oc=5",
+  "source": "Gaming America",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-01-06",
+  "summary": "Tribal leaders to debut self-exclusion program for participating casinos Gaming",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "a0a6a30e930845e3",
   "title": "Sports betting worries grow as wagers skyrocket",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlUtLXg1NTFtamxnOVlFckVOMFlyTy1yMzZMekxvaUUyVTJIMU9nT3JWWnRFdmJJUC1lX3JSRUM4SDJudzdINUxEM3NpVTRXd203djhvdkwzSkhkWTF3V21uaXpUc2Y5RS1UT1lneGthZ0NtWjBuQmpNc1ZFeTRlOW0wd05NdDUwaDJHaVRnN2pZSC1tMzFtQkthcw?oc=5",
@@ -13813,6 +14610,21 @@
   ],
   "primary": "industry",
   "first_seen": "2026-10-21"
+ },
+ {
+  "id": "9d2741999b9c0194",
+  "title": "Reviewing Nevada’s self-exclusion gaming laws…",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmg1eWk2ZEs3alZzTHJfbUMyVXJnYnhRbXVRek5DU1RKXzFudUpFanVpMmxaX3pzNVMyZnAyV2c5S2ZxWmtJa050ZV9ZbXMyVTJHWnJxS1lUWEZNbk82SllSVzJ1Q3lyVHJGWTBlemVaTzJVQVBrNGpUQU1HX3FTVnlOV0kybWs?oc=5",
+  "source": "Gaming America",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-01-05",
+  "summary": "Reviewing Nevada’s self-exclusion gaming laws… Gaming",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "0fa4016ebcf134c9",
@@ -13845,6 +14657,36 @@
   "first_seen": "2026-10-17"
  },
  {
+  "id": "cdff7d5445d36f45",
+  "title": "Industry Statistics 2025",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyRlpwNm9PZzFINU1wSEZHdXA2OThkY28yVWFKWHJ2Um9fZnQyUHNDck9pYkRxeElBNFFWbEpvUUM4TWlBRlVENEYzcDRDOWJHSV9hUi12MWtqUERGQWo3OFhXbjRqalpQUjRabWZPV3ptSWtqaVJDNjJmTzk?oc=5",
+  "source": "Gambling Commission",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2025-11-25",
+  "summary": "Industry Statistics 2025 Gambling",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "71d8a3f07218f0aa",
+  "title": "Wisconsin: Potawatomi Casino Hotel joins Tribal-Wide Self Exclusion Program",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjlHT0dMdEZ4LWVTTEtsazVYRzhqMXA4QVFCc3gxVl9BMmExSzlLNE5PVHRjNnlZVklNdUMzOTljMlFNNEQtZlBEcU11SU9ITHRuM2RLam1Hd3AwZGQ1VHRoZ3pIeU5jb2N3Uk5lQlJST1RrMjB1OWVDOThsb3hsSUwzdGIxSHByZkl5b3FxMVhUZ1lKREl6YjBjLW4?oc=5",
+  "source": "CDC Gaming",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2025-11-19",
+  "summary": "Wisconsin: Potawatomi Casino Hotel joins Tribal-Wide Self Exclusion Program CDC",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "71560db4ac09ac20",
   "title": "Gambling disorder in the age of mobile sports betting",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDBEUHhDSExiclVxa2ExSTZEc1U5V3VCNnBDRUptcmU2ZktjOHd5cGhKOGp4VUVKWUViVFQxWlQwcXpEMlJFNVBoM2hnMGpneExCV1pScTIzbUVDSjRTQXJiUldMTDVHRGdpd3pwTjBVdTFCZkdhZGQ0bXVQR3dyUlhsVGFDaEVINTcyaHp2RGxQSkZhZTFDUkhVanIyWFZZNXFxclRRYw?oc=5",
@@ -13873,6 +14715,22 @@
   ],
   "primary": "regulation",
   "first_seen": "2026-10-22"
+ },
+ {
+  "id": "c56b6f0a07c05878",
+  "title": "Michigan: Federal lawsuit claims states’ gambling self-exclusion program violates constitutional rights",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOExwRG84Rm1fdDEtSGZQSER2YTFyQ2pQRDhzTFk4dEZocDVVZ1RoZVROazhVUVdxY3F6eU1kb3B6TWkyZ3JnMG5kY2otX0cwb2F4OU1YaDdNYmEwVmF0aXRnbVlETHF2S0JqeUJtZ0t6RlJfUFJ4TlEyLTJoSzllNGtrQ09MZUJ5LUZPazJLa3RHd3lKcE1uSjZrR0pDRFcweFJOM3RUVWk3NVFocmpOalpHTWdDOFpTekRoRHZMeGZySWc2TWliZVJB?oc=5",
+  "source": "CDC Gaming",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2025-10-08",
+  "summary": "Michigan: Federal lawsuit claims states’ gambling self-exclusion program violates constitutional rights CDC",
+  "categories": [
+   "public-health",
+   "regulation"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "2332a1a80b4eb8aa",

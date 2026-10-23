@@ -762,7 +762,7 @@
    "advertising",
    "cognition"
   ],
-  "updated": "2026-09-29",
+  "updated": "2026-10-23",
   "first_seen": "2026-09-10",
   "stage_changed": null
  },
@@ -1791,8 +1791,8 @@
   "sponsors": [
    "William Bush",
    "Trey Paradee",
-   "Darius J. Brown",
-   "Sarah McBride",
+   "Stephanie T. Bolden",
+   "Nnamdi O. Chukwuocha",
    "Franklin D. Cooke",
    "Sean M. Lynn"
   ],
@@ -1807,7 +1807,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-08-26",
+  "updated": "2026-10-22",
   "first_seen": "2026-06-29",
   "stage_changed": null
  },
@@ -1954,10 +1954,10 @@
   "sponsors": [
    "William Bush",
    "Trey Paradee",
-   "Darius J. Brown",
+   "Stephanie T. Bolden",
    "Franklin D. Cooke",
-   "David L. Wilson",
-   "Claire Snyder-Hall"
+   "Sophie Phillips",
+   "Kyra L. Hoffner"
   ],
   "introduced": "2026-03-26",
   "latest_action_date": "2026-06-09",
@@ -1971,7 +1971,7 @@
    "lottery",
    "policy"
   ],
-  "updated": "2026-08-26",
+  "updated": "2026-10-22",
   "first_seen": "2026-03-26",
   "stage_changed": null
  },
@@ -5971,7 +5971,7 @@
   "stage": "enacted",
   "stage_label": "enacted",
   "url": "https://openstates.org/me/bills/132/LD2080/",
-  "source_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101130",
+  "source_url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101130",
   "topics": [
    "sports-betting",
    "financial-harm"
@@ -13292,7 +13292,7 @@
   "stage": "enacted",
   "stage_label": "enacted",
   "url": "https://openstates.org/me/bills/132/LD1188/",
-  "source_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097696",
+  "source_url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097696",
   "topics": [
    "sports-betting"
   ],
@@ -16160,7 +16160,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-07-23",
+  "updated": "2026-10-22",
   "first_seen": "2025-02-18",
   "stage_changed": null
  },
@@ -17989,6 +17989,36 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2024-12-05",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e5426179-afbf-4a22-942a-78c41f196a50",
+  "level": "state",
+  "jurisdiction": "New Jersey",
+  "jurisdiction_code": "nj",
+  "session": "222",
+  "identifier": "SR 114",
+  "title": "Urges prohibition of targeted gambling advertisements to individuals exhibiting signs of problem gambling or addiction.",
+  "abstract": "",
+  "classification": "resolution",
+  "subjects": [],
+  "sponsors": [
+   "Corrado, Kristin M."
+  ],
+  "introduced": null,
+  "latest_action_date": null,
+  "latest_action": "",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/nj/bills/222/SR114/",
+  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/SR114",
+  "topics": [
+   "advertising",
+   "cognition"
+  ],
+  "updated": "2026-10-23",
+  "first_seen": "2026-10-23",
   "stage_changed": null
  },
  {

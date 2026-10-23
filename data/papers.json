@@ -1,10 +1,547 @@
 [
  {
+  "id": "doi:10.1177/00258172261462769",
+  "doi": "10.1177/00258172261462769",
+  "pmid": "42908346",
+  "pmcid": null,
+  "openalex": "W7223177993",
+  "title": "The Coroners and Justice Act of 2009 and the postcode lottery",
+  "journal": "The Medico-legal journal",
+  "authors": [
+   "Samrddh Bengeri",
+   "Emyr W Benbow"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "The coroner and inquest system dates back to the 10th century but continues to face criticism and debate. This research evaluates whether the Coroners and Justice Act 2009 has reduced regional disparities - often described as a 'postcode lottery' …",
+  "url": "https://doi.org/10.1177/00258172261462769",
+  "oa_url": null,
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "policy",
+   "equity"
+  ],
+  "designs": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10559-3",
+  "doi": "10.1007/s10899-026-10559-3",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223177028",
+  "title": "Problem Gambling Among Schoolchildren in Sub-Saharan African Context : A Cross-Sectional Study of Prevalence and Associated Factors in Benin, 2025",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Chabi Olaniran Alphonse Biaou",
+   "Yolaine Glèlè Ahanhanzo",
+   "Moussiliou Noël Paraïso",
+   "Blaise Choki",
+   "Sylvestre Bofe",
+   "Kpèdétin Rolande Kikissagbé",
+   "Smaïla Ouédraogo"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "Gambling is rapidly expanding across Africa, particularly through sports betting. However in Benin, data on gambling behaviors among adolescents is scarce. This study aimed to estimate the prevalence of problem gambling and identify associated factors among secondary school students in Benin …",
+  "url": "https://doi.org/10.1007/s10899-026-10559-3",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "youth",
+   "prevention",
+   "policy",
+   "prevalence",
+   "comorbidity",
+   "families"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "BJ",
+   "BF"
+  ],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fnhum.2026.1976371",
+  "doi": "10.3389/fnhum.2026.1976371",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223172232",
+  "title": "Prefrontal cortical morphometric covariance and cognitive task performance in healthy young adults: an exploratory analysis of Human Connectome Project data",
+  "journal": "Frontiers in Human Neuroscience",
+  "authors": [
+   "Roman Chivers"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "The prefrontal cortex (PFC) is implicated in many cognitive tasks, including working memory, reward-based decision-making, executive control, and metacognition. This exploratory analysis investigated whether individual expression of PFC cortical thickness and surface area covariance components is associated with cognitive task performance …",
+  "url": "https://doi.org/10.3389/fnhum.2026.1976371",
+  "oa_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1976371/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "cognition"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.58578/ahkam.v5i4.12398",
+  "doi": "10.58578/ahkam.v5i4.12398",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223171376",
+  "title": "Pinjaman Online Sebagai Faktor Kriminogenik Maraknya Judi Online Pada Generasi Muda",
+  "journal": "AHKAM",
+  "authors": [
+   "Salman Farisi"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "The prevalence of online gambling and online loan use among young people presents a social problem that requires examination of the relationship between access to digital financing and gambling behavior. This study aimed to analyze the role of online loans as a criminogenic factor that may encourage young people’s involvement in online gambling …",
+  "url": "https://doi.org/10.58578/ahkam.v5i4.12398",
+  "oa_url": "https://ejournal.yasin-alsys.org/ahkam/article/download/12398/9023/12398.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "advertising",
+   "policy",
+   "prevalence",
+   "financial-harm",
+   "equity",
+   "industry"
+  ],
+  "designs": [
+   "review",
+   "qualitative"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.12688/f1000research.191912.1",
+  "doi": "10.12688/f1000research.191912.1",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7215075501",
+  "title": "Online Gambling Detection Systems: A Systematic Review",
+  "journal": "F1000Research",
+  "authors": [
+   "Abdul Azzam Ajhari",
+   "Aji Rizal Fathoni",
+   "Aprinaldi Jasa Mantau",
+   "Pratama Mahardhika",
+   "Jatmiko Wisnu"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-02",
+  "first_seen": "2026-10-23",
+  "summary": "Background Illegal online gambling increasingly exploits websites, mobile applications, social media, messaging services, and decentralized financial infrastructure, and operators actively evade automated filtering …",
+  "url": "https://doi.org/10.12688/f1000research.191912.1",
+  "oa_url": "https://doi.org/10.12688/f1000research.191912.1",
+  "sources": [
+   "openalex"
+  ],
+  "type": "review",
+  "topics": [
+   "online-gambling",
+   "trading",
+   "policy",
+   "industry"
+  ],
+  "designs": [
+   "review",
+   "longitudinal"
+  ],
+  "countries": [
+   "ID",
+   "AU"
+  ],
+  "regions": [
+   "asia",
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1037/tmb0000225",
+  "doi": "10.1037/tmb0000225",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7169743550",
+  "title": "Network examination of online gambling disorder, psychological distress, and daily functioning: Comparative role of maladaptive personality traits",
+  "journal": "Technology Mind and Behavior",
+  "authors": [
+   "Jakub Helvich",
+   "Eva Lörincová",
+   "Peter Tavel"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-07-20",
+  "first_seen": "2026-10-23",
+  "summary": "",
+  "url": "https://doi.org/10.1037/tmb0000225",
+  "oa_url": "https://doi.org/10.1037/tmb0000225",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.55206/qlly6959",
+  "doi": "10.55206/qlly6959",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223181861",
+  "title": "Legal Framework, Limits of Media Regulation, and Communication Aspects Regarding the Ban on Gambling Advertising in Radio and Television Programs in Bulgaria",
+  "journal": "Rhetoric and Communications",
+  "authors": [
+   "Анета Милкова"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "advertising in radio and television programmes in Bulgaria …",
+  "url": "https://doi.org/10.55206/qlly6959",
+  "oa_url": "https://rhetoric.bg/wp-content/uploads/2026/10/Issue-69-October-2026-Milkova.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "advertising",
+   "policy",
+   "industry"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "countries": [
+   "BG"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1097/01.asm.0001289976.00118.06",
+  "doi": "10.1097/01.asm.0001289976.00118.06",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223168972",
+  "title": "Forecasting the OR: How Prediction Markets Could Transform Perioperative Care",
+  "journal": "ASA Monitor",
+  "authors": [
+   "Franklin Chiao",
+   "George Tewfik"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "",
+  "url": "https://doi.org/10.1097/01.asm.0001289976.00118.06",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.59011/vjlaws.5.4.2026.813-825",
+  "doi": "10.59011/vjlaws.5.4.2026.813-825",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223172083",
+  "title": "Analisis Viktimologi terhadap Keterlibatan Anak dalam Perjudian Online di Lingkungan 1, Kelurahan Binjai, Kecamatan Medan Denai",
+  "journal": "Verdict.",
+  "authors": [
+   "Ahmad Syawal Firdaus",
+   "Budi Sastra Panjaitan"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "This study examines the position of children involved in online gambling from a victimological perspective and identifies factors contributing to their involvement in Neighborhood 1, Binjai Urban Village, Medan Denai District. It employs empirical legal research with a qualitative approach …",
+  "url": "https://doi.org/10.59011/vjlaws.5.4.2026.813-825",
+  "oa_url": "https://www.ojs.wahanapublikasi.com/index.php/vjlaws/article/download/506/315",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "treatment",
+   "prevention",
+   "policy",
+   "financial-harm",
+   "industry"
+  ],
+  "designs": [
+   "qualitative",
+   "behavioral-data",
+   "commentary"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1098/rsos.262017",
+  "doi": "10.1098/rsos.262017",
+  "pmid": "42904297",
+  "pmcid": "PMC13682888",
+  "openalex": "W7223063651",
+  "title": "Natural recovery and gaming disorder: a case series",
+  "journal": "Royal Society open science",
+  "authors": [
+   "Yaewon Jin",
+   "Matúš Adamkovič",
+   "Marcel Martončik",
+   "Veli-Matti Karhulahti"
+  ],
+  "published": "2026-10-21",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "Abstract Conceptualizations of recovery in gaming disorder (GD) remain relatively underdeveloped. While remission without formal treatment appears common in longitudinal data, the mechanisms through which it occurs have received little systematic attention …",
+  "url": "https://doi.org/10.1098/rsos.262017",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682888/",
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "treatment",
+   "policy",
+   "comorbidity"
+  ],
+  "designs": [
+   "qualitative",
+   "longitudinal",
+   "case-report"
+  ],
+  "countries": [
+   "FI",
+   "KR",
+   "CZ",
+   "SK"
+  ],
+  "regions": [
+   "europe",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1055/s-0046-1829640",
+  "doi": "10.1055/s-0046-1829640",
+  "pmid": "42904291",
+  "pmcid": "PMC13682852",
+  "openalex": null,
+  "title": "A First Case of Compulsive Amnestic Sleep-Related Shopping Induced by Pramipexole Therapy of Restless Legs Syndrome",
+  "journal": "Sleep Science",
+  "authors": [
+   "Michael Todd",
+   "Carlos H Schenck",
+   "Erin Golden",
+   "Ranji Varghese"
+  ],
+  "published": "2026-10-20",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "Dopamine receptor agonists (DAs) such as pramipexole/ropinirole are recognized treatments for restless legs syndrome (RLS) and Parkinson's disease (PD). It is well established that these medications can cause impulse control disorders (ICDs) during wakefulness, side effects with serious and potentially life-altering consequences …",
+  "url": "https://doi.org/10.1055/s-0046-1829640",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682852/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "case-report",
+  "topics": [
+   "treatment",
+   "cognition"
+  ],
+  "designs": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.33140/jtma.05.02.03",
+  "doi": "10.33140/jtma.05.02.03",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223169213",
+  "title": "The Faustian Clinic:Mastery, Suffering, and the Bargains Physicians Make",
+  "journal": "Journal of Traditional Medicine & Applications",
+  "authors": [
+   "Julian Ungar-Sargon"
+  ],
+  "published": "2026-10-12",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "Goethe's Faust is usually read as a drama of knowledge, desire, transgression and redemption. It is also, and not incidentally, a drama about a physician …",
+  "url": "https://doi.org/10.33140/jtma.05.02.03",
+  "oa_url": "https://www.opastpublishers.com/open-access-articles/the-faustian-clinicmastery-suffering-and-the-bargains-physicians-make.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "policy"
+  ],
+  "designs": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fpsyg.2026.1887755",
+  "doi": "10.3389/fpsyg.2026.1887755",
+  "pmid": "42903107",
+  "pmcid": "PMC13680137",
+  "openalex": "W7220681067",
+  "title": "Risk perception is unlikely to drive underuse of social information in lab studies",
+  "journal": "Frontiers in Psychology",
+  "authors": [
+   "Patricio Cruz Y Celis Peniche"
+  ],
+  "published": "2026-10-06",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "Despite the theorized benefits of social learning, participants in controlled experiments consistently copy less than is optimal - instead over-relying on individual exploration. This may be due to learners' perceptions of risk associated with social versus asocial information …",
+  "url": "https://doi.org/10.3389/fpsyg.2026.1887755",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13680137/",
+  "sources": [
+   "pubmed",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "industry"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s10899-026-10570-8",
   "doi": "10.1007/s10899-026-10570-8",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7223183265",
   "title": "Casino and Online Self-Exclusion in Canada: Awareness, Uptake, and Compliance",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -27,7 +564,8 @@
   "oa_url": null,
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex"
   ],
   "type": "article",
   "topics": [
@@ -42,8 +580,12 @@
   "designs": [
    "survey"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -51,13 +593,13 @@
  {
   "id": "doi:10.1007/s11845-026-04699-z",
   "doi": "10.1007/s11845-026-04699-z",
-  "pmid": null,
+  "pmid": "42905227",
   "pmcid": null,
   "openalex": "W7223148790",
   "title": "Combatting gambling in Ireland: adopting demand and supply strategies from the fight against big tobacco and alcohol",
   "journal": "Irish Journal of Medical Science",
   "authors": [
-   "Frank Thomas Houghton",
+   "Frank Houghton",
    "Daisy Houghton",
    "Mia Daly",
    "Anne Campbell"
@@ -66,17 +608,24 @@
   "year": 2026,
   "created": "2026-10-22",
   "first_seen": "2026-10-22",
-  "summary": "",
+  "summary": "This paper outlines the threat posed by gambling in Ireland and proposes a range of policy responses …",
   "url": "https://doi.org/10.1007/s11845-026-04699-z",
   "oa_url": null,
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
-  "type": "article",
+  "type": "letter",
   "topics": [
-   "comorbidity"
+   "lottery",
+   "advertising",
+   "policy",
+   "comorbidity",
+   "industry"
   ],
-  "designs": [],
+  "designs": [
+   "commentary"
+  ],
   "countries": [
    "IE",
    "GB"
@@ -130,6 +679,54 @@
   ],
   "regions": [
    "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1098/rsos.261484",
+  "doi": "10.1098/rsos.261484",
+  "pmid": "42908508",
+  "pmcid": "PMC13682923",
+  "openalex": "W7222994628",
+  "title": "Can consumers accurately identify loot boxes and loot box receipts?",
+  "journal": "Royal Society open science",
+  "authors": [
+   "Matt B Hall",
+   "Lauren C Hall",
+   "James D Sauer",
+   "Aaron Drummond"
+  ],
+  "published": "2026-10-21",
+  "year": 2026,
+  "created": "2026-10-23",
+  "first_seen": "2026-10-21",
+  "summary": "Abstract Loot boxes are randomized rewards in video games. Meta-analyses suggest relationships between loot box spending and problem gambling symptomatology, and early longitudinal evidence suggests loot box purchasers migrate into conventional gambling at higher rates than non-purchasers …",
+  "url": "https://doi.org/10.1098/rsos.261484",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682923/",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "policy",
+   "cognition",
+   "families"
+  ],
+  "designs": [
+   "review",
+   "trial",
+   "longitudinal"
+  ],
+  "countries": [
+   "NZ",
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
   ],
   "language": "en",
   "relevance": "high",
@@ -433,53 +1030,6 @@
   ],
   "regions": [
    "asia"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1098/rsos.261484",
-  "doi": "10.1098/rsos.261484",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7222994628",
-  "title": "Can consumers accurately identify loot boxes and loot box receipts?",
-  "journal": "Royal Society Open Science",
-  "authors": [
-   "Matt Hall",
-   "Lauren Camille Hall",
-   "James D. Sauer",
-   "Aaron Drummond"
-  ],
-  "published": "2026-10-07",
-  "year": 2026,
-  "created": "2026-10-21",
-  "first_seen": "2026-10-21",
-  "summary": "Abstract Loot boxes are randomized rewards in video games. Meta-analyses suggest relationships between loot box spending and problem gambling symptomatology, and early longitudinal evidence suggests loot box purchasers migrate into conventional gambling at higher rates than non-purchasers …",
-  "url": "https://doi.org/10.1098/rsos.261484",
-  "oa_url": "https://royalsocietypublishing.org/rsos/article-pdf/doi/10.1098/rsos.261484/6172296/rsos.261484.pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "loot-boxes",
-   "policy",
-   "cognition",
-   "families"
-  ],
-  "designs": [
-   "review",
-   "trial",
-   "longitudinal"
-  ],
-  "countries": [
-   "NZ",
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
   ],
   "language": "en",
   "relevance": "high",
@@ -941,7 +1491,7 @@
   "id": "doi:10.1159/ear/acrag008",
   "doi": "10.1159/ear/acrag008",
   "pmid": "42891958",
-  "pmcid": null,
+  "pmcid": "PMC13690321",
   "openalex": "W7222865932",
   "title": "Widespread Suspected Illegal Advertising of Paid Loot Boxes and Social Casino Games in Belgium: Empowered by the EU Digital Services Act to Assess Compliance Using Meta's Ad Repository",
   "journal": "European Addiction Research",
@@ -958,7 +1508,7 @@
   "first_seen": "2026-10-18",
   "summary": "Paid loot boxes and social casino mechanics are gambling-like products inside video games that provide random rewards in exchange for real-world money. These products may cause harm to vulnerable consumers, e.g., children and adults experiencing gambling harms …",
   "url": "https://doi.org/10.1159/ear/acrag008",
-  "oa_url": "https://karger.com/ear/article-pdf/doi/10.1159/ear/acrag008/4595707/000554935.pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690321/",
   "sources": [
    "openalex",
    "pubmed"
@@ -1634,7 +2184,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-22",
+  "published": "2026-10-23",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -2113,8 +2663,12 @@
   "designs": [
    "commentary"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "TH"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "th",
   "relevance": "high",
   "retracted": false
@@ -3226,7 +3780,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-22",
+  "published": "2026-10-23",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",
@@ -4262,11 +4816,11 @@
    "Virve Marionneau",
    "Sara Havuaho",
    "Nina Jokirinne",
-   "Aino Lahtinen"
+   "Aino E Lahtinen"
   ],
   "published": "2026-10-08",
   "year": 2026,
-  "created": "2026-10-08",
+  "created": "2026-10-09",
   "first_seen": "2026-10-08",
   "summary": "Indebtedness is prevalent among people with gambling problems. However, little research has focused on socio-demographic characteristics and gambling consumption patterns of individuals who finance their gambling with loans …",
   "url": "https://doi.org/10.1177/14034948261488598",
@@ -5642,7 +6196,7 @@
   "title": "THE WORLD CUP and New York KNICKS MAKE DYNAMIC IMPACTS ON U.S. Sportsbooks IN JUNE",
   "journal": "Gaming Law Review",
   "authors": [
-   "Chris Altruda"
+   "Chris AltrudaChris Altruda is at the Straight to the Point Substack, Springfield, IL, USA."
   ],
   "published": "2026-10-01",
   "year": 2026,
@@ -5662,13 +6216,9 @@
    "industry"
   ],
   "designs": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -5727,12 +6277,7 @@
   "openalex": "W7215029775",
   "title": "From Delay Discounting to Gambling Harm: Gambling-related Cognitive Distortions as Mediating Pathways",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Marija Stanković",
-   "Predrag Teovanović",
-   "Saša R. Filipović",
-   "Jovana Bjekić"
-  ],
+  "authors": [],
   "published": "2026-10-01",
   "year": 2026,
   "created": "2026-10-01",
@@ -5759,13 +6304,9 @@
    "longitudinal",
    "experiment"
   ],
-  "countries": [
-   "RS"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },

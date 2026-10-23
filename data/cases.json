@@ -1,5 +1,98 @@
 [
  {
+  "id": "cl-d-73231673",
+  "kind": "docket",
+  "case_name": "In re: Robinhood Prediction Market Litigation",
+  "court": "District Court, N.D. California",
+  "court_id": "cand",
+  "court_citation": "N.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-04-22",
+  "date_terminated": null,
+  "latest_activity": "2026-10-22",
+  "docket_number": "3:26-cv-03415",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73231673/in-re-robinhood-prediction-market-litigation/",
+  "snippet": "28:1332 Diversity-Fraud; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-22",
+    "description": "Order on Administrative Motion per Civil Local Rule 7-11",
+    "url": ""
+   },
+   {
+    "date": "2026-10-22",
+    "description": "Certificate of Interested Entities, Corporate Disclosure Statement, or Rule 7.1 Disclosures",
+    "url": "https://www.courtlistener.com/docket/73231673/67/in-re-robinhood-prediction-market-litigation/"
+   },
+   {
+    "date": "2026-10-21",
+    "description": "Administrative Motion per Civil Local Rule 7-11",
+    "url": "https://www.courtlistener.com/docket/73231673/65/in-re-robinhood-prediction-market-litigation/"
+   },
+   {
+    "date": "2026-10-13",
+    "description": "ADR Certification (ADR L.R. 3-5 b) of discussion of ADR options by Defendants Robinhood Markets, Inc. and Robinhood Derivatives, LLC (Barrer",
+    "url": "https://www.courtlistener.com/docket/73231673/64/in-re-robinhood-prediction-market-litigation/"
+   },
+   {
+    "date": "2026-09-28",
+    "description": "STATEMENT OF RECENT DECISION pursuant to Civil Local Rule 7-3.d filed byKevin Austin, Prabhdeep Chehal, Timothy Collar, Kaden Dean, Michael ",
+    "url": "https://www.courtlistener.com/docket/73231673/63/in-re-robinhood-prediction-market-litigation/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets",
+   "industry"
+  ],
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-75000081",
+  "kind": "docket",
+  "case_name": "Estate of Mrs. Virginia Juarez-Avina v. Monarch Casino and Resort, Inc.",
+  "court": "District Court, D. Nevada",
+  "court_id": "nvd",
+  "court_citation": "D. Nev.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-21",
+  "date_terminated": null,
+  "latest_activity": "2026-10-22",
+  "docket_number": "3:26-cv-00820",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75000081/estate-of-mrs-virginia-juarez-avina-v-monarch-casino-and-resort-inc/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-22",
+    "description": "Notice Attorney Action Required",
+    "url": ""
+   },
+   {
+    "date": "2026-10-22",
+    "description": "Advisory Letter Pro Se non-habeas",
+    "url": "https://www.courtlistener.com/docket/75000081/3/estate-of-mrs-virginia-juarez-avina-v-monarch-casino-and-resort-inc/"
+   },
+   {
+    "date": "2026-10-22",
+    "description": "Receipt Initiating Documents",
+    "url": "https://www.courtlistener.com/docket/75000081/2/estate-of-mrs-virginia-juarez-avina-v-monarch-casino-and-resort-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "casino"
+  ],
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "cl-d-73602152",
   "kind": "docket",
   "case_name": "Tariri v. Massachusetts State Lottery Commission",
@@ -126,53 +219,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-22"
- },
- {
-  "id": "cl-d-73231673",
-  "kind": "docket",
-  "case_name": "In re: Robinhood Prediction Market Litigation",
-  "court": "District Court, N.D. California",
-  "court_id": "cand",
-  "court_citation": "N.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-04-22",
-  "date_terminated": null,
-  "latest_activity": "2026-10-21",
-  "docket_number": "3:26-cv-03415",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73231673/in-re-robinhood-prediction-market-litigation/",
-  "snippet": "28:1332 Diversity-Fraud; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-10-21",
-    "description": "Administrative Motion per Civil Local Rule 7-11",
-    "url": "https://www.courtlistener.com/docket/73231673/65/in-re-robinhood-prediction-market-litigation/"
-   },
-   {
-    "date": "2026-10-13",
-    "description": "ADR Certification (ADR L.R. 3-5 b) of discussion of ADR options by Defendants Robinhood Markets, Inc. and Robinhood Derivatives, LLC (Barrer",
-    "url": "https://www.courtlistener.com/docket/73231673/64/in-re-robinhood-prediction-market-litigation/"
-   },
-   {
-    "date": "2026-09-28",
-    "description": "STATEMENT OF RECENT DECISION pursuant to Civil Local Rule 7-3.d filed byKevin Austin, Prabhdeep Chehal, Timothy Collar, Kaden Dean, Michael ",
-    "url": "https://www.courtlistener.com/docket/73231673/63/in-re-robinhood-prediction-market-litigation/"
-   },
-   {
-    "date": "2026-09-25",
-    "description": "STIPULATION Regarding Plaintiffs' Accounts with Robinhood Derivatives, LLC filed by Robinhood Derivatives, LLC, Robinhood Markets, Inc.. (Bo",
-    "url": "https://www.courtlistener.com/docket/73231673/61/in-re-robinhood-prediction-market-litigation/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets",
-   "industry"
-  ],
-  "first_seen": "2026-10-13"
  },
  {
   "id": "cl-o-11041862",
