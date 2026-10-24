@@ -1,5 +1,34 @@
 [
  {
+  "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 660",
+  "title": "Gambling oversight to economic affairs interim committee",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-09-30",
+  "latest_action_date": "2026-10-23",
+  "latest_action": "(LC) Draft in Legal Review",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC660/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
+  "topics": [
+   "industry"
+  ],
+  "updated": "2026-10-24",
+  "first_seen": "2026-09-30",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/5ba439c1-5c87-4307-807c-f938a570b3d0",
   "level": "state",
   "jurisdiction": "Pennsylvania",
@@ -19,20 +48,125 @@
    "Steven Santarsiero"
   ],
   "introduced": "2025-03-06",
-  "latest_action_date": "2026-10-20",
-  "latest_action": "Signed in Senate",
+  "latest_action_date": "2026-10-22",
+  "latest_action": "Act No. 93 of 2026",
   "latest_passage_date": "2026-10-19",
-  "stage": "passed-both",
-  "stage_label": "passed both chambers",
+  "stage": "enacted",
+  "stage_label": "enacted",
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-24",
   "first_seen": "2025-03-06",
-  "stage_changed": "2026-10-21",
-  "previous_stage": "passed-one"
+  "stage_changed": "2026-10-24",
+  "previous_stage": "passed-both"
+ },
+ {
+  "id": "ocd-bill/7f154919-7942-4d8c-a58b-c736cb309011",
+  "level": "state",
+  "jurisdiction": "Pennsylvania",
+  "jurisdiction_code": "pa",
+  "session": "2025-2026",
+  "identifier": "HB 2879",
+  "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, providing for online gambling public health and consumer protection; and establishing a restricted account within the Compulsive and Problem Gambling Treatment Fund and the Online Problem Gambling Public Health Task Force.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Tarik Khan",
+   "Jamie Flick",
+   "Joe Mcandrew",
+   "Ben Waxman",
+   "Tarah Probst",
+   "Benjamin Sanchez"
+  ],
+  "introduced": "2026-10-21",
+  "latest_action_date": "2026-10-21",
+  "latest_action": "Referred to Gaming Oversight",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/pa/bills/2025-2026/HB2879/",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/hb2879",
+  "topics": [
+   "online-gambling",
+   "treatment",
+   "prevention"
+  ],
+  "updated": "2026-10-24",
+  "first_seen": "2026-10-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2605f393-6138-498b-ad8d-c064f00fc174",
+  "level": "state",
+  "jurisdiction": "Pennsylvania",
+  "jurisdiction_code": "pa",
+  "session": "2025-2026",
+  "identifier": "HB 2875",
+  "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in fantasy contests, further providing for prohibitions; in lottery, further providing for iLottery authorization; in interactive gaming, further providing for interactive gaming account credits, debits, deposits and payments; and, in sports wagering, further providing for authorization to conduct sports wagering.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Tarik Khan",
+   "Jamie Flick",
+   "Joe Mcandrew",
+   "Ben Waxman",
+   "Tarah Probst",
+   "Benjamin Sanchez"
+  ],
+  "introduced": "2026-10-21",
+  "latest_action_date": "2026-10-21",
+  "latest_action": "Referred to Gaming Oversight",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/pa/bills/2025-2026/HB2875/",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/hb2875",
+  "topics": [
+   "sports-betting",
+   "lottery"
+  ],
+  "updated": "2026-10-24",
+  "first_seen": "2026-10-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8826810f-1ce6-4a62-ad1c-531cddcbd406",
+  "level": "state",
+  "jurisdiction": "Pennsylvania",
+  "jurisdiction_code": "pa",
+  "session": "2025-2026",
+  "identifier": "HB 2874",
+  "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in administration and enforcement, further providing for list of persons self excluded from gaming activities and for prohibited acts and penalties.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Tarik Khan",
+   "Jamie Flick",
+   "Joe Mcandrew",
+   "Ben Waxman",
+   "Tarah Probst",
+   "Benjamin Sanchez"
+  ],
+  "introduced": "2026-10-21",
+  "latest_action_date": "2026-10-21",
+  "latest_action": "Referred to Gaming Oversight",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/pa/bills/2025-2026/HB2874/",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/hb2874",
+  "topics": [
+   "self-exclusion"
+  ],
+  "updated": "2026-10-24",
+  "first_seen": "2026-10-24",
+  "stage_changed": null
  },
  {
   "id": "ocd-bill/1c5b2ccb-07ad-4b32-96b5-6eb106739613",
@@ -597,35 +731,6 @@
   ],
   "updated": "2026-10-07",
   "first_seen": "2026-09-02",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
-  "level": "state",
-  "jurisdiction": "Montana",
-  "jurisdiction_code": "mt",
-  "session": "2027",
-  "identifier": "LC 660",
-  "title": "Gambling oversight to economic affairs interim committee",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [
-   "Gambling"
-  ],
-  "sponsors": [],
-  "introduced": "2026-09-30",
-  "latest_action_date": "2026-09-30",
-  "latest_action": "(LC) Drafter Assigned",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/mt/bills/2027/LC660/",
-  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
-  "topics": [
-   "industry"
-  ],
-  "updated": "2026-10-16",
-  "first_seen": "2026-09-30",
   "stage_changed": null
  },
  {
@@ -1574,7 +1679,7 @@
    "advertising",
    "policy"
   ],
-  "updated": "2026-07-21",
+  "updated": "2026-10-23",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -1606,7 +1711,7 @@
    "policy",
    "equity"
   ],
-  "updated": "2026-09-12",
+  "updated": "2026-10-23",
   "first_seen": "2026-01-07",
   "stage_changed": null
  },
@@ -1641,7 +1746,7 @@
    "policy",
    "equity"
   ],
-  "updated": "2026-09-12",
+  "updated": "2026-10-23",
   "first_seen": "2025-12-29",
   "stage_changed": null
  },
@@ -4427,7 +4532,7 @@
   "stage": "failed",
   "stage_label": "failed or withdrawn",
   "url": "https://openstates.org/me/bills/132/LD793/",
-  "source_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096936",
+  "source_url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096936",
   "topics": [
    "industry"
   ],
@@ -13147,7 +13252,7 @@
   "stage": "enacted",
   "stage_label": "enacted",
   "url": "https://openstates.org/me/bills/132/LD1490/",
-  "source_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098220",
+  "source_url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098220",
   "topics": [
    "families",
    "industry"
@@ -16160,7 +16265,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "first_seen": "2025-02-18",
   "stage_changed": null
  },

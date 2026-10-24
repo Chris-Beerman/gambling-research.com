@@ -1,5 +1,46 @@
 [
  {
+  "id": "osf:dvt9e",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Trading on the Margins: Financial Sacrifice and Tacit Collusion Among Ideologically Aligned AI Agents in Political Prediction Markets",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-24",
+  "last_updated": "2026-10-24",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This project was developed in response to Apart Research's AI Collusion Research Sprint, held on October 23–25, 2026 …",
+  "url": "https://osf.io/dvt9e/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Katrina Gacusan Manrique"
+  ],
+  "topics": [
+   "prediction-markets",
+   "financial-harm",
+   "industry"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "first_seen": "2026-10-24",
+  "status_changed": null
+ },
+ {
   "id": "osf:dyzrm",
   "registry": "osf",
   "registry_label": "OSF Registries",
