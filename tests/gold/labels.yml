@@ -18,11 +18,14 @@
 # rather than wrong ones), 91% settings, 86% topics. General errors it exposed
 # were then fixed (rules version 3), so it now also serves as a regression check.
 
+# A run whose scores fall below these is stopped before anything is published.
+# Set a little under the scores of the rules version that introduced them (v3:
+# 99%, 88%, 96%, 98%), so a real regression trips them and noise does not.
 thresholds:
   keep: 0.95
-  designs: 0.75
-  settings: 0.80
-  topics: 0.80
+  designs: 0.82
+  settings: 0.90
+  topics: 0.92
 
 studies:
   # ---- not gambling studies -------------------------------------------------
