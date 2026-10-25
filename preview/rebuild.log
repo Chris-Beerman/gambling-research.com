@@ -1,0 +1,21 @@
+fetch (rebuild)
+  pubmed: 6261 items
+  openalex: 18305 items
+  crossref: 1619 items
+  openalex:by-doi: 2 items
+  feed:igs: 22 items
+  feed:art: 45 items
+  feed:jswpa: 26 items
+  feed:addiction: 89 items
+  feed:addictive-behaviors: 48 items
+  feed:cbp: 64 items
+  feed:cgs: 30 items
+  feed:jgs: 20 items
+  feed:ijmha: 20 items
+  feed:glr: 4 items
+  feed:medrxiv-addiction: 30 items
+papers: {'raw': 26585, 'groups': 19085, 'added': 7871, 'updated': 479, 'dropped_irrelevant': 10735, 'removed': 18, 'total': 8340}
+news: {'raw': 0, 'added': 0, 'dropped_irrelevant': 0, 'total': 1043}
+trials: {'raw': 0, 'added': 0, 'updated': 0, 'dropped_irrelevant': 0, 'removed': 0, 'total': 697}
+bills: {'raw': 0, 'added': 0, 'updated': 0, 'dropped_irrelevant': 0, 'total': 552}
+cases: {'raw': 0, 'added': 0, 'updated': 0, 'dropped_irrelevant': 0, 'total': 66}

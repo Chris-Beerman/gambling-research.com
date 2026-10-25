@@ -1,0 +1,63 @@
+{
+ "keep": {
+  "n": 138,
+  "accuracy": 0.993,
+  "misses": [
+   "10.20961/carakatani.v37i2.52996: expected out of the main index, found in"
+  ]
+ },
+ "designs": {
+  "n": 74,
+  "accuracy": 0.878,
+  "misses": [
+   "10.1186/s40359-026-05031-1: designs [] != ['survey']",
+   "10.1016/j.genhosppsych.2026.09.017: designs ['behavioral-data', 'survey'] != ['behavioral-data']",
+   "10.1056/nejmp2610547: designs [] != ['commentary']",
+   "10.1007/s10899-026-10519-x: designs [] != ['survey']",
+   "10.24869/psyd.2023.386: designs [] != ['survey']",
+   "10.1111/adb.13389: designs [] != ['experiment']",
+   "10.24940/theijhss/2023/v11/i10/hs2310-028: designs ['case-report', 'survey'] != ['survey']",
+   "10.1162/jinh_r_01983: designs [] != ['commentary']",
+   "10.33884/scientiajournal.v6i2.8669: designs [] != ['qualitative']"
+  ]
+ },
+ "settings": {
+  "n": 69,
+  "accuracy": 0.957,
+  "misses": [
+   "10.24301/mhsw.2026.9.54.3.111: settings [] != ['KR']",
+   "10.30659/ldj.4.3.389-395: settings [] != ['ID']",
+   "10.47197/retos.v76.118475: settings ['KH', 'TH'] != ['TH']"
+  ]
+ },
+ "topics": {
+  "n": 92,
+  "accuracy": 0.978,
+  "misses": [
+   "10.1007/s10899-026-10519-x: topics missing [], wrongly present ['policy']",
+   "10.1007/s10899-026-10481-8: topics missing [], wrongly present ['policy']"
+  ]
+ },
+ "rules_only": {
+  "designs": {
+   "n": 74,
+   "accuracy": 0.878
+  },
+  "settings": {
+   "n": 69,
+   "accuracy": 0.957
+  },
+  "topics": {
+   "n": 92,
+   "accuracy": 0.978
+  }
+ },
+ "checked": "2026-10-25T17:45:51+00:00",
+ "thresholds": {
+  "keep": 0.95,
+  "designs": 0.75,
+  "settings": 0.8,
+  "topics": 0.8
+ },
+ "passed": true
+}

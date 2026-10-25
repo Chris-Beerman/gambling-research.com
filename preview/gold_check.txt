@@ -1,0 +1,20 @@
+gold check passed
+keep       0.993 on 138 studies
+    miss  10.20961/carakatani.v37i2.52996: expected out of the main index, found in
+designs    0.878 on 74 studies   (rules alone, without hand corrections: 0.878 on 74)
+    miss  10.1186/s40359-026-05031-1: designs [] != ['survey']
+    miss  10.1016/j.genhosppsych.2026.09.017: designs ['behavioral-data', 'survey'] != ['behavioral-data']
+    miss  10.1056/nejmp2610547: designs [] != ['commentary']
+    miss  10.1007/s10899-026-10519-x: designs [] != ['survey']
+    miss  10.24869/psyd.2023.386: designs [] != ['survey']
+    miss  10.1111/adb.13389: designs [] != ['experiment']
+    miss  10.24940/theijhss/2023/v11/i10/hs2310-028: designs ['case-report', 'survey'] != ['survey']
+    miss  10.1162/jinh_r_01983: designs [] != ['commentary']
+    miss  10.33884/scientiajournal.v6i2.8669: designs [] != ['qualitative']
+settings   0.957 on 69 studies   (rules alone, without hand corrections: 0.957 on 69)
+    miss  10.24301/mhsw.2026.9.54.3.111: settings [] != ['KR']
+    miss  10.30659/ldj.4.3.389-395: settings [] != ['ID']
+    miss  10.47197/retos.v76.118475: settings ['KH', 'TH'] != ['TH']
+topics     0.978 on 92 studies   (rules alone, without hand corrections: 0.978 on 92)
+    miss  10.1007/s10899-026-10519-x: topics missing [], wrongly present ['policy']
+    miss  10.1007/s10899-026-10481-8: topics missing [], wrongly present ['policy']

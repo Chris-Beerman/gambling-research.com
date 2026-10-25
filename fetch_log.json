@@ -1,0 +1,360 @@
+{
+ "started": "2026-10-25T17:38:19+00:00",
+ "mode": "rebuild",
+ "sources": [
+  {
+   "id": "pubmed",
+   "kind": "papers",
+   "ok": true,
+   "items": 6261,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "openalex",
+   "kind": "papers",
+   "ok": true,
+   "items": 18305,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "crossref",
+   "kind": "papers",
+   "ok": true,
+   "items": 1619,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "openalex:by-doi",
+   "kind": "papers",
+   "ok": true,
+   "items": 2,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:igs",
+   "kind": "papers",
+   "ok": true,
+   "items": 22,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:art",
+   "kind": "papers",
+   "ok": true,
+   "items": 45,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:jswpa",
+   "kind": "papers",
+   "ok": true,
+   "items": 26,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:addiction",
+   "kind": "papers",
+   "ok": true,
+   "items": 89,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:addictive-behaviors",
+   "kind": "papers",
+   "ok": true,
+   "items": 48,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:cbp",
+   "kind": "papers",
+   "ok": true,
+   "items": 64,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:cgs",
+   "kind": "papers",
+   "ok": true,
+   "items": 30,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:jgs",
+   "kind": "papers",
+   "ok": true,
+   "items": 20,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:ijmha",
+   "kind": "papers",
+   "ok": true,
+   "items": 20,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:glr",
+   "kind": "papers",
+   "ok": true,
+   "items": 4,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "feed:medrxiv-addiction",
+   "kind": "papers",
+   "ok": true,
+   "items": 30,
+   "error": null,
+   "warning": null
+  }
+ ],
+ "rebuild": {
+  "requested": true,
+  "complete": true
+ },
+ "papers": {
+  "raw": 26585,
+  "groups": 19085,
+  "added": 7871,
+  "updated": 479,
+  "dropped_irrelevant": 10735,
+  "removed": 18,
+  "total": 8340
+ },
+ "news": {
+  "raw": 0,
+  "added": 0,
+  "dropped_irrelevant": 0,
+  "total": 1043
+ },
+ "trials": {
+  "raw": 0,
+  "added": 0,
+  "updated": 0,
+  "dropped_irrelevant": 0,
+  "removed": 0,
+  "total": 697
+ },
+ "bills": {
+  "raw": 0,
+  "added": 0,
+  "updated": 0,
+  "dropped_irrelevant": 0,
+  "total": 552
+ },
+ "cases": {
+  "raw": 0,
+  "added": 0,
+  "updated": 0,
+  "dropped_irrelevant": 0,
+  "total": 66
+ },
+ "finished": "2026-10-25T17:45:50+00:00",
+ "papers_total": 8340,
+ "news_total": 1043,
+ "history": [
+  {
+   "finished": "2026-10-25T17:45:50+00:00",
+   "mode": "rebuild",
+   "added": 7871,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 0,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-25T11:29:13+00:00",
+   "mode": "nightly",
+   "added": 3,
+   "news_added": 40,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 1,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-24T11:03:51+00:00",
+   "mode": "nightly",
+   "added": 12,
+   "news_added": 67,
+   "trials_added": 1,
+   "bills_added": 3,
+   "cases_added": 1,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-23T11:43:44+00:00",
+   "mode": "nightly",
+   "added": 13,
+   "news_added": 93,
+   "trials_added": 0,
+   "bills_added": 1,
+   "cases_added": 1,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-22T11:54:54+00:00",
+   "mode": "nightly",
+   "added": 3,
+   "news_added": 91,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 5,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-21T11:52:55+00:00",
+   "mode": "nightly",
+   "added": 10,
+   "news_added": 120,
+   "trials_added": 0,
+   "bills_added": 26,
+   "cases_added": 2,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-20T11:40:49+00:00",
+   "mode": "nightly",
+   "added": 4,
+   "news_added": 61,
+   "trials_added": 0,
+   "bills_added": 1,
+   "cases_added": 1,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-19T13:14:49+00:00",
+   "mode": "nightly",
+   "added": 4,
+   "news_added": 53,
+   "trials_added": 1,
+   "bills_added": 0,
+   "cases_added": 2,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-18T11:07:06+00:00",
+   "mode": "nightly",
+   "added": 1,
+   "news_added": 37,
+   "trials_added": 1,
+   "bills_added": 0,
+   "cases_added": 0,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T17:39:30+00:00",
+   "mode": "backfill",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 257,
+   "cases_added": 0,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T17:16:27+00:00",
+   "mode": "backfill",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 255,
+   "cases_added": 0,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T14:09:55+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 53,
+   "failed": 1
+  },
+  {
+   "finished": "2026-10-17T14:02:10+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 148,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T13:55:09+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 27,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-17T13:52:43+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 696,
+   "bills_added": 10,
+   "cases_added": 8,
+   "failed": 1
+  },
+  {
+   "finished": "2026-10-17T13:45:15+00:00",
+   "mode": "nightly",
+   "added": 0,
+   "news_added": 0,
+   "trials_added": 804,
+   "bills_added": 10,
+   "cases_added": 0,
+   "failed": 2
+  },
+  {
+   "finished": "2026-10-17T10:39:56+00:00",
+   "mode": "nightly",
+   "added": 15,
+   "news_added": 66,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-16T11:19:17+00:00",
+   "mode": "nightly",
+   "added": 16,
+   "news_added": 160,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-16T01:15:24+00:00",
+   "mode": "nightly",
+   "added": 1346,
+   "news_added": 0,
+   "failed": 0
+  },
+  {
+   "finished": "2026-10-16T00:02:11+00:00",
+   "mode": "backfill",
+   "added": 346,
+   "news_added": 501,
+   "failed": 5
+  }
+ ]
+}
