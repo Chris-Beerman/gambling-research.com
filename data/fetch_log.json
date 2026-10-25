@@ -1,12 +1,12 @@
 {
- "started": "2026-10-25T11:21:36+00:00",
- "mode": "nightly",
+ "started": "2026-10-25T17:52:22+00:00",
+ "mode": "rebuild",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 52,
+   "items": 6261,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 187,
+   "items": 18298,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,15 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 28,
+   "items": 1619,
+   "error": null,
+   "warning": null
+  },
+  {
+   "id": "openalex:by-doi",
+   "kind": "papers",
+   "ok": true,
+   "items": 2,
    "error": null,
    "warning": null
   },
@@ -113,224 +121,63 @@
    "items": 30,
    "error": null,
    "warning": null
-  },
-  {
-   "id": "news:lsr",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:sbc-americas",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:sports-handle",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:cdc-gaming",
-   "kind": "news",
-   "ok": true,
-   "items": 20,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:igb",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:aga",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:ncpg",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:guardian-gambling",
-   "kind": "news",
-   "ok": true,
-   "items": 20,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:cftc",
-   "kind": "news",
-   "ok": true,
-   "items": 10,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:federal-register-cftc",
-   "kind": "news",
-   "ok": true,
-   "items": 8,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-ukgc",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:courtlistener-kalshi",
-   "kind": "news",
-   "ok": true,
-   "items": 6,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-problem-gambling",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-betting-law",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-prediction-markets",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "news:gnews-self-exclusion",
-   "kind": "news",
-   "ok": true,
-   "items": 100,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "trials:clinicaltrials",
-   "kind": "trials",
-   "ok": true,
-   "items": 210,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "trials:isrctn",
-   "kind": "trials",
-   "ok": true,
-   "items": 34,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "trials:osf",
-   "kind": "trials",
-   "ok": true,
-   "items": 647,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "bills:openstates",
-   "kind": "bills",
-   "ok": true,
-   "items": 204,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "bills:congress",
-   "kind": "bills",
-   "ok": true,
-   "items": 15,
-   "error": null,
-   "warning": null
-  },
-  {
-   "id": "courts:courtlistener",
-   "kind": "cases",
-   "ok": true,
-   "items": 72,
-   "error": null,
-   "warning": null
   }
  ],
+ "rebuild": {
+  "requested": true,
+  "complete": true
+ },
  "papers": {
-  "raw": 665,
-  "groups": 595,
-  "added": 3,
-  "updated": 197,
-  "dropped_irrelevant": 395,
-  "total": 487
+  "raw": 26578,
+  "groups": 19084,
+  "added": 7871,
+  "updated": 479,
+  "dropped_irrelevant": 10734,
+  "removed": 18,
+  "total": 8340
  },
  "news": {
-  "raw": 714,
-  "added": 40,
-  "dropped_irrelevant": 115,
+  "raw": 0,
+  "added": 0,
+  "dropped_irrelevant": 0,
   "total": 1043
  },
  "trials": {
-  "raw": 891,
+  "raw": 0,
   "added": 0,
-  "updated": 697,
-  "dropped_irrelevant": 193,
+  "updated": 0,
+  "dropped_irrelevant": 0,
   "removed": 0,
   "total": 697
  },
  "bills": {
-  "raw": 219,
+  "raw": 0,
   "added": 0,
-  "updated": 64,
-  "dropped_irrelevant": 155,
+  "updated": 0,
+  "dropped_irrelevant": 0,
   "total": 552
  },
  "cases": {
-  "raw": 72,
-  "added": 1,
-  "updated": 7,
-  "dropped_irrelevant": 64,
+  "raw": 0,
+  "added": 0,
+  "updated": 0,
+  "dropped_irrelevant": 0,
   "total": 66
  },
- "finished": "2026-10-25T11:29:13+00:00",
- "papers_total": 487,
+ "finished": "2026-10-25T17:59:26+00:00",
+ "papers_total": 8340,
  "news_total": 1043,
  "history": [
+  {
+   "finished": "2026-10-25T17:59:26+00:00",
+   "mode": "rebuild",
+   "added": 7871,
+   "news_added": 0,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 0,
+   "failed": 0
+  },
   {
    "finished": "2026-10-25T11:29:13+00:00",
    "mode": "nightly",

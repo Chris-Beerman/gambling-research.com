@@ -4,46 +4,8 @@
   "from": "2026-10-18",
   "to": "2026-10-25"
  },
- "new_studies": 42,
+ "new_studies": 39,
  "candidates": [
-  {
-   "id": "doi:10.1098/rsos.261484",
-   "title": "Can consumers accurately identify loot boxes and loot box receipts?",
-   "journal": "Royal Society open science",
-   "authors": [
-    "Matt B Hall",
-    "Lauren C Hall",
-    "James D Sauer",
-    "Aaron Drummond"
-   ],
-   "published": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "summary": "Loot boxes are randomized rewards in video games. Meta-analyses suggest relationships between loot box spending and problem gambling symptomatology, and early longitudinal evidence suggests loot box purchasers migrate into conventional gambling at higher rates than non-purchasers …",
-   "url": "https://doi.org/10.1098/rsos.261484",
-   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682923/",
-   "topics": [
-    "loot-boxes",
-    "policy",
-    "cognition",
-    "families"
-   ],
-   "designs": [
-    "review",
-    "trial",
-    "longitudinal"
-   ],
-   "regions": [
-    "australia-nz"
-   ],
-   "score": 8,
-   "why": [
-    "trial",
-    "review",
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
   {
    "id": "doi:10.1007/s10899-026-10558-4",
    "title": "Payment Preferences and Related Sports Betting Behavior: A Secondary Analysis of Player Data from an Online Sports Gambling Operator",
@@ -62,7 +24,6 @@
    "oa_url": null,
    "topics": [
     "sports-betting",
-    "online-gambling",
     "industry"
    ],
    "designs": [
@@ -96,9 +57,7 @@
     "sports-betting",
     "youth",
     "advertising",
-    "policy",
-    "prevalence",
-    "industry"
+    "prevalence"
    ],
    "designs": [],
    "regions": [
@@ -108,78 +67,6 @@
    "score": 5,
    "why": [
     "core journal",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1080/14459795.2026.2748058",
-   "title": "From the love of the game: a qualitative study exploring mechanisms to online gambling participation in young people",
-   "journal": "International Gambling Studies",
-   "authors": [
-    "Aino Suomi",
-    "Debbie Noble-Carr",
-    "Hunter Culbong",
-    "Thomas Stevens"
-   ],
-   "published": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "summary": "Emerging research has identified engagement in sports or video gaming as risk factors for gambling and gambling harm in young adults, but little is known about the mechanisms through which childhood engagement with these activities may lead to gambling in early adulthood …",
-   "url": "https://doi.org/10.1080/14459795.2026.2748058",
-   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2748058?needAccess=true",
-   "topics": [
-    "online-gambling",
-    "loot-boxes",
-    "youth",
-    "advertising"
-   ],
-   "designs": [
-    "qualitative"
-   ],
-   "regions": [
-    "australia-nz"
-   ],
-   "score": 5,
-   "why": [
-    "core journal",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.12688/f1000research.191912.1",
-   "title": "Online Gambling Detection Systems: A Systematic Review",
-   "journal": "F1000Research",
-   "authors": [
-    "Abdul Azzam Ajhari",
-    "Aji Rizal Fathoni",
-    "Aprinaldi Jasa Mantau",
-    "Pratama Mahardhika",
-    "Jatmiko Wisnu"
-   ],
-   "published": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "summary": "Background Illegal online gambling increasingly exploits websites, mobile applications, social media, messaging services, and decentralized financial infrastructure, and operators actively evade automated filtering …",
-   "url": "https://doi.org/10.12688/f1000research.191912.1",
-   "oa_url": "https://f1000research.com/articles/15-1763/pdf",
-   "topics": [
-    "online-gambling",
-    "trading",
-    "policy",
-    "industry"
-   ],
-   "designs": [
-    "review",
-    "longitudinal"
-   ],
-   "regions": [
-    "asia",
-    "australia-nz"
-   ],
-   "score": 5,
-   "why": [
-    "review",
-    "longitudinal or behavioral data",
     "free full text",
     "priority topic"
    ]
@@ -221,6 +108,38 @@
    ]
   },
   {
+   "id": "doi:10.1080/14459795.2026.2748058",
+   "title": "From the love of the game: a qualitative study exploring mechanisms to online gambling participation in young people",
+   "journal": "International Gambling Studies",
+   "authors": [
+    "Aino Suomi",
+    "Debbie Noble-Carr",
+    "Hunter Culbong",
+    "Thomas Stevens"
+   ],
+   "published": "2026-10-20",
+   "first_seen": "2026-10-21",
+   "summary": "Emerging research has identified engagement in sports or video gaming as risk factors for gambling and gambling harm in young adults, but little is known about the mechanisms through which childhood engagement with these activities may lead to gambling in early adulthood …",
+   "url": "https://doi.org/10.1080/14459795.2026.2748058",
+   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2748058?needAccess=true",
+   "topics": [
+    "online-gambling",
+    "loot-boxes",
+    "youth"
+   ],
+   "designs": [
+    "qualitative"
+   ],
+   "regions": [
+    "australia-nz"
+   ],
+   "score": 4,
+   "why": [
+    "core journal",
+    "free full text"
+   ]
+  },
+  {
    "id": "doi:10.1007/s10899-026-10570-8",
    "title": "Casino and Online Self-Exclusion in Canada: Awareness, Uptake, and Compliance",
    "journal": "Journal of Gambling Studies",
@@ -241,57 +160,18 @@
    "url": "https://doi.org/10.1007/s10899-026-10570-8",
    "oa_url": null,
    "topics": [
-    "online-gambling",
     "casino",
-    "treatment",
     "self-exclusion",
     "advertising",
-    "measurement",
     "comorbidity"
    ],
-   "designs": [
-    "survey"
-   ],
+   "designs": [],
    "regions": [
     "canada"
    ],
    "score": 4,
    "why": [
     "core journal",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.58578/ahkam.v5i4.12398",
-   "title": "Pinjaman Online Sebagai Faktor Kriminogenik Maraknya Judi Online Pada Generasi Muda",
-   "journal": "AHKAM",
-   "authors": [
-    "Salman Farisi"
-   ],
-   "published": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "summary": "The prevalence of online gambling and online loan use among young people presents a social problem that requires examination of the relationship between access to digital financing and gambling behavior. This study aimed to analyze the role of online loans as a criminogenic factor that may encourage young people’s involvement in online gambling …",
-   "url": "https://doi.org/10.58578/ahkam.v5i4.12398",
-   "oa_url": "https://ejournal.yasin-alsys.org/ahkam/article/download/12398/9023/12398.pdf",
-   "topics": [
-    "online-gambling",
-    "youth",
-    "advertising",
-    "policy",
-    "prevalence",
-    "financial-harm",
-    "equity",
-    "industry"
-   ],
-   "designs": [
-    "review",
-    "qualitative"
-   ],
-   "regions": [],
-   "score": 4,
-   "why": [
-    "review",
-    "free full text",
     "priority topic"
    ]
   },
@@ -315,18 +195,15 @@
    "oa_url": null,
    "topics": [
     "sports-betting",
-    "online-gambling",
     "youth",
-    "prevention",
-    "policy",
-    "prevalence",
-    "comorbidity",
-    "families"
+    "prevalence"
    ],
    "designs": [
     "survey"
    ],
-   "regions": [],
+   "regions": [
+    "africa"
+   ],
    "score": 4,
    "why": [
     "core journal",
@@ -334,134 +211,63 @@
    ]
   },
   {
-   "id": "doi:10.1007/s10935-026-00957-z",
-   "title": "Preventing Gambling Among Adolescents: An Umbrella Review of School-Based Prevention Programmes",
-   "journal": "Journal of Prevention",
+   "id": "doi:10.12688/f1000research.191912.1",
+   "title": "Online Gambling Detection Systems: A Systematic Review",
+   "journal": "F1000Research",
    "authors": [
-    "V Cabrera-Perona",
-    "S Tirado González",
-    "D Lloret-Irles"
+    "Abdul Azzam Ajhari",
+    "Aji Rizal Fathoni",
+    "Aprinaldi Jasa Mantau",
+    "Pratama Mahardhika",
+    "Jatmiko Wisnu"
    ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "In recent years, both land-based and online gambling have become increasingly normalised and socially accepted activities. Despite legal restrictions aimed at preventing underage access, evidence confirms concerning prevalence rates among adolescents …",
-   "url": "https://doi.org/10.1007/s10935-026-00957-z",
-   "oa_url": null,
+   "published": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "summary": "Background Illegal online gambling increasingly exploits websites, mobile applications, social media, messaging services, and decentralized financial infrastructure, and operators actively evade automated filtering …",
+   "url": "https://doi.org/10.12688/f1000research.191912.1",
+   "oa_url": "https://f1000research.com/articles/15-1763/pdf",
    "topics": [
-    "online-gambling",
-    "youth",
-    "treatment",
-    "prevention",
-    "policy",
-    "prevalence"
+    "online-gambling"
    ],
    "designs": [
-    "review",
-    "longitudinal",
-    "behavioral-data"
+    "review"
    ],
    "regions": [
-    "europe"
-   ],
-   "score": 4,
-   "why": [
-    "review",
-    "longitudinal or behavioral data",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1055/s-0046-1829640",
-   "title": "A First Case of Compulsive Amnestic Sleep-Related Shopping Induced by Pramipexole Therapy of Restless Legs Syndrome",
-   "journal": "Sleep Science",
-   "authors": [
-    "Michael Todd",
-    "Carlos H Schenck",
-    "Erin Golden",
-    "Ranji Varghese"
-   ],
-   "published": "2026-10-20",
-   "first_seen": "2026-10-23",
-   "summary": "Dopamine receptor agonists (DAs) such as pramipexole/ropinirole are recognized treatments for restless legs syndrome (RLS) and Parkinson's disease (PD). It is well established that these medications can cause impulse control disorders (ICDs) during wakefulness, side effects with serious and potentially life-altering consequences …",
-   "url": "https://doi.org/10.1055/s-0046-1829640",
-   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682852/",
-   "topics": [
-    "treatment",
-    "cognition"
-   ],
-   "designs": [],
-   "regions": [
-    "us"
+    "asia",
+    "australia-nz"
    ],
    "score": 3,
    "why": [
-    "free full text",
-    "US",
-    "priority topic"
+    "review",
+    "free full text"
    ]
   },
   {
-   "id": "doi:10.1098/rsos.262017",
-   "title": "Natural recovery and gaming disorder: a case series",
-   "journal": "Royal Society open science",
+   "id": "doi:10.1007/s10899-026-10569-1",
+   "title": "Developing a Measure of the Double-Edged Health-Related Consequences of Lottery Participation (DEHC-LP) Among Chinese Lottery Participants and Examining Their Psychological Correlates: The Roles of Lottery Beliefs and Passion",
+   "journal": "Journal of Gambling Studies",
    "authors": [
-    "Yaewon Jin",
-    "Matúš Adamkovič",
-    "Marcel Martončik",
-    "Veli-Matti Karhulahti"
+    "Zheng Gan",
+    "Bin Wang",
+    "Yue Hu",
+    "Zhengyang Mei",
+    "Lian Liu"
    ],
-   "published": "2026-10-21",
-   "first_seen": "2026-10-23",
-   "summary": "Conceptualizations of recovery in gaming disorder (GD) remain relatively underdeveloped. While remission without formal treatment appears common in longitudinal data, the mechanisms through which it occurs have received little systematic attention …",
-   "url": "https://doi.org/10.1098/rsos.262017",
-   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682888/",
+   "published": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "summary": "Lottery participation may be associated with both beneficial and detrimental consequences relevant to individuals' health, well-being, and daily functioning, reflecting a double-edged phenomenon. Understanding the psychological factors associated with these divergent consequences is important for promoting responsible lottery participation …",
+   "url": "https://doi.org/10.1007/s10899-026-10569-1",
+   "oa_url": null,
    "topics": [
-    "loot-boxes",
-    "treatment",
-    "policy",
-    "comorbidity"
+    "lottery"
    ],
-   "designs": [
-    "qualitative",
-    "longitudinal",
-    "case-report"
-   ],
+   "designs": [],
    "regions": [
-    "europe",
     "asia"
    ],
    "score": 3,
    "why": [
-    "longitudinal or behavioral data",
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.33140/jtma.05.02.03",
-   "title": "The Faustian Clinic:Mastery, Suffering, and the Bargains Physicians Make",
-   "journal": "Journal of Traditional Medicine & Applications",
-   "authors": [
-    "Julian Ungar-Sargon"
-   ],
-   "published": "2026-10-12",
-   "first_seen": "2026-10-23",
-   "summary": "Goethe's Faust is usually read as a drama of knowledge, desire, transgression and redemption. It is also, and not incidentally, a drama about a physician …",
-   "url": "https://doi.org/10.33140/jtma.05.02.03",
-   "oa_url": "https://www.opastpublishers.com/open-access-articles/the-faustian-clinicmastery-suffering-and-the-bargains-physicians-make.pdf",
-   "topics": [
-    "treatment",
-    "policy"
-   ],
-   "designs": [],
-   "regions": [
-    "us"
-   ],
-   "score": 3,
-   "why": [
-    "free full text",
-    "US",
-    "priority topic"
+    "core journal"
    ]
   },
   {
@@ -478,8 +284,7 @@
    "url": "https://doi.org/10.9741/2327-8455.1521",
    "oa_url": "https://oasis.library.unlv.edu/context/grrj/article/1521/viewcontent/Did_College_Football_Betting_Markets_Correctly_Assess_Game_Shortening_Rule_Changes.pdf",
    "topics": [
-    "sports-betting",
-    "industry"
+    "sports-betting"
    ],
    "designs": [],
    "regions": [
@@ -509,13 +314,11 @@
    "url": "https://doi.org/10.1159/ear/acrag008",
    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690321/",
    "topics": [
-    "online-gambling",
     "casino",
     "loot-boxes",
     "advertising",
     "policy",
-    "cognition",
-    "equity"
+    "cognition"
    ],
    "designs": [],
    "regions": [
@@ -544,10 +347,8 @@
    "oa_url": null,
    "topics": [
     "sports-betting",
-    "advertising",
     "policy",
-    "cognition",
-    "families"
+    "cognition"
    ],
    "designs": [
     "qualitative"
@@ -578,18 +379,17 @@
    "first_seen": "2026-10-20",
    "summary": "This study aims to analyze ethical dilemmas in sponsorship practices among university students, focusing on the case of online gambling promotions in Singaraja. The rapid development of digital technology has encouraged students to utilize social media not only as a means of communication but also as a source of income through sponsorship activities …",
    "url": "https://doi.org/10.52364/jsmi.v4i2.50",
-   "oa_url": "https://doi.org/10.52364/jsmi.v4i2.50",
+   "oa_url": "https://senpling.pelantarpress.co.id/index.php/JSMI/article/download/50/pdf",
    "topics": [
     "online-gambling",
-    "youth",
-    "advertising",
-    "policy",
-    "industry"
+    "advertising"
    ],
    "designs": [
     "qualitative"
    ],
-   "regions": [],
+   "regions": [
+    "asia"
+   ],
    "score": 2,
    "why": [
     "free full text",
@@ -623,16 +423,43 @@
     "industry"
    ],
    "designs": [
-    "qualitative",
-    "behavioral-data",
-    "commentary"
+    "qualitative"
    ],
    "regions": [
     "asia"
    ],
    "score": 2,
    "why": [
-    "longitudinal or behavioral data",
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1098/rsos.261484",
+   "title": "Can consumers accurately identify loot boxes and loot box receipts?",
+   "journal": "Royal Society open science",
+   "authors": [
+    "Matt B Hall",
+    "Lauren C Hall",
+    "James D Sauer",
+    "Aaron Drummond"
+   ],
+   "published": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "summary": "Loot boxes are randomized rewards in video games. Meta-analyses suggest relationships between loot box spending and problem gambling symptomatology, and early longitudinal evidence suggests loot box purchasers migrate into conventional gambling at higher rates than non-purchasers …",
+   "url": "https://doi.org/10.1098/rsos.261484",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682923/",
+   "topics": [
+    "loot-boxes",
+    "policy",
+    "families"
+   ],
+   "designs": [],
+   "regions": [
+    "australia-nz"
+   ],
+   "score": 2,
+   "why": [
     "free full text",
     "priority topic"
    ]
@@ -662,9 +489,7 @@
     "treatment",
     "self-exclusion",
     "prevalence",
-    "measurement",
     "comorbidity",
-    "financial-harm",
     "equity"
    ],
    "designs": [
@@ -676,6 +501,37 @@
    "score": 2,
    "why": [
     "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.23990/sa.179739",
+   "title": "Rahapeliriippuvuus ja itsemurha – viimeinen käynti terveydenhuollossa ennen kuolemaa 1996–2023",
+   "journal": "Sosiaalilääketieteellinen Aikakauslehti",
+   "authors": [
+    "Tiina A. Latvala",
+    "Maria Heiskanen",
+    "Jonna M. Levola",
+    "Sari Castrén",
+    "Jani Selin",
+    "Leena Forma"
+   ],
+   "published": "2026-10-20",
+   "first_seen": "2026-10-21",
+   "summary": "Gambling disorder (ICD-10: F63.0) impairs quality of life and increases suicide risk. This study examined how many individuals with a gambling disorder diagnosis died by suicide, what other mental health disorders they had, and how the timing of their last health care visit related to their suicide …",
+   "url": "https://doi.org/10.23990/sa.179739",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "comorbidity"
+   ],
+   "designs": [
+    "behavioral-data"
+   ],
+   "regions": [],
+   "score": 2,
+   "why": [
+    "longitudinal or behavioral data",
     "priority topic"
    ]
   },
@@ -696,12 +552,8 @@
    "topics": [
     "sports-betting",
     "online-gambling",
-    "treatment",
-    "policy",
-    "cognition",
     "families",
-    "equity",
-    "industry"
+    "equity"
    ],
    "designs": [
     "qualitative",
@@ -734,11 +586,7 @@
    "oa_url": "https://doi.org/10.4103/indianjpsychiatry_792_26",
    "topics": [
     "treatment",
-    "measurement",
-    "cognition",
-    "comorbidity",
-    "equity",
-    "industry"
+    "comorbidity"
    ],
    "designs": [
     "survey"
@@ -767,23 +615,18 @@
    "oa_url": "https://www.ojs.wahanapublikasi.com/index.php/vjlaws/article/download/506/315",
    "topics": [
     "online-gambling",
-    "treatment",
+    "youth",
     "prevention",
-    "policy",
-    "financial-harm",
-    "industry"
+    "policy"
    ],
    "designs": [
-    "qualitative",
-    "behavioral-data",
-    "commentary"
+    "qualitative"
    ],
    "regions": [
     "asia"
    ],
    "score": 2,
    "why": [
-    "longitudinal or behavioral data",
     "free full text",
     "priority topic"
    ]
@@ -802,8 +645,7 @@
    "oa_url": "https://rhetoric.bg/wp-content/uploads/2026/10/Issue-69-October-2026-Milkova.pdf",
    "topics": [
     "advertising",
-    "policy",
-    "industry"
+    "policy"
    ],
    "designs": [
     "qualitative"
@@ -836,8 +678,7 @@
    "oa_url": "https://aladzkiyajournal.com/index.php/AIoCSIT/article/download/437/pdf",
    "topics": [
     "online-gambling",
-    "advertising",
-    "industry"
+    "advertising"
    ],
    "designs": [],
    "regions": [
@@ -880,10 +721,8 @@
    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684849/",
    "topics": [
     "policy",
-    "measurement",
     "cognition",
-    "comorbidity",
-    "equity"
+    "comorbidity"
    ],
    "designs": [
     "survey"
@@ -913,10 +752,9 @@
    "url": "https://doi.org/10.1177/2631309x261501530",
    "oa_url": null,
    "topics": [
+    "sports-betting",
     "online-gambling",
-    "prediction-markets",
-    "policy",
-    "industry"
+    "prediction-markets"
    ],
    "designs": [],
    "regions": [
@@ -926,6 +764,36 @@
    "why": [
     "US",
     "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10935-026-00957-z",
+   "title": "Preventing Gambling Among Adolescents: An Umbrella Review of School-Based Prevention Programmes",
+   "journal": "Journal of Prevention",
+   "authors": [
+    "V Cabrera-Perona",
+    "S Tirado González",
+    "D Lloret-Irles"
+   ],
+   "published": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "summary": "In recent years, both land-based and online gambling have become increasingly normalised and socially accepted activities. Despite legal restrictions aimed at preventing underage access, evidence confirms concerning prevalence rates among adolescents …",
+   "url": "https://doi.org/10.1007/s10935-026-00957-z",
+   "oa_url": null,
+   "topics": [
+    "online-gambling",
+    "youth",
+    "prevention"
+   ],
+   "designs": [
+    "review"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "review"
    ]
   },
   {
@@ -944,8 +812,6 @@
    "topics": [
     "online-gambling",
     "treatment",
-    "policy",
-    "measurement",
     "financial-harm"
    ],
    "designs": [
@@ -977,7 +843,6 @@
    "topics": [
     "sports-betting",
     "lottery",
-    "policy",
     "industry"
    ],
    "designs": [],
@@ -1006,15 +871,13 @@
    "url": "https://doi.org/10.18863/pgy.2010753",
    "oa_url": "https://dergipark.org.tr/en/download/article-file/6300128",
    "topics": [
-    "measurement",
-    "cognition",
-    "comorbidity"
+    "cognition"
    ],
    "designs": [
     "survey"
    ],
    "regions": [
-    "asia"
+    "europe"
    ],
    "score": 1,
    "why": [
@@ -1056,6 +919,30 @@
    ]
   },
   {
+   "id": "doi:10.52436/1.jutif.2026.7.5.5739",
+   "title": "Public Sentiment Analysis of Online Gambling Using Naïve Bayes and SVM on TikTok Social Media Data",
+   "journal": "Jurnal Teknik Informatika",
+   "authors": [
+    "Agung Raditya",
+    "Jasmir Jasmir",
+    "Effiyaldi Effiyaldi"
+   ],
+   "published": "2026-10-10",
+   "first_seen": "2026-10-20",
+   "summary": "This study investigates public sentiment toward online gambling on TikTok social media and evaluates the performance of two machine learning algorithms, Multinomial Naïve Bayes and Support Vector Machine (SVM), for sentiment classification …",
+   "url": "https://doi.org/10.52436/1.jutif.2026.7.5.5739",
+   "oa_url": "https://jutif.if.unsoed.ac.id/index.php/jurnal/article/download/5739/1446",
+   "topics": [
+    "online-gambling"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
    "id": "doi:10.54254/2754-1169/2026.37992",
    "title": "Casino-Side Kelly Analysis of Roulette: Growth, Fractional Exposure, and Finite-Horizon Risk",
    "journal": "Advances in Economics Management and Political Sciences",
@@ -1068,8 +955,7 @@
    "url": "https://doi.org/10.54254/2754-1169/2026.37992",
    "oa_url": "https://aemps.ewapub.com/article/view/37992.pdf",
    "topics": [
-    "casino",
-    "measurement"
+    "casino"
    ],
    "designs": [],
    "regions": [
@@ -1104,48 +990,18 @@
    "topics": [
     "online-gambling",
     "youth",
-    "prevalence",
-    "measurement",
-    "comorbidity"
+    "prevalence"
    ],
    "designs": [
     "survey"
    ],
    "regions": [
+    "middle-east",
     "australia-nz"
    ],
    "score": 1,
    "why": [
     "free full text"
-   ]
-  },
-  {
-   "id": "doi:10.23990/sa.179739",
-   "title": "Rahapeliriippuvuus ja itsemurha – viimeinen käynti terveydenhuollossa ennen kuolemaa 1996–2023",
-   "journal": "Sosiaalilääketieteellinen Aikakauslehti",
-   "authors": [
-    "Tiina A. Latvala",
-    "Maria Heiskanen",
-    "Jonna M. Levola",
-    "Sari Castrén",
-    "Jani Selin",
-    "Leena Forma"
-   ],
-   "published": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "summary": "Gambling disorder (ICD-10: F63.0) impairs quality of life and increases suicide risk. This study examined how many individuals with a gambling disorder diagnosis died by suicide, what other mental health disorders they had, and how the timing of their last health care visit related to their suicide …",
-   "url": "https://doi.org/10.23990/sa.179739",
-   "oa_url": null,
-   "topics": [
-    "treatment",
-    "prevalence",
-    "comorbidity"
-   ],
-   "designs": [],
-   "regions": [],
-   "score": 1,
-   "why": [
-    "priority topic"
    ]
   },
   {
@@ -1162,8 +1018,7 @@
    "url": "https://doi.org/10.1097/01.asm.0001289976.00118.06",
    "oa_url": null,
    "topics": [
-    "prediction-markets",
-    "industry"
+    "prediction-markets"
    ],
    "designs": [],
    "regions": [],
@@ -1187,7 +1042,8 @@
    "url": "https://doi.org/10.1037/tmb0000225",
    "oa_url": "https://doi.org/10.1037/tmb0000225",
    "topics": [
-    "online-gambling"
+    "online-gambling",
+    "comorbidity"
    ],
    "designs": [],
    "regions": [],
@@ -1197,22 +1053,25 @@
    ]
   },
   {
-   "id": "doi:10.3389/fnhum.2026.1976371",
-   "title": "Prefrontal cortical morphometric covariance and cognitive task performance in healthy young adults: an exploratory analysis of Human Connectome Project data",
-   "journal": "Frontiers in Human Neuroscience",
+   "id": "doi:10.58578/ahkam.v5i4.12398",
+   "title": "Pinjaman Online Sebagai Faktor Kriminogenik Maraknya Judi Online Pada Generasi Muda",
+   "journal": "AHKAM",
    "authors": [
-    "Roman Chivers"
+    "Salman Farisi"
    ],
    "published": "2026-10-22",
    "first_seen": "2026-10-23",
-   "summary": "The prefrontal cortex (PFC) is implicated in many cognitive tasks, including working memory, reward-based decision-making, executive control, and metacognition. This exploratory analysis investigated whether individual expression of PFC cortical thickness and surface area covariance components is associated with cognitive task performance …",
-   "url": "https://doi.org/10.3389/fnhum.2026.1976371",
-   "oa_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1976371/pdf",
+   "summary": "The prevalence of online gambling and online loan use among young people presents a social problem that requires examination of the relationship between access to digital financing and gambling behavior. This study aimed to analyze the role of online loans as a criminogenic factor that may encourage young people’s involvement in online gambling …",
+   "url": "https://doi.org/10.58578/ahkam.v5i4.12398",
+   "oa_url": "https://ejournal.yasin-alsys.org/ahkam/article/download/12398/9023/12398.pdf",
    "topics": [
+    "online-gambling",
     "youth",
-    "cognition"
+    "financial-harm"
    ],
-   "designs": [],
+   "designs": [
+    "qualitative"
+   ],
    "regions": [],
    "score": 1,
    "why": [
@@ -1253,7 +1112,6 @@
    "oa_url": null,
    "topics": [
     "sports-betting",
-    "online-gambling",
     "treatment",
     "policy",
     "comorbidity"
@@ -1281,7 +1139,7 @@
    "url": "https://doi.org/10.33902/jpsp.202648322",
    "oa_url": "https://www.j-psp.com/download/problem-gambling-severity-and-personal-and-family-financial-harm-among-students-in-kazakhstan-the-19657.pdf",
    "topics": [
-    "youth",
+    "comorbidity",
     "families",
     "financial-harm"
    ],
@@ -1317,18 +1175,46 @@
    "topics": [
     "online-gambling",
     "youth",
-    "measurement",
-    "comorbidity",
-    "equity"
+    "comorbidity"
    ],
    "designs": [
     "survey"
    ],
    "regions": [
-    "asia"
+    "europe"
    ],
    "score": 0,
    "why": []
+  },
+  {
+   "id": "doi:10.1007/s11845-026-04699-z",
+   "title": "Combatting gambling in Ireland: adopting demand and supply strategies from the fight against big tobacco and alcohol",
+   "journal": "Irish Journal of Medical Science",
+   "authors": [
+    "Frank Houghton",
+    "Daisy Houghton",
+    "Mia Daly",
+    "Anne Campbell"
+   ],
+   "published": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "summary": "This paper outlines the threat posed by gambling in Ireland and proposes a range of policy responses …",
+   "url": "https://doi.org/10.1007/s11845-026-04699-z",
+   "oa_url": null,
+   "topics": [
+    "advertising",
+    "comorbidity"
+   ],
+   "designs": [
+    "commentary"
+   ],
+   "regions": [
+    "uk-ireland"
+   ],
+   "score": 0,
+   "why": [
+    "priority topic"
+   ]
   }
  ],
  "news": [
