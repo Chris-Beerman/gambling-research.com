@@ -261,9 +261,17 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--backfill", action="store_true")
     ap.add_argument("--rebuild", action="store_true", help="re-read every study from backfill_from and re-apply the rules")
+    ap.add_argument("--rebuild-if-needed", action="store_true", help="rebuild only if the rules version or backfill_from changed; otherwise do nothing")
     ap.add_argument("--only", default="", help="comma-separated: pubmed,openalex,crossref,journals,news,trials,bills,courts")
     args = ap.parse_args()
     only = {x.strip() for x in args.only.split(",") if x.strip()} or None
+    if args.rebuild_if_needed:
+        why = rebuild_needed(load_json(DATA_DIR / "index_meta.json", {}), Taxonomy(load_yaml("taxonomy.yml")), load_yaml("sources.yml"))
+        if not why:
+            print("rules and coverage unchanged; nothing to rebuild", file=sys.stderr)
+            return 0
+        print(f"rebuild: {why}", file=sys.stderr)
+        return run(rebuild=True, only={"pubmed", "openalex", "crossref", "journals"})
     return run(backfill=args.backfill, only=only, rebuild=args.rebuild)
 
 
