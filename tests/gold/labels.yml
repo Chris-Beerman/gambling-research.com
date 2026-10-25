@@ -10,6 +10,13 @@
 #
 # A field is left out when the record does not settle it. The answers are not
 # tuned to the rules: where the rules get one wrong, the score shows it.
+#
+# The first block (79 studies) was labelled while the rules were being fixed, so
+# the rules fit it well. The held-out block (59 studies, a random draw) was
+# labelled before any further change, to see how the rules do on studies they
+# were not adjusted for: 95% in/out, 59% designs (mostly designs left blank
+# rather than wrong ones), 91% settings, 86% topics. General errors it exposed
+# were then fixed (rules version 3), so it now also serves as a regression check.
 
 thresholds:
   keep: 0.95
@@ -100,3 +107,63 @@ studies:
   "10.1080/23736992.2026.2750933": {designs: [qualitative], settings: [US], topics: [sports-betting]}
   "10.1002/adaw.35092": {settings: [US]}
   "10.1037/tmb0000225": {topics: [online-gambling]}
+  # ---- held-out sample (labelled after the rules were fixed; see tests/gold/holdout.txt) ----
+  "10.29173/cgs164": {settings: [], topics: [prevention]}
+  "10.1007/s40429-025-00621-2": {designs: [review]}
+  "10.1080/16066359.2022.2148663": {designs: [qualitative], topics: [prevention]}
+  "10.1016/j.infpip.2023.100270": {keep: false}
+  "10.24869/psyd.2023.386": {designs: [survey], topics: [trading]}
+  "10.1111/adb.13389": {designs: [experiment], topics: [sports-betting, cognition]}
+  "10.1016/j.psychres.2025.116476": {designs: [behavioral-data], settings: [SE], topics: [comorbidity]}
+  "10.1038/s41398-024-02804-3": {keep: false}
+  "10.20961/carakatani.v37i2.52996": {keep: false}
+  "10.1007/s10899-024-10310-w": {designs: [experiment], topics: [casino]}
+  "10.38035/rrj.v7i2.1395": {settings: [ID], topics: [online-gambling, advertising, policy]}
+  "10.1038/s44159-025-00443-z": {designs: [review], topics: [cognition]}
+  "10.3390/ani13071165": {keep: false}
+  "10.1016/j.chbr.2024.100545": {designs: [experiment], topics: [loot-boxes, casino]}
+  "10.1016/j.comppsych.2023.152414": {designs: [longitudinal], settings: [FI], topics: [treatment]}
+  "10.1111/psj.70005": {designs: [qualitative, longitudinal], settings: [IT], topics: [prevention, policy]}
+  "10.38127/uqlj.v42i2.8179": {settings: [AU], topics: [advertising, policy]}
+  "10.1097/pec.0000000000003477": {keep: false}
+  "10.23887/jish.v14i3.103082": {designs: [survey], topics: [online-gambling]}
+  "10.4102/td.v22i1.1585": {designs: [qualitative], settings: [ZW], topics: [youth]}
+  "10.1017/s0033291720002743": {settings: [AU], topics: [comorbidity], not_topics: [treatment]}
+  "10.24940/theijhss/2023/v11/i10/hs2310-028": {designs: [survey], settings: [KE], topics: [youth]}
+  "10.30659/ldj.4.3.389-395": {designs: [qualitative], settings: [ID]}
+  "10.36623/kssr.2023.74.10": {topics: [casino]}
+  "10.1136/bmj.p1010": {designs: [commentary], settings: [GB]}
+  "10.1089/glr2.2023.0018": {settings: [MO]}
+  "10.1162/jinh_r_01983": {designs: [commentary], settings: [US], topics: [lottery]}
+  "10.1016/j.ijforecast.2024.06.012": {topics: [sports-betting]}
+  "10.47652/metadata.v6i2.494": {settings: [ID], topics: [online-gambling]}
+  "10.55519/jamc-02-12234": {keep: false}
+  "10.33884/scientiajournal.v6i2.8669": {designs: [qualitative], settings: [ID]}
+  "10.15642/mal.v7i1.426": {settings: [ID], topics: [families]}
+  "10.1080/10550887.2025.2464328": {designs: [case-report], topics: [treatment]}
+  "10.22437/pampas.v6i2.37254": {designs: [qualitative], topics: [advertising, equity]}
+  "10.56114/al-sharf.v6i2.12314": {designs: [qualitative], topics: [advertising]}
+  "10.47626/2237-6089-2025-1217": {designs: [review], topics: [loot-boxes, youth]}
+  "10.47197/retos.v76.118475": {designs: [survey, qualitative], settings: [TH], topics: [older-adults]}
+  "10.1007/s10899-026-10474-7": {settings: [BR]}
+  "10.1007/s10899-026-10481-8": {designs: [survey], topics: [comorbidity], not_topics: [policy]}
+  "10.1177/01650254261432793": {designs: [longitudinal], settings: [CA], topics: [youth, comorbidity]}
+  "10.25300/misq/2026/18102": {designs: [behavioral-data], topics: [trading], not_topics: [lottery]}
+  "10.52902/kjsc.2026.55.255": {settings: [KR, US, GB, JP], topics: [youth, policy]}
+  "10.47772/ijriss.2026.100601186": {designs: [qualitative], topics: [youth, financial-harm]}
+  "10.1016/j.frl.2026.110664": {settings: [US], topics: [prediction-markets]}
+  "10.1007/s10899-026-10552-w": {designs: [qualitative], settings: [TR], topics: [families]}
+  "10.66608/2617-085x.2026.3.3.009": {settings: [KZ], topics: [industry]}
+  "10.66053/ijota.v4i1.1208": {settings: [ZA], topics: [financial-harm]}
+  "10.1504/ijfmd.2026.157002": {topics: [prediction-markets]}
+  "10.1111/add.70626": {topics: [prevention]}
+  "10.1136/bmjgh-2022-010366": {keep: false}
+  "10.1257/app.20200405": {keep: false}
+  "10.1007/s10006-024-01287-2": {keep: false}
+  "10.1093/heapro/daad134": {keep: false}
+  "10.1371/journal.pntd.0013537": {keep: false}
+  "10.1016/j.jpsychires.2022.08.003": {keep: false}
+  "10.1080/14737167.2022.2004124": {keep: false}
+  "10.29271/jcpsp.2025.06.717": {keep: false}
+  "10.1016/j.lssr.2025.06.006": {keep: false}
+  "10.21203/rs.3.rs-4249490/v1": {keep: false}

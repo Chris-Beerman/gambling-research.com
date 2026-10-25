@@ -5,7 +5,7 @@
 # Bump `version` whenever a rule below changes what gets kept or how it is
 # tagged: the next nightly run then re-reads every study in the index and
 # re-applies the rules, so old entries get the same treatment as new ones.
-version: 2
+version: 3
 
 # A paper is kept when it matches at least one strong term and is not explained
 # away by an exclusion (e.g. the Iowa Gambling Task in a neuroscience paper).
@@ -24,6 +24,7 @@ relevance:
     - "bookmakers?\\b|bookmaking|licensed betting|betting (industry|regulation|licen|legali[sz]|law|tax|platforms?|companies|firms|sponsor|odds|exchanges?)|sports? bets?\\b"
     - "draftkings|fanduel|bet365|betway|sportpesa|betwinner|1xbet|betmgm|flutter entertainment|entain\\b"
     - "caixas? de recompensa|cajas? de bot[ií]n|lootbox"
+    - "junkets?\\b|gaming (concessions?|licen[cs]es?|regulat|laws?|operators?|tax|revenues?|control board|commission|venues?)"
     - "problem gambl|gambling disorder|ludomani|ludopat"
     # Gambling in the other languages the index sees most, so non-English titles count.
     - "gl[üu]cksspiel|sportwett|jeux? d.argent|paris sportifs|apuestas?\\b|juego patol|juegos? de azar|jogos? de azar|apostas|azzardo|scommess|rahapel|peliriippuv|spelberoende|spelproblem|spel om pengar|pengespill|kumarbaz|kumar (bağımlı|oyna|davran)|\\bbahis|\\bjudi (online|daring|slot|bola|togel)|perjudian|hazardu|азартн|賭博|赌博|博彩|彩票|도박|ギャンブル|قمار|مراهن|ميسر|maysir"
@@ -56,6 +57,8 @@ relevance:
     - "procter\\s*(&|&amp;|\\\\&|and)\\s*gamble"       # the company
     - "testing by betting|betting (martingale|score|interpretation)|game.theoretic (probability|statistics)|\\be.values?\\b"  # statistics
     - "pascal.s wager"
+    - "casino shifts?|casino.style (shift|schedule)"   # a work schedule in emergency medicine
+    - "(experimental )?gambl\\w* (approach|method|game|experiment)s? (to|was used to|for) (elicit|measur|assess)[^.]{0,40}risk|(elicit|measur)\\w* risk (preferences|attitudes|aversion)[^.]{0,60}gambl\\w*"
   # Titles that mark promotional or machine-generated content; dropped outright.
   drop_titles:
     - "promo code|code promo|bonus code|welcome bonus|free spins|no deposit|referral code"
@@ -188,7 +191,7 @@ topics:
     min_hits: 2
   - slug: lottery
     label: lottery
-    patterns: ["lottery|lotteries|scratch.?cards?|instant tickets?|\\blotto\\b|keno"]
+    patterns: ["lotter(y|ies)(?![- ]like)|scratch.?cards?|instant tickets?|\\blotto\\b|keno"]
     min_hits: 2
   - slug: casino
     label: casino and machines
@@ -203,7 +206,7 @@ topics:
     min_hits: 2
   - slug: treatment
     label: treatment
-    patterns: ["treatment|therap|cognitive.behav|\\bCBT\\b|pharmacolog|naltrexone|nalmefene|counsel(l)?ing|gamblers anonymous|motivational interviewing|self.help|relapse|psychotherapy|help.seeking|recovery|(psychological|brief|online|digital|internet.(based|delivered)|web.based|app.based|smartphone|treatment|clinical) interventions?"]
+    patterns: ["\\btreatments?\\b|\\btreat(s|ed|ing)?\\b|therap|cognitive.behav|\\bCBT\\b|pharmacolog|naltrexone|nalmefene|counsel(l)?ing|gamblers anonymous|motivational interviewing|self.help|relapse|psychotherapy|help.seeking|recovery|(psychological|brief|online|digital|internet.(based|delivered)|web.based|app.based|smartphone|treatment|clinical) interventions?"]
     min_hits: 2
   - slug: prevention
     label: prevention and harm reduction
@@ -242,7 +245,7 @@ topics:
     min_hits: 2
   - slug: financial-harm
     label: financial harm
-    patterns: ["\\bdebts?\\b|indebted|financial harm|bankruptc|financial (difficult|stress|loss|consequence|problem|hardship|strain)|money problems|\\bloans?\\b|borrow|credit cards?|payday|financial wellbeing"]
+    patterns: ["\\bdebts?\\b|indebted|financial harm|bankruptc|financial (difficult|stress|loss|consequence|problem|hardship|strain)|money problems|\\bloans?\\b|borrow|credit cards?|payday|financial (wellbeing|well-being|resilience|coping)|liquidity|cash.flow"]
     min_hits: 2
   - slug: equity
     label: equity and culture
@@ -290,33 +293,37 @@ designs:
     abstract: ["(this|a|our|the present|we conducted a|in a) (two.arm |three.arm |multi.?cent(er|re) |single.blind |double.blind |parallel.group |cluster |pragmatic |pilot |feasibility )*(randomi[sz]ed|controlled|clinical) (controlled |clinical |pilot |feasibility )*trial\\b|participants were randomi[sz]ed|were randomly (assigned|allocated) to (receive|an? (intervention|treatment|control|waitlist|wait.list))|randomi[sz]ed to (receive|an? (intervention|treatment|control|waitlist|wait.list))|field experiment"]
   - slug: commentary
     label: commentary or editorial
-    title: ["^(commentary|editorial|viewpoint|perspective|opinion|comment|letter|reply|response|correspondence)\\b|: (a )?(commentary|viewpoint|perspective|reply|response|comment)\\b|letter to the editor|a reply to|response to|comment(ary)? on|in case you haven.t heard|editor.s (letter|note)"]
+    title: ["^(commentary|editorial|viewpoint|perspective|opinion|comment|letter|reply|response|correspondence)\\b|: (a )?(commentary|viewpoint|perspective|reply|response|comment)\\b|letter to the editor|a reply to|response to|comment(ary)? on|in case you haven.t heard|editor.s (letter|note)|book review"]
     abstract: ["(this|in this) (commentary|editorial|viewpoint|perspective|essay|opinion piece|letter)"]
     suppresses: [trial, survey, longitudinal, qualitative, experiment, behavioral-data]
   - slug: qualitative
     label: qualitative
-    title: ["qualitative|interview|thematic analysis|focus group|grounded theory|ethnograph|phenomenolog|lived experience|narratives? of|discourse analysis"]
+    title: ["qualitative|interview|thematic analysis|focus group|grounded theory|ethnograph|phenomenological|lived experience|narratives? of|discourse analysis"]
     abstract: ["qualitative|semi.structured interviews?|in.depth interviews?|(we|were) interviewed|thematic analysis|focus groups?|grounded theory|ethnograph|interpretative phenomenological|discourse analysis|reflexive thematic|(online )?workshops (were|with)|co.design"]
   - slug: survey
     label: survey
     title: ["survey|cross.sectional|questionnaire"]
-    abstract: ["(online|national|cross.sectional|population|web.based|household|representative|panel|student|school|community) surveys?|\\bsurveyed\\b|surveys? (data|of|on|was|were|with|study|respondents|participants|wave)|cross.sectional|questionnaires? (was|were) (completed|administered|distributed|used)|completed (an? )?(online |self.report |anonymous )?(survey|questionnaire)|participants completed (\\w+ ){0,3}(measures|questionnaires|surveys|scales)|representative sample|\\brespondents\\b|data (were|was) (drawn|obtained|taken) from (the )?[^.]{0,80}survey"]
+    abstract: ["(online|national|cross.sectional|population|web.based|household|representative|panel|student|school|community) surveys?|\\bsurveyed\\b|surveys? (data|of|on|was|were|with|study|respondents|participants|wave)|cross.sectional|questionnaires? (was|were) (completed|administered|distributed|used)|completed (an? )?(online |self.report |anonymous )?(survey|questionnaire)|participants completed (\\w+ ){0,3}(measures|questionnaires|surveys|scales)|representative sample|\\brespondents\\b|quantitative data were collected|data (were|was) (drawn|obtained|taken) from (the )?[^.]{0,80}survey"]
   - slug: longitudinal
     label: longitudinal
     title: ["longitudinal|cohort|prospective|panel|follow.up|over time|trajectory (analysis|groups|classes)"]
-    abstract: ["longitudinal (study|design|data|analysis|cohort|panel|survey|qualitative)|(this|our|a) longitudinal|cohort (study|data)|prospective (cohort|study|design)|panel (data|study|survey)|waves? of data|(\\d+|two|three|four|five|six|twelve).(month|year) follow.up|follow.up (survey|assessment|data|period|study)|trajectory (analysis|modell?ing|groups|classes)|cross.lagged|interrupted time.series|time.series (analysis|design)"]
+    abstract: ["longitudinal (study|design|data|analysis|cohort|panel|survey|qualitative)|(this|our|a) longitudinal|cohort (study|data)|prospective (cohort|study|design)|panel (data|study|survey)|waves? of data|(\\d+|two|three|four|five|six|twelve).(month|year) follow.up|follow.up (survey|assessment|data|period|study)|trajectory (analysis|modell?ing|groups|classes)|birth cohort|cross.lagged|interrupted time.series|time.series (analysis|design)"]
   - slug: behavioral-data
     label: behavioral, account or register data
     title: ["account data|player data|transaction|tracking data|administrative data|register|registry|big data|natural experiment|claims data|health records"]
-    abstract: ["account data|player (account |tracking )?data|transaction(al)? data|behavio(u)?ral (tracking )?data|tracking data|administrative (health )?data|big data|natural experiment|(national|health|population|patient|care|treatment|death|clinical|nationwide) regist(er|ers|ry|ries)\\b|register.based|registry.based|regist(er|ry) data|claims data|(electronic )?health records|linked data|bank(ing)? (data|transactions)|digital traces|passive(ly)? (collected )?(data|sensing)|health administrative|administrative (health )?databases?|health care databases|universal health (coverage|insurance)|routinely collected|regulatory data|licensing data|emergency department sample|discharge (data|records)"]
+    abstract: ["account data|player (account |tracking )?data|transaction(al)? data|behavio(u)?ral (tracking )?data|tracking data|administrative (health )?data|big data|natural experiment|(national|health|population|patient|care|treatment|death|clinical|nationwide) regist(er|ers|ry|ries)\\b|register.based|registry.based|regist(er|ry) data|claims data|(electronic )?health records|linked data|bank(ing)? (data|transactions)|trading data|transactional|nationwide case.control|diagnosed in [\\w ]{0,30}(specialist|specialized) (health )?care|digital traces|passive(ly)? (collected )?(data|sensing)|health administrative|administrative (health )?databases?|health care databases|universal health (coverage|insurance)|routinely collected|regulatory data|licensing data|emergency department sample|discharge (data|records)"]
   - slug: experiment
     label: lab or online experiment
     title: ["experiment|laboratory|\\blab\\b|simulated|vignette"]
-    abstract: ["(online|laboratory|lab|vignette|between.subjects|within.subjects|choice|behavio(u)?ral) experiments?\\b|experimental (study|design|paradigm|task|manipulation|condition)|(randomly )?assigned to (one of )?(two|three|four|\\d) (conditions|groups)|in the laboratory|simulated (gambling|slot|betting)|cross.over (design|study)|(slot.machine|gambling|betting|roulette) (paradigm|task)\\b"]
+    abstract: ["(?<!natural )(?<!field )(?<!thought )\\bexperiments?\\b|experimental (study|design|paradigm|task|manipulation|condition)|(randomly )?assigned to (one of )?(two|three|four|\\d) (conditions|groups)|in the laboratory|simulated (gambling|slot|betting)|cross.over (design|study)|(slot.machine|gambling|betting|roulette) (paradigm|task)\\b"]
   - slug: case-report
     label: case study or report
     title: ["case report|case study|case series|single.case|a case of"]
     abstract: ["(this|we (present|report|describe)( a)?) case (report|study|series)|single.case"]
+
+# Journals that publish (almost) only reviews: their papers count as reviews
+# unless a publication type or the rules say otherwise.
+review_journals: "^nature reviews|annual review of|biobehavio(u)?ral reviews|clinical psychology review|current addiction reports|current opinion in|psychological bulletin"
 
 # NLM publication types (PubMed records). When one of these is present it decides
 # the design, whatever the rules above say.

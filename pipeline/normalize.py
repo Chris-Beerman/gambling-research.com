@@ -177,6 +177,7 @@ class Taxonomy:
             self.design_rules[dsg["slug"]] = (tp, ap, list(dsg.get("suppresses", [])))
         self.design_order = [d[0] for d in self.designs]
         self.pubtypes = {k.lower(): v for k, v in (cfg.get("pubtypes") or {}).items()}
+        self.review_journals = re.compile(cfg["review_journals"], re.I) if cfg.get("review_journals") else None
         self.type_designs = {v for v in self.pubtypes.values() if v}
         self.regions = cfg.get("regions", {})
         self.code_to_region = dict(countries.CODE_TO_REGION)
@@ -237,8 +238,10 @@ class Taxonomy:
                 out.append(slug)
         return out
 
-    def designs_for(self, title: str, abstract: str, pubtypes: list[str] | None = None, rtype: str | None = None) -> list[str]:
+    def designs_for(self, title: str, abstract: str, pubtypes: list[str] | None = None, rtype: str | None = None, journal: str | None = None) -> list[str]:
         found: set[str] = set()
+        if journal and self.review_journals and self.review_journals.search(journal):
+            found.add("review")
         for slug, (tp, ap, _) in self.design_rules.items():
             if any(p.search(title or "") for p in tp) or any(p.search(abstract or "") for p in ap):
                 found.add(slug)
@@ -453,7 +456,7 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
     pubtypes = first("pubtypes") or []
     mesh = first("mesh") or []
     topics = tax.topics_for(title, abstract)
-    designs = tax.designs_for(title, abstract, pubtypes, rtype)
+    designs = tax.designs_for(title, abstract, pubtypes, rtype, journal)
     settings = tax.settings_for(title, abstract, mesh)
     published = first("published")
     created = first("created")
