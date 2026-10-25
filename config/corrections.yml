@@ -1,0 +1,41 @@
+# Hand corrections. These win over every automatic rule and survive every
+# nightly run and rebuild, so a mistake fixed here stays fixed.
+#
+# Key each entry by DOI (lower case, without https://doi.org/), or by PubMed ID
+# written as "pmid:12345678". Any of these fields can be set:
+#
+#   "10.1186/s12954-026-01565-0":
+#     designs: [protocol, behavioral-data]   # replaces the automatic designs
+#     topics: [treatment, comorbidity]       # replaces the automatic topics
+#     add_topics: [self-exclusion]           # or adjust them one at a time
+#     remove_topics: [equity]
+#     settings: [SE]                         # where the study was done (ISO country codes)
+#     relevance: high                        # high, or low for the "possibly related" list
+#     language: sv                           # two-letter language code
+#     exclude: true                          # not a gambling study: drop it from the index
+#     note: why, for the record (not shown on the site)
+#
+# Topic and design slugs are the ones in config/taxonomy.yml.
+
+studies:
+  "10.1186/s12874-026-03048-z":
+    exclude: true
+    note: statistics methods paper; "testing by betting" is a term in sequential testing
+  "10.65237/2336-3630-2026-10(1)-6":
+    exclude: true
+    note: article on Russian-Japanese relations; no gambling content
+  "10.1364/ao.610874":
+    exclude: true
+    note: optics paper; "self-exclusion" is a machine-learning term here
+  "10.35308/iconami.v2i1.324":
+    exclude: true
+    note: halal tourism; gambling mentioned only as something tourists avoid
+  "10.3905/joi.2026.35.6.001":
+    exclude: true
+    note: investment journal editor's letter; gambling as a metaphor
+  "10.1093/ej/ueag127":
+    exclude: true
+    note: political economy; "gambling for re-election" is a metaphor
+  "10.1111/ajsp.70109":
+    exclude: true
+    note: social psychology experiment; a lottery used as a task

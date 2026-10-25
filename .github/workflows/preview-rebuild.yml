@@ -1,0 +1,68 @@
+# TEMPORARY: runs the rebuild on this branch so its results can be checked
+# before the branch is merged. Removed before merging.
+name: Preview rebuild (branch only)
+
+on:
+  push:
+    branches: [tagging-search-backfill]
+    paths: [".github/preview-request"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: preview-rebuild
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+      CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+      NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Gold review (before the rebuild)
+        continue-on-error: true
+        run: |
+          mkdir -p preview
+          python -m pipeline.gold review preview/gold_review.json 2>&1 | tee preview/review.log
+      - name: Rebuild the study index
+        continue-on-error: true
+        run: |
+          mkdir -p preview
+          python -m pipeline.fetch --rebuild --only pubmed,openalex,crossref,journals 2>&1 | tee preview/rebuild.log
+      - name: Gold check
+        continue-on-error: true
+        run: python -m pipeline.gold check 2>&1 | tee preview/gold_check.txt
+      - name: Build the site
+        continue-on-error: true
+        run: |
+          if [ -f package.json ]; then npm ci --no-audit --no-fund || npm install --no-audit --no-fund; fi
+          python -m pipeline.build 2>&1 | tail -40 | tee preview/build.log
+      - name: Publish the preview data to its own branch
+        if: always()
+        run: |
+          mkdir -p /tmp/out
+          cp -r preview /tmp/out/ 2>/dev/null || true
+          for f in data/papers.json data/index_meta.json data/fetch_log.json data/gold_report.json; do [ -f "$f" ] && cp "$f" /tmp/out/; done
+          git config user.name "index-bot"
+          git config user.email "index-bot@users.noreply.github.com"
+          git checkout --orphan preview-out
+          git rm -rf -q . || true
+          rm -rf ./* || true
+          cp -r /tmp/out/* .
+          git add -A
+          git commit -q -m "preview $(date -u +%Y-%m-%dT%H:%MZ) from ${GITHUB_SHA::7}"
+          git push -f origin HEAD:refs/heads/preview/tagging-search-backfill

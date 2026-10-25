@@ -2,24 +2,40 @@
 # title + abstract (papers) or title + summary (news). Order matters only for
 # the "primary" news category.
 
+# Bump `version` whenever a rule below changes what gets kept or how it is
+# tagged: the next nightly run then re-reads every study in the index and
+# re-applies the rules, so old entries get the same treatment as new ones.
+version: 2
+
 # A paper is kept when it matches at least one strong term and is not explained
 # away by an exclusion (e.g. the Iowa Gambling Task in a neuroscience paper).
 relevance:
   strong:
-    - "gambl"
-    - "\\bbettor"
-    - "sports betting|sports wagering|sportsbook|online betting|betting (app|shop|site|market|behavio)"
-    - "\\bwager"
-    - "casino"
+    - "gambling|gamblers?\\b"
+    - "\\bbettors?\\b"
+    - "sports betting|sports wagering|sportsbook|online betting|betting (app|shop|site|market|behavio|harm|advert|operator|compan)|in.play betting"
+    - "casinos?\\b"
     - "slot machine|electronic gaming machine|\\bEGMs?\\b|poker machine|pokies|video lottery|fixed.odds betting"
-    - "lottery ticket|lotteries|\\blotto\\b|scratch.?card|instant ticket"
+    - "lottery tickets?|lottery (play|gambl|products?|games?|sales|retailer|participation)|national lotter|state lotter|\\blotto\\b|scratch.?cards?|instant (lottery|ticket)"
     - "loot box"
-    - "prediction market|event contract"
-    - "self.exclusion|self.excluded"
+    - "prediction markets?|event contracts?|\\bkalshi\\b|polymarket"
     - "daily fantasy|fantasy sports"
     - "esports betting|skin betting|skin gambling"
-    - "bookmaker"
+    - "bookmakers?\\b"
+    - "problem gambl|gambling disorder|ludomani|ludopat"
+    # Gambling in the other languages the index sees most, so non-English titles count.
+    - "gl[üu]cksspiel|sportwett|jeux? d.argent|paris sportifs|apuestas?\\b|juego patol|juegos? de azar|jogos? de azar|apostas|azzardo|scommess|rahapel|peliriippuv|spelberoende|spelproblem|spel om pengar|pengespill|kumarbaz|kumar (bağımlı|oyna|davran)|\\bbahis|\\bjudi (online|daring|slot|bola|togel)|perjudian|hazardu|азартн|賭博|赌博|博彩|彩票|도박|ギャンブル|قمار|مراهن|ميسر|maysir"
+  # These count as strong only when another strong term also appears. On their own
+  # they mark the record as possibly related: "self-exclusion" is also a term in
+  # social psychology and machine learning, "wager" a philosophy term, "lotteries"
+  # the choice options of decision science, "gamble" a metaphor.
+  ambiguous:
+    - "self.exclu"
+    - "\\bwager"
+    - "lotteries"
+    - "\\bgambles?\\b|\\bgambled\\b"
     - "\\bparlay"
+    - "\\bpoker\\b|roulette|blackjack"
   # If one of these matches and nothing else does, the paper is kept but marked low relevance.
   weak:
     - "\\blottery\\b"
@@ -28,21 +44,31 @@ relevance:
   exclude_contexts:
     - "iowa gambling task"
     - "\\bgambling task\\b"
-    - "lottery (incentive|voucher|based|draw for|system for|allocation|assignment|mechanism)|by lottery|lottery design|randomi[sz]ed lottery"
-    - "cambridge gambling task"
-    - "gambl\\w* (on|with) (the|our|their|its|a) (future|economy|lives|health|climate|planet)"
+    - "cambridge gambling task|balloon analogue risk task|game of dice task"
+    - "lottery (incentive|voucher|based|draw for|system for|allocation|assignment|mechanism|hypothesis|model of|competition)|by lottery|lottery design|randomi[sz]ed lottery|postcode lottery|competitive lottery|genetic lottery|birth lottery"
+    - "gambl\\w* (on|with) (the|our|their|its|a) (future|economy|lives|health|climate|planet|stability)"
+    - "gambl\\w* for (re.?election|resurrection|redemption|survival)"
     - "(won|win|winning) .{0,30}(the )?lottery"
     - "standard gamble"                      # health-economics utility elicitation
     - "\\(wager & dixon\\)|wager & dixon"     # botanist, not a bet
     - "procter\\s*(&|&amp;|\\\\&|and)\\s*gamble"       # the company
+    - "testing by betting|betting (martingale|score|interpretation)|game.theoretic (probability|statistics)|\\be.values?\\b"  # statistics
+    - "pascal.s wager"
   # Titles that mark promotional or machine-generated content; dropped outright.
   drop_titles:
     - "promo code|code promo|bonus code|welcome bonus|free spins|no deposit|referral code"
     - "complete guide to|ultimate guide|how to (play|win|bet|develop)|best (online )?(casinos?|betting sites?|sportsbooks?)|top \\d+ (online )?casinos?|casino sites|betting sites|review \\d{4}"
     - "breakthrough mining|leads extracted|provably fair|crypto casino"
-  # A record supplied only by OpenAlex needs the subject in its title or this many
-  # strong-term matches in its abstract.
-  single_source_min_abstract_hits: 2
+  # Journals whose papers reach the index only through stray mentions. Matched
+  # against the journal name; a study can still be added by hand in corrections.yml.
+  exclude_journals:
+    - "applied optics|optics express|environmental microbiology|angewandte chemie|journal of the american chemical society|physical review"
+    - "middle european scientific bulletin|journal of investing\\b"
+  # A record that only OpenAlex supplies (its search is loose) must name the subject
+  # in its title, or mention it at least this many times in the abstract with one
+  # mention in the opening sentences.
+  openalex_only_abstract_hits: 3
+  openalex_only_early_chars: 400
 
 # Same idea for news headlines: at least one inclusion match.
 news_include:
@@ -136,160 +162,184 @@ news_categories:
     patterns:
       - "revenue|handle|earnings|launch|partnership|acquisition|merger|market share|quarter|stock|shares|sportsbook|operator|promo"
 
-# Topics for papers. A paper can carry several.
+# Topics for papers. A paper can carry several. A match in the title counts as
+# two, a match in the abstract as one; a topic needs `min_hits` (default 1), so
+# topics whose words turn up in passing ("policy implications", "a Likert scale")
+# need a title match or repeated mentions.
 topics:
   - slug: sports-betting
     label: sports betting
-    patterns: ["sports betting|sports wagering|sports bettor|sportsbook|in.play betting|live betting|\\bparlay|same.game|esports betting|fantasy sports|daily fantasy|football betting|horse (race|racing) betting|racing betting"]
+    patterns: ["sports betting|sports wagering|sports bettor|sportsbook|in.play betting|live betting|\\bparlay|same.game|esports betting|fantasy sports|daily fantasy|football betting|soccer betting|horse (race|racing) betting|racing betting|betting on (sports|football|soccer)|sportwett|apuestas deportivas|paris sportifs"]
   - slug: online-gambling
     label: online gambling
-    patterns: ["online gambling|internet gambling|mobile gambling|online betting|online casino|gambling app|remote gambling|\\bonline\\b.*gambl"]
+    patterns: ["online gambling|internet gambling|mobile gambling|online betting|online casino|gambling apps?\\b|betting apps?\\b|remote gambling|interactive gambling|igaming|judi (online|daring)|online.gl[üu]cksspiel"]
   - slug: prediction-markets
     label: prediction markets
-    patterns: ["prediction market|event contract|kalshi|polymarket|binary option"]
+    patterns: ["prediction markets?|event contracts?|kalshi|polymarket|binary options?"]
   - slug: trading
     label: trading and crypto
-    patterns: ["day.trading|cryptocurrenc|\\bcrypto\\b|options trading|stock trading|retail trading|retail investor|trading disorder|\\btraders?\\b|speculative trading|meme stock"]
+    patterns: ["day.trading|cryptocurrenc|\\bcrypto\\b|options trading|stock trading|retail trading|retail investors?|trading disorder|speculative trading|meme stock|problematic trading|high.risk trading"]
+    min_hits: 2
   - slug: lottery
     label: lottery
-    patterns: ["lottery|lotteries|scratch.?card|instant ticket|\\blotto\\b|keno"]
+    patterns: ["lottery|lotteries|scratch.?cards?|instant tickets?|\\blotto\\b|keno"]
+    min_hits: 2
   - slug: casino
     label: casino and machines
-    patterns: ["casino|slot machine|electronic gaming machine|\\bEGMs?\\b|poker machine|pokies|video lottery terminal|\\bVLT|fixed.odds betting terminal|roulette|blackjack|\\bpoker\\b|table game"]
+    patterns: ["casinos?\\b|slot machines?|electronic gaming machines?|\\bEGMs?\\b|poker machines?|pokies|video lottery terminals?|\\bVLTs?\\b|fixed.odds betting terminals?|roulette|blackjack|\\bpoker\\b|table games?"]
+    min_hits: 2
   - slug: loot-boxes
     label: loot boxes and gaming
-    patterns: ["loot box|video gam|gaming disorder|esports|skin (betting|gambling)|gacha|social casino|simulated gambling"]
+    patterns: ["loot box|video gam|gaming disorder|esports|skin (betting|gambling)|gacha|social casino|simulated gambling|gambling.like (mechanic|feature)"]
   - slug: youth
     label: youth and young adults
-    patterns: ["adolescen|\\byouth\\b|young adult|young people|college student|university student|\\bstudents?\\b|emerging adult|teenager|\\bminors?\\b|underage"]
+    patterns: ["adolescen|\\byouth\\b|young adults?|young people|young men|young women|(college|university|undergraduate|medical|nursing|high.school|secondary.school|school) students|\\bpupils\\b|emerging adult|teenagers?|\\bminors?\\b|underage|children"]
+    min_hits: 2
   - slug: treatment
     label: treatment
-    patterns: ["treatment|therap|cognitive.behav|\\bCBT\\b|intervention|pharmacolog|naltrexone|counsel(l)?ing|gamblers anonymous|recovery|motivational interviewing|self.help|relapse|psychotherapy|clinical trial"]
+    patterns: ["treatment|therap|cognitive.behav|\\bCBT\\b|pharmacolog|naltrexone|nalmefene|counsel(l)?ing|gamblers anonymous|motivational interviewing|self.help|relapse|psychotherapy|help.seeking|recovery|(psychological|brief|online|digital|internet.(based|delivered)|web.based|app.based|smartphone|treatment|clinical) interventions?"]
+    min_hits: 2
   - slug: prevention
     label: prevention and harm reduction
-    patterns: ["prevention|harm reduction|harm minimi[sz]ation|responsible gambling|safer gambling|pre.?commitment|deposit limit|limit.setting|limit setting|warning message|pop.up message|player protection|consumer protection"]
+    patterns: ["prevention|preventive|harm reduction|harm minimi[sz]ation|responsible gambling|safer gambling|pre.?commitment|deposit limits?|limit.setting|loss limits?|warning messages?|pop.up messages?|player protection|consumer protection|duty of care|affordability check"]
+    min_hits: 2
   - slug: self-exclusion
     label: self-exclusion
-    patterns: ["self.exclusion|self.excluded|voluntary exclusion|self.exclude"]
+    patterns: ["self.exclu|voluntary exclusion|exclusion (scheme|program|register|registry|list)|gamstop|spelpaus|blocking software|gambling blocks?"]
   - slug: advertising
     label: advertising and marketing
-    patterns: ["advertis|marketing|promotion|inducement|sponsorship|\\bpromos?\\b|bonus bet|free bet|affiliate"]
+    patterns: ["advertis|marketing|(gambling|betting|casino|operator) promotions?|promotional (offers?|messages?|content|material)|inducements?|sponsorship|\\bpromos?\\b|bonus bets?|free bets?|affiliate marketing|influencers?|commercial (messages|content)"]
+    min_hits: 2
   - slug: policy
     label: policy and regulation
-    patterns: ["policy|policies|regulat|legislat|legali[sz]|\\blaw\\b|legal|taxation|\\btax\\b|licens|licenc|government|jurisdiction"]
+    patterns: ["policy|policies|regulat|legislat|legali[sz]|\\blaws?\\b|legal|taxation|\\btax\\b|licens|licenc|government|jurisdiction|ban(s|ned)?\\b|prohibit|reform"]
+    min_hits: 3
   - slug: prevalence
     label: prevalence and epidemiology
-    patterns: ["prevalence|population survey|epidemiolog|national survey|general population|representative sample|incidence|cohort"]
+    patterns: ["prevalence|population survey|epidemiolog|national survey|general population|representative sample|nationally representative|incidence|population.based"]
+    min_hits: 2
   - slug: measurement
     label: screening and measurement
-    patterns: ["\\bPGSI\\b|problem gambling severity index|screening|psychometric|validation|validity|reliability|\\bscale\\b|questionnaire|\\bSOGS\\b|measurement invariance|item response"]
+    patterns: ["psychometric|validation|validat(ed|ing|e) (the|a|an|its)|factor (structure|analysis)|confirmatory factor|measurement invariance|item response|test.retest|convergent validity|screening (tool|instrument|test|measure)|screeners?\\b|scale development|(new|brief|short) (scale|measure|screen|version)|diagnostic accuracy"]
+    min_hits: 2
   - slug: cognition
     label: neuroscience and cognition
-    patterns: ["\\bfMRI\\b|neural|neuro|dopamin|cognitive distortion|near.miss|illusion of control|decision.making|impulsiv|delay discounting|reward|craving|\\burge|erroneous belief|cue reactivity"]
+    patterns: ["\\bfMRI\\b|\\bEEG\\b|neural|neuro|dopamin|cognitive distortions?|near.miss|illusion of control|decision.making|impulsiv|delay discounting|reward|craving|\\burges?\\b|erroneous beliefs?|gambling.related cognitions|cue reactivity|gambler.s fallacy|hot hand"]
+    min_hits: 2
   - slug: comorbidity
     label: comorbidity and mental health
-    patterns: ["depress|anxiety|suicid|substance use|alcohol|\\bdrug|comorbid|\\bADHD\\b|personality disorder|trauma|\\bPTSD\\b|mental health|psychiatric"]
+    patterns: ["depress|anxiety|suicid|self.harm|substance use|alcohol|\\bdrugs?\\b|comorbid|co.occurr|\\bADHD\\b|personality disorder|trauma|\\bPTSD\\b|mental health|psychiatric|psychological distress|bipolar|schizophren"]
+    min_hits: 2
   - slug: families
     label: families and affected others
-    patterns: ["\\bpartner|spouse|famil|affected other|concerned significant other|\\bparents?\\b|children of|relatives|carer"]
+    patterns: ["\\bpartners?\\b|spouses?|significant others?|\\bfamil(y|ies)\\b|affected others?|concerned significant other|\\bparents?\\b|parental|children of|relatives|carers?\\b|intimate partner|household members?"]
+    min_hits: 2
   - slug: financial-harm
     label: financial harm
-    patterns: ["\\bdebt|financial harm|bankruptc|financial (difficult|stress|loss|consequence|problem)|money problems|\\bloans?\\b|credit card"]
+    patterns: ["\\bdebts?\\b|indebted|financial harm|bankruptc|financial (difficult|stress|loss|consequence|problem|hardship|strain)|money problems|\\bloans?\\b|borrow|credit cards?|payday|financial wellbeing"]
+    min_hits: 2
   - slug: equity
     label: equity and culture
-    patterns: ["indigenous|first nations|aboriginal|m[āa]ori|ethnic|racial|migrant|minority|\\bgender\\b|\\bwomen\\b|\\bLGBT|socioeconomic|inequalit|disparit|cultur"]
+    patterns: ["indigenous|first nations|aboriginal|m[āa]ori|ethnic|racial|migrants?\\b|immigrant|minorit|\\bgender\\b|\\bwomen\\b|\\bLGBT|sexual minorit|socio.?economic|inequalit|disparit|deprivation|cultur(e|al)\\b|culturally"]
+    min_hits: 2
   - slug: industry
     label: industry and economics
-    patterns: ["revenue|economic|industry|operator|market|\\btaxes\\b|employment|tourism|profit|business model|product design|structural characteristic"]
+    patterns: ["gambling (industry|operators?|revenue|market|companies|firms)|\\bindustry\\b|operators?\\b|revenues?\\b|economic (impact|costs?|burden|benefits?|consequences|analysis|evaluation|value|activity|development)|economics of|\\btaxes\\b|employment|tourism|profits?\\b|business model|product design|structural characteristics?|market share|commercial determinants"]
+    min_hits: 3
   - slug: veterans
     label: veterans and military
-    patterns: ["veteran|military|armed forces|service members"]
+    patterns: ["veterans?\\b|military|armed forces|service members"]
+    min_hits: 2
   - slug: older-adults
     label: older adults
-    patterns: ["older adult|elderly|\\bseniors?\\b|\\baged? 65|later life|retire"]
+    patterns: ["older adults?|older people|elderly|\\bseniors?\\b|\\baged? 65|later life|retire(es|ment|d)"]
+    min_hits: 2
   - slug: lived-experience
     label: lived experience
-    patterns: ["lived experience|personal account|peer support|recovery narrative|experts by experience"]
+    patterns: ["lived experience|personal account|peer support|recovery narrative|experts? by experience|people with lived"]
 
+# Study designs. A design counts when its title pattern matches the title, or its
+# abstract pattern matches the abstract; abstract patterns are written to catch
+# the authors describing their own study ("this randomised controlled trial",
+# "we conducted a systematic review"), not studies they cite. For PubMed records
+# the publication types assigned by NLM indexers come first (see pubtypes below).
+# `suppresses` removes designs that cannot be true at the same time: a protocol
+# has no results yet, so it is not also a (completed) trial; a review is not
+# itself a survey; a commentary reports no study of its own.
+# Designs are shown in the order listed.
 designs:
-  - slug: review
-    label: review or meta-analysis
-    patterns: ["systematic review|meta.analys|scoping review|umbrella review|narrative review|literature review|rapid review|realist review"]
-  - slug: trial
-    label: randomized trial
-    patterns: ["randomi[sz]ed|\\bRCT\\b|controlled trial|clinical trial|field experiment"]
-  - slug: qualitative
-    label: qualitative
-    patterns: ["qualitative|interview|thematic analysis|focus group|grounded theory|ethnograph|lived experience|discourse analysis"]
-  - slug: survey
-    label: survey
-    patterns: ["survey|cross.sectional|questionnaire|self.report"]
-  - slug: longitudinal
-    label: longitudinal
-    patterns: ["longitudinal|cohort|prospective|panel data|follow.up"]
-  - slug: behavioral-data
-    label: behavioral or account data
-    patterns: ["account data|player data|transaction|behavio(u)?ral data|tracking data|administrative data|big data|natural experiment|registry|register.based"]
-  - slug: experiment
-    label: lab or online experiment
-    patterns: ["experiment|laboratory|\\blab\\b|simulated|within.subjects|between.subjects"]
-  - slug: case-report
-    label: case report
-    patterns: ["case report|case study|case series|single case"]
-  - slug: commentary
-    label: commentary or editorial
-    patterns: ["commentary|editorial|viewpoint|perspective|letter to the editor|policy forum|opinion"]
   - slug: protocol
     label: protocol
-    patterns: ["study protocol|protocol for|registered report"]
+    title: ["protocol|registered report|study design and rationale"]
+    abstract: ["(this|the present|our) (study )?protocol|protocol (for|describes|of) (a|an|the)|this registered report|will be (recruited|randomi[sz]ed|conducted|analy[sz]ed|assessed)"]
+    suppresses: [trial]
+  - slug: review
+    label: review or meta-analysis
+    title: ["systematic review|meta.analys|scoping review|umbrella review|narrative review|literature review|rapid review|realist review|integrative review|review of (the )?(literature|evidence|studies|research)|a review\\b|: review|evidence map"]
+    abstract: ["(this|our|the present|we (conducted|performed|undertook|carried out)( a)?) (systematic|scoping|umbrella|narrative|rapid|realist|integrative|literature|critical) review|(this|we (conducted|performed)( a)?) meta.analys|\\bPRISMA\\b|we (searched|screened) (\\w+ ){0,3}databases|studies (were|met) (included|the inclusion)"]
+    suppresses: [trial, survey, longitudinal, qualitative, experiment, behavioral-data, case-report]
+  - slug: trial
+    label: randomized trial
+    title: ["randomi[sz]ed|\\bRCT\\b|controlled trial|clinical trial|pilot trial|feasibility trial|field experiment"]
+    abstract: ["(this|a|our|the present|we conducted a|in a) (two.arm |three.arm |multi.?cent(er|re) |single.blind |double.blind |parallel.group |cluster |pragmatic |pilot |feasibility )*(randomi[sz]ed|controlled|clinical) (controlled |clinical |pilot |feasibility )*trial\\b|participants were randomi[sz]ed|were randomly (assigned|allocated) to (receive|an? (intervention|treatment|control|waitlist|wait.list))|randomi[sz]ed to (receive|an? (intervention|treatment|control|waitlist|wait.list))|field experiment"]
+  - slug: commentary
+    label: commentary or editorial
+    title: ["^(commentary|editorial|viewpoint|perspective|opinion|comment|letter|reply|response|correspondence)\\b|: (a )?(commentary|viewpoint|perspective|reply|response|comment)\\b|letter to the editor|a reply to|response to|comment(ary)? on|in case you haven.t heard|editor.s (letter|note)"]
+    abstract: ["(this|in this) (commentary|editorial|viewpoint|perspective|essay|opinion piece|letter)"]
+    suppresses: [trial, survey, longitudinal, qualitative, experiment, behavioral-data]
+  - slug: qualitative
+    label: qualitative
+    title: ["qualitative|interview|thematic analysis|focus group|grounded theory|ethnograph|phenomenolog|lived experience|narratives? of|discourse analysis|content analysis"]
+    abstract: ["qualitative|semi.structured interviews?|in.depth interviews?|(we|were) interviewed|thematic analysis|focus groups?|grounded theory|ethnograph|interpretative phenomenological|discourse analysis|reflexive thematic"]
+  - slug: survey
+    label: survey
+    title: ["survey|cross.sectional|questionnaire"]
+    abstract: ["(online|national|cross.sectional|population|web.based|household|representative|panel|student|school|community) surveys?|\\bsurveyed\\b|surveys? (data|of|was|were|study|respondents|participants|wave)|cross.sectional|questionnaires? (was|were) (completed|administered|distributed|used)|completed (an? )?(online |self.report |anonymous )?(survey|questionnaire)|\\brespondents\\b"]
+  - slug: longitudinal
+    label: longitudinal
+    title: ["longitudinal|cohort|prospective|panel|follow.up|over time|trajector"]
+    abstract: ["longitudinal|cohort (study|data)|prospective (cohort|study|design)|panel (data|study|survey)|waves? of data|(\\d+|two|three|four|five|six|twelve).(month|year) follow.up|follow.up (survey|assessment|data|period|study)|trajector(y|ies)"]
+  - slug: behavioral-data
+    label: behavioral, account or register data
+    title: ["account data|player data|transaction|tracking data|administrative data|register|registry|big data|natural experiment|claims data|health records"]
+    abstract: ["account data|player (account |tracking )?data|transaction(al)? data|behavio(u)?ral (tracking )?data|tracking data|administrative (health )?data|big data|natural experiment|(national|health|population|patient|care|treatment|death|clinical|nationwide) regist(er|ers|ry|ries)\\b|register.based|registry.based|regist(er|ry) data|claims data|(electronic )?health records|linked data|difference.in.differences|bank(ing)? (data|transactions)"]
+  - slug: experiment
+    label: lab or online experiment
+    title: ["experiment|laboratory|\\blab\\b|simulated|vignette"]
+    abstract: ["(online|laboratory|lab|vignette|between.subjects|within.subjects|choice|behavio(u)?ral) experiments?\\b|experimental (study|design|paradigm|task|manipulation|condition)|(randomly )?assigned to (one of )?(two|three|four|\\d) (conditions|groups)|in the laboratory|simulated (gambling|slot|betting)"]
+  - slug: case-report
+    label: case study or report
+    title: ["case report|case study|case series|single.case|a case of"]
+    abstract: ["(this|we (present|report|describe)( a)?) case (report|study|series)|single.case"]
 
-# Country codes (ISO alpha-2) to regions shown on the site.
+# NLM publication types (PubMed records). When one of these is present it decides
+# the design, whatever the rules above say.
+pubtypes:
+  "randomized controlled trial": trial
+  "pragmatic clinical trial": trial
+  "clinical trial, phase i": trial
+  "clinical trial, phase ii": trial
+  "clinical trial, phase iii": trial
+  "controlled clinical trial": trial
+  "clinical trial protocol": protocol
+  "systematic review": review
+  "meta-analysis": review
+  "scoping review": review
+  "review": review
+  "editorial": commentary
+  "comment": commentary
+  "letter": commentary
+  "case reports": case-report
+  "observational study": null   # neither confirms nor rules out a design
+# Regions shown on the site. Which countries belong to which region is set in
+# pipeline/countries.py, with the country-name patterns.
 regions:
-  us: {label: United States, codes: [US]}
-  canada: {label: Canada, codes: [CA]}
-  uk-ireland: {label: UK and Ireland, codes: [GB, IE]}
-  australia-nz: {label: Australia and New Zealand, codes: [AU, NZ]}
-  europe: {label: Europe, codes: [DE, FR, ES, IT, NL, BE, SE, NO, DK, FI, IS, PL, CZ, AT, CH, PT, GR, HU, RO, BG, HR, SI, SK, EE, LV, LT, LU, MT, CY, UA, RS, BA, ME, MK, AL, MD, BY, RU]}
-  asia: {label: Asia, codes: [CN, JP, KR, TW, HK, MO, SG, MY, TH, VN, PH, ID, IN, PK, BD, LK, NP, IL, TR, IR, SA, AE, QA, KW, JO, LB, KZ, UZ]}
-  latin-america: {label: Latin America, codes: [BR, MX, AR, CL, CO, PE, UY, VE, EC, BO, PY, CR, PA, GT, DO, CU, PR]}
-  africa: {label: Africa, codes: [ZA, NG, KE, GH, UG, TZ, ET, EG, MA, TN, DZ, ZW, ZM, RW, CM, SN, CI, BW, MW, MZ]}
-
-# Country-name patterns used when only affiliation strings are available (PubMed).
-country_patterns:
-  US: "\\bUSA\\b|United States|\\bU\\.S\\.A?\\b|, (AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY) \\d{5}"
-  CA: "\\bCanada\\b"
-  GB: "United Kingdom|\\bUK\\b|\\bEngland\\b|\\bScotland\\b|\\bWales\\b|Northern Ireland"
-  IE: "\\bIreland\\b"
-  AU: "\\bAustralia\\b"
-  NZ: "New Zealand"
-  DE: "\\bGermany\\b"
-  FR: "\\bFrance\\b"
-  ES: "\\bSpain\\b"
-  IT: "\\bItaly\\b"
-  NL: "Netherlands"
-  BE: "\\bBelgium\\b"
-  SE: "\\bSweden\\b"
-  NO: "\\bNorway\\b"
-  DK: "\\bDenmark\\b"
-  FI: "\\bFinland\\b"
-  PL: "\\bPoland\\b"
-  CH: "\\bSwitzerland\\b"
-  AT: "\\bAustria\\b"
-  PT: "\\bPortugal\\b"
-  CN: "\\bChina\\b"
-  HK: "Hong Kong"
-  MO: "\\bMacao\\b|\\bMacau\\b"
-  JP: "\\bJapan\\b"
-  KR: "\\bKorea\\b"
-  TW: "\\bTaiwan\\b"
-  SG: "\\bSingapore\\b"
-  IN: "\\bIndia\\b"
-  IL: "\\bIsrael\\b"
-  TR: "\\bTurkey\\b|T[üu]rkiye"
-  BR: "\\bBrazil\\b|\\bBrasil\\b"
-  MX: "\\bMexico\\b"
-  AR: "\\bArgentina\\b"
-  ZA: "South Africa"
-  NG: "\\bNigeria\\b"
-  KE: "\\bKenya\\b"
-  GH: "\\bGhana\\b"
+  us: {label: United States}
+  canada: {label: Canada}
+  uk-ireland: {label: UK and Ireland}
+  australia-nz: {label: "Australia, New Zealand and Pacific"}
+  europe: {label: Europe}
+  middle-east: {label: Middle East and North Africa}
+  asia: {label: Asia}
+  latin-america: {label: Latin America and Caribbean}
+  africa: {label: Sub-Saharan Africa}
