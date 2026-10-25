@@ -5,9 +5,12 @@
 from __future__ import annotations
 
 import datetime as dt
+import json
 import re
 import shutil
+import subprocess
 import sys
+import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -16,7 +19,8 @@ import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from .common import CONTENT_DIR, DATA_DIR, ROOT, SITE_DIR, STATIC_DIR, TEMPLATE_DIR, load_json, load_yaml, today_utc
-from .normalize import Taxonomy
+from . import countries
+from .normalize import Taxonomy, apply_corrections
 from .sources.trials import STATUSES
 from .trackers import COURT_LEVELS, STAGES, STAGE_RANK
 
@@ -107,6 +111,33 @@ def slugify(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
+LANGUAGE_NAMES = {
+    "en": "English", "fi": "Finnish", "sv": "Swedish", "no": "Norwegian", "da": "Danish", "is": "Icelandic", "de": "German", "fr": "French",
+    "es": "Spanish", "pt": "Portuguese", "it": "Italian", "nl": "Dutch", "pl": "Polish", "cs": "Czech", "sk": "Slovak", "hu": "Hungarian",
+    "ro": "Romanian", "bg": "Bulgarian", "hr": "Croatian", "sr": "Serbian", "sl": "Slovenian", "el": "Greek", "tr": "Turkish", "ru": "Russian",
+    "uk": "Ukrainian", "lt": "Lithuanian", "lv": "Latvian", "et": "Estonian", "ar": "Arabic", "fa": "Persian", "he": "Hebrew", "zh": "Chinese",
+    "ja": "Japanese", "ko": "Korean", "th": "Thai", "vi": "Vietnamese", "id": "Indonesian", "ms": "Malay", "ca": "Catalan",
+}
+
+
+def language_name(code: str | None) -> str:
+    return LANGUAGE_NAMES.get(code or "", (code or "").upper())
+
+
+_FOLD = str.maketrans({"ı": "i", "İ": "I", "ø": "o", "Ø": "O", "æ": "ae", "Æ": "AE", "ß": "ss", "ł": "l", "Ł": "L", "đ": "d", "Đ": "D", "þ": "th", "œ": "oe"})
+
+
+def fold(text: str) -> str:
+    """Accents off ("Kaymakçı" -> "Kaymakci", "Castrén" -> "Castren") so a search
+    typed without them still matches."""
+    t = unicodedata.normalize("NFKD", (text or "").translate(_FOLD))
+    return "".join(ch for ch in t if not unicodedata.combining(ch))
+
+
+def setting_names(codes: list[str]) -> list[str]:
+    return [countries.COUNTRY_NAMES.get(c, c) for c in codes or []]
+
+
 # ---------------------------------------------------------------- build
 class Builder:
     def __init__(self):
@@ -120,6 +151,10 @@ class Builder:
         self.trials_all = load_json(DATA_DIR / "trials.json", [])
         self.bills_all = load_json(DATA_DIR / "bills.json", [])
         self.cases_all = load_json(DATA_DIR / "cases.json", [])
+        # Hand corrections take effect on the next build, not only on the next fetch.
+        by_id = {p["id"]: p for p in self.papers_all}
+        apply_corrections(by_id, self.tax)
+        self.papers_all = list(by_id.values())
         self.fixture = False
         if not self.papers_all:
             fx = load_json(ROOT / "pipeline" / "fixtures" / "papers.json", [])
@@ -141,6 +176,8 @@ class Builder:
                 "status_label": lambda s: STATUSES.get(s, s),
                 "stage_label": lambda s: dict(STAGES).get(s, s),
                 "level_label": lambda s: dict(COURT_LEVELS).get(s, s),
+                "language_name": language_name,
+                "setting_names": setting_names,
             }
         )
         self.urls: list[str] = []
@@ -150,6 +187,7 @@ class Builder:
             {"href": "/news/", "label": "Policy", "kind": "news", "paths": ["/news/", "/bills/", "/courts/"]},
             {"href": "/digest/", "label": "Digest", "kind": "digest", "paths": ["/digest/"]},
             {"href": "/journals/", "label": "Reference", "kind": "reference", "paths": ["/journals/", "/conferences/", "/datasets/", "/measures/", "/guide/"]},
+            {"href": "/search/", "label": "Search", "kind": "search", "paths": ["/search/"]},
         ]
         self.subnavs = {
             "research": [("/research/", "New studies"), ("/trials/", "Trials and preregistrations"), ("/research/topics/", "Topics"), ("/research/archive/", "Archive")],
@@ -244,6 +282,71 @@ class Builder:
             groups[(it.get(field) or "")[:7]].append(it)
         return [(k, groups[k]) for k in sorted(groups, reverse=True)]
 
+    # ---- search ----
+    def coverage_from(self) -> str | None:
+        meta = load_json(DATA_DIR / "index_meta.json", {})
+        return meta.get("coverage_from")
+
+    def search_records(self, papers: list[dict]) -> list[dict]:
+        out = []
+        for p in papers:
+            topics = [self.tax.topic_label(t) for t in p.get("topics", [])]
+            designs = [self.tax.design_label(x) for x in p.get("designs", [])]
+            settings = setting_names(p.get("settings") or [])
+            authors = p.get("authors") or []
+            text = " ".join([p["title"], " ".join(authors), p.get("journal") or "", p.get("summary") or "", " ".join(topics), " ".join(designs), " ".join(settings), p.get("doi") or ""])
+            folded = fold(f"{p['title']} {' '.join(authors)}")
+            if folded != f"{p['title']} {' '.join(authors)}":
+                text += " " + folded
+            filters = {
+                "topic": topics,
+                "design": designs,
+                "setting": [self.tax.regions.get(r, {}).get("label", r) for r in p.get("setting_regions") or []],
+                "authors": [self.tax.regions.get(r, {}).get("label", r) for r in p.get("regions") or []],
+                "year": [str(p["year"])] if p.get("year") else [],
+                "access": ["Free full text"] if p.get("oa_url") else [],
+                "language": [language_name(p.get("language"))] if p.get("language") and p.get("language") != "en" else [],
+            }
+            meta = {
+                "title": p["title"],
+                "journal": p.get("journal") or (p.get("type") or "article").replace("-", " ").capitalize(),
+                "published": fmt_date(p.get("published")) if p.get("published") else "",
+                "authors": authors_line(authors),
+                "summary": p.get("summary") or "",
+                "oa": p.get("oa_url") or "",
+                "topics": "|".join(f"{t}~{self.tax.topic_label(t)}" for t in p.get("topics", [])[:4]),
+                "designs": "|".join(designs[:2]),
+                "setting": ", ".join(settings),
+                "language": language_name(p.get("language")) if p.get("language") and p.get("language") != "en" else "",
+                "retracted": "1" if p.get("retracted") else "",
+            }
+            out.append({
+                "url": p.get("url") or f"/research/#{p['id']}",
+                "content": text,
+                "meta": meta,
+                "filters": {k: v for k, v in filters.items() if v},
+                "sort": {"published": (p.get("published") or p.get("first_seen") or "0000-00-00").replace("-", "")},
+            })
+        return out
+
+    def build_search(self, papers: list[dict]) -> bool:
+        records = self.search_records(papers)
+        tmp = SITE_DIR / ".search-records.json"
+        tmp.write_text(json.dumps(records, ensure_ascii=False), encoding="utf-8")
+        script = ROOT / "pipeline" / "search_index.mjs"
+        if not (ROOT / "node_modules" / "pagefind").exists():
+            print("search: node_modules/pagefind is missing (run npm ci); the search page will say search is unavailable", file=sys.stderr)
+            tmp.unlink()
+            return False
+        try:
+            subprocess.run(["node", str(script), str(tmp), str(SITE_DIR / "pagefind")], check=True, cwd=ROOT, timeout=900)
+        except (OSError, subprocess.SubprocessError) as e:
+            print(f"search: index not built: {e}", file=sys.stderr)
+            return False
+        finally:
+            tmp.unlink(missing_ok=True)
+        return True
+
     # ---- rendering ----
     def render(self, template: str, out_path: str, **ctx):
         tpl = self.env.get_template(template)
@@ -281,7 +384,7 @@ class Builder:
         (SITE_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {self.site['url']}/sitemap.xml\n")
         # Public copies of the index.
         (SITE_DIR / "data").mkdir()
-        for name in ("papers.json", "news.json", "trials.json", "bills.json", "cases.json", "fetch_log.json", "weekly/latest.json"):
+        for name in ("papers.json", "news.json", "trials.json", "bills.json", "cases.json", "fetch_log.json", "index_meta.json", "gold_report.json", "weekly/latest.json"):
             src = DATA_DIR / name
             if src.exists():
                 (SITE_DIR / "data" / name).parent.mkdir(parents=True, exist_ok=True)
@@ -294,6 +397,7 @@ class Builder:
         digests = self.digests()
         topic_counts = Counter(t for p in recent for t in p.get("topics", []))
         region_counts = Counter(r for p in recent for r in p.get("regions", []))
+        setting_counts = Counter(r for p in recent for r in p.get("setting_regions", []))
         design_counts = Counter(x for p in recent for x in p.get("designs", []))
         topics_sorted = [(slug, self.tax.topic_label(slug), n) for slug, n in topic_counts.most_common()]
 
@@ -313,17 +417,20 @@ class Builder:
                 "dockets_month": sum(1 for c in self.cases_all if c.get("kind") == "docket" and (c.get("latest_activity") or "") >= (self.today - dt.timedelta(days=30)).isoformat()),
             },
             journal_feed_count=sum(1 for f in self.sources.get("journal_feeds", []) if f.get("enabled", True)),
+            coverage_from=self.coverage_from(),
         )
         # Research index
         self.render(
             "research.html", "research/index.html", section="research",
             weeks=self.by_week(recent), count=len(recent), window=window, topics=topics_sorted,
             regions=[(s, self.tax.regions[s]["label"], n) for s, n in region_counts.most_common() if s in self.tax.regions],
-            designs=[(s, self.tax.design_label(s), n) for s, n in design_counts.most_common()], this_week_count=len(this_week),
+            settings=[(s, self.tax.regions[s]["label"], n) for s, n in setting_counts.most_common() if s in self.tax.regions],
+            designs=[(s, self.tax.design_label(s), n) for s, n in sorted(design_counts.items(), key=lambda x: self.tax.design_order.index(x[0]) if x[0] in self.tax.design_order else 99)], this_week_count=len(this_week),
+            total_count=len(self.papers(None)), coverage_from=self.coverage_from(),
         )
         # Borderline (low relevance) for transparency
         low = self.papers(window, relevance="low")
-        self.render("research.html", "research/borderline/index.html", section="research", weeks=self.by_week(low), count=len(low), window=window, topics=[], regions=[], designs=[], borderline=True, this_week_count=0)
+        self.render("research.html", "research/borderline/index.html", section="research", weeks=self.by_week(low), count=len(low), window=window, topics=[], regions=[], settings=[], designs=[], borderline=True, this_week_count=0)
         # Topic pages
         topic_window = self.site.get("topic_window_days", 365)
         year_papers = self.papers(topic_window)
@@ -403,9 +510,22 @@ class Builder:
             meta, html = read_markdown(path)
             slug = meta.get("slug", path.stem)
             if slug == "methodology":
-                self.render("methodology.html", f"{slug}/index.html", page=meta, body=html, log=self.fetch_log, sources=self.sources, topics=self.tax.topics, designs=self.tax.designs)
+                self.render(
+                "methodology.html", f"{slug}/index.html", page=meta, body=html, log=self.fetch_log, sources=self.sources, topics=self.tax.topics,
+                topic_min=self.tax.topic_min, designs=self.tax.designs, design_rules=self.tax.design_rules, pubtypes=self.tax.pubtypes,
+                gold=load_json(DATA_DIR / "gold_report.json", {}), index_meta=load_json(DATA_DIR / "index_meta.json", {}),
+                n_corrections=len(self.tax.corrections.by_key),
+            )
             else:
                 self.render("page.html", f"{slug}/index.html", page=meta, body=html)
+        # Search across the whole index
+        main_index = self.papers(None)
+        search_ok = self.build_search(main_index)
+        years = sorted({p["year"] for p in main_index if p.get("year")})
+        self.render(
+            "search.html", "search/index.html", search_ok=search_ok, total=len(main_index),
+            coverage_from=self.coverage_from(), first_year=years[0] if years else None,
+        )
         # Feeds
         self.render("feed_digest.xml", "feed.xml", digests=digests[:20])
         self.render("feed_research.xml", "research/feed.xml", papers=recent[:50])

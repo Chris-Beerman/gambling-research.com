@@ -8,7 +8,7 @@
     <h1 class="lede-title">{% if promise|length == 2 %}{{ promise[0] }}, <em>{{ promise[1] }}</em>{% else %}{{ site.descriptor }}{% endif %}.</h1>
     <ul class="lede-stats" aria-label="The index today">
       {% if this_week_count %}<li><strong>{{ this_week_count }}</strong> new {{ 'study' if this_week_count == 1 else 'studies' }} this week</li>{% else %}<li>The index is being assembled</li>{% endif %}
-      {% if total_count %}<li><strong>{{ '{:,}'.format(total_count) }}</strong> in the index</li>{% endif %}
+      {% if total_count %}<li><a href="/search/"><strong>{{ '{:,}'.format(total_count) }}</strong> in the index</a>{% if coverage_from %} since {{ coverage_from[:4] }}{% endif %}</li>{% endif %}
       {% if updated %}<li>Updated {{ updated }}</li>{% endif %}
     </ul>
     <p class="lede-sources">From PubMed, OpenAlex, Crossref{% if journal_feed_count %} and {{ journal_feed_count }} journal feeds{% endif %}. No funding, advertising or data from gambling operators. <a href="/methodology/">How it works</a></p>
@@ -87,7 +87,7 @@
 
     <section class="rail-block">
       <h2 class="rail-title">About this index</h2>
-      <p>Every new peer-reviewed study and preprint on gambling, betting, lotteries, loot boxes and prediction markets, collected nightly from PubMed, OpenAlex, Crossref and the journals' own feeds, and tagged by topic and country. Edited by {{ site.editor.name }}, {{ site.editor.credentials }}. Independent of the gambling industry. <a href="/about/">More</a></p>
+      <p>Tracks new peer-reviewed studies and preprints on gambling, betting, lotteries, loot boxes and prediction markets across PubMed, OpenAlex, Crossref and the journals' own feeds, collected nightly{% if coverage_from %} and searchable back to {{ coverage_from|fmt_date('month') }}{% endif %}, and tagged by topic, study design and setting. Edited by {{ site.editor.name }}, {{ site.editor.credentials }}. Independent of the gambling industry. <a href="/about/">More</a></p>
     </section>
   </aside>
 </div>

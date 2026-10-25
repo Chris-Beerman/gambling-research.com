@@ -232,6 +232,16 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
 .chip[aria-pressed="true"] { background: var(--baize); color: #fff; }
 .chip[aria-pressed="true"] .count { color: rgba(255,255,255,.8); }
 .filter-status { font-size: .85rem; color: var(--ink-2); margin: .2rem 0 0; min-height: 1.3em; }
+
+/* Search page */
+.search-form .search-box { flex: 1 1 100%; display: flex; }
+.search-form .search-box input[type="search"] { font-size: 1.1rem; padding: .6rem .75rem; flex: 1 1 auto; border-color: var(--ink-2); }
+.search-form .filter-select select { min-width: 9.5rem; max-width: 15rem; }
+.more-button { font: inherit; font-family: var(--sans); font-size: .9rem; color: var(--baize); background: transparent; border: 1px solid var(--rule); border-radius: 3px; padding: .4rem .9rem; cursor: pointer; }
+.more-button:hover { border-color: var(--baize); }
+.search-notes { max-width: 66ch; border-top: 1px solid var(--rule); padding-top: 1rem; }
+.search-notes p { margin: 0 0 .6rem; line-height: 1.5; }
+.entry-meta .setting { color: var(--ink); }
 .is-hidden { display: none !important; }
 
 /* Topic grid, month nav */

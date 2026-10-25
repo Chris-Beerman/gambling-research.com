@@ -513,6 +513,22 @@ def retag_stored(prev: dict, tax: Taxonomy) -> dict | None:
     return rec
 
 
+def apply_corrections(by_id: dict, tax: Taxonomy) -> int:
+    """Apply config/corrections.yml to every study in place; returns how many were excluded."""
+    removed = 0
+    for pid in list(by_id):
+        if not tax.corrections.find(by_id[pid]):
+            continue
+        rec = tax.corrections.apply(dict(by_id[pid]))
+        if rec is None:
+            del by_id[pid]
+            removed += 1
+        else:
+            rec["setting_regions"] = tax.regions_for(rec.get("settings") or [])
+            by_id[pid] = rec
+    return removed
+
+
 def update_index(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt.date, backfill: bool, rebuild: bool = False) -> tuple[list[dict], dict]:
     """Return the updated index and a small stats dict.
 
@@ -596,10 +612,8 @@ def update_index(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt
                 removed += 1
             else:
                 by_id[pid] = rec
-    # Hand exclusions also remove studies that no source returned tonight.
-    for pid in [k for k, p in by_id.items() if tax.corrections.find(p) and tax.corrections.find(p).get("exclude")]:
-        del by_id[pid]
-        removed += 1
+    # Hand corrections reach every study, including those no source returned tonight.
+    removed += apply_corrections(by_id, tax)
     papers = list(by_id.values())
     papers.sort(key=lambda p: (p.get("first_seen") or "", p.get("published") or "", p["title"]), reverse=True)
     return papers, {"raw": len(raw), "groups": len(groups), "added": added, "updated": updated, "dropped_irrelevant": dropped, "removed": removed, "total": len(papers)}

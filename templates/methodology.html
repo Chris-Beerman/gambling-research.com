@@ -33,22 +33,50 @@
   <p>No run has completed yet.</p>
   {% endif %}
 
-  <h2 id="tagging">Topic rules</h2>
-  <p>A study is tagged with a topic when its title or abstract matches any of the patterns below (case-insensitive regular expressions). The same rules are in <code>config/taxonomy.yml</code> in the repository, where anyone can propose a change.</p>
+  <h2 id="checks">Checking the rules</h2>
+  {% if gold and gold.keep %}
+  <p>{{ gold.keep.n }} studies were checked by hand and their correct tags recorded in <code>tests/gold/labels.yml</code>. After every nightly run the index is scored against them; if a change to the rules makes the scores fall below the thresholds, the run stops and nothing is published. Latest scores ({{ gold.checked|replace('T', ' ')|replace('+00:00', ' UTC') }}):</p>
   <table>
-    <thead><tr><th>Topic</th><th>Patterns</th></tr></thead>
+    <thead><tr><th>Check</th><th>Studies</th><th>Correct</th><th>Rules alone, before hand corrections</th><th>Threshold</th></tr></thead>
+    <tbody>
+    {% for k, label in [('keep', 'In or out of the main index'), ('designs', 'Study design'), ('settings', 'Study setting'), ('topics', 'Key topics present, wrong ones absent')] %}
+    {% set r = gold[k] %}{% set ro = gold.rules_only.get(k) if gold.rules_only else None %}
+    <tr><td>{{ label }}</td><td>{{ r.n }}</td><td>{% if r.accuracy is not none %}{{ (r.accuracy * 100)|round|int }}%{% endif %}</td><td>{% if ro and ro.n %}{{ (ro.accuracy * 100)|round|int }}% of {{ ro.n }}{% else %}same{% endif %}</td><td>{% if gold.thresholds and gold.thresholds.get(k) %}{{ (gold.thresholds[k] * 100)|round|int }}%{% endif %}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p>The hand-checked set in <code>tests/gold/labels.yml</code> is scored after every nightly run; scores appear here after the next run.</p>
+  {% endif %}
+  <p>{{ n_corrections }} {{ 'study carries' if n_corrections == 1 else 'studies carry' }} a hand correction in <a href="https://github.com/{{ site.github_repo }}/blob/main/config/corrections.yml"><code>config/corrections.yml</code></a>.{% if index_meta.rebuilt %} The whole index was last re-read and re-tagged under the current rules (version {{ index_meta.rules_version }}) on {{ index_meta.rebuilt[:10]|fmt_date('long') }}.{% endif %}</p>
+
+  <h2 id="tagging">Topic rules</h2>
+  <p>A study is tagged with a topic when its title or abstract matches the patterns below (case-insensitive regular expressions) often enough: a match in the title counts twice, a match in the abstract once, and the topic needs the number of matches in the second column. The same rules are in <code>config/taxonomy.yml</code> in the repository, where anyone can propose a change.</p>
+  <table>
+    <thead><tr><th>Topic</th><th>Matches needed</th><th>Patterns</th></tr></thead>
     <tbody>
     {% for slug, label, pats in topics %}
-    <tr><td><a href="/research/topics/{{ slug }}/">{{ label }}</a></td><td><code>{{ pats|map(attribute='pattern')|join(' | ') }}</code></td></tr>
+    <tr><td><a href="/research/topics/{{ slug }}/">{{ label }}</a></td><td>{{ topic_min.get(slug, 1) }}</td><td><code>{{ pats|map(attribute='pattern')|join(' | ') }}</code></td></tr>
     {% endfor %}
     </tbody>
   </table>
   <h3>Design rules</h3>
+  <p>For PubMed records, the publication types assigned by NLM's indexers decide whether a study is a trial, a review, a protocol, a commentary or a case report; the patterns below decide the rest, and decide everything for studies outside PubMed. The title patterns apply to the title; the abstract patterns are phrased to catch authors describing their own study rather than studies they cite. Where two designs cannot both be true, the first one listed wins: a protocol is not also shown as a trial, and a review or commentary is not also shown as a survey.</p>
   <table>
-    <thead><tr><th>Design</th><th>Patterns</th></tr></thead>
+    <thead><tr><th>Design</th><th>Title</th><th>Abstract</th><th>Overrides</th></tr></thead>
     <tbody>
-    {% for slug, label, pats in designs %}
-    <tr><td>{{ label }}</td><td><code>{{ pats|map(attribute='pattern')|join(' | ') }}</code></td></tr>
+    {% for slug, label, _ in designs %}
+    {% set tp, ap, sup = design_rules[slug] %}
+    <tr><td>{{ label }}</td><td><code>{{ tp|map(attribute='pattern')|join(' | ') }}</code></td><td><code>{{ ap|map(attribute='pattern')|join(' | ') }}</code></td><td>{{ sup|map('design_label')|join(', ') }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <h3>PubMed publication types</h3>
+  <table>
+    <thead><tr><th>Publication type</th><th>Design</th></tr></thead>
+    <tbody>
+    {% for pt, d in pubtypes.items() if d %}
+    <tr><td>{{ pt|capitalize }}</td><td>{{ d|design_label }}</td></tr>
     {% endfor %}
     </tbody>
   </table>
