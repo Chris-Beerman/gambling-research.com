@@ -58,7 +58,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -12650,7 +12650,7 @@
   "stage": "passed-both",
   "stage_label": "passed both chambers",
   "url": "https://openstates.org/pa/bills/2025-2026/SB731/",
-  "source_url": "https://www.palegis.us/legislation/bills/2025/sb731",
+  "source_url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=1&rollcallid=152&sessYr=2025&sessInd=0",
   "topics": [
    "lottery",
    "policy",

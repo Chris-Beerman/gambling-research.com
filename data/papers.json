@@ -1,36 +1,77 @@
 [
  {
-  "id": "doi:10.1007/s10899-026-10563-7",
-  "doi": "10.1007/s10899-026-10563-7",
+  "id": "doi:10.1177/10911421261498451",
+  "doi": "10.1177/10911421261498451",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
-  "title": "Sex Differences in the Association Between Child Sexual Abuse and Machine-Based Gambling: Findings from a National Survey",
-  "journal": "Journal of Gambling Studies",
+  "openalex": "W7223443498",
+  "title": "Sports Betting, Lotteries, and State Revenues in the Post-PASPA Era",
+  "journal": "Public Finance Review",
   "authors": [
-   "Yousuke Imanishi",
-   "Maria Iorini",
-   "Sinchul Jwa",
-   "Ichiro Wada",
-   "Takahiro Tabuchi",
-   "Mai Uchida"
+   "Joseph D. Nedved",
+   "David H. Nason",
+   "Adam J. Hoffer",
+   "Amir Borges Ferreira Neto",
+   "Brad R. Humphreys"
+  ],
+  "published": "2026-10-24",
+  "year": 2026,
+  "created": "2026-10-25",
+  "first_seen": "2026-10-25",
+  "summary": "State lotteries are an important source of state revenue in the 45 states that operate them. Following the repeal of the Professional and Amateur Sports Protection Act (PASPA), 38 states and Washington, DC legalized sports betting …",
+  "url": "https://doi.org/10.1177/10911421261498451",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "lottery",
+   "policy",
+   "industry"
+  ],
+  "designs": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1159/ear/acrag013",
+  "doi": "10.1159/ear/acrag013",
+  "pmid": "42925531",
+  "pmcid": null,
+  "openalex": "W7223471052",
+  "title": "Gambling Modality and Financial Harm among People Seeking Help for Gambling Disorder in South Korea",
+  "journal": "European Addiction Research",
+  "authors": [
+   "YoungHo Kim",
+   "Kounseok Lee"
   ],
   "published": "2026-10-24",
   "year": 2026,
   "created": "2026-10-24",
-  "first_seen": "2026-10-24",
-  "summary": "This cross-sectional study examined the association between child sexual abuse (CSA) and machine-based gambling. Evidence on this association remains limited regarding sex differences. Data came from 27,699 adults aged 18 to 79 in the 2023 Japan COVID-19 and Society Internet Survey (JACSIS) …",
-  "url": "https://doi.org/10.1007/s10899-026-10563-7",
-  "oa_url": null,
+  "first_seen": "2026-10-25",
+  "summary": "Online-offline gambling comparisons rarely distinguish debt occurrence from debt amount. Problem-stage gambling modality and recalled modality pathways were examined in relation to symptom severity and gambling-related debt …",
+  "url": "https://doi.org/10.1159/ear/acrag013",
+  "oa_url": "https://doi.org/10.1159/ear/acrag013",
   "sources": [
-   "crossref",
-   "feed:jgs"
+   "pubmed",
+   "openalex"
   ],
   "type": "article",
   "topics": [
+   "online-gambling",
    "treatment",
-   "prevalence",
-   "comorbidity"
+   "policy",
+   "measurement",
+   "financial-harm"
   ],
   "designs": [
    "survey"
@@ -42,42 +83,39 @@
   "retracted": false
  },
  {
-  "id": "doi:10.1007/s10899-026-10558-4",
-  "doi": "10.1007/s10899-026-10558-4",
+  "id": "doi:10.9741/2327-8455.1521",
+  "doi": "10.9741/2327-8455.1521",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
-  "title": "Payment Preferences and Related Sports Betting Behavior: A Secondary Analysis of Player Data from an Online Sports Gambling Operator",
-  "journal": "Journal of Gambling Studies",
+  "openalex": "W7223474494",
+  "title": "DID COLLEGE FOOTBALL BETTING MARKETS CORRECTLY ASSESS GAME-SHORTENING RULE CHANGES?",
+  "journal": "UNLV Gaming Research & Review Journal",
   "authors": [
-   "Kahlil Simeon-Rose",
-   "Matthew A. Tom",
-   "Timothy C. Edson",
-   "Eric R. Louderback",
-   "Sarah E. Nelson"
+   "Kevin Krieger",
+   "Justin L. Davis"
   ],
-  "published": "2026-10-24",
+  "published": "2026-10-23",
   "year": 2026,
-  "created": "2026-10-24",
-  "first_seen": "2026-10-24",
-  "summary": "This study investigated the relationship between payment methods and sports betting behavior using transactional data from a European online sports gambling operator …",
-  "url": "https://doi.org/10.1007/s10899-026-10558-4",
-  "oa_url": null,
+  "created": "2026-10-25",
+  "first_seen": "2026-10-25",
+  "summary": "Established rules and norms are standard within competitive sports. However, changes are often made to create better functioning contests or improved viewer experiences. We examine the impact of one such change on sports wagering markets …",
+  "url": "https://doi.org/10.9741/2327-8455.1521",
+  "oa_url": "https://oasis.library.unlv.edu/context/grrj/article/1521/viewcontent/Did_College_Football_Betting_Markets_Correctly_Assess_Game_Shortening_Rule_Changes.pdf",
   "sources": [
-   "crossref",
-   "feed:jgs"
+   "openalex"
   ],
   "type": "article",
   "topics": [
    "sports-betting",
-   "online-gambling",
    "industry"
   ],
-  "designs": [
-   "behavioral-data"
+  "designs": [],
+  "countries": [
+   "US"
   ],
-  "countries": [],
-  "regions": [],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -110,7 +148,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-24",
+  "published": "2026-10-25",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -143,6 +181,103 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1007/s10899-026-10563-7",
+  "doi": "10.1007/s10899-026-10563-7",
+  "pmid": "42925403",
+  "pmcid": null,
+  "openalex": "W7223459910",
+  "title": "Sex Differences in the Association Between Child Sexual Abuse and Machine-Based Gambling: Findings from a National Survey",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Yousuke Imanishi",
+   "Maria Iorini",
+   "Sinchul Jwa",
+   "Ichiro Wada",
+   "Takahiro Tabuchi",
+   "Mai Uchida"
+  ],
+  "published": "2026-10-24",
+  "year": 2026,
+  "created": "2026-10-24",
+  "first_seen": "2026-10-24",
+  "summary": "This cross-sectional study examined the association between child sexual abuse (CSA) and machine-based gambling. Evidence on this association remains limited regarding sex differences. Data came from 27,699 adults aged 18 to 79 in the 2023 Japan COVID-19 and Society Internet Survey (JACSIS) …",
+  "url": "https://doi.org/10.1007/s10899-026-10563-7",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs",
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "prevalence",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "US",
+   "JP"
+  ],
+  "regions": [
+   "us",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10558-4",
+  "doi": "10.1007/s10899-026-10558-4",
+  "pmid": "42925402",
+  "pmcid": null,
+  "openalex": "W7223451877",
+  "title": "Payment Preferences and Related Sports Betting Behavior: A Secondary Analysis of Player Data from an Online Sports Gambling Operator",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Kahlil Simeon-Rose",
+   "Matthew A Tom",
+   "Timothy C Edson",
+   "Eric R Louderback",
+   "Sarah E Nelson"
+  ],
+  "published": "2026-10-24",
+  "year": 2026,
+  "created": "2026-10-24",
+  "first_seen": "2026-10-24",
+  "summary": "This study investigated the relationship between payment methods and sports betting behavior using transactional data from a European online sports gambling operator …",
+  "url": "https://doi.org/10.1007/s10899-026-10558-4",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs",
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "industry"
+  ],
+  "designs": [
+   "behavioral-data"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.33902/jpsp.202648322",
   "doi": "10.33902/jpsp.202648322",
   "pmid": null,
@@ -160,9 +295,9 @@
   "year": 2026,
   "created": "2026-10-24",
   "first_seen": "2026-10-24",
-  "summary": "",
+  "summary": "Gambling-related financial harm may affect both students and the families who share or support their finances …",
   "url": "https://doi.org/10.33902/jpsp.202648322",
-  "oa_url": "https://doi.org/10.33902/jpsp.202648322",
+  "oa_url": "https://www.j-psp.com/download/problem-gambling-severity-and-personal-and-family-financial-harm-among-students-in-kazakhstan-the-19657.pdf",
   "sources": [
    "openalex"
   ],
@@ -172,9 +307,17 @@
    "families",
    "financial-harm"
   ],
-  "designs": [],
-  "countries": [],
-  "regions": [],
+  "designs": [
+   "survey"
+  ],
+  "countries": [
+   "KZ",
+   "GB"
+  ],
+  "regions": [
+   "asia",
+   "uk-ireland"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -200,8 +343,8 @@
   "url": "https://doi.org/10.1007/s10935-026-00957-z",
   "oa_url": null,
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "review",
   "topics": [
@@ -322,7 +465,7 @@
   "first_seen": "2026-10-24",
   "summary": "A man whose gambling addiction led him to steal $1 million from his employer, then to make amends by running a gambling helpline, has nevertheless been sentenced to a decade in prison for the 2024 theft …",
   "url": "https://doi.org/10.1002/adaw.35092",
-  "oa_url": null,
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adaw.35092",
   "sources": [
    "openalex"
   ],
@@ -358,10 +501,10 @@
   "url": "https://doi.org/10.1007/s10899-026-10569-1",
   "oa_url": null,
   "sources": [
-   "pubmed",
-   "openalex",
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -401,8 +544,8 @@
   "url": "https://doi.org/10.1371/journal.pone.0360886",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690192/",
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -437,7 +580,7 @@
   "first_seen": "2026-10-24",
   "summary": "Online gambling promotional comments on YouTube have become increasingly widespread and are difficult to detect with conventional moderation systems because they use informal language, varied spellings, and disguised keywords …",
   "url": "https://doi.org/10.55311/aiocsit.v7i2.437",
-  "oa_url": "https://aladzkiyajournal.com/index.php/AIoCSIT/article/view/437",
+  "oa_url": "https://aladzkiyajournal.com/index.php/AIoCSIT/article/download/437/pdf",
   "sources": [
    "openalex"
   ],
@@ -479,8 +622,8 @@
   "url": "https://doi.org/10.3389/fpubh.2026.1958746",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690949/",
   "sources": [
-   "pubmed",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -623,7 +766,7 @@
   "designs": [],
   "countries": [],
   "regions": [],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -1255,7 +1398,7 @@
   "first_seen": "2026-10-21",
   "summary": "Online gambling has emerged as a pervasive social challenge in many African societies, particularly through platforms such as Aviator and soccer betting. This study investigates the ravaging effects of these gambling practices on the social functioning of male breadwinners within African families …",
   "url": "https://doi.org/10.71458/rr7wet50",
-  "oa_url": null,
+  "oa_url": "https://journals.zegu.ac.zw/index.php/ngenani/article/download/591/400",
   "sources": [
    "openalex"
   ],
@@ -1274,8 +1417,12 @@
    "qualitative",
    "case-report"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ZW"
+  ],
+  "regions": [
+   "africa"
+  ],
   "language": null,
   "relevance": "high",
   "retracted": false
@@ -1435,7 +1582,7 @@
   "first_seen": "2026-10-21",
   "summary": "Roulette gives a transparent setting for studying how a small statistical advantage can be converted into a controlled level of repeated financial exposure. This study develops a casino-side analysis based on the Kelly criterion, comparing American and European even-money roulette under full, half, and quarter Kelly strategies …",
   "url": "https://doi.org/10.54254/2754-1169/2026.37992",
-  "oa_url": null,
+  "oa_url": "https://aemps.ewapub.com/article/view/37992.pdf",
   "sources": [
    "openalex"
   ],
@@ -1482,8 +1629,12 @@
    "lottery"
   ],
   "designs": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -1879,7 +2030,7 @@
   "year": 2026,
   "created": "2026-10-19",
   "first_seen": "2026-10-19",
-  "summary": "",
+  "summary": "Legal sports gambling in the U.S. has spread rapidly since a 2018 Supreme Court ruling. Media entities are becoming increasingly reliant on sponsorships and partnerships with sportsbooks, raising considerable ethical concerns …",
   "url": "https://doi.org/10.1080/23736992.2026.2750933",
   "oa_url": null,
   "sources": [
@@ -1888,10 +2039,14 @@
   "type": "article",
   "topics": [
    "sports-betting",
+   "advertising",
    "policy",
-   "cognition"
+   "cognition",
+   "families"
   ],
-  "designs": [],
+  "designs": [
+   "qualitative"
+  ],
   "countries": [
    "US"
   ],
@@ -2695,7 +2850,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-24",
+  "published": "2026-10-25",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -2807,7 +2962,7 @@
   "id": "doi:10.1159/ear/acrag004",
   "doi": "10.1159/ear/acrag004",
   "pmid": "42879344",
-  "pmcid": null,
+  "pmcid": "PMC13694054",
   "openalex": null,
   "title": "Investigating Outcome Types and Betting Strategies in Roulette: A Simulation Study",
   "journal": "European Addiction Research",
@@ -2821,7 +2976,7 @@
   "first_seen": "2026-10-16",
   "summary": "Roulette has not received as significant attention in research as other forms of gambling. Where roulette has, betting style is often constrained, reducing ecological validity. The present study sought to understand different betting strategies, potential outcome distributions, and implications for research …",
   "url": "https://doi.org/10.1159/ear/acrag004",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13694054/",
   "sources": [
    "pubmed"
   ],
@@ -4295,7 +4450,7 @@
    "Leonardo Guida",
    "Pete M Kyne"
   ],
-  "published": "2026-10-24",
+  "published": "2026-10-25",
   "year": 2026,
   "created": "2026-10-13",
   "first_seen": "2026-10-13",

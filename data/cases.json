@@ -97,6 +97,37 @@
   "first_seen": "2026-10-13"
  },
  {
+  "id": "cl-d-75015578",
+  "kind": "docket",
+  "case_name": "KalshiEX LLC v. Murrill",
+  "court": "District Court, W.D. Louisiana",
+  "court_id": "lawd",
+  "court_citation": "W.D. La.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-23",
+  "date_terminated": null,
+  "latest_activity": "2026-10-23",
+  "docket_number": "1:26-cv-04476",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75015578/kalshiex-llc-v-murrill/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-23",
+    "description": "Complaint",
+    "url": "https://www.courtlistener.com/docket/75015578/1/kalshiex-llc-v-murrill/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-25"
+ },
+ {
   "id": "cl-d-73231673",
   "kind": "docket",
   "case_name": "In re: Robinhood Prediction Market Litigation",

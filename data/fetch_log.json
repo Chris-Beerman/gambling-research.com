@@ -1,12 +1,12 @@
 {
- "started": "2026-10-24T10:55:10+00:00",
+ "started": "2026-10-25T11:21:36+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 49,
+   "items": 52,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 179,
+   "items": 187,
    "error": null,
    "warning": null
   },
@@ -270,7 +270,7 @@
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 221,
+   "items": 204,
    "error": null,
    "warning": null
   },
@@ -292,32 +292,32 @@
   }
  ],
  "papers": {
-  "raw": 654,
-  "groups": 589,
-  "added": 12,
-  "updated": 186,
-  "dropped_irrelevant": 391,
-  "total": 484
+  "raw": 665,
+  "groups": 595,
+  "added": 3,
+  "updated": 197,
+  "dropped_irrelevant": 395,
+  "total": 487
  },
  "news": {
   "raw": 714,
-  "added": 67,
-  "dropped_irrelevant": 108,
-  "total": 1011
+  "added": 40,
+  "dropped_irrelevant": 115,
+  "total": 1043
  },
  "trials": {
   "raw": 891,
-  "added": 1,
-  "updated": 696,
+  "added": 0,
+  "updated": 697,
   "dropped_irrelevant": 193,
   "removed": 0,
   "total": 697
  },
  "bills": {
-  "raw": 236,
-  "added": 3,
-  "updated": 72,
-  "dropped_irrelevant": 161,
+  "raw": 219,
+  "added": 0,
+  "updated": 64,
+  "dropped_irrelevant": 155,
   "total": 552
  },
  "cases": {
@@ -325,12 +325,22 @@
   "added": 1,
   "updated": 7,
   "dropped_irrelevant": 64,
-  "total": 65
+  "total": 66
  },
- "finished": "2026-10-24T11:03:51+00:00",
- "papers_total": 484,
- "news_total": 1011,
+ "finished": "2026-10-25T11:29:13+00:00",
+ "papers_total": 487,
+ "news_total": 1043,
  "history": [
+  {
+   "finished": "2026-10-25T11:29:13+00:00",
+   "mode": "nightly",
+   "added": 3,
+   "news_added": 40,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 1,
+   "failed": 0
+  },
   {
    "finished": "2026-10-24T11:03:51+00:00",
    "mode": "nightly",
