@@ -562,6 +562,11 @@ def update_index(existing: list[dict], raw: list[dict], tax: Taxonomy, today: dt
             if prev is None:
                 nt = norm_title(sample["title"])[:200]
                 prev = by_title.get(nt)
+                # Two different DOIs are two different studies, whatever their titles
+                # (newsletters and editorials reuse titles like "In Case You Haven't Heard").
+                group_dois = {r["doi"] for r in group["_recs"] if r.get("doi")}
+                if prev is not None and prev.get("doi") and group_dois and prev["doi"] not in group_dois:
+                    prev = None
                 if prev is None and not any(r.get("doi") for r in group["_recs"]):
                     pm = _prefix_match(nt, {t: p["id"] for t, p in by_title.items()})
                     if pm:

@@ -123,17 +123,18 @@ def excerpts(abstract: str, n: int = 3, width: int = 220) -> list[str]:
     return out
 
 
-def review(out_path: str) -> int:
+def review(out_path: str, list_path: str | None = None) -> int:
     from .sources import crossref, openalex, pubmed
 
     sources_cfg = load_yaml("sources.yml")
     tax = Taxonomy(load_yaml("taxonomy.yml"))
     s = session()
-    dois = [ln.strip().lower() for ln in (GOLD_DIR / "candidates.txt").read_text().splitlines() if ln.strip() and not ln.startswith("#")]
+    dois = [ln.strip().lower() for ln in Path(list_path or GOLD_DIR / "candidates.txt").read_text().splitlines() if ln.strip() and not ln.startswith("#")]
     papers = load_json(DATA_DIR / "papers.json", [])
     by_doi = {p["doi"]: p for p in papers if p.get("doi")}
     raw = openalex.fetch_dois(s, sources_cfg["openalex"], dois)
     pmids = [by_doi[d]["pmid"] for d in dois if d in by_doi and by_doi[d].get("pmid")]
+    pmids += [r["pmid"] for r in raw if r.get("pmid") and r["pmid"] not in pmids]
     raw += pubmed.fetch_ids(s, pmids)
     got = {r["doi"] for r in raw if r.get("doi")}
     raw += crossref.fetch_dois(s, sources_cfg["crossref"], [d for d in dois if d not in got])
@@ -177,7 +178,7 @@ def main() -> int:
     if len(sys.argv) >= 2 and sys.argv[1] == "check":
         return check()
     if len(sys.argv) >= 3 and sys.argv[1] == "review":
-        return review(sys.argv[2])
+        return review(sys.argv[2], sys.argv[3] if len(sys.argv) >= 4 else None)
     print(__doc__)
     return 2
 

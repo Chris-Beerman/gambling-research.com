@@ -38,6 +38,7 @@ jobs:
         run: |
           mkdir -p preview
           python -m pipeline.gold review preview/gold_review.json 2>&1 | tee preview/review.log
+          python -m pipeline.gold review preview/holdout_review.json tests/gold/holdout.txt 2>&1 | tee -a preview/review.log
       - name: Rebuild the study index
         continue-on-error: true
         run: |

@@ -155,3 +155,11 @@ def test_rebuild_removes_what_the_rules_no_longer_keep_and_keeps_first_seen():
 
 def test_search_folding():
     assert fold("Kaymakçı Castrén Sørensen Łukasz") == "Kaymakci Castren Sorensen Lukasz"
+
+
+def test_same_title_different_doi_are_different_studies():
+    old = [{"id": "doi:10.1000/n1", "doi": "10.1000/n1", "pmid": None, "title": "In Case You Haven't Heard", "summary": "", "sources": ["openalex"], "first_seen": "2026-10-17",
+            "topics": [], "designs": [], "countries": [], "regions": [], "relevance": "high"}]
+    other = rec("openalex", "10.1000/n2", "In Case You Haven't Heard", "A note on hospital staffing.")
+    papers, _ = index(other, existing=old)
+    assert "10.1000/n1" in papers and "10.1000/n2" not in papers
