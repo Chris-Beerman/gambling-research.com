@@ -13,6 +13,10 @@ on:
         description: "Comma-separated sources to run (pubmed,openalex,crossref,journals,news,trials,bills,courts); empty = all"
         type: string
         default: ""
+      rebuild:
+        description: "Rebuild: re-read every study since backfill_from and re-apply the tagging rules"
+        type: boolean
+        default: false
   push:
     branches: [main]
 
@@ -28,6 +32,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,6 +44,14 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install the search indexer
+        run: npm ci --no-audit --no-fund
 
       - name: Fetch sources and update the index
         if: github.event_name != 'push'
@@ -55,10 +68,27 @@ jobs:
           ARGS=""
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill"; fi
           if [ -n "${{ github.event.inputs.only }}" ]; then ARGS="$ARGS --only ${{ github.event.inputs.only }}"; fi
+          if [ "${{ github.event.inputs.rebuild }}" = "true" ]; then ARGS="$ARGS --rebuild"; fi
           python -m pipeline.fetch $ARGS
 
+      # A push that changes the tagging rules (config/taxonomy.yml `version`) or
+      # how far back the index goes re-reads the studies straight away rather than
+      # waiting for the night. Any other push only rebuilds the pages.
+      - name: Re-read and re-tag the studies if the rules changed
+        if: github.event_name == 'push'
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python -m pipeline.fetch --rebuild-if-needed
+
+      # Score the index against the hand-checked studies (tests/gold/labels.yml).
+      # If a rule change made it worse, stop here: nothing is committed or published.
+      - name: Check tagging against the hand-checked set
+        run: python -m pipeline.gold check
+
       - name: Commit updated data
-        if: github.event_name != 'push'
         run: |
           git config user.name "index-bot"
           git config user.email "index-bot@users.noreply.github.com"

@@ -48,7 +48,7 @@ schema:
 
 ## What this is
 
-The Gambling Research Index is a running index of new peer-reviewed studies and preprints about gambling in all its forms: sports betting, online casinos and slots, lotteries, loot boxes, prediction markets and the trading that behaves like gambling. Every night it collects what PubMed, OpenAlex, Crossref and the journals' own feeds have added, removes duplicates, tags each study by topic, design and country, and lists it with a link to the publisher's record. Beside the index sits a feed of policy, legal and public-health news, and a short weekly digest of the studies worth reading.
+The Gambling Research Index is a running index of new peer-reviewed studies and preprints about gambling in all its forms: sports betting, online casinos and slots, lotteries, loot boxes, prediction markets and the trading that behaves like gambling. Every night it collects what PubMed, OpenAlex, Crossref and the journals' own feeds have added, removes duplicates, tags each study by topic, design and where it was done, and lists it with a link to the publisher's record. Beside the index sits a feed of policy, legal and public-health news, and a short weekly digest of the studies worth reading.
 
 The reference pages are the things people in this field keep looking up: [where to publish](/journals/), [the conference calendar](/conferences/), [public datasets](/datasets/), [screening instruments](/measures/) and [how to do research without a university behind you](/guide/).
 

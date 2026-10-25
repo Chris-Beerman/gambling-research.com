@@ -17,31 +17,61 @@ SELECT = ",".join(
 )
 
 
-def fetch(s, cfg: dict, days: int) -> list[dict]:
+def _key() -> str:
     # OpenAlex has required an API key on every request since February 13, 2026.
     # Keys are free: https://openalex.org/settings/api. Set the OPENALEX_API_KEY repository secret.
     api_key = os.environ.get("OPENALEX_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("OpenAlex needs a free API key (openalex.org/settings/api); set the OPENALEX_API_KEY repository secret")
-    mailto = os.environ.get("OPENALEX_MAILTO") or cfg.get("mailto") or ""
-    since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
+    return api_key
+
+
+def _base_filter(cfg: dict) -> str:
     search = " ".join(str(cfg["search"]).split())
-    filt = f"title_and_abstract.search:{search},from_publication_date:{since},type:{cfg.get('types', 'article|review|letter|editorial')}"
+    filt = f"title_and_abstract.search:{search},type:{cfg.get('types', 'article|review|letter|editorial')}"
     if cfg.get("source_types"):
         filt += f",primary_location.source.type:{cfg['source_types']}"
+    return filt
+
+
+def fetch(s, cfg: dict, days: int) -> list[dict]:
+    """Nightly: works published in the last `days` days."""
+    since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
+    return _list(s, cfg, f"{_base_filter(cfg)},from_publication_date:{since}")
+
+
+def fetch_range(s, cfg: dict, start: dt.date, end: dt.date) -> list[dict]:
+    """Backfill: works published between two dates (inclusive), a month at a time."""
+    return _list(s, cfg, f"{_base_filter(cfg)},from_publication_date:{start.isoformat()},to_publication_date:{end.isoformat()}")
+
+
+def fetch_dois(s, cfg: dict, dois: list[str]) -> list[dict]:
+    """Re-read known works by DOI, 50 per request (used when the tagging rules change)."""
+    out: list[dict] = []
+    dois = [d for d in dict.fromkeys(dois) if d and "|" not in d and "," not in d]
+    for i in range(0, len(dois), 50):
+        chunk = dois[i : i + 50]
+        out += _list(s, cfg, "doi:" + "|".join(f"https://doi.org/{d}" for d in chunk), per_page=50)
+    return out
+
+
+def _list(s, cfg: dict, filt: str, per_page: int = 200) -> list[dict]:
+    api_key = _key()
+    mailto = os.environ.get("OPENALEX_MAILTO") or cfg.get("mailto") or ""
     cursor = "*"
     out: list[dict] = []
     while cursor:
-        params = {"filter": filt, "per-page": "200", "cursor": cursor, "select": SELECT, "api_key": api_key}
+        params = {"filter": filt, "per-page": str(per_page), "cursor": cursor, "select": SELECT, "api_key": api_key}
         if mailto:
             params["mailto"] = mailto
         r = get(s, API, params=params)
         js = r.json()
-        for w in js.get("results", []):
+        results = js.get("results", [])
+        for w in results:
             out.append(convert(w))
-        cursor = (js.get("meta") or {}).get("next_cursor")
+        cursor = (js.get("meta") or {}).get("next_cursor") if results else None
         time.sleep(0.2)
-        if len(out) > 5000:  # safety valve
+        if len(out) > 8000:  # safety valve
             break
     return out
 

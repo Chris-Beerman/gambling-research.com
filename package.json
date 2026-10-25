@@ -1,0 +1,9 @@
+{
+  "name": "gambling-research-index",
+  "private": true,
+  "description": "Build-time tooling only: Pagefind writes the static search index.",
+  "type": "module",
+  "dependencies": {
+    "pagefind": "1.5.2"
+  }
+}

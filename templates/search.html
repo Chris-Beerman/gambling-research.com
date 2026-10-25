@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Search the index: {{ site.title }}{% endblock %}
+{% block description %}Search {{ '{:,}'.format(total) }} gambling studies{% if coverage_from %} published since {{ coverage_from|fmt_date('month') }}{% endif %} by title, author, journal, topic, study design and setting.{% endblock %}
+{% block body_class %}section-research page-search{% endblock %}
+{% block head %}<link rel="preload" href="/pagefind/pagefind.js" as="script" crossorigin>{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="kicker kind-research">Research index</p>
+  <h1>Search the index</h1>
+  <p class="page-deck">{{ '{:,}'.format(total) }} studies{% if coverage_from %} published or indexed since {{ coverage_from|fmt_date('month') }}{% endif %}. The search covers titles, authors, journals, the short summaries and the index's own tags; it does not search full text.</p>
+</section>
+
+<form class="filters search-form" id="search" role="search" aria-label="Search the index" action="/search/" method="get">
+  <div class="filter-row">
+    <label class="filter-search search-box"><span class="visually-hidden">Search terms</span><input type="search" name="q" id="sq" placeholder="Self-exclusion Ontario, Latvala, loot boxes…" autocomplete="off" autofocus></label>
+  </div>
+  <div class="filter-row">
+    <label class="filter-select"><span class="visually-hidden">Topic</span><select name="topic" data-filter="topic"><option value="">Any topic</option></select></label>
+    <label class="filter-select"><span class="visually-hidden">Study design</span><select name="design" data-filter="design"><option value="">Any design</option></select></label>
+    <label class="filter-select"><span class="visually-hidden">Where the study was done</span><select name="setting" data-filter="setting"><option value="">Any study setting</option></select></label>
+    <label class="filter-select"><span class="visually-hidden">Where the authors work</span><select name="authors" data-filter="authors"><option value="">Any author location</option></select></label>
+    <label class="filter-select"><span class="visually-hidden">Year of publication</span><select name="year" data-filter="year"><option value="">Any year</option></select></label>
+    <label class="filter-select"><span class="visually-hidden">Language</span><select name="language" data-filter="language"><option value="">Any language</option></select></label>
+    <label class="filter-check"><input type="checkbox" name="oa" value="1" data-filter="access" data-value="Free full text"> Free full text only</label>
+    <label class="filter-select"><span class="visually-hidden">Order</span><select name="sort" id="ssort"><option value="">Best match</option><option value="new">Newest first</option><option value="old">Oldest first</option></select></label>
+  </div>
+  <p class="filter-status" id="sstatus" aria-live="polite">{% if not search_ok %}Search is being set up; until then, the <a href="/research/archive/">archive</a> lists every study by month.{% endif %}</p>
+</form>
+
+<noscript><p class="empty">Search runs in the browser and needs JavaScript. The <a href="/research/archive/">archive</a> lists every study by month, and the whole index is available as <a href="/data/papers.json">JSON</a>.</p></noscript>
+
+<ol class="ledger" id="sresults"></ol>
+<p class="more"><button type="button" class="more-button is-hidden" id="smore">Show more</button></p>
+
+<aside class="search-notes fine">
+  <p><strong>What this searches.</strong> Every study in the main index{% if coverage_from %}, back to {{ coverage_from|fmt_date('month') }}{% endif %}{% if first_year and coverage_from and first_year|string < coverage_from[:4] %}, plus a few older ones that entered it later{% endif %}. Studies listed as <a href="/research/borderline/">possibly related</a> are left out. Matching ignores accents, so <em>Castren</em> finds Castrén.</p>
+  <p><strong>What it does not.</strong> Full text, and anything published before the index's start. A search that finds little is not evidence that a topic is unstudied: before saying so, search <a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>, <a href="https://scholar.google.com/">Google Scholar</a> or <a href="https://openalex.org/">OpenAlex</a> as well.</p>
+  <p><strong>About the tags.</strong> Topics, designs and settings are assigned by the rules on the <a href="/methodology/#tagging">methodology page</a> and can be wrong; a study's own record is the authority. <a href="/methodology/#corrections">Report a misfiled study</a>.</p>
+</aside>
+{% endblock %}
+{% block scripts %}{% if search_ok %}<script src="/static/search.js" type="module"></script>{% endif %}{% endblock %}

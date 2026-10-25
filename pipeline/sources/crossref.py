@@ -11,17 +11,44 @@ API = "https://api.crossref.org/journals/{issn}/works"
 
 
 def fetch(s, cfg: dict, days: int, warnings: list[str] | None = None) -> list[dict]:
+    """Nightly: DOIs registered in the last `days` days."""
+    since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
+    return _journals(s, cfg, f"from-created-date:{since}", warnings)
+
+
+def fetch_range(s, cfg: dict, start: dt.date, end: dt.date, warnings: list[str] | None = None) -> list[dict]:
+    """Backfill: works published between two dates (inclusive)."""
+    return _journals(s, cfg, f"from-pub-date:{start.isoformat()},until-pub-date:{end.isoformat()}", warnings)
+
+
+def fetch_dois(s, cfg: dict, dois: list[str], warnings: list[str] | None = None) -> list[dict]:
+    """Re-read known works by DOI, one request each (used for the few records no other source has)."""
+    mailto = os.environ.get("CROSSREF_MAILTO") or cfg.get("mailto") or ""
+    out: list[dict] = []
+    for doi in dict.fromkeys(d for d in dois if d):
+        params = {"mailto": mailto} if mailto else None
+        try:
+            r = get(s, f"https://api.crossref.org/works/{doi}", params=params, tries=2)
+        except RuntimeError as e:
+            if warnings is not None:
+                warnings.append(f"{doi}: {str(e)[:80]}")
+            continue
+        out.append(convert(r.json().get("message", {}), None))
+        time.sleep(0.2)
+    return out
+
+
+def _journals(s, cfg: dict, date_filter: str, warnings: list[str] | None = None) -> list[dict]:
     """One journal or ISSN failing (a wrong ISSN returns 404) must not lose the
     others, so failures are collected in `warnings` and the rest continue."""
     mailto = os.environ.get("CROSSREF_MAILTO") or cfg.get("mailto") or ""
-    since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=days)).isoformat()
     out: list[dict] = []
     seen_doi: set[str] = set()
     for j in cfg.get("journals", []):
         for issn in j.get("issn", []):
             offset = 0
             while True:
-                params = {"filter": f"from-created-date:{since}", "rows": "100", "offset": str(offset), "sort": "created", "order": "desc"}
+                params = {"filter": date_filter, "rows": "100", "offset": str(offset), "sort": "created", "order": "desc"}
                 if mailto:
                     params["mailto"] = mailto
                 try:
@@ -43,7 +70,7 @@ def fetch(s, cfg: dict, days: int, warnings: list[str] | None = None) -> list[di
                 total = int(msg.get("total-results", 0))
                 offset += 100
                 time.sleep(0.3)
-                if not items or offset >= total:
+                if not items or offset >= total or offset >= 9900:
                     break
     return out
 

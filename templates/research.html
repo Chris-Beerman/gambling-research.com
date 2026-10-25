@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% import "_macros.html" as m %}
 {% block title %}{% if borderline %}Possibly related studies{% else %}New gambling research{% endif %}: {{ site.title }}{% endblock %}
-{% block description %}{% if borderline %}Studies that mention gambling or betting in passing, kept separate from the main index.{% else %}Every new study on gambling, betting, lotteries, loot boxes and prediction markets from the past {{ window }} days, with filters by topic, country, design and free full text.{% endif %}{% endblock %}
+{% block description %}{% if borderline %}Studies that mention gambling or betting in passing, kept separate from the main index.{% else %}New studies on gambling, betting, lotteries, loot boxes and prediction markets from the past {{ window }} days, with filters by topic, study setting, design and free full text.{% endif %}{% endblock %}
 {% block body_class %}section-research{% endblock %}
 {% block content %}
 <section class="page-head">
@@ -12,15 +12,16 @@
   <p class="kicker kind-research">Research index</p>
   <h1>New research</h1>
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'research') }}{% endif %}
-  <p class="page-deck">{{ count }} studies added in the past {{ window }} days{% if this_week_count %}, {{ this_week_count }} of them this week{% endif %}. Dates in the margin are when a study entered the index; the publication date follows the journal name. <a href="/research/archive/">Older months</a>, <a href="/research/topics/">topic pages</a>, <a href="/research/feed.xml">RSS feed</a>.</p>
+  <p class="page-deck">{{ count }} studies added in the past {{ window }} days{% if this_week_count %}, {{ this_week_count }} of them this week{% endif %}. Dates in the margin are when a study entered the index; the publication date follows the journal name. <a href="/search/">Search all {{ '{:,}'.format(total_count) }} studies</a>{% if coverage_from %} since {{ coverage_from|fmt_date('month') }}{% endif %}, <a href="/research/archive/">older months</a>, <a href="/research/topics/">topic pages</a>, <a href="/research/feed.xml">RSS feed</a>.</p>
   {% endif %}
 </section>
 
 {% if not borderline %}
 <form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
   <div class="filter-row">
-    <label class="filter-search"><span class="visually-hidden">Search titles, journals and authors</span><input type="search" id="q" placeholder="Search titles, journals, authors" autocomplete="off"></label>
-    <label class="filter-select"><span class="visually-hidden">Country or region</span><select id="region"><option value="">Any region</option>{% for s, l, n in regions %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
+    <label class="filter-search"><span class="visually-hidden">Filter this list by title, journal or author</span><input type="search" id="q" placeholder="Filter this list by title, journal, author" autocomplete="off"></label>
+    <label class="filter-select"><span class="visually-hidden">Where the study was done</span><select data-attr="settings" id="setting"><option value="">Any study setting</option>{% for s, l, n in settings %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
+    <label class="filter-select"><span class="visually-hidden">Where the authors work</span><select id="region"><option value="">Any author location</option>{% for s, l, n in regions %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
     <label class="filter-select"><span class="visually-hidden">Study design</span><select id="design"><option value="">Any design</option>{% for s, l, n in designs %}<option value="{{ s }}">{{ l }} ({{ n }})</option>{% endfor %}</select></label>
     <label class="filter-check"><input type="checkbox" id="oa"> Free full text only</label>
   </div>

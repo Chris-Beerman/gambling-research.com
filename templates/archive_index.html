@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 {% import "_macros.html" as m %}
 {% block title %}Archive: {{ site.title }}{% endblock %}
-{% block description %}Every study in the index, by the month it was added.{% endblock %}
+{% block description %}Every study in the index, by the month it entered the index.{% endblock %}
 {% block body_class %}section-research{% endblock %}
 {% block content %}
 <section class="page-head">
   <p class="crumb"><a href="/research/">New research</a></p>
   <h1>Archive</h1>
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'research') }}{% endif %}
-  <p class="page-deck">Every study in the index, by the month it was added. The whole index is also available as <a href="/data/papers.json">JSON</a>.</p>
+  <p class="page-deck">Every study in the index, by the month it entered it. Studies from before the index began, collected when it was extended back to January 2022, are listed under their month of publication. To find a particular study, <a href="/search/">search</a>; the whole index is also available as <a href="/data/papers.json">JSON</a>.</p>
 </section>
 <ul class="topic-grid">
   {% for x, l, n in months %}<li><a href="/research/archive/{{ x[:4] }}/{{ x[5:7] }}/">{{ l }}</a> <span class="count">{{ n }}</span></li>{% endfor %}

@@ -5,10 +5,12 @@ An independent index of new gambling studies and policy news. Static site, rebui
 ## How it works
 
 ```
-config/      site.yml (names, windows), sources.yml (queries and feeds), taxonomy.yml (tags, relevance rules)
+config/      site.yml (names, windows), sources.yml (queries, feeds, backfill_from), taxonomy.yml (tags, relevance rules,
+             rules version), corrections.yml (hand fixes that override every rule)
 pipeline/    fetch.py (nightly collection) -> data/papers.json, data/news.json, data/trials.json, data/bills.json,
              data/cases.json, data/fetch_log.json, data/weekly/latest.json
-             build.py (renders _site/ from data/ and content/ with templates/)
+             build.py (renders _site/ from data/ and content/ with templates/; search_index.mjs writes _site/pagefind/)
+             gold.py (scores the index against the hand-checked studies in tests/gold/labels.yml)
 content/     pages/*.md (reference pages, About, methodology), digests/YYYY-MM-DD.md (weekly digest posts)
 templates/   Jinja2 templates; static/ holds the stylesheet, the filter script and the favicon
 .github/     workflows/site.yml: nightly fetch + commit + build + deploy; also runs on every push to main
@@ -16,14 +18,23 @@ templates/   Jinja2 templates; static/ holds the stylesheet, the filter script a
 
 Nightly at 06:17 UTC the workflow queries PubMed, OpenAlex, Crossref and the configured journal and news feeds, plus the trackers (ClinicalTrials.gov, ISRCTN and OSF for trials; Open States, GovInfo and Congress.gov for bills; CourtListener for courts), merges and tags the results, commits the updated `data/` files, builds the site and deploys it. A push to `main` rebuilds and deploys without fetching. Run it by hand from the Actions tab ("Build and deploy", "Run workflow"); tick *backfill* for a wider window.
 
+## Tagging, corrections and rebuilds
+
+Tags come in three layers, first answer wins: `config/corrections.yml` (hand fixes, keyed by DOI), then PubMed's own indexing (publication types for designs, MeSH geographic headings for the study setting), then the keyword rules in `config/taxonomy.yml`. Each study records both its **setting** (`settings`: where it was done) and its **author countries** (`countries`: where the authors work); the entry shows the setting.
+
+Fix one study: add it to `config/corrections.yml` and push. Change a rule: edit `config/taxonomy.yml`, **bump `version`**, run `python -m pytest -q`, and push. The next nightly run sees the new version, re-reads every study since `backfill_from` (in `config/sources.yml`) month by month, re-reads anything older by DOI or PubMed ID, and re-applies the rules to all of it. It then scores the result against `tests/gold/labels.yml`; if the scores fall below the thresholds in that file, the run stops and nothing is committed or published. `data/index_meta.json` records the last complete rebuild. A rebuild that could not read a source re-tags what it got and removes nothing; the next night tries again.
+
 ## Local use
 
 ```
 pip install -r requirements.txt
+npm ci                              # Pagefind, for the search index (optional locally)
 python -m pytest -q                 # unit tests
 python -m pipeline.fetch --backfill # first collection (needs network)
 python -m pipeline.fetch --only trials,bills,courts   # just the trackers
-python -m pipeline.build            # renders _site/
+python -m pipeline.fetch --rebuild  # re-read everything since backfill_from and re-tag (needs network)
+python -m pipeline.gold check       # score data/papers.json against the hand-checked set
+python -m pipeline.build            # renders _site/ (and _site/pagefind/ when Pagefind is installed)
 python -m http.server -d _site 8000
 ```
 

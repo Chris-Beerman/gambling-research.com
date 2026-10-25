@@ -90,13 +90,13 @@ def test_merge_and_relevance():
     assert "sports-betting" in main["topics"] and "advertising" in main["topics"]
     assert "trial" in main["designs"]
     assert main["countries"] == ["AU"] and main["regions"] == ["australia-nz"]
-    assert main["first_seen"] == "2026-10-05"  # backfill uses the entrez/created date
+    assert main["first_seen"] == "2026-10-03"  # backfill dates a study by its earliest source date
     low = [p for p in papers if p["doi"] == "10.1000/lottery"][0]
     assert low["relevance"] == "low"
     # Second run: same record again, nightly mode; first_seen must not move.
     papers2, stats2 = update_index(papers, raw[:1], TAX, dt.date(2026, 10, 20), backfill=False)
     assert stats2["added"] == 0 and stats2["updated"] == 1
-    assert [p for p in papers2 if p["doi"] == "10.1007/s10899-026-99999-1"][0]["first_seen"] == "2026-10-05"
+    assert [p for p in papers2 if p["doi"] == "10.1007/s10899-026-99999-1"][0]["first_seen"] == "2026-10-03"
 
 
 def test_news():

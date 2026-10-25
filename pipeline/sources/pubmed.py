@@ -10,18 +10,36 @@ from ..common import clean_text, get, iso, norm_doi, parse_date
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 
-def fetch(s, cfg: dict, days: int) -> list[dict]:
+def _keyed(params: dict) -> tuple[dict, float]:
     api_key = os.environ.get("NCBI_API_KEY", "")
-    delay = 0.12 if api_key else 0.4
-    base_params = {"db": "pubmed", "retmode": "json"}
     if api_key:
-        base_params["api_key"] = api_key
+        params = dict(params, api_key=api_key)
+    return params, (0.12 if api_key else 0.4)
 
+
+def fetch(s, cfg: dict, days: int) -> list[dict]:
+    """Nightly: records entered in the last `days` days."""
+    return _search(s, cfg["query"], {"datetype": "edat", "reldate": str(days)})
+
+
+def fetch_range(s, cfg: dict, start, end) -> list[dict]:
+    """Backfill: records published between two dates (inclusive). PubMed caps a
+    search at 10,000 results, so callers pass a month at a time."""
+    return _search(s, cfg["query"], {"datetype": "pdat", "mindate": start.strftime("%Y/%m/%d"), "maxdate": end.strftime("%Y/%m/%d")})
+
+
+def fetch_ids(s, pmids: list[str]) -> list[dict]:
+    """Re-read known records by PubMed ID (used when the tagging rules change)."""
+    return _efetch(s, [str(p) for p in pmids if p])
+
+
+def _search(s, term: str, window: dict) -> list[dict]:
+    base_params, delay = _keyed({"db": "pubmed", "retmode": "json"})
     ids: list[str] = []
     retmax = 500
     retstart = 0
     while True:
-        params = dict(base_params, term=cfg["query"], datetype="edat", reldate=str(days), retmax=str(retmax), retstart=str(retstart))
+        params = dict(base_params, term=term, retmax=str(retmax), retstart=str(retstart), **window)
         r = get(s, f"{EUTILS}/esearch.fcgi", params=params)
         res = r.json().get("esearchresult", {})
         batch = res.get("idlist", [])
@@ -29,16 +47,17 @@ def fetch(s, cfg: dict, days: int) -> list[dict]:
         total = int(res.get("count", 0))
         retstart += retmax
         time.sleep(delay)
-        if not batch or retstart >= total:
+        if not batch or retstart >= total or retstart >= 9500:
             break
+    return _efetch(s, ids)
 
+
+def _efetch(s, ids: list[str]) -> list[dict]:
     records: list[dict] = []
     for i in range(0, len(ids), 100):
         chunk = ids[i : i + 100]
-        params = {"db": "pubmed", "id": ",".join(chunk), "retmode": "xml"}
-        if api_key:
-            params["api_key"] = api_key
-        r = get(s, f"{EUTILS}/efetch.fcgi", params=params)
+        params, delay = _keyed({"db": "pubmed", "id": ",".join(chunk), "retmode": "xml"})
+        r = get(s, f"{EUTILS}/efetch.fcgi", params=params, timeout=90)
         records.extend(parse_efetch(r.content))
         time.sleep(delay)
     return records
@@ -105,6 +124,9 @@ def parse_efetch(xml_bytes: bytes) -> list[dict]:
                 if pdate.get("PubStatus") == "entrez":
                     break
         pubtypes = [_text(pt).lower() for pt in article.findall("./PublicationTypeList/PublicationType")]
+        # MeSH descriptors, and geographic ones (tree Z01) recognised by name later.
+        mesh = [_text(h.find("DescriptorName")) for h in med.findall("./MeshHeadingList/MeshHeading")]
+        keywords = [_text(k) for k in med.findall("./KeywordList/Keyword")]
         rtype = "article"
         if any("review" in p for p in pubtypes) and not any("systematic" in p for p in pubtypes):
             rtype = "review"
@@ -137,6 +159,9 @@ def parse_efetch(xml_bytes: bytes) -> list[dict]:
                 "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
                 "oa_url": f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/" if pmcid else None,
                 "type": rtype,
+                "pubtypes": [p for p in pubtypes if p and p != "journal article"],
+                "mesh": [m for m in mesh if m],
+                "keywords": [k for k in keywords if k][:20],
                 "language": language,
                 "retracted": retracted,
             }

@@ -1,3 +1,7 @@
+# How far back the index goes. Changing this date (or the rules version in
+# taxonomy.yml) makes the next nightly run re-read the literature from here.
+backfill_from: "2022-01-01"
+
 # Where the nightly index looks. Every source is optional: a source that fails
 # is logged in data/fetch_log.json and shown on /methodology/, and the rest of
 # the run continues. Add, disable or re-order sources here; no code changes needed.
