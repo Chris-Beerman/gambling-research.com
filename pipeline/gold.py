@@ -18,6 +18,7 @@ from pathlib import Path
 
 import yaml
 
+from . import countries
 from .common import DATA_DIR, ROOT, load_json, load_yaml, session, today_utc
 from .normalize import Taxonomy, canonical, merge_raw
 
@@ -60,7 +61,8 @@ def score(papers: list[dict], labels: dict) -> dict:
             want, got = set(lab["designs"] or []), set(p.get("designs") or [])
             tally("designs", want == got, doi, f"designs {sorted(got)} != {sorted(want)}", corrected)
         if "settings" in lab:
-            want, got = set(lab["settings"] or []), set(p.get("settings") or [])
+            # YAML reads Norway's code, NO, as false; normalise_code turns it back.
+            want, got = {countries.normalise_code(c) for c in lab["settings"] or []}, set(p.get("settings") or [])
             tally("settings", want == got, doi, f"settings {sorted(got)} != {sorted(want)}", corrected)
         if "topics" in lab or "not_topics" in lab:
             got = set(p.get("topics") or [])

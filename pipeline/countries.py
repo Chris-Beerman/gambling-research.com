@@ -173,7 +173,7 @@ _C: dict[str, tuple[str, str, str, str | None]] = {
 # or a MeSH heading ("Ontario", "New Jersey", "Victorian gamblers"). Georgia,
 # Washington and Victoria are left out: each is too often something else.
 _SUBNATIONAL = {
-    "US": r"Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|\bMaine\b|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|\bOhio\b|Oklahoma|\bOregon\b|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|\bTexas\b|\bUtah\b|Vermont|Virginia|Wisconsin|Wyoming|Las Vegas|Atlantic City|Chicago",
+    "US": r"PASPA|Murphy v\.? (NCAA|National Collegiate)|states that (have )?legali[sz]ed|Nationwide Emergency Department Sample|\bNSDUH\b|\bNESARC\b|\bNHANES\b|Medicaid|Medicare\b|Healthy Minds Study|Monitoring the Future|Youth Risk Behavior|Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|\bMaine\b|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|\bOhio\b|Oklahoma|\bOregon\b|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|\bTexas\b|\bUtah\b|Vermont|Virginia|Wisconsin|Wyoming|Las Vegas|Atlantic City|Chicago",
     "CA": r"Ontario|Quebec|Québec|British Columbia|Alberta|Manitoba|Saskatchewan|Nova Scotia|New Brunswick|Newfoundland",
     "AU": r"New South Wales|Queensland|Tasmania|South Australia|Western Australia|Northern Territory|Australian Capital Territory|Victorian\b|Melbourne|Sydney",
     "GB": r"London\b",
@@ -192,7 +192,7 @@ _SUB_RE = {code: re.compile(p) for code, p in _SUBNATIONAL.items()}
 # "American adults", "American college students": a US setting. A bare "American"
 # is too often an organisation ("American Psychiatric Association") or a compound
 # ("African American", "Latin American").
-_US_DEMONYM = re.compile(r"(?<!African )(?<!Latin )(?<!North )(?<!South )(?<!Native )(?<!Asian )(?<!Central )(?<!Indian )\bAmericans?\b(?= (adults|adolescents|youth|college|university|students|states|sample|population|gamblers|bettors|veterans|men|women|households|consumers|sports|workers|military|service|survey|respondents))|\bU\.S\. (states|adults|adolescents|youth|college|sample|population|gamblers|bettors|veterans|survey)|\bUS (states|adults|adolescents|youth|college|sample|population|gamblers|bettors|veterans|survey)")
+_US_DEMONYM = re.compile(r"(?<!African )(?<!Latin )(?<!North )(?<!South )(?<!Native )(?<!Asian )(?<!Central )(?<!Indian )\bAmericans?\b(?= (adults|adolescents|youth|college|university|students|states|sample|population|gamblers|bettors|veterans|men|women|households|consumers|sports|workers|military|service|survey|respondents))|\bU\.S\. (states|adults|adolescents|youth|college|sample|population|gamblers|bettors|veterans|survey)|\bUS (states|adults|adolescents|youth|college|sample|population|gamblers|bettors|veterans|survey)|\b(in|across|throughout) the (U\.S\.|US|USA)\b|\b(?i:northeastern|northwestern|southeastern|southwestern|southern|western|midwestern|eastern|northern) (U\.S\.|US|United States)\b")
 # A US postal address in an affiliation string: ", IL 60607".
 _US_ADDRESS = re.compile(r", (AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC) \d{5}")
 

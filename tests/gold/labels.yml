@@ -1,0 +1,102 @@
+# The hand-checked set. Each study here was read (title, abstract, and the
+# publisher's record where needed) and its correct tags written down by hand.
+# The nightly run scores the index against these answers; see pipeline/gold.py.
+#
+#   keep: false            not a gambling study: must be absent from the main index
+#   designs: [...]         the complete set of designs, in any order
+#   settings: [...]        where the study was done (ISO country codes); [] = not stated
+#   topics: [...]          topics that must be present (others may be too)
+#   not_topics: [...]      topics that must not be present
+#
+# A field is left out when the record does not settle it. The answers are not
+# tuned to the rules: where the rules get one wrong, the score shows it.
+
+thresholds:
+  keep: 0.95
+  designs: 0.75
+  settings: 0.80
+  topics: 0.80
+
+studies:
+  # ---- not gambling studies -------------------------------------------------
+  "10.1186/s12874-026-03048-z": {keep: false}    # statistics: "testing by betting"
+  "10.65237/2336-3630-2026-10(1)-6": {keep: false}  # Russian-Japanese relations
+  "10.1364/ao.610874": {keep: false}             # optics; machine-learning "self-exclusion"
+  "10.35308/iconami.v2i1.324": {keep: false}     # halal tourism
+  "10.3905/joi.2026.35.6.001": {keep: false}     # investment editor's letter
+  "10.1093/ej/ueag127": {keep: false}            # political metaphor
+  "10.1111/ajsp.70109": {keep: false}            # lottery tickets as an experimental reward
+  "10.1136/bmj-2026-101201": {keep: false}       # "postcode lottery" in health care
+  "10.1111/1462-2920.70442": {keep: false}       # sawfish microbiome
+  "10.1186/s12903-026-09435-8": {keep: false}    # lottery used for sampling
+  "10.7759/cureus.116404": {keep: false}         # lithotripsy
+  "10.1002/anie.5231124": {keep: false}          # chemist profile
+  "10.1007/s11187-026-01230-7": {keep: false}    # "gambling on the economy"
+  "10.23969/jp.v11i04.70628": {keep: false}      # financial literacy; gambling named once
+  "10.1177/00302228261484440": {keep: false}     # widows in Vrindavan
+  "10.1016/j.puhe.2026.106470": {keep: false}    # anabolic steroids; gambling named once
+  "10.1073/pnas.2511780123": {keep: false}       # illegal markets in general
+  "10.1098/rsos.262017": {keep: false}           # gaming disorder, outside the index's scope
+  "10.33140/jtma.05.02.03": {keep: false}        # Goethe's Faust
+
+  # ---- gambling studies ------------------------------------------------------
+  "10.1007/s11469-026-01640-4": {designs: [review], settings: []}
+  "10.14744/dajpns.2025.00287": {designs: [survey], topics: [cognition, comorbidity]}
+  "10.1016/j.neubiorev.2026.106934": {designs: [review], settings: [], topics: [cognition]}
+  "10.1192/bjp.2026.10671": {settings: []}
+  "10.1186/s40359-026-05031-1": {designs: [survey], settings: [ES], topics: [measurement]}
+  "10.1007/s10899-026-10542-y": {designs: [survey, longitudinal], settings: [US], topics: [online-gambling, policy, financial-harm]}
+  "10.1093/haschl/qxag213": {designs: [], settings: [US], topics: [sports-betting, advertising]}
+  "10.1093/heapro/daag029": {designs: [case-report], settings: [GB], topics: [policy]}
+  "10.47626/1516-4446-2026-4920": {designs: [survey], settings: [BR], topics: [prevalence]}
+  "10.3389/fpsyt.2026.1931287": {designs: [survey], settings: [DK], topics: [prevalence, comorbidity]}
+  "10.1016/j.neubiorev.2026.106971": {designs: [review], settings: [], topics: [measurement]}
+  "10.30934/kusbed.2013046": {designs: [survey], settings: [TR], topics: [comorbidity]}
+  "10.1016/j.genhosppsych.2026.09.017": {designs: [behavioral-data], settings: [US], topics: [comorbidity]}
+  "10.1007/s00406-026-02396-7": {designs: [experiment], settings: [DE], topics: [cognition], not_topics: [prevalence]}
+  "10.1056/nejmp2610547": {designs: [commentary], topics: [prediction-markets]}
+  "10.1007/s43681-026-01432-5": {topics: [prediction-markets]}
+  "10.1016/j.jaac.2026.07.408": {topics: [loot-boxes]}
+  "10.1007/s10899-026-10566-4": {designs: [survey], settings: [GB], topics: [online-gambling]}
+  "10.1007/s10899-026-10568-2": {designs: [behavioral-data], settings: [NO]}
+  "10.1007/s10899-026-10565-5": {designs: [survey], settings: [US], topics: [treatment]}
+  "10.1017/s1049096526103023": {designs: [], settings: [US], topics: [prediction-markets]}
+  "10.1001/jamapsychiatry.2026.3175": {designs: [behavioral-data], settings: [US], topics: [sports-betting, policy, treatment]}
+  "10.3390/jrfm19100818": {designs: [survey, behavioral-data], settings: [KZ], topics: [financial-harm]}
+  "10.1002/poi3.70060": {designs: [survey, behavioral-data], settings: [US], topics: [advertising, policy]}
+  "10.1192/j.eurpsy.2026.12261": {designs: [survey, longitudinal], settings: [NO], topics: [financial-harm]}
+  "10.34172/ahj.1704": {designs: [survey], settings: [IR], topics: [online-gambling, youth, prevalence]}
+  "10.1002/adaw.35086": {designs: [commentary], topics: [prediction-markets]}
+  "10.1186/s12954-026-01565-0": {designs: [protocol, behavioral-data], settings: [SE], topics: [treatment, comorbidity]}
+  "10.18863/pgy.2010753": {settings: [TR], topics: [cognition]}
+  "10.1007/s10899-026-10560-w": {designs: [], settings: [DE], topics: [sports-betting, advertising]}
+  "10.1098/rsos.261484": {topics: [loot-boxes]}
+  "10.1080/14459795.2026.2748058": {designs: [qualitative], settings: [AU], topics: [online-gambling, youth]}
+  "10.23990/sa.179739": {designs: [behavioral-data], settings: [FI], topics: [comorbidity]}
+  "10.54254/2754-1169/2026.37992": {designs: [], settings: [], topics: [casino]}
+  "10.71458/rr7wet50": {designs: [qualitative, case-report], topics: [online-gambling, families]}
+  "10.18592/jils.v10i2.20689": {settings: [ID], topics: [online-gambling, policy]}
+  "10.1007/s10899-026-10521-3": {designs: [], topics: [families]}
+  "10.1007/s10899-026-10519-x": {designs: [survey], settings: [IR], topics: [cognition], not_topics: [policy]}
+  "10.1080/14459795.2026.2697456": {topics: [sports-betting]}
+  "10.3389/fpsyg.2026.1809867": {settings: [CN], topics: [lottery]}
+  "10.1556/2006.2025.00454": {designs: [behavioral-data], topics: [casino]}
+  "10.1080/14459795.2026.2696244": {designs: [qualitative], settings: [GB], topics: [treatment, comorbidity]}
+  "10.1080/17482631.2026.2696637": {designs: [qualitative], settings: [AU]}
+  "10.1002/jclp.70188": {designs: [trial], settings: [GB], topics: [treatment]}
+  "10.1080/14459795.2026.2697452": {designs: [commentary], topics: [online-gambling, policy]}
+  "10.1007/s11469-026-01690-8": {settings: [US], topics: [prevention]}
+  "10.1007/s10899-026-10536-w": {designs: [survey], settings: [PL], topics: [loot-boxes]}
+  "10.1556/2006.2025.00577": {designs: [survey], settings: [CA], topics: [sports-betting, comorbidity]}
+  "10.1007/s10899-026-10545-9": {designs: [survey], settings: [ES], topics: [youth, prevalence]}
+  "10.1080/14459795.2026.2727848": {designs: [qualitative], topics: [lived-experience]}
+  "10.1016/j.amepre.2026.108551": {designs: [behavioral-data, longitudinal], settings: [CA], topics: [sports-betting, online-gambling, policy]}
+  "10.1016/j.puhip.2026.100858": {designs: [longitudinal, behavioral-data], settings: [GB], topics: [equity]}
+  "10.24301/mhsw.2026.9.54.3.111": {settings: [KR], topics: [youth, prevention]}
+  "10.32523/2789-4320-2026-3-8-22": {designs: [review], topics: [youth]}
+  "10.4309/uqej5866": {settings: [MO], topics: [casino, prevention]}
+  "10.1159/ear/acrag004": {designs: [], topics: [casino]}
+  "10.21181/kjpc.2026.35.3.97": {designs: [survey], settings: [KR], topics: [youth]}
+  "10.1080/23736992.2026.2750933": {designs: [qualitative], settings: [US], topics: [sports-betting]}
+  "10.1002/adaw.35092": {settings: [US]}
+  "10.1037/tmb0000225": {topics: [online-gambling]}

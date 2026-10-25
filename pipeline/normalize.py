@@ -163,6 +163,7 @@ class Taxonomy:
         self.exclude_journals = [re.compile(p, re.I) for p in rel.get("exclude_journals", [])]
         self.oa_only_hits = int(rel.get("openalex_only_abstract_hits", rel.get("single_source_min_abstract_hits", 3)))
         self.oa_only_early = int(rel.get("openalex_only_early_chars", 400))
+        self.min_hits_no_title = int(rel.get("min_abstract_hits_without_title", 1))
         self.topics = [(t["slug"], t["label"], [re.compile(p, re.I) for p in t["patterns"]]) for t in cfg.get("topics", [])]
         self.topic_min = {t["slug"]: int(t.get("min_hits", 1)) for t in cfg.get("topics", [])}
         # Designs: (slug, label, title patterns, abstract patterns). The label table on
@@ -427,6 +428,10 @@ def canonical(key: str, group: dict, tax: Taxonomy, today: dt.date, existing: di
         rel = None
     if rel is None:
         return None
+    # A study on another subject that names gambling once among many things is
+    # listed as possibly related, not in the main index.
+    if rel == "high" and not a.title_hit and a.abstract_hits < tax.min_hits_no_title and not (correction and correction.get("relevance")):
+        rel = "low"
     # OpenAlex's search is loose and its corpus includes repository spam. A record
     # that only OpenAlex supplies must name the subject in its title, or keep
     # returning to it in the abstract from the opening sentences on, and never
