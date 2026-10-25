@@ -216,7 +216,8 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
 .prose th, .prose td { text-align: left; vertical-align: top; padding: .5rem .7rem .5rem 0; border-bottom: 1px solid var(--rule); }
 .prose th { font-weight: 600; color: var(--ink); border-bottom-color: var(--ink-2); }
 .prose-wide .table-scroll, .prose-wide table { display: block; overflow-x: auto; }
-.prose-wide table thead, .prose-wide table tbody { display: table; width: 100%; }
+.prose-wide table { display: table; width: 100%; table-layout: auto; }
+.prose-wide td code { word-break: break-all; }
 .prose sup { font-family: var(--sans); font-size: .7em; }
 .fine { font-family: var(--sans); font-size: .82rem; color: var(--ink-2); margin-top: 2rem; }
 
@@ -281,6 +282,7 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
   .filters input[type="search"], .filters select { min-width: 0; width: 100%; }
   .docket-docs li { padding-left: 0; text-indent: 0; }
   .docket-docs time { width: auto; margin-right: .4rem; }
+  .prose-wide table { display: block; overflow-x: auto; width: 100%; }
 }
 @media (prefers-reduced-motion: no-preference) {
   .chip, .masthead nav a, .tag { transition: background-color .12s ease, color .12s ease; }

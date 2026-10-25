@@ -4,6 +4,6 @@
   "description": "Build-time tooling only: Pagefind writes the static search index.",
   "type": "module",
   "dependencies": {
-    "pagefind": "1.3.0"
+    "pagefind": "1.5.2"
   }
 }
