@@ -40,9 +40,7 @@
    }
   ],
   "cite_count": 0,
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "first_seen": "2026-10-16"
  },
  {
@@ -91,9 +89,7 @@
    }
   ],
   "cite_count": 0,
-  "topics": [
-   "casino"
-  ],
+  "topics": [],
   "first_seen": "2026-10-13"
  },
  {
@@ -112,12 +108,12 @@
   "citation": "",
   "status": "",
   "url": "https://www.courtlistener.com/docket/75015578/kalshiex-llc-v-murrill/",
-  "snippet": "",
-  "suit_nature": "",
+  "snippet": "7:6(b) Federal Commodity Exchange Regulation; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
   "documents": [
    {
     "date": "2026-10-23",
-    "description": "Complaint",
+    "description": "COMPLAINT for Pemanent Injunctive and Declaratory Relief against All Defendants",
     "url": "https://www.courtlistener.com/docket/75015578/1/kalshiex-llc-v-murrill/"
    }
   ],
@@ -148,13 +144,13 @@
   "documents": [
    {
     "date": "2026-10-23",
-    "description": "Order on Administrative Motion per Civil Local Rule 7-11",
-    "url": "https://www.courtlistener.com/docket/73231673/69/in-re-robinhood-prediction-market-litigation/"
+    "description": "Administrative Motion per Civil Local Rule 7-11",
+    "url": "https://www.courtlistener.com/docket/73231673/68/in-re-robinhood-prediction-market-litigation/"
    },
    {
     "date": "2026-10-23",
-    "description": "Administrative Motion per Civil Local Rule 7-11",
-    "url": "https://www.courtlistener.com/docket/73231673/68/in-re-robinhood-prediction-market-litigation/"
+    "description": "Order on Administrative Motion per Civil Local Rule 7-11",
+    "url": "https://www.courtlistener.com/docket/73231673/69/in-re-robinhood-prediction-market-litigation/"
    },
    {
     "date": "2026-10-22",
@@ -174,8 +170,7 @@
   ],
   "cite_count": 0,
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "first_seen": "2026-10-13"
  },
@@ -245,9 +240,7 @@
   "suit_nature": "",
   "documents": [],
   "cite_count": 0,
-  "topics": [
-   "industry"
-  ],
+  "topics": [],
   "first_seen": "2026-10-24"
  },
  {
@@ -342,9 +335,7 @@
   "suit_nature": "",
   "documents": [],
   "cite_count": 0,
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "first_seen": "2026-10-22"
  },
  {
@@ -398,9 +389,7 @@
   "suit_nature": "",
   "documents": [],
   "cite_count": 0,
-  "topics": [
-   "casino"
-  ],
+  "topics": [],
   "first_seen": "2026-10-22"
  },
  {
@@ -544,9 +533,7 @@
   "suit_nature": "",
   "documents": [],
   "cite_count": 0,
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "first_seen": "2026-10-21"
  },
  {

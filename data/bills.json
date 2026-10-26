@@ -21,9 +21,7 @@
   "stage_label": "introduced",
   "url": "https://openstates.org/mt/bills/2027/LC660/",
   "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
-  "topics": [
-   "industry"
-  ],
+  "topics": [],
   "updated": "2026-10-24",
   "first_seen": "2026-09-30",
   "stage_changed": null
@@ -55,9 +53,7 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "updated": "2026-10-25",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
@@ -91,9 +87,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/HB2879/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb2879",
   "topics": [
-   "online-gambling",
-   "treatment",
-   "prevention"
+   "online-gambling"
   ],
   "updated": "2026-10-24",
   "first_seen": "2026-10-24",
@@ -280,10 +274,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/nj/bills/222/A5697/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5697",
-  "topics": [
-   "casino",
-   "industry"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-17",
   "stage_changed": "2026-10-20",
@@ -311,9 +302,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/nj/bills/222/A5666/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5666",
-  "topics": [
-   "casino"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-17",
   "stage_changed": "2026-10-20",
@@ -377,7 +366,7 @@
   "url": "https://openstates.org/pr/bills/2025-2028/PC1514/",
   "source_url": "https://sutra.oslpr.org/medidas/162604",
   "topics": [
-   "policy"
+   "online-gambling"
   ],
   "updated": "2026-10-19",
   "first_seen": "2026-10-15",
@@ -593,9 +582,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/pa/bills/2025-2026/HB2845/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb2845",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-07",
   "stage_changed": null
@@ -624,9 +611,7 @@
   "stage_label": "in committee",
   "url": "https://www.congress.gov/bill/119th-congress/house-bill/10732",
   "source_url": "",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "updated": "2026-10-20",
   "first_seen": "2026-10-05",
   "stage_changed": null,
@@ -863,10 +848,7 @@
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/nj/bills/222/AR150/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/AR150",
-  "topics": [
-   "advertising",
-   "cognition"
-  ],
+  "topics": [],
   "updated": "2026-10-23",
   "first_seen": "2026-09-10",
   "stage_changed": null
@@ -1577,8 +1559,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/house-bill/9856",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-09-18",
   "first_seen": "2026-07-22",
@@ -1673,10 +1654,7 @@
   "source_url": "https://lis.virginia.gov/bill-details/20271/SB579",
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "lottery",
    "casino",
-   "advertising",
    "policy"
   ],
   "updated": "2026-10-23",
@@ -1706,10 +1684,7 @@
   "url": "https://openstates.org/va/bills/2027/SB159/",
   "source_url": "https://lis.virginia.gov/bill-details/20271/SB159",
   "topics": [
-   "treatment",
-   "advertising",
-   "policy",
-   "equity"
+   "policy"
   ],
   "updated": "2026-10-23",
   "first_seen": "2026-01-07",
@@ -1741,11 +1716,7 @@
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/va/bills/2027/HB49/",
   "source_url": "https://lis.virginia.gov/bill-details/20271/HB49",
-  "topics": [
-   "advertising",
-   "policy",
-   "equity"
-  ],
+  "topics": [],
   "updated": "2026-10-23",
   "first_seen": "2025-12-29",
   "stage_changed": null
@@ -1944,8 +1915,7 @@
   "url": "https://openstates.org/nj/bills/222/A5336/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/A5336",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-10-20",
   "first_seen": "2026-06-28",
@@ -2687,10 +2657,7 @@
   "url": "https://openstates.org/tn/bills/114/SB2136/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2136&ga=114",
   "topics": [
-   "sports-betting",
-   "online-gambling",
-   "prevention",
-   "policy"
+   "sports-betting"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-01-23",
@@ -2785,10 +2752,7 @@
   "url": "https://openstates.org/tn/bills/114/HB1885/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1885&ga=114",
   "topics": [
-   "sports-betting",
-   "online-gambling",
-   "prevention",
-   "policy"
+   "sports-betting"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-01-21",
@@ -3533,9 +3497,7 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/tn/bills/114/SB2159/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2159&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -3565,9 +3527,7 @@
   "stage_label": "reported from committee",
   "url": "https://openstates.org/tn/bills/114/HB2106/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2106&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -4401,8 +4361,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/708",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-09-30",
   "first_seen": "2026-04-30",
@@ -4436,8 +4395,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4469",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-08-04",
   "first_seen": "2026-04-30",
@@ -4846,8 +4804,7 @@
   "url": "https://openstates.org/tn/bills/114/SB719/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0719&ga=114",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -4879,8 +4836,7 @@
   "url": "https://openstates.org/tn/bills/114/SB1577/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1577&ga=114",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -4912,8 +4868,7 @@
   "url": "https://openstates.org/tn/bills/114/SB1409/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1409&ga=114",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -4945,8 +4900,7 @@
   "url": "https://openstates.org/tn/bills/114/SB1151/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1151&ga=114",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -6847,8 +6801,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4188",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-04-09",
   "first_seen": "2026-03-25",
@@ -7003,8 +6956,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4160",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-08-01",
   "first_seen": "2026-03-23",
@@ -7038,8 +6990,7 @@
   "url": "https://openstates.org/tn/bills/114/SJR614/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0614&ga=114",
   "topics": [
-   "lottery",
-   "veterans"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -7753,8 +7704,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4060",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-08-10",
   "first_seen": "2026-03-11",
@@ -7820,8 +7770,7 @@
   "url": "https://openstates.org/tn/bills/114/SB150/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0150&ga=114",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -8287,8 +8236,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4017",
   "source_url": "",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "updated": "2026-03-24",
   "first_seen": "2026-03-05",
@@ -9857,8 +9805,7 @@
   "url": "https://openstates.org/tn/bills/114/SB1831/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1831&ga=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -10420,8 +10367,7 @@
   "url": "https://openstates.org/tn/bills/114/SB1085/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1085&ga=114",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -12936,9 +12882,7 @@
   "stage_label": "in committee",
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2773",
   "source_url": "",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "updated": "2025-09-23",
   "first_seen": "2025-09-11",
   "stage_changed": null,
@@ -13033,9 +12977,7 @@
   "stage_label": "in committee",
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2564",
   "source_url": "",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "updated": "2026-03-31",
   "first_seen": "2025-07-31",
   "stage_changed": null,
@@ -16089,9 +16031,7 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/tn/bills/114/HJR188/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0188&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16121,9 +16061,7 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/tn/bills/114/HJR187/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0187&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16153,9 +16091,7 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/tn/bills/114/HJR163/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0163&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16546,9 +16482,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/tn/bills/114/SJR98/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0098&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16578,9 +16512,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/tn/bills/114/SJR111/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0111&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16610,9 +16542,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/tn/bills/114/SJR110/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0110&ga=114",
-  "topics": [
-   "lottery"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16641,9 +16571,7 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/tn/bills/114/SB193/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0193&ga=114",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
   "stage_changed": null
@@ -16877,8 +16805,7 @@
   "url": "https://openstates.org/tn/bills/114/SB802/",
   "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0802&ga=114",
   "topics": [
-   "lottery",
-   "industry"
+   "lottery"
   ],
   "updated": "2026-10-21",
   "first_seen": "2026-10-21",
@@ -18118,10 +18045,7 @@
   "stage_label": "introduced",
   "url": "https://openstates.org/nj/bills/222/SR114/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/SR114",
-  "topics": [
-   "advertising",
-   "cognition"
-  ],
+  "topics": [],
   "updated": "2026-10-23",
   "first_seen": "2026-10-23",
   "stage_changed": null

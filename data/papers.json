@@ -1,5 +1,123 @@
 [
  {
+  "id": "doi:10.1177/25725300261503803",
+  "doi": "10.1177/25725300261503803",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "CONSTITUTIONAL FOUNDATIONS of AMERICAN GAMBLING LAW",
+  "journal": "Gaming Law Review",
+  "authors": [
+   "Robert M. Jarvis"
+  ],
+  "published": "2026-10-25",
+  "year": 2026,
+  "created": "2026-10-26",
+  "first_seen": "2026-10-26",
+  "summary": "This article argues that gambling litigation constitutes an overlooked but coherent body of jurisprudence that has significantly shaped the development of major constitutional doctrines.",
+  "url": "https://doi.org/10.1177/25725300261503803",
+  "oa_url": null,
+  "sources": [
+   "crossref"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.11648/j.ijls.20260904.13",
+  "doi": "10.11648/j.ijls.20260904.13",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223555825",
+  "title": "Legal Reconstruction as a Policy Bridge: Advancing Criminalization of Online Gambling Amid National Differences",
+  "journal": "International Journal of Law and Society",
+  "authors": [
+   "Muhammad Nurhidayatullah",
+   "Agus Raharjo"
+  ],
+  "published": "2026-10-23",
+  "year": 2026,
+  "created": "2026-10-26",
+  "first_seen": "2026-10-26",
+  "summary": "Online gambling is a rapidly growing global phenomenon affecting countries across the world and creating complex legal, social, economic, and technological challenges …",
+  "url": "https://doi.org/10.11648/j.ijls.20260904.13",
+  "oa_url": "https://doi.org/10.11648/j.ijls.20260904.13",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/1533256x.2026.2694417",
+  "doi": "10.1080/1533256x.2026.2694417",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "BOOK REVIEW",
+  "journal": "Journal of Social Work Practice in the Addictions",
+  "authors": [
+   "Nubian Sun Carla B. Monteiro a Tulane University, New Orleans, LAb Sacred Heart University, Fairfield, CT"
+  ],
+  "published": "2026-07-06",
+  "year": 2026,
+  "created": "2026-07-06",
+  "first_seen": "2026-10-26",
+  "summary": "Book Review: Harris, Bob. (2022). Gambling in Britain in the Long Eighteenth Century . Cambridge University Press. 316 pp. ISBN: 9781009067348",
+  "url": "https://doi.org/10.1080/1533256x.2026.2694417",
+  "oa_url": null,
+  "sources": [
+   "feed:cgs",
+   "feed:jswpa"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/10911421261498451",
   "doi": "10.1177/10911421261498451",
   "pmid": null,
@@ -111,7 +229,7 @@
   "first_seen": "2026-10-25",
   "summary": "Established rules and norms are standard within competitive sports. However, changes are often made to create better functioning contests or improved viewer experiences. We examine the impact of one such change on sports wagering markets …",
   "url": "https://doi.org/10.9741/2327-8455.1521",
-  "oa_url": "https://oasis.library.unlv.edu/context/grrj/article/1521/viewcontent/Did_College_Football_Betting_Markets_Correctly_Assess_Game_Shortening_Rule_Changes.pdf",
+  "oa_url": "https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=1521&context=grrj",
   "sources": [
    "openalex"
   ],
@@ -161,7 +279,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-25",
+  "published": "2026-10-26",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -415,7 +533,7 @@
   "first_seen": "2026-10-24",
   "summary": "In 2018, there was one state with legalized online sports betting. Now there are 31. That increase is associated with an increase in treatment for mental illness, researchers have found. Gambling disorder (GD) is in the category of substance use disorder (SUD), but this study suggested that GD itself increases mental health problems.",
   "url": "https://doi.org/10.1002/adaw.35089",
-  "oa_url": null,
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adaw.35089",
   "sources": [
    "openalex"
   ],
@@ -1851,12 +1969,12 @@
    "middle-east"
   ],
   "countries": [
-   "IR",
-   "AU"
+   "AU",
+   "IR"
   ],
   "regions": [
-   "middle-east",
-   "australia-nz"
+   "australia-nz",
+   "middle-east"
   ],
   "language": "en",
   "relevance": "high",
@@ -1993,8 +2111,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": null,
   "relevance": "high",
   "retracted": false
@@ -2243,12 +2365,8 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [
-   "BD"
-  ],
-  "regions": [
-   "asia"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -2297,11 +2415,13 @@
   ],
   "countries": [
    "HK",
-   "GB"
+   "GB",
+   "BE"
   ],
   "regions": [
    "asia",
-   "uk-ireland"
+   "uk-ireland",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -2917,7 +3037,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-25",
+  "published": "2026-10-26",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -3195,12 +3315,8 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [
-   "ID"
-  ],
-  "regions": [
-   "asia"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "id",
   "relevance": "high",
   "retracted": false
@@ -3253,15 +3369,18 @@
   "title": "Understanding sports betting as an emerging behavioral addiction among young men in Ethiopia",
   "journal": "medRxiv",
   "authors": [
-   "Mesay Teshome",
-   "Beakal Amare",
-   "Awoke M Sisaye"
+   "Teshome",
+   "M.",
+   "Amare",
+   "B.",
+   "Sisaye",
+   "A. M."
   ],
   "published": "2026-10-02",
   "year": 2026,
-  "created": "2026-10-03",
+  "created": "2026-10-02",
   "first_seen": "2026-10-16",
-  "summary": "ABSTRACT Background Sports betting is one of the most popular, rapidly evolving, and attractive forms of gambling. It is associated with an increased risk of gambling-related harms like relationship difficulties, crime, and physical and mental health problems …",
+  "summary": "BackgroundSports betting is one of the most popular, rapidly evolving, and attractive forms of gambling. It is associated with an increased risk of gambling-related harms like relationship difficulties, crime, and physical and mental health problems …",
   "url": "https://doi.org/10.64898/2026.10.01.26363633",
   "oa_url": "https://www.medrxiv.org/content/medrxiv/early/2026/10/02/2026.10.01.26363633.full.pdf",
   "sources": [
@@ -3283,12 +3402,8 @@
   "setting_regions": [
    "africa"
   ],
-  "countries": [
-   "ET"
-  ],
-  "regions": [
-   "africa"
-  ],
+  "countries": [],
+  "regions": [],
   "language": null,
   "relevance": "high",
   "retracted": false
@@ -3392,21 +3507,13 @@
   "openalex": "W7162070838",
   "title": "Online Sports Betting and Financial Trading in Young Adults: A Qualitative Exploration of Problem Gambling and Behavioral Change to Guide Treatment Development",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Jennifer J. Park",
-   "Li Yan McCurdy",
-   "Jennifer M. Loya",
-   "Melissa A Gordon",
-   "Krysten W. Bold",
-   "Brian D. Kiluk",
-   "Marc Nicholas Potenza"
-  ],
+  "authors": [],
   "published": "2026-05-01",
   "year": 2026,
-  "created": "2026-05-23",
+  "created": null,
   "first_seen": "2026-10-16",
   "summary": "Publication date: Available online 22 May 2026 Source: Cognitive and Behavioral Practice Author(s): Jennifer J. Park, Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
-  "url": "https://doi.org/10.1016/j.cbpra.2026.05.003",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000611?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
    "feed:cbp",
@@ -3424,13 +3531,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -3442,17 +3545,13 @@
   "openalex": "W7162319051",
   "title": "Cognitive-Behavioral Therapy for Gambling Disorder: Current Status and Future Directions",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Rory A. Pfund",
-   "Simone N. Rodda",
-   "Jeremiah Weinstock"
-  ],
+  "authors": [],
   "published": "2026-05-01",
   "year": 2026,
-  "created": "2026-05-26",
+  "created": null,
   "first_seen": "2026-10-16",
   "summary": "Publication date: Available online 25 May 2026 Source: Cognitive and Behavioral Practice Author(s): Rory A. Pfund, Simone N. Rodda, Jeremiah Weinstock",
-  "url": "https://doi.org/10.1016/j.cbpra.2026.05.006",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000623?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
    "feed:cbp",
@@ -3466,15 +3565,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US",
-   "NZ"
-  ],
-  "regions": [
-   "us",
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -3486,18 +3579,13 @@
   "openalex": "W7151405769",
   "title": "Seeking Safety: A Clinical Guide to Implementation for Gambling Disorder",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Lisa M. Najavits",
-   "Marsha Harris",
-   "Melissa J. Muir",
-   "David M. Ledgerwood"
-  ],
+  "authors": [],
   "published": "2026-04-01",
   "year": 2026,
-  "created": "2026-04-08",
+  "created": null,
   "first_seen": "2026-10-16",
   "summary": "Publication date: Available online 7 April 2026 Source: Cognitive and Behavioral Practice Author(s): Lisa M. Najavits, Marsha Harris, Melissa J. Muir, David M. Ledgerwood",
-  "url": "https://doi.org/10.1016/j.cbpra.2026.04.002",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000374?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
    "feed:cbp",
@@ -3509,15 +3597,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US",
-   "CA"
-  ],
-  "regions": [
-   "us",
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -3529,21 +3611,13 @@
   "openalex": "W7151272456",
   "title": "Perspectives of Treatment Providers and Individuals Who Experienced Problem Gambling on Useful Cognitive-Behavioral Approaches for Sustained Recovery",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Li Yan McCurdy",
-   "Jennifer M. Loya",
-   "Melissa A Gordon",
-   "Jennifer J. Park",
-   "Krysten W. Bold",
-   "Brian D. Kiluk",
-   "Marc Nicholas Potenza"
-  ],
+  "authors": [],
   "published": "2026-04-01",
   "year": 2026,
-  "created": "2026-04-08",
+  "created": null,
   "first_seen": "2026-10-16",
   "summary": "Publication date: Available online 7 April 2026 Source: Cognitive and Behavioral Practice Author(s): Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Jennifer J. Park, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
-  "url": "https://doi.org/10.1016/j.cbpra.2026.04.001",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000362?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
    "feed:cbp",
@@ -3557,13 +3631,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -3767,7 +3837,7 @@
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-15",
-  "summary": "Abstract Background Psychometric network analysis offers a granular understanding of problem gambling (PG) by modeling individual symptoms within an interconnected system. Identifying central symptoms can help explain symptom co-occurrence and core symptoms relevant for escalating severity …",
+  "summary": "Psychometric network analysis offers a granular understanding of problem gambling (PG) by modeling individual symptoms within an interconnected system. Identifying central symptoms can help explain symptom co-occurrence and core symptoms relevant for escalating severity …",
   "url": "https://doi.org/10.1192/j.eurpsy.2026.12261",
   "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ECE02B04C3E8F019BAD97503E955A4D1/S0924933826122615a.pdf/div-class-title-undirected-and-directed-networks-of-problem-gambling-follow-the-money-trail-div.pdf",
   "sources": [
@@ -3791,12 +3861,12 @@
    "europe"
   ],
   "countries": [
-   "NO",
-   "GB"
+   "GB",
+   "NO"
   ],
   "regions": [
-   "europe",
-   "uk-ireland"
+   "uk-ireland",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -3991,13 +4061,14 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "ES",
    "AU",
-   "HU"
+   "ES",
+   "HU",
+   "GI"
   ],
   "regions": [
-   "europe",
-   "australia-nz"
+   "australia-nz",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -4320,7 +4391,7 @@
  },
  {
   "id": "doi:10.12688/wellcomeopenres.25913.2",
-  "doi": "10.12688/wellcomeopenres.25913.1",
+  "doi": "10.12688/wellcomeopenres.25913.2",
   "pmid": "42865342",
   "pmcid": "PMC13654074",
   "openalex": "W7128912967",
@@ -4331,13 +4402,13 @@
    "Jane West",
    "John Pickavance"
   ],
-  "published": "2026-02-14",
+  "published": "2026-08-17",
   "year": 2026,
-  "created": "2026-02-15",
+  "created": "2026-10-13",
   "first_seen": "2026-10-13",
   "summary": "Gambling among young people is a public health concern, and gambling-like mechanics in digital games (e.g., loot boxes) may increase exposure. We estimated the prevalence of traditional gambling and gambling-like online behaviours among adolescents in Bradford …",
-  "url": "https://doi.org/10.12688/wellcomeopenres.25913.1",
-  "oa_url": "https://doi.org/10.12688/wellcomeopenres.25913.1",
+  "url": "https://doi.org/10.12688/wellcomeopenres.25913.2",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13654074/",
   "sources": [
    "openalex",
    "pubmed"
@@ -4853,7 +4924,7 @@
   ],
   "published": "2026-10-08",
   "year": 2026,
-  "created": "2026-10-10",
+  "created": "2026-10-09",
   "first_seen": "2026-10-10",
   "summary": "The present study analyzed the polymorphism of the dopamine receptor gene DRD4, which is widely described in the literature as being associated with sensation seeking. Gambling disorder (GD) shares similar biological mechanisms and symptoms with substance use disorders (SUD). Therefore, a behavioral addiction group was selected for this study …",
   "url": "https://doi.org/10.12740/pp/205179",
@@ -4890,16 +4961,16 @@
   "title": "Exploring the relationships between problem and responsible gambling behaviors across time",
   "journal": "Addictive Behaviors",
   "authors": [
-   "Alexander J Connolly",
-   "Kristiana D Carrasquillo",
-   "Shane W Kraus",
-   "Joshua B Grubbs"
+   "Alexander J. Connolly",
+   "Kristiana D. Carrasquillo",
+   "Shane Winfield Kraus",
+   "Joshua Briggs Grubbs"
   ],
   "published": "2026-10-08",
   "year": 2026,
-  "created": "2026-10-10",
+  "created": "2026-10-09",
   "first_seen": "2026-10-10",
-  "summary": "Recent legislative and technological changes have transformed the gambling landscape in the United States, underscoring the need to better understand both problem gambling and responsible gambling behaviors …",
+  "summary": "Publication date: February 2027 Source: Addictive Behaviors, Volume 185 Author(s): Alexander J. Connolly, Kristiana D. Carrasquillo, Shane W. Kraus, Joshua B. Grubbs",
   "url": "https://doi.org/10.1016/j.addbeh.2026.108873",
   "oa_url": null,
   "sources": [
@@ -4909,17 +4980,12 @@
   ],
   "type": "article",
   "topics": [
-   "prevention",
-   "measurement"
+   "prevention"
   ],
   "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "US"
-  ],
-  "setting_regions": [
-   "us"
-  ],
+  "settings": [],
+  "setting_regions": [],
   "countries": [
    "US"
   ],
@@ -5010,12 +5076,10 @@
    "australia-nz"
   ],
   "countries": [
-   "AU",
-   "CA"
+   "AU"
   ],
   "regions": [
-   "australia-nz",
-   "canada"
+   "australia-nz"
   ],
   "language": "en",
   "relevance": "high",
@@ -5253,11 +5317,11 @@
    "Virve Marionneau",
    "Sara Havuaho",
    "Nina Jokirinne",
-   "Aino Lahtinen"
+   "Aino E Lahtinen"
   ],
   "published": "2026-10-08",
   "year": 2026,
-  "created": "2026-10-08",
+  "created": "2026-10-09",
   "first_seen": "2026-10-08",
   "summary": "Indebtedness is prevalent among people with gambling problems. However, little research has focused on socio-demographic characteristics and gambling consumption patterns of individuals who finance their gambling with loans …",
   "url": "https://doi.org/10.1177/14034948261488598",
@@ -5432,16 +5496,16 @@
   "pmid": "42842901",
   "pmcid": null,
   "openalex": "W7220837624",
-  "title": "Clinical Trial Prediction Markets - Information, at What Cost?",
-  "journal": "The New England journal of medicine",
+  "title": "Clinical Trial Prediction Markets — Information, at What Cost?",
+  "journal": "New England Journal of Medicine",
   "authors": [
    "Matthew Vogel",
-   "Rona Yaeger",
-   "Olivier J Wouters"
+   "Yaeger Rona",
+   "Olivier J. Wouters"
   ],
   "published": "2026-10-07",
   "year": 2026,
-  "created": "2026-10-07",
+  "created": "2026-10-08",
   "first_seen": "2026-10-07",
   "summary": "",
   "url": "https://doi.org/10.1056/nejmp2610547",
@@ -5487,7 +5551,7 @@
   ],
   "published": "2026-10-06",
   "year": 2026,
-  "created": "2026-10-07",
+  "created": "2026-10-06",
   "first_seen": "2026-10-07",
   "summary": "Abstract Background Disordered gambling has been linked to impairments in goal-directed (model-based) control and reinforcement learning …",
   "url": "https://doi.org/10.1556/2006.2025.00424",
@@ -5644,10 +5708,12 @@
    "asia"
   ],
   "countries": [
+   "SE",
    "UZ",
    "KZ"
   ],
   "regions": [
+   "europe",
    "asia"
   ],
   "language": "en",
@@ -5702,6 +5768,65 @@
   ],
   "language": "en",
   "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3917/spub.263.0279",
+  "doi": "10.3917/spub.263.0279",
+  "pmid": "42838904",
+  "pmcid": null,
+  "openalex": "W7220728411",
+  "title": "Troubles liés à l’usage des jeux de hasard et d’argent chez les adolescents et jeunes adultes en Afrique subsaharienne : analyse exploratoire de la prévalence et des facteurs associés en milieu universitaire au Bénin, 2025",
+  "journal": "Santé Publique",
+  "authors": [
+   "Chabi Olaniran Alphonse Biaou",
+   "Lamidhi Salami",
+   "Yolaine Glèlè Ahanhanzo",
+   "Blaise Choki",
+   "Christian Dari",
+   "Antoine Gbessemehlan",
+   "Bignon Dominique Gnimavo",
+   "Smaïla Ouédraogo",
+   "N’koué Emmanuel Sambieni",
+   "Moussiliou Noël Paraïso"
+  ],
+  "published": "2026-10-05",
+  "year": 2026,
+  "created": "2026-10-07",
+  "first_seen": "2026-10-06",
+  "summary": "Gambling is growing at an alarming rate in Benin, particularly among students. This population, seeking independence and success, is especially vulnerable to the risks of disorders associated with these practices. AIM OF THE STUDY: to determine the prevalence of, and identify factors associated with disorders related to gambling in universities in Benin …",
+  "url": "https://doi.org/10.3917/spub.263.0279",
+  "oa_url": "https://stm.cairn.info/article/SPUB_263_0279/pdf?lang=fr",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "BJ"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [
+   "BJ",
+   "FR",
+   "BF"
+  ],
+  "regions": [
+   "africa",
+   "europe"
+  ],
+  "language": "fr",
+  "relevance": "high",
   "retracted": false
  },
  {
@@ -5842,68 +5967,6 @@
   "retracted": false
  },
  {
-  "id": "doi:10.3917/spub.263.0279",
-  "doi": "10.3917/spub.263.0279",
-  "pmid": "42838904",
-  "pmcid": null,
-  "openalex": "W7220728411",
-  "title": "[Gambling-related disorders among adolescents and young adults in sub-Saharan Africa: An exploratory analysis of prevalence and associated factors in university settings in Benin, 2025]",
-  "journal": "Sante Publique",
-  "authors": [
-   "Chabi Olaniran Alphonse Biaou",
-   "Lamidhi Salami",
-   "Yolaine Glele Ahanhanzo",
-   "Blaise Choki",
-   "Christian Dari",
-   "Antoine Gbessemehlan",
-   "Bignon Dominique Gnimavo",
-   "Smaïla Ouédraogo",
-   "N'koué Emmanuel Sambieni",
-   "Moussiliou Noël Paraïso"
-  ],
-  "published": "2026-01-01",
-  "year": 2026,
-  "created": "2026-10-06",
-  "first_seen": "2026-10-06",
-  "summary": "Gambling is growing at an alarming rate in Benin, particularly among students. This population, seeking independence and success, is especially vulnerable to the risks of disorders associated with these practices. Aim Of The Study: to determine the prevalence of, and identify factors associated with disorders related to gambling in universities in Benin …",
-  "url": "https://doi.org/10.3917/spub.263.0279",
-  "oa_url": "https://stm.cairn.info/article/SPUB_263_0279/pdf?lang=fr",
-  "sources": [
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "youth",
-   "prevalence"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "BJ"
-  ],
-  "setting_regions": [
-   "africa"
-  ],
-  "countries": [
-   "BJ",
-   "TN",
-   "FR",
-   "BF"
-  ],
-  "regions": [
-   "africa",
-   "middle-east",
-   "europe"
-  ],
-  "language": "fr",
-  "relevance": "high",
-  "retracted": false
- },
- {
   "id": "doi:10.1007/s10899-026-10562-8",
   "doi": "10.1007/s10899-026-10562-8",
   "pmid": "42832005",
@@ -6012,14 +6075,14 @@
   "title": "Nudging the uptake of responsible gambling tools among land-based casino players: A randomized controlled trial assessing the utility of incentivization",
   "journal": "Psychology of Addictive Behaviors",
   "authors": [
-   "Michael J A Wohl",
-   "Amy C Ortis",
-   "Christopher G Davis",
+   "Michael J. A. Wohl",
+   "Amy Ortis",
+   "Christopher G. Davis",
    "Nassim Tabri"
   ],
   "published": "2026-10-05",
   "year": 2026,
-  "created": "2026-10-05",
+  "created": "2026-10-06",
   "first_seen": "2026-10-05",
   "summary": "To test whether a modest incentive increases uptake of a responsible gambling deposit-limit tool among land-based casino players using a digital wallet for electronic gaming machine play and whether reward sensitivity or disordered gambling symptomatology moderates this effect.Method: Participants were 314 U.S …",
   "url": "https://doi.org/10.1037/adb0001193",
@@ -6067,16 +6130,16 @@
   "journal": "European Archives of Psychiatry and Clinical Neuroscience",
   "authors": [
    "Lisa Jil Krause",
-   "Ronald Fischer",
+   "Ronald D. Fischer",
    "Falk Kiefer",
    "Tagrid Leménager",
    "Patrick Bach"
   ],
   "published": "2026-10-05",
   "year": 2026,
-  "created": "2026-10-05",
+  "created": "2026-10-06",
   "first_seen": "2026-10-05",
-  "summary": "Rationale: Over the last 30 years, the global incidence and prevalence of gambling disorder (GD) have risen, with particularly high risk associated with slot machine gambling. Win-contingent audiovisual stimuli are considered a key mechanism that may promote risky decision-making during gambling …",
+  "summary": "RATIONALE: Over the last 30 years, the global incidence and prevalence of gambling disorder (GD) have risen, with particularly high risk associated with slot machine gambling. Win-contingent audiovisual stimuli are considered a key mechanism that may promote risky decision-making during gambling …",
   "url": "https://doi.org/10.1007/s00406-026-02396-7",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s00406-026-02396-7.pdf",
   "sources": [
@@ -6709,7 +6772,7 @@
   "title": "THE WORLD CUP and New York KNICKS MAKE DYNAMIC IMPACTS ON U.S. Sportsbooks IN JUNE",
   "journal": "Gaming Law Review",
   "authors": [
-   "Chris Altruda"
+   "Chris AltrudaChris Altruda is at the Straight to the Point Substack, Springfield, IL, USA."
   ],
   "published": "2026-10-01",
   "year": 2026,
@@ -6734,13 +6797,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6906,12 +6965,7 @@
   "openalex": "W7215029775",
   "title": "From Delay Discounting to Gambling Harm: Gambling-related Cognitive Distortions as Mediating Pathways",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Marija Stanković",
-   "Predrag Teovanović",
-   "Saša R Filipović",
-   "Jovana Bjekić"
-  ],
+  "authors": [],
   "published": "2026-10-01",
   "year": 2026,
   "created": "2026-10-01",
@@ -6935,13 +6989,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "RS"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -7167,10 +7217,7 @@
   "openalex": "W7214915687",
   "title": "When Entertainment Normalizes Risk: Affective Engagement with Gambling-Themed Media, Permissive Attitudes, and Casino Visit Intention",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Yoonjae Nam",
-   "Jiwon Park"
-  ],
+  "authors": [],
   "published": "2026-09-30",
   "year": 2026,
   "created": "2026-09-30",
@@ -7196,13 +7243,9 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [
-   "KR"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -7602,6 +7645,44 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1177/25725300261487889",
+  "doi": "10.1177/25725300261487889",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7214786007",
+  "title": "WHEN LEGALIZATION PRECEDES REGULATION: REGULATORY TIMING AND THE DEVELOPMENT OF SPORTS BETTING MARKETS",
+  "journal": "Gaming Law Review",
+  "authors": [
+   "Felipe Coelho SigristFelipe Coelho Sigrist is a Post-doc Researcher at Escola Superior de Agricultura “Luiz de Queiroz” (ESALQ/USP), Piracicaba, Brazil."
+  ],
+  "published": "2026-09-29",
+  "year": 2026,
+  "created": "2026-09-29",
+  "first_seen": "2026-09-29",
+  "summary": "Gaming Law Review, Ahead of Print. Governments increasingly face the challenge of regulating newly legalized markets while simultaneously protecting consumers and mitigating social harms. While existing research has focused primarily on the design of regulatory instruments, comparatively ...",
+  "url": "https://doi.org/10.1177/25725300261487889",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:glr",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1111/ans.70991",
   "doi": "10.1111/ans.70991",
   "pmid": "42810970",
@@ -7648,52 +7729,6 @@
   ],
   "language": "en",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.1177/25725300261487889",
-  "doi": "10.1177/25725300261487889",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7214786007",
-  "title": "WHEN LEGALIZATION PRECEDES REGULATION: REGULATORY TIMING AND THE DEVELOPMENT OF SPORTS BETTING MARKETS",
-  "journal": "Gaming Law Review",
-  "authors": [
-   "Felipe Coelho Sigrist"
-  ],
-  "published": "2026-09-28",
-  "year": 2026,
-  "created": "2026-09-29",
-  "first_seen": "2026-09-29",
-  "summary": "Governments increasingly face the challenge of regulating newly legalized markets while simultaneously protecting consumers and mitigating social harms. While existing research has focused primarily on the design of regulatory instruments, comparatively little attention has been devoted to the consequences of delaying regulation after legalization …",
-  "url": "https://doi.org/10.1177/25725300261487889",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:glr",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "sports-betting",
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "BR"
-  ],
-  "setting_regions": [
-   "latin-america"
-  ],
-  "countries": [
-   "BR"
-  ],
-  "regions": [
-   "latin-america"
-  ],
-  "language": "en",
-  "relevance": "high",
   "retracted": false
  },
  {
@@ -7929,13 +7964,13 @@
   "pmid": "42802649",
   "pmcid": null,
   "openalex": "W7214616014",
-  "title": "System-frame approaches are the frontline against the illegal gambling market",
+  "title": "System‐frame approaches are the frontline against the illegal gambling market",
   "journal": "Addiction",
   "authors": [
    "Simon Dymond",
    "Jamie Torrance"
   ],
-  "published": "2026-09-27",
+  "published": "2026-09-28",
   "year": 2026,
   "created": "2026-09-28",
   "first_seen": "2026-09-28",
@@ -7953,15 +7988,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB",
-   "IS"
-  ],
-  "regions": [
-   "uk-ireland",
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -8276,58 +8305,6 @@
   "retracted": false
  },
  {
-  "id": "doi:10.1016/j.addbeh.2026.108869",
-  "doi": "10.1016/j.addbeh.2026.108869",
-  "pmid": "42801890",
-  "pmcid": null,
-  "openalex": "W7214094545",
-  "title": "Early maladaptive schemas and four problematic excessive behaviors: Cross-sectional indirect associations involving desire thinking and craving",
-  "journal": "Addictive Behaviors",
-  "authors": [
-   "Mehdi Akbari",
-   "Ali Khaki",
-   "Shahram Mohammadkhani",
-   "Mark D Griffiths"
-  ],
-  "published": "2026-09-23",
-  "year": 2026,
-  "created": "2026-09-27",
-  "first_seen": "2026-09-27",
-  "summary": "Problematic gambling, problematic gaming, problematic social media use, and problematic pornography use differ in nosological status but may share some psychological correlates …",
-  "url": "https://doi.org/10.1016/j.addbeh.2026.108869",
-  "oa_url": null,
-  "sources": [
-   "feed:addictive-behaviors",
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "cognition"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "IR"
-  ],
-  "setting_regions": [
-   "middle-east"
-  ],
-  "countries": [
-   "IR",
-   "GB"
-  ],
-  "regions": [
-   "middle-east",
-   "uk-ireland"
-  ],
-  "language": "en",
-  "relevance": "low",
-  "retracted": false
- },
- {
   "id": "doi:10.29210/1228300",
   "doi": "10.29210/1228300",
   "pmid": null,
@@ -8470,16 +8447,13 @@
   "title": "The gambling environment and gambling problems in Western Australia",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Buly A. Cardak",
-   "Nicola Thomas",
-   "Charles Livingstone",
-   "Heng Jiang"
+   "Buly A. Cardak Nicola Thomas Charles Livingstone Heng Jiang a La Trobe Business School, La Trobe University, Melbourne, Australiab School of Business, Charles Sturt University, Albury, Australiac School of Public Health & Preventive Medicine, Monash University, Melbourne, Australiad School of Psychology and Public Health, La Trobe University, Melbourne, Australiae Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Australia"
   ],
   "published": "2026-09-25",
   "year": 2026,
-  "created": "2026-09-26",
+  "created": "2026-09-25",
   "first_seen": "2026-09-25",
-  "summary": "Background Gambling-related harm is a widely recognized global public health challenge, yet comparatively little work has examined how differences in gambling environments relate to patterns of gambling behavior and harm …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2733842",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2733842?needAccess=true",
   "sources": [
@@ -8487,14 +8461,8 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "lottery",
-   "casino",
-   "policy"
-  ],
-  "designs": [
-   "survey"
-  ],
+  "topics": [],
+  "designs": [],
   "design_basis": "rules",
   "settings": [
    "AU"
@@ -8502,13 +8470,9 @@
   "setting_regions": [
    "australia-nz"
   ],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -9010,6 +8974,57 @@
   "retracted": false
  },
  {
+  "id": "doi:10.62641/aep.2380",
+  "doi": "10.62641/aep.2380",
+  "pmid": "42928671",
+  "pmcid": null,
+  "openalex": "W7214057251",
+  "title": "Emotional and Decisional Profiles in Individuals With Gambling Disorder: Associations With Emotional Dysregulation, Alexithymia, and Suicidal Ideation",
+  "journal": "Actas Espanolas de Psiquiatria",
+  "authors": [
+   "Sara Meca",
+   "Maragda Puigcerver",
+   "Noemí SanMiguel",
+   "Miguel-Angel Serrano"
+  ],
+  "published": "2026-10-15",
+  "year": 2026,
+  "created": "2026-10-26",
+  "first_seen": "2026-09-23",
+  "summary": "Gambling Disorder (GD) is associated with elevated emotional dysregulation, maladaptive decision-making, and heightened suicide risk, yet the relationships among these domains remain insufficiently integrated within a single clinical framework …",
+  "url": "https://doi.org/10.62641/aep.2380",
+  "oa_url": "https://actaspsiquiatria.es/index.php/actas/article/download/2380/3003",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "policy",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.55606/jupikom.v5i3.7990",
   "doi": "10.55606/jupikom.v5i3.7990",
   "pmid": null,
@@ -9102,20 +9117,12 @@
   "openalex": "W7214094123",
   "title": "Financial Determinants and Beliefs About Gambling Control: A Cross-National Structural Model of Problem Gambling Severity",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Chiara Barone",
-   "Michele Paleologo",
-   "Benedetta Cesti",
-   "Virginia Attisani",
-   "Rebecca Losi",
-   "Stefano De Vita",
-   "Guendalina Graffigna"
-  ],
+  "authors": [],
   "published": "2026-09-23",
   "year": 2026,
   "created": "2026-09-23",
   "first_seen": "2026-09-23",
-  "summary": "Abstract Gambling-related harm is increasingly recognized as a public health concern, yet the role of financial factors in problem gambling remains insufficiently understood. This study examined the associations of financial knowledge, risk-oriented financial behaviour, prudent financial attitudes, and financial anxiety with problem gambling severity …",
+  "summary": "Gambling-related harm is increasingly recognized as a public health concern, yet the role of financial factors in problem gambling remains insufficiently understood. This study examined the associations of financial knowledge, risk-oriented financial behaviour, prudent financial attitudes, and financial anxiety with problem gambling severity …",
   "url": "https://doi.org/10.1007/s10899-026-10553-9",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10553-9.pdf",
   "sources": [
@@ -9139,63 +9146,9 @@
    "europe",
    "uk-ireland"
   ],
-  "countries": [
-   "IT"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.62641/aep.2380",
-  "doi": "10.62641/aep.2380",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7214057251",
-  "title": "Emotional and Decisional Profiles in Individuals With Gambling Disorder: Associations With Emotional Dysregulation, Alexithymia, and Suicidal Ideation",
-  "journal": "Actas Españolas de Psiquiatría",
-  "authors": [
-   "Sara Meca",
-   "María Paz Villegas Pérez",
-   "Noemí San Miguel",
-   "Miguel Ángel Serrano"
-  ],
-  "published": "2026-09-23",
-  "year": 2026,
-  "created": "2026-09-23",
-  "first_seen": "2026-09-23",
-  "summary": "Gambling Disorder (GD) is associated with elevated emotional dysregulation, maladaptive decision-making, and heightened suicide risk, yet the relationships among these domains remain insufficiently integrated within a single clinical framework …",
-  "url": "https://doi.org/10.62641/aep.2380",
-  "oa_url": "https://actaspsiquiatria.es/index.php/actas/article/download/2380/3003",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "policy",
-   "cognition",
-   "comorbidity"
-  ],
-  "designs": [
-   "experiment"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "US"
-  ],
-  "setting_regions": [
-   "us"
-  ],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -10067,12 +10020,7 @@
   "openalex": "W7213555420",
   "title": "Predictors of Hospitalization Among Patients with Gambling Disorder: a Retrospective Matched Case–Control Study",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Ovidiu Tatar",
-   "Sharmin Sharker",
-   "Christophe Huỳnh",
-   "Marie‐Josée Fleury"
-  ],
+  "authors": [],
   "published": "2026-09-18",
   "year": 2026,
   "created": "2026-09-18",
@@ -10098,13 +10046,9 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -10437,22 +10381,16 @@
   "pmid": "42757294",
   "pmcid": "PMC13585047",
   "openalex": "W7164764029",
-  "title": "Affect Regulation Motives for Gambling and Gambling Engagement: A Two-Year Random-Intercept Cross-Lagged Panel Model",
+  "title": "Affect regulation motives for gambling and gambling engagement: a two-year Random-Intercept Cross-Lagged Panel Model",
   "journal": "International Gambling Studies",
   "authors": [
-   "Joshua B Grubbs",
-   "Alexander Connolly",
-   "Christopher G Floyd",
-   "Kristiana D Carrasquillo",
-   "Taylor Mick Keck",
-   "Alexander L Montoya",
-   "Shane W Kraus"
+   "Joshua B. Grubbs Alexander Connolly Christopher G. Floyd Kristiana D. Carrasquillo Taylor Mick-Keck Alexander L. Montoya Shane W. Kraus a Department of Psychology, Center on Alcohol, Substance Use, and Addictions, University of New Mexico, Albuquerque, NM, USAb Department of Psychology, Bowling Green State University, Bowling Green, OH, USAc Department of Psychology, University of New Mexico, Albuquerque, NM, USAd Department of Psychology, University of Nevada, Las Vegas, NV, USAJoshua Grubbs, Ph.D., is an Associate Professor in the Department of Psychology and an investigator in the Center on Alcohol, Substance use, and Addictions (CASAA) at the University of New Mexico. Dr Grubbs also directs the Behavioral Addiction And Associated Disorders Lab (BAAAD Lab) in the clinical science program in the Department of Psychology. In these roles, Grubbs studies the so-called “behavioral addictions,” such as compulsive sexual behavior disorder, gambling disorder, and a dysregulated pornography use. He is especially interested in the social construction of addiction and understanding how social and moral contexts lead people feel out of control in their behavior. Additionally, he has an established research program in the study of antagonistic and impulsive personality traits. Across these programs of research, he has published over 170 peer-reviewed journal articles, dozens of editorials, commentaries, and book chapters, and numerous articles for popular press.Alexander Connolly, M.A., is a doctoral candidate in the clinical science Ph.D. program within the Department of Psychology at the University of New Mexico. He is also a T32 trainee at the Center on Alcohol, Substance use, And Addictions. To date, he has published several articles related to gambling behavior, particularly among sports gambling individuals. He is especially interested in the roles that confidence, knowledge, and expertise play in predicting gambling related outcomes.Christopher G. Floyd, M.A, is a doctoral candidate at Bowling Green State University. He has published over 20 peer reviewed papers related to various behavioral addictions, including compulsive sexual behavior disorder and gambling disorder. He is especially interested in the manners in which gambling motives interact with life circumstances to predict gambling related harms.Kristiana D. Carrasquillo is a doctoral student in the clinical science Ph.D. program within the Department of Psychology at the University of New Mexico. She is especially interested in the overlap between behavioral addictions, such as gambling disorder, and substance use disorders, as well as the barriers to care experienced by various communities suffering from addiction.Taylor Mick-Keck, B.A., is a post-baccalaureate research assistant in the BAAAD Lab at the University of New Mexico.Alexander L. Montoya is an undergraduate research assistant in the BAAAD Lab at the University of New Mexico.Shane W. Kraus is a licensed clinical psychologist and expert in veteran health, psychopathology (the study of mental or behavioral disorders), sexual trauma, substance use disorders, gambling disorders, addictions, and compulsive sexual behavior disorder (CSBD). He is the director of the UNLV Behavioral Addictions Lab, and a professor of psychology with UNLV’s Department of Psychology as well as the Department of Psychiatry and Behavioral Health at UNLV’s Kirk Kerkorian School of Medicine. Kraus uses behavioral, epidemiological, and neurobiological methods to assess factors that contribute to the development of addictive behaviors and other co-occurring psychiatric disorders among at-risk groups such as Veterans of the U.S. Armed Forces. He has published extensively on sexual behavior and was part of the World Health Organization working group who put forth the diagnostic criteria for CSBD for ICD-11. His gambling research is also exploring effective screening approaches for identifying individuals with problem gambling."
   ],
   "published": "2026-06-14",
   "year": 2026,
-  "created": "2026-09-18",
+  "created": "2026-06-14",
   "first_seen": "2026-09-18",
-  "summary": "The present study investigated how affect regulation motives for gambling relate to gambling frequency over a two-year period, with particular attention to differences between individuals who gamble on sports and those who gamble but not on sports …",
+  "summary": "Volume 26, Issue 2, August 2026, Page 257-276 .",
   "url": "https://doi.org/10.1080/14459795.2026.2683629",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13585047/",
   "sources": [
@@ -10462,22 +10400,16 @@
    "pubmed"
   ],
   "type": "article",
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "designs": [
    "longitudinal"
   ],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -10489,16 +10421,10 @@
   "openalex": "W7213506570",
   "title": "Financial Hardship and Problem Gambling Severity Among Young South Koreans: A Conditional Strain Model",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Pansoo Kim",
-   "Keungeun Lee",
-   "WooJin Kang",
-   "Gangheong Lee",
-   "Saerom Lee"
-  ],
+  "authors": [],
   "published": "2026-09-18",
   "year": 2026,
-  "created": "2026-09-17",
+  "created": "2026-09-18",
   "first_seen": "2026-09-17",
   "summary": "Commercial gambling has become increasingly digitized and normalized, placing young adults in frequent contact with betting and other reward-oriented spending opportunities through mobile environments. Understanding gambling-related harm therefore requires attention to the economic and psychological conditions surrounding young adults …",
   "url": "https://doi.org/10.1007/s10899-026-10556-6",
@@ -10525,13 +10451,9 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [
-   "KR"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -11374,18 +11296,12 @@
   "openalex": "W7213363120",
   "title": "A Gambling Financial Harm Screener (GFHS) for Payment Institutions: Multi-Method Development and Preliminary Validation",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Nathan Lakew",
-   "Jakob Jonsson",
-   "Joakim Abdinur Iusuf",
-   "Kasra Ghaharian",
-   "Philip Lindner"
-  ],
+  "authors": [],
   "published": "2026-09-15",
   "year": 2026,
   "created": "2026-09-15",
   "first_seen": "2026-09-15",
-  "summary": "Abstract Disordered gambling, a form of behavioral addiction characterized by persistent gambling despite harmful consequences, is inherently associated with financial harm …",
+  "summary": "Disordered gambling, a form of behavioral addiction characterized by persistent gambling despite harmful consequences, is inherently associated with financial harm …",
   "url": "https://doi.org/10.1007/s10899-026-10555-7",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10555-7.pdf",
   "sources": [
@@ -11403,15 +11319,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "SE",
-   "US"
-  ],
-  "regions": [
-   "europe",
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -11849,10 +11759,7 @@
   "title": "Sports context and adolescent gambling: football participation as a risk environment",
   "journal": "International Gambling Studies",
   "authors": [
-   "Daniel Lloret-Irles",
-   "Manuel Isorna Folgar",
-   "Víctor Cabrera-Perona",
-   "Víctor José Villanueva-Blasco"
+   "Daniel Lloret-Irles Manuel Isorna Folgar Víctor Cabrera-Perona Víctor José Villanueva-Blasco a Department of Health Psychology, Miguel Hernández University of Elche, Spainb Department of Psycho-Socioeducational Analysis and Intervention, University of Vigo, Spainc Faculty of Health Science, International University of Valencia, SpainDaniel Lloret-Irles is a professor in the department of health psychology at Miguel Hernández University of Elche (Spain). His research primarily focuses on gambling behaviors and other addictive disorders, with particular emphasis on adolescent populations, psychosocial risk factors, and prevention strategies. He has contributed extensively to the study of gambling-related harms, including the role of social, cognitive, and contextual influences in the development of problematic gambling.Manuel Isorna Folgar is a professor in the department of psycho-socioeducational analysis and intervention at the University of Vigo (Spain). His research focuses on addictive behaviors, particularly gambling and substance use in adolescent populations, with an emphasis on prevention, psychosocial risk factors, and intervention in educational and community contexts. He has extensive experience in applied research and the development of prevention programs targeting youth risk behaviors.Víctor Cabrera-Perona is a researcher in the department of health psychology at Miguel Hernández University of Elche (Spain). His work centers on adolescent health, risk behaviors, and the psychological and social factors associated with gambling and other addictive behaviors, particularly in educational and sport contexts.Víctor José Villanueva-Blasco is a researcher at the International University of Valencia (Spain). His research interests include behavioral addictions, adolescent health, and the relationship between lifestyle factors – such as physical activity and digital behaviors – and risk behaviors, including gambling. His work adopts a multidisciplinary perspective integrating psychological and public health approaches."
   ],
   "published": "2026-09-11",
   "year": 2026,
@@ -11874,13 +11781,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12227,16 +12130,13 @@
   "title": "Public perceptions of gambling in the UK Armed Forces: understanding stigma via qualitative inquiry",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Jessica Smith",
-   "Samantha Treacy",
-   "Simon Dymond",
-   "Jamie Torrance"
+   "Jessica Smith Samantha Treacy Simon Dymond Jamie Torrance a GREAT Centre, School of Psychology, Swansea University, Swansea, UKb Department of Psychology, Reykjavik University, Reykjavík, Iceland"
   ],
   "published": "2026-09-09",
   "year": 2026,
-  "created": "2026-09-10",
+  "created": "2026-09-09",
   "first_seen": "2026-09-09",
-  "summary": "Publisher Copyright: © 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2730141",
   "oa_url": "https://doi.org/10.1080/16066359.2026.2730141",
   "sources": [
@@ -12257,15 +12157,9 @@
   "setting_regions": [
    "uk-ireland"
   ],
-  "countries": [
-   "GB",
-   "IS"
-  ],
-  "regions": [
-   "uk-ireland",
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12277,11 +12171,7 @@
   "openalex": "W7212021227",
   "title": "Online Casino Legalization and Onsite Casino Revenue: Evidence from Early Adopters in the United States",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Ege Can",
-   "Mark Nichols",
-   "Chaehyun Pyun"
-  ],
+  "authors": [],
   "published": "2026-09-09",
   "year": 2026,
   "created": "2026-09-09",
@@ -12312,13 +12202,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12507,14 +12393,10 @@
   "openalex": "W7211966039",
   "title": "Classification-Behavior Discordance and Problem Gambling: Differential Patterns for Fantasy Sports and Loot Boxes Among College Students",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Tiange Xu",
-   "Dante Miller",
-   "Andrea Dassopoulos"
-  ],
+  "authors": [],
   "published": "2026-09-08",
   "year": 2026,
-  "created": "2026-09-09",
+  "created": "2026-09-08",
   "first_seen": "2026-09-09",
   "summary": "Fantasy sports and loot boxes share similarities with gambling yet remain largely unregulated as such, creating ambiguity in how individuals perceive and engage with these activities …",
   "url": "https://doi.org/10.1007/s10899-026-10549-5",
@@ -12541,13 +12423,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12557,17 +12435,9 @@
   "pmid": "42709307",
   "pmcid": null,
   "openalex": "W7211925195",
-  "title": "Moving Up in Stakes in Tournament Poker: A k-means Analysis of Latent Subgroups of Online Poker Players",
+  "title": "Moving Up in Stakes in Tournament Poker: A k -means Analysis of Latent Subgroups of Online Poker Players",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Matthew A Tom",
-   "Timothy C Edson",
-   "Eric R Louderback",
-   "John M Slabczynski",
-   "Annette M Siu",
-   "Sarah E Nelson",
-   "Debi A LaPlante"
-  ],
+  "authors": [],
   "published": "2026-09-08",
   "year": 2026,
   "created": "2026-09-08",
@@ -12590,13 +12460,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12652,17 +12518,16 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7211939469",
-  "title": "Developing Words Matter : a language guide for respectful and non-stigmatizing reporting on gambling harms",
+  "title": "Developing Words Matter: a language guide for respectful and non-stigmatizing reporting on gambling harms",
   "journal": "International Gambling Studies",
   "authors": [
-   "Blair Biggar",
-   "Heather Wardle"
+   "Blair Biggar Heather Wardle School of Social and Political Sciences, University of Glasgow, Glasgow, UKDr Blair Biggar is a Lecturer in Sociology whose research focuses on gambling harms, health, migration, and social inequalities. His work has drawn on qualitative and mixed-methods approaches to examine the social determinants of inequality and marginalisation, with particular interests in stigma, language, help-seeking, and gambling-related harm. Blair has contributed to several major gambling studies initiatives, including the Lancet Public Health Commission on Gambling. His research aims to inform policy and practice through evidence-based, person-centred approaches to harm reduction.Professor Heather Wardle is a social scientist with nearly twenty years’ experience leading major studies of health and wellbeing, including the Health Survey for England and the British Gambling Prevalence Survey. She specialises in gambling research, policy, and practice, and is Co-Director of Gambling Research Glasgow and lead of the Lancet Public Health Commission on Gambling. Her work focuses on understanding the impact of gambling on people’s lives and devising solutions."
   ],
-  "published": "2026-09-07",
+  "published": "2026-09-08",
   "year": 2026,
   "created": "2026-09-08",
   "first_seen": "2026-09-08",
-  "summary": "As awareness of gambling harms grows, guidelines for respectful reporting are increasingly necessary for public stakeholders with public platforms …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2727848",
   "oa_url": "https://doi.org/10.1080/14459795.2026.2727848",
   "sources": [
@@ -12671,22 +12536,14 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "lived-experience"
-  ],
-  "designs": [
-   "qualitative"
-  ],
+  "topics": [],
+  "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12742,15 +12599,7 @@
   "openalex": "W7211878286",
   "title": "The Stranger at Home: Lived Experiences of Online Gambling Within the Family in Siirt, Türkiye",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Ahmet Bektaş",
-   "Adnan Toprak",
-   "Mustafa Solmaz",
-   "Fatih Solmaz",
-   "Sefa Erbaş",
-   "Seyfettin İliter",
-   "Yasin Parlar"
-  ],
+  "authors": [],
   "published": "2026-09-07",
   "year": 2026,
   "created": "2026-09-07",
@@ -12781,13 +12630,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "TR"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -14500,19 +14345,12 @@
   "openalex": "W7135376707",
   "title": "Symbolic Immortality, Mental Health, and Addictions: A Terror Management Perspective",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Uri Lifshin",
-   "Dvora Shmulewitz",
-   "Maor Daniel Levitin",
-   "Vera Skvirsky",
-   "Aaron D. Cherniak",
-   "Mario Mikulincer"
-  ],
+  "authors": [],
   "published": "2026-08-31",
   "year": 2026,
-  "created": "2026-03-15",
+  "created": "2026-08-31",
   "first_seen": "2026-08-31",
-  "summary": "Abstract Terror Management and Anxiety Buffer Disruption Theories suggest that socio-cultural psychological resources, such as self-esteem, attachment security, meaning in life, and group identity, can buffer against death-related anxiety and related psychological problems, by providing people a sense of symbolic immortality …",
+  "summary": "Terror Management and Anxiety Buffer Disruption Theories suggest that socio-cultural psychological resources, such as self-esteem, attachment security, meaning in life, and group identity, can buffer against death-related anxiety and related psychological problems, by providing people a sense of symbolic immortality …",
   "url": "https://doi.org/10.1007/s11469-026-01720-5",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11469-026-01720-5.pdf",
   "sources": [
@@ -14531,13 +14369,9 @@
   "setting_regions": [
    "middle-east"
   ],
-  "countries": [
-   "IL"
-  ],
-  "regions": [
-   "middle-east"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "low",
   "retracted": false
  },
@@ -15746,12 +15580,11 @@
   "title": "The adaptive machine zone: distributed agency and the locus of responsibility in the convergence of gambling and video games",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Mriganka Biswas",
-   "Safina Ara"
+   "Mriganka Biswas Safina Ara Faculty of Business and Technology, University of Sunderland, Sunderland, UK"
   ],
   "published": "2026-08-26",
   "year": 2026,
-  "created": "2026-08-27",
+  "created": "2026-08-26",
   "first_seen": "2026-08-26",
   "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2720562",
@@ -15768,13 +15601,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -16513,6 +16342,45 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1080/16066359.2026.2719582",
+  "doi": "10.1080/16066359.2026.2719582",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7203894062",
+  "title": "Gambling and substance use co-occurrence among emerging adults: a systematic review",
+  "journal": "Addiction Research & Theory",
+  "authors": [
+   "Anthony King Jackie F. Stanmyre Anne Auguste Lia Nower Center for Gambling Studies, School of Social Work, Rutgers University, New Brunswick, NJ, USA"
+  ],
+  "published": "2026-08-21",
+  "year": 2026,
+  "created": "2026-08-21",
+  "first_seen": "2026-08-21",
+  "summary": ".",
+  "url": "https://doi.org/10.1080/16066359.2026.2719582",
+  "oa_url": null,
+  "sources": [
+   "feed:art",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "comorbidity"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1371/journal.pone.0354242",
   "doi": "10.1371/journal.pone.0354242",
   "pmid": "42627781",
@@ -16731,52 +16599,6 @@
   ],
   "regions": [
    "europe"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1080/16066359.2026.2719582",
-  "doi": "10.1080/16066359.2026.2719582",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7203894062",
-  "title": "Gambling and substance use co-occurrence among emerging adults: a systematic review",
-  "journal": "Addiction Research & Theory",
-  "authors": [
-   "Anthony King",
-   "Jackie F. Stanmyre",
-   "Anne Auguste",
-   "Lia Nower"
-  ],
-  "published": "2026-08-20",
-  "year": 2026,
-  "created": "2026-08-22",
-  "first_seen": "2026-08-21",
-  "summary": "Objective Gambling and substance use co-occur at high rates among emerging adults (ages 18–29) …",
-  "url": "https://doi.org/10.1080/16066359.2026.2719582",
-  "oa_url": null,
-  "sources": [
-   "feed:art",
-   "openalex"
-  ],
-  "type": "review",
-  "topics": [
-   "youth",
-   "comorbidity"
-  ],
-  "designs": [
-   "review"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
   ],
   "language": "en",
   "relevance": "high",
@@ -19678,22 +19500,13 @@
   "title": "Understanding funding-related bias in gambling research: insights from unhealthy commodities industries and medical/pharmaceutical research – a scoping review",
   "journal": "International Gambling Studies",
   "authors": [
-   "Adetoun Dapo-Famodu",
-   "Matthew M. Young",
-   "Kyle Tuico",
-   "Simon Dymond",
-   "Elliot A. Ludvig",
-   "Amanda Roberts",
-   "Jim Rogers",
-   "Steve Sharman",
-   "Sasha Stark",
-   "Richard J. Tunney"
+   "Adetoun Dapo-Famodu Matthew M. Young Kyle Tuico Simon Dymond Elliot A. Ludvig Amanda Roberts Jim Rogers Steve Sharman Sasha Stark Richard J. Tunney a Greo Evidence Insights, Guelph, Ontario, Canadab Canadian Centre on Substance Use and Addiction, Ottawa, Ontario, Canadac Department of Psychology, Carleton University, Ottawa, Ontario, Canadad School of Psychology, Swansea University, Swansea, UKe Department of Psychology, Reykjavík University, Reykjavík, Icelandf Department of Psychology, University of Warwick, Coventry, UKg School of Psychology, Sports Science and Wellbeing, University of Lincoln, Lincoln, UKh School of Health and Social Care, University of Lincoln, Lincoln, UKi National Addiction Centre, Institute of Psychiatry, Psychology and Neuroscience, King’s College London, London, UKj School of Psychology, Aston University, Birmingham, UKAdetoun Dapo-Famodu (AD) has over 15 years of experience in transdisciplinary, applied public health research and evaluation, primarily with multilateral organisations focused on human capital and social development policy and practice in resource-constrained settings. Her work is typically situated at the intersection of evidence and practice, supporting informed policy and decision making. She holds Master’s degrees in Public Health Epidemiology, and Data, Economics, and Development Policy. AD is currently a Lead Research Analyst at Greo Evidence Insights, where she leads and supports research projects in gambling and related areas, specialising in systematised evidence appraisal and synthesis.Matthew M. Young (MMY) has worked in the field of substance use epidemiology and addiction for over 30 years. Among his contributions, Dr. Young: was scientific co-chair of the Canadian Substance Use Costs and Harms project until 2021; led the Canadian Community Epidemiology Network on Drug Use (CCENDU) when, in 2013, the network issued one of the first public health alerts on the presence of fentanyl in the North American unregulated drug supply; was a member of the scientific expert panel that developed Canada’s Guidance on Alcohol and Health; was co-chair of the scientific committee who developed the world’s first lower risk gambling guidelines; and did his doctoral work investigating craving among people who gamble. Dr. Young is currently Chief Research Officer at Greo Evidence Insights, a Senior Research Associate at the Canadian Centre on Substance Use and Addiction, Adjunct Research Professor of Psychology at Carleton University in Ottawa, and Canadian Institute for Substance Use Research at the University of Victoria.Kyle A. Tuico (KAT) has been actively involved in gambling research for nearly four years. Kyle is currently a Senior Research Analyst at Greo where he contributes to the development, facilitation, and synthesis of research projects. Before joining Greo, Kyle worked as a research assistant with the Substance Use and Gambling Lab, where he assisted with data collection, analysis, and administrative support for gambling-related studies. He holds both a BSc and MSc in Psychology from the University of Calgary.Simon Dymond (SD) is Professor of Psychology and Behaviour Analysis at the School of Psychology and Director of the Gambling Research, Education and Treatment (GREAT) Centre, at Swansea University, and Visiting Professor at the Department of Psychology, Reykjavik University, Iceland.Elliot Ludvig (EAL) is Professor of Psychology at the University of Warwick (UK). His research examines how humans and other animals learn from rewards, using computational, behavioural, and neural perspectives. He is an associate editor at the British Journal of Psychology and serves as the Research co-Chair for the Academic Forum for the Study of Gambling.Amanda Roberts (AR) is a Professor in Psychology at the University of Lincoln, with a PhD in Behavioural Neuroscience from Cardiff University, a Diploma in Epidemiology and Medical Statistics, and previous research and lectureship positions at UK academic institutions. Amanda has extensive experience in research in vulnerable populations and has previously worked with patient populations from the NHS, HMP Prisons, homeless services, and charities. She is an expert in large-scale projects, gambling-harm research, and has 20 years’ experience running quantitative and qualitative research projects in treatment populations, specifically in the NHS, the criminal justice system and third sector organisations. Her research interests extend across topics that relate to gambling-related harm, gambling and mental health, gambling and suicide, gambling in vulnerable populations, gambling and interpersonal violence, NPS use, and homelessness.Jim Rogers (JR) is an Honorary Senior Fellow at the University of Lincoln. His PhD focused on the subject of fixed odds betting terminals (FOBTs) and gambling policy. He has developed national guidance for UK social workers on the subject of gambling harms, and has developed and been involved in a number of research projects looking at different aspects of gambling, including FOBTs, gambling and neurodiversity, and gambling in rural and coastal communities.Steve Sharman (SSH) is a Senior Research Fellow at the National Addiction Centre, King’s College London, where he leads the King’s Experimental Research and Gambling Group (KERANGG). Steve is a current UKRI Future Leaders Fellow, and has previously been awarded the King’s Prize Fund fellowship, and the SSA Academic Fellowship. He is member of the ABSG, the AFSG Executive Committee, co-Executive chair of CAGR, and a trustee for the SSA. His primary research area involves investigating the relationship between individual susceptibility, product design, and environment, using virtual reality.Sasha Stark (SST) is Director of Evaluation and Implementation Research at Greo Evidence Insights, an independent knowledge translation and exchange organisation working across the health and wellbeing sectors. Sasha is an internationally known gambling researcher, having worked in the field for almost 20 years. She has published numerous academic articles and reports, and has presented extensively internationally, including providing evidence to regulators and governments. In her current role, she oversees Greo’s evaluation projects, leads implementation research activities, and works with partners globally.Richard Tunney (RT) is Dean of the School of Psychology at Aston University. He conducts research on judgement and decision-making, impulsivity and behavioural addictions. He is a trustee and Co-Director of Research for the Academic Forum for the Study of Gambling; and a trustee and Non-Executive Director of Aquarius Action Projects who provide support for people affected by drugs, alcohol and gambling."
   ],
   "published": "2026-08-09",
   "year": 2026,
   "created": "2026-08-09",
   "first_seen": "2026-08-09",
-  "summary": "Despite the risk of funding-related bias (RoFRB) introduced by industry funding in gambling research, empirical investigations remain limited …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2697453",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2697453?needAccess=true",
   "sources": [
@@ -19702,26 +19515,16 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "industry"
-  ],
+  "topics": [],
   "designs": [
    "review"
   ],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA",
-   "GB",
-   "IS"
-  ],
-  "regions": [
-   "canada",
-   "uk-ireland",
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -20933,20 +20736,16 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7172404379",
-  "title": "“ There is no risk, so long as you follow the rules” : perceptions of risk and illusion of control in matched betting",
+  "title": "“There is no risk, so long as you follow the rules”: perceptions of risk and illusion of control in matched betting",
   "journal": "International Gambling Studies",
   "authors": [
-   "Reece Bush-Evans",
-   "Helen England",
-   "Emily Arden-Close",
-   "Elvira Bolat",
-   "Ruijie Wang"
+   "Reece Bush-Evans Helen England Emily Arden-Close Elvira Bolat Ruijie Wang a School of Psychology, Bournemouth University, Poole, UKb Department of Psychology, University of Exeter, Exeter, UKc Business School, Bournemouth University, Poole, UKReece Bush-Evans is a Senior Lecturer in Psychology at Bournemouth University. He has expertise in gambling-related behavioural change and personality research. His work encompasses mixed methods to explore issues such as suicide in healthcare settings and how marginalised groups experience gambling-related harm.Helen England is a Postgraduate researcher in Psychology at the University of Exeter. Her work expands gambling harm, CBT techniques, and understanding repetitive negative thoughts.Emily Arden-Close is a Principal Academic in Psychology at Bournemouth University. She is a Health Psychologist with qualitative and quantitative research experience in developing, managing, and evaluating interventions (particularly digital interventions) and questionnaire development and validation, for people who gamble and individuals with long-term conditions. She has a particular interest in gambling among underserved communities.Ruijie Wang is a Senior Lecturer in Psychology at Bournemouth University. She has expertise in Cyberpsychology and Human Computer Interaction. Her work uses multidisciplinary approaches to explore issues such as transparency and explainability of gambling sites.Elvira Bolat is an Associate Professor in Digital Marketing at Bournemouth University. Her work focuses on social media influencing, adoption of technology by business, trust repair in online spaces, and responsible online gambling."
   ],
   "published": "2026-08-04",
   "year": 2026,
   "created": "2026-08-04",
   "first_seen": "2026-08-04",
-  "summary": "Matched betting, growing in popularity, is widely advertised as a risk-free, skill-based strategy exploiting bookmaker incentives to accumulate guaranteed profits. Limited research has investigated experiences of matched betting or understanding of its risks and relationship to gambling …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2708667",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2708667?needAccess=true",
   "sources": [
@@ -20956,28 +20755,16 @@
   ],
   "type": "article",
   "topics": [
-   "prevention",
    "cognition"
   ],
-  "designs": [
-   "qualitative",
-   "survey"
-  ],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "GB"
-  ],
-  "setting_regions": [
-   "uk-ireland"
-  ],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
-  "relevance": "high",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "low",
   "retracted": false
  },
  {
@@ -21440,15 +21227,13 @@
   "title": "Repetitive responsible gambling slogans and imagery may not be better than AI-generated content",
   "journal": "International Gambling Studies",
   "authors": [
-   "W. Spencer Murch",
-   "Hyoun S. Kim",
-   "Daniel S. McGrath"
+   "W. Spencer Murch Hyoun S. Kim Daniel S. McGrath a Department of Psychology, University of Calgary, Calgary, Alberta, Canadab Department of Psychology, Toronto Metropolitan University, Toronto, Ontario, Canada"
   ],
   "published": "2026-08-02",
   "year": 2026,
   "created": "2026-08-02",
   "first_seen": "2026-08-02",
-  "summary": "Responsible Gambling (RG) messaging is a common element in online gambling harm reduction, but current practices may be suboptimal. Artificial Intelligence (AI) technologies enable rapid development of ‘always new’ RG content, but it is unclear whether such materials could be effective …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2712374",
   "oa_url": null,
   "sources": [
@@ -21458,20 +21243,15 @@
   ],
   "type": "article",
   "topics": [
-   "online-gambling",
    "prevention"
   ],
   "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -23813,21 +23593,13 @@
   "title": "Canadian provincial channelization of online gambling in 2025: a cross-provincial analysis of player and revenue channelization",
   "journal": "International Gambling Studies",
   "authors": [
-   "Robert J. Williams",
-   "Rhys M.G. Stevens",
-   "Carrie A. Shaw",
-   "Youssef Allami",
-   "Darren R. Christensen",
-   "David C. Hodgins",
-   "Hyoun S. Kim",
-   "Daniel S. McGrath",
-   "Fiona Nicoll"
+   "Robert J. Williams Rhys M.G. Stevens Carrie A. Shaw Youssef Allami Darren R. Christensen David C. Hodgins Hyoun S. Kim Daniel S. McGrath Fiona Nicoll a Faculty of Health Sciences, University of Lethbridge, Lethbridge, Canadab Librarian, University of Lethbridge, Lethbridge, Canadac Psychology, University of Alberta, Edmonton, Canadad Psychology, Université Laval, Québec City, Canadae Psychology, University of Calgary, Calgary, Canadaf Psychology, Toronto Metropolitan University, Toronto, Canadag Political Science, University of Alberta, Edmonton, CanadaDr. Robert J. Williams is a Professor in the Faculty of Health Sciences at the University of Lethbridge, in Alberta, Canada and a Research Coordinator for the Alberta Gambling Research Institute.Mr. Rhys M.G. Stevens is a Librarian III and information specialist for the University of Lethbridge and the Alberta Gambling Research Institute.Dr. Carrie A. Shaw is an Assistant Professor in the Psychology Department at the University of Alberta and a Research Coordinator for the Alberta Gambling Research Institute.Dr. Youssef Allami is an Assistant Professor in the Department of Psychology at Université Laval, in Quebec.Dr. Darren R. Christensen is a Professor in the Faculty of Health Sciences at the University of Lethbridge in Alberta.Dr. David C. Hodgins is a Professor in the Department of Psychology at the University of Calgary in Alberta.Dr. Hyoun S. Kim is an Associate Professor in the Department of Psychology at Metropolitan University in Toronto, Ontario.Dr. Daniel S. McGrath is a Professor in the Department of Psychology at the University of Calgary in Alberta.Dr. Fiona Nicoll is a Professor in the Department of Political Science at the University of Alberta."
   ],
-  "published": "2026-07-24",
+  "published": "2026-07-25",
   "year": 2026,
   "created": "2026-07-25",
   "first_seen": "2026-07-25",
-  "summary": "There are widespread claims that most online gambling in Canada occurs on unsanctioned out-of-country sites rather than on provincial government platforms. However, these claims rely on black-box proprietary modeling and surveys with important sampling and measurement limitations …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2708668",
   "oa_url": null,
   "sources": [
@@ -23837,15 +23609,9 @@
   ],
   "type": "article",
   "topics": [
-   "sports-betting",
-   "online-gambling",
-   "lottery",
-   "casino"
+   "online-gambling"
   ],
-  "designs": [
-   "survey",
-   "longitudinal"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [
    "CA"
@@ -23853,13 +23619,9 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -24784,13 +24546,13 @@
   "title": "SPORTS PREDICTION MARKET TAKEOVER: CFTC GIVING FREE REIN TO (CONFLICTED) SPORTS LEAGUES?",
   "journal": "Gaming Law Review",
   "authors": [
-   "Dhwanil Shah"
+   "Dhwanil ShahDhwanil Shah is at the Department of Sport Management, Florida State University, Tallahassee, FL, USA."
   ],
   "published": "2026-07-22",
   "year": 2026,
   "created": "2026-07-22",
   "first_seen": "2026-07-22",
-  "summary": "Murphy v. National Collegiate Athletic Association repositioned professional sports leagues as integrity partners and governance authorities in a legalized betting market where leagues held no direct financial stake in wagering outcomes …",
+  "summary": "Gaming Law Review, Volume 30, Issue 8-9, Page 251-257, October-November 2026. Murphy v. National Collegiate Athletic Associationrepositioned professional sports leagues as integrity partners and governance authorities in a legalized betting market where leagues held no direct financial stake in wagering outcomes. Commodity Futures ...",
   "url": "https://doi.org/10.1177/25725300261473061",
   "oa_url": null,
   "sources": [
@@ -24800,8 +24562,7 @@
   ],
   "type": "article",
   "topics": [
-   "prediction-markets",
-   "policy"
+   "prediction-markets"
   ],
   "designs": [],
   "design_basis": "rules",
@@ -24811,13 +24572,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -25658,6 +25415,45 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1080/14459795.2026.2697447",
+  "doi": "10.1080/14459795.2026.2697447",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7168961271",
+  "title": "Randomized controlled trial of an online self-directed intervention for gambling problems with or without a motivational interview: 24-month follow-up",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Brad W. Brazeau John A. Cunningham David C. Hodgins a Department of Psychology, University of Calgary, Calgary, Canadab National Addiction Centre, Institute of Psychiatry, Psychology, and Neuroscience, Kings College London, London, UKc Institute for Mental Health Policy Research, Centre for Addiction and Mental Health, Toronto, Canadad Department of Psychiatry, University of Toronto, Toronto, CanadaBrad W. Brazeau is a Clinical Psychology Doctoral Candidate at the University of Calgary. His research interests include transdiagnostic models of addiction and the use emerging technologies to mediate self-directed addiction treatment. Brad has received research funding from the Alberta Gambling Research Institute and Canadian Institutes of Health Research.John A. Cunningham holds the Nat and Loretta Rothschild Chair in Addictions Treatment and Recovery Studies at King’s College London. He is also a Psychology Professor at the University of Toronto and a Senior Scientist at the Centre for Addiction and Mental Health. His research is focused on pathways to recovery from addictions, with a primary focus on brief interventions for addictive behaviours. John has received research funding from the Alberta Gambling Research Institute, Canadian Institutes of Health Research, National Institute on Alcohol Abuse and Alcoholism, and Swiss National Science Foundation, among others.David C. Hodgins is a Clinical Psychology Professor at the University of Calgary, where he is also the Institute Node Coordinator for the Alberta Gambling Research Institute. He also has his own clinical private practice. David’s main interests and works lie in addictive behaviours, with a focus on alcohol and gambling addiction and comorbid psychiatric disorders. He has a strong interest in self-directed and brief interventions for people recovering from addictions. David has received research funding from the Alberta Gambling Research Institute, Canadian Institutes of Health Research, Canadian Centre on Substance Use and Addiction, and Ontario Problem Gambling Research Centre, among others."
+  ],
+  "published": "2026-07-16",
+  "year": 2026,
+  "created": "2026-07-16",
+  "first_seen": "2026-07-16",
+  "summary": ".",
+  "url": "https://doi.org/10.1080/14459795.2026.2697447",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:igs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "trial",
+   "qualitative",
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/25725300261469372",
   "doi": "10.1177/25725300261469372",
   "pmid": null,
@@ -25989,53 +25785,6 @@
    "us",
    "canada",
    "australia-nz"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1080/14459795.2026.2697447",
-  "doi": "10.1080/14459795.2026.2697447",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7168961271",
-  "title": "Randomized controlled trial of an online self-directed intervention for gambling problems with or without a motivational interview: 24-month follow-up",
-  "journal": "International Gambling Studies",
-  "authors": [
-   "Brad W. Brazeau",
-   "John A. Cunningham",
-   "David C. Hodgins"
-  ],
-  "published": "2026-07-15",
-  "year": 2026,
-  "created": "2026-07-16",
-  "first_seen": "2026-07-16",
-  "summary": "We previously reported on a randomized controlled trial of an online self-directed workbook for gambling problems delivered with or without a motivational interview (MI). The aim was to enhance workbook engagement and outcomes through the MI …",
-  "url": "https://doi.org/10.1080/14459795.2026.2697447",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:igs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [
-   "trial",
-   "qualitative",
-   "longitudinal"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "CA",
-   "GB"
-  ],
-  "regions": [
-   "canada",
-   "uk-ireland"
   ],
   "language": "en",
   "relevance": "high",
@@ -26462,17 +26211,12 @@
   "openalex": "W7168375233",
   "title": "Are Increased Gambling Problems Associated with Intentions to Reduce College Enrollment? A Population Study Across a State University System during the COVID-19 Pandemic",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Nicholas W. McAfee",
-   "James P. Whelan",
-   "Meredith K. Ginley",
-   "Rory A. Pfund"
-  ],
+  "authors": [],
   "published": "2026-07-15",
   "year": 2026,
-  "created": "2026-07-16",
+  "created": "2026-07-15",
   "first_seen": "2026-07-15",
-  "summary": "Abstract Prior college student research has demonstrated that risky gambling is associated with mental health concerns, but there is limited research on how gambling behavior may be associated with enrollment …",
+  "summary": "Prior college student research has demonstrated that risky gambling is associated with mental health concerns, but there is limited research on how gambling behavior may be associated with enrollment …",
   "url": "https://doi.org/10.1007/s11469-026-01694-4",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11469-026-01694-4.pdf",
   "sources": [
@@ -26487,13 +26231,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -26656,13 +26396,13 @@
   "title": "The case for the channelization model as the predominant framework in online gambling regulation",
   "journal": "International Gambling Studies",
   "authors": [
-   "Kahlil Simeon-Rose"
+   "Kahlil Simeon-Rose a Carson College of Business, Washington State University, Everett, WA, USAb International Gaming Institute, University of Nevada, Las Vegas, Las Vegas, NV, USA"
   ],
   "published": "2026-07-14",
   "year": 2026,
   "created": "2026-07-14",
   "first_seen": "2026-07-14",
-  "summary": "This letter to the editor proposes the adoption of a channelization model as the predominant framework for online gambling regulation. The model evaluates regulatory interventions using a two-part test: 1) Are meaningful protections in place within the licensed market? 2) What proportion of total gambling activity occurs within the licensed market? …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2697452",
   "oa_url": null,
   "sources": [
@@ -26672,27 +26412,15 @@
   ],
   "type": "article",
   "topics": [
-   "online-gambling",
-   "policy",
-   "industry"
+   "online-gambling"
   ],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "US"
-  ],
-  "setting_regions": [
-   "us"
-  ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -26704,14 +26432,10 @@
   "openalex": "W7168279195",
   "title": "Predictors of Intention to Enroll and Enrollment in a Responsible Gambling Pre-commitment Tool",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Christopher G. Davis",
-   "Nassim Tabri",
-   "Michael Wohl"
-  ],
+  "authors": [],
   "published": "2026-07-14",
   "year": 2026,
-  "created": "2026-07-15",
+  "created": "2026-07-14",
   "first_seen": "2026-07-14",
   "summary": "Many casinos have introduced pre-commitment tools that allow electronic gaming machine (EGM) players to set a monetary limit. However, uptake tends to be low. We capitalized on the imminent launch of a pre-commitment tool at a large casino in the Northeastern US to explore factors that predict intention and subsequent enrollment …",
   "url": "https://doi.org/10.1007/s11469-026-01690-8",
@@ -26737,13 +26461,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -29059,18 +28779,13 @@
   "title": "Exploring the relationship between Positive Play and perceived knowledge in traditional sports gambling",
   "journal": "International Gambling Studies",
   "authors": [
-   "Alexander J. Connolly",
-   "Rakin Faruk",
-   "Jennifer T. Grant Weinandy",
-   "Lindsay M. Stall",
-   "Shane W. Kraus",
-   "Joshua B. Grubbs"
+   "Alexander J. Connolly Rakin Faruk Jennifer T. Grant Weinandy Lindsay M. Stall Shane W. Kraus Joshua B. Grubbs a Center on Alcohol, Substance Use, And Addictions (CASAA), University of New Mexico, Albuquerque, New Mexico, USAb Independent Scholar, Albuquerque, New Mexico, USAc Department of Psychology, Ohio University, Athens, Ohio, USAd Department of Psychology, University of South Florida, Tampa, Florida, USAe Department of Psychology, University of Nevada Las Vegas, Las Vegas, NV, USAAlexander Connolly, M.A.: Alex Connolly is currently a Ph.D. candidate at the University of New Mexico where he studies responsible and problem gambling under the advisement of Dr Joshua Grubbs.Rakin Faruk, B.S.: Rakin Faruk graduated in 2024 from the University of New Mexico and is currently an independent scholar.Jennifer T. Grant Weinandy, Ph.D.: Dr Grant Weinandy is an Assistant Professor at Ohio University, where she uses mixed methods to study perceptions and experiences of addictions and addiction treatment in adults.Lindsay M. Stall, M.A.: Lindsay Stall is currently a Ph.D. student at the University of South Florida, where she studies externalizing behaviors.Shane W. Kraus, Ph.D.: Dr. Kraus is an Associate Professor at the University of Nevada Las Vegas, where he studies psychopathology, substance use disorders, gambling disorder, and compulsive sexual behavior disorder.Joshua B. Grubbs, Ph.D.: Dr Grubbs is an Associate Professor at the University of New Mexico where he studies compulsive sexual behavior disorder, gambling disorder, and personality traits. In addition, Dr Grubbs is an investigator at the Center on Alcohol, Substance Use, and Addictions."
   ],
   "published": "2026-07-03",
   "year": 2026,
   "created": "2026-07-03",
   "first_seen": "2026-07-03",
-  "summary": "The growing accessibility of gambling in the United States, fueled by legalization and online platforms, has increased the need to examine both problem and responsible gambling, particularly among sports gamblers. Sports betting is often viewed as a skill-based activity, in which knowledge and skill are perceived to influence betting outcomes …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2697457",
   "oa_url": null,
   "sources": [
@@ -29079,27 +28794,14 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "sports-betting",
-   "prevention"
-  ],
-  "designs": [
-   "longitudinal"
-  ],
+  "topics": [],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "US"
-  ],
-  "setting_regions": [
-   "us"
-  ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -29567,19 +29269,13 @@
   "title": "Practitioner perspectives on addressing gambling harms within substance misuse services: a qualitative study in the North East of England",
   "journal": "International Gambling Studies",
   "authors": [
-   "Andrew Richardson",
-   "Katie H. Thomson",
-   "Glyn Smith",
-   "Laura Sheridan",
-   "Alice Beadle",
-   "Liam Spencer",
-   "Eileen Kaner"
+   "Andrew Richardson Katie H. Thomson Glyn Smith Laura Sheridan Alice Beadle Liam Spencer Eileen Kaner a Population Health Sciences Institute, Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, UKb Department of Health and Social Care, Office for Health Improvement and Disparities, Newcastle upon Tyne, UKc Public Health Department, Middlesbrough Council, Middlesbrough, UKAndrew Richardson Research Associate at Newcastle UniversityKatie Thomson Senior Research Associate at Newcastle UniversityGlyn Smith Health and Wellbeing Programme Manager – North East at Office of Health Improvement and Disparities (OHID)Laura Sheridan Public Health Officer at Middlesbrough CouncilAlice Beadle Public Health Specialist at Middlesbrough CouncilLiam Spencer Research Associate at Newcastle UniversityEileen Kaner Professor of Public Health & Primary Care Research at Newcastle University."
   ],
   "published": "2026-07-02",
   "year": 2026,
   "created": "2026-07-02",
   "first_seen": "2026-07-02",
-  "summary": "There is evidence indicating instances of gambling-related harms among people accessing substance misuse services. What is unknown are the challenges presented to these professionals when identifying and addressing these hidden harms …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2696244",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2696244?needAccess=true",
   "sources": [
@@ -29588,10 +29284,7 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "treatment",
-   "comorbidity"
-  ],
+  "topics": [],
   "designs": [
    "qualitative"
   ],
@@ -29602,13 +29295,9 @@
   "setting_regions": [
    "uk-ireland"
   ],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -30544,14 +30233,13 @@
   "title": "Gambling behavior and problem risk by coaching status in individuals with athletic backgrounds from an epidemiological sample",
   "journal": "International Gambling Studies",
   "authors": [
-   "Jackie F. Stanmyre",
-   "Lia Nower"
+   "Jackie F. Stanmyre Lia Nower Center for Gambling Studies, School of Social Work, Rutgers University, New Brunswick, NJ, USAJackie F. Stanmyre, Ph.D., serves as Assistant Director of the Center for Gambling Studies (CGS) in the Rutgers University School of Social Work. Her CGS grant-funded research focuses on improving gambling screening and intervention as well as analyzing sports wagering and online gambling play-by-play data, with consideration for the policy implications. Dr. Stanmyre additionally studies athletes and sport-involved populations, as well as other vulnerable and disproportionately affected populations and their gambling behavior, participation in sports wagering, and risk for gambling problems.Lia Nower, J.D., Ph.D., is a Distinguished Professor, Associate Dean for Research, and Director of the Center for Gambling Studies at Rutgers University. A clinician and attorney, her research focuses on online gambling and sports wagering; gambling and video gaming among emerging adults; policy initiatives around harm reduction and responsible gambling, and etiology and treatment of problem gambling. Dr. Nower serves as a senior editor for Addiction and she received the Lifetime Research Award from the NCPG in 2022."
   ],
   "published": "2026-07-01",
   "year": 2026,
   "created": "2026-07-01",
   "first_seen": "2026-07-01",
-  "summary": "The popularity and expansion of sports wagering has highlighted the betting behavior of athletes, particularly at college and professional levels …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2697456",
   "oa_url": null,
   "sources": [
@@ -30560,22 +30248,14 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "sports-betting",
-   "prevalence",
-   "comorbidity"
-  ],
+  "topics": [],
   "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -32451,16 +32131,13 @@
   "title": "‘It’s so difficult that you have to be fully in control of your emotions, you have to be fully understanding of what you’re betting on’: how professional sports bettors succeed by using rational thinking to cope with uncertainty",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Jamie Torrance",
-   "Jessica Smith",
-   "Tomos Crawford",
-   "Philip Warren Stirling Newall"
+   "Jamie Torrance Jessica Smith Tomos Crawford Philip Newall a School of Psychology, Swansea University, UKb School of Psychological Science, University of Bristol, UK"
   ],
   "published": "2026-06-29",
   "year": 2026,
-  "created": "2026-06-30",
+  "created": "2026-06-29",
   "first_seen": "2026-06-29",
-  "summary": "Background Sports betting is most often a losing endeavor, yet a small population of bettors can exercise enough skill to win or even bet professionally. While research has explored successful professional poker players, sports betting presents distinct challenges, including inherent outcome uncertainty and adversarial bookmaker relationships …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2693272",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2693272?needAccess=true",
   "sources": [
@@ -32471,19 +32148,13 @@
   "topics": [
    "sports-betting"
   ],
-  "designs": [
-   "qualitative"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -32757,18 +32428,13 @@
   "title": "Gambling type preferences, psychological distress and hazardous alcohol use among young Finns",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Kalle Lind",
-   "Tanja Grönroos",
-   "Johanna Järvinen-Tassopoulos",
-   "Tiina A. Latvala",
-   "Jukka P. Kontto",
-   "Anne H. Salonen"
+   "Kalle Lind Tanja Grönroos Johanna Järvinen-Tassopoulos Tiina Latvala Jukka Kontto Anne H. Salonen a Department of Healthcare and Social Welfare, Promotional and Preventive Work Unit, Finnish Institute for Health and Welfare, Helsinki, Finlandb Faculty of Social Sciences, University of Helsinki, Helsinki, Finlandc Social Policy, University of Helsinki, Helsinki, Finlandd Centre for Research on Addiction, Control, and Governance, University of Helsinki, Helsinki, Finlande Faculty of Health Sciences, University of Eastern Finland, Kuopio, Finland"
   ],
   "published": "2026-06-29",
   "year": 2026,
-  "created": "2026-06-30",
+  "created": "2026-06-29",
   "first_seen": "2026-06-29",
-  "summary": "Adolescence and early adulthood are periods of heightened vulnerability to gambling harm, financial strain, and mental health problems …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2693271",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2693271?needAccess=true",
   "sources": [
@@ -32777,14 +32443,9 @@
   ],
   "type": "article",
   "topics": [
-   "lottery",
-   "casino",
-   "youth",
    "comorbidity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [
    "FI"
@@ -32792,13 +32453,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "FI"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -34094,6 +33751,45 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1080/14459795.2026.2682460",
+  "doi": "10.1080/14459795.2026.2682460",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7165922371",
+  "title": "The odds of harm: young men’s and parents’ views on online sports betting",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Thom Nevill Jack Brett Matthew C. McQueen Robert M. Heirene Vincent O. Mancini a Human Development and Community Wellbeing, The Kids Research Institute Australia, Perth, Western Australia, Australiab The University of Western Australia Medical School, Perth, Western Australia, Australiac Brain and Mind Centre, School of Psychology, University of Sydney, Sydney, NSW, AustraliaThom Nevill PhD is a postdoctoral researcher at the Kids Research Institute Australia. He completed a PhD in Sociology and Education at the University of Western Australia. Dr Nevill’s research centres around producing research to improve children’s health and educational outcomes, with a particular focus on young men, disability and parenting. He has expertise in a variety of qualitative methods, including interviews, focus groups, ethnography, and interpretive policy analysisJack Brett PhD completed a combined Master’s and PhD in Clinical Neuropsychology at the University of Western Australia and works as a clinical neuropsychology registrar at the Complex Attention and Hyperactivity Disorders service based in the Perth Children’s Hospital and as a research fellow at The Kids Research Institute Australia. His research interests include improving mental health for individuals across all stages of life, with a focus on children with neurodevelopmental conditions, such as autism and ADHD. His clinical and statistical analysis expertise lends itself to a multitude of research fields. His statistical analysis expertise covers psychometrics, structural equation modelling, and longitudinal modelling.Matthew C. McQueen is a PhD candidate at the University of Western Australia and a research assistant with The Kids Research Institute Australia, working across the Human Development and Community Wellbeing and Child Disability teams. Matthew’s work concerns movement challenges in neurodivergent children, particularly those with autism, developmental coordination disorder, and Tourette’s syndrome, with additional interests in masculinity and family dynamics. Matthew holds skills in data reduction and time-series analysis, with additional experience in co-design and systematic reviews.Robert M. Heirene PhD is a Research Fellow at the Gambling Treatment and Research Clinic, based within the Brain and Mind Centre, University of Sydney. His work focuses on understanding risk factors for disordered gambling and how gambling-related harms can be prevented, often using behavioural tracking data collected by operators to investigate these topics. He also investigates the merit of the methods used in gambling research and how the quality of the evidence base in the field can be improved.Vincent O. Mancini Ph.D. (Clinical Psychology) is a Senior Research Fellow in the Human Development and Community Wellbeing Team at Telethon Kids Institute, and the University of Western Australia. He is also a member of the Australian Research Council’s Centre of Excellence for Children and Families Over the Life Course (Life Course Centre). His research focuses on the role of men and fathers within family systems, and (a) identifying the mechanisms that impact their health and wellbeing, and (b) the impact of men and male caregivers on the health and wellbeing of children. As a registered psychologist, Vincent has delivered therapeutic intervention to men experiencing a range of psychosocial difficulties, including issues related to substance abuse and addiction."
+  ],
+  "published": "2026-06-25",
+  "year": 2026,
+  "created": "2026-06-25",
+  "first_seen": "2026-06-25",
+  "summary": ".",
+  "url": "https://doi.org/10.1080/14459795.2026.2682460",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:igs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth",
+   "families"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "title:6aa7d72cc2a32229",
   "doi": null,
   "pmid": null,
@@ -34256,57 +33952,6 @@
   "retracted": false
  },
  {
-  "id": "doi:10.1080/14459795.2026.2682460",
-  "doi": "10.1080/14459795.2026.2682460",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7165922371",
-  "title": "The odds of harm: young men’s and parents’ views on online sports betting",
-  "journal": "International Gambling Studies",
-  "authors": [
-   "Thom Nevill",
-   "Jack Brett",
-   "Matthew C. McQueen",
-   "Robert M. Heirene",
-   "Vincent O. Mancini"
-  ],
-  "published": "2026-06-24",
-  "year": 2026,
-  "created": "2026-06-25",
-  "first_seen": "2026-06-25",
-  "summary": "Online sports betting has become a profitable segment of the global gambling industry, with young men identified as the demographic most likely to engage in online sports betting and at risk of gambling problems …",
-  "url": "https://doi.org/10.1080/14459795.2026.2682460",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:igs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "sports-betting",
-   "online-gambling",
-   "youth",
-   "advertising",
-   "families"
-  ],
-  "designs": [
-   "qualitative"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
   "id": "doi:10.1016/j.psychres.2026.117296",
   "doi": "10.1016/j.psychres.2026.117296",
   "pmid": "42349059",
@@ -34409,7 +34054,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7165810331",
-  "title": "Solidarity and Chance: Ethnographic Insights from an Italian Bingo Hall",
+  "title": "Solidarity and Chance",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Marco Manzocchi",
@@ -34423,7 +34068,7 @@
   "created": "2026-06-24",
   "first_seen": "2026-06-24",
   "summary": "As in many other countries, bingo in Italy occupies a peculiar status: it exists in a gray area between the image of pathological gambling and a harmless pastime for the elderly. This marginal position within public gambling offers an opportunity to study the phenomenon beyond the pathological narrative …",
-  "url": "https://doi.org/10.29173/cgs229",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/229",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/229/173",
   "sources": [
    "crossref",
@@ -34442,13 +34087,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "IT"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -34502,7 +34143,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7165779524",
-  "title": "Gender in Gambling Research or Gender Research in Gambling?: An Intersectional Socio-Constructional Approach",
+  "title": "Gender in Gambling Research or Gender Research in Gambling?",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Sylvia Kairouz",
@@ -34516,7 +34157,7 @@
   "created": "2026-06-24",
   "first_seen": "2026-06-24",
   "summary": "A scoping review by Kairouz et al. (2023) on the conceptualization of gender in peer-reviewed gambling scholarship (2000–2020) found that only 58 of 2,532 articles addressed gender as a sociocultural construct. Building on that review, this paper examines how these 58 studies discuss gender as a sociocultural construct …",
-  "url": "https://doi.org/10.29173/cgs248",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/248",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/248/171",
   "sources": [
    "crossref",
@@ -34534,13 +34175,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -34550,7 +34187,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7165770379",
-  "title": "Foreign Population and Gambling: Perceptions and Cultural Conditioning: A Qualitative Study in the Area of the Metropolitan City of Milan",
+  "title": "Foreign Population and Gambling: Perceptions and Cultural Conditioning",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Fabio Lucchini",
@@ -34562,7 +34199,7 @@
   "created": "2026-06-24",
   "first_seen": "2026-06-24",
   "summary": "This paper focuses on the culturally mediated perception of gambling among immigrant communities in the Health Protection Agency of Milan area, and its consequences in terms of health promotion, prevention, and possible access to treatment …",
-  "url": "https://doi.org/10.29173/cgs235",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/235",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/235/172",
   "sources": [
    "crossref",
@@ -34581,65 +34218,10 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "IT"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.29173/cgs294",
-  "doi": "10.29173/cgs294",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7165807993",
-  "title": "Editors’ Introduction to the Issue",
-  "journal": "Critical Gambling Studies",
-  "authors": [
-   "Kate Bedford",
-   "Emma Casey",
-   "Fiona Nicoll",
-   "Tina Sang",
-   "Sylvia Kairouz",
-   "Eva Monson",
-   "Annie-Claude Savard",
-   "Martin French"
-  ],
-  "published": "2026-06-24",
-  "year": 2026,
-  "created": "2026-06-24",
-  "first_seen": "2026-06-24",
-  "summary": "In our April 2026 Annual General Meeting, the editorial board voted on a nomination to renew the editorial leadership of Critical Gambling Studies (CGS). Unanimously, the board supported the incoming editorial leadership team including Professors Sylvia Kairouz, Martin French, Annie-Claude Savard and Eva Monson …",
-  "url": "https://doi.org/10.29173/cgs294",
-  "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/294/168",
-  "sources": [
-   "crossref",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "FR"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [
-   "GB",
-   "CA"
-  ],
-  "regions": [
-   "uk-ireland",
-   "canada"
-  ],
-  "language": "en",
-  "relevance": "low",
   "retracted": false
  },
  {
@@ -34714,7 +34296,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7165755059",
-  "title": "Betting as Survival, Not Recreation: A West African Critique of Individualized Responsible Gambling Tools",
+  "title": "Betting as Survival, Not Recreation",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Chimezie Odionye"
@@ -34724,7 +34306,7 @@
   "created": "2026-06-24",
   "first_seen": "2026-06-24",
   "summary": "This commentary critiques the application of individualized responsible gambling (RG) tools, as advanced in recent psychological research by Michael J. A. Wohl and colleagues, within the context of Nigeria’s sports betting landscape …",
-  "url": "https://doi.org/10.29173/cgs252",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/252",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/252/170",
   "sources": [
    "crossref",
@@ -34749,13 +34331,9 @@
   "setting_regions": [
    "africa"
   ],
-  "countries": [
-   "NG"
-  ],
-  "regions": [
-   "africa"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -37604,6 +37182,48 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1080/14459795.2026.2683630",
+  "doi": "10.1080/14459795.2026.2683630",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7164312250",
+  "title": "‘I’ll come across something within a minute, guaranteed’: how young people who gamble experience gambling advertising under strict advertising regulations in Belgium",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Steffi De Jans Liselot Hudders Philip Newall a Department of Communication Sciences, Ghent University, Ghent, Belgiumb School of Experimental Psychology, University of Bristol, Bristol, UKSteffi De Jans is a postdoctoral fellow of the Research Foundation Flanders at the department of Communication Sciences at Ghent University. She conducts research on how consumers (both minors and adults) can be empowered to cope with advertising (such as social media advertising, influencer marketing) for dark consumption behavior (i.e., advertising for potentially harmful products or behaviors such as gambling and unhealthy eating behavior). She is associate editor of the International Journal of Advertising.Liselot Hudders is full professor in marketing ethics at the department of Communication Sciences at Ghent University in Belgium and director of the Center for Persuasive Communication. Her research focuses on the role of digital media and advertising in particular in the formation of consumer socialization processes. She specifically focuses on studying how individuals can be empowered to cope more critically with advertising. She is a board member of the European Advertising Academy and associate editor of International Journal of Advertising. She holds an ERC Consolidator Grant funded by the European Union to study the kidfluencer phenomenon (grant number 101169786).Philip Newall is a Lecturer at the University of Bristol’s School of Psychological Science. Philip completed a PhD at the University of Stirling in 2016, before going on to postdoctoral research fellowships at Technical University of Munich, the University of Warwick, and Central Queensland University’s Experimental Gambling Research Laboratory. Philip was a member of the Advisory Board for Safer Gambling from 2021 to 2025 – an advisory group of the Gambling Commission in Great Britain, and was in 2020 a special advisor to the House of Lords Select Committee Enquiry on the Social and Economic Impact of the Gambling Industry. Philip’s research applies concepts and research methods from behavioural science to gambling."
+  ],
+  "published": "2026-06-11",
+  "year": 2026,
+  "created": "2026-06-11",
+  "first_seen": "2026-06-11",
+  "summary": "Volume 26, Issue 2, August 2026, Page 277-297 .",
+  "url": "https://doi.org/10.1080/14459795.2026.2683630",
+  "oa_url": "https://research-information.bris.ac.uk/en/publications/1d3aec01-af84-43d1-9fd0-44900caab725",
+  "sources": [
+   "crossref",
+   "feed:igs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "advertising"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "BE"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.62383/kajian.v3i2.1023",
   "doi": "10.62383/kajian.v3i2.1023",
   "pmid": null,
@@ -37778,60 +37398,6 @@
    "europe"
   ],
   "language": "es",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1080/14459795.2026.2683630",
-  "doi": "10.1080/14459795.2026.2683630",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7164312250",
-  "title": "‘I’ll come across something within a minute, guaranteed’: how young people who gamble experience gambling advertising under strict advertising regulations in Belgium",
-  "journal": "International Gambling Studies",
-  "authors": [
-   "Steffi De Jans",
-   "Liselot Hudders",
-   "Philip Newall"
-  ],
-  "published": "2026-06-10",
-  "year": 2026,
-  "created": "2026-06-11",
-  "first_seen": "2026-06-11",
-  "summary": "Given the influence of gambling advertising on individuals’ perceptions and behaviors, policymakers in various jurisdictions have introduced restrictions to mitigate harm. In Belgium, most forms of gambling advertising have been banned since 2023, although exemptions, transitional measures for sports sponsoring, and potential loopholes remain …",
-  "url": "https://doi.org/10.1080/14459795.2026.2683630",
-  "oa_url": "https://research-information.bris.ac.uk/en/publications/1d3aec01-af84-43d1-9fd0-44900caab725",
-  "sources": [
-   "crossref",
-   "feed:igs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "youth",
-   "advertising",
-   "policy",
-   "industry"
-  ],
-  "designs": [
-   "qualitative"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "BE"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [
-   "BE",
-   "GB"
-  ],
-  "regions": [
-   "europe",
-   "uk-ireland"
-  ],
-  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -38135,16 +37701,13 @@
   "title": "Beneficial or harmful? Finns’ perceptions of the consequences of their gambling on relationships, health, and finances",
   "journal": "International Gambling Studies",
   "authors": [
-   "Kalle Lind",
-   "Jussi Palomäki",
-   "Tanja Grönroos",
-   "Anne H. Salonen"
+   "Kalle Lind Jussi Palomäki Tanja Grönroos Anne H. Salonen a Department of Healthcare and Social Welfare, Finnish Institute for Health and Welfare, Helsinki, Finlandb Cognitive Science, Department of Digital Humanities, Faculty of Arts, University of Helsinki, Helsinki, Finlandc Faculty of Social Sciences, University of Helsinki, Helsinki, Finlandd Faculty of Health Sciences, University of Eastern Finland, Kuopio, Finland"
   ],
-  "published": "2026-06-09",
+  "published": "2026-06-10",
   "year": 2026,
   "created": "2026-06-10",
   "first_seen": "2026-06-10",
-  "summary": "Gambling can result in benefits and harm, yet their relationship and underlying predictors remain inadequately understood. Using data from the Finnish Gambling 2023 population survey (N = 5,977), this study examines to what extent Finnish gamblers self-report gambling as beneficial or harmful …",
+  "summary": "Volume 26, Issue 2, August 2026, Page 234-256 .",
   "url": "https://doi.org/10.1080/14459795.2026.2683624",
   "oa_url": "https://doi.org/10.1080/14459795.2026.2683624",
   "sources": [
@@ -38154,9 +37717,7 @@
   ],
   "type": "article",
   "topics": [],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [
    "FI"
@@ -38164,13 +37725,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "FI"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -38362,6 +37919,44 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1080/14459795.2026.2682456",
+  "doi": "10.1080/14459795.2026.2682456",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7163892981",
+  "title": "Regulations on gambling advertising in Europe: a comparative policy review",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Virve Marionneau Ellen McGrane Daria Ukhova Heather Wardle a Faculty of Social Sciences, Centre for Research on Addiction, Control and Governance, University of Helsinki, Helsinki, Finlandb School of Medicine and Population Health, Sheffield Addictions Research Group, University of Sheffield, Sheffield, UKc School of Social and Political Sciences, Gambling Research Glasgow, University of Glasgow, Glasgow, UKVirve Marionneau is the Director of the Centre for Research on Addiction, Control, and Governance (CEACG) at the University of Helsinki, Finland. She is a member of the Advisory Board for Safer Gambling for the GBGC, a member of the Gambling Harms Group of the Finnish Ministry of Social Affairs and Health and she was a commissioner on the Lancet Public Health Commission on Gambling.Ellen McGrane is a PhD student and Research Associate in the Sheffield Addictions Research Group (SARG) at the University of Sheffield. Ellen’s PhD research focuses on gambling advertising during live sport, specifically using economic and quasi-experimental methods. Ellen also works on a number of projects relating to alcohol policy as part of her role as a Research Associate in the National Institute for Health and Care Research (NIHR) Policy Research Unit (PRU) in Addictions.Daria Ukhova is a Research Associate in Sociology and a member of the Gambling Research Glasgow group at the University of Glasgow. Daria joined the University of Glasgow in 2021 to lead the policy workstream of the Lancet Public Health Commission on Gambling. Prior to that, Daria worked for more than ten years on social determinants of health and health inequalities research and policy projects for international development agencies, including Oxfam and WHO.Heather Wardle is a Professor of Gambling Research and Policy at the University of Glasgow, where she co-directs Gambling Research Glasgow. She was co-chair of the Lancet Public Health Commission on gambling."
+  ],
+  "published": "2026-06-08",
+  "year": 2026,
+  "created": "2026-06-08",
+  "first_seen": "2026-06-08",
+  "summary": "Volume 26, Issue 2, August 2026, Page 207-233 .",
+  "url": "https://doi.org/10.1080/14459795.2026.2682456",
+  "oa_url": "https://doi.org/10.1080/14459795.2026.2682456",
+  "sources": [
+   "crossref",
+   "feed:igs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "advertising",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "title:10505661d9d04d44",
   "doi": null,
   "pmid": null,
@@ -38543,54 +38138,6 @@
    "GB"
   ],
   "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1080/14459795.2026.2682456",
-  "doi": "10.1080/14459795.2026.2682456",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7163892981",
-  "title": "Regulations on gambling advertising in Europe: a comparative policy review",
-  "journal": "International Gambling Studies",
-  "authors": [
-   "Virve Marionneau",
-   "Ellen McGrane",
-   "Daria Ukhova",
-   "Heather Wardle"
-  ],
-  "published": "2026-06-07",
-  "year": 2026,
-  "created": "2026-06-08",
-  "first_seen": "2026-06-08",
-  "summary": "Gambling advertising contributes to increased gambling consumption and harm. Several European countries have taken steps to restrict gambling advertising. This policy review maps regulations on gambling advertising in 30 European countries using the comparative framework analysis method …",
-  "url": "https://doi.org/10.1080/14459795.2026.2682456",
-  "oa_url": "https://doi.org/10.1080/14459795.2026.2682456",
-  "sources": [
-   "crossref",
-   "feed:igs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "prevention",
-   "advertising",
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "FI",
-   "GB"
-  ],
-  "regions": [
-   "europe",
    "uk-ireland"
   ],
   "language": "en",
@@ -38893,17 +38440,13 @@
   "title": "Who wagers on horse races? A large-scale investigation into the socioeconomic background of online horse bettors in the Finnish market",
   "journal": "International Gambling Studies",
   "authors": [
-   "Ida Sopala",
-   "Niko Suhonen",
-   "Tuomo Kainulainen",
-   "David Forrest",
-   "Jani Saastamoinen"
+   "Ida Sopala Niko Suhonen Tuomo Kainulainen David Forrest Jani Saastamoinen a Business School, University of Eastern Finland, Joensuu, Finlandb Business School, LUT University, Lappeenranta, Finlandc Management School, University of Liverpool, Liverpool, UKIda Sopala is a doctoral researcher at the Business School of the University of Eastern Finland. Her research interests lie in microeconometrics and gambling markets.Niko Suhonen is an Associate Professor at LUT University Business School. His research interests include behavioral economics, gambling markets, and risk-taking.Tuomo Kainulainen is a university lecturer at the Business School of the University of Eastern Finland. His research interests focus on the economics of gambling markets and behavioral economics.David Forrest is professor of economics in the University of Liverpool Management School and a member of its Centre for Sports Business. His principal research interests are in sports economics and the economics of gambling.Jani Saastamoinen is a professor at the Business School of the University of Eastern Finland. His research focuses on consumer and firm decision-making in markets and under various regulatory environments. He has published in leading academic journals, including Management Science, Economics Letters, Journal of Personality, and Journal of Behavioral Decision Making."
   ],
   "published": "2026-06-05",
   "year": 2026,
   "created": "2026-06-05",
   "first_seen": "2026-06-05",
-  "summary": "This paper presents a large-scale investigation into how socioeconomic background predicts participation and level of engagement in the Finnish online horse betting market. Prior studies have mostly relied on self-report surveys or area-based proxies to examine correlations between demographic variables and gambling, which makes their results noisy …",
+  "summary": "Volume 26, Issue 2, August 2026, Page 177-206 .",
   "url": "https://doi.org/10.1080/14459795.2026.2682455",
   "oa_url": "https://doi.org/10.1080/14459795.2026.2682455",
   "sources": [
@@ -38913,13 +38456,9 @@
   ],
   "type": "article",
   "topics": [
-   "families",
-   "financial-harm",
    "equity"
   ],
-  "designs": [
-   "behavioral-data"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [
    "FI"
@@ -38927,15 +38466,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "FI",
-   "GB"
-  ],
-  "regions": [
-   "europe",
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -39600,19 +39133,13 @@
   "title": "Discourse on Discord: a qualitative evaluation of social support provided on a live, online, and pseudonymous sports betting community",
   "journal": "International Gambling Studies",
   "authors": [
-   "Chance V. Dow",
-   "Brianna Morelli",
-   "Ji Wan Son",
-   "Matthew D. Andersland",
-   "Dorothy Koompah",
-   "James P. Whelan",
-   "Rory A. Pfund"
+   "Chance V. Dow Brianna Morelli Ji Wan Son Matthew D. Andersland Dorothy Koompah James P. Whelan Rory A. Pfund Department of Psychology, Tennessee Institute for Gambling Education & Research, University of Memphis, Memphis, TN, USAChance V. Dow is a student in the Clinical Psychology doctoral program at The University of Memphis working in The Tennessee Institute for Gambling Education and Research. His current research interests include sports betting among emerging adults, responsible gambling advertising and messaging, and the intersection of masculinity and gambling.Brianna Morelli is a student in the Clinical Psychology doctoral program at The University of Memphis working in The Tennessee Institute for Gambling Education and Research. Her current research interests include treatment effectiveness for gambling and other addictive behaviors.Ji Wan Son is a student in the Counseling Psychology doctoral program at Felician University. His current research interests include financial distress among Deferred Action for Childhood Arrivals (DACA) college students and Asian American veteran mental health.Matthew D. Andersland is a student in the Clinical Psychology doctoral program at The University of Memphis working with The Tennessee Institute for Gambling Education and Research. His current research interests include gambling disorder treatment, co-occurring substance use and gambling, and mindfulness in the treatment of gambling disorder.Dorothy Koompah is a student in the Clinical Psychology doctoral program at The University of Memphis, working in the Tennessee Institute for Gambling Education and Research. Her current research interests include gambling prevention and harm reduction among young adults, specifically examining responsible gambling and developing interventions for this population.James P. Whelan is a University of Memphis Professor of Psychology and Director of The Tennessee Institute for Gambling Education and Research. He leads the institute’s initiative to develop a research center response for all living in the state of Tennessee in the United States – a project funded by Tennessee’s Department of Mental Health and Substance Abuse Services. His research spans prevention, assessment, and treatment of gambling disorder.Rory A. Pfund is a Research Assistant Professor in the Department of Psychology at The University of Memphis. His research program focuses on evaluating and personalizing psychological treatments for individuals with addiction."
   ],
   "published": "2026-06-02",
   "year": 2026,
   "created": "2026-06-02",
   "first_seen": "2026-06-02",
-  "summary": "Gambling-related harms are a growing public health concern, particularly amid the rapid expansion of online sports betting. Young men, who comprise a large portion of online sports bettors, are especially vulnerable due to increased exposure, cultural normalization of gambling in sports, and reduced barriers to participation …",
+  "summary": "Volume 26, Issue 2, August 2026, Page 136-154 .",
   "url": "https://doi.org/10.1080/14459795.2026.2681973",
   "oa_url": null,
   "sources": [
@@ -39622,9 +39149,7 @@
   ],
   "type": "article",
   "topics": [
-   "sports-betting",
-   "youth",
-   "equity"
+   "sports-betting"
   ],
   "designs": [
    "qualitative"
@@ -39632,13 +39157,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -40979,16 +40500,13 @@
   "title": "Perception of gambling marketing among Spanish adolescents: an analysis based on gambling severity risk",
   "journal": "International Gambling Studies",
   "authors": [
-   "Gema Aonso-Diego",
-   "María Liendo",
-   "Laura Mendo",
-   "Ana Estévez"
+   "Gema Aonso-Diego María Liendo Laura Mendo Ana Estévez Department of Psychology, Faculty of Health Sciences, University of Deusto, Bilbao, SpainGema Aonso-Diego has a PhD in Psychology and is a postdoctoral researcher at the University of Deusto (Spain). Her research focuses on the assessment, prevention and treatment of addictive behaviors.María Liendo is a PhD student at the University of Deusto (Spain) specializing in addictive behaviors, with a particular focus on women’s mental health and gender-specific patterns of addiction.Laura Mendo is a psychologist and neuropsychologist specializing in addictive behaviors, with a particular focus on the neurocognitive and psychological mechanisms.Ana Estévez is a professor at the University of Deusto. She has a very extensive scientific career in the field of gambling, and is recognized as a national and international reference on the study of gambling disorder."
   ],
   "published": "2026-05-31",
   "year": 2026,
   "created": "2026-05-31",
   "first_seen": "2026-05-31",
-  "summary": "Marketing is one of the most extensively studied contextual factors influencing gambling behavior. However, its association with adolescent gambling behavior remains underexplored …",
+  "summary": "Volume 26, Issue 2, August 2026, Page 155-176 .",
   "url": "https://doi.org/10.1080/14459795.2026.2681975",
   "oa_url": null,
   "sources": [
@@ -40999,20 +40517,15 @@
   "type": "article",
   "topics": [
    "youth",
-   "advertising",
-   "industry"
+   "advertising"
   ],
   "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -42965,13 +42478,13 @@
   "title": "A strategic approach to gambling regulation",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Philip Warren Stirling Newall"
+   "Philip Newall School of Psychological Science, University of Bristol, Bristol, UK"
   ],
-  "published": "2026-05-24",
+  "published": "2026-05-25",
   "year": 2026,
-  "created": "2026-05-26",
+  "created": "2026-05-25",
   "first_seen": "2026-05-25",
-  "summary": "Gambling regulation can be informed by various conceptual models, such as the public health model which views it as being intrinsically harmful like tobacco, and which therefore implies the use of population-based harm prevention measures …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2677582",
   "oa_url": "https://doi.org/10.1080/16066359.2026.2677582",
   "sources": [
@@ -42979,23 +42492,14 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "online-gambling",
-   "casino",
-   "policy",
-   "industry"
-  ],
+  "topics": [],
   "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -44786,6 +44290,43 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1080/14459795.2026.2670993",
+  "doi": "10.1080/14459795.2026.2670993",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7161599605",
+  "title": "Quantifying the negative impact of gambling: psychometric evaluation of the Spanish version of the Short Gambling Harm Scale (S-SGHS) among individuals engaged in gambling activities",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Javier Mora-Salgueiro Guido Corradi Cristina Martín-Pérez José C. Perales Iván Blanco Covadonga Chaves Carmelo Vázquez Juan F. Navas a Department of Personality, Assessment, and Clinical Psychology, Complutense University of Madrid, Madrid, Spainb Department of Social Psychology and Organization, Universidad Nacional de Educación a Distancia, Madrid, Spainc BEATLES Research Group, University of Balearic Islands, Palma, Spaind Department of Psychology, University of Valladolid, Valladolid, Spaine Department of Experimental Psychology; Mind, Brain and Behavior Research Center (CIMCYC), Universidad de Granada, Granada, SpainJavier Mora-Salgueiro is a Research Assistant affiliated with the Department of Personality, Assessment, and Clinical Psychology at Complutense University of Madrid.Guido Corradi is a Ramón y Cajal Researcher at the Department of Social Psychology and Organization, Universidad Nacional de Educación a Distancia, Spain and is associated with the BEATLES Research Group from University of Balearic Islands.Cristina Martín-Pérez is a Permanent Lecturer in the Department of Psychology at the University of Valladolid.José C. Perales is a Full Professor in the Department of Experimental Psychology and the Mind, Brain and Behavior Research Center (CIMCYC) at the Universidad de Granada.Iván Blanco is an Assistant Professor in the Department of Personality, Assessment, and Clinical Psychology at Complutense University of Madrid.Covadonga Chaves is a Permanent Lecturer in the Department of Personality, Assessment, and Clinical Psychology at Complutense University of Madrid.Carmelo Vázquez is a Full Professor in the Department of Personality, Assessment, and Clinical Psychology at Complutense University of Madrid.Juan F. Navas is a Permanent Lecturer in the Department of Personality, Assessment, and Clinical Psychology at Complutense University of Madrid."
+  ],
+  "published": "2026-05-18",
+  "year": 2026,
+  "created": "2026-05-18",
+  "first_seen": "2026-05-18",
+  "summary": "Volume 26, Issue 2, August 2026, Page 112-135 .",
+  "url": "https://doi.org/10.1080/14459795.2026.2670993",
+  "oa_url": "https://doi.org/10.31234/osf.io/se364_v1",
+  "sources": [
+   "crossref",
+   "feed:igs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "measurement"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1080/09581596.2026.2675725",
   "doi": "10.1080/09581596.2026.2675725",
   "pmid": null,
@@ -44964,57 +44505,6 @@
    "latin-america"
   ],
   "language": "es",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1080/14459795.2026.2670993",
-  "doi": "10.1080/14459795.2026.2670993",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7161599605",
-  "title": "Quantifying the negative impact of gambling: psychometric evaluation of the Spanish version of the Short Gambling Harm Scale (S-SGHS) among individuals engaged in gambling activities",
-  "journal": "International Gambling Studies",
-  "authors": [
-   "Javier Mora-Salgueiro",
-   "Guido Corradi",
-   "Cristina Martín-Pérez",
-   "José C. Perales",
-   "Iván Blanco",
-   "Covadonga Chaves",
-   "Carmelo Vázquez",
-   "Juan F. Navas"
-  ],
-  "published": "2026-05-17",
-  "year": 2026,
-  "created": "2026-05-18",
-  "first_seen": "2026-05-18",
-  "summary": "Gambling-related harm (GRH) extends beyond addiction, affecting multiple life domains, yet validated tools for its assessment are currently lacking for the Spanish population …",
-  "url": "https://doi.org/10.1080/14459795.2026.2670993",
-  "oa_url": "https://doi.org/10.31234/osf.io/se364_v1",
-  "sources": [
-   "crossref",
-   "feed:igs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "measurement",
-   "equity"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -47367,25 +46857,19 @@
   "openalex": "W7160402154",
   "title": "The Relationship Between Problem Gambling and Gambling Refusal Self-efficacy: A Systematic Review and Meta-analysis",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Natasa Nagy",
-   "Róbert Urbán",
-   "Andrea Czakó",
-   "Zsolt Demetrovics",
-   "Zsolt Horváth"
-  ],
+  "authors": [],
   "published": "2026-05-07",
   "year": 2026,
   "created": "2026-05-07",
   "first_seen": "2026-05-07",
-  "summary": "Abstract Research indicates a consistent inverse relationship between problem gambling (PG) severity and gambling refusal self-efficacy (GRSE), though the strength of this association may vary across samples and measures …",
+  "summary": "Research indicates a consistent inverse relationship between problem gambling (PG) severity and gambling refusal self-efficacy (GRSE), though the strength of this association may vary across samples and measures …",
   "url": "https://doi.org/10.1007/s11469-026-01665-9",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11469-026-01665-9.pdf",
   "sources": [
    "feed:ijmha",
    "openalex"
   ],
-  "type": "review",
+  "type": "article",
   "topics": [],
   "designs": [
    "review"
@@ -47393,15 +46877,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "HU",
-   "AU"
-  ],
-  "regions": [
-   "europe",
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -47495,51 +46973,32 @@
   "title": "Relapse in disordered gambling: a systematic review from a biopsychosocial perspective",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Jamie Torrance",
-   "Martyn Quigley",
-   "Conor Heath",
-   "Alecia L. Cousins",
-   "Glen Dighton",
-   "S Amuel J. Wright",
-   "Simon Dymond",
-   "Philip Warren Stirling Newall"
+   "Jamie Torrance Martyn Quigley Conor Heath Alecia Cousins Glen Dighton Simon Wright Simon Dymond Philip Newall a School of Psychology, Swansea University, Swansea, UKb Department of Psychology, Reykjavík University, Reykjavik, Icelandc School of Psychological Science, University of Bristol, Bristol, UK"
   ],
   "published": "2026-05-07",
   "year": 2026,
-  "created": "2026-05-08",
+  "created": "2026-05-07",
   "first_seen": "2026-05-07",
-  "summary": "Background Relapse is common among individuals undergoing treatment for gambling disorder (GD). Understanding the biological, psychological, and social (biopsychosocial (BPS)) factors that influence relapse in GD is important to guide clinical practice and improve treatment efficacy …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2665613",
   "oa_url": "https://doi.org/10.1080/16066359.2026.2665613",
   "sources": [
    "feed:art",
    "openalex"
   ],
-  "type": "review",
+  "type": "article",
   "topics": [
-   "treatment",
-   "cognition",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
    "review"
   ],
   "design_basis": "rules",
-  "settings": [
-   "ES"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [
-   "GB",
-   "IS"
-  ],
-  "regions": [
-   "uk-ireland",
-   "europe"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -51014,10 +50473,10 @@
   ],
   "published": "2026-04-27",
   "year": 2026,
-  "created": "2026-04-28",
+  "created": "2026-04-27",
   "first_seen": "2026-04-27",
   "summary": "",
-  "url": "https://doi.org/10.29173/cgs268",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/268",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/268/166",
   "sources": [
    "crossref",
@@ -51030,15 +50489,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB",
-   "SE"
-  ],
-  "regions": [
-   "uk-ireland",
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -51278,15 +50731,13 @@
   "title": "Youth sports betting: exploring associations with addictive behaviors and sport participation",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Bram Constandt",
-   "K.T.E. Jacobs",
-   "Alain Van Hiel"
+   "Bram Constandt Katho Jacobs Alain Van Hiel a Department of Movement and Sports Sciences, Ghent University, Ghent, Belgiumb Department of Communication Sciences, Ghent University, Ghent, Belgiumc Department of Developmental, Personality and Social Psychology, Ghent University, Ghent, Belgium"
   ],
   "published": "2026-04-24",
   "year": 2026,
-  "created": "2026-04-25",
+  "created": "2026-04-24",
   "first_seen": "2026-04-24",
-  "summary": "Background Youth sports betting is a growing public health concern …",
+  "summary": "Volume 34, Issue 5, October 2026, Page 649-659 .",
   "url": "https://doi.org/10.1080/16066359.2026.2653599",
   "oa_url": null,
   "sources": [
@@ -51296,27 +50747,15 @@
   "type": "article",
   "topics": [
    "sports-betting",
-   "lottery",
-   "youth",
-   "comorbidity"
+   "youth"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "BE"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [
-   "BE"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -62455,13 +61894,13 @@
   "title": "TRADING ATHLETES: THE UNREGULATED MARKET of INDIAN FANTASY PLAYER STOCKS",
   "journal": "Gaming Law Review",
   "authors": [
-   "Samriddh Sharma"
+   "Samriddh Sharma Samriddh Sharma is a student at the West Bengal National University of Juridical Sciences and works as a Student Researcher with the Centre for Technology, Entertainment and Sports Law."
   ],
   "published": "2026-03-10",
   "year": 2026,
-  "created": "2026-03-11",
+  "created": "2026-03-10",
   "first_seen": "2026-03-10",
-  "summary": "This article examines the regulatory challenges posed by Fantasy Player Stock Trading (FPST) platforms in India, which uniquely blend gaming and financial market mechanics. Unlike traditional fantasy sports, FPST platforms utilize sophisticated trading features, including algorithmic pricing, leveraged positions, and market-driven price discovery …",
+  "summary": "Gaming Law Review, Volume 30, Issue 8-9, Page 239-250, October-November 2026. This article examines the regulatory challenges posed by Fantasy Player Stock Trading (FPST) platforms in India, which uniquely blend gaming and financial market mechanics. Unlike traditional fantasy sports, FPST platforms utilize sophisticated trading ...",
   "url": "https://doi.org/10.1177/25725300261420625",
   "oa_url": null,
   "sources": [
@@ -62482,13 +61921,9 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [
-   "IN"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -63090,26 +62525,19 @@
   "openalex": "W7134112649",
   "title": "Non-Substance Addictive Behaviors Among People with Intellectual Disability: A Systematic Review",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Juan Antonio García‐Aller",
-   "Gloria García–Fernández",
-   "Estrella Fernández",
-   "Mónica Bernaldo‐de‐Quirós",
-   "Amalia Udeanu",
-   "Laura E. Gómez"
-  ],
+  "authors": [],
   "published": "2026-03-07",
   "year": 2026,
-  "created": "2026-03-08",
+  "created": "2026-03-07",
   "first_seen": "2026-03-07",
-  "summary": "Abstract Non-substance addictive behaviors in individuals with intellectual disability (ID) constitute a relevant field of study, particularly given that this population has been historically underserved …",
+  "summary": "Non-substance addictive behaviors in individuals with intellectual disability (ID) constitute a relevant field of study, particularly given that this population has been historically underserved …",
   "url": "https://doi.org/10.1007/s11469-026-01640-4",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11469-026-01640-4.pdf",
   "sources": [
    "feed:ijmha",
    "openalex"
   ],
-  "type": "review",
+  "type": "article",
   "topics": [],
   "designs": [
    "review"
@@ -63117,13 +62545,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -63987,13 +63411,13 @@
   "title": "Harmonious and obsessive gambling passion: a comparative analysis of non-problem to problem gamblers",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Chris James Serafim"
+   "Chris James Serafim Institute for Health and Sport, Victoria University, Melbourne, VIC, Australia"
   ],
   "published": "2026-03-04",
   "year": 2026,
-  "created": "2026-03-07",
+  "created": "2026-03-04",
   "first_seen": "2026-03-04",
-  "summary": "While researchers have investigated the link between gambling and passion, there is currently a paucity of literature detailing the precise relationship between harmonious and obsessive passion across the full spectrum of this behavior …",
+  "summary": "Volume 34, Issue 5, October 2026, Page 612-625 .",
   "url": "https://doi.org/10.1080/16066359.2026.2638744",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2638744?needAccess=true",
   "sources": [
@@ -64002,19 +63426,13 @@
   ],
   "type": "article",
   "topics": [],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -100733,6 +100151,51 @@
   "retracted": false
  },
  {
+  "id": "title:f194d369455f2417",
+  "doi": "10.29173/cgs215",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W4415634992",
+  "title": "Reframing gambling harms as the product of a predatory industry",
+  "journal": "Critical Gambling Studies",
+  "authors": [
+   "Thomas Mills",
+   "Catherine L. Jenkins",
+   "James Grimes",
+   "Jo Sampson",
+   "Paula Reavey",
+   "Susie Sykes"
+  ],
+  "published": "2025-10-29",
+  "year": 2025,
+  "created": "2025-10-29",
+  "first_seen": "2025-10-29",
+  "summary": "The framing of public health challenges influences how societies and governments respond to them. This paper argues that public health professionals can counter the narrative influence of harmful commodity industries by amplifying the reframing efforts of progressive social movements …",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/215",
+  "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/215/158",
+  "sources": [
+   "crossref",
+   "feed:cgs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "industry",
+   "lived-experience"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s10899-025-10444-5",
   "doi": "10.1007/s10899-025-10444-5",
   "pmid": "41160332",
@@ -100929,55 +100392,6 @@
   "retracted": false
  },
  {
-  "id": "title:f194d369455f2417",
-  "doi": "10.29173/cgs215",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4415634992",
-  "title": "Reframing gambling harms as the product of a predatory industry: A Critical Theory interpretation of a Lived Experience-led ‘counterpublic’",
-  "journal": "Critical Gambling Studies",
-  "authors": [
-   "Thomas Mills",
-   "Catherine L. Jenkins",
-   "James Grimes",
-   "Jo Sampson",
-   "Paula Reavey",
-   "Susie Sykes"
-  ],
-  "published": "2025-10-28",
-  "year": 2025,
-  "created": "2025-10-28",
-  "first_seen": "2025-10-29",
-  "summary": "The framing of public health challenges influences how societies and governments respond to them. This paper argues that public health professionals can counter the narrative influence of harmful commodity industries by amplifying the reframing efforts of progressive social movements …",
-  "url": "https://doi.org/10.29173/cgs215",
-  "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/215/158",
-  "sources": [
-   "crossref",
-   "feed:cgs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "industry",
-   "lived-experience"
-  ],
-  "designs": [
-   "qualitative"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
   "id": "doi:10.1080/16066359.2025.2579019",
   "doi": "10.1080/16066359.2025.2579019",
   "pmid": null,
@@ -101032,7 +100446,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4415634957",
-  "title": "Why, by Whom and How?: Representations of gambling problems and their solutions in Swedish general administrative court cases",
+  "title": "Why, by Whom and How?",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Johanna Korfitsen",
@@ -101045,7 +100459,7 @@
   "created": "2025-10-28",
   "first_seen": "2025-10-28",
   "summary": "To strengthen the right to support for people with gambling problems in Sweden, legislative changes were enacted in 2018 …",
-  "url": "https://doi.org/10.29173/cgs208",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/208",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/208/161",
   "sources": [
    "crossref",
@@ -101065,13 +100479,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "SE"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -101210,11 +100620,11 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4415634905",
-  "title": "SQUARING A CIRCLE?: Sustainability Reports as a Legitimacy-Seeking Strategy in State Gambling Monopolies",
+  "title": "SQUARING A CIRCLE?",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Albert Caruana",
-   "Joseph M Vella",
+   "Joseph Vella",
    "Jirka Konietzny"
   ],
   "published": "2025-10-28",
@@ -101222,7 +100632,7 @@
   "created": "2025-10-28",
   "first_seen": "2025-10-28",
   "summary": "State gambling organisations are monopolies, that increasingly proclaim a commitment to sustainability principles, however their profits come at a substantial social cost. Gambling raises an array of economic, social and ethical governance concerns …",
-  "url": "https://doi.org/10.29173/cgs187",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/187",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/187/159",
   "sources": [
    "crossref",
@@ -101245,13 +100655,9 @@
    "uk-ireland",
    "europe"
   ],
-  "countries": [
-   "MT"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -101304,7 +100710,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4415634746",
-  "title": "Responsibilities in gambling harm prevention and reduction: Evidence from recently regulated licensed markets",
+  "title": "Responsibilities in gambling harm prevention and reduction",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Virve Marionneau",
@@ -101316,7 +100722,7 @@
   "created": "2025-10-28",
   "first_seen": "2025-10-28",
   "summary": "Gambling harm prevention and reduction consists of a range of upstream and downstream solutions. Responsibilities for implementing and ensuring these tasks falls across a range of actors, including policymakers, regulators, health professionals and industry …",
-  "url": "https://doi.org/10.29173/cgs226",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/226",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/226/165",
   "sources": [
    "crossref",
@@ -101335,13 +100741,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "FI"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -126104,40 +125506,6 @@
    "asia"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.29173/cgs234",
-  "doi": "10.29173/cgs234",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": null,
-  "title": "‘Gotta catch em all!’: The Gaming/Gambling Dynamics of Pokémon TCG Pocket",
-  "journal": "Critical Gambling Studies",
-  "authors": [
-   "Matthew Fitzpatrick"
-  ],
-  "published": "2025-07-10",
-  "year": 2025,
-  "created": "2025-07-11",
-  "first_seen": "2025-07-10",
-  "summary": "",
-  "url": "https://doi.org/10.29173/cgs234",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:cgs"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -151270,65 +150638,6 @@
   "retracted": false
  },
  {
-  "id": "title:bbccdf2efb33b52e",
-  "doi": null,
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7215326122",
-  "title": "The کرپٹو کرنسی: پاکستانی اقتصادی نظام پر اثرات فقہ اسلامی کی روشنی میں تجزیاتی مطالعہ",
-  "journal": "Majallah-e-Talim o Tahqiq",
-  "authors": [
-   "Sabah Naz"
-  ],
-  "published": "2025-03-31",
-  "year": 2025,
-  "created": "2026-10-02",
-  "first_seen": "2025-03-31",
-  "summary": "Coloration in animals can play a vital role in camouflage, mimicry, warning (Aposematism), and physiological functions (Caro 2005). Coloration of animals can be changes due to age, season, diet, health and environmental conditions (Mahabal et al. 2019) …",
-  "url": "https://ojs.cer.edu.pk/index.php/mtt/article/view/337",
-  "oa_url": "https://ojs.cer.edu.pk/index.php/mtt/article/download/337/182",
-  "sources": [
-   "feed:cbp",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "IN"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "PK",
-   "IQ",
-   "ID",
-   "IN",
-   "RO",
-   "US",
-   "TH",
-   "MY",
-   "MK",
-   "BG",
-   "NG",
-   "LA",
-   "ET",
-   "JP"
-  ],
-  "regions": [
-   "asia",
-   "middle-east",
-   "europe",
-   "us",
-   "africa"
-  ],
-  "language": "en",
-  "relevance": "low",
-  "retracted": false
- },
- {
   "id": "doi:10.61448/djerd22118",
   "doi": "10.61448/djerd22118",
   "pmid": null,
@@ -153668,7 +152977,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4408797084",
-  "title": "Time to Shuffle the Deck: Recommendations to Improve Gender Representation at Gambling Studies Conferences",
+  "title": "Time to Shuffle the Deck",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Eva Monson",
@@ -153684,10 +152993,10 @@
   ],
   "published": "2025-03-23",
   "year": 2025,
-  "created": "2025-03-24",
+  "created": "2025-03-23",
   "first_seen": "2025-03-23",
   "summary": "The underrepresentation of women speakers at academic conferences in the gambling studies field is historic and pervasive yet the pressing issue of gender disparity in the field has yet to be adequately acknowledged or addressed …",
-  "url": "https://doi.org/10.29173/cgs222",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/222",
   "oa_url": "https://doi.org/10.29173/cgs222",
   "sources": [
    "crossref",
@@ -153704,15 +153013,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA",
-   "GB"
-  ],
-  "regions": [
-   "canada",
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -153722,17 +153025,17 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4408797980",
-  "title": "The Manitoba Gambling Research Program: Influencing Research Agendas Through Funding",
+  "title": "The Manitoba Gambling Research Program",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Julie Pelletier"
   ],
   "published": "2025-03-23",
   "year": 2025,
-  "created": "2025-03-24",
+  "created": "2025-03-23",
   "first_seen": "2025-03-23",
   "summary": "The Manitoba Gambling Research Program: Influencing Research Agendas Through Funding. Un article de la revue Critical Gambling Studies (Volume 5, numéro 2, 2024, p. 1-107) diffusée par la plateforme Érudit.",
-  "url": "https://doi.org/10.29173/cgs212",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/212",
   "oa_url": "https://doi.org/10.29173/cgs212",
   "sources": [
    "crossref",
@@ -153749,13 +153052,9 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -154019,7 +153318,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4408798024",
-  "title": "Addressing gambling harms among women: Leveraging lessons from the wider field of gender and health",
+  "title": "Addressing gambling harms among women",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Daria Ukhova",
@@ -154027,10 +153326,10 @@
   ],
   "published": "2025-03-23",
   "year": 2025,
-  "created": "2025-03-24",
+  "created": "2025-03-23",
   "first_seen": "2025-03-23",
   "summary": "Addressing gambling harms among women: Leveraging lessons from the wider field of gender and health. Un article de la revue Critical Gambling Studies (Volume 5, numéro 2, 2024, p. 1-107) diffusée par la plateforme Érudit.",
-  "url": "https://doi.org/10.29173/cgs221",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/221",
   "oa_url": "https://doi.org/10.29173/cgs221",
   "sources": [
    "crossref",
@@ -154045,13 +153344,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -154092,45 +153387,6 @@
    "canada"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.29173/cgs223",
-  "doi": "10.29173/cgs223",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": null,
-  "title": "A Fabulous Speck: Macau and the Global Gambling Industry",
-  "journal": "Critical Gambling Studies",
-  "authors": [
-   "Tim Simpson",
-   "Adam Lampton"
-  ],
-  "published": "2025-03-23",
-  "year": 2025,
-  "created": "2025-03-24",
-  "first_seen": "2025-03-23",
-  "summary": "",
-  "url": "https://doi.org/10.29173/cgs223",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:cgs"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "MO"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [],
-  "regions": [],
-  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -159829,16 +159085,13 @@
   "title": "Pedaling partnerships: exploring the influence of gambling companies as cycling team name sponsors on cycling fans",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "B. Hartmann",
-   "Steffi De Jans",
-   "Bram Constandt",
-   "Liselot Hudders"
+   "B. Hartmann S. De Jans B. Constandt L. Hudders a Department of Movement and Sports Sciences, Ghent University, Ghent, Belgiumb Department of Communication Sciences, Ghent University, Ghent, Belgium"
   ],
   "published": "2025-02-24",
   "year": 2025,
-  "created": "2025-10-10",
+  "created": "2025-02-24",
   "first_seen": "2025-02-24",
-  "summary": "The significance of sponsorship in professional road cycling is evident in the way cycling teams incorporate their sponsors’ brand names into their official team names. Gambling and lottery brands frequently sponsor cycling teams, resulting in team names including gambling brands …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2025.2468444",
   "oa_url": "https://biblio.ugent.be/publication/01K6N4ZY9C840XJSXQYMWKP14F",
   "sources": [
@@ -159846,23 +159099,14 @@
    "openalex"
   ],
   "type": "article",
-  "topics": [
-   "advertising",
-   "cognition"
-  ],
-  "designs": [
-   "experiment"
-  ],
+  "topics": [],
+  "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "BE"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -242378,10 +241622,10 @@
   ],
   "published": "2024-01-03",
   "year": 2024,
-  "created": "2024-01-04",
+  "created": "2024-01-03",
   "first_seen": "2024-01-03",
   "summary": "Non peer reviewed",
-  "url": "https://doi.org/10.29173/cgs179",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/179",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/179/110",
   "sources": [
    "crossref",
@@ -242396,13 +241640,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "FI"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -260719,10 +259959,10 @@
   ],
   "published": "2023-10-11",
   "year": 2023,
-  "created": "2023-10-12",
+  "created": "2023-10-11",
   "first_seen": "2023-10-11",
   "summary": "",
-  "url": "https://doi.org/10.29173/cgs175",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/175",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/175/108",
   "sources": [
    "crossref",
@@ -260737,15 +259977,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA",
-   "US"
-  ],
-  "regions": [
-   "canada",
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -292052,7 +291286,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4362591447",
-  "title": "“It Always Depends on the Context”: Poker Players' Perceptions of Substance Use at and Beyond the Table",
+  "title": "“It Always Depends on the Context”",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Adèle Morvannou",
@@ -292065,10 +291299,10 @@
   ],
   "published": "2023-03-31",
   "year": 2023,
-  "created": "2023-04-01",
+  "created": "2023-03-31",
   "first_seen": "2023-03-31",
   "summary": "While it is well recognized that gambling behaviours are shaped by the contexts in which they occur, less research has investigated the relationship between poker and substance use (i.e., alcohol and other drugs). The current study explores poker players’ perceptions of the relationship between substance use and gambling …",
-  "url": "https://doi.org/10.29173/cgs134",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/134",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/134/101",
   "sources": [
    "crossref",
@@ -292087,13 +291321,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -292103,17 +291333,17 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4362585809",
-  "title": "Welcome Inside The Casino Cottage: Challenging the Notions of “Risk” in Online Casino Advertising through a Context-Attentive Discourse Analysis of a Swedish Brand’s Ad Videos from 2014-2022",
+  "title": "Welcome Inside The Casino Cottage",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Åsa Kroon"
   ],
   "published": "2023-03-31",
   "year": 2023,
-  "created": "2023-04-01",
+  "created": "2023-03-31",
   "first_seen": "2023-03-31",
   "summary": "Gambling advertising’s use of celebrities, humor, and representations of happy people who Win Big, in narratives told in brash colored, high-pitched ads, are argued to increase the risk for gambling problems, or worse, addiction …",
-  "url": "https://doi.org/10.29173/cgs148",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/148",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/148/100",
   "sources": [
    "crossref",
@@ -292137,13 +291367,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "SE"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -292153,7 +291379,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4317212377",
-  "title": "Trauma and Gambling: A Scoping Review of Qualitative Research",
+  "title": "Trauma and Gambling",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Eva Monson",
@@ -292162,10 +291388,10 @@
   ],
   "published": "2023-03-31",
   "year": 2023,
-  "created": "2023-01-18",
+  "created": "2023-03-31",
   "first_seen": "2023-03-31",
   "summary": "Both gambling-related problems and trauma have long been associated with substantial costs for individuals, their families, and society. Existing reviews of research on the relationship between trauma and gambling have thus far been limited to quantitative work …",
-  "url": "https://doi.org/10.29173/cgs113",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/113",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/113/97",
   "sources": [
    "crossref",
@@ -292177,7 +291403,7 @@
    "comorbidity"
   ],
   "designs": [
-   "review"
+   "qualitative"
   ],
   "design_basis": "rules",
   "settings": [
@@ -292186,13 +291412,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -292444,7 +291666,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4293076653",
-  "title": "Mapping the Conceptualization of Gender in Gambling Literature: A Scoping Review",
+  "title": "Mapping the Conceptualization of Gender in Gambling Literature",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Sylvia Kairouz",
@@ -292455,10 +291677,10 @@
   ],
   "published": "2023-03-31",
   "year": 2023,
-  "created": "2022-06-07",
+  "created": "2023-03-31",
   "first_seen": "2023-03-31",
   "summary": "This scoping review aims to map the existing conceptualization of gender in peer-reviewed gambling scholarship to locate areas of future inquiry for a comprehensive understanding of the relationship between gender and gambling. It follows Arksey and O'Malley's (2005) framework for scoping reviews, updated by Levac et al. (2010) and Daudt et al. (2013) …",
-  "url": "https://doi.org/10.29173/cgs115",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/115",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/115/82",
   "sources": [
    "crossref",
@@ -292475,13 +291697,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -292491,7 +291709,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4362591137",
-  "title": "Interpassive Gambling: The Case of Slot Machine Vlogs on YouTube",
+  "title": "Interpassive Gambling",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Pauline Hoebanx",
@@ -292499,10 +291717,10 @@
   ],
   "published": "2023-03-31",
   "year": 2023,
-  "created": "2023-04-01",
+  "created": "2023-03-31",
   "first_seen": "2023-03-31",
   "summary": "Slot machines are recognized as a particularly risky form of gambling. However, there is a form of slot machine consumption that seems to have largely escaped the notice of regulators and scholars: the streaming of slot machine play on YouTube and other platforms. In this article, we present the results of our qualitative study of 21 slot machine videos …",
-  "url": "https://doi.org/10.29173/cgs150",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/150",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/150/102",
   "sources": [
    "crossref",
@@ -292520,13 +291738,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -292620,19 +291834,19 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4293076673",
-  "title": "Gambling Advertising and Incidental Marketing Exposure in Soccer Matchday Programmes: A Longitudinal Study",
+  "title": "Gambling Advertising and Incidental Marketing Exposure in Soccer Matchday Programmes",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Steve Sharman",
-   "Catia Ferreira",
-   "Philip Newall"
+   "Catia Alexandra Ferreira",
+   "Philip W.S. Newall"
   ],
   "published": "2023-03-31",
   "year": 2023,
-  "created": "2022-06-07",
+  "created": "2023-03-31",
   "first_seen": "2023-03-31",
   "summary": "Gambling is marketed in English soccer across various formats such as TV advertising, social media, pitch side hoardings, and shirt sponsorship. There have been recent reductions in TV advertising brought about by self-regulation, but gambling shirt sponsorship remains frequent, and can lead to a high frequency of incidental marketing exposure on TV …",
-  "url": "https://doi.org/10.29173/cgs116",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/116",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/116/83",
   "sources": [
    "crossref",
@@ -292646,66 +291860,14 @@
    "prevalence",
    "industry"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "GB",
-   "AU"
-  ],
-  "regions": [
-   "uk-ireland",
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.29173/cgs161",
-  "doi": "10.29173/cgs161",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4362584995",
-  "title": "Editorial",
-  "journal": "Critical Gambling Studies",
-  "authors": [
-   "Kate Bedford",
-   "Emma Casey",
-   "Fiona Nicoll"
-  ],
-  "published": "2023-03-31",
-  "year": 2023,
-  "created": "2023-04-01",
-  "first_seen": "2023-03-31",
-  "summary": "Editorial to Critical Gambling Studies (2023) Vol. 4, No. 1.",
-  "url": "https://doi.org/10.29173/cgs161",
-  "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/161/105",
-  "sources": [
-   "crossref",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [
-   "commentary"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "GB",
-   "CA"
-  ],
-  "regions": [
-   "uk-ireland",
-   "canada"
-  ],
-  "language": "en",
-  "relevance": "low",
   "retracted": false
  },
  {
@@ -295492,7 +294654,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4324138453",
-  "title": "The GameBling Game Jam: Game Jams as a Method for Studying Gambling Games",
+  "title": "The GameBling Game Jam",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Pauline Hoebanx",
@@ -295503,10 +294665,10 @@
   ],
   "published": "2023-03-13",
   "year": 2023,
-  "created": "2023-03-14",
+  "created": "2023-03-13",
   "first_seen": "2023-03-13",
   "summary": "Gambling scholars may be unfamiliar with the research methods used by their colleagues in game studies. Yet, as gambling becomes gamified, and gaming becomes gamblified, the intersection between our two fields continues to grow …",
-  "url": "https://doi.org/10.29173/cgs160",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/160",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/160/99",
   "sources": [
    "crossref",
@@ -295521,13 +294683,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -304347,17 +303505,17 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W4317212369",
-  "title": "US Gambling Stagnation: Will New Gambling Forms Make a Difference?",
+  "title": "US Gambling Stagnation",
   "journal": "Critical Gambling Studies",
   "authors": [
    "Thomas Lambert"
   ],
   "published": "2023-01-17",
   "year": 2023,
-  "created": "2023-01-18",
+  "created": "2023-01-17",
   "first_seen": "2023-01-17",
   "summary": "Much has been written recently in the popular press about the rise of sports gambling, historical horse racing or instant racing (HHR), and esports …",
-  "url": "https://doi.org/10.29173/cgs152",
+  "url": "https://criticalgamblingstudies.com/index.php/cgs/article/view/152",
   "oa_url": "https://criticalgamblingstudies.com/index.php/cgs/article/download/152/96",
   "sources": [
    "crossref",
@@ -304376,13 +303534,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },

@@ -4,7 +4,7 @@
   "registry": "osf",
   "registry_label": "OSF Registries",
   "kind": "registration",
-  "title": "Trading on the Margins: Financial Sacrifice and Tacit Collusion Among Ideologically Aligned AI Agents in Political Prediction Markets",
+  "title": "Trading on the Margins: Independent Actions, Correlated Judgement, and the Limits of AI Collusion Detection in Prediction Markets",
   "status": "registered",
   "study_type": "",
   "phases": [],
@@ -20,7 +20,7 @@
   "start_date": null,
   "completion_date": null,
   "first_posted": "2026-10-24",
-  "last_updated": "2026-10-24",
+  "last_updated": "2026-10-25",
   "results_posted": false,
   "results_date": null,
   "summary": "This project was developed in response to Apart Research's AI Collusion Research Sprint, held on October 23–25, 2026 …",
@@ -31,13 +31,52 @@
   ],
   "topics": [
    "prediction-markets",
-   "financial-harm",
-   "industry"
+   "financial-harm"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-24",
+  "status_changed": null
+ },
+ {
+  "id": "osf:axd49",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Ecological validity of addiction cue reactivity: a systematic review and meta-analysis of virtual reality versus conventional cue presentation",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-23",
+  "last_updated": "2026-10-23",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This systematic review and meta-analysis examines whether presenting addiction cues in immersive virtual reality (VR) elicits stronger craving, autonomic and brain responses than conventional, non-immersive cue presentation …",
+  "url": "https://osf.io/axd49/",
+  "registration_type": "Generalized Systematic Review Registration",
+  "authors": [
+   "Ze-Yu Lin",
+   "Chun-Wei Hsu"
+  ],
+  "topics": [
+   "loot-boxes",
+   "cognition",
+   "comorbidity"
   ],
   "designs": [
-   "experiment"
+   "review"
   ],
-  "first_seen": "2026-10-24",
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -75,16 +114,10 @@
    "Francisco J. Rivero"
   ],
   "topics": [
-   "online-gambling",
    "loot-boxes",
-   "policy",
-   "measurement",
    "cognition"
   ],
-  "designs": [
-   "survey",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2026-04-13",
   "status_changed": null
  },
@@ -127,12 +160,9 @@
   ],
   "topics": [
    "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2025-11-15",
   "status_changed": null
  },
@@ -169,16 +199,11 @@
   "topics": [
    "sports-betting",
    "online-gambling",
-   "lottery",
    "loot-boxes",
    "youth",
-   "policy",
-   "prevalence",
-   "measurement"
+   "prevalence"
   ],
   "designs": [
-   "review",
-   "qualitative",
    "survey"
   ],
   "first_seen": "2026-10-19",
@@ -229,7 +254,7 @@
    "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2026-02-05",
   "status_changed": null
@@ -279,12 +304,10 @@
   "topics": [
    "online-gambling",
    "treatment",
-   "cognition",
-   "comorbidity",
    "families"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2026-10-07",
   "status_changed": null
@@ -327,10 +350,7 @@
    "families",
    "lived-experience"
   ],
-  "designs": [
-   "review",
-   "qualitative"
-  ],
+  "designs": [],
   "first_seen": "2026-10-18",
   "status_changed": null
  },
@@ -366,13 +386,10 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "trading",
    "loot-boxes",
-   "prevention",
    "advertising",
    "policy",
-   "cognition",
-   "families"
+   "cognition"
   ],
   "designs": [
    "behavioral-data"
@@ -411,9 +428,7 @@
    "Vojtěch Zíka",
    "Sára Laníková"
   ],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [
    "experiment"
   ],
@@ -453,11 +468,9 @@
   "topics": [
    "sports-betting",
    "youth",
-   "families",
-   "industry"
+   "families"
   ],
   "designs": [
-   "review",
    "protocol"
   ],
   "first_seen": "2026-10-12",
@@ -499,11 +512,8 @@
   ],
   "topics": [
    "youth",
-   "prevalence",
    "comorbidity",
-   "families",
-   "equity",
-   "industry"
+   "families"
   ],
   "designs": [
    "qualitative",
@@ -545,10 +555,8 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
    "policy",
-   "families",
-   "industry"
+   "families"
   ],
   "designs": [],
   "first_seen": "2026-10-08",
@@ -587,8 +595,7 @@
   ],
   "topics": [
    "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
    "survey",
@@ -630,12 +637,10 @@
    "Robert Heirene"
   ],
   "topics": [
-   "online-gambling",
    "prevention"
   ],
   "designs": [
    "survey",
-   "longitudinal",
    "behavioral-data",
    "experiment"
   ],
@@ -692,6 +697,7 @@
    "cognition"
   ],
   "designs": [
+   "protocol",
    "survey"
   ],
   "first_seen": "2026-10-02",
@@ -731,13 +737,9 @@
    "Iris E Joon",
    "Harmen Beurmanjer"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
-   "qualitative",
-   "survey",
-   "experiment"
+   "qualitative"
   ],
   "first_seen": "2026-10-01",
   "status_changed": null
@@ -779,8 +781,7 @@
    "David Victor Smith"
   ],
   "topics": [
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2026-09-30",
@@ -823,9 +824,7 @@
    "Thomas Olino",
    "David Victor Smith"
   ],
-  "topics": [
-   "comorbidity"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2026-09-29",
   "status_changed": null
@@ -863,14 +862,10 @@
    "Reagan Pintar"
   ],
   "topics": [
-   "casino",
    "treatment",
-   "policy",
    "cognition"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2026-09-28",
   "status_changed": null
  },
@@ -910,12 +905,7 @@
   ],
   "topics": [
    "policy",
-   "measurement",
-   "comorbidity",
-   "families",
-   "financial-harm",
-   "equity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
    "protocol"
@@ -957,13 +947,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "policy",
-   "measurement",
-   "industry"
+   "treatment"
   ],
   "designs": [
-   "survey"
+   "experiment"
   ],
   "first_seen": "2026-09-18",
   "status_changed": null
@@ -1017,23 +1004,61 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "youth",
    "treatment",
-   "prevention",
-   "advertising",
    "policy",
-   "measurement",
-   "cognition",
    "comorbidity",
-   "families",
    "equity",
-   "industry",
    "veterans"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2026-06-22",
+  "status_changed": null
+ },
+ {
+  "id": "NCT03967418",
+  "registry": "clinicaltrials",
+  "registry_label": "ClinicalTrials.gov",
+  "kind": "trial",
+  "title": "Behavioral Addictions and Related NeuroCOgnitive Aspects",
+  "status": "completed",
+  "study_type": "interventional",
+  "phases": [],
+  "enrollment": 116,
+  "conditions": [
+   "Behavioral Addiction"
+  ],
+  "interventions": [
+   "behavioral: Cognitive and clinical assessment"
+  ],
+  "sponsor": "Nantes University Hospital",
+  "sponsor_class": "other",
+  "collaborators": [],
+  "countries": [
+   "FR"
+  ],
+  "country_names": [
+   "France"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "start_date": "2019-10-28",
+  "completion_date": "2025-06-26",
+  "first_posted": "2019-05-30",
+  "last_updated": "2026-09-14",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Improving knowledge about behavioural addictions is a real public health issue. The etiopathogenic model of behavioural addictions is multifactorial, with various risk and vulnerability factors, involved in the initiation and maintenance of the disorders …",
+  "url": "https://clinicaltrials.gov/study/NCT03967418",
+  "registration_type": "",
+  "authors": [],
+  "topics": [
+   "cognition"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -1066,13 +1091,9 @@
   "authors": [
    "Joyce Mai"
   ],
-  "topics": [
-   "online-gambling",
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
-   "qualitative",
-   "survey"
+   "qualitative"
   ],
   "first_seen": "2026-09-11",
   "status_changed": null
@@ -1110,14 +1131,9 @@
   "topics": [
    "sports-betting",
    "youth",
-   "treatment",
-   "policy",
-   "prevalence",
    "comorbidity"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2026-09-08",
   "status_changed": null
  },
@@ -1157,11 +1173,10 @@
   "topics": [
    "online-gambling",
    "prevention",
-   "policy",
-   "prevalence",
-   "industry"
+   "policy"
   ],
   "designs": [
+   "protocol",
    "survey",
    "behavioral-data"
   ],
@@ -1204,9 +1219,7 @@
    "Ella Forsyth"
   ],
   "topics": [
-   "online-gambling",
    "loot-boxes",
-   "treatment",
    "cognition"
   ],
   "designs": [],
@@ -1253,9 +1266,7 @@
    "policy",
    "industry"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-09-03",
   "status_changed": null
  },
@@ -1291,9 +1302,7 @@
    "Martyn Quigley"
   ],
   "topics": [
-   "online-gambling",
-   "measurement",
-   "cognition"
+   "online-gambling"
   ],
   "designs": [
    "experiment"
@@ -1334,11 +1343,9 @@
    "Robb Rutledge"
   ],
   "topics": [
-   "treatment",
-   "cognition"
+   "treatment"
   ],
   "designs": [
-   "trial",
    "experiment"
   ],
   "first_seen": "2026-09-02",
@@ -1375,9 +1382,7 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "loot-boxes",
-   "prevalence",
-   "industry"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2025-07-07",
@@ -1414,11 +1419,7 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "loot-boxes",
-   "prevention",
-   "policy",
-   "prevalence",
-   "industry"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2026-09-01",
@@ -1456,17 +1457,10 @@
    "Oskar Pineno"
   ],
   "topics": [
-   "online-gambling",
-   "prevention",
-   "measurement",
-   "cognition",
-   "comorbidity",
-   "families"
+   "cognition"
   ],
   "designs": [
-   "survey",
-   "longitudinal",
-   "experiment"
+   "longitudinal"
   ],
   "first_seen": "2026-08-30",
   "status_changed": null
@@ -1502,12 +1496,10 @@
    "Quentin Hallez"
   ],
   "topics": [
-   "loot-boxes",
-   "measurement"
+   "loot-boxes"
   ],
   "designs": [
-   "review",
-   "longitudinal"
+   "review"
   ],
   "first_seen": "2026-08-25",
   "status_changed": null
@@ -1544,11 +1536,8 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "casino",
    "measurement",
-   "comorbidity",
-   "industry"
+   "financial-harm"
   ],
   "designs": [
    "behavioral-data"
@@ -1603,9 +1592,7 @@
    "treatment",
    "comorbidity"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2023-11-01",
   "status_changed": null
  },
@@ -1640,12 +1627,10 @@
    "Paolo Landa"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [
-   "review",
-   "behavioral-data"
+   "review"
   ],
   "first_seen": "2026-08-19",
   "status_changed": null
@@ -1687,19 +1672,14 @@
   "topics": [
    "online-gambling",
    "treatment",
-   "prevention",
-   "policy",
-   "measurement",
-   "cognition",
    "comorbidity",
    "financial-harm",
    "equity",
-   "industry",
    "lived-experience"
   ],
   "designs": [
-   "qualitative",
-   "commentary"
+   "protocol",
+   "qualitative"
   ],
   "first_seen": "2026-04-21",
   "status_changed": null
@@ -1737,9 +1717,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-08-15",
   "status_changed": null
  },
@@ -1774,13 +1752,9 @@
    "Ziye Luo"
   ],
   "topics": [
-   "prediction-markets",
-   "policy",
-   "industry"
+   "prediction-markets"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2026-08-13",
   "status_changed": null
  },
@@ -1822,13 +1796,8 @@
   ],
   "topics": [
    "online-gambling",
-   "trading",
    "loot-boxes",
-   "youth",
-   "prevention",
-   "policy",
-   "prevalence",
-   "comorbidity"
+   "prevention"
   ],
   "designs": [
    "review"
@@ -1870,15 +1839,9 @@
   "topics": [
    "loot-boxes",
    "youth",
-   "measurement",
-   "comorbidity",
-   "families",
-   "equity"
+   "families"
   ],
-  "designs": [
-   "survey",
-   "behavioral-data"
-  ],
+  "designs": [],
   "first_seen": "2026-03-16",
   "status_changed": null
  },
@@ -1915,12 +1878,9 @@
    "Charlotte Eben"
   ],
   "topics": [
-   "loot-boxes",
-   "measurement"
+   "loot-boxes"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-08-10",
   "status_changed": null
  },
@@ -1958,23 +1918,12 @@
    "Richard James"
   ],
   "topics": [
-   "online-gambling",
    "youth",
    "advertising",
    "policy",
-   "prevalence",
-   "measurement",
-   "comorbidity",
-   "families",
-   "equity",
-   "industry",
-   "older-adults"
+   "comorbidity"
   ],
-  "designs": [
-   "survey",
-   "behavioral-data",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2026-08-07",
   "status_changed": null
  },
@@ -2013,7 +1962,6 @@
    "Heather Wardle"
   ],
   "topics": [
-   "advertising",
    "industry"
   ],
   "designs": [
@@ -2055,10 +2003,7 @@
    "Simon Dymond"
   ],
   "topics": [
-   "treatment",
-   "prevalence",
-   "measurement",
-   "equity"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2025-10-29",
@@ -2132,10 +2077,7 @@
    "Marilane Ferrer"
   ],
   "topics": [
-   "sports-betting",
-   "prevention",
-   "policy",
-   "industry"
+   "sports-betting"
   ],
   "designs": [
    "review"
@@ -2176,11 +2118,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "treatment",
-   "policy",
-   "prevalence",
-   "cognition",
-   "families"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2026-07-28",
@@ -2226,13 +2164,9 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
-   "prevalence",
-   "comorbidity"
+   "prevention"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2025-04-01",
   "status_changed": null
  },
@@ -2314,18 +2248,11 @@
   ],
   "topics": [
    "online-gambling",
-   "treatment",
-   "prevention",
-   "policy",
-   "prevalence",
-   "measurement",
-   "industry"
+   "prevention"
   ],
   "designs": [
-   "trial",
    "longitudinal",
-   "behavioral-data",
-   "experiment"
+   "behavioral-data"
   ],
   "first_seen": "2026-07-17",
   "status_changed": null
@@ -2365,9 +2292,7 @@
    "youth",
    "comorbidity"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-12-14",
   "status_changed": null
  },
@@ -2406,10 +2331,7 @@
    "loot-boxes",
    "measurement"
   ],
-  "designs": [
-   "longitudinal",
-   "behavioral-data"
-  ],
+  "designs": [],
   "first_seen": "2026-04-01",
   "status_changed": null
  },
@@ -2483,14 +2405,12 @@
    "Daiju Ueda"
   ],
   "topics": [
-   "advertising",
    "policy",
    "comorbidity",
    "industry"
   ],
   "designs": [
-   "survey",
-   "experiment"
+   "survey"
   ],
   "first_seen": "2026-07-12",
   "status_changed": null
@@ -2531,8 +2451,7 @@
    "advertising",
    "policy",
    "comorbidity",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [],
   "first_seen": "2026-07-09",
@@ -2572,10 +2491,11 @@
   "topics": [
    "online-gambling",
    "youth",
-   "measurement",
    "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2026-07-09",
   "status_changed": null
  },
@@ -2609,12 +2529,8 @@
   "authors": [
    "Patrick Sturgis"
   ],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [
-   "qualitative",
-   "survey",
    "experiment"
   ],
   "first_seen": "2025-04-30",
@@ -2704,15 +2620,56 @@
   "topics": [
    "loot-boxes",
    "youth",
-   "prevention",
-   "advertising",
    "policy",
-   "industry"
+   "families"
+  ],
+  "designs": [],
+  "first_seen": "2026-07-07",
+  "status_changed": null
+ },
+ {
+  "id": "osf:rwvbq",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Feasibility and preliminary effects of micro interventions for the promotion of well-being in clinical samples: A randomized controlled pilot study of IMPULSA solution",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-05-13",
+  "last_updated": "2026-07-07",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This study aims to evaluate the feasibility of the IMPULSA solution — a positive psychology mobile app — and its preliminary effects on enhancing well-being among individuals with various diagnoses, including emotional disorders, borderline personality disorder, adjustment disorder, pathological …",
+  "url": "https://osf.io/rwvbq/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "María Folgado",
+   "Pedro Sarrión Castelló",
+   "ROSA MARIA BAÑOS RIVERA",
+   "Marta Miragall",
+   "Alba Jiménez Díaz"
+  ],
+  "topics": [
+   "comorbidity"
   ],
   "designs": [
-   "trial"
+   "protocol",
+   "longitudinal",
+   "experiment"
   ],
-  "first_seen": "2026-07-07",
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -2788,11 +2745,10 @@
    "Theodore Piper"
   ],
   "topics": [
-   "youth",
-   "treatment"
+   "youth"
   ],
   "designs": [
-   "review"
+   "protocol"
   ],
   "first_seen": "2026-07-06",
   "status_changed": null
@@ -2829,19 +2785,13 @@
   ],
   "topics": [
    "treatment",
-   "policy",
    "prevalence",
-   "measurement",
    "cognition",
    "comorbidity",
-   "families",
    "equity"
   ],
   "designs": [
-   "review",
-   "qualitative",
    "survey",
-   "longitudinal",
    "behavioral-data"
   ],
   "first_seen": "2026-07-05",
@@ -2878,14 +2828,11 @@
    "Amrita Lamba"
   ],
   "topics": [
-   "casino",
    "youth",
-   "prevalence",
    "cognition",
    "comorbidity"
   ],
   "designs": [
-   "longitudinal",
    "experiment"
   ],
   "first_seen": "2026-06-29",
@@ -2928,9 +2875,7 @@
    "Andrew Camara"
   ],
   "topics": [
-   "sports-betting",
-   "online-gambling",
-   "policy"
+   "sports-betting"
   ],
   "designs": [],
   "first_seen": "2026-06-28",
@@ -2972,10 +2917,7 @@
   "url": "https://clinicaltrials.gov/study/NCT00360321",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "prevalence",
-   "comorbidity"
-  ],
+  "topics": [],
   "designs": [
    "survey"
   ],
@@ -3059,8 +3001,7 @@
    "loot-boxes"
   ],
   "designs": [
-   "survey",
-   "behavioral-data"
+   "survey"
   ],
   "first_seen": "2026-06-23",
   "status_changed": null
@@ -3098,12 +3039,8 @@
    "Ana Isabel Batalha Bicho",
    "Sónia Cristina Malhão Viegas"
   ],
-  "topics": [
-   "equity"
-  ],
-  "designs": [
-   "review"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2026-06-21",
   "status_changed": null
  },
@@ -3150,9 +3087,7 @@
   "authors": [],
   "topics": [
    "cognition",
-   "comorbidity",
-   "equity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [],
   "first_seen": "2026-03-06",
@@ -3193,21 +3128,16 @@
   "topics": [
    "loot-boxes",
    "youth",
-   "treatment",
    "prevention",
-   "advertising",
    "policy",
    "measurement",
    "cognition",
    "comorbidity",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
-   "review",
-   "qualitative",
-   "experiment",
-   "protocol"
+   "protocol",
+   "qualitative"
   ],
   "first_seen": "2026-06-16",
   "status_changed": null
@@ -3282,10 +3212,7 @@
    "Maria Eduarda Goldmeier",
    "Roberto Pierobom Lima"
   ],
-  "topics": [
-   "treatment",
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
    "review"
   ],
@@ -3329,14 +3256,10 @@
    "treatment",
    "policy",
    "comorbidity",
-   "financial-harm",
-   "industry",
-   "older-adults"
+   "financial-harm"
   ],
   "designs": [
-   "review",
-   "qualitative",
-   "commentary"
+   "qualitative"
   ],
   "first_seen": "2026-06-11",
   "status_changed": null
@@ -3375,16 +3298,11 @@
    "Arnt Schellekens"
   ],
   "topics": [
-   "youth",
    "treatment",
    "policy",
-   "prevalence",
-   "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-06-10",
   "status_changed": null
  },
@@ -3427,12 +3345,9 @@
   "url": "https://clinicaltrials.gov/study/NCT07228182",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment",
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
-   "trial",
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2025-11-14",
@@ -3472,14 +3387,9 @@
   ],
   "topics": [
    "youth",
-   "treatment",
-   "policy",
-   "prevalence",
-   "comorbidity",
-   "financial-harm"
+   "comorbidity"
   ],
   "designs": [
-   "review",
    "longitudinal"
   ],
   "first_seen": "2026-06-09",
@@ -3520,6 +3430,7 @@
    "industry"
   ],
   "designs": [
+   "protocol",
    "qualitative"
   ],
   "first_seen": "2026-06-08",
@@ -3556,7 +3467,6 @@
    "Melina Axiopoulos"
   ],
   "topics": [
-   "treatment",
    "measurement",
    "cognition"
   ],
@@ -3595,8 +3505,7 @@
    "Paige Amormino"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2026-06-03",
@@ -3637,9 +3546,7 @@
   "topics": [
    "casino"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-05-29",
   "status_changed": null
  },
@@ -3676,8 +3583,7 @@
   ],
   "topics": [
    "sports-betting",
-   "cognition",
-   "industry"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2026-06-09",
@@ -3720,9 +3626,7 @@
    "Simon Dymond"
   ],
   "topics": [
-   "online-gambling",
-   "policy",
-   "prevalence"
+   "online-gambling"
   ],
   "designs": [
    "survey",
@@ -3813,9 +3717,7 @@
   "url": "https://clinicaltrials.gov/study/NCT06963931",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2025-05-09",
   "status_changed": null
@@ -3854,15 +3756,12 @@
    "Annika Brandtner"
   ],
   "topics": [
-   "treatment",
    "advertising",
    "measurement",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [
-   "case-report",
-   "protocol"
+   "case-report"
   ],
   "first_seen": "2026-05-20",
   "status_changed": null
@@ -3901,10 +3800,7 @@
   ],
   "topics": [
    "online-gambling",
-   "youth",
-   "advertising",
-   "policy",
-   "industry"
+   "advertising"
   ],
   "designs": [],
   "first_seen": "2026-05-18",
@@ -3942,10 +3838,9 @@
    "Naomi Muggleton"
   ],
   "topics": [
-   "industry"
+   "financial-harm"
   ],
   "designs": [
-   "survey",
    "behavioral-data"
   ],
   "first_seen": "2026-05-18",
@@ -3985,15 +3880,10 @@
    "Ismael Muela"
   ],
   "topics": [
-   "online-gambling",
    "casino",
-   "treatment",
-   "policy",
    "cognition"
   ],
   "designs": [
-   "trial",
-   "survey",
    "experiment"
   ],
   "first_seen": "2025-07-02",
@@ -4046,9 +3936,7 @@
    "treatment",
    "cognition"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2020-07-13",
   "status_changed": null
  },
@@ -4086,17 +3974,11 @@
    "Martyn Quigley"
   ],
   "topics": [
-   "online-gambling",
-   "lottery",
    "casino",
    "treatment",
-   "advertising",
-   "measurement",
-   "cognition",
-   "families"
+   "cognition"
   ],
   "designs": [
-   "survey",
    "experiment"
   ],
   "first_seen": "2025-09-24",
@@ -4138,19 +4020,11 @@
   "topics": [
    "online-gambling",
    "lottery",
-   "casino",
-   "advertising",
-   "policy",
-   "prevalence",
-   "measurement",
-   "cognition",
-   "industry"
+   "cognition"
   ],
   "designs": [
-   "review",
    "trial",
-   "experiment",
-   "protocol"
+   "experiment"
   ],
   "first_seen": "2026-05-14",
   "status_changed": null
@@ -4190,17 +4064,10 @@
   ],
   "topics": [
    "online-gambling",
-   "prevention",
-   "policy",
-   "prevalence",
-   "measurement",
-   "cognition",
-   "equity",
-   "industry"
+   "cognition"
   ],
   "designs": [
-   "experiment",
-   "protocol"
+   "experiment"
   ],
   "first_seen": "2026-08-03",
   "status_changed": null
@@ -4230,7 +4097,9 @@
   "country_names": [
    "Norway"
   ],
-  "regions": [],
+  "regions": [
+   "europe"
+  ],
   "start_date": "2026-02-16",
   "completion_date": "2026-12-31",
   "first_posted": "2025-06-19",
@@ -4241,13 +4110,8 @@
   "url": "https://clinicaltrials.gov/study/NCT07028450",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment",
-   "industry"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2025-06-19",
   "status_changed": null
  },
@@ -4332,8 +4196,7 @@
    "Simon Dymond"
   ],
   "topics": [
-   "treatment",
-   "measurement"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2026-05-08",
@@ -4372,9 +4235,7 @@
   ],
   "topics": [
    "treatment",
-   "prevention",
-   "policy",
-   "families"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2026-05-08",
@@ -4411,12 +4272,9 @@
    "Molly Offer-Westort"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2026-05-05",
   "status_changed": null
  },
@@ -4454,9 +4312,7 @@
    "Christina U. Pfeuffer"
   ],
   "topics": [
-   "online-gambling",
-   "trading",
-   "cognition"
+   "trading"
   ],
   "designs": [
    "experiment"
@@ -4497,15 +4353,53 @@
    "Eunice Huynh",
    "Michael Auer"
   ],
-  "topics": [
-   "industry"
-  ],
+  "topics": [],
   "designs": [
-   "review",
-   "survey",
    "behavioral-data"
   ],
   "first_seen": "2026-04-29",
+  "status_changed": null
+ },
+ {
+  "id": "osf:y3wvp",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Quais são as evidências disponíveis na literatura para mudanças neurocomportamentais e os riscos de vitimização e morte precoce em idosos que experimentam de solidão crônica e como o uso de dispositivos eletrônicos se relaciona a estes fenômenos?",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-04-28",
+  "last_updated": "2026-04-28",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Revisão de Escopo sobre Solidão Crônica, Neurociências e Vulnerabilidade Digital em Idosos 1. Introdução O envelhecimento populacional é um fenômeno global que traz consigo desafios complexos, incluindo o aumento da prevalência de solidão e isolamento social entre idosos …",
+  "url": "https://osf.io/y3wvp/",
+  "registration_type": "Open-Ended Registration",
+  "authors": [
+   "Debora Soares"
+  ],
+  "topics": [
+   "cognition",
+   "comorbidity",
+   "equity",
+   "older-adults"
+  ],
+  "designs": [
+   "review"
+  ],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -4546,7 +4440,8 @@
    "cognition"
   ],
   "designs": [
-   "behavioral-data"
+   "behavioral-data",
+   "experiment"
   ],
   "first_seen": "2026-04-28",
   "status_changed": null
@@ -4583,12 +4478,9 @@
    "Noah Liebig"
   ],
   "topics": [
-   "online-gambling",
-   "loot-boxes",
-   "cognition"
+   "loot-boxes"
   ],
   "designs": [
-   "survey",
    "experiment"
   ],
   "first_seen": "2026-04-28",
@@ -4628,9 +4520,7 @@
    "Mark Griffiths"
   ],
   "topics": [],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-04-28",
   "status_changed": null
  },
@@ -4746,12 +4636,9 @@
   ],
   "topics": [
    "prediction-markets",
-   "measurement",
-   "industry"
+   "measurement"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2026-04-24",
   "status_changed": null
  },
@@ -4798,13 +4685,10 @@
    "David Hodgins"
   ],
   "topics": [
-   "online-gambling",
    "treatment"
   ],
   "designs": [
-   "trial",
-   "survey",
-   "longitudinal"
+   "survey"
   ],
   "first_seen": "2026-04-10",
   "status_changed": null
@@ -4843,12 +4727,9 @@
   ],
   "topics": [
    "sports-betting",
-   "families",
    "equity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-04-10",
   "status_changed": null
  },
@@ -4934,11 +4815,10 @@
   "authors": [],
   "topics": [
    "treatment",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [
-   "trial",
+   "protocol",
    "experiment"
   ],
   "first_seen": "2022-02-15",
@@ -5067,9 +4947,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "policy",
-   "cognition",
-   "financial-harm"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2026-03-23",
@@ -5110,19 +4988,11 @@
    "Ruth van Holst"
   ],
   "topics": [
-   "online-gambling",
    "treatment",
    "prevention",
-   "advertising",
-   "policy",
-   "families",
-   "financial-harm",
-   "equity",
-   "industry"
+   "advertising"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2025-09-22",
   "status_changed": null
  },
@@ -5159,9 +5029,7 @@
   "topics": [
    "loot-boxes"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-03-18",
   "status_changed": null
  },
@@ -5200,11 +5068,53 @@
   ],
   "topics": [
    "advertising",
-   "policy",
    "cognition"
   ],
   "designs": [],
   "first_seen": "2026-03-13",
+  "status_changed": null
+ },
+ {
+  "id": "osf:hjqwe",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Are parental monitoring and gaming behaviors, such as problematic gaming, in-game purchasing and streaming of gaming, associated with bedtime and rise time in Norwegian adolescents?",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-03-10",
+  "last_updated": "2026-03-10",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The purpose of this research project is to investigate the possible association between different gaming behaviours and sleep. The project is carried out due to a bachelor's thesis written by Mina Thornton Bratland, Ilse Evelien Bode and Selma Rodt Brandsnes, and supervised by Ståle Pallesen …",
+  "url": "https://osf.io/hjqwe/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Ilse Bode",
+   "Ståle Pallesen",
+   "Mina Thornton Bratland",
+   "Selma Rodt Brandsnes"
+  ],
+  "topics": [
+   "youth",
+   "comorbidity",
+   "families",
+   "equity"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -5244,14 +5154,11 @@
    "Martin Šabo"
   ],
   "topics": [
-   "online-gambling",
    "prevention",
    "self-exclusion",
-   "policy",
-   "equity"
+   "policy"
   ],
   "designs": [
-   "longitudinal",
    "behavioral-data"
   ],
   "first_seen": "2026-03-04",
@@ -5286,8 +5193,7 @@
   "registration_type": "Open-Ended Registration",
   "authors": [],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2026-03-02",
@@ -5324,11 +5230,10 @@
    "LUCAS FRANCA GARCIA",
    "Sophia Ivantes Rodrigues"
   ],
-  "topics": [
-   "youth",
-   "measurement"
+  "topics": [],
+  "designs": [
+   "review"
   ],
-  "designs": [],
   "first_seen": "2026-02-26",
   "status_changed": null
  },
@@ -5363,11 +5268,7 @@
    "LUCAS FRANCA GARCIA",
    "Sophia Ivantes Rodrigues"
   ],
-  "topics": [
-   "prevention",
-   "measurement",
-   "comorbidity"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2026-02-26",
   "status_changed": null
@@ -5404,8 +5305,6 @@
   ],
   "topics": [
    "youth",
-   "treatment",
-   "prevention",
    "comorbidity"
   ],
   "designs": [
@@ -5456,11 +5355,7 @@
   "url": "https://clinicaltrials.gov/study/NCT07421765",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "cognition",
-   "equity",
-   "industry"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2026-02-19",
   "status_changed": null
@@ -5499,9 +5394,7 @@
   "topics": [
    "loot-boxes"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2026-03-05",
   "status_changed": null
  },
@@ -5544,8 +5437,7 @@
    "comorbidity"
   ],
   "designs": [
-   "review",
-   "experiment"
+   "review"
   ],
   "first_seen": "2026-02-19",
   "status_changed": null
@@ -5586,17 +5478,12 @@
   ],
   "topics": [
    "youth",
-   "prevention",
-   "policy",
-   "prevalence",
    "cognition",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
-   "review",
-   "longitudinal",
-   "experiment"
+   "protocol",
+   "review"
   ],
   "first_seen": "2026-02-18",
   "status_changed": null
@@ -5636,17 +5523,12 @@
    "Simo Dragicevic"
   ],
   "topics": [
-   "online-gambling",
-   "casino",
-   "prevention",
-   "advertising",
    "policy",
    "industry"
   ],
   "designs": [
    "qualitative",
-   "survey",
-   "behavioral-data"
+   "survey"
   ],
   "first_seen": "2026-02-18",
   "status_changed": null
@@ -5685,7 +5567,6 @@
   ],
   "topics": [
    "online-gambling",
-   "trading",
    "cognition"
   ],
   "designs": [],
@@ -5724,11 +5605,8 @@
    "Andrew Richardson",
    "Jaya Priya Naganathan"
   ],
-  "topics": [
-   "youth"
-  ],
+  "topics": [],
   "designs": [
-   "review",
    "qualitative"
   ],
   "first_seen": "2026-02-23",
@@ -5812,7 +5690,9 @@
    "Katy Hughes"
   ],
   "topics": [],
-  "designs": [],
+  "designs": [
+   "behavioral-data"
+  ],
   "first_seen": "2026-02-13",
   "status_changed": null
  },
@@ -5850,16 +5730,10 @@
   "topics": [
    "sports-betting",
    "online-gambling",
-   "lottery",
-   "measurement",
    "cognition",
-   "comorbidity",
-   "financial-harm",
-   "industry"
+   "comorbidity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-02-11",
   "status_changed": null
  },
@@ -5896,12 +5770,9 @@
   "topics": [
    "treatment",
    "prevention",
-   "policy",
    "measurement"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-02-11",
   "status_changed": null
  },
@@ -5947,13 +5818,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "measurement"
+   "treatment"
   ],
   "designs": [
    "trial",
-   "survey",
    "longitudinal"
   ],
   "first_seen": "2025-04-25",
@@ -5993,12 +5861,9 @@
   ],
   "topics": [
    "online-gambling",
-   "casino",
-   "measurement",
-   "cognition"
+   "casino"
   ],
   "designs": [
-   "review",
    "behavioral-data"
   ],
   "first_seen": "2025-04-04",
@@ -6045,7 +5910,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "youth",
    "treatment"
   ],
@@ -6090,12 +5954,9 @@
    "Melanie McLaughlan"
   ],
   "topics": [
-   "prevention",
    "policy"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-01-29",
   "status_changed": null
  },
@@ -6132,10 +5993,8 @@
   ],
   "topics": [],
   "designs": [
-   "review",
-   "survey",
-   "longitudinal",
-   "commentary"
+   "protocol",
+   "review"
   ],
   "first_seen": "2026-01-28",
   "status_changed": null
@@ -6183,7 +6042,7 @@
    "self-exclusion"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2022-06-10",
   "status_changed": null
@@ -6264,14 +6123,9 @@
   ],
   "topics": [
    "online-gambling",
-   "policy",
-   "comorbidity",
-   "families",
-   "industry"
+   "comorbidity"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-01-23",
   "status_changed": null
  },
@@ -6314,13 +6168,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "prevalence",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2017-06-28",
   "status_changed": null
  },
@@ -6358,14 +6208,11 @@
    "Philip Newall"
   ],
   "topics": [
-   "prevention",
    "advertising",
    "policy",
    "industry"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2026-01-21",
   "status_changed": null
  },
@@ -6400,9 +6247,7 @@
    "Mu Yen Lee"
   ],
   "topics": [
-   "prediction-markets",
-   "measurement",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2026-01-18",
@@ -6443,18 +6288,11 @@
   ],
   "topics": [
    "youth",
-   "prevention",
    "advertising",
-   "policy",
-   "prevalence",
    "comorbidity",
-   "equity",
-   "industry"
+   "equity"
   ],
-  "designs": [
-   "review",
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-01-23",
   "status_changed": null
  },
@@ -6490,10 +6328,7 @@
    "Laura Lambert",
    "Céline Bonnaire"
   ],
-  "topics": [
-   "measurement",
-   "industry"
-  ],
+  "topics": [],
   "designs": [
    "review"
   ],
@@ -6531,11 +6366,10 @@
    "Marcos Lerma"
   ],
   "topics": [
-   "advertising",
-   "policy",
-   "industry"
+   "advertising"
   ],
   "designs": [
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2026-01-11",
@@ -6578,7 +6412,7 @@
    "treatment"
   ],
   "designs": [
-   "review"
+   "protocol"
   ],
   "first_seen": "2024-06-12",
   "status_changed": null
@@ -6657,12 +6491,11 @@
    "Angela Rodrigues"
   ],
   "topics": [
-   "treatment",
    "measurement"
   ],
   "designs": [
-   "qualitative",
-   "survey"
+   "protocol",
+   "qualitative"
   ],
   "first_seen": "2026-01-07",
   "status_changed": null
@@ -6699,14 +6532,10 @@
   ],
   "topics": [
    "sports-betting",
-   "prevention",
    "advertising",
-   "policy",
    "cognition"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2026-01-07",
   "status_changed": null
  },
@@ -6743,7 +6572,6 @@
   "topics": [
    "sports-betting",
    "online-gambling",
-   "prevention",
    "policy",
    "families"
   ],
@@ -6829,7 +6657,7 @@
    "comorbidity"
   ],
   "designs": [
-   "survey"
+   "experiment"
   ],
   "first_seen": "2025-12-29",
   "status_changed": null
@@ -6866,14 +6694,10 @@
   ],
   "topics": [
    "treatment",
-   "prevention",
-   "policy",
-   "cognition",
    "comorbidity"
   ],
   "designs": [
-   "review",
-   "longitudinal"
+   "review"
   ],
   "first_seen": "2025-12-21",
   "status_changed": null
@@ -6945,21 +6769,12 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
    "youth",
-   "treatment",
-   "prevention",
-   "advertising",
-   "policy",
-   "prevalence",
-   "measurement",
-   "comorbidity",
-   "industry"
+   "prevention"
   ],
   "designs": [
-   "review",
-   "qualitative",
-   "protocol"
+   "protocol",
+   "review"
   ],
   "first_seen": "2025-12-18",
   "status_changed": null
@@ -6996,7 +6811,6 @@
   ],
   "topics": [
    "loot-boxes",
-   "youth",
    "prevalence"
   ],
   "designs": [
@@ -7036,13 +6850,8 @@
    "George Hales",
    "Richard Rowe"
   ],
-  "topics": [
-   "youth"
-  ],
-  "designs": [
-   "review",
-   "longitudinal"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2025-12-16",
   "status_changed": null
  },
@@ -7077,14 +6886,11 @@
    "Mădălina Iuliana Mușat"
   ],
   "topics": [
-   "treatment",
    "policy",
-   "measurement",
    "cognition"
   ],
   "designs": [
-   "review",
-   "survey"
+   "review"
   ],
   "first_seen": "2025-12-12",
   "status_changed": null
@@ -7121,16 +6927,12 @@
    "Luke Clark"
   ],
   "topics": [
-   "online-gambling",
    "casino",
    "loot-boxes",
    "youth",
-   "measurement",
    "cognition"
   ],
   "designs": [
-   "trial",
-   "survey",
    "experiment"
   ],
   "first_seen": "2025-12-11",
@@ -7168,12 +6970,10 @@
    "Selim Kartal"
   ],
   "topics": [
-   "lottery",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [
-   "survey"
+   "experiment"
   ],
   "first_seen": "2025-12-08",
   "status_changed": null
@@ -7212,15 +7012,10 @@
   "topics": [
    "online-gambling",
    "youth",
-   "treatment",
    "advertising",
-   "policy",
-   "equity",
-   "industry"
+   "policy"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2025-12-05",
   "status_changed": null
  },
@@ -7256,18 +7051,9 @@
   ],
   "topics": [
    "treatment",
-   "policy",
-   "measurement",
-   "comorbidity",
-   "families",
-   "financial-harm",
-   "equity",
    "lived-experience"
   ],
-  "designs": [
-   "qualitative",
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2025-11-28",
   "status_changed": null
  },
@@ -7306,13 +7092,9 @@
    "Anna Thomas"
   ],
   "topics": [
-   "treatment",
-   "prevention",
-   "prevalence"
+   "treatment"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2024-06-28",
   "status_changed": null
  },
@@ -7349,16 +7131,57 @@
   ],
   "topics": [
    "lottery",
-   "advertising",
-   "policy",
-   "prevalence",
-   "equity",
-   "industry"
+   "advertising"
   ],
   "designs": [
    "survey"
   ],
   "first_seen": "2025-11-25",
+  "status_changed": null
+ },
+ {
+  "id": "NCT01248767",
+  "registry": "clinicaltrials",
+  "registry_label": "ClinicalTrials.gov",
+  "kind": "trial",
+  "title": "A Prospective Clinical Study of a Cohort of Patients Seeking Treatment for a Behavioral Addiction",
+  "status": "recruiting",
+  "study_type": "observational",
+  "phases": [],
+  "enrollment": 2720,
+  "conditions": [
+   "Behavioral Addictions"
+  ],
+  "interventions": [],
+  "sponsor": "Nantes University Hospital",
+  "sponsor_class": "other",
+  "collaborators": [],
+  "countries": [
+   "FR"
+  ],
+  "country_names": [
+   "France"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "start_date": "2019-03-28",
+  "completion_date": "2029-03-28",
+  "first_posted": "2010-11-25",
+  "last_updated": "2025-11-24",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This research aims to provide a better understanding of the factors associated with the evolution of behavioral addictions, and compliance with care …",
+  "url": "https://clinicaltrials.gov/study/NCT01248767",
+  "registration_type": "",
+  "authors": [],
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -7395,13 +7218,9 @@
   ],
   "topics": [
    "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
-  "designs": [
-   "survey",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2025-11-20",
   "status_changed": null
  },
@@ -7440,11 +7259,55 @@
    "David Victor Smith"
   ],
   "topics": [
-   "policy",
    "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2025-11-17",
+  "status_changed": null
+ },
+ {
+  "id": "osf:hfz45",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Emotion regulation strategies among relatives of individuals with addictive disorders: A systematic review and meta-analysis",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-11-17",
+  "last_updated": "2025-11-17",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The systematic review aims to synthesize empirical findings on the emotion regulation strategies of individuals who have a close relative struggling with addictive disorders. The review aims to explore: Primary aim: 1 …",
+  "url": "https://osf.io/hfz45/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Fruzsina Héjja",
+   "Bernadette Kun",
+   "Domonkos File",
+   "Noémi Kocsis"
+  ],
+  "topics": [
+   "loot-boxes",
+   "policy",
+   "comorbidity",
+   "families"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -7482,12 +7345,9 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
    "policy"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2025-11-14",
   "status_changed": null
  },
@@ -7522,8 +7382,7 @@
    "Conor Heath"
   ],
   "topics": [
-   "advertising",
-   "policy"
+   "advertising"
   ],
   "designs": [],
   "first_seen": "2025-11-14",
@@ -7564,18 +7423,13 @@
    "Jamie Torrance"
   ],
   "topics": [
-   "casino",
    "treatment",
    "prevention",
    "self-exclusion",
    "advertising",
-   "policy",
-   "prevalence",
-   "measurement",
    "cognition",
    "comorbidity",
    "families",
-   "equity",
    "industry"
   ],
   "designs": [
@@ -7628,15 +7482,9 @@
   "topics": [
    "online-gambling",
    "treatment",
-   "prevention",
-   "measurement",
-   "industry"
+   "prevention"
   ],
-  "designs": [
-   "trial",
-   "qualitative",
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2020-11-19",
   "status_changed": null
  },
@@ -7676,17 +7524,9 @@
   ],
   "topics": [
    "online-gambling",
-   "youth",
-   "treatment",
-   "prevention",
-   "advertising",
    "policy",
-   "prevalence",
-   "comorbidity",
    "families",
-   "financial-harm",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
    "review"
@@ -7727,8 +7567,6 @@
   ],
   "topics": [
    "youth",
-   "treatment",
-   "prevention",
    "advertising"
   ],
   "designs": [],
@@ -7767,13 +7605,47 @@
    "Lo Ching Yiu"
   ],
   "topics": [
-   "loot-boxes",
-   "policy",
-   "cognition",
-   "financial-harm"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2025-10-10",
+  "status_changed": null
+ },
+ {
+  "id": "osf:9g5jr",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Pornography Dependence and the Abstinence Violation Effect",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-10-14",
+  "last_updated": "2025-10-07",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The purpose of this study is to investigate the relationship between the abstinence violation effect (AVE; Marlatt & Gordon, 1985) and problematic pornography use (PPU) …",
+  "url": "https://osf.io/9g5jr/",
+  "registration_type": "Preregistration Template from AsPredicted.org",
+  "authors": [
+   "Jia Anne Heng"
+  ],
+  "topics": [],
+  "designs": [
+   "longitudinal"
+  ],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -7809,14 +7681,7 @@
   ],
   "topics": [
    "treatment",
-   "policy",
-   "prevalence",
-   "measurement",
-   "cognition",
-   "comorbidity",
-   "financial-harm",
-   "equity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
    "survey"
@@ -7864,18 +7729,14 @@
   "topics": [
    "online-gambling",
    "casino",
-   "prevention",
-   "advertising",
    "policy",
-   "measurement",
    "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
+   "protocol",
    "qualitative",
-   "survey",
-   "commentary"
+   "survey"
   ],
   "first_seen": "2025-10-02",
   "status_changed": null
@@ -7912,8 +7773,6 @@
   ],
   "topics": [
    "treatment",
-   "prevalence",
-   "measurement",
    "comorbidity"
   ],
   "designs": [],
@@ -7959,14 +7818,10 @@
   "authors": [],
   "topics": [
    "online-gambling",
-   "lottery",
    "casino",
-   "prevention",
-   "policy",
    "equity"
   ],
   "designs": [
-   "longitudinal",
    "behavioral-data"
   ],
   "first_seen": "2021-01-19",
@@ -8007,11 +7862,7 @@
    "Thomas Gaon"
   ],
   "topics": [
-   "prevention",
-   "advertising",
-   "policy",
-   "cognition",
-   "industry"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2025-10-03",
@@ -8053,7 +7904,6 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
    "casino",
    "prevention",
    "advertising",
@@ -8104,7 +7954,6 @@
   ],
   "topics": [
    "youth",
-   "treatment",
    "prevention"
   ],
   "designs": [
@@ -8147,12 +7996,9 @@
   ],
   "topics": [
    "online-gambling",
-   "casino",
-   "measurement",
-   "cognition"
+   "casino"
   ],
   "designs": [
-   "review",
    "behavioral-data"
   ],
   "first_seen": "2025-04-04",
@@ -8192,8 +8038,6 @@
   ],
   "topics": [
    "treatment",
-   "policy",
-   "cognition",
    "comorbidity",
    "veterans"
   ],
@@ -8236,8 +8080,7 @@
    "Jared Bischoff"
   ],
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
   "designs": [
    "qualitative"
@@ -8277,9 +8120,7 @@
    "Kasra Ghaharian",
    "Jared Bischoff"
   ],
-  "topics": [
-   "industry"
-  ],
+  "topics": [],
   "designs": [
    "qualitative"
   ],
@@ -8318,14 +8159,8 @@
    "Kasra Ghaharian",
    "Marta Soligo"
   ],
-  "topics": [
-   "prevention",
-   "policy",
-   "industry"
-  ],
-  "designs": [
-   "review"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2025-01-17",
   "status_changed": null
  },
@@ -8483,9 +8318,7 @@
    "Brett Abarbanel",
    "Lukasz Golab"
   ],
-  "topics": [
-   "casino"
-  ],
+  "topics": [],
   "designs": [
    "qualitative"
   ],
@@ -8564,10 +8397,7 @@
    "Kasra Ghaharian"
   ],
   "topics": [
-   "casino",
-   "policy",
-   "measurement",
-   "industry"
+   "casino"
   ],
   "designs": [],
   "first_seen": "2024-10-23",
@@ -8605,12 +8435,9 @@
    "Jay Peterson",
    "Richard Young"
   ],
-  "topics": [
-   "prevention"
-  ],
+  "topics": [],
   "designs": [
-   "behavioral-data",
-   "commentary"
+   "behavioral-data"
   ],
   "first_seen": "2024-08-08",
   "status_changed": null
@@ -8648,11 +8475,9 @@
    "Paula Jääskeläinen"
   ],
   "topics": [
-   "advertising",
-   "industry"
+   "advertising"
   ],
   "designs": [
-   "review",
    "qualitative"
   ],
   "first_seen": "2025-09-22",
@@ -8689,8 +8514,7 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "loot-boxes",
-   "prevention"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2025-09-21",
@@ -8734,11 +8558,9 @@
   ],
   "topics": [
    "online-gambling",
-   "treatment"
+   "prevention"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2025-09-19",
   "status_changed": null
  },
@@ -8777,10 +8599,7 @@
   ],
   "topics": [
    "treatment",
-   "prevalence",
-   "measurement",
    "comorbidity",
-   "families",
    "financial-harm"
   ],
   "designs": [
@@ -8822,12 +8641,12 @@
    "Luke Clark"
   ],
   "topics": [
-   "casino",
-   "treatment",
    "cognition",
    "comorbidity"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2025-09-18",
   "status_changed": null
  },
@@ -8861,9 +8680,7 @@
   "authors": [
    "Daiki TAOKA"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
    "experiment"
   ],
@@ -8907,11 +8724,11 @@
   ],
   "topics": [
    "online-gambling",
-   "advertising",
-   "equity",
+   "youth",
    "lived-experience"
   ],
   "designs": [
+   "protocol",
    "qualitative"
   ],
   "first_seen": "2025-09-08",
@@ -8955,9 +8772,7 @@
   "topics": [
    "sports-betting",
    "online-gambling",
-   "prevention",
-   "policy",
-   "prevalence"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2025-09-16",
@@ -9006,15 +8821,11 @@
    "Stéphane Bouchard"
   ],
   "topics": [
-   "lottery",
-   "treatment",
-   "prevention",
-   "families",
-   "equity"
+   "treatment"
   ],
   "designs": [
-   "qualitative",
-   "longitudinal"
+   "longitudinal",
+   "case-report"
   ],
   "first_seen": "2022-07-19",
   "status_changed": null
@@ -9063,12 +8874,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "youth",
-   "measurement"
+   "youth"
   ],
   "designs": [
-   "trial",
-   "longitudinal"
+   "trial"
   ],
   "first_seen": "2025-09-09",
   "status_changed": null
@@ -9105,8 +8914,7 @@
    "Yuchen Huang"
   ],
   "topics": [
-   "loot-boxes",
-   "policy"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2025-09-09",
@@ -9188,10 +8996,10 @@
    "celine zhang"
   ],
   "topics": [
-   "advertising",
-   "families"
+   "advertising"
   ],
   "designs": [
+   "protocol",
    "survey",
    "experiment"
   ],
@@ -9230,10 +9038,7 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "advertising",
-   "equity",
-   "industry"
+   "online-gambling"
   ],
   "designs": [
    "qualitative"
@@ -9274,10 +9079,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
-   "policy",
-   "prevalence",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2025-09-01",
@@ -9315,13 +9117,10 @@
   ],
   "topics": [
    "policy",
-   "prevalence",
-   "measurement",
-   "financial-harm",
-   "industry"
+   "financial-harm"
   ],
   "designs": [
-   "survey",
+   "protocol",
    "behavioral-data"
   ],
   "first_seen": "2025-08-27",
@@ -9367,12 +9166,8 @@
   "url": "https://clinicaltrials.gov/study/NCT04158037",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2019-11-08",
   "status_changed": null
  },
@@ -9412,10 +9207,7 @@
    "Ty Hayes"
   ],
   "topics": [
-   "policy",
-   "prevalence",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
    "behavioral-data"
@@ -9458,18 +9250,17 @@
    "Zac Seidler"
   ],
   "topics": [
-   "online-gambling",
    "youth",
+   "treatment",
    "advertising",
-   "policy",
    "prevalence",
    "measurement",
    "comorbidity",
    "families",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
+   "protocol",
    "survey",
    "longitudinal"
   ],
@@ -9513,7 +9304,6 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "prevention",
    "industry"
   ],
   "designs": [],
@@ -9554,7 +9344,6 @@
    "Dan Cassino"
   ],
   "topics": [
-   "measurement",
    "equity"
   ],
   "designs": [],
@@ -9597,8 +9386,7 @@
    "youth"
   ],
   "designs": [
-   "qualitative",
-   "commentary"
+   "qualitative"
   ],
   "first_seen": "2025-08-07",
   "status_changed": null
@@ -9635,8 +9423,7 @@
    "Jennifer T. Grant Weinandy"
   ],
   "topics": [
-   "youth",
-   "prevention"
+   "youth"
   ],
   "designs": [
    "survey"
@@ -9715,14 +9502,12 @@
    "Jan Peters"
   ],
   "topics": [
-   "treatment",
    "prevalence",
-   "measurement",
    "comorbidity"
   ],
   "designs": [
-   "survey",
-   "commentary"
+   "protocol",
+   "survey"
   ],
   "first_seen": "2025-08-05",
   "status_changed": null
@@ -9762,17 +9547,11 @@
   "topics": [
    "sports-betting",
    "online-gambling",
-   "policy",
-   "prevalence",
    "cognition",
-   "comorbidity",
-   "equity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
-   "review",
-   "survey",
-   "longitudinal"
+   "review"
   ],
   "first_seen": "2025-08-04",
   "status_changed": null
@@ -9966,14 +9745,12 @@
    "Luke Clark"
   ],
   "topics": [
-   "online-gambling",
    "casino",
-   "measurement",
    "cognition"
   ],
   "designs": [
    "qualitative",
-   "longitudinal"
+   "experiment"
   ],
   "first_seen": "2025-06-12",
   "status_changed": null
@@ -10010,12 +9787,12 @@
    "Luke Clark"
   ],
   "topics": [
-   "online-gambling",
    "casino",
-   "measurement",
    "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2025-02-06",
   "status_changed": null
  },
@@ -10053,9 +9830,7 @@
    "loot-boxes",
    "prevention",
    "policy",
-   "cognition",
-   "families",
-   "industry"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2025-07-20",
@@ -10102,12 +9877,10 @@
   "topics": [
    "loot-boxes",
    "youth",
-   "treatment",
-   "measurement"
+   "treatment"
   ],
   "designs": [
    "trial",
-   "survey",
    "longitudinal"
   ],
   "first_seen": "2025-07-15",
@@ -10147,19 +9920,12 @@
   "topics": [
    "online-gambling",
    "lottery",
-   "casino",
-   "youth",
-   "advertising",
    "policy",
-   "prevalence",
    "cognition",
    "comorbidity",
-   "families",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
-   "review",
    "survey"
   ],
   "first_seen": "2025-07-17",
@@ -10210,9 +9976,7 @@
    "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2023-11-08",
   "status_changed": null
  },
@@ -10255,14 +10019,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "loot-boxes",
    "youth",
-   "treatment",
-   "measurement"
+   "treatment"
   ],
   "designs": [
-   "survey",
    "longitudinal"
   ],
   "first_seen": "2025-07-15",
@@ -10300,8 +10061,7 @@
    "Timothy Edson"
   ],
   "topics": [
-   "comorbidity",
-   "financial-harm"
+   "comorbidity"
   ],
   "designs": [],
   "first_seen": "2025-07-11",
@@ -10415,9 +10175,7 @@
    "treatment",
    "comorbidity"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2025-07-02",
   "status_changed": null
  },
@@ -10456,9 +10214,7 @@
    "Francisco J. Rivero"
   ],
   "topics": [
-   "loot-boxes",
-   "policy",
-   "cognition"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2023-09-06",
@@ -10495,17 +10251,48 @@
    "Jamie Torrance"
   ],
   "topics": [
-   "advertising",
-   "policy",
-   "measurement",
-   "cognition",
-   "industry"
+   "advertising"
   ],
   "designs": [
-   "qualitative",
-   "commentary"
+   "qualitative"
   ],
   "first_seen": "2025-06-23",
+  "status_changed": null
+ },
+ {
+  "id": "osf:85nmp",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Einfluss psychosozialer Merkmale und Spielsperren auf die Entwicklung von Glücksspielverhalten: Ergebnisse einer Sekundäranalyse",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-07-01",
+  "last_updated": "2025-06-29",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Im Rahmen dieser Sekundäranalyse wird untersucht, welche Risiko- und Schutzfaktoren die Entwicklung problematischen Glücksspielverhaltens über die Zeit beeinflussen …",
+  "url": "https://osf.io/85nmp/",
+  "registration_type": "Secondary Data Preregistration",
+  "authors": [
+   "Romy Göbel",
+   "Anett Wolgast"
+  ],
+  "topics": [],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -10542,8 +10329,7 @@
    "Samuel Johnson"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2025-06-25",
@@ -10583,15 +10369,50 @@
    "Richard Tunney"
   ],
   "topics": [
-   "treatment",
-   "prevalence",
-   "measurement",
+   "cognition"
+  ],
+  "designs": [],
+  "first_seen": "2025-06-19",
+  "status_changed": null
+ },
+ {
+  "id": "osf:cv39z",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "The Influence of State Boredom on Unhealthy Eating Choices",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-09-22",
+  "last_updated": "2025-06-18",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "退屈とは、満足を得られる活動に没頭したいのに、それができないときに生じる不快感のことを指し（Eastwood et al., 2012）、主に二種類に分けられる。第一は、特性退屈といい、個人が生まれつき持っている、物足りなさやつまらなさを感じやすい傾向のことを指す（Danckert et al., 2018）。特性退屈についてはこれまでに暴飲暴食、薬物乱用、ギャンブル中毒など、衝動性との関係性に焦点を当てた様々な研究がなされている（Moynihan et al., 2015; Lee et al., 2007; Blaszczynski et al …",
+  "url": "https://osf.io/cv39z/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Shoki Kowatari",
+   "Yuichi Ito"
+  ],
+  "topics": [
    "cognition"
   ],
   "designs": [
-   "survey"
+   "experiment"
   ],
-  "first_seen": "2025-06-19",
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -10678,9 +10499,7 @@
    "loot-boxes",
    "prevention",
    "advertising",
-   "policy",
-   "equity",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2025-06-05",
@@ -10719,12 +10538,8 @@
   ],
   "topics": [
    "youth",
-   "treatment",
-   "prevention",
-   "prevalence",
    "families",
    "financial-harm",
-   "equity",
    "industry"
   ],
   "designs": [],
@@ -10815,13 +10630,12 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
    "prevalence",
    "comorbidity",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2023-01-17",
@@ -10860,11 +10674,9 @@
    "Jingmin Qin"
   ],
   "topics": [
-   "loot-boxes",
-   "cognition"
+   "loot-boxes"
   ],
   "designs": [
-   "trial",
    "experiment"
   ],
   "first_seen": "2025-05-28",
@@ -10906,9 +10718,7 @@
    "Chad Cotti"
   ],
   "topics": [],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2025-03-22",
   "status_changed": null
  },
@@ -10955,14 +10765,10 @@
   "authors": [],
   "topics": [
    "treatment",
-   "policy",
-   "measurement",
-   "cognition",
    "comorbidity"
   ],
   "designs": [
-   "trial",
-   "survey",
+   "protocol",
    "experiment"
   ],
   "first_seen": "2025-05-25",
@@ -11046,10 +10852,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "policy",
-   "comorbidity",
-   "families",
-   "financial-harm"
+   "comorbidity"
   ],
   "designs": [
    "longitudinal"
@@ -11095,13 +10898,9 @@
    "José C. Perales"
   ],
   "topics": [
-   "policy",
    "cognition"
   ],
-  "designs": [
-   "survey",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2025-05-19",
   "status_changed": null
  },
@@ -11137,12 +10936,9 @@
    "Andrew Richardson"
   ],
   "topics": [
-   "policy",
-   "industry"
+   "policy"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2024-10-23",
   "status_changed": null
  },
@@ -11178,11 +10974,11 @@
    "Kasra Ghaharian"
   ],
   "topics": [
-   "sports-betting",
-   "online-gambling",
-   "measurement"
+   "sports-betting"
   ],
-  "designs": [],
+  "designs": [
+   "protocol"
+  ],
   "first_seen": "2025-05-15",
   "status_changed": null
  },
@@ -11223,25 +11019,19 @@
    "Zsolt Demetrovics"
   ],
   "topics": [
-   "online-gambling",
-   "youth",
    "treatment",
    "prevention",
-   "advertising",
    "policy",
-   "prevalence",
    "measurement",
    "cognition",
    "comorbidity",
-   "families",
    "equity",
-   "industry",
    "lived-experience"
   ],
   "designs": [
+   "protocol",
    "qualitative",
-   "survey",
-   "commentary"
+   "survey"
   ],
   "first_seen": "2025-05-07",
   "status_changed": null
@@ -11280,22 +11070,16 @@
    "Eilin Erevik"
   ],
   "topics": [
-   "online-gambling",
    "loot-boxes",
    "youth",
-   "treatment",
-   "policy",
    "prevalence",
-   "measurement",
    "cognition",
    "comorbidity",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
-   "review",
    "survey",
-   "commentary"
+   "longitudinal"
   ],
   "first_seen": "2025-04-03",
   "status_changed": null
@@ -11377,9 +11161,7 @@
   ],
   "topics": [
    "advertising",
-   "policy",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [],
   "first_seen": "2025-04-30",
@@ -11418,8 +11200,6 @@
    "Ilan Dar-Nimrod"
   ],
   "topics": [
-   "treatment",
-   "cognition",
    "comorbidity"
   ],
   "designs": [
@@ -11461,12 +11241,9 @@
   "topics": [
    "online-gambling",
    "casino",
-   "measurement",
-   "cognition",
-   "industry"
+   "cognition"
   ],
   "designs": [
-   "survey",
    "experiment"
   ],
   "first_seen": "2025-05-27",
@@ -11590,9 +11367,7 @@
    "treatment",
    "comorbidity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2024-07-24",
   "status_changed": null
  },
@@ -11627,16 +11402,10 @@
    "Anders Nilsson"
   ],
   "topics": [
-   "prevalence",
-   "comorbidity",
-   "families",
-   "equity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
-   "survey",
-   "longitudinal",
-   "experiment"
+   "survey"
   ],
   "first_seen": "2025-04-15",
   "status_changed": null
@@ -11676,8 +11445,7 @@
    "Ana Daniela Gonzalez"
   ],
   "topics": [
-   "youth",
-   "treatment"
+   "youth"
   ],
   "designs": [],
   "first_seen": "2024-08-22",
@@ -11715,8 +11483,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [
    "review"
@@ -11758,8 +11525,7 @@
   ],
   "topics": [],
   "designs": [
-   "review",
-   "commentary"
+   "review"
   ],
   "first_seen": "2025-04-10",
   "status_changed": null
@@ -11804,12 +11570,10 @@
   "authors": [],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "treatment",
    "self-exclusion"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2021-03-17",
   "status_changed": null
@@ -11887,23 +11651,15 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "online-gambling",
-   "youth",
-   "treatment",
    "prevention",
    "self-exclusion",
    "advertising",
    "policy",
-   "measurement",
    "industry"
   ],
   "designs": [
-   "trial",
    "qualitative",
-   "survey",
-   "longitudinal",
-   "experiment",
-   "commentary"
+   "longitudinal"
   ],
   "first_seen": "2024-11-08",
   "status_changed": null
@@ -11993,14 +11749,11 @@
   "authors": [],
   "topics": [
    "casino",
-   "prevention",
-   "measurement"
+   "prevention"
   ],
   "designs": [
    "trial",
-   "survey",
-   "experiment",
-   "commentary"
+   "experiment"
   ],
   "first_seen": "2024-04-02",
   "status_changed": null
@@ -12052,7 +11805,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
    "comorbidity"
   ],
@@ -12092,11 +11844,9 @@
   "authors": [
    "Eleanor Collerton"
   ],
-  "topics": [
-   "industry"
-  ],
+  "topics": [],
   "designs": [
-   "experiment"
+   "behavioral-data"
   ],
   "first_seen": "2025-03-26",
   "status_changed": null
@@ -12133,9 +11883,7 @@
    "Kasra Ghaharian"
   ],
   "topics": [
-   "casino",
-   "policy",
-   "industry"
+   "casino"
   ],
   "designs": [],
   "first_seen": "2025-03-25",
@@ -12174,15 +11922,11 @@
    "Sarah K Garrison"
   ],
   "topics": [
-   "casino",
    "youth",
    "cognition",
-   "equity",
-   "industry"
+   "equity"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2025-03-27",
   "status_changed": null
  },
@@ -12218,14 +11962,12 @@
   ],
   "topics": [
    "youth",
-   "treatment",
    "advertising",
    "policy",
-   "measurement",
    "cognition"
   ],
   "designs": [
-   "survey"
+   "protocol"
   ],
   "first_seen": "2025-03-24",
   "status_changed": null
@@ -12300,7 +12042,6 @@
    "Christina U. Pfeuffer"
   ],
   "topics": [
-   "online-gambling",
    "trading",
    "cognition"
   ],
@@ -12346,12 +12087,8 @@
    "Amanda Roberts"
   ],
   "topics": [
-   "online-gambling",
-   "casino",
-   "prevalence",
-   "measurement",
-   "comorbidity",
-   "families"
+   "treatment",
+   "comorbidity"
   ],
   "designs": [
    "survey"
@@ -12431,10 +12168,7 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "prevention",
-   "cognition",
-   "families"
+   "cognition"
   ],
   "designs": [
    "survey"
@@ -12474,10 +12208,7 @@
    "Philip Newall",
    "Jamie Torrance"
   ],
-  "topics": [
-   "youth",
-   "measurement"
-  ],
+  "topics": [],
   "designs": [
    "longitudinal",
    "experiment"
@@ -12565,12 +12296,9 @@
    "Laura Lambert"
   ],
   "topics": [
-   "advertising",
-   "prevalence"
+   "advertising"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2025-03-17",
   "status_changed": null
  },
@@ -12605,11 +12333,9 @@
    "Nadya Aulia Hamdani"
   ],
   "topics": [
-   "measurement"
+   "cognition"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2025-03-12",
   "status_changed": null
  },
@@ -12646,9 +12372,7 @@
   "topics": [
    "cognition"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2025-03-05",
   "status_changed": null
  },
@@ -12682,12 +12406,8 @@
   "authors": [
    "Nathan Lakew"
   ],
-  "topics": [
-   "prevention"
-  ],
-  "designs": [
-   "commentary"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2023-04-27",
   "status_changed": null
  },
@@ -12727,12 +12447,10 @@
   ],
   "topics": [
    "casino",
-   "policy",
-   "industry"
+   "policy"
   ],
   "designs": [
-   "behavioral-data",
-   "experiment"
+   "behavioral-data"
   ],
   "first_seen": "2025-03-04",
   "status_changed": null
@@ -12771,8 +12489,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "advertising",
-   "policy"
+   "advertising"
   ],
   "designs": [],
   "first_seen": "2025-02-25",
@@ -12812,10 +12529,8 @@
   "topics": [
    "casino",
    "loot-boxes",
-   "prevention",
    "advertising",
-   "policy",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2024-09-30",
@@ -12853,13 +12568,9 @@
   ],
   "topics": [
    "sports-betting",
-   "prevention",
-   "cognition",
-   "families"
+   "cognition"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2025-03-04",
   "status_changed": null
  },
@@ -12899,10 +12610,7 @@
   "topics": [
    "loot-boxes",
    "youth",
-   "prevention",
-   "policy",
-   "families",
-   "industry"
+   "families"
   ],
   "designs": [],
   "first_seen": "2022-07-06",
@@ -12939,11 +12647,7 @@
    "Callum Deery",
    "Leon Y. Xiao"
   ],
-  "topics": [
-   "prevention",
-   "advertising",
-   "policy"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2025-01-29",
   "status_changed": null
@@ -12991,13 +12695,10 @@
   "authors": [],
   "topics": [
    "treatment",
-   "prevalence",
    "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2022-09-14",
   "status_changed": null
  },
@@ -13034,8 +12735,7 @@
    "Vivien Anthony"
   ],
   "topics": [
-   "sports-betting",
-   "comorbidity"
+   "sports-betting"
   ],
   "designs": [
    "review"
@@ -13076,7 +12776,7 @@
   ],
   "topics": [
    "sports-betting",
-   "prevalence"
+   "comorbidity"
   ],
   "designs": [],
   "first_seen": "2024-04-15",
@@ -13113,12 +12813,8 @@
    "Katarzyna Sekścińska",
    "Diana Jaworska"
   ],
-  "topics": [
-   "cognition"
-  ],
-  "designs": [
-   "experiment"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2025-02-03",
   "status_changed": null
  },
@@ -13153,9 +12849,7 @@
    "Katarzyna Sekścińska",
    "Diana Jaworska"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2025-02-03",
   "status_changed": null
@@ -13191,9 +12885,7 @@
    "Katarzyna Sekścińska",
    "Diana Jaworska"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2025-02-03",
   "status_changed": null
@@ -13229,9 +12921,7 @@
    "Katarzyna Sekścińska",
    "Diana Jaworska"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2025-02-03",
   "status_changed": null
@@ -13269,12 +12959,9 @@
    "Jan Peters"
   ],
   "topics": [
-   "casino",
    "cognition"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2025-02-02",
   "status_changed": null
  },
@@ -13350,9 +13037,7 @@
    "Joel Billieux",
    "Zsolt Demetrovics"
   ],
-  "topics": [
-   "prevalence"
-  ],
+  "topics": [],
   "designs": [
    "review"
   ],
@@ -13390,10 +13075,7 @@
    "Philip Newall",
    "Dan Cassino"
   ],
-  "topics": [
-   "measurement",
-   "equity"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2025-01-15",
   "status_changed": null
@@ -13477,11 +13159,10 @@
   ],
   "topics": [
    "loot-boxes",
-   "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
+   "protocol",
    "qualitative",
    "survey"
   ],
@@ -13519,8 +13200,7 @@
    "Jan Ivern"
   ],
   "topics": [
-   "loot-boxes",
-   "industry"
+   "loot-boxes"
   ],
   "designs": [
    "review"
@@ -13609,13 +13289,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "cognition",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
-   "trial",
-   "longitudinal"
+   "trial"
   ],
   "first_seen": "2019-04-25",
   "status_changed": null
@@ -13655,9 +13332,7 @@
    "comorbidity",
    "lived-experience"
   ],
-  "designs": [
-   "qualitative"
-  ],
+  "designs": [],
   "first_seen": "2025-01-20",
   "status_changed": null
  },
@@ -13694,19 +13369,15 @@
    "Richard James"
   ],
   "topics": [
-   "online-gambling",
    "trading",
    "youth",
    "prevention",
-   "prevalence",
    "measurement",
    "cognition"
   ],
   "designs": [
    "survey",
-   "longitudinal",
-   "experiment",
-   "case-report"
+   "experiment"
   ],
   "first_seen": "2025-01-20",
   "status_changed": null
@@ -13746,9 +13417,7 @@
    "Elise Constance",
    "Rune Krumsvik"
   ],
-  "topics": [
-   "online-gambling"
-  ],
+  "topics": [],
   "designs": [
    "review"
   ],
@@ -13787,12 +13456,12 @@
    "Jan Peters"
   ],
   "topics": [
-   "online-gambling",
-   "prevalence",
+   "measurement",
    "cognition",
    "comorbidity"
   ],
   "designs": [
+   "protocol",
    "survey"
   ],
   "first_seen": "2025-01-17",
@@ -13870,7 +13539,6 @@
    "Sally Melissa Gainsbury"
   ],
   "topics": [
-   "online-gambling",
    "casino",
    "prevention",
    "self-exclusion",
@@ -13879,8 +13547,7 @@
   "designs": [
    "qualitative",
    "survey",
-   "experiment",
-   "commentary"
+   "experiment"
   ],
   "first_seen": "2022-12-13",
   "status_changed": null
@@ -13918,12 +13585,12 @@
    "Luke Clark"
   ],
   "topics": [
-   "casino",
-   "treatment",
    "cognition",
    "comorbidity"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2025-01-10",
   "status_changed": null
  },
@@ -13958,14 +13625,11 @@
    "Eoin Campbell"
   ],
   "topics": [
-   "treatment",
-   "prevention",
-   "measurement"
+   "online-gambling",
+   "prevention"
   ],
   "designs": [
-   "trial",
-   "survey",
-   "longitudinal",
+   "protocol",
    "experiment"
   ],
   "first_seen": "2025-01-09",
@@ -14005,12 +13669,8 @@
    "Amanda Roberts"
   ],
   "topics": [
-   "casino",
    "loot-boxes",
-   "prevention",
-   "advertising",
-   "policy",
-   "industry"
+   "advertising"
   ],
   "designs": [],
   "first_seen": "2025-01-08",
@@ -14051,11 +13711,10 @@
   ],
   "topics": [
    "youth",
-   "treatment",
    "prevention"
   ],
   "designs": [
-   "review"
+   "protocol"
   ],
   "first_seen": "2024-07-04",
   "status_changed": null
@@ -14129,9 +13788,6 @@
    "Piyush Aniruddha Puranik"
   ],
   "topics": [
-   "online-gambling",
-   "lottery",
-   "policy",
    "industry"
   ],
   "designs": [
@@ -14207,17 +13863,12 @@
    "Lingru Zeng"
   ],
   "topics": [
-   "online-gambling",
    "lottery",
-   "policy",
-   "measurement",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [
    "survey",
-   "experiment",
-   "commentary"
+   "experiment"
   ],
   "first_seen": "2024-12-20",
   "status_changed": null
@@ -14260,9 +13911,7 @@
    "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2023-07-12",
   "status_changed": null
  },
@@ -14297,11 +13946,8 @@
    "Cong Mou",
    "Richard James"
   ],
-  "topics": [
-   "measurement"
-  ],
+  "topics": [],
   "designs": [
-   "survey",
    "longitudinal"
   ],
   "first_seen": "2024-12-13",
@@ -14340,9 +13986,7 @@
   ],
   "topics": [
    "sports-betting",
-   "prediction-markets",
-   "measurement",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2024-12-03",
@@ -14381,11 +14025,10 @@
    "Magdalena Weber"
   ],
   "topics": [
-   "treatment",
    "prevention"
   ],
   "designs": [
-   "experiment"
+   "protocol"
   ],
   "first_seen": "2024-11-26",
   "status_changed": null
@@ -14421,9 +14064,7 @@
    "Ruth van Holst",
    "Jeroen Hairwassers"
   ],
-  "topics": [
-   "youth"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2024-11-22",
   "status_changed": null
@@ -14460,7 +14101,7 @@
    "Simone Rodda"
   ],
   "topics": [
-   "prevalence",
+   "treatment",
    "measurement"
   ],
   "designs": [],
@@ -14501,9 +14142,7 @@
   "topics": [
    "prevention"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2024-11-19",
   "status_changed": null
  },
@@ -14538,9 +14177,7 @@
    "Matthew Tandy",
    "Silvia Seghezzi"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
    "experiment"
   ],
@@ -14582,10 +14219,7 @@
    "Philip Newall"
   ],
   "topics": [
-   "online-gambling",
-   "trading",
    "prevention",
-   "advertising",
    "policy",
    "industry"
   ],
@@ -14740,14 +14374,53 @@
    "Robert Heirene",
    "Sally Melissa Gainsbury"
   ],
+  "topics": [],
+  "designs": [],
+  "first_seen": "2024-11-11",
+  "status_changed": null
+ },
+ {
+  "id": "osf:pxv5u",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "The use of interoceptive awareness in treatment of psychiatric disorders - a scoping review protocol",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2024-11-05",
+  "last_updated": "2024-11-05",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Within mental healthcare, an important part of treatment is focused on learning healthy coping strategies to deal with negative emotions, such as emotional tension, stress, or anger (Cheng et al., 2014; Ryan et al., 2014; Theodoratou & Argyrides, 2024) …",
+  "url": "https://osf.io/pxv5u/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Lisa Klein Haneveld",
+   "Hanneke Kip",
+   "Yvonne Bouman",
+   "Saskia Kelders"
+  ],
   "topics": [
-   "online-gambling",
-   "measurement"
+   "treatment",
+   "policy",
+   "comorbidity"
   ],
   "designs": [
-   "survey"
+   "review"
   ],
-  "first_seen": "2024-11-11",
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -14782,9 +14455,7 @@
    "Hika KUROSHIMA"
   ],
   "topics": [],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2025-02-23",
   "status_changed": null
  },
@@ -14857,9 +14528,7 @@
    "Hika KUROSHIMA"
   ],
   "topics": [],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2024-10-24",
   "status_changed": null
  },
@@ -14895,12 +14564,9 @@
   ],
   "topics": [
    "online-gambling",
-   "prevention",
-   "prevalence"
+   "prevention"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2025-07-01",
   "status_changed": null
  },
@@ -14947,11 +14613,9 @@
    "David Hodgins"
   ],
   "topics": [
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
-   "survey",
    "longitudinal"
   ],
   "first_seen": "2024-10-25",
@@ -14995,13 +14659,10 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
-   "prevention",
-   "measurement"
+   "prevention"
   ],
   "designs": [
-   "trial",
-   "survey"
+   "trial"
   ],
   "first_seen": "2024-10-15",
   "status_changed": null
@@ -15041,7 +14702,6 @@
   ],
   "topics": [
    "policy",
-   "measurement",
    "industry"
   ],
   "designs": [
@@ -15083,10 +14743,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "review",
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2024-10-10",
   "status_changed": null
  },
@@ -15122,13 +14779,10 @@
    "Michelle Potiaumpai"
   ],
   "topics": [
-   "online-gambling",
-   "treatment",
    "comorbidity"
   ],
   "designs": [
-   "review",
-   "commentary"
+   "review"
   ],
   "first_seen": "2024-03-04",
   "status_changed": null
@@ -15165,12 +14819,9 @@
    "Michelle Potiaumpai"
   ],
   "topics": [
-   "online-gambling",
-   "policy",
    "comorbidity"
   ],
   "designs": [
-   "commentary",
    "protocol"
   ],
   "first_seen": "2024-09-30",
@@ -15208,13 +14859,9 @@
    "Michelle Potiaumpai"
   ],
   "topics": [
-   "treatment",
-   "advertising",
-   "policy",
-   "industry"
+   "advertising"
   ],
   "designs": [
-   "review",
    "protocol"
   ],
   "first_seen": "2024-04-17",
@@ -15254,7 +14901,6 @@
    "Debi LaPlante"
   ],
   "topics": [
-   "prevention",
    "advertising"
   ],
   "designs": [],
@@ -15294,12 +14940,8 @@
    "Michael Hallsworth",
    "Paloma Bellatin"
   ],
-  "topics": [
-   "online-gambling"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2024-10-01",
   "status_changed": null
  },
@@ -15339,8 +14981,7 @@
   "topics": [
    "loot-boxes",
    "advertising",
-   "policy",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2024-09-25",
@@ -15381,10 +15022,11 @@
    "Qiang Shen"
   ],
   "topics": [
-   "measurement",
    "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2024-09-25",
   "status_changed": null
  },
@@ -15423,10 +15065,8 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
    "advertising",
-   "policy",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2024-09-26",
@@ -15474,8 +15114,7 @@
   "authors": [],
   "topics": [
    "online-gambling",
-   "treatment",
-   "cognition"
+   "treatment"
   ],
   "designs": [
    "trial"
@@ -15518,8 +15157,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "cognition"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2024-09-19",
@@ -15559,13 +15197,8 @@
    "Agnieszka Tymula",
    "Deborah Cobb-Clark"
   ],
-  "topics": [
-   "prevention",
-   "measurement"
-  ],
-  "designs": [
-   "survey"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2023-12-15",
   "status_changed": null
  },
@@ -15642,20 +15275,11 @@
   ],
   "topics": [
    "online-gambling",
-   "trading",
-   "casino",
    "youth",
-   "treatment",
    "advertising",
-   "policy",
-   "cognition",
-   "families",
-   "industry"
+   "cognition"
   ],
-  "designs": [
-   "review",
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2024-09-04",
   "status_changed": null
  },
@@ -15693,8 +15317,7 @@
    "Lisa Henkel"
   ],
   "topics": [
-   "loot-boxes",
-   "measurement"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2024-09-04",
@@ -15736,6 +15359,7 @@
    "online-gambling",
    "loot-boxes",
    "youth",
+   "cognition",
    "comorbidity"
   ],
   "designs": [],
@@ -15774,8 +15398,7 @@
    "Solip Park"
   ],
   "topics": [
-   "loot-boxes",
-   "policy"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2024-03-28",
@@ -15817,15 +15440,9 @@
   ],
   "topics": [
    "loot-boxes",
-   "cognition",
-   "comorbidity",
    "lived-experience"
   ],
-  "designs": [
-   "trial",
-   "qualitative",
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2024-04-26",
   "status_changed": null
  },
@@ -15909,7 +15526,6 @@
    "comorbidity"
   ],
   "designs": [
-   "trial",
    "qualitative"
   ],
   "first_seen": "2024-08-19",
@@ -15947,9 +15563,7 @@
    "Heather Gray"
   ],
   "topics": [
-   "casino",
    "prevention",
-   "families",
    "equity"
   ],
   "designs": [],
@@ -16033,11 +15647,7 @@
    "lottery",
    "casino",
    "policy",
-   "prevalence",
    "cognition",
-   "financial-harm",
-   "equity",
-   "industry",
    "older-adults"
   ],
   "designs": [
@@ -16077,9 +15687,7 @@
    "Daiki TAOKA",
    "Nobuhito Abe"
   ],
-  "topics": [
-   "casino"
-  ],
+  "topics": [],
   "designs": [
    "behavioral-data"
   ],
@@ -16162,11 +15770,49 @@
    "Joanna Rudzinska-Wojciechowska",
    "Diana Jaworska"
   ],
+  "topics": [],
+  "designs": [
+   "experiment"
+  ],
+  "first_seen": "2023-05-29",
+  "status_changed": null
+ },
+ {
+  "id": "osf:hg6u3",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Prisoners of the Past",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2024-07-07",
+  "last_updated": "2024-07-31",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "With most actions, people believe that they are exercising ‘free will’ in choice selection. Free will is often experienced through a Sense of Agency (SoA), a subtle and perpetual feeling that we are in control of our own actions (Haggard, 2002) …",
+  "url": "https://osf.io/hg6u3/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Matthew Tandy",
+   "Silvia Seghezzi"
+  ],
   "topics": [
-   "comorbidity"
+   "cognition"
   ],
   "designs": [],
-  "first_seen": "2023-05-29",
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -16202,7 +15848,6 @@
   ],
   "topics": [
    "lottery",
-   "casino",
    "cognition"
   ],
   "designs": [],
@@ -16242,8 +15887,7 @@
   ],
   "topics": [
    "lottery",
-   "cognition",
-   "equity"
+   "cognition"
   ],
   "designs": [
    "experiment"
@@ -16283,12 +15927,10 @@
    "Jeroen Hairwassers"
   ],
   "topics": [
-   "youth",
-   "measurement",
-   "cognition"
+   "youth"
   ],
   "designs": [
-   "survey"
+   "protocol"
   ],
   "first_seen": "2024-07-29",
   "status_changed": null
@@ -16327,12 +15969,47 @@
    "Elizabeth C Goyder"
   ],
   "topics": [
-   "advertising",
-   "policy",
-   "measurement"
+   "advertising"
   ],
   "designs": [],
   "first_seen": "2024-07-25",
+  "status_changed": null
+ },
+ {
+  "id": "osf:46h7g",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Investigating attitudes towards individuals with addictive disorders",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2024-07-24",
+  "last_updated": "2024-07-24",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The purpose of this study is to explore potential links between disgust sensitivity and the stigmatization of individuals with one of three specific addictive disorders …",
+  "url": "https://osf.io/46h7g/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Edwin Thomas"
+  ],
+  "topics": [
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -16369,13 +16046,10 @@
    "Sarah E Nelson"
   ],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "measurement"
+   "online-gambling"
   ],
   "designs": [
-   "survey",
-   "longitudinal"
+   "survey"
   ],
   "first_seen": "2023-03-13",
   "status_changed": null
@@ -16413,9 +16087,7 @@
    "Matthew Tom",
    "Debi LaPlante"
   ],
-  "topics": [
-   "online-gambling"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2024-07-23",
   "status_changed": null
@@ -16454,11 +16126,11 @@
    "Simon Dymond"
   ],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "prevention"
+   "treatment"
   ],
-  "designs": [],
+  "designs": [
+   "behavioral-data"
+  ],
   "first_seen": "2024-07-15",
   "status_changed": null
  },
@@ -16497,11 +16169,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2023-12-14",
   "status_changed": null
@@ -16584,9 +16255,7 @@
    "Samuel Thelaus"
   ],
   "topics": [
-   "policy",
-   "cognition",
-   "industry"
+   "cognition"
   ],
   "designs": [
    "experiment"
@@ -16631,8 +16300,7 @@
    "Stefan Antoniades"
   ],
   "topics": [
-   "sports-betting",
-   "cognition"
+   "sports-betting"
   ],
   "designs": [],
   "first_seen": "2024-07-08",
@@ -16675,8 +16343,7 @@
    "Stefan Antoniades"
   ],
   "topics": [
-   "sports-betting",
-   "cognition"
+   "sports-betting"
   ],
   "designs": [],
   "first_seen": "2024-07-08",
@@ -16718,8 +16385,7 @@
    "Ariana Marie Colder"
   ],
   "topics": [
-   "loot-boxes",
-   "prevalence"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2024-07-24",
@@ -16801,7 +16467,6 @@
    "Nicki Dowling"
   ],
   "topics": [
-   "youth",
    "treatment",
    "equity"
   ],
@@ -16843,13 +16508,8 @@
    "Jason Landon",
    "Maria Bellringer"
   ],
-  "topics": [
-   "policy",
-   "measurement"
-  ],
-  "designs": [
-   "review"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2024-06-27",
   "status_changed": null
  },
@@ -17007,9 +16667,7 @@
    "Sarah E Nelson",
    "Matthew Tom"
   ],
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2024-06-19",
   "status_changed": null
@@ -17091,18 +16749,12 @@
    "Bernd Figner"
   ],
   "topics": [
-   "treatment",
-   "advertising",
-   "prevalence",
-   "measurement",
    "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
-   "survey",
-   "experiment",
-   "protocol"
+   "protocol",
+   "experiment"
   ],
   "first_seen": "2024-06-17",
   "status_changed": null
@@ -17144,9 +16796,7 @@
    "Lee Thung Sen",
    "Hans Christian"
   ],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2024-06-16",
   "status_changed": null
@@ -17181,9 +16831,7 @@
   "authors": [
    "Lee Thung Sen"
   ],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2024-06-16",
   "status_changed": null
@@ -17223,12 +16871,8 @@
    "hideyuki takahashi",
    "Masahiro Takamura"
   ],
-  "topics": [
-   "online-gambling"
-  ],
-  "designs": [
-   "experiment"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2024-06-14",
   "status_changed": null
  },
@@ -17264,8 +16908,7 @@
    "Dekai LIU"
   ],
   "topics": [
-   "loot-boxes",
-   "policy"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2024-06-14",
@@ -17310,10 +16953,9 @@
   "url": "https://clinicaltrials.gov/study/NCT06195995",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2024-01-08",
@@ -17362,15 +17004,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "lottery",
-   "casino",
-   "treatment",
-   "cognition",
-   "comorbidity"
+   "treatment"
   ],
-  "designs": [
-   "qualitative"
-  ],
+  "designs": [],
   "first_seen": "2019-02-07",
   "status_changed": null
  },
@@ -17406,8 +17042,7 @@
    "Matheus Boger"
   ],
   "topics": [
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2024-05-29",
@@ -17447,17 +17082,14 @@
    "Yakov Bart"
   ],
   "topics": [
-   "treatment",
    "prevention",
    "advertising",
    "policy",
-   "measurement",
    "cognition",
    "industry",
    "lived-experience"
   ],
   "designs": [
-   "qualitative",
    "experiment"
   ],
   "first_seen": "2024-02-07",
@@ -17498,11 +17130,8 @@
    "Naomi Muggleton"
   ],
   "topics": [
-   "online-gambling",
    "casino",
-   "measurement",
-   "cognition",
-   "industry"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2024-01-16",
@@ -17541,8 +17170,7 @@
    "Zhang Chen"
   ],
   "topics": [
-   "online-gambling",
-   "measurement"
+   "online-gambling"
   ],
   "designs": [],
   "first_seen": "2023-12-08",
@@ -17582,13 +17210,9 @@
   ],
   "topics": [
    "online-gambling",
-   "casino",
-   "policy",
-   "industry"
+   "casino"
   ],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2024-05-21",
   "status_changed": null
  },
@@ -17635,7 +17259,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
    "cognition"
   ],
   "designs": [],
@@ -17715,9 +17338,7 @@
    "Debi LaPlante"
   ],
   "topics": [
-   "prevention",
-   "advertising",
-   "industry"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2024-05-02",
@@ -17757,16 +17378,12 @@
    "Liselot Hudders"
   ],
   "topics": [
-   "lottery",
    "advertising",
-   "prevalence",
    "comorbidity",
    "families",
-   "financial-harm",
    "industry"
   ],
   "designs": [
-   "review",
    "experiment"
   ],
   "first_seen": "2024-04-29",
@@ -17846,10 +17463,10 @@
   ],
   "topics": [
    "youth",
-   "prevalence",
    "comorbidity"
   ],
   "designs": [
+   "protocol",
    "review"
   ],
   "first_seen": "2024-04-25",
@@ -17888,11 +17505,11 @@
    "Lia Nower"
   ],
   "topics": [
-   "prevalence",
    "comorbidity",
    "older-adults"
   ],
   "designs": [
+   "protocol",
    "review"
   ],
   "first_seen": "2024-04-25",
@@ -17932,10 +17549,10 @@
   ],
   "topics": [
    "youth",
-   "prevalence",
    "comorbidity"
   ],
   "designs": [
+   "protocol",
    "review"
   ],
   "first_seen": "2024-04-25",
@@ -17975,10 +17592,10 @@
   ],
   "topics": [
    "youth",
-   "prevalence",
    "comorbidity"
   ],
   "designs": [
+   "protocol",
    "review"
   ],
   "first_seen": "2024-04-25",
@@ -18016,8 +17633,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
-   "policy"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2024-04-19",
@@ -18055,8 +17671,7 @@
    "Lia Nower"
   ],
   "topics": [
-   "sports-betting",
-   "prevalence"
+   "sports-betting"
   ],
   "designs": [],
   "first_seen": "2024-04-13",
@@ -18149,9 +17764,7 @@
    "Kasra Ghaharian"
   ],
   "topics": [],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2024-04-10",
   "status_changed": null
  },
@@ -18197,7 +17810,6 @@
   "authors": [],
   "topics": [
    "treatment",
-   "measurement",
    "financial-harm"
   ],
   "designs": [],
@@ -18240,7 +17852,6 @@
    "lottery"
   ],
   "designs": [
-   "review",
    "protocol"
   ],
   "first_seen": "2024-04-07",
@@ -18282,7 +17893,7 @@
   ],
   "topics": [],
   "designs": [
-   "review"
+   "protocol"
   ],
   "first_seen": "2024-04-05",
   "status_changed": null
@@ -18318,13 +17929,9 @@
    "Tanja Anneli Airaksinen"
   ],
   "topics": [
-   "treatment",
    "comorbidity"
   ],
-  "designs": [
-   "review",
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2024-03-29",
   "status_changed": null
  },
@@ -18360,13 +17967,12 @@
    "Peter Etchells"
   ],
   "topics": [
-   "online-gambling",
    "loot-boxes",
-   "treatment"
+   "treatment",
+   "comorbidity"
   ],
   "designs": [
-   "qualitative",
-   "commentary"
+   "qualitative"
   ],
   "first_seen": "2024-03-29",
   "status_changed": null
@@ -18404,10 +18010,10 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
    "cognition"
   ],
   "designs": [
+   "longitudinal",
    "behavioral-data"
   ],
   "first_seen": "2024-03-27",
@@ -18445,10 +18051,7 @@
    "Leon Y. Xiao"
   ],
   "topics": [
-   "loot-boxes",
-   "prevention",
-   "policy",
-   "industry"
+   "loot-boxes"
   ],
   "designs": [
    "longitudinal"
@@ -18490,10 +18093,7 @@
    "Philip Newall"
   ],
   "topics": [
-   "sports-betting",
-   "online-gambling",
-   "prevention",
-   "industry"
+   "sports-betting"
   ],
   "designs": [
    "review"
@@ -18533,7 +18133,6 @@
    "Philip Newall"
   ],
   "topics": [
-   "treatment",
    "advertising",
    "lived-experience"
   ],
@@ -18578,7 +18177,6 @@
    "Simon Dymond"
   ],
   "topics": [
-   "prevalence",
    "families",
    "veterans"
   ],
@@ -18622,19 +18220,14 @@
    "Philip Newall"
   ],
   "topics": [
-   "online-gambling",
    "youth",
-   "treatment",
    "prevention",
    "advertising",
    "policy",
-   "measurement",
    "comorbidity",
    "industry"
   ],
   "designs": [
-   "trial",
-   "longitudinal",
    "experiment"
   ],
   "first_seen": "2023-12-07",
@@ -18672,8 +18265,7 @@
    "Jamie Torrance"
   ],
   "topics": [
-   "casino",
-   "measurement"
+   "casino"
   ],
   "designs": [
    "experiment"
@@ -18713,11 +18305,7 @@
    "Heather Gray"
   ],
   "topics": [
-   "lottery",
-   "treatment",
-   "measurement",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [],
   "first_seen": "2024-03-15",
@@ -18759,13 +18347,9 @@
   ],
   "topics": [
    "youth",
-   "treatment",
-   "policy",
    "comorbidity"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2024-03-12",
   "status_changed": null
  },
@@ -18853,8 +18437,7 @@
    "Andrew (Hyounsoo) Kim"
   ],
   "topics": [
-   "sports-betting",
-   "comorbidity"
+   "sports-betting"
   ],
   "designs": [],
   "first_seen": "2024-03-12",
@@ -18901,7 +18484,8 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment"
+   "treatment",
+   "self-exclusion"
   ],
   "designs": [
    "trial",
@@ -18942,10 +18526,7 @@
    "Liselot Hudders",
    "Marla Royne Stafford"
   ],
-  "topics": [
-   "advertising",
-   "industry"
-  ],
+  "topics": [],
   "designs": [
    "longitudinal"
   ],
@@ -18987,7 +18568,6 @@
   "topics": [
    "advertising",
    "policy",
-   "families",
    "industry"
   ],
   "designs": [],
@@ -19040,7 +18620,6 @@
    "loot-boxes",
    "youth",
    "treatment",
-   "prevention",
    "families"
   ],
   "designs": [],
@@ -19116,13 +18695,10 @@
   ],
   "topics": [
    "loot-boxes",
-   "measurement",
    "cognition",
-   "industry"
+   "financial-harm"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2024-02-19",
   "status_changed": null
  },
@@ -19167,7 +18743,7 @@
    "loot-boxes"
   ],
   "designs": [
-   "review"
+   "protocol"
   ],
   "first_seen": "2022-01-01",
   "status_changed": null
@@ -19212,10 +18788,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "prevalence",
-   "measurement",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
    "trial"
@@ -19265,13 +18838,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "measurement"
+   "treatment"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2018-09-17",
   "status_changed": null
  },
@@ -19315,12 +18884,10 @@
   "authors": [],
   "topics": [
    "online-gambling",
-   "treatment",
-   "prevalence",
-   "equity"
+   "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2023-08-25",
   "status_changed": null
@@ -19363,9 +18930,7 @@
   "authors": [],
   "topics": [
    "lottery",
-   "treatment",
-   "prevalence",
-   "measurement"
+   "equity"
   ],
   "designs": [
    "trial",
@@ -19409,12 +18974,8 @@
    "Sally Melissa Gainsbury",
    "Deborah Cobb-Clark"
   ],
-  "topics": [
-   "casino"
-  ],
-  "designs": [
-   "survey"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2024-01-31",
   "status_changed": null
  },
@@ -19453,7 +19014,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
    "families"
   ],
@@ -19493,10 +19053,7 @@
    "Serena D'Hooge"
   ],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "prevention",
-   "comorbidity"
+   "online-gambling"
   ],
   "designs": [],
   "first_seen": "2024-01-26",
@@ -19543,17 +19100,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "measurement",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
    "trial",
-   "qualitative",
-   "survey",
-   "longitudinal",
-   "experiment"
+   "longitudinal"
   ],
   "first_seen": "2020-07-07",
   "status_changed": null
@@ -19626,12 +19177,10 @@
    "Ben Ford"
   ],
   "topics": [
-   "advertising",
    "cognition",
    "comorbidity"
   ],
   "designs": [
-   "review",
    "qualitative"
   ],
   "first_seen": "2024-01-14",
@@ -19669,10 +19218,11 @@
   ],
   "topics": [
    "online-gambling",
-   "loot-boxes",
-   "prevalence"
+   "loot-boxes"
   ],
-  "designs": [],
+  "designs": [
+   "protocol"
+  ],
   "first_seen": "2024-01-06",
   "status_changed": null
  },
@@ -19708,12 +19258,10 @@
    "Bruno Kačer"
   ],
   "topics": [
-   "loot-boxes",
-   "measurement"
+   "loot-boxes"
   ],
   "designs": [
-   "survey",
-   "behavioral-data"
+   "survey"
   ],
   "first_seen": "2024-01-12",
   "status_changed": null
@@ -19792,9 +19340,7 @@
    "Bernadeta Lelonek-Kuleta"
   ],
   "topics": [],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-12-20",
   "status_changed": null
  },
@@ -19874,9 +19420,7 @@
    "loot-boxes",
    "comorbidity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2022-09-12",
   "status_changed": null
  },
@@ -19914,12 +19458,8 @@
    "Agnieszka Tymula",
    "Deborah Cobb-Clark"
   ],
-  "topics": [
-   "measurement"
-  ],
-  "designs": [
-   "survey"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2023-12-15",
   "status_changed": null
  },
@@ -19958,12 +19498,9 @@
    "Deborah Cobb-Clark"
   ],
   "topics": [
-   "online-gambling",
-   "measurement"
+   "online-gambling"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2023-12-15",
   "status_changed": null
  },
@@ -20002,9 +19539,7 @@
    "Deborah Cobb-Clark"
   ],
   "topics": [],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2023-12-15",
   "status_changed": null
  },
@@ -20161,14 +19696,11 @@
    "Bernadeta Lelonek-Kuleta"
   ],
   "topics": [
-   "youth",
-   "treatment",
-   "measurement"
+   "youth"
   ],
   "designs": [
-   "review",
-   "qualitative",
-   "protocol"
+   "protocol",
+   "review"
   ],
   "first_seen": "2023-12-20",
   "status_changed": null
@@ -20204,12 +19736,9 @@
    "Richard James"
   ],
   "topics": [
-   "measurement",
    "equity"
   ],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2023-12-03",
   "status_changed": null
  },
@@ -20250,9 +19779,7 @@
    "Tomi Lintonen"
   ],
   "topics": [],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-11-27",
   "status_changed": null
  },
@@ -20288,13 +19815,9 @@
   ],
   "topics": [
    "loot-boxes",
-   "policy",
-   "cognition",
-   "industry"
+   "policy"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2024-01-18",
   "status_changed": null
  },
@@ -20329,9 +19852,7 @@
    "Amélie Gourdon-Kanhukamwe"
   ],
   "topics": [],
-  "designs": [
-   "protocol"
-  ],
+  "designs": [],
   "first_seen": "2023-11-24",
   "status_changed": null
  },
@@ -20417,20 +19938,57 @@
   "topics": [
    "sports-betting",
    "online-gambling",
-   "casino",
    "loot-boxes",
    "youth",
-   "prevalence",
    "comorbidity",
    "families",
-   "equity",
-   "industry"
+   "equity"
   ],
-  "designs": [
-   "survey",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2023-11-22",
+  "status_changed": null
+ },
+ {
+  "id": "osf:jcf2m",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Relationship between stress in university students and electronic cigarette consumption",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2023-11-21",
+  "last_updated": "2023-11-21",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "In recent years, the increased use of e-cigarettes has challenged the dominance of conventional smoking. Studies have found links between perceived stress and smoking, showing an association between high levels of self-perceived stress and increased smoking (Stubbs et al., 2017) …",
+  "url": "https://osf.io/jcf2m/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Ana Paulina Campos Loria",
+   "Mara Patricia Acuña Molina",
+   "Karime Aguirre Fuentes",
+   "Karla Joanna Bonifaz Gamboa",
+   "María Yolanda Herrera Pérez",
+   "Ana Valenka"
+  ],
+  "topics": [
+   "youth",
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -20468,7 +20026,6 @@
   ],
   "topics": [
    "lottery",
-   "casino",
    "cognition",
    "comorbidity"
   ],
@@ -20726,12 +20283,9 @@
   "topics": [
    "online-gambling",
    "trading",
-   "policy",
-   "equity",
-   "industry"
+   "policy"
   ],
   "designs": [
-   "survey",
    "experiment"
   ],
   "first_seen": "2022-05-27",
@@ -20770,9 +20324,7 @@
    "Mónica Pachón"
   ],
   "topics": [
-   "prediction-markets",
-   "youth",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2023-10-23",
@@ -20810,9 +20362,7 @@
    "Devin J. Mills"
   ],
   "topics": [],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2023-10-18",
   "status_changed": null
  },
@@ -20862,6 +20412,45 @@
   "status_changed": null
  },
  {
+  "id": "osf:wcyjs",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Behavioral addictions and personality disorders: a systematic review and meta-analysis",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2023-10-10",
+  "last_updated": "2023-10-10",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This review attempts to investigate the relationship between personality disorders and behavioral addictions …",
+  "url": "https://osf.io/wcyjs/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Viktória Bodó",
+   "Bernadette Kun"
+  ],
+  "topics": [
+   "loot-boxes",
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
+  "status_changed": null
+ },
+ {
   "id": "osf:g8vxb",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -20897,20 +20486,11 @@
   "topics": [
    "youth",
    "treatment",
-   "policy",
-   "prevalence",
    "measurement",
    "cognition",
-   "comorbidity",
-   "families",
-   "equity",
-   "industry"
+   "comorbidity"
   ],
-  "designs": [
-   "review",
-   "longitudinal",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2023-10-05",
   "status_changed": null
  },
@@ -20951,11 +20531,8 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "prevention",
    "policy",
-   "financial-harm",
-   "industry"
+   "financial-harm"
   ],
   "designs": [
    "behavioral-data"
@@ -20998,14 +20575,11 @@
   ],
   "topics": [
    "youth",
-   "advertising",
-   "prevalence",
-   "industry"
+   "advertising"
   ],
   "designs": [
    "qualitative",
-   "survey",
-   "experiment"
+   "survey"
   ],
   "first_seen": "2023-10-05",
   "status_changed": null
@@ -21046,13 +20620,13 @@
   "topics": [
    "online-gambling",
    "loot-boxes",
+   "youth",
    "policy",
    "cognition",
-   "families",
-   "industry"
+   "families"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2023-07-14",
   "status_changed": null
@@ -21129,14 +20703,10 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
    "advertising",
-   "policy",
-   "prevalence"
+   "policy"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2023-09-26",
   "status_changed": null
  },
@@ -21207,10 +20777,7 @@
   "authors": [
    "David Zendle"
   ],
-  "topics": [
-   "advertising",
-   "measurement"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2023-09-20",
   "status_changed": null
@@ -21254,17 +20821,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "lottery",
    "casino",
    "treatment",
-   "prevalence",
-   "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "trial",
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2023-09-07",
   "status_changed": null
  },
@@ -21380,17 +20941,12 @@
    "Ben Ford"
   ],
   "topics": [
-   "online-gambling",
-   "advertising",
-   "measurement",
    "cognition",
    "comorbidity"
   ],
   "designs": [
-   "review",
-   "qualitative",
-   "survey",
-   "experiment"
+   "protocol",
+   "qualitative"
   ],
   "first_seen": "2023-09-21",
   "status_changed": null
@@ -21465,15 +21021,13 @@
    "Sally Melissa Gainsbury"
   ],
   "topics": [
+   "sports-betting",
    "online-gambling",
-   "treatment",
-   "prevention",
-   "prevalence"
+   "prevention"
   ],
   "designs": [
    "survey",
-   "longitudinal",
-   "commentary"
+   "longitudinal"
   ],
   "first_seen": "2023-08-22",
   "status_changed": null
@@ -21513,8 +21067,6 @@
   ],
   "topics": [
    "online-gambling",
-   "lottery",
-   "casino",
    "youth",
    "prevention",
    "advertising",
@@ -21522,10 +21074,7 @@
    "equity",
    "industry"
   ],
-  "designs": [
-   "experiment",
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2023-09-18",
   "status_changed": null
  },
@@ -21563,7 +21112,8 @@
   ],
   "topics": [],
   "designs": [
-   "survey"
+   "survey",
+   "longitudinal"
   ],
   "first_seen": "2023-08-08",
   "status_changed": null
@@ -21653,12 +21203,9 @@
   ],
   "topics": [
    "casino",
-   "policy",
    "industry"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-08-03",
   "status_changed": null
  },
@@ -21695,12 +21242,10 @@
    "Ebba Warén"
   ],
   "topics": [
-   "policy",
    "equity"
   ],
   "designs": [
-   "review",
-   "commentary"
+   "review"
   ],
   "first_seen": "2024-03-18",
   "status_changed": null
@@ -21738,12 +21283,10 @@
    "Ebba Warén"
   ],
   "topics": [
-   "policy",
    "equity"
   ],
   "designs": [
-   "review",
-   "commentary"
+   "review"
   ],
   "first_seen": "2023-07-18",
   "status_changed": null
@@ -21781,9 +21324,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-07-07",
   "status_changed": null
  },
@@ -21826,7 +21367,9 @@
   "url": "https://clinicaltrials.gov/study/NCT05933356",
   "registration_type": "",
   "authors": [],
-  "topics": [],
+  "topics": [
+   "comorbidity"
+  ],
   "designs": [
    "experiment"
   ],
@@ -21869,18 +21412,12 @@
    "prevention",
    "policy",
    "prevalence",
-   "measurement",
    "cognition",
-   "comorbidity",
-   "equity",
    "industry"
   ],
   "designs": [
-   "review",
-   "trial",
-   "survey",
-   "behavioral-data",
-   "commentary"
+   "protocol",
+   "survey"
   ],
   "first_seen": "2021-06-21",
   "status_changed": null
@@ -21929,7 +21466,6 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
    "comorbidity"
   ],
   "designs": [],
@@ -21968,9 +21504,7 @@
    "Monja Hoven",
    "Maël Lebreton"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [
    "experiment"
   ],
@@ -22009,12 +21543,9 @@
    "Monja Hoven"
   ],
   "topics": [
-   "measurement",
    "cognition"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2023-06-08",
   "status_changed": null
  },
@@ -22057,8 +21588,7 @@
    "cognition"
   ],
   "designs": [
-   "trial",
-   "longitudinal"
+   "trial"
   ],
   "first_seen": "2023-06-05",
   "status_changed": null
@@ -22096,7 +21626,6 @@
    "Dan Anderson-Luxford"
   ],
   "topics": [
-   "prevalence",
    "comorbidity"
   ],
   "designs": [],
@@ -22135,12 +21664,11 @@
   ],
   "topics": [
    "casino",
-   "policy",
-   "cognition",
-   "comorbidity",
-   "industry"
+   "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "commentary"
+  ],
   "first_seen": "2023-05-25",
   "status_changed": null
  },
@@ -22183,12 +21711,9 @@
   "url": "https://clinicaltrials.gov/study/NCT05872750",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [
-   "trial",
-   "survey"
+   "protocol"
   ],
   "first_seen": "2023-05-24",
   "status_changed": null
@@ -22267,13 +21792,10 @@
    "Christina U. Pfeuffer"
   ],
   "topics": [
-   "measurement",
    "cognition"
   ],
   "designs": [
-   "survey",
-   "experiment",
-   "commentary"
+   "experiment"
   ],
   "first_seen": "2023-05-12",
   "status_changed": null
@@ -22317,14 +21839,54 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
    "cognition",
    "comorbidity"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2023-05-11",
+  "status_changed": null
+ },
+ {
+  "id": "osf:b5g73",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Examining the relationship between task-based self-control performance and different cortisol response profiles",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2023-05-10",
+  "last_updated": "2023-05-10",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "In everyday life, we are commonly confronted with conflict situations in which we have to resist an immediate temptation or to endure a short-term aversion in order to reach a long-term goal in the future (Hofmann et al., 2012) …",
+  "url": "https://osf.io/b5g73/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Noel Clausen",
+   "Jasmin Stein",
+   "Katharina Zwosta",
+   "Anja Kräplin"
+  ],
+  "topics": [
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-10-26",
   "status_changed": null
  },
  {
@@ -22501,7 +22063,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment"
   ],
   "designs": [],
@@ -22543,14 +22104,9 @@
   "topics": [
    "online-gambling",
    "prevention",
-   "self-exclusion",
-   "advertising",
-   "measurement"
+   "self-exclusion"
   ],
-  "designs": [
-   "survey",
-   "behavioral-data"
-  ],
+  "designs": [],
   "first_seen": "2023-03-07",
   "status_changed": null
  },
@@ -22646,7 +22202,6 @@
   "authors": [],
   "topics": [
    "treatment",
-   "cognition",
    "comorbidity"
   ],
   "designs": [],
@@ -22723,13 +22278,8 @@
    "Loren Kock"
   ],
   "topics": [
-   "policy",
-   "prevalence",
-   "cognition",
    "comorbidity",
-   "families",
-   "financial-harm",
-   "industry"
+   "families"
   ],
   "designs": [
    "survey"
@@ -22767,9 +22317,7 @@
   "authors": [
    "Philip Newall"
   ],
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2023-02-15",
   "status_changed": null
@@ -22809,8 +22357,7 @@
    "Eric R. Louderback"
   ],
   "topics": [
-   "sports-betting",
-   "online-gambling"
+   "sports-betting"
   ],
   "designs": [],
   "first_seen": "2023-02-09",
@@ -22858,12 +22405,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
    "prevention",
    "self-exclusion",
    "policy",
-   "families",
-   "industry"
+   "families"
   ],
   "designs": [
    "qualitative"
@@ -22916,9 +22461,7 @@
   "topics": [
    "comorbidity"
   ],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2021-04-13",
   "status_changed": null
  },
@@ -22956,10 +22499,10 @@
   ],
   "topics": [
    "youth",
-   "policy",
-   "cognition"
+   "policy"
   ],
   "designs": [
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2023-02-04",
@@ -22999,12 +22542,9 @@
    "Debi LaPlante"
   ],
   "topics": [
-   "sports-betting",
-   "prevalence"
+   "sports-betting"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2023-02-02",
   "status_changed": null
  },
@@ -23041,11 +22581,11 @@
    "Richard James"
   ],
   "topics": [
-   "loot-boxes",
-   "prevention",
-   "measurement"
+   "loot-boxes"
   ],
-  "designs": [],
+  "designs": [
+   "protocol"
+  ],
   "first_seen": "2023-01-31",
   "status_changed": null
  },
@@ -23079,10 +22619,7 @@
   "authors": [
    "Tiange Xu"
   ],
-  "topics": [
-   "casino",
-   "prevention"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2023-01-26",
   "status_changed": null
@@ -23122,9 +22659,7 @@
   "topics": [
    "prevention"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-01-25",
   "status_changed": null
  },
@@ -23162,14 +22697,9 @@
    "Philip Newall"
   ],
   "topics": [
-   "loot-boxes",
-   "prevention",
-   "policy",
-   "measurement"
+   "loot-boxes"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2023-01-22",
   "status_changed": null
  },
@@ -23204,7 +22734,9 @@
    "Kasra Ghaharian"
   ],
   "topics": [],
-  "designs": [],
+  "designs": [
+   "longitudinal"
+  ],
   "first_seen": "2023-01-19",
   "status_changed": null
  },
@@ -23241,9 +22773,7 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
-   "policy",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2023-01-17",
@@ -23282,12 +22812,9 @@
    "Devin J. Mills"
   ],
   "topics": [
-   "trading",
-   "prevalence"
+   "trading"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2023-01-16",
   "status_changed": null
  },
@@ -23326,87 +22853,12 @@
    "Matthew Jones"
   ],
   "topics": [
-   "treatment",
-   "prevalence"
+   "treatment"
   ],
   "designs": [
    "review"
   ],
   "first_seen": "2023-01-13",
-  "status_changed": null
- },
- {
-  "id": "osf:5f6q8",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "\"Innovation, Transition, Change\": What socio-technical innovations can help combat gambling harms?",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-01-10",
-  "last_updated": "2023-01-10",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "A Rapid Evidence Assessment in relation to Challenge 4, the fourth of four challenges as identified by the Bristol Hub for Gambling Harms Research.",
-  "url": "https://osf.io/5f6q8/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Jamie Wheaton",
-   "Sharon Collard"
-  ],
-  "topics": [],
-  "designs": [],
-  "first_seen": "2023-01-10",
-  "status_changed": null
- },
- {
-  "id": "osf:h2q4r",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "\"Experience, Risk, Harm\": What social and geographical inequalities exacerbate gambling harms?",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-01-10",
-  "last_updated": "2023-01-10",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "A Rapid Evidence Assessment (REA) conducted in relation to Challenge 3, the third of four research objectives identified by the Bristol Hub for Gambling Harms Research.",
-  "url": "https://osf.io/h2q4r/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Jamie Wheaton",
-   "Sharon Collard"
-  ],
-  "topics": [
-   "equity"
-  ],
-  "designs": [],
-  "first_seen": "2023-01-10",
   "status_changed": null
  },
  {
@@ -23448,9 +22900,7 @@
    "loot-boxes",
    "cognition"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2021-08-06",
   "status_changed": null
  },
@@ -23484,9 +22934,7 @@
   "authors": [
    "Christina U. Pfeuffer"
   ],
-  "topics": [
-   "cognition"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2023-02-03",
   "status_changed": null
@@ -23525,13 +22973,9 @@
    "Zsolt Demetrovics"
   ],
   "topics": [
-   "loot-boxes",
-   "policy",
-   "measurement"
+   "loot-boxes"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2022-12-14",
   "status_changed": null
  },
@@ -23571,16 +23015,9 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
-   "prevention",
-   "measurement",
-   "comorbidity"
+   "prevention"
   ],
-  "designs": [
-   "trial",
-   "survey",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2022-11-29",
   "status_changed": null
  },
@@ -23617,9 +23054,7 @@
    "Olivia Maynard"
   ],
   "topics": [],
-  "designs": [
-   "protocol"
-  ],
+  "designs": [],
   "first_seen": "2022-11-28",
   "status_changed": null
  },
@@ -23735,7 +23170,6 @@
   ],
   "topics": [
    "loot-boxes",
-   "prevention",
    "policy"
   ],
   "designs": [],
@@ -23776,15 +23210,9 @@
   "topics": [
    "youth",
    "policy",
-   "prevalence",
-   "measurement",
-   "families",
-   "equity",
-   "older-adults"
+   "equity"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2022-06-28",
   "status_changed": null
  },
@@ -23819,8 +23247,7 @@
    "Poppy Watson"
   ],
   "topics": [
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2022-07-25",
@@ -23901,12 +23328,8 @@
   "authors": [
    "Therese Kanaan"
   ],
-  "topics": [
-   "measurement"
-  ],
-  "designs": [
-   "survey"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2022-07-04",
   "status_changed": null
  },
@@ -23950,13 +23373,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment"
   ],
   "designs": [
-   "trial",
-   "commentary",
-   "protocol"
+   "trial"
   ],
   "first_seen": "2022-04-15",
   "status_changed": null
@@ -23996,14 +23416,10 @@
   ],
   "topics": [
    "casino",
-   "treatment",
-   "prevention",
-   "measurement",
-   "equity",
-   "industry"
+   "prevention"
   ],
   "designs": [
-   "review",
+   "protocol",
    "qualitative",
    "survey"
   ],
@@ -24093,7 +23509,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment"
   ],
   "designs": [
@@ -24137,13 +23552,9 @@
   ],
   "topics": [
    "loot-boxes",
-   "measurement",
    "cognition"
   ],
-  "designs": [
-   "trial",
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2021-04-29",
   "status_changed": null
  },
@@ -24185,9 +23596,7 @@
    "loot-boxes",
    "cognition"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2020-08-18",
   "status_changed": null
  },
@@ -24310,8 +23719,7 @@
   ],
   "topics": [
    "trading",
-   "cognition",
-   "industry"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2022-04-04",
@@ -24349,8 +23757,7 @@
   ],
   "topics": [
    "cognition",
-   "equity",
-   "industry"
+   "equity"
   ],
   "designs": [],
   "first_seen": "2022-04-04",
@@ -24396,7 +23803,9 @@
    "casino",
    "prevention"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2022-03-31",
   "status_changed": null
  },
@@ -24437,8 +23846,7 @@
   ],
   "topics": [
    "online-gambling",
-   "casino",
-   "treatment"
+   "casino"
   ],
   "designs": [
    "experiment"
@@ -24488,9 +23896,7 @@
   "topics": [
    "loot-boxes",
    "treatment",
-   "policy",
-   "comorbidity",
-   "equity"
+   "comorbidity"
   ],
   "designs": [],
   "first_seen": "2022-03-11",
@@ -24530,12 +23936,9 @@
    "Kaelyn Griffin",
    "Todd Lucas Jennings"
   ],
-  "topics": [
-   "prevalence"
-  ],
+  "topics": [],
   "designs": [
-   "survey",
-   "protocol"
+   "survey"
   ],
   "first_seen": "2022-03-07",
   "status_changed": null
@@ -24574,9 +23977,6 @@
    "Joel Billieux"
   ],
   "topics": [
-   "online-gambling",
-   "prevalence",
-   "measurement",
    "cognition"
   ],
   "designs": [
@@ -24618,10 +24018,7 @@
    "Frederick Verbruggen",
    "Joel Billieux"
   ],
-  "topics": [
-   "prevalence",
-   "measurement"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2021-10-18",
   "status_changed": null
@@ -24697,18 +24094,12 @@
   "topics": [
    "online-gambling",
    "trading",
-   "youth",
    "prevention",
    "advertising",
    "policy",
-   "comorbidity",
-   "financial-harm",
    "industry"
   ],
-  "designs": [
-   "review",
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2022-01-18",
   "status_changed": null
  },
@@ -24753,10 +24144,11 @@
   "authors": [],
   "topics": [
    "treatment",
-   "measurement",
    "comorbidity"
   ],
-  "designs": [],
+  "designs": [
+   "protocol"
+  ],
   "first_seen": "2019-05-10",
   "status_changed": null
  },
@@ -24798,9 +24190,7 @@
   "url": "https://clinicaltrials.gov/study/NCT02549781",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "prevalence"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2015-09-15",
   "status_changed": null
@@ -24839,12 +24229,9 @@
    "Lauren Hall"
   ],
   "topics": [
-   "loot-boxes",
-   "cognition"
+   "loot-boxes"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2021-06-15",
   "status_changed": null
  },
@@ -24887,12 +24274,10 @@
    "treatment",
    "measurement",
    "cognition",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
   "designs": [
-   "trial",
-   "survey",
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2021-08-23",
@@ -24943,10 +24328,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "policy",
-   "prevalence",
-   "cognition",
-   "families"
+   "cognition"
   ],
   "designs": [
    "longitudinal"
@@ -24987,15 +24369,11 @@
    "Tullia C. Fraser"
   ],
   "topics": [
-   "lottery",
    "loot-boxes",
    "policy",
-   "cognition",
-   "families",
-   "industry"
+   "cognition"
   ],
   "designs": [
-   "trial",
    "survey"
   ],
   "first_seen": "2021-01-07",
@@ -25049,9 +24427,7 @@
    "industry"
   ],
   "designs": [
-   "qualitative",
    "survey",
-   "longitudinal",
    "behavioral-data"
   ],
   "first_seen": "2020-11-30",
@@ -25097,15 +24473,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
-   "cognition",
-   "comorbidity",
-   "financial-harm"
+   "comorbidity"
   ],
   "designs": [
-   "trial",
-   "qualitative"
+   "trial"
   ],
   "first_seen": "2018-08-03",
   "status_changed": null
@@ -25194,9 +24566,7 @@
   "topics": [
    "loot-boxes"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2021-03-25",
   "status_changed": null
  },
@@ -25242,15 +24612,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
    "comorbidity",
    "families"
   ],
-  "designs": [
-   "trial",
-   "qualitative"
-  ],
+  "designs": [],
   "first_seen": "2014-09-26",
   "status_changed": null
  },
@@ -25292,9 +24658,7 @@
   "topics": [
    "cognition"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2016-05-16",
   "status_changed": null
  },
@@ -25336,11 +24700,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [
-   "trial",
    "experiment"
   ],
   "first_seen": "2021-02-04",
@@ -25379,11 +24741,9 @@
   ],
   "topics": [
    "online-gambling",
-   "casino",
-   "treatment"
+   "casino"
   ],
   "designs": [
-   "survey",
    "experiment"
   ],
   "first_seen": "2021-06-07",
@@ -25425,9 +24785,7 @@
    "treatment",
    "measurement"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2022-08-22",
   "status_changed": null
  },
@@ -25469,15 +24827,8 @@
   "url": "https://clinicaltrials.gov/study/NCT04648007",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment",
-   "measurement",
-   "cognition",
-   "families"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2020-12-01",
   "status_changed": null
  },
@@ -25514,17 +24865,11 @@
   "topics": [
    "lottery",
    "casino",
-   "treatment",
-   "measurement",
-   "comorbidity",
    "families",
    "financial-harm",
-   "equity",
-   "industry"
+   "equity"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2020-11-30",
   "status_changed": null
  },
@@ -25570,9 +24915,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "cognition",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2017-11-28",
@@ -25609,14 +24952,9 @@
    "Marie Dietz",
    "Sally Melissa Gainsbury"
   ],
-  "topics": [
-   "online-gambling",
-   "policy",
-   "prevalence"
-  ],
+  "topics": [],
   "designs": [
-   "survey",
-   "behavioral-data"
+   "survey"
   ],
   "first_seen": "2020-11-10",
   "status_changed": null
@@ -25664,7 +25002,7 @@
    "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2020-10-30",
   "status_changed": null
@@ -25829,8 +25167,7 @@
    "Elliot Ludvig"
   ],
   "topics": [
-   "sports-betting",
-   "prevention"
+   "sports-betting"
   ],
   "designs": [
    "experiment"
@@ -25870,12 +25207,9 @@
   ],
   "topics": [
    "treatment",
-   "measurement",
    "cognition"
   ],
-  "designs": [
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2020-09-23",
   "status_changed": null
  },
@@ -25914,8 +25248,6 @@
    "Sally Melissa Gainsbury"
   ],
   "topics": [
-   "online-gambling",
-   "treatment",
    "self-exclusion"
   ],
   "designs": [
@@ -25959,9 +25291,8 @@
   ],
   "topics": [
    "online-gambling",
-   "lottery",
-   "treatment",
-   "industry"
+   "comorbidity",
+   "financial-harm"
   ],
   "designs": [
    "survey",
@@ -26006,11 +25337,7 @@
    "sports-betting",
    "online-gambling",
    "treatment",
-   "prevention",
-   "advertising",
-   "policy",
-   "cognition",
-   "industry"
+   "policy"
   ],
   "designs": [
    "longitudinal"
@@ -26054,13 +25381,9 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "casino",
-   "industry"
+   "online-gambling"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2020-07-23",
   "status_changed": null
  },
@@ -26141,16 +25464,11 @@
   "topics": [
    "online-gambling",
    "trading",
-   "lottery",
-   "treatment",
-   "policy",
-   "cognition",
-   "industry"
+   "lottery"
   ],
   "designs": [
    "survey",
-   "behavioral-data",
-   "experiment"
+   "behavioral-data"
   ],
   "first_seen": "2020-07-14",
   "status_changed": null
@@ -26191,13 +25509,10 @@
    "Shane W Kraus"
   ],
   "topics": [
-   "casino",
    "prevention",
    "self-exclusion"
   ],
-  "designs": [
-   "commentary"
-  ],
+  "designs": [],
   "first_seen": "2020-06-10",
   "status_changed": null
  },
@@ -26234,8 +25549,7 @@
    "Lukasz Walasek"
   ],
   "topics": [
-   "youth",
-   "policy"
+   "youth"
   ],
   "designs": [],
   "first_seen": "2020-06-07",
@@ -26280,8 +25594,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2020-06-01",
@@ -26357,8 +25670,7 @@
    "Lukasz Walasek"
   ],
   "topics": [
-   "youth",
-   "policy"
+   "youth"
   ],
   "designs": [],
   "first_seen": "2020-05-27",
@@ -26442,12 +25754,9 @@
    "Christopher J. Ferguson"
   ],
   "topics": [
-   "loot-boxes",
-   "cognition"
+   "loot-boxes"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2020-04-07",
   "status_changed": null
  },
@@ -26501,7 +25810,6 @@
   "topics": [
    "online-gambling",
    "prevention",
-   "policy",
    "measurement"
   ],
   "designs": [],
@@ -26541,16 +25849,11 @@
    "Lukasz Walasek"
   ],
   "topics": [
-   "lottery",
-   "casino",
    "loot-boxes",
    "youth",
-   "policy",
-   "older-adults"
+   "policy"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2020-04-07",
   "status_changed": null
  },
@@ -26588,12 +25891,9 @@
    "Christopher J. Ferguson"
   ],
   "topics": [
-   "loot-boxes",
-   "cognition"
+   "loot-boxes"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2020-04-03",
   "status_changed": null
  },
@@ -26629,13 +25929,9 @@
    "Douglas Jozef Angus"
   ],
   "topics": [
-   "prevention",
-   "policy",
-   "industry"
+   "prevention"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2019-03-20",
   "status_changed": null
  },
@@ -26671,13 +25967,9 @@
    "Douglas Jozef Angus"
   ],
   "topics": [
-   "prevention",
-   "policy",
-   "industry"
+   "prevention"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2019-03-19",
   "status_changed": null
  },
@@ -26713,10 +26005,7 @@
   ],
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "prevention",
-   "policy",
-   "industry"
+   "policy"
   ],
   "designs": [],
   "first_seen": "2020-03-18",
@@ -26753,13 +26042,9 @@
    "Michelle Beckett"
   ],
   "topics": [
-   "prevention",
-   "policy",
-   "industry"
+   "prevention"
   ],
-  "designs": [
-   "review"
-  ],
+  "designs": [],
   "first_seen": "2019-03-12",
   "status_changed": null
  },
@@ -26810,9 +26095,7 @@
    "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2018-11-07",
   "status_changed": null
  },
@@ -26851,8 +26134,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "prevention",
-   "policy"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2016-10-05",
@@ -26896,8 +26178,7 @@
    "Adam Russell"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2020-01-24",
@@ -26990,7 +26271,6 @@
   "authors": [],
   "topics": [
    "treatment",
-   "prevalence",
    "comorbidity",
    "families"
   ],
@@ -27082,8 +26362,7 @@
    "Adam Russell"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2019-11-05",
@@ -27132,17 +26411,10 @@
   "topics": [
    "treatment",
    "prevention",
-   "measurement",
-   "cognition",
-   "comorbidity",
-   "families",
-   "equity"
+   "cognition"
   ],
   "designs": [
    "trial",
-   "qualitative",
-   "survey",
-   "longitudinal",
    "experiment"
   ],
   "first_seen": "2015-03-31",
@@ -27185,8 +26457,7 @@
    "domenico viganola"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2019-10-16",
@@ -27328,9 +26599,7 @@
    "cognition",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2018-02-12",
   "status_changed": null
  },
@@ -27365,17 +26634,10 @@
    "Harry T Clelland"
   ],
   "topics": [
-   "loot-boxes",
-   "treatment",
-   "policy",
-   "measurement",
-   "cognition",
-   "industry"
+   "loot-boxes"
   ],
   "designs": [
-   "qualitative",
-   "behavioral-data",
-   "commentary"
+   "qualitative"
   ],
   "first_seen": "2019-07-12",
   "status_changed": null
@@ -27423,9 +26685,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "qualitative"
-  ],
+  "designs": [],
   "first_seen": "2008-11-13",
   "status_changed": null
  },
@@ -27473,12 +26733,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "families"
+   "treatment"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2005-10-28",
   "status_changed": null
  },
@@ -27531,12 +26788,9 @@
   "authors": [],
   "topics": [
    "treatment",
-   "advertising",
-   "measurement",
    "cognition"
   ],
   "designs": [
-   "trial",
    "experiment",
    "case-report"
   ],
@@ -27587,13 +26841,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
-   "prevalence",
    "comorbidity"
   ],
   "designs": [
-   "trial"
+   "survey"
   ],
   "first_seen": "2017-10-27",
   "status_changed": null
@@ -27675,12 +26927,8 @@
   "url": "https://clinicaltrials.gov/study/NCT03460288",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2018-03-09",
   "status_changed": null
  },
@@ -27723,13 +26971,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2017-12-13",
   "status_changed": null
  },
@@ -27930,7 +27174,7 @@
    "comorbidity"
   ],
   "designs": [
-   "trial",
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2008-05-28",
@@ -27981,7 +27225,7 @@
    "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2008-05-28",
   "status_changed": null
@@ -28059,8 +27303,7 @@
    "Adam Siegel"
   ],
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
   "designs": [],
   "first_seen": "2019-02-14",
@@ -28108,13 +27351,9 @@
   "authors": [],
   "topics": [
    "online-gambling",
-   "treatment",
-   "policy",
-   "comorbidity",
-   "equity"
+   "treatment"
   ],
   "designs": [
-   "trial",
    "longitudinal"
   ],
   "first_seen": "2012-06-07",
@@ -28151,8 +27390,7 @@
    "David Zendle"
   ],
   "topics": [
-   "loot-boxes",
-   "youth"
+   "loot-boxes"
   ],
   "designs": [],
   "first_seen": "2018-12-20",
@@ -28196,7 +27434,6 @@
   "authors": [],
   "topics": [
    "treatment",
-   "prevalence",
    "comorbidity"
   ],
   "designs": [],
@@ -28280,12 +27517,8 @@
   "url": "https://clinicaltrials.gov/study/NCT03669315",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2018-09-13",
   "status_changed": null
  },
@@ -28332,15 +27565,12 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
-   "prevalence",
    "comorbidity",
    "families"
   ],
   "designs": [
-   "trial",
-   "longitudinal"
+   "protocol"
   ],
   "first_seen": "2015-09-07",
   "status_changed": null
@@ -28380,7 +27610,9 @@
    "sports-betting",
    "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2017-12-13",
   "status_changed": null
  },
@@ -28426,10 +27658,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "lottery",
-   "casino",
-   "self-exclusion",
-   "comorbidity"
+   "self-exclusion"
   ],
   "designs": [],
   "first_seen": "2014-02-05",
@@ -28476,12 +27705,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "prevention"
+   "treatment"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2018-04-13",
   "status_changed": null
  },
@@ -28522,13 +27748,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "measurement",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [
-   "trial",
-   "survey",
    "experiment"
   ],
   "first_seen": "2018-03-26",
@@ -28564,9 +27786,7 @@
   "authors": [
    "José C. Perales"
   ],
-  "topics": [
-   "policy"
-  ],
+  "topics": [],
   "designs": [],
   "first_seen": "2018-03-26",
   "status_changed": null
@@ -28612,9 +27832,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "prevalence",
-   "cognition",
    "comorbidity"
   ],
   "designs": [
@@ -28664,13 +27881,9 @@
   "topics": [
    "online-gambling",
    "casino",
-   "prevention",
-   "policy",
-   "prevalence",
-   "industry"
+   "policy"
   ],
   "designs": [
-   "trial",
    "experiment"
   ],
   "first_seen": "2013-02-12",
@@ -28719,8 +27932,7 @@
    "treatment"
   ],
   "designs": [
-   "trial",
-   "survey",
+   "protocol",
    "longitudinal"
   ],
   "first_seen": "2017-04-24",
@@ -28763,8 +27975,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "prevalence",
-   "measurement"
+   "prevalence"
   ],
   "designs": [
    "survey"
@@ -28812,12 +28023,9 @@
   "authors": [],
   "topics": [
    "treatment",
-   "measurement",
    "cognition"
   ],
   "designs": [
-   "trial",
-   "survey",
    "longitudinal",
    "behavioral-data"
   ],
@@ -28913,13 +28121,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2016-06-15",
   "status_changed": null
  },
@@ -28967,8 +28172,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "cognition"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2010-01-27",
@@ -29011,11 +28215,8 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "casino",
-   "measurement",
    "cognition",
-   "comorbidity",
-   "equity"
+   "comorbidity"
   ],
   "designs": [],
   "first_seen": "2007-11-15",
@@ -29061,9 +28262,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2007-12-11",
   "status_changed": null
  },
@@ -29106,12 +28305,8 @@
   "url": "https://clinicaltrials.gov/study/NCT02390583",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2015-03-17",
   "status_changed": null
  },
@@ -29196,7 +28391,6 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
    "cognition",
    "comorbidity"
   ],
@@ -29249,7 +28443,7 @@
    "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2010-06-02",
   "status_changed": null
@@ -29296,8 +28490,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2003-03-03",
@@ -29335,11 +28528,11 @@
   ],
   "topics": [
    "online-gambling",
-   "treatment",
-   "prevention",
-   "industry"
+   "prevention"
   ],
-  "designs": [],
+  "designs": [
+   "protocol"
+  ],
   "first_seen": "2017-01-24",
   "status_changed": null
  },
@@ -29390,11 +28583,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "trial",
-   "qualitative",
-   "experiment"
-  ],
+  "designs": [],
   "first_seen": "2012-05-11",
   "status_changed": null
  },
@@ -29440,13 +28629,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "cognition",
-   "comorbidity"
+   "treatment"
   ],
-  "designs": [
-   "longitudinal"
-  ],
+  "designs": [],
   "first_seen": "2016-10-17",
   "status_changed": null
  },
@@ -29493,12 +28678,13 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "casino",
    "loot-boxes",
    "cognition"
   ],
-  "designs": [],
+  "designs": [
+   "experiment"
+  ],
   "first_seen": "2016-08-19",
   "status_changed": null
  },
@@ -29536,8 +28722,7 @@
   "authors": [],
   "topics": [
    "online-gambling",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2016-08-11",
@@ -29583,8 +28768,6 @@
   "authors": [],
   "topics": [
    "casino",
-   "treatment",
-   "prevention",
    "measurement"
   ],
   "designs": [],
@@ -29632,8 +28815,7 @@
   "authors": [],
   "topics": [
    "treatment",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
   "designs": [],
   "first_seen": "2015-09-17",
@@ -29732,13 +28914,12 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "online-gambling",
    "treatment",
-   "measurement",
    "equity"
   ],
   "designs": [
-   "survey"
+   "protocol",
+   "experiment"
   ],
   "first_seen": "2012-12-06",
   "status_changed": null
@@ -29785,14 +28966,10 @@
   "authors": [],
   "topics": [
    "treatment",
-   "policy",
-   "comorbidity",
-   "families",
-   "financial-harm"
+   "comorbidity"
   ],
   "designs": [
-   "trial",
-   "qualitative"
+   "trial"
   ],
   "first_seen": "2012-10-16",
   "status_changed": null
@@ -29838,12 +29015,9 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "equity"
+   "treatment"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2006-08-30",
   "status_changed": null
  },
@@ -29886,10 +29060,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "measurement",
-   "comorbidity",
-   "equity"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2015-07-08",
@@ -29937,8 +29108,7 @@
    "cognition"
   ],
   "designs": [
-   "trial",
-   "longitudinal"
+   "experiment"
   ],
   "first_seen": "2012-03-22",
   "status_changed": null
@@ -30039,9 +29209,7 @@
   "authors": [],
   "topics": [
    "youth",
-   "treatment",
-   "prevention",
-   "prevalence"
+   "prevention"
   ],
   "designs": [],
   "first_seen": "2004-02-24",
@@ -30092,7 +29260,7 @@
    "treatment"
   ],
   "designs": [
-   "trial"
+   "protocol"
   ],
   "first_seen": "2012-02-07",
   "status_changed": null
@@ -30137,13 +29305,8 @@
   "url": "https://www.isrctn.com/ISRCTN64296752",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "youth",
-   "prevention"
-  ],
-  "designs": [
-   "trial"
-  ],
+  "topics": [],
+  "designs": [],
   "first_seen": "2011-03-07",
   "status_changed": null
  },
@@ -30190,12 +29353,10 @@
   "topics": [
    "treatment",
    "policy",
-   "measurement",
    "comorbidity"
   ],
   "designs": [
-   "trial",
-   "longitudinal"
+   "trial"
   ],
   "first_seen": "2013-07-29",
   "status_changed": null
@@ -30245,8 +29406,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2005-07-11",
@@ -30342,11 +29502,10 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "casino",
-   "treatment",
    "cognition"
   ],
   "designs": [
+   "protocol",
    "survey"
   ],
   "first_seen": "2007-12-24",
@@ -30396,12 +29555,9 @@
   "authors": [],
   "topics": [
    "treatment",
-   "cognition",
-   "comorbidity"
+   "cognition"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2013-05-01",
   "status_changed": null
  },
@@ -30449,8 +29605,7 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "comorbidity"
+   "treatment"
   ],
   "designs": [],
   "first_seen": "2008-01-03",
@@ -30492,12 +29647,9 @@
   "authors": [],
   "topics": [
    "treatment",
-   "policy",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2006-06-28",
   "status_changed": null
  },
@@ -30588,12 +29740,9 @@
   "url": "https://clinicaltrials.gov/study/NCT00578357",
   "registration_type": "",
   "authors": [],
-  "topics": [
-   "treatment"
-  ],
+  "topics": [],
   "designs": [
-   "trial",
-   "qualitative",
+   "protocol",
    "survey",
    "longitudinal"
   ],
@@ -30736,14 +29885,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "youth",
    "treatment",
    "measurement",
    "cognition"
   ],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "first_seen": "2010-10-13",
   "status_changed": null
  },
@@ -30776,7 +29922,7 @@
    "Israel"
   ],
   "regions": [
-   "asia"
+   "middle-east"
   ],
   "start_date": "2010-06-01",
   "completion_date": "2012-06-01",
@@ -30789,7 +29935,6 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "prevalence",
    "cognition"
   ],
   "designs": [],
@@ -30934,9 +30079,7 @@
   "topics": [
    "treatment"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2005-08-19",
   "status_changed": null
  },
@@ -30982,7 +30125,6 @@
   "topics": [
    "treatment",
    "measurement",
-   "cognition",
    "comorbidity"
   ],
   "designs": [],
@@ -31030,11 +30172,11 @@
   "registration_type": "",
   "authors": [],
   "topics": [
-   "treatment",
-   "measurement",
-   "cognition"
+   "treatment"
   ],
-  "designs": [],
+  "designs": [
+   "protocol"
+  ],
   "first_seen": "2006-01-09",
   "status_changed": null
  },
@@ -31083,9 +30225,7 @@
    "treatment",
    "comorbidity"
   ],
-  "designs": [
-   "trial"
-  ],
+  "designs": [],
   "first_seen": "2006-05-17",
   "status_changed": null
  }
