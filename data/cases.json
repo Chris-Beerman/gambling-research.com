@@ -1,5 +1,88 @@
 [
  {
+  "id": "cl-d-71042736",
+  "kind": "docket",
+  "case_name": "Kalshiex LLC v. John Martin",
+  "court": "Court of Appeals for the Fourth Circuit",
+  "court_id": "ca4",
+  "court_citation": "4th Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2025-08-06",
+  "date_terminated": null,
+  "latest_activity": "2026-10-26",
+  "docket_number": "25-1892",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/",
+  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
+  "suit_nature": "3950 Constitutionality of State Statutes",
+  "documents": [
+   {
+    "date": "2026-10-26",
+    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by James J. Stakem, Maryland Lottery and Gaming Control Commission, Maryland Lottery and Gami",
+    "url": "https://www.courtlistener.com/docket/71042736/133/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-14",
+    "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, H",
+    "url": "https://www.courtlistener.com/docket/71042736/132/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-12",
+    "description": "SUPPLEMENTAL AUTHORITIES by Kalshiex LLC. [1002072636] . [25-1892] William Havemann",
+    "url": "https://www.courtlistener.com/docket/71042736/131/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-09",
+    "description": "Docket correction requested from Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eat",
+    "url": "https://www.courtlistener.com/docket/71042736/130/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-09",
+    "description": "RESPONSE/ANSWER by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, Harold E. ",
+    "url": ""
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets",
+   "lottery"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "cl-d-73601450",
+  "kind": "docket",
+  "case_name": "KalshiEX LLC v. Williams",
+  "court": "Court of Appeals for the Second Circuit",
+  "court_id": "ca2",
+  "court_citation": "2d Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2026-07-08",
+  "date_terminated": null,
+  "latest_activity": "2026-10-26",
+  "docket_number": "26-1835",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73601450/kalshiex-llc-v-williams/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-26",
+    "description": "FRAP 28(j) LETTER, dated 10/26/2026, on behalf of Appellee Robert Williams, Appellee Brian O'Dwyer, Appellee John A. Crotty, Appellee Sylvia",
+    "url": "https://www.courtlistener.com/docket/73601450/62/kalshiex-llc-v-williams/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-27"
+ },
+ {
   "id": "cl-d-73435998",
   "kind": "docket",
   "case_name": "South Carolina Gambling Recovery LLC v. Underdog Sports Holdings, Inc.",
@@ -144,13 +227,13 @@
   "documents": [
    {
     "date": "2026-10-23",
-    "description": "Administrative Motion per Civil Local Rule 7-11",
-    "url": "https://www.courtlistener.com/docket/73231673/68/in-re-robinhood-prediction-market-litigation/"
+    "description": "Order on Administrative Motion per Civil Local Rule 7-11",
+    "url": "https://www.courtlistener.com/docket/73231673/69/in-re-robinhood-prediction-market-litigation/"
    },
    {
     "date": "2026-10-23",
-    "description": "Order on Administrative Motion per Civil Local Rule 7-11",
-    "url": "https://www.courtlistener.com/docket/73231673/69/in-re-robinhood-prediction-market-litigation/"
+    "description": "Administrative Motion per Civil Local Rule 7-11",
+    "url": "https://www.courtlistener.com/docket/73231673/68/in-re-robinhood-prediction-market-litigation/"
    },
    {
     "date": "2026-10-22",
@@ -242,6 +325,47 @@
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-10-24"
+ },
+ {
+  "id": "cl-d-75015506",
+  "kind": "docket",
+  "case_name": "Bright v. KalshiEX LLC",
+  "court": "District Court, W.D. Washington",
+  "court_id": "wawd",
+  "court_citation": "W.D. Wash.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-23",
+  "date_terminated": null,
+  "latest_activity": "2026-10-23",
+  "docket_number": "2:26-cv-04091",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75015506/bright-v-kalshiex-llc/",
+  "snippet": "28:1332 Diversity-Notice of Removal; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-23",
+    "description": "NOTICE OF REMOVAL from Superior Court of the State of Washington in and for the County of King, case number CASE NUMBER NOT ASSIGNED; (Recei",
+    "url": "https://www.courtlistener.com/docket/75015506/1/bright-v-kalshiex-llc/"
+   },
+   {
+    "date": "2026-10-23",
+    "description": "NOTICE of Appearance by attorney Jessica E La Londe on behalf of Defendants Kalshi Inc, KalshiEX LLC. (La Londe, Jessica)",
+    "url": "https://www.courtlistener.com/docket/75015506/2/bright-v-kalshiex-llc/"
+   },
+   {
+    "date": "2026-10-23",
+    "description": "CORPORATE AND DIVERSITY DISCLOSURE STATEMENT identifying Corporate Parent Kalshi Inc for KalshiEX LLC. Filed pursuant to Fed.R.Civ.P 7.1(a)(",
+    "url": "https://www.courtlistener.com/docket/75015506/3/bright-v-kalshiex-llc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-27"
  },
  {
   "id": "cl-d-73602152",
@@ -1109,52 +1233,6 @@
     "date": "2026-06-23",
     "description": "MINUTE ORDER IN CHAMBERS of the Honorable Magistrate Judge Brenda Weksler on 6/23/2026. Before this Court is Plaintiff's motion seeking to r",
     "url": "https://www.courtlistener.com/docket/69813518/307/kalshiex-llc-v-hendrick/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-14"
- },
- {
-  "id": "cl-d-71042736",
-  "kind": "docket",
-  "case_name": "Kalshiex LLC v. John Martin",
-  "court": "Court of Appeals for the Fourth Circuit",
-  "court_id": "ca4",
-  "court_citation": "4th Cir.",
-  "court_level": "federal-appellate",
-  "court_level_label": "federal appellate",
-  "date_filed": "2025-08-06",
-  "date_terminated": null,
-  "latest_activity": "2026-10-14",
-  "docket_number": "25-1892",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/",
-  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
-  "suit_nature": "3950 Constitutionality of State Statutes",
-  "documents": [
-   {
-    "date": "2026-10-14",
-    "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, H",
-    "url": "https://www.courtlistener.com/docket/71042736/132/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-12",
-    "description": "SUPPLEMENTAL AUTHORITIES by Kalshiex LLC. [1002072636] . [25-1892] William Havemann",
-    "url": "https://www.courtlistener.com/docket/71042736/131/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-09",
-    "description": "Docket correction requested from Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eat",
-    "url": "https://www.courtlistener.com/docket/71042736/130/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-09",
-    "description": "RESPONSE/ANSWER by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, Harold E. ",
-    "url": ""
    }
   ],
   "cite_count": 0,

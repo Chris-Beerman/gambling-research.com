@@ -1,5 +1,48 @@
 [
  {
+  "id": "doi:10.1007/s10899-026-10571-7",
+  "doi": "10.1007/s10899-026-10571-7",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Locating Gambling Severity Within Polysubstance Involvement: The Specific Role of Methamphetamine in 9,421 Adults Entering Treatment",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Georgia Murphy",
+   "Matthew Browne",
+   "Alex M. T. Russell"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "summary": "Abstract Gambling problems are common among people entering alcohol and other drug (AOD) treatment, yet they are easily missed and the substance-use patterns that mark them are poorly understood …",
+  "url": "https://doi.org/10.1007/s10899-026-10571-7",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "comorbidity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "AU"
+  ],
+  "setting_regions": [
+   "australia-nz"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/25725300261503803",
   "doi": "10.1177/25725300261503803",
   "pmid": null,
@@ -279,7 +322,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-26",
+  "published": "2026-10-27",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -3037,7 +3080,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-26",
+  "published": "2026-10-27",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -5874,14 +5917,14 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "ES",
    "CA",
-   "AU"
+   "AU",
+   "ES"
   ],
   "regions": [
-   "europe",
    "canada",
-   "australia-nz"
+   "australia-nz",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -5974,11 +6017,7 @@
   "openalex": "W7220385766",
   "title": "Sportsbook Promotions and the Growth of Parlay Wagering",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Richard Borghesi",
-   "Steven Salaga",
-   "Michael Mondello"
-  ],
+  "authors": [],
   "published": "2026-10-05",
   "year": 2026,
   "created": "2026-10-05",
@@ -6005,13 +6044,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6023,19 +6058,12 @@
   "openalex": "W7220436914",
   "title": "Social Exposure to Gambling and Gambling Involvement Among 4176 Italian Adolescents: A Cross-Sectional Study",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Giansanto Mosconi",
-   "Giandomenico Silvestri",
-   "Serena Barello",
-   "Franco A. Taverna",
-   "Simone Feder",
-   "Anna Odone"
-  ],
+  "authors": [],
   "published": "2026-10-05",
   "year": 2026,
-  "created": "2026-10-06",
+  "created": "2026-10-05",
   "first_seen": "2026-10-05",
-  "summary": "Abstract Gambling behaviors can be viewed as the product of individual characteristics and the social environment …",
+  "summary": "Gambling behaviors can be viewed as the product of individual characteristics and the social environment …",
   "url": "https://doi.org/10.1007/s11469-026-01734-z",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11469-026-01734-z.pdf",
   "sources": [
@@ -6056,13 +6084,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "IT"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -173354,48 +173378,6 @@
   "regions": [],
   "language": "en",
   "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.4148/1944-9771.1523",
-  "doi": "10.4148/1944-9771.1523",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7217590677",
-  "title": "Editorial",
-  "journal": "Journal of Financial Therapy",
-  "authors": [
-   "Sarah D Asebedo"
-  ],
-  "published": "2025-01-01",
-  "year": 2025,
-  "created": "2025-11-05",
-  "first_seen": "2025-01-01",
-  "summary": "Research has always been in the souls and minds of human beings! They enjoyed finding out new things, exploring new paths, cruising in the oceans to find unknown lands, chalking the orbits of the stars and even flying high in the heavens to wander through galaxies, solving the mysteries and answering the questions …",
-  "url": "https://doi.org/10.4148/1944-9771.1523",
-  "oa_url": "https://jpathology.com/index.php/OJS/article/download/736/423",
-  "sources": [
-   "crossref",
-   "feed:cbp",
-   "feed:cgs",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [
-   "commentary"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "GR"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [],
-  "regions": [],
-  "language": "en",
-  "relevance": "low",
   "retracted": false
  },
  {

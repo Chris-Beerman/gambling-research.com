@@ -14,15 +14,15 @@
   ],
   "sponsors": [],
   "introduced": "2026-09-30",
-  "latest_action_date": "2026-10-23",
-  "latest_action": "(LC) Draft in Legal Review",
+  "latest_action_date": "2026-10-26",
+  "latest_action": "(LC) Draft in Edit",
   "latest_passage_date": null,
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/mt/bills/2027/LC660/",
   "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
   "topics": [],
-  "updated": "2026-10-24",
+  "updated": "2026-10-27",
   "first_seen": "2026-09-30",
   "stage_changed": null
  },
@@ -368,7 +368,7 @@
   "topics": [
    "online-gambling"
   ],
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "first_seen": "2026-10-15",
   "stage_changed": null
  },
@@ -1657,7 +1657,7 @@
    "casino",
    "policy"
   ],
-  "updated": "2026-10-23",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -1686,7 +1686,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-23",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-07",
   "stage_changed": null
  },
@@ -1717,7 +1717,7 @@
   "url": "https://openstates.org/va/bills/2027/HB49/",
   "source_url": "https://lis.virginia.gov/bill-details/20271/HB49",
   "topics": [],
-  "updated": "2026-10-23",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-29",
   "stage_changed": null
  },
@@ -3737,7 +3737,13 @@
   "title": "Establishes provisions relating to student transfers to nonresident districts",
   "abstract": "SCS/SBs 971 & 906 - This act establishes the \"Public School Open Enrollment Act\" to enable students to transfer from their charter school or resident school district (\"resident local education agency\" or \"LEA\") to a nonresident LEA …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Appropriations",
+   "Children and Minors",
+   "Disabilities",
+   "Education, Elementary and Secondary",
+   "Elementary and Secondary Education, Department of"
+  ],
   "sponsors": [
    "Curtis Trent"
   ],
@@ -3750,15 +3756,12 @@
   "url": "https://openstates.org/mo/bills/2026/SB971/",
   "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=157",
   "topics": [
-   "lottery",
    "youth",
-   "advertising",
    "policy",
    "families",
-   "equity",
-   "industry"
+   "equity"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-01",
   "stage_changed": null
  },
@@ -3772,7 +3775,11 @@
   "title": "Creates the Phoenix Alert System to help identify and locate abducted or missing African American women and girls and establishes an office to prevent and end the targeting of African American women and girls",
   "abstract": "HCS/SS/SCS/SB 1652 - This act creates the \"Phoenix Alert System\" to aid in the identification and location of abducted or missing African American women and girls. The Department of Public Safety shall develop regions to provide the system …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Children and Minors",
+   "Law Enforcement Officers and Agencies",
+   "Public Safety, Department of"
+  ],
   "sponsors": [
    "Angela Mosley"
   ],
@@ -3785,12 +3792,11 @@
   "url": "https://openstates.org/mo/bills/2026/SB1652/",
   "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4208961",
   "topics": [
-   "lottery",
+   "youth",
    "policy",
-   "equity",
-   "older-adults"
+   "equity"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-27",
   "first_seen": "2026-02-10",
   "stage_changed": null
  },
@@ -4166,7 +4172,9 @@
   "title": "Modifies provisions relating to excursion gambling boats",
   "abstract": "SB 1723 - Current law requires excursion gambling boats to pay an admission fee of $2 for each person embarking on the boat, with one dollar deposited in the Gaming Commission Fund and one dollar paid to the home dock city or county …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Gambling"
+  ],
   "sponsors": [
    "Justin Brown"
   ],
@@ -4179,12 +4187,9 @@
   "url": "https://openstates.org/mo/bills/2026/SB1723/",
   "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457862",
   "topics": [
-   "policy",
-   "comorbidity",
-   "industry",
-   "veterans"
+   "policy"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-27",
   "first_seen": "2026-02-25",
   "stage_changed": null
  },
@@ -4999,10 +5004,9 @@
   "url": "https://openstates.org/il/bills/104th/HB4171/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4171&GAID=18&DocTypeID=HB&LegId=164435&SessionID=114",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-27",
   "first_seen": "2025-10-20",
   "stage_changed": null
  },
@@ -5255,6 +5259,40 @@
   ],
   "updated": "2026-08-20",
   "first_seen": "2026-03-31",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1f2452f1-b637-4bab-b2d9-cc5a0ce52323",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 5518",
+  "title": "Children's Book Challenge-Walker Gamble ES",
+  "abstract": "A CONCURRENT RESOLUTION TO CONGRATULATE LAWSON CANNON, KNOWLTON CARTER, WAYDE INGRAM, AND RAYVON KERSEY, STUDENTS AT WALKER GAMBLE ELEMENTARY SCHOOL, ON WINNING THE 2026 CHILDREN'S BOOK CHALLENGE SPONSORED BY SANTEE ELECTRIC COOPERATIVE AND THE ELECTRIC COOPERATIVES OF SOUTH CAROLINA.",
+  "classification": "concurrent resolution",
+  "subjects": [],
+  "sponsors": [
+   "Pedalino",
+   "Alexander",
+   "Anderson",
+   "Atkinson",
+   "Bailey",
+   "Ballentine"
+  ],
+  "introduced": "2026-04-14",
+  "latest_action_date": "2026-04-14",
+  "latest_action": "Introduced, adopted, returned with concurrence",
+  "latest_passage_date": "2026-04-14",
+  "stage": "passed-both",
+  "stage_label": "passed both chambers",
+  "url": "https://openstates.org/sc/bills/2025-2026/H5518/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5518&session=126&summary=B",
+  "topics": [
+   "youth"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -5676,6 +5714,43 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/f8a4e7c5-8a56-4bae-b288-0d093c74e7fb",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "AB 601",
+  "title": "Relating to: excluding certain event or sports wagers from the definition of “bet”.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Athletics",
+   "Data processing",
+   "Gambling",
+   "Indian gaming and compacts"
+  ],
+  "sponsors": [
+   "August",
+   "Haywood",
+   "Dallman",
+   "Anderson",
+   "Behnke",
+   "Green"
+  ],
+  "introduced": "2025-10-29",
+  "latest_action_date": "2026-04-09",
+  "latest_action": "Published 4-10-2026",
+  "latest_passage_date": "2026-03-17",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/wi/bills/2025/AB601/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab601",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/a9ef993b-94a7-441d-9230-5a5e4e17d83b",
   "level": "state",
   "jurisdiction": "Minnesota",
@@ -5973,6 +6048,43 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/10579561-c976-4774-a026-09998531f291",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "AB 907",
+  "title": "Relating to: requirements for state lottery drawings. (FE)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Lottery",
+   "Revenue, Department of"
+  ],
+  "sponsors": [
+   "Piwowarczyk",
+   "Bare",
+   "Knodl",
+   "O'Connor",
+   "Penterman",
+   "Steffen"
+  ],
+  "introduced": "2026-01-26",
+  "latest_action_date": "2026-04-03",
+  "latest_action": "Published 4-4-2026",
+  "latest_passage_date": "2026-03-17",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/wi/bills/2025/AB907/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab907",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/c4c428b7-1f3b-49ad-9b6c-93fd61ccdb2b",
   "level": "state",
   "jurisdiction": "Maine",
@@ -6113,10 +6225,9 @@
    "sports-betting",
    "treatment",
    "prevention",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -6182,6 +6293,45 @@
   ],
   "updated": "2026-07-09",
   "first_seen": "2026-01-14",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/7e41c405-7431-4a6b-a778-e0da19b4e3b1",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "AB 934",
+  "title": "Relating to: eliminating the definition of relative for purposes of the lottery; the definition of taxable property in a tax incremental district; the order of certain withholdings and deposits in income tax computations; and eliminating an adjustment made to the economic development surcharge for certain businesses (suggested as remedial legislation by the Department of Revenue).",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Business",
+   "Income tax",
+   "Income tax — Credit",
+   "Lottery",
+   "Property tax",
+   "Revenue, Department of",
+   "Statutes — Revision"
+  ],
+  "sponsors": [
+   "Law Revision Committee"
+  ],
+  "introduced": "2026-01-28",
+  "latest_action_date": "2026-03-27",
+  "latest_action": "Published 3-28-2026",
+  "latest_passage_date": "2026-03-17",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/wi/bills/2025/AB934/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab934",
+  "topics": [
+   "lottery",
+   "policy",
+   "industry"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -6932,6 +7082,193 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/6b29277d-bdd8-4096-a4dc-75d1e5490c13",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "SB 986",
+  "title": "Relating to: requirements for state lottery drawings. (FE)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Lottery",
+   "Revenue, Department of"
+  ],
+  "sponsors": [
+   "Tomczyk",
+   "Piwowarczyk",
+   "Bare",
+   "Knodl",
+   "O'Connor",
+   "Penterman"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-03-23",
+  "latest_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/wi/bills/2025/SB986/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb986",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/10946270-1e21-41c7-a96b-99612860c638",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "SB 913",
+  "title": "Relating to: eliminating the definition of relative for purposes of the lottery; the definition of taxable property in a tax incremental district; the order of certain withholdings and deposits in income tax computations; and eliminating an adjustment made to the economic development surcharge for certain businesses (suggested as remedial legislation by the Department of Revenue).",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Business",
+   "Income tax",
+   "Income tax — Credit",
+   "Lottery",
+   "Property tax",
+   "Revenue, Department of",
+   "Statutes — Revision"
+  ],
+  "sponsors": [
+   "Law Revision Committee"
+  ],
+  "introduced": "2026-01-27",
+  "latest_action_date": "2026-03-23",
+  "latest_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/wi/bills/2025/SB913/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb913",
+  "topics": [
+   "lottery",
+   "policy",
+   "industry"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1fb73f7b-6cd6-4506-ab9a-f413a1958d75",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "SB 861",
+  "title": "Relating to: various changes to the state lottery. (FE)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Lottery",
+   "Revenue, Department of"
+  ],
+  "sponsors": [
+   "Feyen",
+   "Brooks",
+   "Swearingen",
+   "Wittke",
+   "Knodl",
+   "Doyle"
+  ],
+  "introduced": "2026-01-23",
+  "latest_action_date": "2026-03-23",
+  "latest_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/wi/bills/2025/SB861/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb861",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/94bf1942-5119-4106-be99-d632ec62ef89",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "SB 592",
+  "title": "Relating to: excluding certain event or sports wagers from the definition of “bet”.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Athletics",
+   "Data processing",
+   "Gambling",
+   "Indian gaming and compacts"
+  ],
+  "sponsors": [
+   "Marklein",
+   "Dassler-Alfheim",
+   "Feyen",
+   "Spreitzer",
+   "Testin",
+   "August"
+  ],
+  "introduced": "2025-10-24",
+  "latest_action_date": "2026-03-23",
+  "latest_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/wi/bills/2025/SB592/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb592",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b5607e91-3ca3-4b19-963d-cd4c29559c24",
+  "level": "state",
+  "jurisdiction": "Wisconsin",
+  "jurisdiction_code": "wi",
+  "session": "2025",
+  "identifier": "AB 864",
+  "title": "Relating to: various changes to the state lottery. (FE)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Lottery",
+   "Revenue, Department of"
+  ],
+  "sponsors": [
+   "Brooks",
+   "Swearingen",
+   "Wittke",
+   "Knodl",
+   "Doyle",
+   "Miresse"
+  ],
+  "introduced": "2026-01-16",
+  "latest_action_date": "2026-03-23",
+  "latest_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/wi/bills/2025/AB864/",
+  "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab864",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "us-119-s-4160",
   "level": "federal",
   "jurisdiction": "United States",
@@ -7222,7 +7559,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-30",
   "stage_changed": null
  },
@@ -8064,7 +8401,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -8090,11 +8427,8 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/wy/bills/2026/SF44/",
   "source_url": "https://wyoleg.gov/Legislation/2026/SF0044",
-  "topics": [
-   "advertising",
-   "industry"
-  ],
-  "updated": "2026-07-15",
+  "topics": [],
+  "updated": "2026-10-27",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -8418,6 +8752,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/389f1c4b-b7b5-4adf-aeec-2fefbcbdb782",
+  "level": "state",
+  "jurisdiction": "Wyoming",
+  "jurisdiction_code": "wy",
+  "session": "2026",
+  "identifier": "SF 24",
+  "title": "Lottery tickets-acceptance of debit card payments.",
+  "abstract": "Under current law, only cash may be used to purchase lottery tickets. This act provides that debit cards may be used to purchase lottery tickets in Wyoming. Any other form of payment besides cash and debit cards is still prohibited.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Travel, Recreation, Wildlife and Cultural Resource"
+  ],
+  "introduced": "2025-12-29",
+  "latest_action_date": "2026-02-27",
+  "latest_action": "Assigned Chapter Number 8",
+  "latest_passage_date": "2026-02-25",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/wy/bills/2026/SF24/",
+  "source_url": "https://wyoleg.gov/Legislation/2026/SF0024",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/c698f62d-3d12-473a-bf83-7d0745a36a08",
   "level": "state",
   "jurisdiction": "Alaska",
@@ -8457,6 +8820,46 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/56570f5c-9bf2-4f49-9653-827e879b9c54",
+  "level": "state",
+  "jurisdiction": "South Dakota",
+  "jurisdiction_code": "sd",
+  "session": "2026",
+  "identifier": "HB 1201",
+  "title": "authorize the use of bingo games, lotteries, and pull-tab devices by booster clubs.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Crimes",
+   "Gambling",
+   "Lottery",
+   "Nonprofit Corporations",
+   "Students"
+  ],
+  "sponsors": [
+   "Roby",
+   "Vilhauer",
+   "Emery",
+   "Goodwin",
+   "Jordan",
+   "Pischke"
+  ],
+  "introduced": "2026-01-29",
+  "latest_action_date": "2026-02-26",
+  "latest_action": "Signed by the Governor on 2026-02-26 H.J. 452",
+  "latest_passage_date": "2026-02-20",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/sd/bills/2026/HB1201/",
+  "source_url": "https://sdlegislature.gov/Session/Bill/26773",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/a9313a82-9eac-45dc-b0a4-c5a6c689f1dd",
   "level": "state",
   "jurisdiction": "Minnesota",
@@ -8488,6 +8891,43 @@
   ],
   "updated": "2026-09-25",
   "first_seen": "2026-02-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b5c7b06e-b1de-44f2-902b-0d51f36fa737",
+  "level": "state",
+  "jurisdiction": "South Dakota",
+  "jurisdiction_code": "sd",
+  "session": "2026",
+  "identifier": "SJR 504",
+  "title": "proposing and submitting to the voters at the next general election an amendment to the Constitution of the State of South Dakota, providing for wagering on sporting events via mobile or electronic platform.",
+  "abstract": "",
+  "classification": "joint resolution",
+  "subjects": [
+   "Ballot Measures",
+   "Constitutional Amendments",
+   "Gambling",
+   "Senate Joint Resolution"
+  ],
+  "sponsors": [
+   "Crabtree",
+   "Jamison",
+   "Bahmuller",
+   "Bathke",
+   "DeGroot",
+   "Deibert"
+  ],
+  "introduced": "2026-01-23",
+  "latest_action_date": "2026-02-25",
+  "latest_action": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 11, NAYS 2",
+  "latest_passage_date": "2026-02-11",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/sd/bills/2026/SJR504/",
+  "source_url": "https://sdlegislature.gov/Session/Bill/26846",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -8536,7 +8976,10 @@
   "title": "Modifies provisions relating to sports wagering",
   "abstract": "SJR 109 - Current constitutional provisions define \"professional sports team\" as a team located in this state that is a member of the National Football League, Major League Baseball, the National Hockey League, the National Basketball Association, Major League Soccer, the Women's National Basketball Association, or …",
   "classification": "joint resolution",
-  "subjects": [],
+  "subjects": [
+   "Constitutional Amendments",
+   "Gambling"
+  ],
   "sponsors": [
    "Nick Schroer"
   ],
@@ -8552,7 +8995,7 @@
    "sports-betting",
    "equity"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-31",
   "stage_changed": null
  },
@@ -8566,7 +9009,9 @@
   "title": "Modifies provisions relating to admission fees on excursion gambling boats",
   "abstract": "SB 870 - Current law requires an excursion gambling boat to pay to the Missouri Gaming Commission an admission fee of two dollars for each person embarking on the boat, with fifty percent of such fee remitted to the home dock city or county and fifty percent remitted to the Gaming Commission Fund …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Gambling"
+  ],
   "sponsors": [
    "Steven Roberts"
   ],
@@ -8578,10 +9023,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/mo/bills/2026/SB870/",
   "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=186",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-09-03",
+  "topics": [],
+  "updated": "2026-10-27",
   "first_seen": "2025-12-01",
   "stage_changed": null
  },
@@ -8595,7 +9038,10 @@
   "title": "Authorizes the Video Lottery Control Act",
   "abstract": "SB 851 - This act establishes the Missouri Video Lottery Control Act. This act allows the State Lottery Commission to implement a system of video lottery game terminals and to issue licenses to video lottery game manufacturers, distributors, operators, handlers, and retailers, as defined in the act …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Gambling",
+   "Political Subdivisions"
+  ],
   "sponsors": [
    "Karla May"
   ],
@@ -8609,13 +9055,11 @@
   "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=201",
   "topics": [
    "lottery",
-   "casino",
    "policy",
-   "financial-harm",
    "industry",
    "veterans"
   ],
-  "updated": "2026-09-03",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-01",
   "stage_changed": null
  },
@@ -8629,7 +9073,10 @@
   "title": "Authorizes the Video Lottery Control Act",
   "abstract": "SB 850 - This act establishes the Missouri Video Lottery Control Act. This act allows the State Lottery Commission to implement a system of video lottery game terminals and to issue licenses to video lottery game manufacturers, distributors, operators, handlers, and retailers, as defined in the act …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Gambling",
+   "Political Subdivisions"
+  ],
   "sponsors": [
    "Karla May"
   ],
@@ -8643,12 +9090,11 @@
   "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=200",
   "topics": [
    "lottery",
-   "casino",
    "policy",
    "industry",
    "veterans"
   ],
-  "updated": "2026-09-03",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-01",
   "stage_changed": null
  },
@@ -8662,7 +9108,10 @@
   "title": "Modifies provisions relating to the state lottery",
   "abstract": "SB 847 - Current law prohibits the state lottery from approving any lottery game based on the outcome of sporting events. This act repeals such prohibition, provided that the maximum ticket price shall not exceed five dollars per ticket …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Gambling",
+   "Lotteries"
+  ],
   "sponsors": [
    "Justin Brown"
   ],
@@ -8678,7 +9127,7 @@
    "lottery",
    "policy"
   ],
-  "updated": "2026-09-03",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-01",
   "stage_changed": null
  },
@@ -8692,7 +9141,10 @@
   "title": "Repeals a prohibition on off-track pari-mutuel wagering on horse racing",
   "abstract": "SB 1545 - Current law prohibits off-track pari-mutuel wagers on horse racing. This act repeals such prohibition. This act is identical to HB 2698 (2026). JOSH NORBERG",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Gambling",
+   "Horse Racing"
+  ],
   "sponsors": [
    "Jason Bean"
   ],
@@ -8707,7 +9159,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-12",
   "stage_changed": null
  },
@@ -8883,6 +9335,44 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/73de338d-36fe-401c-aed0-8b095e66bb70",
+  "level": "state",
+  "jurisdiction": "South Dakota",
+  "jurisdiction_code": "sd",
+  "session": "2026",
+  "identifier": "HB 1058",
+  "title": "require licensure for online pari-mutuel wagering pools for horse and dog races, and clarify the application of tax therefor.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Licensure",
+   "Recreation and Sports"
+  ],
+  "sponsors": [
+   "Miskimins",
+   "Weisgram",
+   "Crabtree",
+   "Duffy",
+   "Emery",
+   "Goodwin"
+  ],
+  "introduced": "2026-01-21",
+  "latest_action_date": "2026-02-17",
+  "latest_action": "Signed by the Governor on 2026-02-17 H.J. 326",
+  "latest_passage_date": "2026-02-10",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/sd/bills/2026/HB1058/",
+  "source_url": "https://sdlegislature.gov/Session/Bill/26337",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/df5e955e-f2fc-4ae1-a0dd-bbd6b51a2b66",
   "level": "state",
   "jurisdiction": "Iowa",
@@ -9046,6 +9536,40 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/80d77710-d189-448b-8ce3-884b051c092e",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 5158",
+  "title": "Rural Physician Education Grants",
+  "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 8 TO CHAPTER 111, TITLE 59 SO AS TO ESTABLISH THE RURAL PHYSICIAN TUITION GRANT PROGRAM, FUNDED BY THE SOUTH CAROLINA EDUCATION LOTTERY, TO PROVIDE TUITION ASSISTANCE TO MEDICAL STUDENTS WHO COMMIT TO PRACTICE MEDICINE IN RURAL AREAS OF THIS STATE FOR …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Burns",
+   "D. Mitchell",
+   "Chumley",
+   "Edgerton",
+   "Wickensimer",
+   "McCabe"
+  ],
+  "introduced": "2026-02-11",
+  "latest_action_date": "2026-02-12",
+  "latest_action": "Member(s) request name added as sponsor: Sessions, Davis, Guffey",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/sc/bills/2025-2026/H5158/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5158&session=126&summary=B",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/deadc834-be47-42e6-9a5d-f64c8f5d7be5",
   "level": "state",
   "jurisdiction": "Mississippi",
@@ -9122,7 +9646,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-28",
   "stage_changed": null
  },
@@ -9879,7 +10403,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2026-01-30",
   "stage_changed": null
  },
@@ -9954,6 +10478,38 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2025-01-14",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b4472485-2dc7-4230-8e58-2677b2c33cce",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2026",
+  "identifier": "SB 2893",
+  "title": "RELATING TO GAMBLING.",
+  "abstract": "Provides that a defendant may not assert social gambling as an affirmative defense if the gambling activity occurred at the defendant's residence and gambling activities have resulted in multiple recent documented noise complaints.",
+  "classification": "bill",
+  "subjects": [
+   "Affirmative Defense",
+   "Gambling",
+   "Noise Complaints",
+   "Social Gambling"
+  ],
+  "sponsors": [
+   "LAMOSAO"
+  ],
+  "introduced": "2026-01-23",
+  "latest_action_date": "2026-01-30",
+  "latest_action": "Referred to PSM, JDC.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2026/SB2893/",
+  "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2893&year=2026",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -10148,6 +10704,38 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2026-01-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2ac48e59-9e4b-415e-a1dc-adb66e3e607f",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2026",
+  "identifier": "HB 1600",
+  "title": "RELATING TO GAMBLING.",
+  "abstract": "Provides that a defendant may not assert social gambling as an affirmative defense if the gambling activity occurred at the defendant's residence and gambling activities have resulted in multiple recent documented noise complaints.",
+  "classification": "bill",
+  "subjects": [
+   "Affirmative Defense",
+   "Gambling",
+   "Noise Complaints",
+   "Social Gambling"
+  ],
+  "sponsors": [
+   "CHUN"
+  ],
+  "introduced": "2026-01-16",
+  "latest_action_date": "2026-01-26",
+  "latest_action": "Referred to JHA, referral sheet 1",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2026/HB1600/",
+  "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1600&year=2026",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -11320,7 +11908,9 @@
   "title": "Authorizes a voluntary self-exclusion list for the purchase of firearms",
   "abstract": "SB 1018 - This act authorizes a person to waive such person's right to purchase a firearm by submitting a request to the Department of Public Safety. The Department shall verify a person's identity prior to accepting the voluntary waiver …",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Firearms"
+  ],
   "sponsors": [
    "Patty Lewis"
   ],
@@ -11335,7 +11925,7 @@
   "topics": [
    "self-exclusion"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-27",
   "first_seen": "2025-12-01",
   "stage_changed": null
  },
@@ -12142,17 +12732,53 @@
   "introduced": "2025-01-17",
   "latest_action_date": "2025-12-08",
   "latest_action": "Carried over to 2026 Regular Session.",
-  "latest_passage_date": "2025-02-07",
-  "stage": "passed-one",
-  "stage_label": "passed one chamber",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
   "url": "https://openstates.org/hi/bills/2026/SB893/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=893&year=2026",
   "topics": [
-   "casino",
-   "policy"
+   "casino"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-17",
+  "stage_changed": "2026-10-27",
+  "previous_stage": "passed-one"
+ },
+ {
+  "id": "ocd-bill/deefe50d-96c2-4733-bf9a-84f1cccf4cd0",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2026",
+  "identifier": "SB 653",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Requires the court to impose a mandatory fine per violation for nuisance abatement laws related to gambling offenses. Allows citizens who bring civil nuisance abatement suits against places used for illegal gambling the same rights and protections as those afforded to victims and witnesses in criminal proceedings.",
+  "classification": "bill",
+  "subjects": [
+   "Gambling Offenses",
+   "Mandatory Fine",
+   "Nuisance Abatement"
+  ],
+  "sponsors": [
+   "FEVELLA",
+   "AQUINO",
+   "CHANG",
+   "KIM",
+   "MORIWAKI",
+   "Fukunaga"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-12-08",
+  "latest_action": "Carried over to 2026 Regular Session.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2026/SB653/",
+  "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=653&year=2026",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -12306,20 +12932,57 @@
   "introduced": "2025-01-22",
   "latest_action_date": "2025-12-08",
   "latest_action": "Carried over to 2026 Regular Session.",
-  "latest_passage_date": "2025-02-12",
-  "stage": "passed-one",
-  "stage_label": "passed one chamber",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
   "url": "https://openstates.org/hi/bills/2026/SB1569/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1569&year=2026",
   "topics": [
    "sports-betting",
    "treatment",
    "prevention",
-   "policy",
    "industry"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-22",
+  "stage_changed": "2026-10-27",
+  "previous_stage": "passed-one"
+ },
+ {
+  "id": "ocd-bill/df0aef26-1ba6-4159-af75-b58d2f4409ec",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2026",
+  "identifier": "SB 1531",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Offers rights and protections to citizens who bring civil nuisance abatement suits related to illegal gambling. Imposes a mandatory fine of $5,000 for violating nuisance abatement laws related to gambling offenses.",
+  "classification": "bill",
+  "subjects": [
+   "Civil Suits",
+   "Gambling",
+   "Nuisance Abatement",
+   "Penalties",
+   "Victim Protection"
+  ],
+  "sponsors": [
+   "DECORTE",
+   "CHANG",
+   "KIM",
+   "RHOADS",
+   "Fukunaga"
+  ],
+  "introduced": "2025-01-22",
+  "latest_action_date": "2025-12-08",
+  "latest_action": "Carried over to 2026 Regular Session.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2026/SB1531/",
+  "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1531&year=2026",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -12352,7 +13015,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-09-12",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -12384,11 +13047,46 @@
   "url": "https://openstates.org/hi/bills/2026/SB1507/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1507&year=2026",
   "topics": [
-   "lottery",
-   "policy"
+   "lottery"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-22",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/ebf6a7b8-a8da-48ae-9388-04adb0f7260c",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2026",
+  "identifier": "HB 669",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Requires the court to impose a mandatory fine per violation for nuisance abatement laws related to gambling offenses. Allows citizens who bring civil nuisance abatement suits against places used for illegal gambling the same rights and protections as those afforded to victims and witnesses in criminal proceedings.",
+  "classification": "bill",
+  "subjects": [
+   "Gambling Offenses",
+   "Mandatory Fine",
+   "Nuisance Abatement"
+  ],
+  "sponsors": [
+   "KILA",
+   "HOLT",
+   "LAMOSAO",
+   "OLDS",
+   "TAKAYAMA",
+   "TAKENOUCHI"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-12-08",
+  "latest_action": "Carried over to 2026 Regular Session.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2026/HB669/",
+  "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=669&year=2026",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -12460,11 +13158,43 @@
   "url": "https://openstates.org/hi/bills/2026/HB1434/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1434&year=2026",
   "topics": [
-   "lottery",
-   "policy"
+   "lottery"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-23",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/689d7e0a-ae8e-4faf-a344-46c3c90d9ece",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2026",
+  "identifier": "HB 1219",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Offers rights and protections to citizens who bring civil nuisance abatement suits related to illegal gambling. Imposes a mandatory fine of $5,000 for violating nuisance abatement laws related to gambling offenses.",
+  "classification": "bill",
+  "subjects": [
+   "Civil Suits",
+   "Gambling",
+   "Nuisance Abatement",
+   "Penalties",
+   "Victim Protection"
+  ],
+  "sponsors": [
+   "MURAOKA"
+  ],
+  "introduced": "2025-01-22",
+  "latest_action_date": "2025-12-08",
+  "latest_action": "Carried over to 2026 Regular Session.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2026/HB1219/",
+  "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1219&year=2026",
+  "topics": [],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-27",
   "stage_changed": null
  },
  {
@@ -13045,10 +13775,9 @@
   "url": "https://openstates.org/pa/bills/2025-2026/HB1058/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb1058",
   "topics": [
-   "lottery",
-   "policy"
+   "lottery"
   ],
-  "updated": "2026-10-14",
+  "updated": "2026-10-27",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },
@@ -17616,10 +18345,9 @@
   "url": "https://openstates.org/ia/bills/2025-2026/SSB1069/",
   "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SSB 1069&ga=91",
   "topics": [
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-26",
   "first_seen": "2025-01-29",
   "stage_changed": null
  },
