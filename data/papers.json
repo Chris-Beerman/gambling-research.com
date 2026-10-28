@@ -1,8 +1,396 @@
 [
  {
+  "id": "doi:10.1007/s11154-026-10100-2",
+  "doi": "10.1007/s11154-026-10100-2",
+  "pmid": "42946945",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Exploring obesity in behavioral addictions: a neglected field and new empirical insights",
+  "journal": "Reviews in Endocrine & Metabolic Disorders",
+  "authors": [
+   "Gemma Mestre-Bach",
+   "Lucía Camacho-Barcia",
+   "Anahi Gaspar-Pérez",
+   "Natalia Roxana Man",
+   "Aitor Gonzalez-Amezcua",
+   "Ferran Torres",
+   "Marc N Potenza",
+   "Susana Jiménez-Murcia",
+   "Fernando Fernández-Aranda"
+  ],
+  "published": "2026-10-28",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "summary": "Previous research suggests a possible association between obesity and behavioral addictions; however, findings remain inconsistent and the psychological mechanisms underlying this relationship remain poorly understood …",
+  "url": "https://doi.org/10.1007/s11154-026-10100-2",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "review",
+  "topics": [
+   "loot-boxes",
+   "policy",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "pubmed",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US",
+   "ES"
+  ],
+  "regions": [
+   "us",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10488-026-01533-7",
+  "doi": "10.1007/s10488-026-01533-7",
+  "pmid": "42944819",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Three Years of Care Trajectories Among Patients with Gambling Disorder",
+  "journal": "Administration and Policy in Mental Health",
+  "authors": [
+   "Marie-Josée Fleury",
+   "Zhirong Cao",
+   "Guy Grenier",
+   "Magaly Brodeur",
+   "Sylvia Kairouz"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-10-28",
+  "summary": "Given the limited evidence on care received over time by patients with gambling disorder (GD), this study examined care trajectories and their associations with patients' conditions, gambling characteristics, and quality of care …",
+  "url": "https://doi.org/10.1007/s10488-026-01533-7",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "comorbidity"
+  ],
+  "designs": [
+   "longitudinal",
+   "behavioral-data"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/25725300261503840",
+  "doi": "10.1177/25725300261503840",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "REGULATING MONETIZATION and GAMBLIFICATION IN VIDEO GAMES: THE CLASSIFICATION–FUNCTION MISMATCH IN DIGITAL MARKETS",
+  "journal": "Gaming Law Review",
+  "authors": [
+   "Jan Ivern",
+   "Xavier Carbonell",
+   "Mark D. Griffiths"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "summary": "The present article provides a comparative doctrinal analysis of monetized video game features subject to regulatory and judicial review in Europe, the United States, and China …",
+  "url": "https://doi.org/10.1177/25725300261503840",
+  "oa_url": null,
+  "sources": [
+   "crossref"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "prevention",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US",
+   "CN"
+  ],
+  "setting_regions": [
+   "us",
+   "asia"
+  ],
+  "countries": [
+   "GB",
+   "ES"
+  ],
+  "regions": [
+   "uk-ireland",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.55885/jprsp.v6i3.1063",
+  "doi": "10.55885/jprsp.v6i3.1063",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223694015",
+  "title": "Organizational Communication Dynamics in Online Gambling Criminal Networks: A Case Study of Recruitment Communication in Cambodia within the ASEAN Context",
+  "journal": "Journal of Public Representative and Society Provision",
+  "authors": [
+   "Bella Novia Sari",
+   "A. Hasan Al Husain"
+  ],
+  "published": "2026-10-26",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-10-28",
+  "summary": "This study examines organizational communication in the recruitment of new members into online gambling operations, focusing on the experiences of four individuals with direct work experience in online gambling operations associated with Cambodia, alongside one legal expert …",
+  "url": "https://doi.org/10.55885/jprsp.v6i3.1063",
+  "oa_url": "http://psppjournals.org/index.php/jprsp/article/download/1063/1153",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [
+   "qualitative",
+   "case-report"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "KH"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.47820/recima21.v7i11.9319",
+  "doi": "10.47820/recima21.v7i11.9319",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223661383",
+  "title": "BETS E COMPORTAMENTO FINANCEIRO: REFLEXÕES SOBRE RISCOS, ENDIVIDAMENTO E EDUCAÇÃO FINANCEIRA NA ERA DAS APOSTAS ONLINE",
+  "journal": "RECIMA21 - Revista Científica Multidisciplinar",
+  "authors": [
+   "Felipe Otávio de Sousa Fonseca",
+   "Thayla Machado Guimarães Iglesias"
+  ],
+  "published": "2026-10-26",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-10-28",
+  "summary": "Essa pesquisa visa analisar como a relação entre apostas esportivas online (bets) e educação financeira tem sido abordada na produção científica brasileira e quais implicações emergem para o comportamento financeiro dos indivíduos …",
+  "url": "https://doi.org/10.47820/recima21.v7i11.9319",
+  "oa_url": "https://doi.org/10.47820/recima21.v7i11.9319",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "pt",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1057/s41302-026-00346-8",
+  "doi": "10.1057/s41302-026-00346-8",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223677275",
+  "title": "Analyzing the Costs and Benefits of Legalized Sports Betting",
+  "journal": "Eastern Economic Journal",
+  "authors": [
+   "Kurt Rotthoff"
+  ],
+  "published": "2026-10-26",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-10-28",
+  "summary": "Abstract Following a 2018 Supreme Court ruling that overturned the prohibition on sports betting in most states, 38 states have since passed laws legalizing sports gambling. Most of the literature examines the negative impacts of legalized sports betting. As with anything in life, activities often have both costs and benefits …",
+  "url": "https://doi.org/10.1057/s41302-026-00346-8",
+  "oa_url": "https://doi.org/10.1057/s41302-026-00346-8",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1136/bmjopen-2026-125612",
+  "doi": "10.1136/bmjopen-2026-125612",
+  "pmid": "42919590",
+  "pmcid": "PMC13711584",
+  "openalex": null,
+  "title": "Double-blind, placebo-controlled randomised clinical trial on flexible doses of escitalopram and naltrexone in the treatment of men with compulsive sexual behaviour disorder: study protocol presentation",
+  "journal": "BMJ Open",
+  "authors": [
+   "Michał Lew-Starowicz",
+   "Małgorzata Draps",
+   "Kacper Wilk",
+   "Pawel Wisniewski",
+   "Mateusz Gola"
+  ],
+  "published": "2026-10-23",
+  "year": 2026,
+  "created": "2026-10-23",
+  "first_seen": "2026-10-28",
+  "summary": "Recent research has led to a better understanding of biological and psychosocial correlates of compulsive sexual behaviour disorder (CSBD). Psychotherapy is considered a first-line treatment strategy, while evidence on the use of pharmacotherapy is still scarce …",
+  "url": "https://doi.org/10.1136/bmjopen-2026-125612",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711584/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "protocol",
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "PL"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "US",
+   "PL"
+  ],
+  "regions": [
+   "us",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/bs16101778",
+  "doi": "10.3390/bs16101778",
+  "pmid": "42938496",
+  "pmcid": "PMC13701850",
+  "openalex": null,
+  "title": "Sex Differences in Aggressive Traits and Superior Temporal Cortical Responses to Monetary Loss",
+  "journal": "Behavioral Sciences",
+  "authors": [
+   "Guangfei Li",
+   "Yingjie Cao",
+   "Yongxiu Yang",
+   "Xinyu Zhang",
+   "Bao Li",
+   "Hao Sun",
+   "Suqin Huang",
+   "Mengdi Gao",
+   "Guangyu Bin",
+   "Chiang-Shan R Li"
+  ],
+  "published": "2026-09-29",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-10-28",
+  "summary": "Individuals vary in aggression traits. Here, we investigated how individual aggression is associated with altered reward and punishment processing in the brain and the neural bases of sex differences. Methods: Aggression was assessed by the Achenbach Adult Self-Report …",
+  "url": "https://doi.org/10.3390/bs16101778",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13701850/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition",
+   "equity"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US",
+   "CN"
+  ],
+  "regions": [
+   "us",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s10899-026-10571-7",
   "doi": "10.1007/s10899-026-10571-7",
-  "pmid": null,
+  "pmid": "42944954",
   "pmcid": null,
   "openalex": null,
   "title": "Locating Gambling Severity Within Polysubstance Involvement: The Specific Role of Methamphetamine in 9,421 Adults Entering Treatment",
@@ -10,7 +398,7 @@
   "authors": [
    "Georgia Murphy",
    "Matthew Browne",
-   "Alex M. T. Russell"
+   "Alex M T Russell"
   ],
   "published": "2026-10-27",
   "year": 2026,
@@ -21,7 +409,8 @@
   "oa_url": null,
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -36,8 +425,12 @@
   "setting_regions": [
    "australia-nz"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -47,7 +440,7 @@
   "doi": "10.1177/25725300261503803",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7223663370",
   "title": "CONSTITUTIONAL FOUNDATIONS of AMERICAN GAMBLING LAW",
   "journal": "Gaming Law Review",
   "authors": [
@@ -61,7 +454,8 @@
   "url": "https://doi.org/10.1177/25725300261503803",
   "oa_url": null,
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex"
   ],
   "type": "article",
   "topics": [],
@@ -97,7 +491,7 @@
   "first_seen": "2026-10-26",
   "summary": "Online gambling is a rapidly growing global phenomenon affecting countries across the world and creating complex legal, social, economic, and technological challenges …",
   "url": "https://doi.org/10.11648/j.ijls.20260904.13",
-  "oa_url": "https://doi.org/10.11648/j.ijls.20260904.13",
+  "oa_url": "http://article.sciencepg.com/pdf/j.ijls.20260904.13",
   "sources": [
    "openalex"
   ],
@@ -322,7 +716,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-27",
+  "published": "2026-10-28",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -350,6 +744,51 @@
   ],
   "regions": [
    "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.55311/aiocsit.v7i2.437",
+  "doi": "10.55311/aiocsit.v7i2.437",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223298732",
+  "title": "Detection of Online Gambling Promotional Comments on YouTube Using IndoBERT",
+  "journal": "Al adzkiya International of Computer Science and Information Technology (AIoCSIT) Journal",
+  "authors": [
+   "Yonky Pernando",
+   "Raymond Erz Saragih",
+   "Agus Suwandi",
+   "Ilwan Syafrinal",
+   "Eka Lia",
+   "Marfuah Marfuah"
+  ],
+  "published": "2026-10-26",
+  "year": 2026,
+  "created": "2026-10-24",
+  "first_seen": "2026-10-24",
+  "summary": "Online gambling promotional comments on YouTube have become increasingly widespread and are difficult to detect with conventional moderation systems because they use informal language, varied spellings, and disguised keywords …",
+  "url": "https://doi.org/10.55311/aiocsit.v7i2.437",
+  "oa_url": "https://doi.org/10.55311/aiocsit.v7i2.437",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "advertising"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
   ],
   "language": "en",
   "relevance": "high",
@@ -770,51 +1209,6 @@
   "regions": [],
   "language": "en",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.55311/aiocsit.v7i2.437",
-  "doi": "10.55311/aiocsit.v7i2.437",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7223298732",
-  "title": "Detection of Online Gambling Promotional Comments on YouTube Using IndoBERT",
-  "journal": "Al adzkiya International of Computer Science and Information Technology (AIoCSIT) Journal",
-  "authors": [
-   "Yonky Pernando",
-   "Raymond Erz Saragih",
-   "Agus Suwandi",
-   "Ilwan Syafrinal",
-   "Eka Lia",
-   "Marfuah Marfuah"
-  ],
-  "published": "2026-10-22",
-  "year": 2026,
-  "created": "2026-10-24",
-  "first_seen": "2026-10-24",
-  "summary": "Online gambling promotional comments on YouTube have become increasingly widespread and are difficult to detect with conventional moderation systems because they use informal language, varied spellings, and disguised keywords …",
-  "url": "https://doi.org/10.55311/aiocsit.v7i2.437",
-  "oa_url": "https://aladzkiyajournal.com/index.php/AIoCSIT/article/download/437/pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "advertising"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "ID"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
-  "relevance": "high",
   "retracted": false
  },
  {
@@ -1846,12 +2240,8 @@
   "setting_regions": [
    "uk-ireland"
   ],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -2160,7 +2550,7 @@
   "regions": [
    "asia"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -3080,7 +3470,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-27",
+  "published": "2026-10-28",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -3360,7 +3750,7 @@
   ],
   "countries": [],
   "regions": [],
-  "language": "id",
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -4492,17 +4882,17 @@
   "title": "Invisible Obstacles: Audit of Consumer Experience When Calling Gambling Helplines in the United States",
   "journal": "Journal of Gambling Studies",
   "authors": [
-   "Natasha M Bourgoin",
-   "Mark R Hastings",
-   "Jordan N Jones",
-   "Meredith K Ginley",
-   "James P Whelan"
+   "Natasha M. Bourgoin",
+   "Mark R. Hastings",
+   "Jordan N. Jones",
+   "Meredith K. Ginley",
+   "James P. Whelan"
   ],
   "published": "2026-10-13",
   "year": 2026,
-  "created": "2026-10-12",
+  "created": "2026-10-13",
   "first_seen": "2026-10-12",
-  "summary": "Gambling helplines offer an important entry point to treatment for individuals who experience harm from gambling problems. To date, research has not directly explored callers' expectations for helplines or whether helplines consistently connect individuals to services and resources …",
+  "summary": "Gambling helplines offer an important entry point to treatment for individuals who experience harm from gambling problems. To date, research has not directly explored callers’ expectations for helplines or whether helplines consistently connect individuals to services and resources …",
   "url": "https://doi.org/10.1007/s10899-026-10565-5",
   "oa_url": null,
   "sources": [
@@ -5265,27 +5655,28 @@
  {
   "id": "doi:10.3390/brainsci16101077",
   "doi": "10.3390/brainsci16101077",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42939330",
+  "pmcid": "PMC13702395",
   "openalex": "W7220998008",
   "title": "Decision-Making Performance and Block-Wise Trajectories in Gambling Disorder and Opioid Use Disorder Using the Iowa Gambling Task",
   "journal": "Brain Sciences",
   "authors": [
    "Edward Jacek Gorzelańczyk",
-   "Aleksandra Kawala‐Sterniuk",
+   "Aleksandra Kawala-Sterniuk",
    "Ewa Laskowska",
    "Piotr Kamiński",
-   "Piotr Krzysztof Walecki"
+   "Piotr Walecki"
   ],
   "published": "2026-10-08",
   "year": 2026,
-  "created": "2026-10-09",
+  "created": "2026-10-27",
   "first_seen": "2026-10-09",
   "summary": "Background/Objectives: Decision-making differences have been reported in substance-related and behavioral addictions, but Iowa Gambling Task (IGT) performance patterns may differ. We compared IGT performance in gambling disorder, opioid use disorder (OUD) before and approximately 90 min after methadone dosing, and healthy controls …",
   "url": "https://doi.org/10.3390/brainsci16101077",
-  "oa_url": "https://doi.org/10.3390/brainsci16101077",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13702395/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -24696,27 +25087,28 @@
  {
   "id": "doi:10.1186/s40359-026-05184-z",
   "doi": "10.1186/s40359-026-05184-z",
-  "pmid": null,
+  "pmid": "42947246",
   "pmcid": null,
   "openalex": "W7170052179",
   "title": "Can blind box buying be addictive?: Measurement and associations with gambling disorder among Chinese adults",
-  "journal": "BMC Psychology",
+  "journal": "BMC psychology",
   "authors": [
    "Jing Zhai",
    "Mengxuan Zhang",
    "Andrea Czakó",
    "Haofeng Ling",
-   "Anise M. S. Wu"
+   "Anise M S Wu"
   ],
   "published": "2026-07-22",
   "year": 2026,
-  "created": "2026-07-23",
+  "created": "2026-10-28",
   "first_seen": "2026-07-22",
   "summary": "Blind boxes are gambling-like products with increasing popularity worldwide. Accumulating evidence has shown that blind box over-purchasing is a rising problem, yet no validated tool exists for its addictive components. Besides, the link between problematic blind box buying and gambling disorder (GD) has never been tested …",
   "url": "https://doi.org/10.1186/s40359-026-05184-z",
   "oa_url": "https://doi.org/10.1186/s40359-026-05184-z",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -24731,13 +25123,17 @@
    "asia"
   ],
   "countries": [
-   "MO",
+   "AU",
+   "HU",
+   "GI",
    "CN",
-   "HU"
+   "HK",
+   "MO"
   ],
   "regions": [
-   "asia",
-   "europe"
+   "australia-nz",
+   "europe",
+   "asia"
   ],
   "language": "en",
   "relevance": "high",

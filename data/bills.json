@@ -1,5 +1,34 @@
 [
  {
+  "id": "ocd-bill/a240cf04-34d6-4714-ac4b-4d0171fa10da",
+  "level": "state",
+  "jurisdiction": "Massachusetts",
+  "jurisdiction_code": "ma",
+  "session": "194th",
+  "identifier": "HD 6408",
+  "title": "A communication from the Massachusetts Gaming Commission (see Section 69 of Chapter 23K of the General Laws) submitting its gaming revenue reports and associated sports wagering revenue report through September, 2026",
+  "abstract": "",
+  "classification": "proposed bill",
+  "subjects": [],
+  "sponsors": [
+   "Massachusetts Gaming Commission"
+  ],
+  "introduced": "2026-10-28",
+  "latest_action_date": "2026-10-28",
+  "latest_action": "Placed on file",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/ma/bills/194th/HD6408/",
+  "source_url": "https://malegislature.gov/Bills/194/HD6408",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-27",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
   "level": "state",
   "jurisdiction": "Montana",
@@ -1530,7 +1559,7 @@
   "url": "https://openstates.org/il/bills/104th/SB2749/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2749&GAID=18&DocTypeID=SB&LegId=164620&SessionID=114",
   "topics": [],
-  "updated": "2026-07-28",
+  "updated": "2026-10-28",
   "first_seen": "2026-01-13",
   "stage_changed": null
  },
@@ -1811,7 +1840,7 @@
   "url": "https://openstates.org/il/bills/104th/SB118/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=118&GAID=18&DocTypeID=SB&LegId=157285&SessionID=114",
   "topics": [],
-  "updated": "2026-07-16",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-17",
   "stage_changed": null
  },
@@ -2865,10 +2894,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/SB4027/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4027&GAID=18&DocTypeID=SB&LegId=167582&SessionID=114",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-08-15",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2026-02-06",
   "stage_changed": null
  },
@@ -2897,8 +2924,35 @@
   "topics": [
    "loot-boxes"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-06",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e5fb0705-f8ef-4437-962f-31b558fc2352",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 3948",
+  "title": "BINGO-OPERATION-MAX CARD PRICE",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Erica Harriss"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-05-22",
+  "latest_action": "Senate Committee Amendment No. 1 Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB3948/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3948&GAID=18&DocTypeID=SB&LegId=167428&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -2924,7 +2978,7 @@
   "url": "https://openstates.org/il/bills/104th/SB3898/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3898&GAID=18&DocTypeID=SB&LegId=167341&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-06",
   "stage_changed": null
  },
@@ -2951,7 +3005,7 @@
   "url": "https://openstates.org/il/bills/104th/SB3733/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3733&GAID=18&DocTypeID=SB&LegId=167011&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -2977,10 +3031,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/SB3716/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3716&GAID=18&DocTypeID=SB&LegId=166966&SessionID=114",
-  "topics": [
-   "casino"
-  ],
-  "updated": "2026-08-15",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -3007,7 +3059,7 @@
   "url": "https://openstates.org/il/bills/104th/SB3690/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3690&GAID=18&DocTypeID=SB&LegId=166898&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -3034,7 +3086,7 @@
   "url": "https://openstates.org/il/bills/104th/SB3439/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3439&GAID=18&DocTypeID=SB&LegId=166387&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-04",
   "stage_changed": null
  },
@@ -3061,8 +3113,35 @@
   "url": "https://openstates.org/il/bills/104th/SB3394/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3394&GAID=18&DocTypeID=SB&LegId=166315&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-04",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/defe6dab-f0ce-4e03-9e0d-2a45416dc6c0",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 3328",
+  "title": "LOTTERY-TICKETS",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Celina Villanueva"
+  ],
+  "introduced": "2026-02-03",
+  "latest_action_date": "2026-05-22",
+  "latest_action": "Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB3328/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3328&GAID=18&DocTypeID=SB&LegId=166139&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -3088,10 +3167,9 @@
   "url": "https://openstates.org/il/bills/104th/SB3232/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3232&GAID=18&DocTypeID=SB&LegId=165958&SessionID=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-02",
   "stage_changed": null
  },
@@ -3118,10 +3196,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/SB3022/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3022&GAID=18&DocTypeID=SB&LegId=165560&SessionID=114",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-08-15",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2026-01-29",
   "stage_changed": null
  },
@@ -3148,7 +3224,7 @@
   "url": "https://openstates.org/il/bills/104th/SB2885/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2885&GAID=18&DocTypeID=SB&LegId=165164&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-01-16",
   "stage_changed": null
  },
@@ -3180,10 +3256,9 @@
   "url": "https://openstates.org/il/bills/104th/SB2800/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2800&GAID=18&DocTypeID=SB&LegId=164880&SessionID=114",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-07-16",
+  "updated": "2026-10-28",
   "first_seen": "2026-01-13",
   "stage_changed": null
  },
@@ -3210,8 +3285,118 @@
   "url": "https://openstates.org/il/bills/104th/SB2781/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2781&GAID=18&DocTypeID=SB&LegId=164811&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-01-13",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9d149a53-a418-4bdf-a401-d1002f7ef142",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 2775",
+  "title": "PREVAILING WAGE-LOTTERY",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Meg Loughran Cappel"
+  ],
+  "introduced": "2026-01-13",
+  "latest_action_date": "2026-05-22",
+  "latest_action": "Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB2775/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2775&GAID=18&DocTypeID=SB&LegId=164779&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a22525a6-d709-4f29-9062-20f4d5bc136a",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 2760",
+  "title": "LGDF-WAGERING",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Patrick J. Joyce"
+  ],
+  "introduced": "2026-01-13",
+  "latest_action_date": "2026-05-22",
+  "latest_action": "Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB2760/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2760&GAID=18&DocTypeID=SB&LegId=164676&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a84d33e8-0322-47ea-909d-c86ab25137c4",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 2723",
+  "title": "GAMBLING-OWNERS LICENSES",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Bill Cunningham",
+   "Dave Syverson"
+  ],
+  "introduced": "2025-10-28",
+  "latest_action_date": "2026-05-22",
+  "latest_action": "Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB2723/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2723&GAID=18&DocTypeID=SB&LegId=164473&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/387ad4c8-10ea-454c-816b-112d24f93e6c",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 2667",
+  "title": "AWARDS SHOW WAGERING",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Sara Feigenholtz",
+   "Mike Porfirio"
+  ],
+  "introduced": "2025-05-26",
+  "latest_action_date": "2026-05-22",
+  "latest_action": "Senate Committee Amendment No. 1 Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB2667/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2667&GAID=18&DocTypeID=SB&LegId=163878&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -3236,10 +3421,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/SB1564/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1564&GAID=18&DocTypeID=SB&LegId=160276&SessionID=114",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-02-04",
   "stage_changed": null
  },
@@ -3268,7 +3451,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-24",
   "stage_changed": null
  },
@@ -5006,7 +5189,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "first_seen": "2025-10-20",
   "stage_changed": null
  },
@@ -5723,12 +5906,7 @@
   "title": "Relating to: excluding certain event or sports wagers from the definition of “bet”.",
   "abstract": "",
   "classification": "bill",
-  "subjects": [
-   "Athletics",
-   "Data processing",
-   "Gambling",
-   "Indian gaming and compacts"
-  ],
+  "subjects": [],
   "sponsors": [
    "August",
    "Haywood",
@@ -5746,7 +5924,7 @@
   "url": "https://openstates.org/wi/bills/2025/AB601/",
   "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab601",
   "topics": [],
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -5901,7 +6079,7 @@
   "url": "https://openstates.org/il/bills/104th/HB4774/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4774&GAID=18&DocTypeID=HB&LegId=165923&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-02",
   "stage_changed": null
  },
@@ -6287,11 +6465,9 @@
   "url": "https://openstates.org/wa/bills/2025-2026/SB6137/",
   "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=6137&Year=2025&Initiative=false",
   "topics": [
-   "sports-betting",
-   "policy",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-07-09",
+  "updated": "2026-10-28",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -6357,7 +6533,7 @@
   "url": "https://openstates.org/il/bills/104th/SB3718/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3718&GAID=18&DocTypeID=SB&LegId=166968&SessionID=114",
   "topics": [],
-  "updated": "2026-08-15",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -6385,7 +6561,7 @@
   "url": "https://openstates.org/il/bills/104th/HB5469/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=5469&GAID=18&DocTypeID=HB&LegId=167397&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-06",
   "stage_changed": null
  },
@@ -6412,7 +6588,7 @@
   "url": "https://openstates.org/il/bills/104th/HB5443/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=5443&GAID=18&DocTypeID=HB&LegId=167316&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-06",
   "stage_changed": null
  },
@@ -6439,7 +6615,7 @@
   "url": "https://openstates.org/il/bills/104th/HB5368/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=5368&GAID=18&DocTypeID=HB&LegId=167156&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -6471,7 +6647,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -6502,7 +6678,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -6529,7 +6705,7 @@
   "url": "https://openstates.org/il/bills/104th/HB5077/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=5077&GAID=18&DocTypeID=HB&LegId=166608&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-04",
   "stage_changed": null
  },
@@ -6556,10 +6732,9 @@
   "url": "https://openstates.org/il/bills/104th/HB5034/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=5034&GAID=18&DocTypeID=HB&LegId=166503&SessionID=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-04",
   "stage_changed": null
  },
@@ -6585,10 +6760,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/HB4817/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4817&GAID=18&DocTypeID=HB&LegId=166012&SessionID=114",
-  "topics": [
-   "casino"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2026-02-03",
   "stage_changed": null
  },
@@ -6615,7 +6788,7 @@
   "url": "https://openstates.org/il/bills/104th/HB4797/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4797&GAID=18&DocTypeID=HB&LegId=165957&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-02",
   "stage_changed": null
  },
@@ -6642,7 +6815,7 @@
   "url": "https://openstates.org/il/bills/104th/HB4766/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4766&GAID=18&DocTypeID=HB&LegId=165901&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2026-02-02",
   "stage_changed": null
  },
@@ -6668,10 +6841,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/HB4619/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4619&GAID=18&DocTypeID=HB&LegId=165518&SessionID=114",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2026-01-27",
   "stage_changed": null
  },
@@ -6697,10 +6868,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/HB4437/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4437&GAID=18&DocTypeID=HB&LegId=165142&SessionID=114",
-  "topics": [
-   "casino"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2026-01-15",
   "stage_changed": null
  },
@@ -6727,10 +6896,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/HB4178/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4178&GAID=18&DocTypeID=HB&LegId=164464&SessionID=114",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-10-23",
   "stage_changed": null
  },
@@ -6757,7 +6924,7 @@
   "url": "https://openstates.org/il/bills/104th/HB3733/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3733&GAID=18&DocTypeID=HB&LegId=162583&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-07",
   "stage_changed": null
  },
@@ -6784,8 +6951,39 @@
   "url": "https://openstates.org/il/bills/104th/HB2879/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2879&GAID=18&DocTypeID=HB&LegId=161070&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-05",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a452720f-f103-4099-a6ef-d00bc870b1d5",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "HB 1565",
+  "title": "GAMBLING DATA COLLECTION ACT",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Jaime M. Andrade, Jr.",
+   "Kevin John Olickal",
+   "Theresa Mah",
+   "Will Guzzardi",
+   "Amy L. Grant"
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2026-03-27",
+  "latest_action": "Rule 19(a) / Re-referred to Rules Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/HB1565/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1565&GAID=18&DocTypeID=HB&LegId=157658&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -6919,10 +7117,8 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/ut/bills/2026/HB243/",
   "source_url": "https://le.utah.gov/~2026/bills/static/HB0243.html",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-07-09",
+  "topics": [],
+  "updated": "2026-10-27",
   "first_seen": "2026-01-13",
   "stage_changed": null
  },
@@ -7204,12 +7400,7 @@
   "title": "Relating to: excluding certain event or sports wagers from the definition of “bet”.",
   "abstract": "",
   "classification": "bill",
-  "subjects": [
-   "Athletics",
-   "Data processing",
-   "Gambling",
-   "Indian gaming and compacts"
-  ],
+  "subjects": [],
   "sponsors": [
    "Marklein",
    "Dassler-Alfheim",
@@ -7227,7 +7418,7 @@
   "url": "https://openstates.org/wi/bills/2025/SB592/",
   "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb592",
   "topics": [],
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -9224,11 +9415,9 @@
   "url": "https://openstates.org/wa/bills/2025-2026/HB2205/",
   "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=2205&Year=2025&Initiative=false",
   "topics": [
-   "sports-betting",
-   "policy",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-07-09",
+  "updated": "2026-10-28",
   "first_seen": "2025-12-29",
   "stage_changed": null
  },
@@ -10900,6 +11089,38 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/23d57d88-6aba-4d17-8703-abb56aafb0ba",
+  "level": "state",
+  "jurisdiction": "West Virginia",
+  "jurisdiction_code": "wv",
+  "session": "2026",
+  "identifier": "HB 4398",
+  "title": "Relating to privilege tax on holding a license to operate sports wagering",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Taxation"
+  ],
+  "sponsors": [
+   "Burkhammer"
+  ],
+  "introduced": "2026-01-16",
+  "latest_action_date": "2026-01-16",
+  "latest_action": "To House Local Governments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/wv/bills/2026/HB4398/",
+  "source_url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4398&year=2026&sessiontype=RS&btype=bill",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/111bc4d4-2aa5-4a42-af29-372314ae3e02",
   "level": "state",
   "jurisdiction": "Maryland",
@@ -11735,6 +11956,38 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/e9e7ff8d-9558-4f70-91bd-d46e06d88f9e",
+  "level": "state",
+  "jurisdiction": "Washington",
+  "jurisdiction_code": "wa",
+  "session": "2025-2026",
+  "identifier": "SB 5621",
+  "title": "Addressing electronic raffles at live sporting events.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Stanford",
+   "Kauffman",
+   "Chapman",
+   "Trudeau",
+   "Saldaña",
+   "Muzzall"
+  ],
+  "introduced": "2025-01-31",
+  "latest_action_date": "2026-01-12",
+  "latest_action": "Due to Senate committee reorganization, referred to Business, Trade & Economic Development.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/wa/bills/2025-2026/SB5621/",
+  "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=5621&Year=2025&Initiative=false",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/b45af57a-c832-4685-9b5f-a7a524a2ebdd",
   "level": "state",
   "jurisdiction": "Washington",
@@ -11758,8 +12011,37 @@
   "url": "https://openstates.org/wa/bills/2025-2026/SB5563/",
   "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=5563&Year=2025&Initiative=false",
   "topics": [],
-  "updated": "2026-07-09",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/d12e1ed1-057a-472d-91fe-3c0d0fcb0b18",
+  "level": "state",
+  "jurisdiction": "Washington",
+  "jurisdiction_code": "wa",
+  "session": "2025-2026",
+  "identifier": "SB 5196",
+  "title": "Concerning public inspection and copying of proprietary financial and security information submitted to or obtained by the gambling commission.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Conway",
+   "Holy",
+   "Nobles"
+  ],
+  "introduced": "2025-01-09",
+  "latest_action_date": "2026-01-12",
+  "latest_action": "By resolution, reintroduced and retained in present status.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/wa/bills/2025-2026/SB5196/",
+  "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=5196&Year=2025&Initiative=false",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -11789,10 +12071,8 @@
   "stage_label": "reported from committee",
   "url": "https://openstates.org/wa/bills/2025-2026/HB1362/",
   "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=1362&Year=2025&Initiative=false",
-  "topics": [
-   "treatment"
-  ],
-  "updated": "2026-07-09",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-01-17",
   "stage_changed": null
  },
@@ -12519,10 +12799,8 @@
   "stage_label": "passed both chambers",
   "url": "https://openstates.org/il/bills/104th/HB2724/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2724&GAID=18&DocTypeID=HB&LegId=160720&SessionID=114",
-  "topics": [
-   "families"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-02-05",
   "stage_changed": null
  },
@@ -13500,15 +13778,12 @@
   "source_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB831",
   "topics": [
    "sports-betting",
-   "online-gambling",
    "lottery",
-   "casino",
    "loot-boxes",
    "advertising",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-07-09",
+  "updated": "2026-10-27",
   "first_seen": "2025-02-19",
   "stage_changed": null
  },
@@ -13539,12 +13814,9 @@
   "source_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB451",
   "topics": [
    "lottery",
-   "casino",
-   "advertising",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-10-14",
+  "updated": "2026-10-27",
   "first_seen": "2025-02-18",
   "stage_changed": null
  },
@@ -13580,11 +13852,10 @@
   "source_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB492",
   "topics": [
    "treatment",
-   "prevention",
    "policy",
    "comorbidity"
   ],
-  "updated": "2026-07-09",
+  "updated": "2026-10-27",
   "first_seen": "2025-02-10",
   "stage_changed": null
  },
@@ -13648,7 +13919,7 @@
   "url": "https://openstates.org/il/bills/104th/HB1451/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1451&GAID=18&DocTypeID=HB&LegId=157500&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-21",
   "stage_changed": null
  },
@@ -13679,8 +13950,39 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-07",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2f5c5e7b-4472-4992-9e9b-c2b104e45608",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 100",
+  "title": "GAMING BOARD ID CARDS",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Michael E. Hastings",
+   "Laura M. Murphy",
+   "Debbie Meyers-Martin",
+   "Anthony DeLuca",
+   "Camille Y. Lilly"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-08-15",
+  "latest_action": "Public Act . . . . . . . . . 104-0347",
+  "latest_passage_date": "2025-05-29",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/il/bills/104th/SB100/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=100&GAID=18&DocTypeID=SB&LegId=157227&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -13743,7 +14045,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-07-09",
+  "updated": "2026-10-27",
   "first_seen": "2025-03-13",
   "stage_changed": null
  },
@@ -13957,16 +14259,14 @@
   "url": "https://openstates.org/ca/bills/20252026/SB137/",
   "source_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB137",
   "topics": [
-   "online-gambling",
    "youth",
    "treatment",
    "policy",
    "families",
    "financial-harm",
-   "industry",
-   "older-adults"
+   "industry"
   ],
-  "updated": "2026-07-09",
+  "updated": "2026-10-27",
   "first_seen": "2025-01-23",
   "stage_changed": null
  },
@@ -14279,7 +14579,7 @@
   "url": "https://openstates.org/il/bills/104th/SB2399/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2399&GAID=18&DocTypeID=SB&LegId=162417&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-07",
   "stage_changed": null
  },
@@ -14305,10 +14605,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/SB2147/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2147&GAID=18&DocTypeID=SB&LegId=161720&SessionID=114",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-02-07",
   "stage_changed": null
  },
@@ -15633,8 +15931,36 @@
   "url": "https://openstates.org/wa/bills/2025-2026/HB1327/",
   "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=1327&Year=2025&Initiative=false",
   "topics": [],
-  "updated": "2026-07-09",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-16",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/12e441ac-fb6f-4d5a-a7a9-52533c300135",
+  "level": "state",
+  "jurisdiction": "Washington",
+  "jurisdiction_code": "wa",
+  "session": "2025-2026",
+  "identifier": "HB 1222",
+  "title": "Concerning public inspection and copying of proprietary financial and security information submitted to or obtained by the gambling commission.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Stearns",
+   "Kloba"
+  ],
+  "introduced": "2025-01-09",
+  "latest_action_date": "2025-04-21",
+  "latest_action": "Effective date 7/27/2025.",
+  "latest_passage_date": "2025-04-14",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/wa/bills/2025-2026/HB1222/",
+  "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=1222&Year=2025&Initiative=false",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -15768,8 +16094,35 @@
   "url": "https://openstates.org/il/bills/104th/SB2145/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2145&GAID=18&DocTypeID=SB&LegId=161717&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-07",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/936d2333-0b4c-46f8-817a-d7099033a97e",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 2035",
+  "title": "LOTTERY-TICKETS",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Celina Villanueva"
+  ],
+  "introduced": "2025-02-06",
+  "latest_action_date": "2025-04-11",
+  "latest_action": "Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB2035/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2035&GAID=18&DocTypeID=SB&LegId=161459&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -15795,7 +16148,7 @@
   "url": "https://openstates.org/il/bills/104th/SB1705/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1705&GAID=18&DocTypeID=SB&LegId=160662&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-05",
   "stage_changed": null
  },
@@ -15824,7 +16177,7 @@
   "url": "https://openstates.org/il/bills/104th/SB1410/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1410&GAID=18&DocTypeID=SB&LegId=159524&SessionID=114",
   "topics": [],
-  "updated": "2026-07-16",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-31",
   "stage_changed": null
  },
@@ -15851,11 +16204,37 @@
   "url": "https://openstates.org/il/bills/104th/SB1349/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1349&GAID=18&DocTypeID=SB&LegId=159339&SessionID=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3b997304-d564-4e50-809e-9fbc89b41ac5",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 1292",
+  "title": "GAMBLING DATA COLLECTION ACT",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Bill Cunningham"
+  ],
+  "introduced": "2025-01-28",
+  "latest_action_date": "2025-04-11",
+  "latest_action": "Rule 3-9(a) / Re-referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB1292/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=1292&GAID=18&DocTypeID=SB&LegId=159187&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -15912,10 +16291,9 @@
   "url": "https://openstates.org/il/bills/104th/HB2878/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2878&GAID=18&DocTypeID=HB&LegId=161068&SessionID=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-05",
   "stage_changed": null
  },
@@ -16432,6 +16810,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/f2dca5b7-f154-4596-8cad-dc6a44717d3f",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "HB 3324",
+  "title": "INC TX-WAGERING LOSSES",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Daniel Didech"
+  ],
+  "introduced": "2025-02-07",
+  "latest_action_date": "2025-03-21",
+  "latest_action": "Rule 19(a) / Re-referred to Rules Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/HB3324/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3324&GAID=18&DocTypeID=HB&LegId=161814&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/2f63c273-2636-4ef3-a139-14d1e650c2c3",
   "level": "state",
   "jurisdiction": "Illinois",
@@ -16453,10 +16858,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/HB3276/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3276&GAID=18&DocTypeID=HB&LegId=161764&SessionID=114",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-02-06",
   "stage_changed": null
  },
@@ -16483,10 +16886,9 @@
   "url": "https://openstates.org/il/bills/104th/HB3159/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3159&GAID=18&DocTypeID=HB&LegId=161568&SessionID=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-06",
   "stage_changed": null
  },
@@ -16513,7 +16915,7 @@
   "url": "https://openstates.org/il/bills/104th/HB3080/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3080&GAID=18&DocTypeID=HB&LegId=161429&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-06",
   "stage_changed": null
  },
@@ -16540,10 +16942,9 @@
   "url": "https://openstates.org/il/bills/104th/HB2761/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2761&GAID=18&DocTypeID=HB&LegId=160797&SessionID=114",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-05",
   "stage_changed": null
  },
@@ -16571,11 +16972,36 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/il/bills/104th/HB2674/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2674&GAID=18&DocTypeID=HB&LegId=160666&SessionID=114",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-07-11",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-02-04",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/5a0015d1-a285-4768-9ebb-9d53c516de97",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "HB 2654",
+  "title": "LOTTERY-TICKET SALES AGREEMENT",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Jay Hoffman"
+  ],
+  "introduced": "2025-02-04",
+  "latest_action_date": "2025-03-21",
+  "latest_action": "Rule 19(a) / Re-referred to Rules Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/HB2654/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2654&GAID=18&DocTypeID=HB&LegId=160614&SessionID=114",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-28",
   "stage_changed": null
  },
  {
@@ -16601,7 +17027,7 @@
   "url": "https://openstates.org/il/bills/104th/HB2580/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=2580&GAID=18&DocTypeID=HB&LegId=160486&SessionID=114",
   "topics": [],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-02-04",
   "stage_changed": null
  },
@@ -16630,7 +17056,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-07-11",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-30",
   "stage_changed": null
  },
@@ -16731,7 +17157,7 @@
   "url": "https://openstates.org/ca/bills/20252026/SR26/",
   "source_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR26",
   "topics": [],
-  "updated": "2026-07-09",
+  "updated": "2026-10-27",
   "first_seen": "2025-02-25",
   "stage_changed": null
  },

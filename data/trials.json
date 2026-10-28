@@ -1,5 +1,85 @@
 [
  {
+  "id": "osf:jeb8r",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "What do we know about how individual or group treatments for people experiencing gambling problems incorporate the harms and consequences faced by concerned significant others when those significant others do not participate in the treatment process ?",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-27",
+  "last_updated": "2026-10-27",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This project consists of a scoping review aimed at mapping and synthesizing the existing literature on how the consequences experienced by concerned significant others (CSOs) are integrated into individual or group treatments for individuals with gambling problems (IGP) …",
+  "url": "https://osf.io/jeb8r/",
+  "registration_type": "Generalized Systematic Review Registration",
+  "authors": [
+   "Noemie Roussel"
+  ],
+  "topics": [
+   "treatment",
+   "families"
+  ],
+  "designs": [
+   "protocol",
+   "review"
+  ],
+  "first_seen": "2026-10-28",
+  "status_changed": null
+ },
+ {
+  "id": "osf:jwerm",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Prediction markets and forecasters in the 2026 US midterm elections: protocols frozen before the vote",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-27",
+  "last_updated": "2026-10-27",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The scoring protocol of the Polymarket 2026 midterm scorecard (frozen 17 October 2026 at 03:34:08 UTC; 13,186 contracts in 1,352 events; manifest SHA-256 5b607bded8bd47c8f41ec083f54d6319d7178027c7914c64ab77f069c4a79dca) and the pre-registration of the 2026 midterm forecaster board (version 1 …",
+  "url": "https://osf.io/jwerm/",
+  "registration_type": "Open-Ended Registration",
+  "authors": [
+   "Christopher Geneth Kurg"
+  ],
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [
+   "protocol"
+  ],
+  "first_seen": "2026-10-28",
+  "status_changed": null
+ },
+ {
   "id": "osf:dvt9e",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -22816,49 +22896,6 @@
   ],
   "designs": [],
   "first_seen": "2023-01-16",
-  "status_changed": null
- },
- {
-  "id": "osf:bukhs",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "A Scoping Review of UK-Based Intervention Research for Harmful Gambling.",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-01-13",
-  "last_updated": "2023-01-13",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "This scoping review aims to map the nature and prevalence of UK-based gambling intervention research. Specifically, it seeks to map the recruitment sources and research evaluation designs employed in the past few decades of gambling research and treatment in the UK.",
-  "url": "https://osf.io/bukhs/",
-  "registration_type": "Open-Ended Registration",
-  "authors": [
-   "Christopher Seel",
-   "Simon Dymond",
-   "Richard May",
-   "Alice Hoon",
-   "Matthew Jones"
-  ],
-  "topics": [
-   "treatment"
-  ],
-  "designs": [
-   "review"
-  ],
-  "first_seen": "2023-01-13",
   "status_changed": null
  },
  {
