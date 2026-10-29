@@ -1,5 +1,193 @@
 [
  {
+  "id": "cl-d-73453634",
+  "kind": "docket",
+  "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
+  "court": "District Court, E.D. California",
+  "court_id": "caed",
+  "court_citation": "E.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-05",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "1:26-cv-04343",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/",
+  "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "documents": [
+   {
+    "date": "2026-10-28",
+    "description": "OPPOSITION by Picayune Rancheria of the Chukchansi Indians to 64 Motion for Extension of Time,. (Dhillon, Navtej)",
+    "url": "https://www.courtlistener.com/docket/73453634/65/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-23",
+    "description": "MOTION for 21-DAY EXTENSION OF TIME to File Administrative Record by The Chair of the National Indian Gaming Commission, United States Natio",
+    "url": "https://www.courtlistener.com/docket/73453634/64/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-19",
+    "description": "NOTICE OF CASINO OPENING by Picayune Rancheria of the Chukchansi Indians. (Dhillon, Navtej)",
+    "url": "https://www.courtlistener.com/docket/73453634/63/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-16",
+    "description": "TRANSCRIPT of Proceedings held on 10/9/2026, before District Judge Kirk E. Sherriff. MOTIONS HEARING filed by ECRO, Phone number 559-499-592",
+    "url": "https://www.courtlistener.com/docket/73453634/62/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-10-13",
+    "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Co",
+    "url": "https://www.courtlistener.com/docket/73453634/58/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-73414398",
+  "kind": "docket",
+  "case_name": "GEORGIA GAMBLING RECOVERY, LLC v. VGW HOLDINGS, LTD.",
+  "court": "District Court, M.D. Georgia",
+  "court_id": "gamd",
+  "court_citation": "M.D. Ga.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-05-29",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "4:26-cv-00883",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73414398/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-28",
+    "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
+    "url": "https://www.courtlistener.com/docket/73414398/24/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "cl-d-73416148",
+  "kind": "docket",
+  "case_name": "GEORGIA GAMBLING RECOVERY LLC v. DABBLE SPORTS LLC",
+  "court": "District Court, M.D. Georgia",
+  "court_id": "gamd",
+  "court_citation": "M.D. Ga.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-05-29",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "4:26-cv-00886",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73416148/georgia-gambling-recovery-llc-v-dabble-sports-llc/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-28",
+    "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
+    "url": "https://www.courtlistener.com/docket/73416148/19/georgia-gambling-recovery-llc-v-dabble-sports-llc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "cl-d-73413959",
+  "kind": "docket",
+  "case_name": "GEORGIA GAMBLING RECOVERY LLC v. BLITZ STUDIOS INC",
+  "court": "District Court, M.D. Georgia",
+  "court_id": "gamd",
+  "court_citation": "M.D. Ga.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-05-29",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "4:26-cv-00882",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73413959/georgia-gambling-recovery-llc-v-blitz-studios-inc/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-28",
+    "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
+    "url": "https://www.courtlistener.com/docket/73413959/23/georgia-gambling-recovery-llc-v-blitz-studios-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "cl-d-74962445",
+  "kind": "docket",
+  "case_name": "BANKS v. GEORGIA LOTTERY CORPORATION",
+  "court": "District Court, M.D. Georgia",
+  "court_id": "gamd",
+  "court_citation": "M.D. Ga.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-14",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "5:26-cv-00474",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/74962445/banks-v-georgia-lottery-corporation/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-28",
+    "description": "Order to Show Cause",
+    "url": ""
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "cl-o-11047539",
+  "kind": "opinion",
+  "case_name": "Appeal of Win Win Win, LLC",
+  "court": "Supreme Court of New Hampshire",
+  "court_id": "nh",
+  "court_citation": "N.H.",
+  "court_level": "state-supreme",
+  "court_level_label": "state supreme",
+  "date_filed": "2026-10-28",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "2024-0722",
+  "citation": "2026 N.H. 40",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11047539/appeal-of-win-win-win-llc/",
+  "snippet": "___________________________ New Hampshire Lottery and Gaming Commission Case Nos. 2024-0722",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-29"
+ },
+ {
   "id": "cl-o-11046326",
   "kind": "opinion",
   "case_name": "United States v. Tavaryyuan Johnson",
@@ -59,6 +247,42 @@
   "first_seen": "2026-10-28"
  },
  {
+  "id": "cl-d-75029832",
+  "kind": "docket",
+  "case_name": "Kalshiex LLC v. Hanaway",
+  "court": "District Court, E.D. Missouri",
+  "court_id": "moed",
+  "court_citation": "E.D. Mo.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-27",
+  "date_terminated": null,
+  "latest_activity": "2026-10-27",
+  "docket_number": "4:26-cv-01860",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75029832/kalshiex-llc-v-hanaway/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-27",
+    "description": "COMPLAINT against defendant Kevin Burkoff Cantwell, Sam K. Gladney, Catherine Hanaway, Michael A. Leara, Missouri Gaming Commission, Kevin S",
+    "url": "https://www.courtlistener.com/docket/75029832/1/kalshiex-llc-v-hanaway/"
+   },
+   {
+    "date": "2026-10-27",
+    "description": "DISCLOSURE STATEMENT by Kalshiex LLC, Kalshi Inc... (Simmons, David)",
+    "url": "https://www.courtlistener.com/docket/75029832/2/kalshiex-llc-v-hanaway/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-29"
+ },
+ {
   "id": "cl-d-73601450",
   "kind": "docket",
   "case_name": "KalshiEX LLC v. Williams",
@@ -115,13 +339,13 @@
   "documents": [
    {
     "date": "2026-10-27",
-    "description": "FOR COURT USE ONLY: Certified copy of 10/27/2026 Miscellaneous Final Order sent to the District Court Clerk. [7565896-2] [7565896] [26-8020]",
-    "url": "https://www.courtlistener.com/docket/74837057/00704860887/kalshi-inc-v-ho-chunk-nation/"
+    "description": "ORDER re: 1. Petition for permission to appeal pursuant to 28 U.S.C. § 1292(b). 2. Answer in opposition to petition for permission to appeal",
+    "url": "https://www.courtlistener.com/docket/74837057/9/kalshi-inc-v-ho-chunk-nation/"
    },
    {
     "date": "2026-10-27",
-    "description": "ORDER re: 1. Petition for permission to appeal pursuant to 28 U.S.C. § 1292(b). 2. Answer in opposition to petition for permission to appeal",
-    "url": "https://www.courtlistener.com/docket/74837057/9/kalshi-inc-v-ho-chunk-nation/"
+    "description": "FOR COURT USE ONLY: Certified copy of 10/27/2026 Miscellaneous Final Order sent to the District Court Clerk. [7565896-2] [7565896] [26-8020]",
+    "url": "https://www.courtlistener.com/docket/74837057/00704860887/kalshi-inc-v-ho-chunk-nation/"
    }
   ],
   "cite_count": 0,
@@ -338,55 +562,6 @@
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-10-16"
- },
- {
-  "id": "cl-d-73453634",
-  "kind": "docket",
-  "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
-  "court": "District Court, E.D. California",
-  "court_id": "caed",
-  "court_citation": "E.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-06-05",
-  "date_terminated": null,
-  "latest_activity": "2026-10-23",
-  "docket_number": "1:26-cv-04343",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/",
-  "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-  "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-  "documents": [
-   {
-    "date": "2026-10-23",
-    "description": "MOTION for 21-DAY EXTENSION OF TIME to File Administrative Record by The Chair of the National Indian Gaming Commission, United States Natio",
-    "url": "https://www.courtlistener.com/docket/73453634/64/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-19",
-    "description": "NOTICE OF CASINO OPENING by Picayune Rancheria of the Chukchansi Indians. (Dhillon, Navtej)",
-    "url": "https://www.courtlistener.com/docket/73453634/63/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-16",
-    "description": "TRANSCRIPT of Proceedings held on 10/9/2026, before District Judge Kirk E. Sherriff. MOTIONS HEARING filed by ECRO, Phone number 559-499-592",
-    "url": "https://www.courtlistener.com/docket/73453634/62/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-13",
-    "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Co",
-    "url": "https://www.courtlistener.com/docket/73453634/58/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-13",
-    "description": "Motion Hearing",
-    "url": ""
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-10-13"
  },
  {
   "id": "cl-d-75015578",

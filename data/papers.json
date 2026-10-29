@@ -1,10 +1,297 @@
 [
  {
+  "id": "doi:10.7583/jkgs.2026.26.5.153",
+  "doi": "10.7583/jkgs.2026.26.5.153",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224089017",
+  "title": "Analysis of Changes in the Knowledge Structure of Adolescent Gaming and Gambling Research in Korea: A Text Mining and Social Network Analysis",
+  "journal": "Journal of Korea Game Society",
+  "authors": [
+   "Young-Suk Lee",
+   "Ji-Yeoun Lee"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "summary": "",
+  "url": "https://doi.org/10.7583/jkgs.2026.26.5.153",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "KR"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.47116/apjcri.2026.10.20",
+  "doi": "10.47116/apjcri.2026.10.20",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224103461",
+  "title": "A Comparative Study of Topic Modeling Algorithms for Online Reviews: The Case of Casino Integrated Resorts in South Korea (LDA, STM, and BERTopic)",
+  "journal": "Asia-pacific Journal of Convergent Research Interchange",
+  "authors": [
+   "Min-Hwan Ko",
+   "Yeon Kook Jeong"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "summary": "",
+  "url": "https://doi.org/10.47116/apjcri.2026.10.20",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "KR"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1371/journal.pone.0345194",
+  "doi": "10.1371/journal.pone.0345194",
+  "pmid": "42949904",
+  "pmcid": null,
+  "openalex": "W7224078736",
+  "title": "Perceptions of homogeneity reproduction in health sciences academia",
+  "journal": "PLOS ONE",
+  "authors": [
+   "Rieke Buckup",
+   "Jamie B Smith",
+   "Gertraud Stadler",
+   "Pichit Buspavanich"
+  ],
+  "published": "2026-10-28",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "summary": "Academic institutions privilege norms of continuous productivity and uninterrupted availability, creating conformity pressures that systematically disadvantage those who deviate from an implicit template of the 'ideal academic'. This study explores how doctoral students and faculty in the health sciences perceive the reproduction of social homogeneity …",
+  "url": "https://doi.org/10.1371/journal.pone.0345194",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0345194",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "self-exclusion"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "DE"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1038/d41586-026-03476-3",
+  "doi": "10.1038/d41586-026-03476-3",
+  "pmid": "42951990",
+  "pmcid": null,
+  "openalex": "W7224130372",
+  "title": "Is research funding now a lottery? Elite funder ERC swamped by applications",
+  "journal": "Nature",
+  "authors": [
+   "Jonathan O'Callaghan"
+  ],
+  "published": "2026-10-28",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "summary": "",
+  "url": "https://doi.org/10.1038/d41586-026-03476-3",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.54254/2754-1169/2026.38106",
+  "doi": "10.54254/2754-1169/2026.38106",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223785368",
+  "title": "The Relationship Between Powerball Jackpot Size and Lottery Sales in Texas: Evidence from 2022–2025 Data",
+  "journal": "Advances in Economics Management and Political Sciences",
+  "authors": [
+   "Yihan Dai"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "summary": "In recent years, Powerball jackpots have reached exceptionally high levels, attracting substantial public attention and raising questions about how jackpot size is related to lottery ticket sales. This study examines the relationship between large Powerball jackpots and ticket sales in Texas from 2022 to 2025 …",
+  "url": "https://doi.org/10.54254/2754-1169/2026.38106",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "advertising"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s11149-026-09528-w",
+  "doi": "10.1007/s11149-026-09528-w",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223874793",
+  "title": "Player exclusion and sub-market substitution: synthetic DiD evidence from Germany’s gambling machine market",
+  "journal": "Journal of Regulatory Economics",
+  "authors": [
+   "Radivoje Nedic",
+   "Talha Şimşek"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "summary": "Abstract This study examines the effects of the introduction of an exclusion program on the distribution of gambling machines between gambling halls and gastronomic establishments. We use the German federal state of Hesse as a case study. Hesse introduced an exclusion program in 2014 for gambling halls …",
+  "url": "https://doi.org/10.1007/s11149-026-09528-w",
+  "oa_url": "https://doi.org/10.1007/s11149-026-09528-w",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "self-exclusion"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "DE"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s42521-026-00233-z",
+  "doi": "10.1007/s42521-026-00233-z",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223791560",
+  "title": "Calibrated agents as market makers: automated liquidity provision for long-tail prediction markets",
+  "journal": "Digital Finance",
+  "authors": [
+   "Nihar Shah"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "summary": "",
+  "url": "https://doi.org/10.1007/s42521-026-00233-z",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets",
+   "financial-harm"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s11154-026-10100-2",
   "doi": "10.1007/s11154-026-10100-2",
   "pmid": "42946945",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7223908307",
   "title": "Exploring obesity in behavioral addictions: a neglected field and new empirical insights",
   "journal": "Reviews in Endocrine & Metabolic Disorders",
   "authors": [
@@ -24,8 +311,9 @@
   "first_seen": "2026-10-28",
   "summary": "Previous research suggests a possible association between obesity and behavioral addictions; however, findings remain inconsistent and the psychological mechanisms underlying this relationship remain poorly understood …",
   "url": "https://doi.org/10.1007/s11154-026-10100-2",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1007/s11154-026-10100-2",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "review",
@@ -42,12 +330,12 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "US",
-   "ES"
+   "ES",
+   "US"
   ],
   "regions": [
-   "us",
-   "europe"
+   "europe",
+   "us"
   ],
   "language": "en",
   "relevance": "high",
@@ -58,7 +346,7 @@
   "doi": "10.1007/s10488-026-01533-7",
   "pmid": "42944819",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7223934557",
   "title": "Three Years of Care Trajectories Among Patients with Gambling Disorder",
   "journal": "Administration and Policy in Mental Health",
   "authors": [
@@ -76,6 +364,7 @@
   "url": "https://doi.org/10.1007/s10488-026-01533-7",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -109,7 +398,7 @@
   "doi": "10.1177/25725300261503840",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7223985119",
   "title": "REGULATING MONETIZATION and GAMBLIFICATION IN VIDEO GAMES: THE CLASSIFICATION–FUNCTION MISMATCH IN DIGITAL MARKETS",
   "journal": "Gaming Law Review",
   "authors": [
@@ -125,7 +414,8 @@
   "url": "https://doi.org/10.1177/25725300261503840",
   "oa_url": null,
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex"
   ],
   "type": "article",
   "topics": [
@@ -144,12 +434,12 @@
    "asia"
   ],
   "countries": [
-   "GB",
-   "ES"
+   "ES",
+   "GB"
   ],
   "regions": [
-   "uk-ireland",
-   "europe"
+   "europe",
+   "uk-ireland"
   ],
   "language": "en",
   "relevance": "high",
@@ -220,7 +510,7 @@
   "first_seen": "2026-10-28",
   "summary": "Essa pesquisa visa analisar como a relação entre apostas esportivas online (bets) e educação financeira tem sido abordada na produção científica brasileira e quais implicações emergem para o comportamento financeiro dos indivíduos …",
   "url": "https://doi.org/10.47820/recima21.v7i11.9319",
-  "oa_url": "https://doi.org/10.47820/recima21.v7i11.9319",
+  "oa_url": "https://recima21.com.br/recima21/article/download/9319/6225",
   "sources": [
    "openalex"
   ],
@@ -257,7 +547,7 @@
   "first_seen": "2026-10-28",
   "summary": "Abstract Following a 2018 Supreme Court ruling that overturned the prohibition on sports betting in most states, 38 states have since passed laws legalizing sports gambling. Most of the literature examines the negative impacts of legalized sports betting. As with anything in life, activities often have both costs and benefits …",
   "url": "https://doi.org/10.1057/s41302-026-00346-8",
-  "oa_url": "https://doi.org/10.1057/s41302-026-00346-8",
+  "oa_url": "https://link.springer.com/content/pdf/10.1057/s41302-026-00346-8.pdf",
   "sources": [
    "openalex"
   ],
@@ -392,7 +682,7 @@
   "doi": "10.1007/s10899-026-10571-7",
   "pmid": "42944954",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7223969030",
   "title": "Locating Gambling Severity Within Polysubstance Involvement: The Specific Role of Methamphetamine in 9,421 Adults Entering Treatment",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -406,10 +696,11 @@
   "first_seen": "2026-10-27",
   "summary": "Abstract Gambling problems are common among people entering alcohol and other drug (AOD) treatment, yet they are easily missed and the substance-use patterns that mark them are poorly understood …",
   "url": "https://doi.org/10.1007/s10899-026-10571-7",
-  "oa_url": null,
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10571-7.pdf",
   "sources": [
    "crossref",
    "feed:jgs",
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -716,7 +1007,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-28",
+  "published": "2026-10-29",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -1392,7 +1683,7 @@
   "setting_regions": [],
   "countries": [],
   "regions": [],
-  "language": "id",
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -1523,7 +1814,7 @@
   "regions": [
    "europe"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -1659,9 +1950,9 @@
   ],
   "countries": [
    "FI",
-   "KR",
    "CZ",
-   "SK"
+   "SK",
+   "KR"
   ],
   "regions": [
    "europe",
@@ -1952,8 +2243,8 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "NZ",
-   "AU"
+   "AU",
+   "NZ"
   ],
   "regions": [
    "australia-nz"
@@ -2005,7 +2296,7 @@
   "regions": [
    "africa"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -2052,7 +2343,7 @@
   ],
   "countries": [],
   "regions": [],
-  "language": "fi",
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -2201,7 +2492,7 @@
   "regions": [
    "europe"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -3131,7 +3422,7 @@
   "regions": [
    "asia"
   ],
-  "language": "id",
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -3470,7 +3761,7 @@
    "Manuel Isorna Folgar",
    "Francisco Arias Horcajadas"
   ],
-  "published": "2026-10-28",
+  "published": "2026-10-29",
   "year": 2026,
   "created": "2026-10-15",
   "first_seen": "2026-10-16",
@@ -3706,7 +3997,7 @@
   "regions": [
    "asia"
   ],
-  "language": "id",
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -4511,22 +4802,22 @@
   "id": "doi:10.1001/jamapsychiatry.2026.3175",
   "doi": "10.1001/jamapsychiatry.2026.3175",
   "pmid": "42873510",
-  "pmcid": "PMC13670118",
+  "pmcid": "13670118",
   "openalex": "W7221815584",
   "title": "Online Sports Betting Legalization and Behavioral Health Care Use",
   "journal": "JAMA Psychiatry",
   "authors": [
    "Benjamin Westermeyer",
-   "Matthew D Eisenberg",
-   "Mark K Meiselbach"
+   "Matthew D. Eisenberg",
+   "Mark Katz Meiselbach"
   ],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-14",
+  "created": "2026-10-15",
   "first_seen": "2026-10-14",
   "summary": "The number of states with legal online sports betting has grown from 1 to 31 since 2018, expanding access to gambling. Despite the known behavioral health burdens associated with gambling, little is understood about legalization's impact on mental health and substance use treatment use …",
   "url": "https://doi.org/10.1001/jamapsychiatry.2026.3175",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13670118/",
+  "oa_url": "https://pubmed.ncbi.nlm.nih.gov/42873510/",
   "sources": [
    "openalex",
    "pubmed"
@@ -4569,13 +4860,13 @@
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Anna Pagano",
-   "Nadra E Lisha",
-   "Jennifer T Le",
+   "Nadra E. Lisha",
+   "Jennifer T. Le",
    "Caravella McCuistian"
   ],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-14",
+  "created": "2026-10-15",
   "first_seen": "2026-10-14",
   "summary": "Abstract People with addictive disorders are vulnerable to stigma and discrimination, which can impact addiction treatment outcomes through increased psychological distress and reduced self-efficacy …",
   "url": "https://doi.org/10.1007/s10899-026-10567-3",
@@ -4670,11 +4961,11 @@
   "title": "Clinical Trial Prediction Markets",
   "journal": "Journal of Clinical Oncology",
   "authors": [
-   "Nicholas G Zaorsky"
+   "Nicholas George Zaorsky"
   ],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-14",
+  "created": "2026-10-15",
   "first_seen": "2026-10-14",
   "summary": "",
   "url": "https://doi.org/10.1200/jco-26-01303",
@@ -4683,11 +4974,13 @@
    "openalex",
    "pubmed"
   ],
-  "type": "article",
+  "type": "editorial",
   "topics": [
    "prediction-markets"
   ],
-  "designs": [],
+  "designs": [
+   "commentary"
+  ],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
@@ -5331,7 +5624,7 @@
   "regions": [
    "africa"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -5381,7 +5674,7 @@
   "regions": [
    "europe"
   ],
-  "language": "en",
+  "language": "pl",
   "relevance": "high",
   "retracted": false
  },
@@ -5735,7 +6028,7 @@
   ],
   "countries": [],
   "regions": [],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -9392,7 +9685,7 @@
   "id": "doi:10.62641/aep.2380",
   "doi": "10.62641/aep.2380",
   "pmid": "42928671",
-  "pmcid": null,
+  "pmcid": "PMC13714483",
   "openalex": "W7214057251",
   "title": "Emotional and Decisional Profiles in Individuals With Gambling Disorder: Associations With Emotional Dysregulation, Alexithymia, and Suicidal Ideation",
   "journal": "Actas Espanolas de Psiquiatria",
@@ -9408,7 +9701,7 @@
   "first_seen": "2026-09-23",
   "summary": "Gambling Disorder (GD) is associated with elevated emotional dysregulation, maladaptive decision-making, and heightened suicide risk, yet the relationships among these domains remain insufficiently integrated within a single clinical framework …",
   "url": "https://doi.org/10.62641/aep.2380",
-  "oa_url": "https://actaspsiquiatria.es/index.php/actas/article/download/2380/3003",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13714483/",
   "sources": [
    "openalex",
    "pubmed"
@@ -25088,7 +25381,7 @@
   "id": "doi:10.1186/s40359-026-05184-z",
   "doi": "10.1186/s40359-026-05184-z",
   "pmid": "42947246",
-  "pmcid": null,
+  "pmcid": "PMC13715167",
   "openalex": "W7170052179",
   "title": "Can blind box buying be addictive?: Measurement and associations with gambling disorder among Chinese adults",
   "journal": "BMC psychology",
@@ -25105,7 +25398,7 @@
   "first_seen": "2026-07-22",
   "summary": "Blind boxes are gambling-like products with increasing popularity worldwide. Accumulating evidence has shown that blind box over-purchasing is a rising problem, yet no validated tool exists for its addictive components. Besides, the link between problematic blind box buying and gambling disorder (GD) has never been tested …",
   "url": "https://doi.org/10.1186/s40359-026-05184-z",
-  "oa_url": "https://doi.org/10.1186/s40359-026-05184-z",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13715167/",
   "sources": [
    "openalex",
    "pubmed"

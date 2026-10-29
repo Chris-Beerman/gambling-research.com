@@ -1,5 +1,66 @@
 [
  {
+  "id": "NCT07661823",
+  "registry": "clinicaltrials",
+  "registry_label": "ClinicalTrials.gov",
+  "kind": "trial",
+  "title": "QAIAx - SGI/SI Smart Health Cities: Microcity Enclave Program (Quantum SI/AGI Agency a/k/a AI City Hall Project - UPSTO App Nos. 64/074,526, 64/063,557, 64/105,164, 63/903,181, 63/729,428, 64/125,360; USPTO EO 9424 Assignment ID: 2101042 / ARN: REEL/FRAME: 76481/0026 - OUSD-R&E, Department of War)",
+  "status": "not-yet-recruiting",
+  "study_type": "interventional",
+  "phases": [],
+  "enrollment": 1000000,
+  "conditions": [
+   "Asperger's Disorder",
+   "Asperger Disorder",
+   "Autism Disorder",
+   "Autism",
+   "ADHD - Attention Deficit Disorder With Hyperactivity",
+   "ADHD"
+  ],
+  "interventions": [
+   "behavioral: AI City Hall Project (AIhealth4u - Public Health Central)",
+   "behavioral: AI City Hall Project (QAIAx Microcity A - AI Public Health Central)"
+  ],
+  "sponsor": "Veterans Recovery Network Inc.",
+  "sponsor_class": "other",
+  "collaborators": [
+   "U.S. Special Operations Command",
+   "Central Virginia VA Health Care System",
+   "AI-119 Vulcan Project Research & Educational Technology Company (fka Henry Nanpei Academy Project)"
+  ],
+  "countries": [
+   "US"
+  ],
+  "country_names": [
+   "United States"
+  ],
+  "regions": [
+   "us"
+  ],
+  "start_date": "2026-10-01",
+  "completion_date": "2045-09-30",
+  "first_posted": "2026-06-22",
+  "last_updated": "2026-10-29",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "BRIEF SUMMARY A. \"What is the purpose of this study?\" BACKGROUND …",
+  "url": "https://clinicaltrials.gov/study/NCT07661823",
+  "registration_type": "",
+  "authors": [],
+  "topics": [
+   "treatment",
+   "policy",
+   "comorbidity",
+   "equity",
+   "veterans"
+  ],
+  "designs": [
+   "protocol"
+  ],
+  "first_seen": "2026-06-22",
+  "status_changed": null
+ },
+ {
   "id": "osf:jeb8r",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -77,6 +138,48 @@
    "protocol"
   ],
   "first_seen": "2026-10-28",
+  "status_changed": null
+ },
+ {
+  "id": "osf:a2s4h",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Blurred Lines? Women’s Experiences of Gambling-Gaming Convergence",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-26",
+  "last_updated": "2026-10-26",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Purpose and significance This project explores how women in Northern Ireland (NI) experience gambling and gaming convergence. Women remain an overlooked group despite increasing engagement …",
+  "url": "https://osf.io/a2s4h/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Erin McEvoy",
+   "Paul Kitchin"
+  ],
+  "topics": [
+   "prevention",
+   "policy",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "first_seen": "2026-10-29",
   "status_changed": null
  },
  {
@@ -1033,67 +1136,6 @@
    "experiment"
   ],
   "first_seen": "2026-09-18",
-  "status_changed": null
- },
- {
-  "id": "NCT07661823",
-  "registry": "clinicaltrials",
-  "registry_label": "ClinicalTrials.gov",
-  "kind": "trial",
-  "title": "QAIAx (AIhealth4U) - AI Smart Health Cities: Microcity Enclave Program (Quantum AI/AGI Agency a/k/a AI City Hall Project - UPSTO App Nos. 64/074,526, 64/063,557, 64/105,164, 63/903,181, 63/729,428, 64/125,360)",
-  "status": "not-yet-recruiting",
-  "study_type": "interventional",
-  "phases": [],
-  "enrollment": 1000000,
-  "conditions": [
-   "Asperger's Disorder",
-   "Asperger Disorder",
-   "Autism Disorder",
-   "Autism",
-   "ADHD - Attention Deficit Disorder With Hyperactivity",
-   "ADHD"
-  ],
-  "interventions": [
-   "behavioral: AI City Hall Project (AIhealth4u - Public Health Central)",
-   "behavioral: AI City Hall Project (QAIAx Microcity A - AI Public Health Central)"
-  ],
-  "sponsor": "Veterans Recovery Network Inc.",
-  "sponsor_class": "other",
-  "collaborators": [
-   "U.S. Special Operations Command",
-   "Central Virginia VA Health Care System",
-   "AI-119 Vulcan Project Research & Educational Technology Company (fka Henry Nanpei Academy Project)"
-  ],
-  "countries": [
-   "US"
-  ],
-  "country_names": [
-   "United States"
-  ],
-  "regions": [
-   "us"
-  ],
-  "start_date": "2026-09-01",
-  "completion_date": "2045-09-30",
-  "first_posted": "2026-06-22",
-  "last_updated": "2026-09-17",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "BRIEF SUMMARY A. \"What is the purpose of this study?\" BACKGROUND …",
-  "url": "https://clinicaltrials.gov/study/NCT07661823",
-  "registration_type": "",
-  "authors": [],
-  "topics": [
-   "treatment",
-   "policy",
-   "comorbidity",
-   "equity",
-   "veterans"
-  ],
-  "designs": [
-   "protocol"
-  ],
-  "first_seen": "2026-06-22",
   "status_changed": null
  },
  {

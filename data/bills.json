@@ -83,7 +83,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-10-25",
+  "updated": "2026-10-28",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -1120,10 +1120,9 @@
   "url": "https://openstates.org/ca/bills/20252026/SB920/",
   "source_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB920",
   "topics": [
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-29",
   "first_seen": "2026-01-28",
   "stage_changed": null
  },
@@ -5537,6 +5536,114 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/69b4c792-74ee-4e51-b89e-eda6430da1a8",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 231",
+  "title": "Horse Racing - Prohibited Acts - Slaughter of Racehorses for Commercial Purposes",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Chair, Budget and Taxation Committee"
+  ],
+  "introduced": "2025-09-17",
+  "latest_action_date": "2026-04-14",
+  "latest_action": "Approved by the Governor - Chapter 84",
+  "latest_passage_date": "2026-04-08",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/md/bills/2026/SB231/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0231?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/14b141c5-043d-4843-9d68-a7075cd3013d",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 176",
+  "title": "Video Lottery Facility Payouts - Intercepts for Restitution Payments, Child Support Payments, and Debts Owed to the State",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Chair, Budget and Taxation Committee"
+  ],
+  "introduced": "2025-09-16",
+  "latest_action_date": "2026-04-14",
+  "latest_action": "Approved by the Governor - Chapter 87",
+  "latest_passage_date": "2026-04-08",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/md/bills/2026/SB176/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0176?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/90cfb482-edcd-4159-9eec-1adc4e15abe2",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 289",
+  "title": "Video Lottery Facility Payouts - Intercepts for Restitution Payments, Child Support Payments, and Debts Owed to the State",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Chair, Ways and Means Committee"
+  ],
+  "introduced": "2025-09-16",
+  "latest_action_date": "2026-04-14",
+  "latest_action": "Approved by the Governor - Chapter 88",
+  "latest_passage_date": "2026-04-09",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/md/bills/2026/HB289/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0289?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a7b45697-f004-46d5-aad7-27bb22187d18",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 228",
+  "title": "Horse Racing - Prohibited Acts - Slaughter of Racehorses for Commercial Purposes",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Chair, Appropriations Committee"
+  ],
+  "introduced": "2025-09-17",
+  "latest_action_date": "2026-04-14",
+  "latest_action": "Approved by the Governor - Chapter 83",
+  "latest_passage_date": "2026-04-08",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/md/bills/2026/HB228/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0228?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/c9641448-8cda-4c11-b482-36518383a6bf",
   "level": "state",
   "jurisdiction": "Kentucky",
@@ -5766,7 +5873,7 @@
   "url": "https://openstates.org/md/bills/2026/HB518/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0518?ys=2026RS",
   "topics": [],
-  "updated": "2026-04-14",
+  "updated": "2026-10-28",
   "first_seen": "2026-01-27",
   "stage_changed": null
  },
@@ -6047,11 +6154,8 @@
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/md/bills/2026/HB195/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0195?ys=2026RS",
-  "topics": [
-   "lottery",
-   "prevention"
-  ],
-  "updated": "2026-04-14",
+  "topics": [],
+  "updated": "2026-10-28",
   "first_seen": "2025-11-01",
   "stage_changed": null
  },
@@ -7248,6 +7352,96 @@
   "topics": [],
   "updated": "2026-05-16",
   "first_seen": "2025-05-20",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/0c1d069f-bd43-4fef-8371-9c12395ba2df",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 970",
+  "title": "Sports Wagering - Independent Evaluation of Sports Wagering",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Zucker",
+   "Ferguson"
+  ],
+  "introduced": "2026-02-13",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "Hearing 4/02 at 1:00 p.m.",
+  "latest_passage_date": "2026-03-20",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/md/bills/2026/SB970/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0970?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8fad918c-7d1a-4218-ae45-d51e0925fd3a",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 1612",
+  "title": "Gaming - Campaign Financing Contributions and Study on Independent Evaluation of Sports Wagering",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Ebersole"
+  ],
+  "introduced": "2026-02-17",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "Hearing 3/31 at 1:00 p.m.",
+  "latest_passage_date": "2026-03-23",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/md/bills/2026/HB1612/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1612?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3cb4cb3d-ab57-45c1-bacb-de0d9b315fa3",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 1226",
+  "title": "Maryland Illegal Online Gambling Enforcement Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Bartlett",
+   "Conaway",
+   "Woods"
+  ],
+  "introduced": "2026-02-11",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "Hearing 3/31 at 1:00 p.m.",
+  "latest_passage_date": "2026-03-23",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/md/bills/2026/HB1226/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1226?ys=2026RS",
+  "topics": [
+   "online-gambling"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
   "stage_changed": null
  },
  {
@@ -9388,6 +9582,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/5754733d-0b1e-480d-b8eb-9ecd18f3bf12",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 46",
+  "title": "Sports Wagering - Gambling Prevention Technology Pilot Program - Establishment",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Queen"
+  ],
+  "introduced": "2025-11-01",
+  "latest_action_date": "2026-02-23",
+  "latest_action": "Withdrawn by Sponsor",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/md/bills/2026/HB46/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0046?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/b791bbea-6dbf-407e-bb2f-5b7b71cdc3ef",
   "level": "state",
   "jurisdiction": "Washington",
@@ -9559,6 +9782,97 @@
   ],
   "updated": "2026-10-27",
   "first_seen": "2026-10-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/d1a0c579-e48c-409e-bb72-80b9e007e349",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 1240",
+  "title": "Sports Wagering - Wagers on Historical Horse Races - Authorization",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Fair",
+   "Buckel"
+  ],
+  "introduced": "2026-02-11",
+  "latest_action_date": "2026-02-17",
+  "latest_action": "Reassigned to Ways and Means",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB1240/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1240?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9f16b13e-d1f3-4f07-91e4-a2a7fc2b6cec",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 1431",
+  "title": "Sports Wagering - Licenses - Application Period",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Buckel"
+  ],
+  "introduced": "2026-02-13",
+  "latest_action_date": "2026-02-16",
+  "latest_action": "Hearing 3/05 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB1431/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1431?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/dc3867bc-3bee-4534-9d4b-85acc0a4eb72",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 1409",
+  "title": "Gaming - Problem Gambling - Prevalence Study and Fund Revenue",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Ross",
+   "Allen",
+   "Bhandari",
+   "Roberson",
+   "Toles",
+   "Wilson"
+  ],
+  "introduced": "2026-02-13",
+  "latest_action_date": "2026-02-16",
+  "latest_action": "Hearing 3/05 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB1409/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1409?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
   "stage_changed": null
  },
  {
@@ -9971,6 +10285,117 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/655f182a-94ff-4158-800c-b5efaf1ba006",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 885",
+  "title": "Internet Gaming and Online Bingo - Authorization and Implementation",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Watson"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-02-11",
+  "latest_action": "Hearing 3/11 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB885/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0885?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/23171f2a-f70b-4840-add0-0bde6ad5e0ad",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 862",
+  "title": "Gaming - Problem Gambling - Prevalence Study and Fund Revenue",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Zucker"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-02-11",
+  "latest_action": "Hearing 3/11 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB862/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0862?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/aabbe52a-2822-413c-a9d3-e64091d4556f",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 708",
+  "title": "State Lottery - Courier Services - Licensure",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Zucker"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-02-11",
+  "latest_action": "Hearing 3/11 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB708/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0708?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/51d7e93d-782a-4125-93e9-c68c21f13fb8",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 652",
+  "title": "Maryland Illegal Online Gambling Enforcement Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Waldstreicher",
+   "West"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-02-11",
+  "latest_action": "Hearing 3/11 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB652/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0652?ys=2026RS",
+  "topics": [
+   "online-gambling"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/2ebd542f-e3f7-4bb6-84f0-fe604102f66a",
   "level": "state",
   "jurisdiction": "Iowa",
@@ -10251,6 +10676,122 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/632e01a4-7b21-4d4b-982e-4e786244920d",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 639",
+  "title": "Sports Wagering - Wagers on Historical Horse Races - Authorization",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Corderman",
+   "Lewis Young"
+  ],
+  "introduced": "2026-02-05",
+  "latest_action_date": "2026-02-05",
+  "latest_action": "Hearing 2/25 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB639/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0639?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/7f9d59fd-ee26-4e7c-83e0-7cc505f3d267",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 617",
+  "title": "Video Lottery Operations - Prohibitions on Campaign Contributions - Parity Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Watson"
+  ],
+  "introduced": "2026-02-05",
+  "latest_action_date": "2026-02-05",
+  "latest_action": "Hearing 2/25 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB617/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0617?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/71f46dd5-86e2-4b29-87a5-b0638a89bc05",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 887",
+  "title": "Video Lottery Terminals - Distribution of Local Impact Grants - Allocation for Fair Hill Purses",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Hornberger"
+  ],
+  "introduced": "2026-02-04",
+  "latest_action_date": "2026-02-05",
+  "latest_action": "Hearing 2/19 at 1:00 p.m. (Ways and Means)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB887/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0887?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e00ccc7d-7136-43c5-91ea-f7ec0e689237",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 758",
+  "title": "Problem Gambling - Authorized Uses of Funds - Alterations",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Hornberger",
+   "Bouchat",
+   "Buckel",
+   "Hutchinson",
+   "S. Johnson",
+   "Kaufman"
+  ],
+  "introduced": "2026-02-04",
+  "latest_action_date": "2026-02-05",
+  "latest_action": "Hearing 2/19 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB758/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0758?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/ab3cf2cc-87a9-4d68-9e0c-165cd2519980",
   "level": "state",
   "jurisdiction": "Illinois",
@@ -10401,6 +10942,35 @@
   "first_seen": "2026-01-14",
   "stage_changed": "2026-10-17",
   "previous_stage": "committee"
+ },
+ {
+  "id": "ocd-bill/66e3dc3c-a4d0-4586-902b-06ab0780d74b",
+  "level": "state",
+  "jurisdiction": "Mississippi",
+  "jurisdiction_code": "ms",
+  "session": "2026",
+  "identifier": "HB 620",
+  "title": "Casino winnings; provide procedures for intercept of child support arrearages.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gaming"
+  ],
+  "sponsors": [
+   "Boyd (19th)"
+  ],
+  "introduced": "2026-01-13",
+  "latest_action_date": "2026-02-03",
+  "latest_action": "Died In Committee",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ms/bills/2026/HB620/",
+  "source_url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0620IN.pdf",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
  },
  {
   "id": "ocd-bill/6e9f9d76-0391-43d5-9da7-1c4154b9f612",
@@ -10928,6 +11498,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/a0aacd1a-3880-4ce3-a14e-e2b53584f396",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 371",
+  "title": "State Lottery - Courier Services - Licensure",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Ebersole"
+  ],
+  "introduced": "2026-01-19",
+  "latest_action_date": "2026-01-22",
+  "latest_action": "Hearing 2/12 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB371/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0371?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/89021c8d-330e-462f-aad2-89701f44b4b8",
   "level": "state",
   "jurisdiction": "New York",
@@ -11121,6 +11718,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/d823cd91-87cf-4940-b1f4-f51c52b2029a",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 291",
+  "title": "Sports Wagering Proceeds - Promotional Play Exclusion - Limitation",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Chair, Ways and Means Committee"
+  ],
+  "introduced": "2025-09-16",
+  "latest_action_date": "2026-01-16",
+  "latest_action": "Hearing 2/05 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB291/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0291?ys=2026RS",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/111bc4d4-2aa5-4a42-af29-372314ae3e02",
   "level": "state",
   "jurisdiction": "Maryland",
@@ -11143,11 +11769,37 @@
   "url": "https://openstates.org/md/bills/2026/SB102/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0102?ys=2026RS",
   "topics": [
-   "sports-betting",
-   "advertising"
+   "sports-betting"
   ],
-  "updated": "2026-03-17",
+  "updated": "2026-10-28",
   "first_seen": "2025-09-16",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/00694a0b-cef9-493b-8ab2-6f8967213c7c",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 75",
+  "title": "Video Lottery Operations - Prohibitions on Campaign Contributions - Parity Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Cardin"
+  ],
+  "introduced": "2025-09-25",
+  "latest_action_date": "2026-01-15",
+  "latest_action": "Hearing 1/29 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB75/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0075?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-28",
+  "first_seen": "2026-10-29",
   "stage_changed": null
  },
  {
@@ -18773,7 +19425,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-26",
+  "updated": "2026-10-28",
   "first_seen": "2025-01-29",
   "stage_changed": null
  },
