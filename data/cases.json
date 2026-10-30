@@ -10,7 +10,7 @@
   "court_level_label": "federal district",
   "date_filed": "2026-06-05",
   "date_terminated": null,
-  "latest_activity": "2026-10-28",
+  "latest_activity": "2026-10-29",
   "docket_number": "1:26-cv-04343",
   "citation": "",
   "status": "",
@@ -18,6 +18,11 @@
   "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
   "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
   "documents": [
+   {
+    "date": "2026-10-29",
+    "description": "Order on Motion for Preliminary Injunction AND Order on Motion to Dismiss AND Order on Motion to Dismiss",
+    "url": "https://www.courtlistener.com/docket/73453634/66/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
    {
     "date": "2026-10-28",
     "description": "OPPOSITION by Picayune Rancheria of the Chukchansi Indians to 64 Motion for Extension of Time,. (Dhillon, Navtej)",
@@ -37,16 +42,129 @@
     "date": "2026-10-16",
     "description": "TRANSCRIPT of Proceedings held on 10/9/2026, before District Judge Kirk E. Sherriff. MOTIONS HEARING filed by ECRO, Phone number 559-499-592",
     "url": "https://www.courtlistener.com/docket/73453634/62/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-13",
-    "description": "TRANSCRIPT REQUEST by Picayune Rancheria of the Chukchansi Indians for proceedings held on October 9, 2026 before Judge Kirk E. Sherriff. Co",
-    "url": "https://www.courtlistener.com/docket/73453634/58/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
    }
   ],
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-74726436",
+  "kind": "docket",
+  "case_name": "Pernas v. KalshiEX LLC",
+  "court": "District Court, S.D. New York",
+  "court_id": "nysd",
+  "court_citation": "S.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-08-31",
+  "date_terminated": null,
+  "latest_activity": "2026-10-29",
+  "docket_number": "1:26-cv-07419",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/74726436/pernas-v-kalshiex-llc/",
+  "snippet": "7:25 Fraud - Commodities Leverage Contracts; nature of suit: 850 Securities/Commodities",
+  "suit_nature": "850 Securities/Commodities",
+  "documents": [
+   {
+    "date": "2026-10-29",
+    "description": "Compel Arbitration",
+    "url": "https://www.courtlistener.com/docket/74726436/27/pernas-v-kalshiex-llc/"
+   },
+   {
+    "date": "2026-10-29",
+    "description": "Rule 7.1 Corporate Disclosure Statement",
+    "url": "https://www.courtlistener.com/docket/74726436/26/pernas-v-kalshiex-llc/"
+   },
+   {
+    "date": "2026-10-29",
+    "description": "Exhibit 3 - Event Contract",
+    "url": "https://www.courtlistener.com/docket/74726436/30/3/pernas-v-kalshiex-llc/"
+   },
+   {
+    "date": "2026-10-26",
+    "description": "Letter",
+    "url": "https://www.courtlistener.com/docket/74726436/24/pernas-v-kalshiex-llc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "cl-d-71671503",
+  "kind": "docket",
+  "case_name": "In re KALSHI SPORTS PREDICTION MARKET LITIGATION",
+  "court": "District Court, S.D. New York",
+  "court_id": "nysd",
+  "court_citation": "S.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2025-10-16",
+  "date_terminated": null,
+  "latest_activity": "2026-10-29",
+  "docket_number": "1:25-cv-08585",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/71671503/in-re-kalshi-sports-prediction-market-litigation/",
+  "snippet": "28:1332 Diversity Action; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-29",
+    "description": "ORDER: On April 16, 2026, the Court requested the parties propose a briefing schedule for Defendants' motion to compel no later than one wee",
+    "url": "https://www.courtlistener.com/docket/71671503/59/in-re-kalshi-sports-prediction-market-litigation/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "cl-d-73726907",
+  "kind": "docket",
+  "case_name": "KalshiEx v. Cox",
+  "court": "Court of Appeals for the Tenth Circuit",
+  "court_id": "ca10",
+  "court_citation": "10th Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2026-08-05",
+  "date_terminated": null,
+  "latest_activity": "2026-10-28",
+  "docket_number": "26-4100",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73726907/kalshiex-v-cox/",
+  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
+  "suit_nature": "3950 Constitutionality of State Statutes",
+  "documents": [
+   {
+    "date": "2026-10-28",
+    "description": "[11332005] Amicus Curiae brief submitted by Oklahoma Indian Gaming Association. Served on 10/28/2026. Manner of Service: email. Word/page co",
+    "url": "https://www.courtlistener.com/docket/73726907/55/kalshiex-v-cox/"
+   },
+   {
+    "date": "2026-10-28",
+    "description": "[11332004] Entry of appearance submitted by Frank S. Holleman, Emily J. Soli, John K. Crawford for Oklahoma Indian Gaming Association for co",
+    "url": "https://www.courtlistener.com/docket/73726907/54/kalshiex-v-cox/"
+   },
+   {
+    "date": "2026-10-28",
+    "description": "This entry has been removed from the docket. Corrected amicus brief submitted and docketed on 10/29/2026; See Dkt. No. 62 [11331824] Amicus ",
+    "url": "https://www.courtlistener.com/docket/73726907/43/kalshiex-v-cox/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-30"
  },
  {
   "id": "cl-d-73414398",
@@ -428,37 +546,6 @@
     "date": "2026-10-27",
     "description": "ORDER from USCA that Kalshi Inc. and KalshiEX LLC's motion for leave to file a reply is GRANTED. Kalshi Inc. and KalshiEX LLC's petition for",
     "url": "https://www.courtlistener.com/docket/71158158/117/ho-chunk-nation-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-28"
- },
- {
-  "id": "cl-d-74726436",
-  "kind": "docket",
-  "case_name": "Pernas v. KalshiEX LLC",
-  "court": "District Court, S.D. New York",
-  "court_id": "nysd",
-  "court_citation": "S.D.N.Y.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-08-31",
-  "date_terminated": null,
-  "latest_activity": "2026-10-26",
-  "docket_number": "1:26-cv-07419",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/74726436/pernas-v-kalshiex-llc/",
-  "snippet": "7:25 Fraud - Commodities Leverage Contracts; nature of suit: 850 Securities/Commodities",
-  "suit_nature": "850 Securities/Commodities",
-  "documents": [
-   {
-    "date": "2026-10-26",
-    "description": "Letter",
-    "url": "https://www.courtlistener.com/docket/74726436/24/pernas-v-kalshiex-llc/"
    }
   ],
   "cite_count": 0,

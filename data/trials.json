@@ -1,5 +1,48 @@
 [
  {
+  "id": "osf:7egbz",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Sports Betting: An Analysis of Risk Perceptions and Gambling Engagement Among Technical/Integrated High School Students",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-29",
+  "last_updated": "2026-10-29",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This registration concerns a scoping review, a non-experimental, descriptive evidence-synthesis design conducted according to the framework of Arksey and O'Malley (2005), refined by Levac, Colquhoun and O'Brien (2010) and consolidated by the Joanna Briggs Institute (Peters et al., 2020; 2022) …",
+  "url": "https://osf.io/7egbz/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Edson Farret da Costa Júnior",
+   "Renato Cavalcanti Novaes"
+  ],
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "youth",
+   "cognition"
+  ],
+  "designs": [
+   "review"
+  ],
+  "first_seen": "2026-10-30",
+  "status_changed": null
+ },
+ {
   "id": "NCT07661823",
   "registry": "clinicaltrials",
   "registry_label": "ClinicalTrials.gov",
@@ -138,6 +181,46 @@
    "protocol"
   ],
   "first_seen": "2026-10-28",
+  "status_changed": null
+ },
+ {
+  "id": "osf:t5s4g",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "From registration to publication: Protocol for a meta-research study of trials for gaming disorder and problematic internet use",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-27",
+  "last_updated": "2026-10-27",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "We will identify every registered intervention trial for gaming disorder and problematic internet, smartphone or social-media use in the international registries …",
+  "url": "https://osf.io/t5s4g/",
+  "registration_type": "Generalized Systematic Review Registration",
+  "authors": [
+   "Sasha Sioni"
+  ],
+  "topics": [
+   "loot-boxes"
+  ],
+  "designs": [
+   "protocol",
+   "behavioral-data"
+  ],
+  "first_seen": "2026-10-30",
   "status_changed": null
  },
  {
@@ -22899,45 +22982,6 @@
   ],
   "designs": [],
   "first_seen": "2023-01-17",
-  "status_changed": null
- },
- {
-  "id": "osf:fwut2",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Association between gambling and financial trading: A systematic review",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-01-16",
-  "last_updated": "2023-01-16",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "Financial trading is often viewed to be distinct from gambling as it reflects investing …",
-  "url": "https://osf.io/fwut2/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Uibin Lee",
-   "Lauren Lewis",
-   "Devin J. Mills"
-  ],
-  "topics": [
-   "trading"
-  ],
-  "designs": [],
-  "first_seen": "2023-01-16",
   "status_changed": null
  },
  {

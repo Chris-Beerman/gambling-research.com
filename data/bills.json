@@ -5444,6 +5444,40 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/71da29f0-8a8f-42de-b782-68dad74fbab8",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2026RS",
+  "identifier": "HB 687",
+  "title": "AN ACT relating to stray equines.",
+  "abstract": "Amend KRS 259.120 to allow the county judge/executive to contract for the performance of specific duties required to be performed when an equine is subject to being taken up by a person or organization that provides animal sheltering services; require the contract to be approved by the county fiscal court; establish …",
+  "classification": "bill",
+  "subjects": [
+   "Agriculture",
+   "Animals, Livestock, And Poultry",
+   "County Judges/Executive",
+   "Courts, Fiscal",
+   "Horses And Horse Racing"
+  ],
+  "sponsors": [
+   "M. Whitaker",
+   "D. Fister"
+  ],
+  "introduced": "2026-02-19",
+  "latest_action_date": "2026-04-15",
+  "latest_action": "recommitted to Appropriations & Revenue (H)",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
+  "url": "https://openstates.org/ky/bills/2026RS/HB687/",
+  "source_url": "https://apps.legislature.ky.gov/record/26RS/hb687.html",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/1f2452f1-b637-4bab-b2d9-cc5a0ce52323",
   "level": "state",
   "jurisdiction": "South Carolina",
@@ -5667,7 +5701,10 @@
    "State Agencies",
    "Taxation"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "M. Meredith",
+   "M. Koch"
+  ],
   "introduced": "2026-03-04",
   "latest_action_date": "2026-04-14",
   "latest_action": "delivered to Secretary of State (Acts Ch. 184)",
@@ -5679,14 +5716,11 @@
   "topics": [
    "sports-betting",
    "prediction-markets",
-   "youth",
-   "prevention",
    "self-exclusion",
-   "advertising",
    "policy",
    "industry"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-03-04",
   "stage_changed": null
  },
@@ -5724,15 +5758,12 @@
   "url": "https://openstates.org/ky/bills/2026RS/HB757/",
   "source_url": "https://apps.legislature.ky.gov/record/26RS/hb757.html",
   "topics": [
-   "advertising",
    "policy",
-   "cognition",
    "families",
    "equity",
-   "industry",
-   "older-adults"
+   "industry"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-02-25",
   "stage_changed": null
  },
@@ -5760,7 +5791,13 @@
    "Fiscal Note",
    "Funds"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "K. Fleming",
+   "V. Grossl",
+   "T. Hampton",
+   "J. Hodgson",
+   "D. Osborne"
+  ],
   "introduced": "2026-01-21",
   "latest_action_date": "2026-04-14",
   "latest_action": "delivered to Secretary of State (Acts Ch. 179)",
@@ -5770,13 +5807,11 @@
   "url": "https://openstates.org/ky/bills/2026RS/HB2/",
   "source_url": "https://apps.legislature.ky.gov/record/26RS/hb2.html",
   "topics": [
-   "lottery",
    "youth",
    "policy",
-   "families",
-   "industry"
+   "families"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-01-21",
   "stage_changed": null
  },
@@ -5875,6 +5910,45 @@
   "topics": [],
   "updated": "2026-10-28",
   "first_seen": "2026-01-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8923fa90-dcf1-4168-840e-96bd89702a37",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2026RS",
+  "identifier": "SB 68",
+  "title": "AN ACT relating to executive branch agencies.",
+  "abstract": "Amend KRS 148.280 to allow the Kentucky Horse Park Commission, through its president, to eject or exclude any person whose participation in Olympic, Paralympic, or equestrian sports or activities has been restricted by the United States Center for SafeSport and any person who engages or has engaged in conduct that …",
+  "classification": "bill",
+  "subjects": [
+   "Athletics",
+   "Boards And Commissions",
+   "Federal Laws And Regulations",
+   "Horses And Horse Racing",
+   "Public Buildings And Grounds",
+   "Public Protection",
+   "State Agencies",
+   "Tourism"
+  ],
+  "sponsors": [
+   "A. Mays Bledsoe",
+   "J. Adams"
+  ],
+  "introduced": "2026-01-12",
+  "latest_action_date": "2026-04-13",
+  "latest_action": "signed by Governor (Acts Ch. 121)",
+  "latest_passage_date": "2026-04-01",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ky/bills/2026RS/SB68/",
+  "source_url": "https://apps.legislature.ky.gov/record/26RS/sb68.html",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-30",
   "stage_changed": null
  },
  {
@@ -6013,7 +6087,12 @@
   "title": "Relating to: excluding certain event or sports wagers from the definition of “bet”.",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Athletics",
+   "Data processing",
+   "Gambling",
+   "Indian gaming and compacts"
+  ],
   "sponsors": [
    "August",
    "Haywood",
@@ -6031,7 +6110,7 @@
   "url": "https://openstates.org/wi/bills/2025/AB601/",
   "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab601",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -6362,7 +6441,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -6610,7 +6689,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7504,7 +7583,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7543,7 +7622,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7580,7 +7659,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7594,7 +7673,12 @@
   "title": "Relating to: excluding certain event or sports wagers from the definition of “bet”.",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Athletics",
+   "Data processing",
+   "Gambling",
+   "Indian gaming and compacts"
+  ],
   "sponsors": [
    "Marklein",
    "Dassler-Alfheim",
@@ -7612,7 +7696,7 @@
   "url": "https://openstates.org/wi/bills/2025/SB592/",
   "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb592",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7649,7 +7733,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -8834,7 +8918,10 @@
    "Public Safety",
    "Short Titles And Popular Names"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "N. Wilson",
+   "A. Gentry"
+  ],
   "introduced": "2026-02-27",
   "latest_action_date": "2026-03-06",
   "latest_action": "to Licensing, Occupations, & Administrative Regulations (H)",
@@ -8847,7 +8934,7 @@
    "sports-betting",
    "policy"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-02-27",
   "stage_changed": null
  },
@@ -9053,7 +9140,10 @@
    "Local Mandate",
    "Reports Mandated"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "A. Gentry",
+   "M. Lehman"
+  ],
   "introduced": "2026-02-25",
   "latest_action_date": "2026-03-04",
   "latest_action": "to Appropriations & Revenue (H)",
@@ -9063,10 +9153,9 @@
   "url": "https://openstates.org/ky/bills/2026RS/HB739/",
   "source_url": "https://apps.legislature.ky.gov/record/26RS/hb739.html",
   "topics": [
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-02-25",
   "stage_changed": null
  },
@@ -10021,7 +10110,11 @@
    "Gaming And Wagering",
    "Licensing"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "D. Hale",
+   "K. King",
+   "W. Thomas"
+  ],
   "introduced": "2026-02-06",
   "latest_action_date": "2026-02-13",
   "latest_action": "to Licensing, Occupations, & Administrative Regulations (H)",
@@ -10034,7 +10127,7 @@
    "sports-betting",
    "policy"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-02-06",
   "stage_changed": null
  },
@@ -11882,7 +11975,10 @@
    "Lottery",
    "Retirement And Pensions"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "J. Tipton",
+   "C. Aull"
+  ],
   "introduced": "2026-01-07",
   "latest_action_date": "2026-01-14",
   "latest_action": "to Appropriations & Revenue (H)",
@@ -11893,11 +11989,49 @@
   "source_url": "https://apps.legislature.ky.gov/record/26RS/hb97.html",
   "topics": [
    "sports-betting",
-   "lottery",
-   "older-adults"
+   "lottery"
   ],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-01-07",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9c5b80e0-e9c0-496f-93e0-e64318907e97",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2026RS",
+  "identifier": "HB 93",
+  "title": "AN ACT relating to the Kentucky Horse Park.",
+  "abstract": "Amend KRS 148.280 to allow the Kentucky Horse Park Commission, through its president, to eject or exclude any person whose participation in Olympic, Paralympic, or equestrian sports or activities has been restricted by the United States Center for SafeSport and any person who engages or has engaged in conduct that …",
+  "classification": "bill",
+  "subjects": [
+   "Athletics",
+   "Boards And Commissions",
+   "Federal Laws And Regulations",
+   "Horses And Horse Racing",
+   "Public Buildings And Grounds",
+   "Public Protection",
+   "State Agencies",
+   "Tourism"
+  ],
+  "sponsors": [
+   "V. Grossl",
+   "G. Brown Jr."
+  ],
+  "introduced": "2026-01-07",
+  "latest_action_date": "2026-01-14",
+  "latest_action": "to State Government (H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2026RS/HB93/",
+  "source_url": "https://apps.legislature.ky.gov/record/26RS/hb93.html",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-30",
   "stage_changed": null
  },
  {
@@ -11916,7 +12050,10 @@
    "Gaming And Wagering",
    "Horses And Horse Racing"
   ],
-  "sponsors": [],
+  "sponsors": [
+   "M. Lehman",
+   "G. Brown Jr."
+  ],
   "introduced": "2026-01-07",
   "latest_action_date": "2026-01-14",
   "latest_action": "to Licensing, Occupations, & Administrative Regulations (H)",
@@ -11926,7 +12063,7 @@
   "url": "https://openstates.org/ky/bills/2026RS/HB39/",
   "source_url": "https://apps.legislature.ky.gov/record/26RS/hb39.html",
   "topics": [],
-  "updated": "2026-08-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-01-07",
   "stage_changed": null
  },
@@ -14184,12 +14321,8 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/pa/bills/2025-2026/HB923/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb923",
-  "topics": [
-   "lottery",
-   "policy",
-   "older-adults"
-  ],
-  "updated": "2026-10-16",
+  "topics": [],
+  "updated": "2026-10-30",
   "first_seen": "2025-03-14",
   "stage_changed": null
  },
@@ -16145,10 +16278,9 @@
   "url": "https://openstates.org/ia/bills/2025-2026/SSB1240/",
   "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SSB 1240&ga=91",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-08-05",
+  "updated": "2026-10-29",
   "first_seen": "2025-05-13",
   "stage_changed": null
  },
@@ -19827,6 +19959,60 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2024-12-05",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/73a4a138-4058-4e0c-a7af-363dd613f2c6",
+  "level": "state",
+  "jurisdiction": "Wyoming",
+  "jurisdiction_code": "wy",
+  "session": "2027",
+  "identifier": "27LSO-0172",
+  "title": "Pari-mutuel wagering distribution-roads and highways.",
+  "abstract": "",
+  "classification": "proposed bill",
+  "subjects": [],
+  "sponsors": [
+   "Transportation, Highways & Military Affairs"
+  ],
+  "introduced": null,
+  "latest_action_date": null,
+  "latest_action": "",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/wy/bills/2027/27LSO-0172/",
+  "source_url": "https://wyoleg.gov/Legislation/committeeBills/2027",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c61a720c-8d3b-4bfe-9428-1fe2f5cfde82",
+  "level": "state",
+  "jurisdiction": "Wyoming",
+  "jurisdiction_code": "wy",
+  "session": "2027",
+  "identifier": "27LSO-0072",
+  "title": "Pari-mutuel wagering highway fund.",
+  "abstract": "",
+  "classification": "proposed bill",
+  "subjects": [],
+  "sponsors": [
+   "Transportation, Highways & Military Affairs"
+  ],
+  "introduced": null,
+  "latest_action_date": null,
+  "latest_action": "",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/wy/bills/2027/27LSO-0072/",
+  "source_url": "https://wyoleg.gov/Legislation/committeeBills/2027",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-30",
   "stage_changed": null
  },
  {

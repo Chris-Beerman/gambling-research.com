@@ -1,5 +1,120 @@
 [
  {
+  "id": "doi:10.1007/s11469-026-01756-7",
+  "doi": "10.1007/s11469-026-01756-7",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Gambling-Related Knowledge: A Systematic Review and Clinical Implications",
+  "journal": "International Journal of Mental Health and Addiction",
+  "authors": [],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "summary": "Gambling-related knowledge is often considered central to gambling behavior, particularly in forms of gambling perceived as skill-based. However, gambling knowledge has been inconsistently defined and measured across studies …",
+  "url": "https://doi.org/10.1007/s11469-026-01756-7",
+  "oa_url": null,
+  "sources": [
+   "feed:ijmha"
+  ],
+  "type": "article",
+  "topics": [
+   "youth"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1001/jama.2026.19361",
+  "doi": "10.1001/jama.2026.19361",
+  "pmid": "42955014",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Wagering on Unfinished Experiments-Prediction Markets and Clinical Trial Integrity",
+  "journal": "JAMA",
+  "authors": [
+   "Jay B Lusk",
+   "Robert M Califf",
+   "Ann Marie Navar",
+   "Emily C O'Brien"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-30",
+  "summary": "",
+  "url": "https://doi.org/10.1001/jama.2026.19361",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1037/adb0001189",
+  "doi": "10.1037/adb0001189",
+  "pmid": "42956199",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Problems with the Problem Gambling Severity Index (PGSI): Is it fit for public health monitoring of gambling harms? An analysis with Rasch Measurement Theory",
+  "journal": "Psychology of Addictive Behaviors",
+  "authors": [
+   "James Close",
+   "Ryan Statton"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-30",
+  "summary": "The Problem Gambling Severity Index (PGSI) is a widely used tool for measuring gambling-related issues, playing a central role in service delivery and national monitoring, especially in the British context …",
+  "url": "https://doi.org/10.1037/adb0001189",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.7583/jkgs.2026.26.5.153",
   "doi": "10.7583/jkgs.2026.26.5.153",
   "pmid": null,
@@ -83,7 +198,7 @@
   "id": "doi:10.1371/journal.pone.0345194",
   "doi": "10.1371/journal.pone.0345194",
   "pmid": "42949904",
-  "pmcid": null,
+  "pmcid": "PMC13716225",
   "openalex": "W7224078736",
   "title": "Perceptions of homogeneity reproduction in health sciences academia",
   "journal": "PLOS ONE",
@@ -99,7 +214,7 @@
   "first_seen": "2026-10-29",
   "summary": "Academic institutions privilege norms of continuous productivity and uninterrupted availability, creating conformity pressures that systematically disadvantage those who deviate from an implicit template of the 'ideal academic'. This study explores how doctoral students and faculty in the health sciences perceive the reproduction of social homogeneity …",
   "url": "https://doi.org/10.1371/journal.pone.0345194",
-  "oa_url": "https://doi.org/10.1371/journal.pone.0345194",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13716225/",
   "sources": [
    "openalex",
    "pubmed"
@@ -1007,7 +1122,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-29",
+  "published": "2026-10-30",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -3802,12 +3917,12 @@
   "journal": "Journal of Psychosocial Nursing and Mental Health Services",
   "authors": [
    "Rabia Arpaci",
-   "Hacer Kabakoğlu",
-   "Derya Tanriverdi"
+   "Hacer KABAKOĞLU",
+   "Derya Tanrıverdi"
   ],
-  "published": "2026-10-19",
+  "published": "2026-10-15",
   "year": 2026,
-  "created": "2026-10-15",
+  "created": "2026-10-16",
   "first_seen": "2026-10-16",
   "summary": "To examine the effect of problematic online gambling on the lives of university students in the context of impulsivity, emotion regulation, and psychological distress. Method: This descriptive and correlational study was conducted with 200 university students who engage in online gambling …",
   "url": "https://doi.org/10.3928/02793695-20261008-01",
@@ -4643,8 +4758,8 @@
  {
   "id": "doi:10.3389/fpubh.2026.1931143",
   "doi": "10.3389/fpubh.2026.1931143",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42952753",
+  "pmcid": "PMC13713745",
   "openalex": "W7221778291",
   "title": "Sport participation and gambling-related problems in adolescents: findings from a large school-based study",
   "journal": "Frontiers in Public Health",
@@ -4660,13 +4775,14 @@
   ],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-15",
+  "created": "2026-10-29",
   "first_seen": "2026-10-15",
-  "summary": "Background Adolescent gambling is increasingly shaped by digital access, sports betting, and gambling-like mechanisms embedded in everyday youth culture …",
+  "summary": "Adolescent gambling is increasingly shaped by digital access, sports betting, and gambling-like mechanisms embedded in everyday youth culture …",
   "url": "https://doi.org/10.3389/fpubh.2026.1931143",
-  "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1931143/pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13713745/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -4699,8 +4815,8 @@
  {
   "id": "doi:10.3389/fpsyt.2026.1978508",
   "doi": "10.3389/fpsyt.2026.1978508",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42952786",
+  "pmcid": "PMC13713455",
   "openalex": "W7221783520",
   "title": "Financially focused self-concept and problem lottery gambling: the chain mediating role of gambling-related luck beliefs and lottery gambling passion",
   "journal": "Frontiers in Psychiatry",
@@ -4713,13 +4829,14 @@
   ],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-15",
+  "created": "2026-10-29",
   "first_seen": "2026-10-15",
   "summary": "Background China operates the world’s largest lottery market, yet the psychological mechanisms linking individual dispositions to problem lottery gambling remain insufficiently understood, particularly among mainland Chinese samples. Financially focused self-concept—the tendency to base self-worth on financial success—has been linked to gambling problems …",
   "url": "https://doi.org/10.3389/fpsyt.2026.1978508",
-  "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1978508/pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13713455/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -4911,15 +5028,15 @@
   "title": "Gambling in fraternity and sorority life: leadership perspectives on social influences, risk, and prevention",
   "journal": "Journal of American College Health",
   "authors": [
-   "Jackie F Stanmyre",
+   "Jackie F. Stanmyre",
    "Alexander Cohen",
    "Lia Nower"
   ],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-14",
+  "created": "2026-10-15",
   "first_seen": "2026-10-14",
-  "summary": "To examine Greek life leaders' perceptions of gambling prevalence, peer influences, capacity for member support, and prevention strategies. Participants: Eleven Greek life leaders from a northeastern university were recruited in Summer/Fall 2025 …",
+  "summary": "To examine Greek life leaders’ perceptions of gambling prevalence, peer influences, capacity for member support, and prevention strategies. Participants: Eleven Greek life leaders from a northeastern university were recruited in Summer/Fall 2025 …",
   "url": "https://doi.org/10.1080/07448481.2026.2746416",
   "oa_url": null,
   "sources": [
@@ -5686,18 +5803,13 @@
   "openalex": "W7220944061",
   "title": "Exploring the relationships between problem and responsible gambling behaviors across time",
   "journal": "Addictive Behaviors",
-  "authors": [
-   "Alexander J. Connolly",
-   "Kristiana D. Carrasquillo",
-   "Shane Winfield Kraus",
-   "Joshua Briggs Grubbs"
-  ],
+  "authors": [],
   "published": "2026-10-08",
   "year": 2026,
-  "created": "2026-10-09",
+  "created": null,
   "first_seen": "2026-10-10",
   "summary": "Publication date: February 2027 Source: Addictive Behaviors, Volume 185 Author(s): Alexander J. Connolly, Kristiana D. Carrasquillo, Shane W. Kraus, Joshua B. Grubbs",
-  "url": "https://doi.org/10.1016/j.addbeh.2026.108873",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0306460326002832?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
    "feed:addictive-behaviors",
@@ -5712,13 +5824,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -368790,47 +368898,6 @@
   ],
   "language": "en",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.4092/jsre.30.supplement_ps1-28",
-  "doi": "10.4092/jsre.30.supplement_ps1-28",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4377086171",
-  "title": "日本人成人におけるギャンブル障害傾向とマインドフルネスの関連",
-  "journal": "JAPANESE JOURNAL OF RESEARCH ON EMOTIONS",
-  "authors": [
-   "Takuhiro Takada"
-  ],
-  "published": "2022-01-01",
-  "year": 2022,
-  "created": "2025-10-10",
-  "first_seen": "2022-01-01",
-  "summary": "○高田琢弘 1 (東海学園大学心理学部心理学科 1) Key words: gambling, mindfulness, Japanese adults",
-  "url": "https://doi.org/10.4092/jsre.30.supplement_ps1-28",
-  "oa_url": "https://www.jstage.jst.go.jp/article/jsre/30/Supplement/30_PS1-28/_pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "JP"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "JP"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "ja",
-  "relevance": "high",
   "retracted": false
  },
  {
