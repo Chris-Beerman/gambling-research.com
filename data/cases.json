@@ -1,5 +1,30 @@
 [
  {
+  "id": "cl-o-11050602",
+  "kind": "opinion",
+  "case_name": "Sidney Wade Hunter v. Casino Law Group, LLC",
+  "court": "Court of Appeals of Georgia",
+  "court_id": "gactapp",
+  "court_citation": "Ga. Ct. App.",
+  "court_level": "state-appellate",
+  "court_level_label": "state appellate",
+  "date_filed": "2026-10-30",
+  "date_terminated": null,
+  "latest_activity": "2026-10-30",
+  "docket_number": "A26A1393",
+  "citation": "",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11050602/sidney-wade-hunter-v-casino-law-group-llc/",
+  "snippet": "Court of Appeals of Georgia A26A1393. HUNTER v. CASINO LAW GROUP, LLC. DOYLE, Presiding Judge.",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [
+   "casino"
+  ],
+  "first_seen": "2026-10-31"
+ },
+ {
   "id": "cl-d-73453634",
   "kind": "docket",
   "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
@@ -10,7 +35,7 @@
   "court_level_label": "federal district",
   "date_filed": "2026-06-05",
   "date_terminated": null,
-  "latest_activity": "2026-10-29",
+  "latest_activity": "2026-10-30",
   "docket_number": "1:26-cv-04343",
   "citation": "",
   "status": "",
@@ -19,8 +44,18 @@
   "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
   "documents": [
    {
+    "date": "2026-10-30",
+    "description": "Minute Order AND Order on Motion for Extension of Time",
+    "url": ""
+   },
+   {
+    "date": "2026-10-30",
+    "description": "Notice of Appeal",
+    "url": "https://www.courtlistener.com/docket/73453634/68/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
     "date": "2026-10-29",
-    "description": "Order on Motion for Preliminary Injunction AND Order on Motion to Dismiss AND Order on Motion to Dismiss",
+    "description": "ORDER (I) DENYING PLAINTIFF'S MOTION FOR A PRELIMINARY INJUNCTION AND STAY, (II) GRANTING THE NOMINAL DEFENDANTS' MOTION TO DISMISS, AND (II",
     "url": "https://www.courtlistener.com/docket/73453634/66/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
    },
    {
@@ -32,21 +67,104 @@
     "date": "2026-10-23",
     "description": "MOTION for 21-DAY EXTENSION OF TIME to File Administrative Record by The Chair of the National Indian Gaming Commission, United States Natio",
     "url": "https://www.courtlistener.com/docket/73453634/64/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-19",
-    "description": "NOTICE OF CASINO OPENING by Picayune Rancheria of the Chukchansi Indians. (Dhillon, Navtej)",
-    "url": "https://www.courtlistener.com/docket/73453634/63/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-10-16",
-    "description": "TRANSCRIPT of Proceedings held on 10/9/2026, before District Judge Kirk E. Sherriff. MOTIONS HEARING filed by ECRO, Phone number 559-499-592",
-    "url": "https://www.courtlistener.com/docket/73453634/62/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
    }
   ],
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-71042736",
+  "kind": "docket",
+  "case_name": "Kalshiex LLC v. John Martin",
+  "court": "Court of Appeals for the Fourth Circuit",
+  "court_id": "ca4",
+  "court_citation": "4th Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2025-08-06",
+  "date_terminated": null,
+  "latest_activity": "2026-10-30",
+  "docket_number": "25-1892",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/",
+  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
+  "suit_nature": "3950 Constitutionality of State Statutes",
+  "documents": [
+   {
+    "date": "2026-10-30",
+    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch,",
+    "url": "https://www.courtlistener.com/docket/71042736/134/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-26",
+    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by James J. Stakem, Maryland Lottery and Gaming Control Commission, Maryland Lottery and Gami",
+    "url": "https://www.courtlistener.com/docket/71042736/133/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-14",
+    "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, H",
+    "url": "https://www.courtlistener.com/docket/71042736/132/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-12",
+    "description": "SUPPLEMENTAL AUTHORITIES by Kalshiex LLC. [1002072636] . [25-1892] William Havemann",
+    "url": "https://www.courtlistener.com/docket/71042736/131/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-09",
+    "description": "Docket correction requested from Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eat",
+    "url": "https://www.courtlistener.com/docket/71042736/130/kalshiex-llc-v-john-martin/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets",
+   "lottery"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "cl-d-73601450",
+  "kind": "docket",
+  "case_name": "KalshiEX LLC v. Williams",
+  "court": "Court of Appeals for the Second Circuit",
+  "court_id": "ca2",
+  "court_citation": "2d Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2026-07-08",
+  "date_terminated": null,
+  "latest_activity": "2026-10-30",
+  "docket_number": "26-1835",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73601450/kalshiex-llc-v-williams/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-10-30",
+    "description": "BRIEF, on behalf of Appellee Robert Williams, Appellee Brian O'Dwyer, Appellee John A. Crotty, Appellee Sylvia B. Hamer, Appellee Martin J. ",
+    "url": "https://www.courtlistener.com/docket/73601450/72/kalshiex-llc-v-williams/"
+   },
+   {
+    "date": "2026-10-27",
+    "description": "LETTER, dated 10/27/2026, requesting to bring electronic devices into courtroom for oral argument, on behalf of Appellant KalshiEX LLC, RECE",
+    "url": "https://www.courtlistener.com/docket/73601450/68/kalshiex-llc-v-williams/"
+   },
+   {
+    "date": "2026-10-26",
+    "description": "FRAP 28(j) LETTER, dated 10/26/2026, on behalf of Appellee Robert Williams, Appellee Brian O'Dwyer, Appellee John A. Crotty, Appellee Sylvia",
+    "url": "https://www.courtlistener.com/docket/73601450/62/kalshiex-llc-v-williams/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-27"
  },
  {
   "id": "cl-d-74726436",
@@ -401,42 +519,6 @@
   "first_seen": "2026-10-29"
  },
  {
-  "id": "cl-d-73601450",
-  "kind": "docket",
-  "case_name": "KalshiEX LLC v. Williams",
-  "court": "Court of Appeals for the Second Circuit",
-  "court_id": "ca2",
-  "court_citation": "2d Cir.",
-  "court_level": "federal-appellate",
-  "court_level_label": "federal appellate",
-  "date_filed": "2026-07-08",
-  "date_terminated": null,
-  "latest_activity": "2026-10-27",
-  "docket_number": "26-1835",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73601450/kalshiex-llc-v-williams/",
-  "snippet": "",
-  "suit_nature": "",
-  "documents": [
-   {
-    "date": "2026-10-27",
-    "description": "LETTER, dated 10/27/2026, regarding___(edit by Clerk's Office), on behalf of Appellant KalshiEX LLC, RECEIVED. Service date 10/27/2026 by AC",
-    "url": "https://www.courtlistener.com/docket/73601450/68/kalshiex-llc-v-williams/"
-   },
-   {
-    "date": "2026-10-26",
-    "description": "FRAP 28(j) LETTER, dated 10/26/2026, on behalf of Appellee Robert Williams, Appellee Brian O'Dwyer, Appellee John A. Crotty, Appellee Sylvia",
-    "url": "https://www.courtlistener.com/docket/73601450/62/kalshiex-llc-v-williams/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-27"
- },
- {
   "id": "cl-d-74837057",
   "kind": "docket",
   "case_name": "Kalshi Inc. v. Ho-Chunk Nation",
@@ -553,58 +635,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-28"
- },
- {
-  "id": "cl-d-71042736",
-  "kind": "docket",
-  "case_name": "Kalshiex LLC v. John Martin",
-  "court": "Court of Appeals for the Fourth Circuit",
-  "court_id": "ca4",
-  "court_citation": "4th Cir.",
-  "court_level": "federal-appellate",
-  "court_level_label": "federal appellate",
-  "date_filed": "2025-08-06",
-  "date_terminated": null,
-  "latest_activity": "2026-10-26",
-  "docket_number": "25-1892",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/",
-  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
-  "suit_nature": "3950 Constitutionality of State Statutes",
-  "documents": [
-   {
-    "date": "2026-10-26",
-    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by James J. Stakem, Maryland Lottery and Gaming Control Commission, Maryland Lottery and Gami",
-    "url": "https://www.courtlistener.com/docket/71042736/133/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-14",
-    "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, H",
-    "url": "https://www.courtlistener.com/docket/71042736/132/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-12",
-    "description": "SUPPLEMENTAL AUTHORITIES by Kalshiex LLC. [1002072636] . [25-1892] William Havemann",
-    "url": "https://www.courtlistener.com/docket/71042736/131/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-09",
-    "description": "Docket correction requested from Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eat",
-    "url": "https://www.courtlistener.com/docket/71042736/130/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-09",
-    "description": "RESPONSE/ANSWER by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, Harold E. ",
-    "url": ""
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets",
-   "lottery"
-  ],
-  "first_seen": "2026-10-14"
  },
  {
   "id": "cl-d-73435998",

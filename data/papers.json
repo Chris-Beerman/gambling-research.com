@@ -1,13 +1,454 @@
 [
  {
+  "id": "doi:10.1002/hpja.70270",
+  "doi": "10.1002/hpja.70270",
+  "pmid": "42963140",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Unhealthy Digital Marketing Among Aboriginal People in Australia: Findings From the #DigitalMob Pilot Study",
+  "journal": "Health promotion journal of Australia",
+  "authors": [
+   "Jennifer Browne",
+   "Nichole Lister",
+   "Kathryn Backholer",
+   "Karen Hill",
+   "Alessandro Crocetti",
+   "Troy Walker",
+   "Sharon Atkinson-Briggs",
+   "Navoda Liyana Pathirana",
+   "Beau Cubillo",
+   "Florentine Martino",
+   "Simone Sherriff",
+   "Lee Yeomans",
+   "Fiona Mitchell",
+   "Stephanie Thow",
+   "Phuong Nguyen",
+   "Jaithri Ananthapavan",
+   "Steve Allender",
+   "Yin Paradies"
+  ],
+  "published": "2027-01-31",
+  "year": 2027,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Issue Addressed: This study aimed to quantify Aboriginal adults' exposure to digital marketing of unhealthy food and beverages, alcohol, gambling, tobacco and e-cigarettes; analyse demographic differences in marketing exposure; and describe the nature of digital marketing reaching Aboriginal audiences, including brands, platforms and marketing tactics …",
+  "url": "https://doi.org/10.1002/hpja.70270",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "advertising",
+   "comorbidity",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "AU"
+  ],
+  "setting_regions": [
+   "australia-nz"
+  ],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s00127-026-03223-z",
+  "doi": "10.1007/s00127-026-03223-z",
+  "pmid": "42961501",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Symptoms of borderline personality disorder in young men from the general population: prevalence, age-related changes, and longitudinal associations with risk-taking behaviors",
+  "journal": "Social Psychiatry and Psychiatric Epidemiology",
+  "authors": [
+   "Jael Auf der Maur",
+   "Linda Dietrich",
+   "Michael Kaess",
+   "Joseph Studer",
+   "Annekatrin Steinhoff"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Borderline personality disorder (BPD) is a severe mental illness associated with emotional and functional impairment, elevated suicide risk, and high individual and societal costs. BPD is under-researched in the general population, especially among males, and from a developmental perspective …",
+  "url": "https://doi.org/10.1007/s00127-026-03223-z",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "prevalence",
+   "comorbidity"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "CH"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10561-9",
+  "doi": "10.1007/s10899-026-10561-9",
+  "pmid": "42961545",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Proposal of Gender-Sensitive Diagnostic Indicators for the Detection of Gambling Disorder in Women: An Exploratory and Qualitative Approach to Women's Narratives",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Laura Macía",
+   "Gema Aonso-Diego",
+   "Ana Estévez"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Women and men exhibit a different clinical profile, as there are numerous individual, social or cultural factors that influence how women involve themselves in gambling, interpret the risks, and experience the consequences …",
+  "url": "https://doi.org/10.1007/s10899-026-10561-9",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10572-6",
+  "doi": "10.1007/s10899-026-10572-6",
+  "pmid": "42961546",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Factors Associated with Treatment Dropout Among Individuals with Gambling Disorder: A Retrospective Cohort Study",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Ovidiu Tatar",
+   "Christophe Huỳnh",
+   "Nadine Blanchette-Martin",
+   "Marie-Josée Fleury"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Background And Aims: Gambling disorder (GD) is a behavioral addiction frequently comorbid with mental health and substance use disorders. Its substantial individual and societal burden, explained by the impact of GD on multiple domains that include health, relationships, work or education, is compounded by high treatment dropout rates …",
+  "url": "https://doi.org/10.1007/s10899-026-10572-6",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "comorbidity"
+  ],
+  "designs": [
+   "longitudinal",
+   "behavioral-data"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/08838151.2026.2752935",
+  "doi": "10.1080/08838151.2026.2752935",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224548693",
+  "title": "“Please Gamble Responsibly”: Sports Betting Advertisement Strategies During Men’s and Women’s Professional Basketball Broadcasts",
+  "journal": "Journal of Broadcasting & Electronic Media",
+  "authors": [
+   "Travis R. Bell",
+   "Yifan Wu",
+   "Brian A. Petrotta",
+   "Andrew C. Billings"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "This study content analyzed 147 sports betting advertisements during the 2025 playoffs for the National Basketball Association (NBA) and Women’s National Basketball Association (WNBA) seasons. The study assesses differences in gender representation, volume, promotional strategies, and responsible betting messaging …",
+  "url": "https://doi.org/10.1080/08838151.2026.2752935",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "advertising",
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fpsyg.2026.1831401",
+  "doi": "10.3389/fpsyg.2026.1831401",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224414346",
+  "title": "The relationships between noriuchi (stake, risk, time, outcome-sharing gambling) participation, gambling behavior, and problem gambling severity among Japanese gamblers",
+  "journal": "Frontiers in Psychology",
+  "authors": [
+   "Goki Kohagura",
+   "Eiichi Kamimura",
+   "Kengo Yokomitsu"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Introduction In Japan, noriuchi refers to a collaborative gambling practice in which multiple players pool money used for betting and later split the final net profit or loss …",
+  "url": "https://doi.org/10.3389/fpsyg.2026.1831401",
+  "oa_url": "https://doi.org/10.3389/fpsyg.2026.1831401",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "JP"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/23750472.2026.2751118",
+  "doi": "10.1080/23750472.2026.2751118",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224462761",
+  "title": "Betting-driven sport consumption among young adults: motivational dynamics and reconfiguration of sport engagement",
+  "journal": "Managing Sport and Leisure",
+  "authors": [
+   "Marcelo Moriconi",
+   "César de Cima"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Research question: Sports betting has been promoted as a way of attracting and boosting younger audiences, although critics warn that it turns sport into a means to an end and can generate social harms. Evidence on this process is scarce …",
+  "url": "https://doi.org/10.1080/23750472.2026.2751118",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "PT"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "PT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.36232/ebl.v6i3.6550",
+  "doi": "10.36232/ebl.v6i3.6550",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224566073",
+  "title": "Analysis of Sentencing Disparity in Online Gambling Offenses (A Study of Decisions Number 180/Pid.Sus/2024/PN Gto and Number 270/Pid.Sus/2024/PN Gto)",
+  "journal": "Equality Before The Law",
+  "authors": [
+   "Anwar Saman",
+   "Dian Ekawaty Ismail",
+   "Apripari"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "The proliferation of online gambling promotion by personal social media account holders demands the consistent application of law, while judges' freedom in imposing sentences (judicial discretion) has the potential to create disparities that undermine public trust in the judiciary …",
+  "url": "https://doi.org/10.36232/ebl.v6i3.6550",
+  "oa_url": "https://doi.org/10.36232/ebl.v6i3.6550",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:5804327d5b14943a",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224693781",
+  "title": "The Dynamics of Juvenile Delinquency in the Digital Era and the Implementation of Islamic Guidance and Counseling at MAN 3 Indramayu",
+  "journal": "Journal Of Psychology Counseling And Education",
+  "authors": [
+   "Didik Himmawan",
+   "Cahya Salasatun Aeni"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "summary": "Adolescence is a critical transitional period prone to deviant behavior. In the digital era, the form of juvenile delinquency has transformed from conventional to technology-based, one of which is the rampant phenomenon of online gambling among school students, as identified in MAN 3 Indramayu …",
+  "url": "https://psycoeducation.my.id/index.php/i/article/view/125",
+  "oa_url": "https://psycoeducation.my.id/index.php/i/article/view/125",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "treatment",
+   "families"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s11469-026-01756-7",
   "doi": "10.1007/s11469-026-01756-7",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224410895",
   "title": "Gambling-Related Knowledge: A Systematic Review and Clinical Implications",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [],
+  "authors": [
+   "Alexander J. Connolly",
+   "Lindsay M. Stall",
+   "Taylor Mick-Keck",
+   "Alexander Montoya",
+   "Jaxon Scowden",
+   "London Campbell",
+   "Hilaria Barragan",
+   "Brooke Kopatz",
+   "Joshua Briggs Grubbs"
+  ],
   "published": "2026-10-30",
   "year": 2026,
   "created": "2026-10-30",
@@ -16,9 +457,10 @@
   "url": "https://doi.org/10.1007/s11469-026-01756-7",
   "oa_url": null,
   "sources": [
-   "feed:ijmha"
+   "feed:ijmha",
+   "openalex"
   ],
-  "type": "article",
+  "type": "review",
   "topics": [
    "youth"
   ],
@@ -30,7 +472,7 @@
   "setting_regions": [],
   "countries": [],
   "regions": [],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -39,7 +481,7 @@
   "doi": "10.1001/jama.2026.19361",
   "pmid": "42955014",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224209734",
   "title": "Wagering on Unfinished Experiments-Prediction Markets and Clinical Trial Integrity",
   "journal": "JAMA",
   "authors": [
@@ -52,10 +494,11 @@
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-30",
-  "summary": "",
+  "summary": "This Viewpoint discusses the potential impact on recruitment, retention, measurement, or evidence generation after a prediction market platform announced it would host betting on the outcomes of clinical trials and US Food and Drug Administration regulatory reviews, noting that policy action is needed to ensure that prediction markets do not undermine the …",
   "url": "https://doi.org/10.1001/jama.2026.19361",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -63,13 +506,17 @@
    "prediction-markets"
   ],
   "designs": [
-   "experiment"
+   "commentary"
   ],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -79,7 +526,7 @@
   "doi": "10.1037/adb0001189",
   "pmid": "42956199",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224387831",
   "title": "Problems with the Problem Gambling Severity Index (PGSI): Is it fit for public health monitoring of gambling harms? An analysis with Rasch Measurement Theory",
   "journal": "Psychology of Addictive Behaviors",
   "authors": [
@@ -92,8 +539,9 @@
   "first_seen": "2026-10-30",
   "summary": "The Problem Gambling Severity Index (PGSI) is a widely used tool for measuring gambling-related issues, playing a central role in service delivery and national monitoring, especially in the British context …",
   "url": "https://doi.org/10.1037/adb0001189",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1037/adb0001189",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -130,7 +578,7 @@
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
-  "summary": "",
+  "summary": "본 연구는 2013년부터 2026년까지 발표된 국내 청소년 게임·도박 관련 학술지 논문을 대상으로 텍스트마이닝과 사회연결망분석을 활용하여 연구동향과 지식구조의 변화를 분석하였다. 단어빈도 분석, 핵심 키워드 중요도 분석, 연결중심성 분석, CONCOR 분석 및 군집분석을 수행하였다. 분석 결과, 핵심 연구주제는 지속적으로 유지되었으나 코로나19 이후 온라인·사이버 환경과 정책 및 위험요인 관련 연구의 비중이 증가한 것으로 나타났다. 또한 연구주제 간 연결성과 네트워크 응집성이 강화되면서 지식구조가 보다 통합적인 형태로 변화하였다 …",
   "url": "https://doi.org/10.7583/jkgs.2026.26.5.153",
   "oa_url": null,
   "sources": [
@@ -170,15 +618,16 @@
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
-  "summary": "",
+  "summary": "When applying topic modeling to online reviews in tourism and hospitality research, scholars face a largely undocumented decision: which algorithm to use.This study addresses that choice empirically by benchmarking three representative algorithms-Latent Dirichlet Allocation (LDA), the Structural Topic Model (STM; implemented as Dirichlet-Multinomial …",
   "url": "https://doi.org/10.47116/apjcri.2026.10.20",
-  "oa_url": null,
+  "oa_url": "http://apjcriweb.org/content/vol12no10/20.pdf",
   "sources": [
    "openalex"
   ],
   "type": "article",
   "topics": [
-   "casino"
+   "casino",
+   "industry"
   ],
   "designs": [],
   "design_basis": "rules",
@@ -426,7 +875,7 @@
   "first_seen": "2026-10-28",
   "summary": "Previous research suggests a possible association between obesity and behavioral addictions; however, findings remain inconsistent and the psychological mechanisms underlying this relationship remain poorly understood …",
   "url": "https://doi.org/10.1007/s11154-026-10100-2",
-  "oa_url": "https://doi.org/10.1007/s11154-026-10100-2",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s11154-026-10100-2.pdf",
   "sources": [
    "openalex",
    "pubmed"
@@ -1122,7 +1571,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-30",
+  "published": "2026-10-31",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -3329,12 +3778,12 @@
   "journal": "Journal of American College Health",
   "authors": [
    "Elizabeth McEvoy",
-   "Lindsey Y Mortenson",
-   "Christopher J Frank"
+   "Lindsey Mortenson",
+   "Christopher Frank"
   ],
   "published": "2026-10-16",
   "year": 2026,
-  "created": "2026-10-16",
+  "created": "2026-10-17",
   "first_seen": "2026-10-17",
   "summary": "To estimate the prevalence of potential problem gambling among college students at a large U.S. public university who reported having participated in sports betting/gambling. Participants: A customized Healthy Minds Study (HMS) Student Survey was administered to undergraduate students (n = 1,489) at a large U.S. public university in 2025 …",
   "url": "https://doi.org/10.1080/07448481.2026.2744233",
@@ -3959,14 +4408,14 @@
   "pmid": "42885285",
   "pmcid": null,
   "openalex": "W7222501486",
-  "title": "System-frame interventions to prevent gambling harms and beyond",
+  "title": "System‐frame interventions to prevent gambling harms and beyond",
   "journal": "Addiction",
   "authors": [
    "Tobias Hayer"
   ],
   "published": "2026-10-15",
   "year": 2026,
-  "created": "2026-10-16",
+  "created": "2026-10-17",
   "first_seen": "2026-10-16",
   "summary": "System-frame interventions to prevent gambling harms and beyondLiving environments should be designed in a way that promotes health.Evidence-based gambling addiction prevention, therefore, requires systemic (s-frame) interventions that are considered both effective and cost-efficient.Future research should not only evaluate the effects associated with …",
   "url": "https://doi.org/10.1111/add.70626",
@@ -5878,15 +6327,13 @@
   "title": "Risky parental gambling and child delinquency: longitudinal evidence on financial strain and disrupted parenting",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Azamsadat Hosseini Shoabjareh",
-   "Ben Edwards",
-   "Aino Suomi"
+   "Azamsadat Hosseini Shoabjareh Ben Edwards Aino Suomi a ANU Centre for Gambling Researchb POLIS: Centre for Social Policy Research, Australian National University"
   ],
   "published": "2026-10-09",
   "year": 2026,
-  "created": "2026-10-10",
+  "created": "2026-10-09",
   "first_seen": "2026-10-09",
-  "summary": "Background Parental gambling is increasingly recognized as a source of family strain, yet its impact on children’s behavioral outcomes remains underexamined …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/16066359.2026.2741076",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2741076?needAccess=true",
   "sources": [
@@ -5895,7 +6342,6 @@
   ],
   "type": "article",
   "topics": [
-   "youth",
    "families",
    "financial-harm"
   ],
@@ -5903,19 +6349,11 @@
    "longitudinal"
   ],
   "design_basis": "rules",
-  "settings": [
-   "AU"
-  ],
-  "setting_regions": [
-   "australia-nz"
-  ],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -22652,24 +23090,25 @@
  {
   "id": "doi:10.1007/s10071-026-02091-z",
   "doi": "10.1007/s10071-026-02091-z",
-  "pmid": null,
+  "pmid": "42961680",
   "pmcid": null,
   "openalex": "W7172061053",
   "title": "Evidence of optimal choice in pigeons performing a bird-analog of the iowa gambling task",
   "journal": "Animal Cognition",
   "authors": [
-   "J. Alfredo Zarco-Morales",
+   "J Alfredo Zarco-Morales",
    "Vladimir Orduña"
   ],
   "published": "2026-07-31",
   "year": 2026,
-  "created": "2026-08-01",
+  "created": "2026-10-30",
   "first_seen": "2026-07-31",
   "summary": "Gambling disorder is characterized by a maladaptive behavioral pattern that persists despite significant negative consequences. Neuropsychological paradigms such as the Iowa Gambling Task (IGT) and its adaptation to animal models, have provided critical insights into the mechanisms underlying this type of decision-making …",
   "url": "https://doi.org/10.1007/s10071-026-02091-z",
   "oa_url": "https://doi.org/10.1007/s10071-026-02091-z",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -311782,54 +312221,6 @@
    "europe"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.24985/kjss.2022.33.4.687",
-  "doi": "10.24985/kjss.2022.33.4.687",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4318022982",
-  "title": "심리적 도박 중독성 지수 및 행동적 도박 심각도 지수를 통한 국내 스포츠베팅 이용자의 중독 영향요인에 대한 연구",
-  "journal": "Korean Journal of Sport Science",
-  "authors": [
-   "Sung-Bae Roger Park",
-   "Tae-Geun Kwon",
-   "Myoung Jin Kim"
-  ],
-  "published": "2022-12-31",
-  "year": 2022,
-  "created": "2025-10-10",
-  "first_seen": "2022-12-31",
-  "summary": "PURPOSEThis study aimed to a) develop suitable screening tools for identifying gambling severity in Korea and b) explore factors that affect the gambling severity index in order to prevent Korean sports betting users from easily falling into gambling addiction, thus providing practical and useful guidelines in this regard.METHODS This study examined Korean …",
-  "url": "https://doi.org/10.24985/kjss.2022.33.4.687",
-  "oa_url": "https://kjss.sports.re.kr/upload/pdf/kjss-2022-33-4-687.pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "sports-betting",
-   "measurement"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "KR"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "ko",
   "relevance": "high",
   "retracted": false
  },

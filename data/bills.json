@@ -1332,19 +1332,15 @@
    "Terry Spahr"
   ],
   "introduced": "2025-12-04",
-  "latest_action_date": "2026-08-20",
+  "latest_action_date": "2026-08-19",
   "latest_action": "Died on Table, Session ended 08/19/2026 HJ 16",
   "latest_passage_date": null,
   "stage": "failed",
   "stage_label": "failed or withdrawn",
   "url": "https://openstates.org/nh/bills/2026/HB1409/",
   "source_url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2292&inflect=2",
-  "topics": [
-   "lottery",
-   "casino",
-   "industry"
-  ],
-  "updated": "2026-10-07",
+  "topics": [],
+  "updated": "2026-10-31",
   "first_seen": "2025-12-04",
   "stage_changed": null
  },
@@ -1844,6 +1840,46 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/ad6ca796-3af4-4d34-8f9f-72d07e999b57",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 1041",
+  "title": "Public Workforce Modernization Act.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADMIN. HEARINGS OFFICE; AGRICULTURE; AOC; APPROPRIATIONS; ARMED FORCES; ARTS; AUTHORITIES; BANKING COMN.; BANKS; BOARDS; BUDGETING; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONFIDENTIALITY; COUNCIL OF STATE; COUNCILS; COUNTIES; COURTS; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DATA & RECORDS SYSTEMS; DEQ; DHHS; EDUCATION; ELECTIONS; ELECTIONS",
+   "STATE BOARD OF; ELEMENTARY EDUCATION; EMPLOYMENT; ENVIRONMENT; FINANCIAL INSTITUTIONS; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GOVERNOR; HEALTH DEPTS.; HEALTH SERVICES; HIGHER EDUCATION; HISTORIC SITES & MONUMENTS; INFORMATION TECHNOLOGY; INVESTMENTS; JUDICIAL DEPT.; KINDERGARTEN; LAW ENFORCEMENT; LEGISLATIVE SERVICES COMN.; LEGISLATIVE SERVICES OFFICE; LOCAL GOVERNMENT; LOTTERY; MEDICAL RECORDS; MINORS; MUNICIPALITIES; MUSEUMS; OCCUPATIONS; PERSONNEL; PRESENTED; PRIVACY; PROPRIETARY SCHOOLS; PUBLIC; PUBLIC HEALTH; PUBLIC OFFICIALS; RATIFIED; REPORTING; SBI; SOCIAL SERVICES; SOCIAL SERVICES DEPTS.; SOCIAL WORKERS; SPORTS; STATE CONTROLLER; STATE EMPLOYEES; STATE TREASURER; TOBACCO; TOBACCO TRUST FUND COMN.; UNC; UNC BOARD OF GOVERNORS; VETERANS; VOCATIONAL EDUCATION; LOTTERY COMN.; NEW HANOVER COUNTY; RECORDS; WILMINGTON; CRAVEN COUNTY; ARTS COUNCIL; NEW BERN; TRYON PALACE COMN.; CHAPTERED; TOBACCO TRUST FUND; BATTLESHIP COMN.; BOXING COMN.; COMPANY POLICE; EARLY CHILDHOOD EDUCATION; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LOCAL GOVERNMENT EMPLOYEES; PROPRIETARY SCHOOLS BOARD; PUBLIC SAFETY DEPT.; CHIEF INFORMATION OFFICER; COMMISSIONER OF BANKS; HUMAN RESOURCES COMN.; HUMAN RESOURCES OFFICE; INFORMATION TECHNOLOGY DEPT.; HEALTH INFORMATION EXCHANGE AUTHORITY; SCHOOL OF MEDICINE; UNC HEALTH CARE; SCHOOL STAFF; HIE NETWORK; INVESTMENT AUTHORITY"
+  ],
+  "sponsors": [
+   "Corbin",
+   "Johnson",
+   "Lee",
+   "Alexander",
+   "Britt",
+   "Burgin"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-07-07",
+  "latest_action": "Ch. SL 2026-40",
+  "latest_passage_date": "2026-06-30",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/nc/bills/2025/SB1041/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S1041",
+  "topics": [
+   "lottery",
+   "policy",
+   "equity",
+   "veterans"
+  ],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/aa8e4e78-af85-4476-b4a4-0f0774f9faf0",
   "level": "state",
   "jurisdiction": "Ohio",
@@ -1911,7 +1947,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-22",
+  "updated": "2026-10-30",
   "first_seen": "2026-06-29",
   "stage_changed": null
  },
@@ -1945,7 +1981,7 @@
   "topics": [
    "prediction-markets"
   ],
-  "updated": "2026-10-20",
+  "updated": "2026-10-30",
   "first_seen": "2026-06-28",
   "stage_changed": null
  },
@@ -2001,11 +2037,8 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/la/bills/2026/HB75/",
   "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249694",
-  "topics": [
-   "casino",
-   "advertising"
-  ],
-  "updated": "2026-08-21",
+  "topics": [],
+  "updated": "2026-10-31",
   "first_seen": "2026-02-03",
   "stage_changed": null
  },
@@ -2502,7 +2535,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-07-24",
+  "updated": "2026-10-31",
   "first_seen": "2026-02-27",
   "stage_changed": null
  },
@@ -2687,7 +2720,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-31",
   "first_seen": "2026-01-23",
   "stage_changed": null
  },
@@ -2719,7 +2752,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-21",
   "stage_changed": null
  },
@@ -2751,7 +2784,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-31",
   "first_seen": "2026-01-23",
   "stage_changed": null
  },
@@ -2782,7 +2815,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-31",
   "first_seen": "2026-01-21",
   "stage_changed": null
  },
@@ -3655,6 +3688,40 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/0e8b5ad4-c43f-44ff-9603-04b5200ab1d6",
+  "level": "state",
+  "jurisdiction": "Louisiana",
+  "jurisdiction_code": "la",
+  "session": "2026",
+  "identifier": "HB 175",
+  "title": "LOTTERY: Creates the Veterans Service Grant Board and provides for allocation of lottery proceeds (RR +$500,000 SG EX See Note)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Troy Hebert",
+   "Daryl Adams",
+   "Beth Billings",
+   "Doyle Boudreaux",
+   "Reese \"Skip\" Broussard",
+   "Vincent Cox III"
+  ],
+  "introduced": "2026-02-18",
+  "latest_action_date": "2026-05-19",
+  "latest_action": "Read by title. Recommitted to the Committee on Finance.",
+  "latest_passage_date": "2026-05-05",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/la/bills/2026/HB175/",
+  "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249819",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/3279d873-dc01-4e53-9d96-6970c3252401",
   "level": "state",
   "jurisdiction": "Tennessee",
@@ -3743,6 +3810,35 @@
   "topics": [],
   "updated": "2026-09-21",
   "first_seen": "2026-03-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/df7fd551-ab49-4070-bfe8-bfb6dd7b564a",
+  "level": "state",
+  "jurisdiction": "Louisiana",
+  "jurisdiction_code": "la",
+  "session": "2026",
+  "identifier": "SB 135",
+  "title": "GAMING: Provides relative to the dedication of revenue from sports wagering. (7/1/27) (EG SEE FISC NOTE SD RV See Note)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Beth Mizell"
+  ],
+  "introduced": "2026-02-24",
+  "latest_action_date": "2026-05-18",
+  "latest_action": "Read by title, under the rules, referred to the Committee on Administration of Criminal Justice.",
+  "latest_passage_date": "2026-05-12",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/la/bills/2026/SB135/",
+  "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250056",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -3978,7 +4074,7 @@
    "policy",
    "equity"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-31",
   "first_seen": "2026-02-10",
   "stage_changed": null
  },
@@ -4072,10 +4168,9 @@
   "url": "https://openstates.org/la/bills/2026/HB883/",
   "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250808",
   "topics": [
-   "online-gambling",
-   "policy"
+   "online-gambling"
   ],
-  "updated": "2026-08-19",
+  "updated": "2026-10-31",
   "first_seen": "2026-02-27",
   "stage_changed": null
  },
@@ -4250,6 +4345,36 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/43dbc42f-df17-477f-a06a-d729a1f9a982",
+  "level": "state",
+  "jurisdiction": "Louisiana",
+  "jurisdiction_code": "la",
+  "session": "2026",
+  "identifier": "HB 165",
+  "title": "LOTTERY: (Constitutional Amendment) Provides relative to lottery proceeds benefitting veterans (RE +$500,000 GF EX See Note)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Troy Hebert",
+   "Tehmi Chassion"
+  ],
+  "introduced": "2026-02-18",
+  "latest_action_date": "2026-05-12",
+  "latest_action": "Read second time by title and referred to the Committee on Finance.",
+  "latest_passage_date": "2026-05-07",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/la/bills/2026/HB165/",
+  "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249809",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/e4aaa11c-4493-4248-9bae-458500b3c44a",
   "level": "state",
   "jurisdiction": "Louisiana",
@@ -4404,10 +4529,8 @@
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/mo/bills/2026/HB2989/",
   "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2989&year=2026&code=R&style=new",
-  "topics": [
-   "policy"
-  ],
-  "updated": "2026-09-12",
+  "topics": [],
+  "updated": "2026-10-31",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -4433,11 +4556,8 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/la/bills/2026/HB767/",
   "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250629",
-  "topics": [
-   "lottery",
-   "policy"
-  ],
-  "updated": "2026-08-18",
+  "topics": [],
+  "updated": "2026-10-31",
   "first_seen": "2026-02-27",
   "stage_changed": null
  },
@@ -4993,7 +5113,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-21",
   "stage_changed": null
  },
@@ -5057,7 +5177,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-21",
   "stage_changed": null
  },
@@ -5151,10 +5271,9 @@
   "source_url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2026",
   "topics": [
    "lottery",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-05-07",
+  "updated": "2026-10-31",
   "first_seen": "2026-01-13",
   "stage_changed": null
  },
@@ -5252,6 +5371,37 @@
   "topics": [],
   "updated": "2026-09-21",
   "first_seen": "2026-04-16",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1b056532-ecbd-45a4-bc5e-f231c5ea1ec8",
+  "level": "state",
+  "jurisdiction": "Tennessee",
+  "jurisdiction_code": "tn",
+  "session": "114",
+  "identifier": "HJR 146",
+  "title": "Constitutional Amendments - Proposes an amendment to Article XI, Section 5 of the Constitution of Tennessee to authorize local boards of education to approve lotteries conducted by nonprofit school support organizations; requires that the net proceeds of the lottery’s revenues be allocated to the local education agency to be used for educational or extracurricular purposes. -",
+  "abstract": "",
+  "classification": "joint resolution",
+  "subjects": [
+   "Constitutional Amendments"
+  ],
+  "sponsors": [
+   "Williams"
+  ],
+  "introduced": "2025-02-06",
+  "latest_action_date": "2026-04-15",
+  "latest_action": "Taken off notice for cal. in Finance, Ways and Means Committee",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
+  "url": "https://openstates.org/tn/bills/114/HJR146/",
+  "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0146&ga=114",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -5606,7 +5756,20 @@
   "title": "Video Lottery Facility Payouts - Intercepts for Restitution Payments, Child Support Payments, and Debts Owed to the State",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Administrative Agencies",
+   "Attachments and Garnishments",
+   "Awards, Medals, and Prizes",
+   "Commerce and Business",
+   "Criminal Law - Procedures",
+   "Debt Collection",
+   "Family Law",
+   "Federal Government",
+   "Gaming",
+   "Gaming and Gambling",
+   "Lottery",
+   "Notices"
+  ],
   "sponsors": [
    "Chair, Budget and Taxation Committee"
   ],
@@ -5618,8 +5781,12 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/md/bills/2026/SB176/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0176?ys=2026RS",
-  "topics": [],
-  "updated": "2026-10-28",
+  "topics": [
+   "lottery",
+   "policy",
+   "financial-harm"
+  ],
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -5890,7 +6057,20 @@
   "title": "Gaming - Problem Gambling and College Athlete Protections",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Age",
+   "Applicants and Applications",
+   "Certifications",
+   "Data",
+   "Disclosure",
+   "Forms",
+   "Gaming",
+   "Gaming and Gambling",
+   "Identification",
+   "Information Technology",
+   "Lottery and Gaming Control Agency, State",
+   "Mental and Behavioral Health"
+  ],
   "sponsors": [
    "Palakovich Carr",
    "Allen",
@@ -5908,7 +6088,7 @@
   "url": "https://openstates.org/md/bills/2026/HB518/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0518?ys=2026RS",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-01-27",
   "stage_changed": null
  },
@@ -6110,7 +6290,7 @@
   "url": "https://openstates.org/wi/bills/2025/AB601/",
   "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab601",
   "topics": [],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -6221,7 +6401,20 @@
   "title": "State Lottery and Gaming Control Commission - Authority to Conduct Studies on the Use of Emerging Technology and the Workgroup on Gambling Prevention Technology",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Artificial Intelligence",
+   "Biometrics",
+   "Committees and Commissions",
+   "Consumer Protection",
+   "Cryptocurrency",
+   "Cybersecurity",
+   "Data",
+   "Electronic Commerce",
+   "Electronic Funds Transfer",
+   "Electronic Government",
+   "Gaming",
+   "Gaming and Gambling"
+  ],
   "sponsors": [
    "Queen"
   ],
@@ -6233,8 +6426,10 @@
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/md/bills/2026/HB195/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0195?ys=2026RS",
-  "topics": [],
-  "updated": "2026-10-28",
+  "topics": [
+   "prevention"
+  ],
+  "updated": "2026-10-30",
   "first_seen": "2025-11-01",
   "stage_changed": null
  },
@@ -6441,7 +6636,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -6543,10 +6738,9 @@
   "url": "https://openstates.org/mo/bills/2026/HB3154/",
   "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB3154&year=2026&code=R&style=new",
   "topics": [
-   "policy",
    "comorbidity"
   ],
-  "updated": "2026-09-18",
+  "updated": "2026-10-31",
   "first_seen": "2026-01-29",
   "stage_changed": null
  },
@@ -6689,7 +6883,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7443,7 +7637,17 @@
   "title": "Sports Wagering - Independent Evaluation of Sports Wagering",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Advertising",
+   "Commerce and Business",
+   "Contracts",
+   "Evaluations and Reviews",
+   "Gaming",
+   "Gaming and Gambling",
+   "Licenses",
+   "Lottery and Gaming Control Agency, State",
+   "Sports and Recreation"
+  ],
   "sponsors": [
    "Zucker",
    "Ferguson"
@@ -7459,7 +7663,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -7473,7 +7677,18 @@
   "title": "Gaming - Campaign Financing Contributions and Study on Independent Evaluation of Sports Wagering",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Advertising",
+   "Commerce and Business",
+   "Contracts",
+   "Evaluations and Reviews",
+   "Gaming",
+   "Gaming and Gambling",
+   "Licenses",
+   "Lottery and Gaming Control Agency, State",
+   "Sports and Recreation",
+   "Studies"
+  ],
   "sponsors": [
    "Ebersole"
   ],
@@ -7488,7 +7703,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -7502,7 +7717,20 @@
   "title": "Maryland Illegal Online Gambling Enforcement Act",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Advertising",
+   "Attorney General",
+   "Attorneys",
+   "Bingo",
+   "Certifications",
+   "Commerce and Business",
+   "Consumer Protection",
+   "Court Orders",
+   "Credit",
+   "Crimes and Punishments",
+   "Criminal Law - Procedures",
+   "Criminal Law - Substantive Crimes"
+  ],
   "sponsors": [
    "Bartlett",
    "Conaway",
@@ -7517,9 +7745,10 @@
   "url": "https://openstates.org/md/bills/2026/HB1226/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1226?ys=2026RS",
   "topics": [
-   "online-gambling"
+   "online-gambling",
+   "policy"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -7583,7 +7812,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7622,7 +7851,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7659,7 +7888,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7696,7 +7925,7 @@
   "url": "https://openstates.org/wi/bills/2025/SB592/",
   "source_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb592",
   "topics": [],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7733,7 +7962,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -7904,6 +8133,70 @@
   ],
   "updated": "2026-09-25",
   "first_seen": "2026-03-04",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/4081102b-9aa3-4fef-972a-884e0c740428",
+  "level": "state",
+  "jurisdiction": "Tennessee",
+  "jurisdiction_code": "tn",
+  "session": "114",
+  "identifier": "HB 704",
+  "title": "Lottery, Scholarships and Programs - As introduced, adds William R. Moore College of Technology as an eligible institution for receipt of the Wilder-Naifeh reconnect grant and Wilder-Naifeh technical skills grant; specifies that the amount of the scholarship for such students enrolled is the average cost of tuition and mandatory fees at TCATs less all other gift aid. - Amends TCA Title 49, Chapter 4.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Lottery",
+   "Scholarships and Programs"
+  ],
+  "sponsors": [
+   "White"
+  ],
+  "introduced": "2025-02-03",
+  "latest_action_date": "2026-03-18",
+  "latest_action": "Taken off notice for cal in s/c Higher Education Subcommittee of Education Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/tn/bills/114/HB704/",
+  "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0704&ga=114",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/096c88ab-23bb-47ae-a004-48f398961d4a",
+  "level": "state",
+  "jurisdiction": "Tennessee",
+  "jurisdiction_code": "tn",
+  "session": "114",
+  "identifier": "HB 1121",
+  "title": "Lottery, Scholarships and Programs - As introduced, expands eligibility for a dual enrollment grant to include students who are sophomores in high school and admitted to an eligible postsecondary institution as a dual enrollment student. - Amends TCA Title 49, Chapter 4.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Lottery",
+   "Scholarships and Programs"
+  ],
+  "sponsors": [
+   "Hale"
+  ],
+  "introduced": "2025-02-05",
+  "latest_action_date": "2026-03-18",
+  "latest_action": "Taken off notice for cal in s/c Higher Education Subcommittee of Education Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/tn/bills/114/HB1121/",
+  "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1121&ga=114",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -8162,6 +8455,46 @@
   ],
   "updated": "2026-09-21",
   "first_seen": "2026-03-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/160432f0-7245-449a-bdc5-6f72b9b719c0",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 761",
+  "title": "Expansion of Commercial Gaming - Internet Gaming Referendum",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Commerce and Business",
+   "Education",
+   "Elections",
+   "Elections, State Board of",
+   "Gaming",
+   "Gaming and Gambling",
+   "General Assembly",
+   "Internet",
+   "Laws and Ordinances",
+   "Licenses",
+   "Lottery and Gaming Control Agency, State",
+   "Public Schools"
+  ],
+  "sponsors": [
+   "Watson"
+  ],
+  "introduced": "2026-02-06",
+  "latest_action_date": "2026-03-13",
+  "latest_action": "Withdrawn by Sponsor",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/md/bills/2026/SB761/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0761?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -8717,6 +9050,40 @@
   "topics": [],
   "updated": "2026-03-31",
   "first_seen": "2026-03-05",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b5fcd878-0ff1-4c8b-9ce1-a9a014aabea1",
+  "level": "state",
+  "jurisdiction": "Mississippi",
+  "jurisdiction_code": "ms",
+  "session": "2026",
+  "identifier": "SB 2436",
+  "title": "Black bear hunting season; require MDWFP to create and issue harvest tags for through a lottery system.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Wildlife, Fisheries and Parks"
+  ],
+  "sponsors": [
+   "McCaughn",
+   "Seymour",
+   "Suber",
+   "Berry",
+   "Taylor",
+   "England"
+  ],
+  "introduced": "2026-01-19",
+  "latest_action_date": "2026-03-10",
+  "latest_action": "Failed",
+  "latest_passage_date": "2026-02-10",
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ms/bills/2026/SB2436/",
+  "source_url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2436PS.pdf",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -9680,7 +10047,20 @@
   "title": "Sports Wagering - Gambling Prevention Technology Pilot Program - Establishment",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Boundaries",
+   "Data",
+   "Gaming",
+   "Gaming and Gambling",
+   "Internet",
+   "Lottery and Gaming Control Agency, State",
+   "Mental and Behavioral Health",
+   "Pilot Programs",
+   "Reports",
+   "Signs and Billboards",
+   "Sports and Recreation",
+   "State Universities and Colleges"
+  ],
   "sponsors": [
    "Queen"
   ],
@@ -9695,7 +10075,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -9883,7 +10263,20 @@
   "title": "Sports Wagering - Wagers on Historical Horse Races - Authorization",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Commerce and Business",
+   "Committees and Commissions",
+   "Comptroller",
+   "Data",
+   "Elections, State Board of",
+   "Electronic Funds Transfer",
+   "Gaming",
+   "Gaming and Gambling",
+   "Historical Matters",
+   "Horse Racing",
+   "Horses",
+   "Licenses"
+  ],
   "sponsors": [
    "Fair",
    "Buckel"
@@ -9899,7 +10292,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -9913,7 +10306,14 @@
   "title": "Sports Wagering - Licenses - Application Period",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Applicants and Applications",
+   "Committees and Commissions",
+   "Gaming",
+   "Gaming and Gambling",
+   "Licenses",
+   "Sports and Recreation"
+  ],
   "sponsors": [
    "Buckel"
   ],
@@ -9928,7 +10328,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -9942,7 +10342,20 @@
   "title": "Gaming - Problem Gambling - Prevalence Study and Fund Revenue",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Awards, Medals, and Prizes",
+   "Gaming",
+   "Gaming and Gambling",
+   "Health, Department of",
+   "Medical Treatments",
+   "Mental and Behavioral Health",
+   "Mobile Devices",
+   "Public Health",
+   "Reports",
+   "Revenue and Taxes",
+   "Sports and Recreation",
+   "Studies"
+  ],
   "sponsors": [
    "Ross",
    "Allen",
@@ -9959,8 +10372,10 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/md/bills/2026/HB1409/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1409?ys=2026RS",
-  "topics": [],
-  "updated": "2026-10-28",
+  "topics": [
+   "industry"
+  ],
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10199,6 +10614,46 @@
   "previous_stage": "reported"
  },
  {
+  "id": "ocd-bill/fbe90918-fa71-4762-8597-a8aaaa47a84d",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 1255",
+  "title": "Expansion of Commercial Gaming - Internet Gaming Referendum",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Commerce and Business",
+   "Education",
+   "Elections",
+   "Elections, State Board of",
+   "Gaming",
+   "Gaming and Gambling",
+   "General Assembly",
+   "Internet",
+   "Laws and Ordinances",
+   "Licenses",
+   "Lottery and Gaming Control Agency, State",
+   "Public Schools"
+  ],
+  "sponsors": [
+   "Young"
+  ],
+  "introduced": "2026-02-12",
+  "latest_action_date": "2026-02-12",
+  "latest_action": "Hearing 3/05 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB1255/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1255?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/7cb76067-9c34-41d7-8669-66fc3cf6af02",
   "level": "state",
   "jurisdiction": "Hawaii",
@@ -10387,7 +10842,20 @@
   "title": "Internet Gaming and Online Bingo - Authorization and Implementation",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Age of Majority",
+   "Applicants and Applications",
+   "Appropriations",
+   "Attorney General",
+   "Awards, Medals, and Prizes",
+   "Bingo",
+   "Boundaries",
+   "Budgets",
+   "Certifications",
+   "Civil Rights and Social Equity",
+   "Collective Bargaining",
+   "Commerce and Business"
+  ],
   "sponsors": [
    "Watson"
   ],
@@ -10400,7 +10868,7 @@
   "url": "https://openstates.org/md/bills/2026/SB885/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0885?ys=2026RS",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10414,7 +10882,20 @@
   "title": "Gaming - Problem Gambling - Prevalence Study and Fund Revenue",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Awards, Medals, and Prizes",
+   "Gaming",
+   "Gaming and Gambling",
+   "Health, Department of",
+   "Medical Treatments",
+   "Mental and Behavioral Health",
+   "Mobile Devices",
+   "Public Health",
+   "Reports",
+   "Revenue and Taxes",
+   "Sports and Recreation",
+   "Studies"
+  ],
   "sponsors": [
    "Zucker"
   ],
@@ -10426,8 +10907,10 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/md/bills/2026/SB862/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0862?ys=2026RS",
-  "topics": [],
-  "updated": "2026-10-28",
+  "topics": [
+   "industry"
+  ],
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10468,7 +10951,20 @@
   "title": "Maryland Illegal Online Gambling Enforcement Act",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Advertising",
+   "Attorney General",
+   "Attorneys",
+   "Bingo",
+   "Certifications",
+   "Commerce and Business",
+   "Consumer Protection",
+   "Court Orders",
+   "Credit",
+   "Crimes and Punishments",
+   "Criminal Law - Procedures",
+   "Criminal Law - Substantive Crimes"
+  ],
   "sponsors": [
    "Waldstreicher",
    "West"
@@ -10482,9 +10978,10 @@
   "url": "https://openstates.org/md/bills/2026/SB652/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0652?ys=2026RS",
   "topics": [
-   "online-gambling"
+   "online-gambling",
+   "policy"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10778,7 +11275,20 @@
   "title": "Sports Wagering - Wagers on Historical Horse Races - Authorization",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Commerce and Business",
+   "Committees and Commissions",
+   "Comptroller",
+   "Data",
+   "Elections, State Board of",
+   "Electronic Funds Transfer",
+   "Gaming",
+   "Gaming and Gambling",
+   "Historical Matters",
+   "Horse Racing",
+   "Horses",
+   "Licenses"
+  ],
   "sponsors": [
    "Corderman",
    "Lewis Young"
@@ -10794,7 +11304,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10808,7 +11318,15 @@
   "title": "Video Lottery Operations - Prohibitions on Campaign Contributions - Parity Act",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Campaign Financing",
+   "Commerce and Business",
+   "Elections",
+   "Gaming",
+   "Gaming and Gambling",
+   "Lottery",
+   "Video"
+  ],
   "sponsors": [
    "Watson"
   ],
@@ -10820,8 +11338,10 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/md/bills/2026/SB617/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0617?ys=2026RS",
-  "topics": [],
-  "updated": "2026-10-28",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10835,7 +11355,20 @@
   "title": "Video Lottery Terminals - Distribution of Local Impact Grants - Allocation for Fair Hill Purses",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Cecil County",
+   "Commerce and Business",
+   "Gaming",
+   "Gaming and Gambling",
+   "Grants",
+   "Horse Racing",
+   "Horses",
+   "Lottery",
+   "Natural Resources",
+   "Racing",
+   "Revenue and Taxes",
+   "Video"
+  ],
   "sponsors": [
    "Hornberger"
   ],
@@ -10847,8 +11380,10 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/md/bills/2026/HB887/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0887?ys=2026RS",
-  "topics": [],
-  "updated": "2026-10-28",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -10862,7 +11397,18 @@
   "title": "Problem Gambling - Authorized Uses of Funds - Alterations",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Federal Aid",
+   "Gaming",
+   "Gaming and Gambling",
+   "Grants",
+   "Health, Department of",
+   "Medical Treatments",
+   "Mental and Behavioral Health",
+   "Public Health",
+   "Reimbursements",
+   "Revenue and Taxes"
+  ],
   "sponsors": [
    "Hornberger",
    "Bouchat",
@@ -10880,7 +11426,7 @@
   "url": "https://openstates.org/md/bills/2026/HB758/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0758?ys=2026RS",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -11125,6 +11671,42 @@
   ],
   "updated": "2026-03-17",
   "first_seen": "2026-01-08",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/17cf73f2-5dd7-4877-873d-5beb77132586",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "HB 51",
+  "title": "Strategic Digital Asset Reserve Act of Maryland",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Criminal Law - Procedures",
+   "Cryptocurrency",
+   "Gaming and Gambling",
+   "Information Technology",
+   "Interest",
+   "Operating Budget",
+   "Revenue and Taxes",
+   "Treasurers"
+  ],
+  "sponsors": [
+   "Taveras"
+  ],
+  "introduced": "2025-10-15",
+  "latest_action_date": "2026-02-03",
+  "latest_action": "Hearing 2/03 at 1:30 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/HB51/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0051?ys=2026RS",
+  "topics": [],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -11600,7 +12182,20 @@
   "title": "State Lottery - Courier Services - Licensure",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Addresses",
+   "Agents and Brokers",
+   "Awards, Medals, and Prizes",
+   "Contracts",
+   "Cybersecurity",
+   "Delivery Services",
+   "Disclosure",
+   "Electronic Commerce",
+   "Fees",
+   "Gaming",
+   "Gaming and Gambling",
+   "Information Technology"
+  ],
   "sponsors": [
    "Ebersole"
   ],
@@ -11613,7 +12208,7 @@
   "url": "https://openstates.org/md/bills/2026/HB371/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0371?ys=2026RS",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -11779,6 +12374,48 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/aea2af0a-d030-4d15-8d22-20b3ec902dd6",
+  "level": "state",
+  "jurisdiction": "Maryland",
+  "jurisdiction_code": "md",
+  "session": "2026",
+  "identifier": "SB 112",
+  "title": "Gaming - Prohibition on Interactive Games and Revenue From Illegal Markets",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Applicants and Applications",
+   "Crimes and Punishments",
+   "Criminal Law - Substantive Crimes",
+   "Disclosure",
+   "Gaming",
+   "Gaming and Gambling",
+   "Hearings",
+   "International Affairs",
+   "Internet",
+   "Licenses",
+   "Lottery and Gaming Control Agency, State",
+   "Mobile Devices"
+  ],
+  "sponsors": [
+   "Chair, Budget and Taxation Committee"
+  ],
+  "introduced": "2025-09-16",
+  "latest_action_date": "2026-01-19",
+  "latest_action": "Hearing 1/28 at 1:00 p.m.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/md/bills/2026/SB112/",
+  "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0112?ys=2026RS",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/23d57d88-6aba-4d17-8703-abb56aafb0ba",
   "level": "state",
   "jurisdiction": "West Virginia",
@@ -11820,7 +12457,15 @@
   "title": "Sports Wagering Proceeds - Promotional Play Exclusion - Limitation",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Committees and Commissions",
+   "Gaming",
+   "Gaming and Gambling",
+   "Internet",
+   "Licenses",
+   "Rules and Regulations",
+   "Sports and Recreation"
+  ],
   "sponsors": [
    "Chair, Ways and Means Committee"
   ],
@@ -11835,7 +12480,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -11849,7 +12494,15 @@
   "title": "Sports Wagering Proceeds - Promotional Play Exclusion - Limitation",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Committees and Commissions",
+   "Gaming",
+   "Gaming and Gambling",
+   "Internet",
+   "Licenses",
+   "Rules and Regulations",
+   "Sports and Recreation"
+  ],
   "sponsors": [
    "Chair, Budget and Taxation Committee"
   ],
@@ -11864,7 +12517,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2025-09-16",
   "stage_changed": null
  },
@@ -11878,7 +12531,13 @@
   "title": "Video Lottery Operations - Prohibitions on Campaign Contributions - Parity Act",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Campaign Financing",
+   "Elections",
+   "Gaming",
+   "Gaming and Gambling",
+   "Licenses"
+  ],
   "sponsors": [
    "Cardin"
   ],
@@ -11891,7 +12550,7 @@
   "url": "https://openstates.org/md/bills/2026/HB75/",
   "source_url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0075?ys=2026RS",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "first_seen": "2026-10-29",
   "stage_changed": null
  },
@@ -13543,7 +14202,9 @@
   "abstract": "",
   "classification": "bill",
   "subjects": [],
-  "sponsors": [],
+  "sponsors": [
+   "Fred Doucette"
+  ],
   "introduced": "2025-01-22",
   "latest_action_date": "2026-01-07",
   "latest_action": "Inexpedient to Legislate: MA VV 01/07/2026 HJ 1 P. 80",
@@ -13551,13 +14212,9 @@
   "stage": "failed",
   "stage_label": "failed or withdrawn",
   "url": "https://openstates.org/nh/bills/2026/HB728/",
-  "source_url": "https://gc.nh.gov/bill_Status/advanced.aspx",
-  "topics": [
-   "lottery",
-   "casino",
-   "policy"
-  ],
-  "updated": "2026-10-14",
+  "source_url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=727&inflect=2",
+  "topics": [],
+  "updated": "2026-10-31",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -14771,6 +15428,48 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/0050edca-cd55-4d7a-9c9f-cafbd15fae1b",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 125",
+  "title": "Continuing Budget Operations.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ACCOUNTING; AGRICULTURAL INSPECTION; AGRICULTURE; AGRICULTURE DEPT.; ANIMALS; AOC; APPOINTMENTS; APPROPRIATIONS; ARMED FORCES; ARTS; ATTORNEYS; AUDITING & AUDITS; BIOTECHNOLOGY; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDING CODES; BUILDINGS; CAPITAL SPENDING; CIVIL PROCEDURE; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMISSIONS; COMMITTEES; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; COMMUNITY DEVELOPMENT; CONTROLLED SUBSTANCES; COST-OF-LIVING; COUNCIL OF STATE; COUNTIES; COURTS; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DATA & RECORDS SYSTEMS; DEQ; DHHS; DISASTERS & EMERGENCIES; DMV; ECONOMIC DEVELOPMENT; EDUCATION; ELECTIONS; ELECTIONS",
+   "HEALTH; INSURANCE",
+   "PROPERTY; INTERNET; JUDGMENTS & SETTLEMENTS; JUDICIAL DEPT.; LAW ENFORCEMENT; LICENSES & PERMITS; LICENSING & CERTIFICATION; LIVESTOCK & POULTRY; LOTTERY; MANAGED CARE; MANUFACTURED HOUSING BOARD; MANUFACTURING; MEDICAID; MENTAL HEALTH; MINORITIES; MOTOR VEHICLES; OCCUPATIONAL TESTING; OCCUPATIONS; OFFICE AUTOMATION; PERSONNEL; PHARMACEUTICALS; PHARMACISTS & PHARMACIES; PHYSICIANS; PILOT PROGRAMS; PORTS & HARBORS; POVERTY; PRESENTED; PRESIDENT PRO TEMPORE; PRODUCE; PROFESSIONAL EDUCATION; PROPERTY; PUBLIC; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; RATIFIED; RELIGION & RELIGIOUS INSTITUTIONS; REPORTING; REVENUE DEPT.; ROADS & HIGHWAYS; RURAL DEVELOPMENT; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SCHOOL OF SCIENCE & MATH BOARD; SECONDARY EDUCATION; SESSION LAWS; SOCIAL SERVICES; SPEAKER; STATE AUDITOR; STATE BUILDINGS; STATE CONTROLLER; STATE EMPLOYEES; STATE SYMBOLS; STATE TREASURER; TAXATION; TESTING; TITLE CHANGE; TITLES; TRANSPORTATION; TRANSPORTATION DEPT.; TUITION; UNC; UNC BOARD OF GOVERNORS; UTILITIES; VETERANS; WATER & SEWER SYSTEMS; LOTTERY COMN.; LOTTERY FUND; WAKE COUNTY; WILSON COUNTY; RECORDS; HIGHWAY FUND; JONES COUNTY; MILITARY AFFAIRS COMN.; CHAPTERED; LUMBER RIVER; ECONOMIC INVESTMENT COMM.; INDIGENT DEFENSE SERVICES OFFICE; MANUFACTURED HOMES; ELECTRONIC GOVERNMENT; SCHOLARSHIPS & FINANCIAL AID; BOATS & WATERCRAFT; PUBLIC BUILDINGS; CIVIL ACTIONS; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; CASH CROPS; PUBLIC SAFETY DEPT.; ABANDONED PROPERTY; MILITARY AFFAIRS DEPT.; CONTINUING CARE FACILITIES; STATE FIRE MARSHAL; UNC SYSTEM OFFICE; SCHOOL OF SCIENCE & MATH; SCHOOL OF THE ARTS; SCHOOL OF THE ARTS BOARD; SEMIQUINCENTENNIAL COMM.",
+   "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMERGING TECHNOLOGIES; EMPLOYMENT; ENVIRONMENT; ENVIRONMENTAL HEALTH; ENVIRONMENTAL MANAGEMENT COMN.; ESCHEATS; FEES; FINANCIAL INSTITUTIONS; FINANCIAL SERVICES; FOODS & BEVERAGES; FUNDING; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GRANTS; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOME INSPECTOR BOARD; HOUSING; INDIGENTS; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSPECTIONS; INSURANCE; INSURANCE"
+  ],
+  "sponsors": [
+   "Lambeth",
+   "Paré",
+   "K. Hall",
+   "White"
+  ],
+  "introduced": "2025-02-13",
+  "latest_action_date": "2025-08-06",
+  "latest_action": "Signed by Gov. 8/6/2025",
+  "latest_passage_date": "2025-06-24",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/nc/bills/2025/HB125/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H125",
+  "topics": [
+   "lottery",
+   "policy",
+   "comorbidity",
+   "equity",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
   "id": "us-119-s-2564",
   "level": "federal",
   "jurisdiction": "United States",
@@ -15017,6 +15716,42 @@
   ],
   "updated": "2026-10-17",
   "first_seen": "2025-04-08",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/de1e64d4-6611-4bed-a360-fb9a2867d076",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 402",
+  "title": "Allow Lottery Winners To Be Confidential.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "COMMERCE; COMMISSIONS; CONFIDENTIALITY; CONSUMER PROTECTION; GAMING; LOTTERY; PRIVACY; PUBLIC; PUBLIC RECORDS; REVENUE DEPT.; TAXATION; LOTTERY COMN.; RECORDS"
+  ],
+  "sponsors": [
+   "Hise",
+   "Applewhite",
+   "Lowe",
+   "McInnis",
+   "Moffitt",
+   "Mohammed"
+  ],
+  "introduced": "2025-03-24",
+  "latest_action_date": "2025-06-24",
+  "latest_action": "Reptd Fav",
+  "latest_passage_date": "2025-05-01",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/nc/bills/2025/SB402/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S402",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-10-30",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -15306,6 +16041,36 @@
   ],
   "updated": "2026-10-17",
   "first_seen": "2025-02-20",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c5c3ce56-7cbb-49fd-9639-4b34a43f0349",
+  "level": "state",
+  "jurisdiction": "Nebraska",
+  "jurisdiction_code": "ne",
+  "session": "109",
+  "identifier": "LB 415",
+  "title": "Change provisions of the Nebraska Healthy Families and Workplaces Act and the Conveyance Safety Act and provide for offset of debt owed due to the overpayment of unemployment benefits under the Employment Security Law against gambling winnings under the Gambling Winnings Setoff for Outstanding Debt Act and against future benefits under the Employment Security Law",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Ballard"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-06-06",
+  "latest_action": "Approved by Governor on June 4, 2025",
+  "latest_passage_date": "2025-05-28",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ne/bills/109/LB415/",
+  "source_url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+  "topics": [
+   "financial-harm",
+   "industry"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
@@ -16280,7 +17045,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "first_seen": "2025-05-13",
   "stage_changed": null
  },
@@ -18300,6 +19065,33 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2025-03-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/090a315e-cfc7-4a44-bae9-4c4657db519d",
+  "level": "state",
+  "jurisdiction": "Nebraska",
+  "jurisdiction_code": "ne",
+  "session": "109",
+  "identifier": "LB 357",
+  "title": "Change provisions relating to the State Racing and Gaming Commission, the Nebraska Racetrack Gaming Act, racetrack enclosures, and racing and gaming funds",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "General Affairs Committee"
+  ],
+  "introduced": "2025-01-16",
+  "latest_action_date": "2025-03-12",
+  "latest_action": "Approved by Governor on March 11, 2025",
+  "latest_passage_date": "2025-03-06",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ne/bills/109/LB357/",
+  "source_url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+  "topics": [],
+  "updated": "2026-10-31",
+  "first_seen": "2026-10-31",
   "stage_changed": null
  },
  {
