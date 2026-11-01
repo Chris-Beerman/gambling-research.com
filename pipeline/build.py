@@ -4,6 +4,7 @@
 """
 from __future__ import annotations
 
+import csv
 import datetime as dt
 import json
 import re
@@ -136,6 +137,67 @@ def fold(text: str) -> str:
 
 def setting_names(codes: list[str]) -> list[str]:
     return [countries.COUNTRY_NAMES.get(c, c) for c in codes or []]
+
+
+# ---------------------------------------------------------------- csv exports
+# The published CSV columns. These are a contract: the /data/ page documents
+# them field by field, so add to the end of a list rather than reordering, and
+# change a name only alongside that page. List-valued fields are joined with
+# "; " so a cell stays readable in a spreadsheet.
+CSV_COLUMNS = {
+    "papers": [
+        "id", "doi", "pmid", "pmcid", "openalex", "title", "journal", "authors",
+        "published", "year", "first_seen", "type", "topics", "designs",
+        "design_basis", "settings", "setting_regions", "countries", "regions",
+        "language", "relevance", "retracted", "url", "oa_url", "sources", "summary",
+    ],
+    "news": [
+        "id", "title", "source", "feed_id", "kind", "published", "first_seen",
+        "categories", "primary", "url", "summary",
+    ],
+    "trials": [
+        "id", "registry", "registry_label", "kind", "title", "status",
+        "study_type", "phases", "enrollment", "conditions", "interventions",
+        "sponsor", "sponsor_class", "countries", "regions", "start_date",
+        "completion_date", "first_posted", "last_updated", "results_posted",
+        "registration_type", "url", "summary",
+    ],
+    "bills": [
+        "id", "level", "jurisdiction", "jurisdiction_code", "session",
+        "identifier", "title", "classification", "subjects", "sponsors",
+        "introduced", "latest_action_date", "latest_action",
+        "latest_passage_date", "stage", "stage_label", "topics", "first_seen",
+        "url", "source_url", "abstract",
+    ],
+    "cases": [
+        "id", "kind", "case_name", "court", "court_id", "court_citation",
+        "court_level", "court_level_label", "date_filed", "date_terminated",
+        "latest_activity", "docket_number", "citation", "status", "suit_nature",
+        "cite_count", "topics", "first_seen", "url", "snippet",
+    ],
+}
+
+
+def csv_cell(value) -> str:
+    """One record field as a spreadsheet cell."""
+    if value is None:
+        return ""
+    if isinstance(value, bool):
+        return "true" if value else "false"
+    if isinstance(value, (list, tuple)):
+        return "; ".join(csv_cell(v) for v in value if v not in (None, ""))
+    return str(value).replace("\r", " ").replace("\n", " ").strip()
+
+
+def write_csv(path: Path, rows: list[dict], columns: list[str]) -> int:
+    """Write rows to path with the given columns. Returns the row count."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.writer(fh, quoting=csv.QUOTE_MINIMAL)
+        writer.writerow(columns)
+        for row in rows:
+            writer.writerow([csv_cell(row.get(c)) for c in columns])
+    return len(rows)
 
 
 # ---------------------------------------------------------------- build
@@ -389,6 +451,17 @@ class Builder:
             if src.exists():
                 (SITE_DIR / "data" / name).parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy(src, SITE_DIR / "data" / name)
+        # CSV copies, for anyone who opens data in a spreadsheet rather than code.
+        # papers.csv carries only the main index; the borderline records are a
+        # separate file so an analyst does not have to know about the filter.
+        self.csv_counts = {
+            "papers": write_csv(SITE_DIR / "data" / "papers.csv", self.papers(None), CSV_COLUMNS["papers"]),
+            "papers-borderline": write_csv(SITE_DIR / "data" / "papers-borderline.csv", self.papers(None, relevance="low"), CSV_COLUMNS["papers"]),
+            "news": write_csv(SITE_DIR / "data" / "news.csv", self.news_all, CSV_COLUMNS["news"]),
+            "trials": write_csv(SITE_DIR / "data" / "trials.csv", self.trials_all, CSV_COLUMNS["trials"]),
+            "bills": write_csv(SITE_DIR / "data" / "bills.csv", self.bills_all, CSV_COLUMNS["bills"]),
+            "cases": write_csv(SITE_DIR / "data" / "cases.csv", self.cases_all, CSV_COLUMNS["cases"]),
+        }
 
         window = self.site.get("index_window_days", 90)
         recent = self.papers(window)

@@ -87,7 +87,7 @@
 
     <section class="rail-block">
       <h2 class="rail-title">About this index</h2>
-      <p>Tracks new peer-reviewed studies and preprints on gambling, betting, lotteries, loot boxes and prediction markets across PubMed, OpenAlex, Crossref and the journals' own feeds, collected nightly{% if coverage_from %} and searchable back to {{ coverage_from|fmt_date('month') }}{% endif %}, and tagged by topic, study design and setting. Edited by {{ site.editor.name }}, {{ site.editor.credentials }}. Independent of the gambling industry. <a href="/about/">More</a></p>
+      <p>Tracks new peer-reviewed studies and preprints on gambling, betting, lotteries, loot boxes and prediction markets across PubMed, OpenAlex, Crossref and the journals' own feeds, collected nightly{% if coverage_from %} and searchable back to {{ coverage_from|fmt_date('month') }}{% endif %}, and tagged by topic, study design and setting. It does not cover work published before {{ coverage_from[:4] if coverage_from else '2022' }}, gaming disorder in the video-game sense, decision science that uses gambling tasks only as a method, or industry market reports. Edited by {{ site.editor.name }}, {{ site.editor.credentials }}. Independent of the gambling industry. <a href="/about/">More</a> &middot; <a href="/data/">Download the data</a></p>
     </section>
   </aside>
 </div>

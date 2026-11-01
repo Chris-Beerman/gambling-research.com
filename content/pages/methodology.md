@@ -90,4 +90,4 @@ Write to <editor@gambling-research.com> or open an issue in the [repository](htt
 
 ## Data and code
 
-The whole index is published at [/data/papers.json](/data/papers.json) (where `settings` holds the study's countries and `countries` its authors'), [/data/news.json](/data/news.json), [/data/trials.json](/data/trials.json), [/data/bills.json](/data/bills.json) and [/data/cases.json](/data/cases.json) under CC0. The code is MIT-licensed. Anyone can run it for another field by changing the configuration files.
+The whole index downloads as JSON or CSV under CC0 from the [index data page](/data/), which documents every field, gives the citation, and sets out the limits worth knowing before you analyse any of it — above all that `settings` holds where a study was done and `countries` where its authors work, and that an empty `designs` means not recorded rather than none. The code is MIT-licensed. Anyone can run it for another field by changing the configuration files.
