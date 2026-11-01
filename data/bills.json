@@ -83,7 +83,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-10-31",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -4644,6 +4644,46 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/2e4f2f08-6a67-452a-8f3c-3cb156595557",
+  "level": "state",
+  "jurisdiction": "Iowa",
+  "jurisdiction_code": "ia",
+  "session": "2025-2026",
+  "identifier": "SF 2481",
+  "title": "A bill for an act relating to and making appropriations to the justice system.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "appropriations",
+   "attorney general",
+   "consumer advocate (utilities)",
+   "correctional facilities",
+   "correctional services departments",
+   "correctional systems",
+   "corrections department",
+   "gambling",
+   "grants",
+   "homeland security and emergency management department",
+   "inspections, appeals, and licensing department",
+   "iowa prison industries"
+  ],
+  "sponsors": [
+   "COMMITTEE ON APPROPRIATIONS"
+  ],
+  "introduced": "2026-04-09",
+  "latest_action_date": "2026-05-02",
+  "latest_action": "Withdrawn.",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ia/bills/2025-2026/SF2481/",
+  "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 2481&ga=91",
+  "topics": [],
+  "updated": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "stage_changed": null
+ },
+ {
   "id": "us-119-sres-708",
   "level": "federal",
   "jurisdiction": "United States",
@@ -5682,11 +5722,9 @@
   "url": "https://openstates.org/or/bills/2026R1/SB5701/",
   "source_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5701",
   "topics": [
-   "lottery",
-   "youth",
-   "financial-harm"
+   "lottery"
   ],
-  "updated": "2026-08-25",
+  "updated": "2026-10-31",
   "first_seen": "2026-02-09",
   "stage_changed": null
  },
@@ -5710,12 +5748,8 @@
   "stage_label": "enacted",
   "url": "https://openstates.org/or/bills/2026R1/SB1601/",
   "source_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1601",
-  "topics": [
-   "lottery",
-   "policy",
-   "industry"
-  ],
-  "updated": "2026-08-25",
+  "topics": [],
+  "updated": "2026-10-31",
   "first_seen": "2026-02-09",
   "stage_changed": null
  },
@@ -7628,6 +7662,42 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/bcab7021-e312-4204-a699-3a3ddb5685b8",
+  "level": "state",
+  "jurisdiction": "Mississippi",
+  "jurisdiction_code": "ms",
+  "session": "2026",
+  "identifier": "SB 3094",
+  "title": "Appropriation; Gaming Commission.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Appropriations",
+   "Appropriations A",
+   "Appropriations B"
+  ],
+  "sponsors": [
+   "Hopson",
+   "DeBar",
+   "Williams",
+   "DeLano",
+   "Seymour",
+   "Simmons (13th)"
+  ],
+  "introduced": "2026-02-17",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "Approved by Governor",
+  "latest_passage_date": "2026-03-12",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ms/bills/2026/SB3094/",
+  "source_url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3000-3099/SB3094SG.pdf",
+  "topics": [],
+  "updated": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/0c1d069f-bd43-4fef-8371-9c12395ba2df",
   "level": "state",
   "jurisdiction": "Maryland",
@@ -8356,6 +8426,39 @@
   "congress": 119,
   "bill_type": "s",
   "number": 4115
+ },
+ {
+  "id": "ocd-bill/5586a0c6-be79-4c99-ac94-89a8d5cb7a04",
+  "level": "state",
+  "jurisdiction": "Mississippi",
+  "jurisdiction_code": "ms",
+  "session": "2026",
+  "identifier": "HB 4074",
+  "title": "Mississippi Mobile Sports Wagering Act; create.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Finance",
+   "Gaming",
+   "Ways and Means"
+  ],
+  "sponsors": [
+   "Eure"
+  ],
+  "introduced": "2026-02-24",
+  "latest_action_date": "2026-03-17",
+  "latest_action": "Died In Committee",
+  "latest_passage_date": "2026-02-25",
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ms/bills/2026/HB4074/",
+  "source_url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4074PS.pdf",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "stage_changed": null
  },
  {
   "id": "ocd-bill/f802da4c-86f5-4e0e-b946-cde23f96e502",
@@ -9547,16 +9650,17 @@
   "latest_action_date": "2026-03-03",
   "latest_action": "Died In Committee",
   "latest_passage_date": "2026-02-04",
-  "stage": "passed-one",
-  "stage_label": "passed one chamber",
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
   "url": "https://openstates.org/ms/bills/2026/HB1581/",
   "source_url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1581PS.pdf",
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-03-17",
+  "updated": "2026-10-31",
   "first_seen": "2026-01-19",
-  "stage_changed": null
+  "stage_changed": "2026-11-01",
+  "previous_stage": "passed-one"
  },
  {
   "id": "ocd-bill/4143c551-96a6-4fc5-9b45-52fecef5f2fd",
@@ -15046,13 +15150,11 @@
   "stage": "passed-both",
   "stage_label": "passed both chambers",
   "url": "https://openstates.org/pa/bills/2025-2026/SB731/",
-  "source_url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=1&rollcallid=152&sessYr=2025&sessInd=0",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/sb731",
   "topics": [
-   "lottery",
-   "policy",
    "older-adults"
   ],
-  "updated": "2026-10-18",
+  "updated": "2026-11-01",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -15563,7 +15665,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-10-31",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },
@@ -15632,11 +15734,9 @@
   "url": "https://openstates.org/ia/bills/2025-2026/SF660/",
   "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 660&ga=91",
   "topics": [
-   "sports-betting",
-   "policy",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-09-02",
+  "updated": "2026-10-31",
   "first_seen": "2025-05-14",
   "stage_changed": null
  },
@@ -15676,11 +15776,9 @@
   "url": "https://openstates.org/ia/bills/2025-2026/SF659/",
   "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 659&ga=91",
   "topics": [
-   "youth",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-09-02",
+  "updated": "2026-10-31",
   "first_seen": "2025-05-14",
   "stage_changed": null
  },
@@ -15995,13 +16093,11 @@
   "stage": "passed-one",
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/pa/bills/2025-2026/HB1072/",
-  "source_url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=16&rollcallid=296&sessYr=2025&sessInd=0",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/hb1072",
   "topics": [
-   "lottery",
-   "policy",
-   "older-adults"
+   "lottery"
   ],
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "first_seen": "2025-04-03",
   "stage_changed": null
  },
@@ -16966,12 +17062,9 @@
   "source_url": "https://www.palegis.us/legislation/bills/2025/hr60",
   "topics": [
    "sports-betting",
-   "advertising",
-   "policy",
-   "financial-harm",
-   "industry"
+   "online-gambling"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-10-31",
   "first_seen": "2025-02-05",
   "stage_changed": null
  },
@@ -17050,6 +17143,48 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/760c0537-2f07-4eb8-9ded-c61a2791cd50",
+  "level": "state",
+  "jurisdiction": "Iowa",
+  "jurisdiction_code": "ia",
+  "session": "2025-2026",
+  "identifier": "SF 627",
+  "title": "A bill for an act authorizing length of service award programs for volunteer fire fighters, volunteer emergency medical care providers, and reserve peace officers, and making appropriations.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "appropriations",
+   "city government",
+   "emergency medical care",
+   "fire departments",
+   "fiscal year",
+   "grants",
+   "internal revenue code",
+   "law enforcement officers",
+   "public employees",
+   "receipts",
+   "revenue department",
+   "sports wagering"
+  ],
+  "sponsors": [
+   "COMMITTEE ON APPROPRIATIONS"
+  ],
+  "introduced": "2025-04-16",
+  "latest_action_date": "2025-05-14",
+  "latest_action": "Withdrawn.",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ia/bills/2025-2026/SF627/",
+  "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 627&ga=91",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/e66a2a78-6df0-4dba-a103-c2e987805fd8",
   "level": "state",
   "jurisdiction": "Iowa",
@@ -17079,7 +17214,7 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-08-15",
+  "updated": "2026-10-31",
   "first_seen": "2025-05-07",
   "stage_changed": null
  },
@@ -17546,10 +17681,9 @@
   "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 625&ga=91",
   "topics": [
    "sports-betting",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-09-02",
+  "updated": "2026-10-31",
   "first_seen": "2025-04-16",
   "stage_changed": null
  },
@@ -18119,10 +18253,9 @@
   "url": "https://openstates.org/ia/bills/2025-2026/HF260/",
   "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 260&ga=91",
   "topics": [
-   "lottery",
-   "industry"
+   "lottery"
   ],
-  "updated": "2026-09-02",
+  "updated": "2026-10-31",
   "first_seen": "2025-02-06",
   "stage_changed": null
  },
@@ -20313,6 +20446,38 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2025-02-04",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/d5f9936b-833a-4d83-84e9-6864d32628dd",
+  "level": "state",
+  "jurisdiction": "Iowa",
+  "jurisdiction_code": "ia",
+  "session": "2025-2026",
+  "identifier": "HF 144",
+  "title": "A bill for an act concerning the licensing and regulation of gambling games, including a moratorium on the issuance of new licenses, and including effective date and retroactive applicability provisions.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "gambling",
+   "moratoriums"
+  ],
+  "sponsors": [
+   "COMMITTEE ON WAYS AND MEANS"
+  ],
+  "introduced": "2025-01-27",
+  "latest_action_date": "2025-02-04",
+  "latest_action": "Subcommittee recommends passage.",
+  "latest_passage_date": "2025-01-30",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/ia/bills/2025-2026/HF144/",
+  "source_url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 144&ga=91",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-10-31",
+  "first_seen": "2026-11-01",
   "stage_changed": null
  },
  {

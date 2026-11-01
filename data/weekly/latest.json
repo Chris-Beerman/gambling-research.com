@@ -1,33 +1,36 @@
 {
- "generated": "2026-10-31",
+ "generated": "2026-11-01",
  "window": {
-  "from": "2026-10-24",
-  "to": "2026-10-31"
+  "from": "2026-10-25",
+  "to": "2026-11-01"
  },
- "new_studies": 38,
+ "new_studies": 41,
  "candidates": [
   {
-   "id": "doi:10.1007/s10899-026-10558-4",
-   "title": "Payment Preferences and Related Sports Betting Behavior: A Secondary Analysis of Player Data from an Online Sports Gambling Operator",
-   "journal": "Journal of Gambling Studies",
+   "id": "doi:10.1007/s11469-026-01756-7",
+   "title": "Gambling-Related Knowledge: A Systematic Review and Clinical Implications",
+   "journal": "International Journal of Mental Health and Addiction",
    "authors": [
-    "Kahlil Simeon-Rose",
-    "Matthew A Tom",
-    "Timothy C Edson",
-    "Eric R Louderback",
-    "Sarah E Nelson"
+    "Alexander J. Connolly",
+    "Lindsay M. Stall",
+    "Taylor Mick-Keck",
+    "Alexander Montoya",
+    "Jaxon Scowden",
+    "London Campbell",
+    "Hilaria Barragan",
+    "Brooke Kopatz",
+    "Joshua Briggs Grubbs"
    ],
-   "published": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "summary": "This study investigated the relationship between payment methods and sports betting behavior using transactional data from a European online sports gambling operator …",
-   "url": "https://doi.org/10.1007/s10899-026-10558-4",
+   "published": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "summary": "Gambling-related knowledge is often considered central to gambling behavior, particularly in forms of gambling perceived as skill-based. However, gambling knowledge has been inconsistently defined and measured across studies …",
+   "url": "https://doi.org/10.1007/s11469-026-01756-7",
    "oa_url": null,
    "topics": [
-    "sports-betting",
-    "industry"
+    "youth"
    ],
    "designs": [
-    "behavioral-data"
+    "review"
    ],
    "regions": [
     "us"
@@ -35,39 +38,28 @@
    "score": 6,
    "why": [
     "core journal",
-    "longitudinal or behavioral data",
-    "US",
-    "priority topic"
+    "review",
+    "US"
    ]
   },
   {
-   "id": "doi:10.1007/s10899-026-10563-7",
-   "title": "Sex Differences in the Association Between Child Sexual Abuse and Machine-Based Gambling: Findings from a National Survey",
-   "journal": "Journal of Gambling Studies",
+   "id": "doi:10.1177/25725300261503803",
+   "title": "CONSTITUTIONAL FOUNDATIONS of AMERICAN GAMBLING LAW",
+   "journal": "Gaming Law Review",
    "authors": [
-    "Yousuke Imanishi",
-    "Maria Iorini",
-    "Sinchul Jwa",
-    "Ichiro Wada",
-    "Takahiro Tabuchi",
-    "Mai Uchida"
+    "Robert M. Jarvis"
    ],
-   "published": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "summary": "This cross-sectional study examined the association between child sexual abuse (CSA) and machine-based gambling. Evidence on this association remains limited regarding sex differences. Data came from 27,699 adults aged 18 to 79 in the 2023 Japan COVID-19 and Society Internet Survey (JACSIS) …",
-   "url": "https://doi.org/10.1007/s10899-026-10563-7",
+   "published": "2026-10-25",
+   "first_seen": "2026-10-26",
+   "summary": "Gaming Law Review, Volume 30, Issue 10, Page 263-273, December 2026. This article argues that gambling litigation constitutes an overlooked but coherent body of jurisprudence that has significantly shaped the development of major constitutional doctrines.",
+   "url": "https://doi.org/10.1177/25725300261503803",
    "oa_url": null,
    "topics": [
-    "treatment",
-    "prevalence",
-    "comorbidity"
+    "policy"
    ],
-   "designs": [
-    "survey"
-   ],
+   "designs": [],
    "regions": [
-    "us",
-    "asia"
+    "us"
    ],
    "score": 5,
    "why": [
@@ -147,39 +139,6 @@
    ]
   },
   {
-   "id": "doi:10.1007/s11469-026-01756-7",
-   "title": "Gambling-Related Knowledge: A Systematic Review and Clinical Implications",
-   "journal": "International Journal of Mental Health and Addiction",
-   "authors": [
-    "Alexander J. Connolly",
-    "Lindsay M. Stall",
-    "Taylor Mick-Keck",
-    "Alexander Montoya",
-    "Jaxon Scowden",
-    "London Campbell",
-    "Hilaria Barragan",
-    "Brooke Kopatz",
-    "Joshua Briggs Grubbs"
-   ],
-   "published": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "summary": "Gambling-related knowledge is often considered central to gambling behavior, particularly in forms of gambling perceived as skill-based. However, gambling knowledge has been inconsistently defined and measured across studies …",
-   "url": "https://doi.org/10.1007/s11469-026-01756-7",
-   "oa_url": null,
-   "topics": [
-    "youth"
-   ],
-   "designs": [
-    "review"
-   ],
-   "regions": [],
-   "score": 5,
-   "why": [
-    "core journal",
-    "review"
-   ]
-  },
-  {
    "id": "doi:10.1007/s10899-026-10572-6",
    "title": "Factors Associated with Treatment Dropout Among Individuals with Gambling Disorder: A Retrospective Cohort Study",
    "journal": "Journal of Gambling Studies",
@@ -213,26 +172,26 @@
    ]
   },
   {
-   "id": "doi:10.1177/25725300261503803",
-   "title": "CONSTITUTIONAL FOUNDATIONS of AMERICAN GAMBLING LAW",
-   "journal": "Gaming Law Review",
-   "authors": [
-    "Robert M. Jarvis"
-   ],
-   "published": "2026-10-25",
-   "first_seen": "2026-10-26",
-   "summary": "This article argues that gambling litigation constitutes an overlooked but coherent body of jurisprudence that has significantly shaped the development of major constitutional doctrines.",
-   "url": "https://doi.org/10.1177/25725300261503803",
+   "id": "title:8cb81ac038a10667",
+   "title": "A systematic review on cognitive distortions in gambling activities and gambling disorder",
+   "journal": "Addictive Behaviors",
+   "authors": [],
+   "published": null,
+   "first_seen": "2026-11-01",
+   "summary": "Publication date: Available online 30 October 2026 Source: Addictive Behaviors Author(s): Colleen Verwacht, Nellia Bellaert, Aurélien Cornil, Thomas Brihaye, Federico Cassioli, Mandy Rossignol",
+   "url": "https://www.sciencedirect.com/science/article/pii/S030646032600300X?dgcid=rss_sd_all",
    "oa_url": null,
-   "topics": [],
-   "designs": [],
-   "regions": [
-    "us"
+   "topics": [
+    "cognition"
    ],
-   "score": 4,
+   "designs": [
+    "review"
+   ],
+   "regions": [],
+   "score": 5,
    "why": [
     "core journal",
-    "US"
+    "review"
    ]
   },
   {
@@ -282,7 +241,9 @@
    "designs": [
     "survey"
    ],
-   "regions": [],
+   "regions": [
+    "uk-ireland"
+   ],
    "score": 4,
    "why": [
     "core journal",
@@ -321,31 +282,34 @@
    ]
   },
   {
-   "id": "doi:10.1007/s10899-026-10569-1",
-   "title": "Developing a Measure of the Double-Edged Health-Related Consequences of Lottery Participation (DEHC-LP) Among Chinese Lottery Participants and Examining Their Psychological Correlates: The Roles of Lottery Beliefs and Passion",
-   "journal": "Journal of Gambling Studies",
+   "id": "doi:10.38035/snlpr.v3i1.1248",
+   "title": "A Juridical Analysis of the Criminal Act of Web Defacement Involving Online Gambling via SEO Poisoning on Government Websites: A Review under the ITE Law and the Criminal Code",
+   "journal": "Siber Nusantara of Law and Politic Review",
    "authors": [
-    "Zheng Gan",
-    "Bin Wang",
-    "Yue Hu",
-    "Zhengyang Mei",
-    "Lian Liu"
+    "Achmad Yuliantoro",
+    "Edi Saputra Hasibuan",
+    "Diana Fitriana"
    ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "Lottery participation may be associated with both beneficial and detrimental consequences relevant to individuals' health, well-being, and daily functioning, reflecting a double-edged phenomenon. Understanding the psychological factors associated with these divergent consequences is important for promoting responsible lottery participation …",
-   "url": "https://doi.org/10.1007/s10899-026-10569-1",
-   "oa_url": null,
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "summary": "Rapid advancements in information technology and digital transformation have catalyzed complex modern cybercrimes, prominently Search Engine Optimization (SEO) Poisoning and Web Defacement targeting critical government and public sector infrastructure …",
+   "url": "https://doi.org/10.38035/snlpr.v3i1.1248",
+   "oa_url": "https://research.e-siber.org/SNLPR/article/download/1248/854",
    "topics": [
-    "lottery"
+    "online-gambling",
+    "policy"
    ],
-   "designs": [],
+   "designs": [
+    "review"
+   ],
    "regions": [
     "asia"
    ],
-   "score": 3,
+   "score": 4,
    "why": [
-    "core journal"
+    "review",
+    "free full text",
+    "priority topic"
    ]
   },
   {
@@ -414,18 +378,47 @@
    "first_seen": "2026-10-29",
    "summary": "Abstract This study examines the effects of the introduction of an exclusion program on the distribution of gambling machines between gambling halls and gastronomic establishments. We use the German federal state of Hesse as a case study. Hesse introduced an exclusion program in 2014 for gambling halls …",
    "url": "https://doi.org/10.1007/s11149-026-09528-w",
-   "oa_url": "https://doi.org/10.1007/s11149-026-09528-w",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11149-026-09528-w.pdf",
    "topics": [
     "self-exclusion"
    ],
    "designs": [
     "longitudinal"
    ],
-   "regions": [],
+   "regions": [
+    "europe"
+   ],
    "score": 3,
    "why": [
     "longitudinal or behavioral data",
     "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.54254/2754-1169/2026.38106",
+   "title": "The Relationship Between Powerball Jackpot Size and Lottery Sales in Texas: Evidence from 2022–2025 Data",
+   "journal": "Advances in Economics Management and Political Sciences",
+   "authors": [
+    "Yihan Dai"
+   ],
+   "published": "2026-10-27",
+   "first_seen": "2026-10-29",
+   "summary": "In recent years, Powerball jackpots have reached exceptionally high levels, attracting substantial public attention and raising questions about how jackpot size is related to lottery ticket sales. This study examines the relationship between large Powerball jackpots and ticket sales in Texas from 2022 to 2025 …",
+   "url": "https://doi.org/10.54254/2754-1169/2026.38106",
+   "oa_url": "https://aemps.ewapub.com/article/view/38106.pdf",
+   "topics": [
+    "lottery",
+    "advertising"
+   ],
+   "designs": [],
+   "regions": [
+    "us"
+   ],
+   "score": 3,
+   "why": [
+    "free full text",
+    "US",
     "priority topic"
    ]
   },
@@ -458,166 +451,58 @@
    ]
   },
   {
-   "id": "doi:10.55311/aiocsit.v7i2.437",
-   "title": "Detection of Online Gambling Promotional Comments on YouTube Using IndoBERT",
-   "journal": "Al adzkiya International of Computer Science and Information Technology (AIoCSIT) Journal",
+   "id": "doi:10.1111/soc4.70274",
+   "title": "Beyond the Individual: Rethinking Public Health Approaches to Gambling‐Related Harm",
+   "journal": "Sociology Compass",
    "authors": [
-    "Yonky Pernando",
-    "Raymond Erz Saragih",
-    "Agus Suwandi",
-    "Ilwan Syafrinal",
-    "Eka Lia",
-    "Marfuah Marfuah"
+    "Rowland Edet",
+    "Lisa A. Kort‐Butler"
    ],
-   "published": "2026-10-26",
-   "first_seen": "2026-10-24",
-   "summary": "Online gambling promotional comments on YouTube have become increasingly widespread and are difficult to detect with conventional moderation systems because they use informal language, varied spellings, and disguised keywords …",
-   "url": "https://doi.org/10.55311/aiocsit.v7i2.437",
-   "oa_url": "https://doi.org/10.55311/aiocsit.v7i2.437",
+   "published": "2026-10-29",
+   "first_seen": "2026-11-01",
+   "summary": "ABSTRACT Public health approaches to gambling‐related harm have increasingly shifted from individual pathology to population‐level frameworks. However, these approaches remain under strain, as they continue to individualize harm while attempting to address broader structural conditions …",
+   "url": "https://doi.org/10.1111/soc4.70274",
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/soc4.70274",
    "topics": [
-    "online-gambling",
-    "advertising"
+    "policy",
+    "lived-experience"
    ],
    "designs": [],
    "regions": [
-    "asia"
+    "us"
    ],
-   "score": 2,
+   "score": 3,
    "why": [
     "free full text",
+    "US",
     "priority topic"
    ]
   },
   {
-   "id": "doi:10.36131/cnfioritieditore20260501",
-   "title": "Gambling Involvement And Gambling-Related Problem Severity Among Psychiatric Outpatients And Community Participants",
-   "journal": "Clinical Neuropsychiatry",
+   "id": "doi:10.3389/frwa.2026.1923411",
+   "title": "On the ethics of utilizing prediction markets for forecasting hydrological catastrophe",
+   "journal": "Frontiers in Water",
    "authors": [
-    "Antonino Costanzo",
-    "Giuseppe Maniaci",
-    "Carmen Concerto",
-    "Antonio Bruno",
-    "Ugo Pace",
-    "Alessia Passanisi",
-    "Caterina La Cascia",
-    "Laura Ferraro",
-    "Simone Russo Coco",
-    "Rossana Geraci",
-    "Alessandro Rodolico",
-    "Antonio Trovato",
-    "Antonino Petralia",
-    "Maria Salvina Signorelli",
-    "William Torregrossa",
-    "Fabrizio Turiaco",
-    "Maria Rosaria Anna Muscatello",
-    "Adriano Schimmenti"
+    "Travis Loof",
+    "Jonathan Frame"
    ],
-   "published": "2026-10-31",
-   "first_seen": "2026-10-24",
-   "summary": "Gambling-related problems frequently co-occur with psychiatric conditions. This cross-sectional study examined past-year gambling involvement and gambling-related problem severity in psychiatric outpatients and community participants, with particular attention to the role of emotion dysregulation and impulsivity …",
-   "url": "https://doi.org/10.36131/cnfioritieditore20260501",
-   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684849/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "summary": "As peer-to-peer prediction markets increasingly allow real-money wagering on environmental events, public scientific agencies are being drawn into the role of financial “settlement oracles,” the designated sources of truth against which contracts resolve …",
+   "url": "https://doi.org/10.3389/frwa.2026.1923411",
+   "oa_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1923411/pdf",
    "topics": [
-    "policy",
-    "cognition",
-    "comorbidity"
-   ],
-   "designs": [
-    "survey"
-   ],
-   "regions": [
-    "europe"
-   ],
-   "score": 2,
-   "why": [
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1177/2631309x261501530",
-   "title": "Jackpot Justice: Predation, Profit, and State-Corporate Crime in Online Gambling",
-   "journal": "Journal of White Collar and Corporate Crime",
-   "authors": [
-    "Brian Pitman",
-    "Nicholas J. Membrez-Weiler",
-    "MacKenzie A. Kibler",
-    "Cedric Michel"
-   ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "Since the US Supreme Court ruled that the Professional and Amateur Sports Protection Act was unconstitutional in 2018, there has been a rapid increase in digital gambling …",
-   "url": "https://doi.org/10.1177/2631309x261501530",
-   "oa_url": null,
-   "topics": [
-    "sports-betting",
-    "online-gambling",
     "prediction-markets"
    ],
    "designs": [],
    "regions": [
     "us"
    ],
-   "score": 2,
-   "why": [
-    "US",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1002/adaw.35089",
-   "title": "Legalized online sports betting associated with increase in outpatient treatment for mental illness",
-   "journal": "Alcoholism & Drug Abuse Weekly",
-   "authors": [
-    "Alison Knopf"
-   ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "In 2018, there was one state with legalized online sports betting. Now there are 31. That increase is associated with an increase in treatment for mental illness, researchers have found. Gambling disorder (GD) is in the category of substance use disorder (SUD), but this study suggested that GD itself increases mental health problems.",
-   "url": "https://doi.org/10.1002/adaw.35089",
-   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adaw.35089",
-   "topics": [
-    "sports-betting",
-    "treatment",
-    "policy",
-    "comorbidity"
-   ],
-   "designs": [],
-   "regions": [],
-   "score": 2,
+   "score": 3,
    "why": [
     "free full text",
+    "US",
     "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1007/s10935-026-00957-z",
-   "title": "Preventing Gambling Among Adolescents: An Umbrella Review of School-Based Prevention Programmes",
-   "journal": "Journal of Prevention",
-   "authors": [
-    "V Cabrera-Perona",
-    "S Tirado González",
-    "D Lloret-Irles"
-   ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "In recent years, both land-based and online gambling have become increasingly normalised and socially accepted activities. Despite legal restrictions aimed at preventing underage access, evidence confirms concerning prevalence rates among adolescents …",
-   "url": "https://doi.org/10.1007/s10935-026-00957-z",
-   "oa_url": null,
-   "topics": [
-    "online-gambling",
-    "youth",
-    "prevention"
-   ],
-   "designs": [
-    "review"
-   ],
-   "regions": [
-    "europe"
-   ],
-   "score": 2,
-   "why": [
-    "review"
    ]
   },
   {
@@ -740,32 +625,6 @@
    ]
   },
   {
-   "id": "doi:10.54254/2754-1169/2026.38106",
-   "title": "The Relationship Between Powerball Jackpot Size and Lottery Sales in Texas: Evidence from 2022–2025 Data",
-   "journal": "Advances in Economics Management and Political Sciences",
-   "authors": [
-    "Yihan Dai"
-   ],
-   "published": "2026-10-27",
-   "first_seen": "2026-10-29",
-   "summary": "In recent years, Powerball jackpots have reached exceptionally high levels, attracting substantial public attention and raising questions about how jackpot size is related to lottery ticket sales. This study examines the relationship between large Powerball jackpots and ticket sales in Texas from 2022 to 2025 …",
-   "url": "https://doi.org/10.54254/2754-1169/2026.38106",
-   "oa_url": null,
-   "topics": [
-    "lottery",
-    "advertising"
-   ],
-   "designs": [],
-   "regions": [
-    "us"
-   ],
-   "score": 2,
-   "why": [
-    "US",
-    "priority topic"
-   ]
-  },
-  {
    "id": "doi:10.36232/ebl.v6i3.6550",
    "title": "Analysis of Sentencing Disparity in Online Gambling Offenses (A Study of Decisions Number 180/Pid.Sus/2024/PN Gto and Number 270/Pid.Sus/2024/PN Gto)",
    "journal": "Equality Before The Law",
@@ -778,7 +637,7 @@
    "first_seen": "2026-10-31",
    "summary": "The proliferation of online gambling promotion by personal social media account holders demands the consistent application of law, while judges' freedom in imposing sentences (judicial discretion) has the potential to create disparities that undermine public trust in the judiciary …",
    "url": "https://doi.org/10.36232/ebl.v6i3.6550",
-   "oa_url": "https://doi.org/10.36232/ebl.v6i3.6550",
+   "oa_url": "https://e-journal.unimudasorong.ac.id/index.php/Equalitybeforethelaw/article/download/6550/2437",
    "topics": [
     "online-gambling",
     "policy",
@@ -787,7 +646,39 @@
    "designs": [
     "qualitative"
    ],
-   "regions": [],
+   "regions": [
+    "asia"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1080/23750472.2026.2751118",
+   "title": "Betting-driven sport consumption among young adults: motivational dynamics and reconfiguration of sport engagement",
+   "journal": "Managing Sport and Leisure",
+   "authors": [
+    "Marcelo Moriconi",
+    "César de Cima"
+   ],
+   "published": "2026-10-29",
+   "first_seen": "2026-10-31",
+   "summary": "Research question: Sports betting has been promoted as a way of attracting and boosting younger audiences, although critics warn that it turns sport into a means to an end and can generate social harms. Evidence on this process is scarce …",
+   "url": "https://doi.org/10.1080/23750472.2026.2751118",
+   "oa_url": "https://hdl.handle.net/10071/38813",
+   "topics": [
+    "sports-betting",
+    "youth",
+    "equity"
+   ],
+   "designs": [
+    "qualitative"
+   ],
+   "regions": [
+    "europe"
+   ],
    "score": 2,
    "why": [
     "free full text",
@@ -806,7 +697,7 @@
    "first_seen": "2026-10-31",
    "summary": "Adolescence is a critical transitional period prone to deviant behavior. In the digital era, the form of juvenile delinquency has transformed from conventional to technology-based, one of which is the rampant phenomenon of online gambling among school students, as identified in MAN 3 Indramayu …",
    "url": "https://psycoeducation.my.id/index.php/i/article/view/125",
-   "oa_url": "https://psycoeducation.my.id/index.php/i/article/view/125",
+   "oa_url": "https://psycoeducation.my.id/index.php/i/article/download/125/88",
    "topics": [
     "online-gambling",
     "youth",
@@ -818,6 +709,52 @@
    ],
    "regions": [
     "asia"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1002/hpja.70270",
+   "title": "Unhealthy Digital Marketing Among Aboriginal People in Australia: Findings From the #DigitalMob Pilot Study",
+   "journal": "Health promotion journal of Australia",
+   "authors": [
+    "Jennifer Browne",
+    "Nichole Lister",
+    "Kathryn Backholer",
+    "Karen Hill",
+    "Alessandro Crocetti",
+    "Troy Walker",
+    "Sharon Atkinson-Briggs",
+    "Navoda Liyana Pathirana",
+    "Beau Cubillo",
+    "Florentine Martino",
+    "Simone Sherriff",
+    "Lee Yeomans",
+    "Fiona Mitchell",
+    "Stephanie Thow",
+    "Phuong Nguyen",
+    "Jaithri Ananthapavan",
+    "Steve Allender",
+    "Yin Paradies"
+   ],
+   "published": "2027-01-01",
+   "first_seen": "2026-10-31",
+   "summary": "Issue Addressed: This study aimed to quantify Aboriginal adults' exposure to digital marketing of unhealthy food and beverages, alcohol, gambling, tobacco and e-cigarettes; analyse demographic differences in marketing exposure; and describe the nature of digital marketing reaching Aboriginal audiences, including brands, platforms and marketing tactics …",
+   "url": "https://doi.org/10.1002/hpja.70270",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722572/",
+   "topics": [
+    "advertising",
+    "comorbidity",
+    "equity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [
+    "australia-nz"
    ],
    "score": 2,
    "why": [
@@ -856,55 +793,62 @@
    ]
   },
   {
-   "id": "doi:10.1002/adaw.35092",
-   "title": "Gambling helpline director sentenced to prison for past theft",
-   "journal": "Alcoholism & Drug Abuse Weekly",
+   "id": "doi:10.59934/jaiea.v6i1.3073",
+   "title": "Implementation of Deep Learning Using Long Short-Term Memory (LSTM) for a Web-Based Online Gambling Advertisement Detection System",
+   "journal": "Journal of Artificial Intelligence and Engineering Applications",
    "authors": [
-    "Alison Knopf"
+    "Timotius Selar Sitompul",
+    "Insan Taufik",
+    "Yulita Molliq Rangkuti",
+    "Kana Saputra",
+    "Suvriadi Panggabean"
    ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "A man whose gambling addiction led him to steal $1 million from his employer, then to make amends by running a gambling helpline, has nevertheless been sentenced to a decade in prison for the 2024 theft …",
-   "url": "https://doi.org/10.1002/adaw.35092",
-   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adaw.35092",
-   "topics": [],
+   "published": "2026-10-15",
+   "first_seen": "2026-11-01",
+   "summary": "The widespread distribution of online gambling advertisements on digital platforms has become a significant issue requiring an automated detection system. This study aims to implement Deep Learning using a Long Short-Term Memory (LSTM) architecture to detect online gambling advertisements within a web-based environment …",
+   "url": "https://doi.org/10.59934/jaiea.v6i1.3073",
+   "oa_url": "https://doi.org/10.59934/jaiea.v6i1.3073",
+   "topics": [
+    "online-gambling",
+    "advertising"
+   ],
    "designs": [],
    "regions": [],
-   "score": 1,
+   "score": 2,
    "why": [
-    "free full text"
+    "free full text",
+    "priority topic"
    ]
   },
   {
-   "id": "doi:10.33902/jpsp.202648322",
-   "title": "Problem gambling severity and personal and family financial harm among students in Kazakhstan: The mediating role of psychological distress",
-   "journal": "Journal of Pedagogical Sociology and Psychology",
+   "id": "doi:10.5281/zenodo.23806135",
+   "title": "Understanding Betting Risks among Urban Youth in Mwanza, Tanzania: A Qualitative Ethnographic Study",
+   "journal": "International Journal of Social Sciences and Humanities Review",
    "authors": [
-    "Yermek Abiltayevich Buribayev",
-    "Aigerim Lambekova",
-    "Ugur Choban",
-    "Ghaith Shamayleh"
+    "Gloria Peter Amasi",
+    "John Hughson",
+    "Patrick Masanja"
    ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "summary": "Gambling-related financial harm may affect both students and the families who share or support their finances …",
-   "url": "https://doi.org/10.33902/jpsp.202648322",
-   "oa_url": "https://www.j-psp.com/download/problem-gambling-severity-and-personal-and-family-financial-harm-among-students-in-kazakhstan-the-19657.pdf",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "summary": "Sports betting has expanded across sub-Saharan Africa, increasingly intersecting with young people’s aspirations, technological accessibility, and economic insecurity. Although awareness of gambling-related risks may influence young people’s decisions, recognising such risks does not necessarily lead to cessation of betting …",
+   "url": "https://doi.org/10.5281/zenodo.23806135",
+   "oa_url": "https://doi.org/10.5281/zenodo.23806135",
    "topics": [
-    "comorbidity",
-    "families",
-    "financial-harm"
+    "sports-betting",
+    "youth"
    ],
    "designs": [
+    "qualitative",
     "survey"
    ],
    "regions": [
-    "asia",
-    "uk-ireland"
+    "africa"
    ],
-   "score": 1,
+   "score": 2,
    "why": [
-    "free full text"
+    "free full text",
+    "priority topic"
    ]
   },
   {
@@ -976,7 +920,9 @@
     "industry"
    ],
    "designs": [],
-   "regions": [],
+   "regions": [
+    "asia"
+   ],
    "score": 1,
    "why": [
     "free full text"
@@ -1006,35 +952,6 @@
    ]
   },
   {
-   "id": "doi:10.1080/23750472.2026.2751118",
-   "title": "Betting-driven sport consumption among young adults: motivational dynamics and reconfiguration of sport engagement",
-   "journal": "Managing Sport and Leisure",
-   "authors": [
-    "Marcelo Moriconi",
-    "César de Cima"
-   ],
-   "published": "2026-10-29",
-   "first_seen": "2026-10-31",
-   "summary": "Research question: Sports betting has been promoted as a way of attracting and boosting younger audiences, although critics warn that it turns sport into a means to an end and can generate social harms. Evidence on this process is scarce …",
-   "url": "https://doi.org/10.1080/23750472.2026.2751118",
-   "oa_url": null,
-   "topics": [
-    "sports-betting",
-    "youth",
-    "equity"
-   ],
-   "designs": [
-    "qualitative"
-   ],
-   "regions": [
-    "europe"
-   ],
-   "score": 1,
-   "why": [
-    "priority topic"
-   ]
-  },
-  {
    "id": "doi:10.3389/fpsyg.2026.1831401",
    "title": "The relationships between noriuchi (stake, risk, time, outcome-sharing gambling) participation, gambling behavior, and problem gambling severity among Japanese gamblers",
    "journal": "Frontiers in Psychology",
@@ -1047,7 +964,7 @@
    "first_seen": "2026-10-31",
    "summary": "Introduction In Japan, noriuchi refers to a collaborative gambling practice in which multiple players pool money used for betting and later split the final net profit or loss …",
    "url": "https://doi.org/10.3389/fpsyg.2026.1831401",
-   "oa_url": "https://doi.org/10.3389/fpsyg.2026.1831401",
+   "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1831401/pdf",
    "topics": [],
    "designs": [
     "survey"
@@ -1061,36 +978,113 @@
    ]
   },
   {
-   "id": "doi:10.1002/hpja.70270",
-   "title": "Unhealthy Digital Marketing Among Aboriginal People in Australia: Findings From the #DigitalMob Pilot Study",
-   "journal": "Health promotion journal of Australia",
+   "id": "doi:10.5070/m5.52394",
+   "title": "All In: A Casino-Themed Emergency Medicine Conference Day",
+   "journal": "Journal of Education and Teaching in Emergency Medicine",
    "authors": [
-    "Jennifer Browne",
-    "Nichole Lister",
-    "Kathryn Backholer",
-    "Karen Hill",
-    "Alessandro Crocetti",
-    "Troy Walker",
-    "Sharon Atkinson-Briggs",
-    "Navoda Liyana Pathirana",
-    "Beau Cubillo",
-    "Florentine Martino",
-    "Simone Sherriff",
-    "Lee Yeomans",
-    "Fiona Mitchell",
-    "Stephanie Thow",
-    "Phuong Nguyen",
-    "Jaithri Ananthapavan",
-    "Steve Allender",
-    "Yin Paradies"
+    "Shorok Elsayed Hassan",
+    "Danielle Langan",
+    "Amar Bukvic",
+    "Moshe Weizberg",
+    "Barry J. Hahn"
    ],
-   "published": "2027-01-31",
-   "first_seen": "2026-10-31",
-   "summary": "Issue Addressed: This study aimed to quantify Aboriginal adults' exposure to digital marketing of unhealthy food and beverages, alcohol, gambling, tobacco and e-cigarettes; analyse demographic differences in marketing exposure; and describe the nature of digital marketing reaching Aboriginal audiences, including brands, platforms and marketing tactics …",
-   "url": "https://doi.org/10.1002/hpja.70270",
-   "oa_url": null,
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "summary": "Audience: The target audience includes individuals involved in the education and training of emergency medicine (EM) residents, such as program directors, assistant program directors, core faculty, and academic attendings, as well as learners including residents, physician assistant (PA) fellows, and medical students (MS) …",
+   "url": "https://doi.org/10.5070/m5.52394",
+   "oa_url": "https://doi.org/10.5070/m5.52394",
    "topics": [
-    "advertising",
+    "casino",
+    "youth",
+    "cognition"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1038/s41598-026-76386-z",
+   "title": "Mathematical analysis of a reaction-diffusion gambling information diffusion model",
+   "journal": "Scientific Reports",
+   "authors": [
+    "Markus Mandume",
+    "Samuel M. Nuugulu",
+    "Albert Shikongo"
+   ],
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "summary": "This study develops and analyses a non-linear reaction–diffusion model for information spread, motivated by gambling-related information diffusion …",
+   "url": "https://doi.org/10.1038/s41598-026-76386-z",
+   "oa_url": "https://doi.org/10.1038/s41598-026-76386-z",
+   "topics": [],
+   "designs": [
+    "qualitative",
+    "experiment"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.21776/jmppk.2026.05.3.08",
+   "title": "Navigating Uncertainty in Loot Box Purchase Decisions: Budget Constraints and Perceived Utility",
+   "journal": "Jurnal Manajemen Pemasaran dan Perilaku Konsumen.",
+   "authors": [
+    "Naura Lintang Eka Sabillah",
+    "Aini Nur Furoida",
+    "Hendry Cahyono"
+   ],
+   "published": "2026-10-29",
+   "first_seen": "2026-11-01",
+   "summary": "Purpose – This study aims to understand how university students consider budget constraints, perceive the utility of digital items, and make loot box purchase decisions under uncertain outcomes. Design/Methodology/Approach – The study employed a qualitative descriptive-exploratory design …",
+   "url": "https://doi.org/10.21776/jmppk.2026.05.3.08",
+   "oa_url": "https://jmppk.ub.ac.id/index.php/jmppk/article/download/1040/456",
+   "topics": [
+    "loot-boxes",
+    "youth"
+   ],
+   "designs": [
+    "qualitative"
+   ],
+   "regions": [
+    "asia"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1016/j.chbr.2026.101419",
+   "title": "Social identification on gambling websites as a correlate of gambling problems: A global cross-national study",
+   "journal": "Computers in Human Behavior Reports",
+   "authors": [
+    "Heli Hagfors",
+    "Teijo Osma",
+    "Luke Clark",
+    "Anu Sirola",
+    "Iina Savolainen",
+    "Eerik Mantere",
+    "Ilkka Vuorinen",
+    "Janne Vepsäläinen",
+    "Atte Oksanen"
+   ],
+   "published": "2026-10-27",
+   "first_seen": "2026-11-01",
+   "summary": "Background The global expansion of online gambling highlights gaps in our understanding of the social psychological mechanisms in digital environments that are associated with gambling-related harm …",
+   "url": "https://doi.org/10.1016/j.chbr.2026.101419",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S2451958826004938/pdf",
+   "topics": [
+    "online-gambling",
     "comorbidity",
     "equity"
    ],
@@ -1098,11 +1092,36 @@
     "survey"
    ],
    "regions": [
-    "australia-nz"
+    "europe",
+    "canada"
    ],
    "score": 1,
    "why": [
-    "priority topic"
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.22282/tojras.1902259",
+   "title": "Sporda Bahis Teması Üzerine Küresel Araştırma Trendlerinin Bibliometrik Analizi",
+   "journal": "The Online Journal of Recreation and Sport",
+   "authors": [
+    "Ömür Vuslat Bingöl",
+    "Dursun Katkat",
+    "Nezaket Bilge Uzun"
+   ],
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "summary": "Bu çalışmada R programlama dilinde Biblioshiny ara yüzü kullanılmış, konu üzerine yapılan araştırmaların bibliometrik özellikleri analiz edilmiştir …",
+   "url": "https://doi.org/10.22282/tojras.1902259",
+   "oa_url": "https://dergipark.org.tr/tr/download/article-file/5779350",
+   "topics": [],
+   "designs": [],
+   "regions": [
+    "europe"
+   ],
+   "score": 1,
+   "why": [
+    "free full text"
    ]
   },
   {
@@ -1125,9 +1144,115 @@
    "regions": [],
    "score": 0,
    "why": []
+  },
+  {
+   "id": "doi:10.1016/j.chb.2026.109234",
+   "title": "Social comparison and risky loot box use in video games: The roles of relative deprivation, perceived superiority, and perceived luck",
+   "journal": "Computers in Human Behavior",
+   "authors": [
+    "Siyuan Xu",
+    "YangLiu",
+    "Qiuming Tang",
+    "Ming Ji"
+   ],
+   "published": "2026-10-29",
+   "first_seen": "2026-11-01",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.chb.2026.109234",
+   "oa_url": null,
+   "topics": [
+    "loot-boxes",
+    "equity"
+   ],
+   "designs": [],
+   "regions": [
+    "asia"
+   ],
+   "score": 0,
+   "why": []
   }
  ],
  "news": [
+  {
+   "title": "Gambling Commission payment data: 91% of repeat illegal-site users still bet with licensed sites",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDVxZzJGR2I4VWJ5RjRGWTFtRzdkY2s2ZG9uUFZ2QzQzRnQ0VlA5eFdtaXh0UlJ0ckhhOGdZSkhndFczWURjYlRCNXlQSkhFelMzQ3JiZ0NOamFDVTg4N21iM2F3bmlyOGpUU0F4VmhpcUlLMFYxeG5xdmJZNnZHV1JDd29mUjRzTExXc0JkbU9YOGRUeWhTdXg3MjVqT3NxQldYakd2eHRZYXUyMFhUUnppc0tNUm1RVG1TQmtNUmVza0VWSzdpSVhR?oc=5",
+   "source": "CasinoBeats",
+   "published": "2026-11-01",
+   "primary": "regulation",
+   "summary": "Gambling Commission payment data: 91% of repeat illegal-site users still bet with licensed sites"
+  },
+  {
+   "title": "Prediction Market Bettors Go Door to Door Hunting a Midterm Edge",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREVyQUJCNkR4b3Z6Y1Utb25aY2tvQ1huR2JLM3R5dzFJYzExY1VwZmFBcllLNVAzYWUyZU9SNkFKNzBqTHRyM0ZHTy1LNVhpeXR4MURyUW1QWktUQ3UxZ1RsUllmRWJEUVctX0hxZWVrMzhQdHBwSHFOM3RkS0J5SG1Mbmw3Q3ZxUFRnS0tqOVBFMzVfTE1aanE4cEMwMEhUSS0xN2VHQlQxVTRQZi1sdXNnUWxqRXBQTWhJZDNQenJTak8wc1hlRw?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "Prediction Market Bettors Go Door to Door Hunting a Midterm Edge"
+  },
+  {
+   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdkJSNjJ2ZnRLcDQxMy1jT3RybjhvU1RrNjFTVmhZWko4Zno4eVVCUlk1dmxQQU5takFhaEdxbEprUzFhV2VPT29oRjNsZjdnYWpfMjZ1cUFXTHpSR2NVZWU1Rkg4ZFRHVGltNnJ4S2ZpUC11UU5MU0JPNk9qWW8?oc=5",
+   "source": "The Hacker News",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script The Hacker"
+  },
+  {
+   "title": "NFL Defensive Rookie of the Year Market Has a New Leader on Kalshi",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVVKRHJkT2s2U2Y5WWxrTUw5TjBDeU00Ykp4d242eFFnVy1pQ3BzWExUN1hIcDdubUx3b2c0MXZCYkxqdHdJLXNWYlppeW9kd1RPdi1wa01pOVdoaU9XejFLNnVGTDNseHdNTl96OFRySTRTTGlVZUM4UUU0MGxhM25pTGFZR3Y4Z2VhajBvVE9MaUZ3Ymo3T0FybjduR0VJZ0hScjFsbHV4cTUxR211QkpQWkJCcjcw?oc=5",
+   "source": "Sports Illustrated",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "NFL Defensive Rookie of the Year Market Has a New Leader on Kalshi Sports"
+  },
+  {
+   "title": "Polymarket had to pause trading after hackers stole $2.7M from the platform",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjBjUGY2eUU2QzV1eWM3TVBiYlZveXlLYkt0eDR4ZTlIZVppTkNNaXVDQ1puSGVRNEtoOWJIbE1qTlhoR3dIV3BVX1pvSkc4NlhQUkU0NEZiMkZqUE5ZZjl2Q3dSeGpDcTRfM3NGSEdidXlMak1EaG1JTEVVcHoxeU9JbW9wVFBJdS1Hbk1LVXNJa2xSdkstWjZBXy1pYV9JMUswZjJn?oc=5",
+   "source": "CDC Gaming",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "Polymarket had to pause trading after hackers stole $2.7M from the platform CDC"
+  },
+  {
+   "title": "Kalshi Reaches $40 Billion as Utah Charges Billionaire Co-Founders Tarek Mansour and Luana Lopes Lara",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMTA0MWxjTXlSRF9ScGV3UGNPNGRhOFRUbF9aelhpYUMwcmxXU3BuR2hOZF9sSFJpbU0tdkowUFQ5MUNLLTljR1hUdHVyUGIwRVdoZ0I2QjdhTnlwek8wS2RXTnZYdWJkR1V1dnRwWWtORlUyTklRdV9Vay1kX0N6dndhTTl6ZnRRVmE4T2l2aUlaOFRrM0ltN3pYVTJmM3MzbzdOUnl4UlJZdXh1WEsyNXVtaDIxdHJ4SDNEN2JvQVQtTUVDU0xqVWtKQ1MxZw?oc=5",
+   "source": "CEOWORLD magazine",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "Kalshi Reaches $40 Billion as Utah Charges Billionaire Co-Founders Tarek Mansour and Luana Lopes Lara CEOWORLD"
+  },
+  {
+   "title": "Major wagers placed on B.C. elections amid prediction markets' growing influence",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fR09sRTlkUWtwS1pJUHkzQzJnOUFfNjBpWTR3dzduZzhBWGkta3ltdlBzbHZCcHpwSUU1cVBsMGo2LUtLMWxFaTN1Yng5NmN6OWkzRHNuOFRlOUhUQXBFaXRIZmhiWnBsV2ZqbWtKbXAydw?oc=5",
+   "source": "Yahoo News Canada",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "Major wagers placed on B.C. elections amid prediction markets' growing influence Yahoo News"
+  },
+  {
+   "title": "Prediction Markets Keep Whiffing on Elections. Will They Miss on the Midterms?",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlM2U1pNYUpFdnBUSWdxWFY5MmhkRlVkVm14b1IzVVllR1FPQ3U0UWhYU1RSVzM3U1U4WlBJVW5WVnFFSEtCcVZjYk9ldGZkeElqVWtlcWMtLWtqQlRUOVF0LVI5Nnpkay1pRm9QYU9NckxLSGtKU0NFNGl6Q0N1dlZSLUlCOTloT1VReWNTT3dUSG9LRXlkeVFOa2lxLWx0dUNyYjBGNlhpemx0cXBNYXNORlg3QUJFWG5jSTRRdUVfZw?oc=5",
+   "source": "WSJ",
+   "published": "2026-10-31",
+   "primary": "prediction-markets",
+   "summary": "Prediction Markets Keep Whiffing on Elections. Will They Miss on the Midterms?"
+  },
+  {
+   "title": "Prediction markets missed Brazil. U.S. midterms are the big test.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGhsNndrMllESGlYY2RyZ1lUSkpDLWVIamZMaHN6SnRhYmVmLVFDbXhqRmx3LXYzNUkxWkdlLTRvSjNCQmg3b3Y4NU9sLXQyb0NrLUhOMTB6ZTBvN3pkVmFKZVhYb05WS2dNZkc5LW5RaVRrd0JXc1NzTTJyc1RWOENXWVpKekgwS3J1bVNiQVNhNS1y0gGaAUFVX3lxTE9pUkJyOXF4eUZvUnFOVDhTcG8zMHkzTmpGc1FJM1BrSGJibDdrZWpEU3JNX1hPbW0xb0NVUVlNeTlqYjdtTnhUX3FuTnZyZzN4YWhyOHk1d3R4a1duX0dpZ3ZJNlR2cnBEbU51NThvN1duTXhTUGxjb0s2TVpuRGhTNmZXZUljTGFVUThyZTkyNW9fcjdmQ0xjRWc?oc=5",
+   "source": "The Center Square",
+   "published": "2026-10-31",
+   "primary": "prediction-markets",
+   "summary": "Prediction markets missed Brazil. U.S. midterms are the big test. The Center"
+  },
+  {
+   "title": "Spotify deletes 500K streams of popular song for suspected Kalshi, Polymarket user manipulation",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY01TeXVjakFTakNUdVpVbWZNV21yWU5GVTRkbWFPUmtfMXlINXhDck1ITDdHcGJjNUwtVWNPM0dxQU5pZXpHWTNTY29WOUo1Y01nOU00Qm02bXhmclRKeGFtUS1RMDgyZU9RQU9QeXUtbHBaOFRnSmplU3lFOVlBOUhBMng3MGJlVVJTeHVSYldQRzR3eFRBREdB?oc=5",
+   "source": "Mashable",
+   "published": "2026-10-31",
+   "primary": "prediction-markets",
+   "summary": "Spotify deletes 500K streams of popular song for suspected Kalshi, Polymarket user manipulation"
+  },
   {
    "title": "Rutgers University study finds 13- 17 year olds are gambling",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWFRcWczVkFNSWpOVWZ6UFA0bmd3OGhsWjdVVTNFOWxtSFVDdmwxemoySnAta0lqM2UxR0Ytb1VBQkFDT1k5ZV9qM3dXdjRwTXFQaVFsdUlSM09XOEhPbG5tQkY5cU5BektLcDAxZFM4Rk5jNlBveTNxZVVPU0dlQlFXa2c0d241V3dZaWlBSzZUZXVaQ2Y0MmptR0NmTnY2RXpPN2xvbXlmZFZVZV9J0gG3AUFVX3lxTE9iNC1BR3kteVM2N290ZmxRMHdlTHhTWGlZdS1qbk8wOTY5MXBxT0pCTlhXWXZqNkMwUnc1eDJOUEdqdDlldkctWFU2WjBNRng3MnZ5T19HLTVHSXVPdUlFNjV6c3RrbGJVc2tWOHgyeVpTWWFTc1ZIRllVckltSF83VnoxNnBMLVBXRjYwLVZsaC1yMzlBdlliTERFcEJnRFlqZ2lnaDN2dXpEUWJHcm9qVk92dEpZMA?oc=5",
@@ -1191,6 +1316,54 @@
    "published": "2026-10-31",
    "primary": "prediction-markets",
    "summary": "Will Kalshi Event Contracts Change Broadridge's (BR) Narrative Simply Wall"
+  },
+  {
+   "title": "Gaming donors back Lombardo in Nevada governor race as odds shift to Ford",
+   "url": "https://igamingbusiness.com/casino-games/nevada-governor-race-2026/",
+   "source": "iGaming Business",
+   "published": "2026-10-30",
+   "primary": "regulation",
+   "summary": "Nevada has elected mostly Republican governors for the last 20-plus years, but will that trend continue this"
+  },
+  {
+   "title": "Prediction market roundup: Saquon forced to unload stake in Polymarket under NFL rules",
+   "url": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-103026/",
+   "source": "iGaming Business",
+   "published": "2026-10-30",
+   "primary": "prediction-markets",
+   "summary": "The week includes a decision by the Philadelphia Eagles' running back to divest his stake in Polymarket, as well as criminal charges filed by Utah against Kalshi CEO"
+  },
+  {
+   "title": "Best Cricket Betting App UK (2026): Top 10 Ranked",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2dxX1dncHJycVlEemdEMUlhWlk1Q3BWZXRfZ0g3c3NhY2ZCeE9ZREFkMEJ2NFhqakV3QjdhUUxGQW5tYy1RaXFDVGwxbUxVOEpoSFJ1T3VNUEJPMm5mVFBQRllsNGRWUkNjZG1PN0lJVVZVMkd3cUZUNWhzUllkNFpiR204cXN5NHBDSGFncjlKeFZSWUpj?oc=5",
+   "source": "DAZN",
+   "published": "2026-10-30",
+   "primary": "regulation",
+   "summary": "Best Cricket Betting App UK (2026): Top 10 Ranked"
+  },
+  {
+   "title": "Machine Games Duty Rise Puts UK Venue Slots Under Pressure",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTh0OXBTWlZpV283SHpFM2RQN05BazlKVUhlSzRoSl9QQ2JIVVBXa1lrQjl1QlFjRUlMRENRLXIzWVRRcUNKRm9qVHBrOUlBdC1mamJzUlZEMGZ0eDRvTzJPNGJXdjlYelFxOU8ybWZTbDRfVFFmNEl2T0QwR1o1amh4eTBtWVBqT0JlTkF6ZkpEbWxYMnlTWS1pb215M28?oc=5",
+   "source": "Power Up Gaming",
+   "published": "2026-10-30",
+   "primary": "regulation",
+   "summary": "Machine Games Duty Rise Puts UK Venue Slots Under Pressure Power Up"
+  },
+  {
+   "title": "UKGC Study: Illegal Gambling Sits Alongside Licensed Play",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTV2V3U4ems4Y1hBZmQ1NFN4TEROZWNFSi1tR1pBZnFYQ2FQeGlZcXp5MlFhU0pCZlRRSmVhTC1FQnRta2QzdUtiNFluUzlhaW9lQWlXdFpVTkpMTEJmanloOUphYm51OG5tRzhIM0RFV2tCc21MLW9hMEdiUThScndGXzduR1ZUemJVS213ZXJ3QUx5OVk3SXdDTQ?oc=5",
+   "source": "Gambling.com",
+   "published": "2026-10-30",
+   "primary": "research",
+   "summary": "UKGC Study: Illegal Gambling Sits Alongside Licensed Play"
+  },
+  {
+   "title": "Minsk Pawnshop Employee with Gambling Disorder Accused of Embezzling 125,000 Rubles",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2RmaFRwSjMzWmt2WXBXRnVfS1Q3Y3dodTZldG9QSnl3aTFPSEF6X2lLd000NUZLLWg3VFplU0hXczNOejZVOUZmV2tRUWcyT2g3VFBlVFpuaHkzWHBiX1pIRHFHRFhmY05RUlBxb3RlYU9WMmw5RlRYSkpobXV0Qk9SQWJDbFpHcGtjeVNIeTUxUXQwREg3czlRQWRDbzB3SmROM25QODN3dXfSAbABQVVfeXFMT3pIY0xULWFIdXJLY2RZNGh0YnF2YWNETUg1RzFOQ0FiaXYzUXZkc2dyY3ZnZ3NwTFVhc0VvR1FVVVZqZnJ4VmQ3dThFYmFTbnN1UDlmbzJFdmRBVkdfVWFYS3Y4VTZpVzRKQXVBaExZNVlhODJHMUFGUHlHUHd0OGtaRENkVF9QR3BGbU13Sjl5MXlQVHZORFQxUk1SSkNHTXlEMVk4SXpEYksydEZaNmk?oc=5",
+   "source": "REFORM.news",
+   "published": "2026-10-30",
+   "primary": "public-health",
+   "summary": "Minsk Pawnshop Employee with Gambling Disorder Accused of Embezzling 125,000 Rubles"
   },
   {
    "title": "DraftKings, FanDuel, Fanatics retreat from Utah prediction markets amid Kalshi firestorm",
@@ -1433,180 +1606,52 @@
    "summary": "Coinbase Says Prediction Markets Are Now a $200 Million-a-Year Business Despite a Slow Crypto Quarter Yahoo"
   },
   {
+   "title": "Best NFL Betting Sites (2026) - Top 10 Ranked by Spread Value",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHFZSkl0MXRkREVZSHJFcUVPTzJiWkJoc0YxN25QQ2c0UXphVnpzZ2U4X2EteG5EQTlQcmZlUWs0U2Naak9MWm9UTHN2NkprMXhGdl82OGhlVklqUkRKNEhpRllMZTF6TkxDQ3B3RG1qMjNrMDI3aUhjTnNHckEtZEJ0dm1SWEZMVTRoNDEybw?oc=5",
+   "source": "DAZN",
+   "published": "2026-10-29",
+   "primary": "regulation",
+   "summary": "Best NFL Betting Sites (2026) - Top 10 Ranked by Spread Value"
+  },
+  {
+   "title": "Guilty Verdict, Gambling Ban, Open Title Race: Here's What the Premier League's Chaos Means for UK Casino Sites",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEJiU1hiZ1RLWjNsc0xCd3VXcmhZdzhHcnNzRTluVlM2LWNKQnozVWFBZWNKYTVpbGlUTmw5QXF2X0djSTZGU3NuWVp5a1Fya2JSS281YmtNajBBZkJ3bHYwMklGcDMwTDF2ZFB4bHJ2VGVKNXZBR1JlUHRSVlcteGJ0UDZ6RUZRbGNlYmF3NUhvTkVjVldGbHVVYnRKbzF3Zzc3ZXFONXY4YXphcTRkNHBlbFUtYlBhM01rclhVZGdVeE4weEc5ZEtFTlFRWURBX21tWktB?oc=5",
+   "source": "EPL Index",
+   "published": "2026-10-29",
+   "primary": "regulation",
+   "summary": "Guilty Verdict, Gambling Ban, Open Title Race: Here's What the Premier League's Chaos Means for UK Casino Sites EPL"
+  },
+  {
+   "title": "DraftKings CEO warns of kids and gambling addiction",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qVUdHZXlSMUpDNUpNUXZ6OFR3VTJvaS0wMXVTVnI0ZUlkd1NnbHdPaGY1VnppV3ZDNmkzN0trX3VzYTlGNHh4eVFFYTRJT1RrWEJ6WWJQbUNJZkNwZUF6QXNIOETSAWRBVV95cUxPalVHR2V5UjFKQzVKTVF2ejhUd1Uyb2ktMDF1U1ZyNGVJZHdTZ2x3T2hmNVZ6aVd2QzZpMzdLa191c2E5RjR4eHlRRWE0SU9Ua1hCelliUG1DSWZDcGVBekFzSDhE?oc=5",
+   "source": "Good Morning America",
+   "published": "2026-10-29",
+   "primary": "public-health",
+   "summary": "DraftKings CEO warns of kids and gambling addiction Good Morning"
+  },
+  {
+   "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3ZUM3JWYktWXzdNV1VITXQ4ajV1YURVZlVpZmgwTzVxY0x6NDJDWVNJVWhPc2ZkVFkyZWFoYU9vQ3FtZ3diR0lUUFV6QnJnM25CREczZFZvVHJBbV95LTAxaUNmSDltMmZIWUY4dm1mLVpYT05TT1ppNGlRV21mbVVSYjRDdDk1SF8xQ2JXdVBZZTlJanhFdlBIYUJ1ZHAycTZ2QtIBqgFBVV95cUxOX2libklWTlJGY2NIYU9SWHIxUHBaSTdTSmp5d25jOEp2ajd6QllTN1hIOVdZcEJNQjhoMjl2MlRUSUwzNG1mLVlaekNtdE9GWWJUWjg3RENQdlVQalJ4N1YyTXVtQVdiUTJIU3VCRWN5LWMxbW9TazE3eE5rZF9peS1yQlZRQWNLR2FGMXpvR3o1UTFCM05xRGdobzd4elItSnkwNGJjcGI3UQ?oc=5",
+   "source": "CNBC",
+   "published": "2026-10-29",
+   "primary": "prediction-markets",
+   "summary": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities"
+  },
+  {
+   "title": "Polymarket suspends trading after third-party breach leads to user losses",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEdMengtVTZGcU5JNmJBOGxsbFdDZnFZMmdNMXBvV1ROVmRiY2JrWjdIWTVXdWc1RGNrUkVBZ0ZYWG1QQWVuZjUteTlMSWdYUV9hdzdZbGMzcVJjZ2xWaGt5T3dCUFRERWZMbzN5SEZlZXl2RWI5cVNTOVlYd0RVR0dpZ05VNEs1eFptV1o4clhRU043MHBJQldjejg1Z0w5dU5FeTI1WVFuX1RkZi1kQ08wOGx1dUZW?oc=5",
+   "source": "CoinDesk",
+   "published": "2026-10-29",
+   "primary": "prediction-markets",
+   "summary": "Polymarket suspends trading after third-party breach leads to user losses"
+  },
+  {
    "title": "The Comeback with Craig Carton S2 E6: The Future of Responsible Gambling with Keith Whyte",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV3JhNFVCUFJPRC1xU2VPLWU4VWJudEthdUwyZHBMWEtYZDJWQ1dTZGFiTzZHSy03RUdlblhQYUFoMUtJTURld0VTTUI1SnJRWDVaQThoSjRtbl9SNzBuRFM5TlU4ZjM3cG9ncVYzZzM4ZlNMMWNfNnBnUGJfNHFiM3ROZUhqU3ZBOFpxcVhYWE8xSWN2X2NqX2lxZnJsc2Y0WGxUcmx3QXB5Y3JraDEwY2ltZ0QzUGZBckZkc0YxeDA?oc=5",
    "source": "FanDuel",
    "published": "2026-10-29",
    "primary": "public-health",
    "summary": "The Comeback with Craig Carton S2 E6: The Future of Responsible Gambling with Keith Whyte"
-  },
-  {
-   "title": "Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzd3N0FYcjQ3ZFIzYjhnUWZ4V2tPT0QyUDQ5T0hCai1WM3JXRG1GWjNXUlczOEoxRmVyTmdicmNSSlVMWENEdUNjcFhFMkpFQUw4dW9Ed2V0c01EeWZ3cnhGSnhuQldid3pjVTVmOGVEV0Z5ZWZ1VWZncDhTUG9ROEdIMDNiYnRBaWJwSjBIUWN4TmFrTHpyalRYQ183T3lJWGRUTl94d0cxM1FuejJHZFM3R1piRllmbVE?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets"
-  },
-  {
-   "title": "Utah files criminal charges against prediction market Kalshi and company co-founders",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2FhTm42TnE4UU5PUng5ZGljQkhDNEdicmtzTnR1dEdiLXFKMnUwUEFOdGRxLXdRN2JTdHZSVHlja0lkQThPVkJVLUtITnRsOUVKbWh2ZUZsYkp0QVVMVkJqQXFQdHVJSDRKc1IzRVNLMmp5NDBYS3NKZnlUSW5kU1VR?oc=5",
-   "source": "The Guardian",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "Utah files criminal charges against prediction market Kalshi and company co-founders The"
-  },
-  {
-   "title": "Polymarket halts trading for an hour after vendor compromise, says affected users will be ‘made whole’",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjhhcjAzYkM3ZW9XRGVUSzFFWFpfUGcwYkZ3ZVowWGlVWXN4ZmhWMW5tRzVXckZpejZwTTlrb2NqRnBvOERlTVY1ZTJuVWpvTzh6NVFKWE94dk5NZ1JkTS1OVlJHZnVBRlRKeTZ6a3R6a2QxVTVHcXhyLUFtU3U1cEFNM0toZzdMVXVCMG9ROVpiQXc?oc=5",
-   "source": "NBC News",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "Polymarket halts trading for an hour after vendor compromise, says affected users will be ‘made whole’ NBC"
-  },
-  {
-   "title": "Kalshi valuation jumps to $40 billion in latest funding round",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1lZS1BQY2Z1c25FME9ueGJheml4MmNHMlFnT0t1ajNBMDNtd1Z0MzVNWXB1dDFsNFpoQUZxeXZkMlluXzJjWmNEdlNfLXd0bmJJS1NXVnh4N01Rd2NfVVBUX3hTdkI1d1BQQmVDUlZZTlNvY0dzdjBtdEppQUdDOTRxYi3SAYoBQVVfeXFMUDc4VlVTV3JrazN5bXBWRnRGVTZjYUZFZ0IxSEh2c2VaZmR6OEQydXJ0R3NxWFp4cU1lRUNpbFBwM0JjQmZhSUdwRmxzNWpZMDl2eGFYZGlFb0U0bE10Vndmd3hIVjNpdDc4bkhOU3ZsLWh3WWFJMFpITTdVWGR6aDJxcWlNX0VaWWNB?oc=5",
-   "source": "CNBC",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "Kalshi valuation jumps to $40 billion in latest funding round"
-  },
-  {
-   "title": "Its Investors Say Kalshi Is Worth $40 Billion. Is an I.P.O. Next?",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZy05dkJUYTA4U2s5T3RXUl9vUnRnbHpVaDBxZm1aeVpNbldfajVlNjdKUWxDSTAtU0tpblU4em5wVWNVcnRZa1d1a25La25nU0FReUI5REZQSDAxbXFhbHlJTS1KM3Fhblo0RXJ0V2lOWGJRR0plSHpUc01TOEpRQ0tTTjY4MUU?oc=5",
-   "source": "The New York Times",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "Its Investors Say Kalshi Is Worth $40 Billion. Is an I.P.O. Next? The New York"
-  },
-  {
-   "title": "Raising Arizona: Utah brings 13 felony charges against Kalshi",
-   "url": "https://sbcamericas.com/2026/10/29/utah-kalshi-cofounders-criminal-charges/",
-   "source": "SBC Americas",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "KEY TAKEAWAYS Utah wants Kalshi charged with second-degree and third-degree felonies. The Republican anti-gambling state escalated its war with the prediction markets industry on Wednesday by filing 14 criminal charges…"
-  },
-  {
-   "title": "Churchill Downs betting Thoroughbred Championship Series will add value",
-   "url": "https://cdcgaming.com/churchill-downs-betting-thoroughbred-championship-series-will-add-value/",
-   "source": "CDC Gaming",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "Churchill Downs is betting a new expansion of horse racing will succeed. During Thursday’s earnings call, CEO Bill Carstanjen said the Thoroughbred Championship Series (TCS), which will debut next year, will be a boon…"
-  },
-  {
-   "title": "New Jersey: Rutgers study finds high rate of gambling those ages 13 to 17",
-   "url": "https://cdcgaming.com/new-jersey-rutgers-study-finds-high-rate-of-gambling-those-ages-13-to-17/",
-   "source": "CDC Gaming",
-   "published": "2026-10-29",
-   "primary": "research",
-   "summary": "A new study from Rutgers University found that 42.7% of Americans between the ages of 13 and 17 participated in some form of gambling over the past year, with some 11% of teenage gamblers classified as high risk for…"
-  },
-  {
-   "title": "Seven questions Brazil needs to answer to become investable again",
-   "url": "https://igamingbusiness.com/finance/seven-questions-brazil-needs-to-answer-to-become-investable-again-gambling/",
-   "source": "iGaming Business",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "Brazil’s betting market faces a critical test as investors question whether the country can deliver the regulatory stability needed to restore"
-  },
-  {
-   "title": "Chile’s online gambling bill advances amid tax and licensing disputes",
-   "url": "https://igamingbusiness.com/legal-compliance/chiles-online-gambling-bill-advances-tax-licensing-disputes/",
-   "source": "iGaming Business",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "Chile’s online betting bill is facing fresh scrutiny as proposed licensing fees and transitional rules fuel industry concerns over fair"
-  },
-  {
-   "title": "KSA sets January deadline for Dutch horse racing betting monopoly tender",
-   "url": "https://igamingbusiness.com/sports-betting/ksa-january-deadline-dutch-horse-racing-betting-monopoly/",
-   "source": "iGaming Business",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "ZEbetting & Gaming has held the monopoly for many years, having its licence renewed in"
-  },
-  {
-   "title": "How £100 vanishes in minutes: inside the ‘slot farms’ targeted in the budget",
-   "url": "https://www.theguardian.com/society/2026/oct/29/inside-the-slot-farms-targeted-in-budget-gambling",
-   "source": "The Guardian (gambling)",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "John Healey has hit adult gaming centres with 25% tax. Undercover footage shows how they lure customers The last of five £20 notes disappears into the slot machine as The Verve’s Bittersweet Symphony plays over the…"
-  },
-  {
-   "title": "Polymarket temporarily suspends trading on international platform due to security incident",
-   "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
-   "source": "The Guardian (gambling)",
-   "published": "2026-10-29",
-   "primary": "prediction-markets",
-   "summary": "Security incident linked to performance-monitoring tool spurred platform to halt trading for about an hour Polymarket temporarily halted trading on its international platform on Thursday because of a security incident…"
-  },
-  {
-   "title": "UK Gambling Commission study says illegal gambling supplements rather than replaces licensed activity",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUx0Q2N1YWowdm84eE9yelpjTm11ODlNRTFyME44d181akd6bFZUWjFNakx6ckVpelBUSDY0Z2RzR2hkVGN5YUpka09BcVBWM3NCOFlhTmZuNGZQRzh2VEgzTHFLVng5b3lZZ2IzdTBtYk02TlhkM3VvaGRBdXVQYlBmeGVYVlB0cmVTZGtJVFh0bWRTQlRQeXM1bFc1R2JyajczWjJwRlRqS2RBVnRYOGF1YThPMklfb3ZWcG1scV9sWU93NE1MWlRB?oc=5",
-   "source": "CDC Gaming",
-   "published": "2026-10-29",
-   "primary": "research",
-   "summary": "UK Gambling Commission study says illegal gambling supplements rather than replaces licensed activity CDC"
-  },
-  {
-   "title": "How Gambling Advertising Is Regulated in the UK",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0VyUGdHLWxUREtGTjdXSFVIOWQ2WnhBWUpyTmFsWmUwRTRDb0xsZlViYm04a1oyZ3RZTUpMMlBNN2o4SkNvczhLWEtLak94U2pha3Myb2xnUWNzM0RPZzhXaFltZnlUMXo4VnI5c0tFd0t2a0w2aXN5NXltNlByLXBseTQyU0M4T3hJc2F4Ykd4QllQc0xnV3hvNmxZcmxOcmhURmdhQjczejRUWkVPNg?oc=5",
-   "source": "The Canary",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "How Gambling Advertising Is Regulated in the UK The"
-  },
-  {
-   "title": "UK Gambling Firms Face New Financial Risk Checks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXZxRmRJc3psNzl6eG5Fb1BpaXVOR2cxOGlCejg2MWlxajNyTGtUUlFLT3d2SEZnYmE0dDJCTGpPSlBLc3pSRE1nQndzRUJ3NmZHRkFSVWRiMlhEVzI2RExJVUFpWE5FNXhtZGk4MC00eDZlNm1qeUtKUDk5X3ZoYWFmNHpYNC1NWEE?oc=5",
-   "source": "Business Model Analyst",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "UK Gambling Firms Face New Financial Risk Checks Business Model"
-  },
-  {
-   "title": "50 Free Spins No Deposit UK Casinos 2026: Why Free Casino Bonuses Are Attracting Attention",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZE92ZmJhNnFybTRfTGpTUnN4YmhVSEk0eU55Q2tfaGFFNjJVZ1YtMHZlSTlQZWktMkRKWVlscjRUT2pueWx6NUw4aVRCN0JXLXRDQUE1ak5fbkx0X0tZSnNBZmxJcThLYzd1NlU2clFiZF9xMzFwVzdXV2o1TWlReGE5S1NxS2ExcU5ZRDgyTkRmVGNjSmF3ZXZWbjhKQXV0QjNMVG8yeTZDMnU5Z1E1dXlId2Jyc2VmUVF4ZXM1S0JaSTJHbFVJ?oc=5",
-   "source": "Geektown",
-   "published": "2026-10-29",
-   "primary": "regulation",
-   "summary": "50 Free Spins No Deposit UK Casinos 2026: Why Free Casino Bonuses Are Attracting Attention"
-  },
-  {
-   "title": "DraftKings CEO warns parents about gambling addiction",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHVFbV9MbGJJR1RZWTBRV2RBcTIxUTlkR09ib0ZNSk10VzhieXVLRTJwSjA3T2hINldja2xmVVo5bEk5SEhMLUp2QlotX0NHb0ttZHlIVmxlV3lPUExMcC1MQ2FqZE9LZjlkX2lCQ3g1U09QTHpiUEtxVkotZE0xY2VwV2xLRWZIaGFMMWd3LVVvMlJKTXRNMzd3ZUo0UE5TaWR6azBsZ0J1ekQ4M3VlaWtpYmlfR3p3bXF6bzlIUm45cWxqTjREM0dWcw?oc=5",
-   "source": "13newsnow.com",
-   "published": "2026-10-29",
-   "primary": "public-health",
-   "summary": "DraftKings CEO warns parents about gambling addiction"
-  },
-  {
-   "title": "DraftKings CEO urges parents to talk to children about gambling addiction",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUJITnNISXBMUHJfeDFEd0w5X3NOSnIxdVA0MWVkZFVyUExhLW9POXZUT21hZktYQXFwSS1nS3dwNnNoUnN0aEJMeEwtdWxFSnNJZEw3aUZNeGNUN3VWSzh5bG1VZnpRWDNQWVU1d29iVU9BNTMtYXJLN3F3UF9sdy1VYnVLYWI5Qlk3UVZNY21HTVI0M3p4N2RaTmZIV1JZaEp1YlBUY0ZCVGtmMXVFSW9Wam55TXloOXNkR1JWb1BfWlJ5SWtpTnQwY2s?oc=5",
-   "source": "Sports Business Journal",
-   "published": "2026-10-29",
-   "primary": "public-health",
-   "summary": "DraftKings CEO urges parents to talk to children about gambling addiction Sports Business"
-  },
-  {
-   "title": "DraftKings CEO warns of kids and the risk of gambling addiction",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEZUVU13UGUtWUFaUy14dm9sZVQ5RE5QdTVDS1BZcUZ0VTI3c1N6UVJyWHgzcV9CSU84QnFNQkNDOHMwNnE3cmgyNXpGT1ZCSUl0Zmp4aFpLTm55QWgtMmJGMVd3UVB6RUpUcWtRX1JENTR0ZUJDX2RyZlRmcmhITi1ESFdxcjFpdDhaem94dnhLODNOdGtRYm9rdmhlLW55Y1FfRExIVzJoSURPQ1c5UkhB?oc=5",
-   "source": "KVUE",
-   "published": "2026-10-29",
-   "primary": "public-health",
-   "summary": "DraftKings CEO warns of kids and the risk of gambling addiction"
-  },
-  {
-   "title": "DraftKings CEO has a gambling addiction warning about kids",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjd2d3ZLUUtGc25xNEpCNzloa3dYVFJ5a21xRUFoTUlOU0dmMGdyaWdDT3ZZNG1BNDN2S2RDLWJXSG93c0lueU9NeENGMmdOYW5LbWRTU0V1TkZEQ1lmZEpIUy1LZk4yVzJoQmZUUkZyNEtlRTZqQmVVQURITUxfRkNBTzFzTzFJTUgzemVKdW9CUFJkdmxWNGVLN1Z2aEVBS29N?oc=5",
-   "source": "TheStreet",
-   "published": "2026-10-29",
-   "primary": "public-health",
-   "summary": "DraftKings CEO has a gambling addiction warning about kids"
   }
  ],
  "trials": [
@@ -1699,24 +1744,6 @@
    "summary": "Purpose and significance This project explores how women in Northern Ireland (NI) experience gambling and gaming convergence. Women remain an overlooked group despite increasing engagement …",
    "url": "https://osf.io/a2s4h/",
    "first_seen": "2026-10-29"
-  },
-  {
-   "id": "osf:dvt9e",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Trading on the Margins: Independent Actions, Correlated Judgement, and the Limits of AI Collusion Detection in Prediction Markets",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "This project was developed in response to Apart Research's AI Collusion Research Sprint, held on October 23–25, 2026 …",
-   "url": "https://osf.io/dvt9e/",
-   "first_seen": "2026-10-24"
   },
   {
    "id": "osf:axd49",

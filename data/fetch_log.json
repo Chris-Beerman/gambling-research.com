@@ -1,12 +1,12 @@
 {
- "started": "2026-10-31T12:21:48+00:00",
+ "started": "2026-11-01T13:16:34+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 49,
+   "items": 47,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 170,
+   "items": 194,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 25,
+   "items": 23,
    "error": null,
    "warning": null
   },
@@ -62,7 +62,7 @@
    "id": "feed:addictive-behaviors",
    "kind": "papers",
    "ok": true,
-   "items": 50,
+   "items": 54,
    "error": null,
    "warning": null
   },
@@ -198,7 +198,7 @@
    "id": "news:gnews-ukgc",
    "kind": "news",
    "ok": true,
-   "items": 100,
+   "items": 30,
    "error": null,
    "warning": null
   },
@@ -214,7 +214,7 @@
    "id": "news:gnews-problem-gambling",
    "kind": "news",
    "ok": true,
-   "items": 64,
+   "items": 100,
    "error": null,
    "warning": null
   },
@@ -222,7 +222,7 @@
    "id": "news:gnews-betting-law",
    "kind": "news",
    "ok": true,
-   "items": 55,
+   "items": 100,
    "error": null,
    "warning": null
   },
@@ -238,7 +238,7 @@
    "id": "news:gnews-self-exclusion",
    "kind": "news",
    "ok": true,
-   "items": 31,
+   "items": 100,
    "error": null,
    "warning": null
   },
@@ -270,7 +270,7 @@
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 611,
+   "items": 644,
    "error": null,
    "warning": null
   },
@@ -293,46 +293,56 @@
  ],
  "rebuild": null,
  "papers": {
-  "raw": 645,
-  "groups": 583,
-  "added": 9,
-  "updated": 180,
-  "dropped_irrelevant": 394,
+  "raw": 669,
+  "groups": 605,
+  "added": 13,
+  "updated": 185,
+  "dropped_irrelevant": 407,
   "removed": 1,
-  "total": 8362
+  "total": 8374
  },
  "news": {
-  "raw": 566,
-  "added": 112,
-  "dropped_irrelevant": 92,
-  "total": 1348
+  "raw": 646,
+  "added": 40,
+  "dropped_irrelevant": 108,
+  "total": 1372
  },
  "trials": {
   "raw": 894,
-  "added": 2,
-  "updated": 705,
+  "added": 0,
+  "updated": 707,
   "dropped_irrelevant": 186,
-  "removed": 1,
+  "removed": 0,
   "total": 715
  },
  "bills": {
-  "raw": 626,
-  "added": 16,
-  "updated": 150,
-  "dropped_irrelevant": 460,
-  "total": 633
+  "raw": 659,
+  "added": 5,
+  "updated": 162,
+  "dropped_irrelevant": 492,
+  "total": 638
  },
  "cases": {
   "raw": 71,
-  "added": 1,
-  "updated": 5,
+  "added": 0,
+  "updated": 6,
   "dropped_irrelevant": 65,
   "total": 82
  },
- "finished": "2026-10-31T12:35:45+00:00",
- "papers_total": 8362,
- "news_total": 1348,
+ "finished": "2026-11-01T13:30:57+00:00",
+ "papers_total": 8374,
+ "news_total": 1372,
  "history": [
+  {
+   "finished": "2026-11-01T13:30:57+00:00",
+   "mode": "nightly",
+   "added": 13,
+   "news_added": 40,
+   "trials_added": 0,
+   "bills_added": 5,
+   "cases_added": 0,
+   "failed": 0
+  },
   {
    "finished": "2026-10-31T12:35:45+00:00",
    "mode": "nightly",

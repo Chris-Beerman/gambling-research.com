@@ -1,10 +1,570 @@
 [
  {
+  "id": "doi:10.1038/s41598-026-76386-z",
+  "doi": "10.1038/s41598-026-76386-z",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224994713",
+  "title": "Mathematical analysis of a reaction-diffusion gambling information diffusion model",
+  "journal": "Scientific Reports",
+  "authors": [
+   "Markus Mandume",
+   "Samuel M. Nuugulu",
+   "Albert Shikongo"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "summary": "This study develops and analyses a non-linear reaction–diffusion model for information spread, motivated by gambling-related information diffusion …",
+  "url": "https://doi.org/10.1038/s41598-026-76386-z",
+  "oa_url": "https://doi.org/10.1038/s41598-026-76386-z",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "qualitative",
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "NA"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.5070/m5.52394",
+  "doi": "10.5070/m5.52394",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224992650",
+  "title": "All In: A Casino-Themed Emergency Medicine Conference Day",
+  "journal": "Journal of Education and Teaching in Emergency Medicine",
+  "authors": [
+   "Shorok Elsayed Hassan",
+   "Danielle Langan",
+   "Amar Bukvic",
+   "Moshe Weizberg",
+   "Barry J. Hahn"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "summary": "Audience: The target audience includes individuals involved in the education and training of emergency medicine (EM) residents, such as program directors, assistant program directors, core faculty, and academic attendings, as well as learners including residents, physician assistant (PA) fellows, and medical students (MS) …",
+  "url": "https://doi.org/10.5070/m5.52394",
+  "oa_url": "https://doi.org/10.5070/m5.52394",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino",
+   "youth",
+   "cognition"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/10293523.2026.2732360",
+  "doi": "10.1080/10293523.2026.2732360",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224921584",
+  "title": "Value investing and gambling: An asset pricing model integrating Q-theory and salience theory",
+  "journal": "Investment Analysts Journal",
+  "authors": [
+   "Shiwei Lin",
+   "Yihan Sun",
+   "Boyang Xu"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "Grounded in investment Q-theory, we treat industry discount rates as proxies for value-investment opportunities and use salience theory to measure gambling behaviour, integrating both into a novel asset pricing model – the ST-ICAPM – which we evaluate across Chinese industries from 2014 to 2023 …",
+  "url": "https://doi.org/10.1080/10293523.2026.2732360",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.5281/zenodo.23806135",
+  "doi": "10.5281/zenodo.23806135",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224867603",
+  "title": "Understanding Betting Risks among Urban Youth in Mwanza, Tanzania: A Qualitative Ethnographic Study",
+  "journal": "International Journal of Social Sciences and Humanities Review",
+  "authors": [
+   "Gloria Peter Amasi",
+   "John Hughson",
+   "Patrick Masanja"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "Sports betting has expanded across sub-Saharan Africa, increasingly intersecting with young people’s aspirations, technological accessibility, and economic insecurity. Although awareness of gambling-related risks may influence young people’s decisions, recognising such risks does not necessarily lead to cessation of betting …",
+  "url": "https://doi.org/10.5281/zenodo.23806135",
+  "oa_url": "https://doi.org/10.5281/zenodo.23806135",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth"
+  ],
+  "designs": [
+   "qualitative",
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TZ"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [
+   "TZ"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.22282/tojras.1902259",
+  "doi": "10.22282/tojras.1902259",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224742509",
+  "title": "Sporda Bahis Teması Üzerine Küresel Araştırma Trendlerinin Bibliometrik Analizi",
+  "journal": "The Online Journal of Recreation and Sport",
+  "authors": [
+   "Ömür Vuslat Bingöl",
+   "Dursun Katkat",
+   "Nezaket Bilge Uzun"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "Bu çalışmada R programlama dilinde Biblioshiny ara yüzü kullanılmış, konu üzerine yapılan araştırmaların bibliometrik özellikleri analiz edilmiştir …",
+  "url": "https://doi.org/10.22282/tojras.1902259",
+  "oa_url": "https://dergipark.org.tr/tr/download/article-file/5779350",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "tr",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/frwa.2026.1923411",
+  "doi": "10.3389/frwa.2026.1923411",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224829721",
+  "title": "On the ethics of utilizing prediction markets for forecasting hydrological catastrophe",
+  "journal": "Frontiers in Water",
+  "authors": [
+   "Travis Loof",
+   "Jonathan Frame"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "As peer-to-peer prediction markets increasingly allow real-money wagering on environmental events, public scientific agencies are being drawn into the role of financial “settlement oracles,” the designated sources of truth against which contracts resolve …",
+  "url": "https://doi.org/10.3389/frwa.2026.1923411",
+  "oa_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1923411/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.38035/snlpr.v3i1.1248",
+  "doi": "10.38035/snlpr.v3i1.1248",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224847915",
+  "title": "A Juridical Analysis of the Criminal Act of Web Defacement Involving Online Gambling via SEO Poisoning on Government Websites: A Review under the ITE Law and the Criminal Code",
+  "journal": "Siber Nusantara of Law and Politic Review",
+  "authors": [
+   "Achmad Yuliantoro",
+   "Edi Saputra Hasibuan",
+   "Diana Fitriana"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "Rapid advancements in information technology and digital transformation have catalyzed complex modern cybercrimes, prominently Search Engine Optimization (SEO) Poisoning and Web Defacement targeting critical government and public sector infrastructure …",
+  "url": "https://doi.org/10.38035/snlpr.v3i1.1248",
+  "oa_url": "https://research.e-siber.org/SNLPR/article/download/1248/854",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.chb.2026.109234",
+  "doi": "10.1016/j.chb.2026.109234",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224473762",
+  "title": "Social comparison and risky loot box use in video games: The roles of relative deprivation, perceived superiority, and perceived luck",
+  "journal": "Computers in Human Behavior",
+  "authors": [
+   "Siyuan Xu",
+   "YangLiu",
+   "Qiuming Tang",
+   "Ming Ji"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-30",
+  "first_seen": "2026-11-01",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.chb.2026.109234",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.21776/jmppk.2026.05.3.08",
+  "doi": "10.21776/jmppk.2026.05.3.08",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224796552",
+  "title": "Navigating Uncertainty in Loot Box Purchase Decisions: Budget Constraints and Perceived Utility",
+  "journal": "Jurnal Manajemen Pemasaran dan Perilaku Konsumen.",
+  "authors": [
+   "Naura Lintang Eka Sabillah",
+   "Aini Nur Furoida",
+   "Hendry Cahyono"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "Purpose – This study aims to understand how university students consider budget constraints, perceive the utility of digital items, and make loot box purchase decisions under uncertain outcomes. Design/Methodology/Approach – The study employed a qualitative descriptive-exploratory design …",
+  "url": "https://doi.org/10.21776/jmppk.2026.05.3.08",
+  "oa_url": "https://jmppk.ub.ac.id/index.php/jmppk/article/download/1040/456",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "youth"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1111/soc4.70274",
+  "doi": "10.1111/soc4.70274",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224961119",
+  "title": "Beyond the Individual: Rethinking Public Health Approaches to Gambling‐Related Harm",
+  "journal": "Sociology Compass",
+  "authors": [
+   "Rowland Edet",
+   "Lisa A. Kort‐Butler"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "ABSTRACT Public health approaches to gambling‐related harm have increasingly shifted from individual pathology to population‐level frameworks. However, these approaches remain under strain, as they continue to individualize harm while attempting to address broader structural conditions …",
+  "url": "https://doi.org/10.1111/soc4.70274",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/soc4.70274",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "policy",
+   "lived-experience"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.chbr.2026.101419",
+  "doi": "10.1016/j.chbr.2026.101419",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223685597",
+  "title": "Social identification on gambling websites as a correlate of gambling problems: A global cross-national study",
+  "journal": "Computers in Human Behavior Reports",
+  "authors": [
+   "Heli Hagfors",
+   "Teijo Osma",
+   "Luke Clark",
+   "Anu Sirola",
+   "Iina Savolainen",
+   "Eerik Mantere",
+   "Ilkka Vuorinen",
+   "Janne Vepsäläinen",
+   "Atte Oksanen"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-01",
+  "summary": "Background The global expansion of online gambling highlights gaps in our understanding of the social psychological mechanisms in digital environments that are associated with gambling-related harm …",
+  "url": "https://doi.org/10.1016/j.chbr.2026.101419",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2451958826004938/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "comorbidity",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "FI",
+   "CA"
+  ],
+  "regions": [
+   "europe",
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.59934/jaiea.v6i1.3073",
+  "doi": "10.59934/jaiea.v6i1.3073",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224743404",
+  "title": "Implementation of Deep Learning Using Long Short-Term Memory (LSTM) for a Web-Based Online Gambling Advertisement Detection System",
+  "journal": "Journal of Artificial Intelligence and Engineering Applications",
+  "authors": [
+   "Timotius Selar Sitompul",
+   "Insan Taufik",
+   "Yulita Molliq Rangkuti",
+   "Kana Saputra",
+   "Suvriadi Panggabean"
+  ],
+  "published": "2026-10-15",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-01",
+  "summary": "The widespread distribution of online gambling advertisements on digital platforms has become a significant issue requiring an automated detection system. This study aims to implement Deep Learning using a Long Short-Term Memory (LSTM) architecture to detect online gambling advertisements within a web-based environment …",
+  "url": "https://doi.org/10.59934/jaiea.v6i1.3073",
+  "oa_url": "https://doi.org/10.59934/jaiea.v6i1.3073",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "advertising"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:8cb81ac038a10667",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "A systematic review on cognitive distortions in gambling activities and gambling disorder",
+  "journal": "Addictive Behaviors",
+  "authors": [],
+  "published": null,
+  "year": null,
+  "created": null,
+  "first_seen": "2026-11-01",
+  "summary": "Publication date: Available online 30 October 2026 Source: Addictive Behaviors Author(s): Colleen Verwacht, Nellia Bellaert, Aurélien Cornil, Thomas Brihaye, Federico Cassioli, Mandy Rossignol",
+  "url": "https://www.sciencedirect.com/science/article/pii/S030646032600300X?dgcid=rss_sd_all",
+  "oa_url": null,
+  "sources": [
+   "feed:addictive-behaviors"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1002/hpja.70270",
   "doi": "10.1002/hpja.70270",
   "pmid": "42963140",
-  "pmcid": null,
-  "openalex": null,
+  "pmcid": "PMC13722572",
+  "openalex": "W7224743753",
   "title": "Unhealthy Digital Marketing Among Aboriginal People in Australia: Findings From the #DigitalMob Pilot Study",
   "journal": "Health promotion journal of Australia",
   "authors": [
@@ -27,14 +587,15 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-31",
+  "published": "2027-01-01",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
   "summary": "Issue Addressed: This study aimed to quantify Aboriginal adults' exposure to digital marketing of unhealthy food and beverages, alcohol, gambling, tobacco and e-cigarettes; analyse demographic differences in marketing exposure; and describe the nature of digital marketing reaching Aboriginal audiences, including brands, platforms and marketing tactics …",
   "url": "https://doi.org/10.1002/hpja.70270",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722572/",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -68,7 +629,7 @@
   "doi": "10.1007/s00127-026-03223-z",
   "pmid": "42961501",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224846252",
   "title": "Symptoms of borderline personality disorder in young men from the general population: prevalence, age-related changes, and longitudinal associations with risk-taking behaviors",
   "journal": "Social Psychiatry and Psychiatric Epidemiology",
   "authors": [
@@ -84,8 +645,9 @@
   "first_seen": "2026-10-31",
   "summary": "Borderline personality disorder (BPD) is a severe mental illness associated with emotional and functional impairment, elevated suicide risk, and high individual and societal costs. BPD is under-researched in the general population, especially among males, and from a developmental perspective …",
   "url": "https://doi.org/10.1007/s00127-026-03223-z",
-  "oa_url": null,
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s00127-026-03223-z.pdf",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -115,7 +677,7 @@
   "doi": "10.1007/s10899-026-10561-9",
   "pmid": "42961545",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224914123",
   "title": "Proposal of Gender-Sensitive Diagnostic Indicators for the Detection of Gambling Disorder in Women: An Exploratory and Qualitative Approach to Women's Narratives",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -133,6 +695,7 @@
   "sources": [
    "crossref",
    "feed:jgs",
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -160,7 +723,7 @@
   "doi": "10.1007/s10899-026-10572-6",
   "pmid": "42961546",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224735227",
   "title": "Factors Associated with Treatment Dropout Among Individuals with Gambling Disorder: A Retrospective Cohort Study",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -179,6 +742,7 @@
   "sources": [
    "crossref",
    "feed:jgs",
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -270,7 +834,7 @@
   "first_seen": "2026-10-31",
   "summary": "Introduction In Japan, noriuchi refers to a collaborative gambling practice in which multiple players pool money used for betting and later split the final net profit or loss …",
   "url": "https://doi.org/10.3389/fpsyg.2026.1831401",
-  "oa_url": "https://doi.org/10.3389/fpsyg.2026.1831401",
+  "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1831401/pdf",
   "sources": [
    "openalex"
   ],
@@ -314,7 +878,7 @@
   "first_seen": "2026-10-31",
   "summary": "Research question: Sports betting has been promoted as a way of attracting and boosting younger audiences, although critics warn that it turns sport into a means to an end and can generate social harms. Evidence on this process is scarce …",
   "url": "https://doi.org/10.1080/23750472.2026.2751118",
-  "oa_url": null,
+  "oa_url": "https://hdl.handle.net/10071/38813",
   "sources": [
    "openalex"
   ],
@@ -363,7 +927,7 @@
   "first_seen": "2026-10-31",
   "summary": "The proliferation of online gambling promotion by personal social media account holders demands the consistent application of law, while judges' freedom in imposing sentences (judicial discretion) has the potential to create disparities that undermine public trust in the judiciary …",
   "url": "https://doi.org/10.36232/ebl.v6i3.6550",
-  "oa_url": "https://doi.org/10.36232/ebl.v6i3.6550",
+  "oa_url": "https://e-journal.unimudasorong.ac.id/index.php/Equalitybeforethelaw/article/download/6550/2437",
   "sources": [
    "openalex"
   ],
@@ -379,8 +943,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -403,7 +971,7 @@
   "first_seen": "2026-10-31",
   "summary": "Adolescence is a critical transitional period prone to deviant behavior. In the digital era, the form of juvenile delinquency has transformed from conventional to technology-based, one of which is the rampant phenomenon of online gambling among school students, as identified in MAN 3 Indramayu …",
   "url": "https://psycoeducation.my.id/index.php/i/article/view/125",
-  "oa_url": "https://psycoeducation.my.id/index.php/i/article/view/125",
+  "oa_url": "https://psycoeducation.my.id/index.php/i/article/download/125/88",
   "sources": [
    "openalex"
   ],
@@ -470,8 +1038,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -556,8 +1128,12 @@
   "setting_regions": [
    "uk-ireland"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -637,8 +1213,12 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "KR"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -745,7 +1325,7 @@
   "first_seen": "2026-10-29",
   "summary": "In recent years, Powerball jackpots have reached exceptionally high levels, attracting substantial public attention and raising questions about how jackpot size is related to lottery ticket sales. This study examines the relationship between large Powerball jackpots and ticket sales in Texas from 2022 to 2025 …",
   "url": "https://doi.org/10.54254/2754-1169/2026.38106",
-  "oa_url": null,
+  "oa_url": "https://aemps.ewapub.com/article/view/38106.pdf",
   "sources": [
    "openalex"
   ],
@@ -790,7 +1370,7 @@
   "first_seen": "2026-10-29",
   "summary": "Abstract This study examines the effects of the introduction of an exclusion program on the distribution of gambling machines between gambling halls and gastronomic establishments. We use the German federal state of Hesse as a case study. Hesse introduced an exclusion program in 2014 for gambling halls …",
   "url": "https://doi.org/10.1007/s11149-026-09528-w",
-  "oa_url": "https://doi.org/10.1007/s11149-026-09528-w",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s11149-026-09528-w.pdf",
   "sources": [
    "openalex"
   ],
@@ -808,8 +1388,12 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -979,6 +1563,7 @@
   "oa_url": null,
   "sources": [
    "crossref",
+   "feed:glr",
    "openalex"
   ],
   "type": "article",
@@ -1305,15 +1890,18 @@
   "year": 2026,
   "created": "2026-10-26",
   "first_seen": "2026-10-26",
-  "summary": "This article argues that gambling litigation constitutes an overlooked but coherent body of jurisprudence that has significantly shaped the development of major constitutional doctrines.",
+  "summary": "Gaming Law Review, Volume 30, Issue 10, Page 263-273, December 2026. This article argues that gambling litigation constitutes an overlooked but coherent body of jurisprudence that has significantly shaped the development of major constitutional doctrines.",
   "url": "https://doi.org/10.1177/25725300261503803",
   "oa_url": null,
   "sources": [
    "crossref",
+   "feed:glr",
    "openalex"
   ],
   "type": "article",
-  "topics": [],
+  "topics": [
+   "policy"
+  ],
   "designs": [],
   "design_basis": "rules",
   "settings": [],
@@ -1538,67 +2126,6 @@
   ],
   "regions": [
    "us"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.36131/cnfioritieditore20260501",
-  "doi": "10.36131/cnfioritieditore20260501",
-  "pmid": "42909926",
-  "pmcid": "PMC13684849",
-  "openalex": null,
-  "title": "Gambling Involvement And Gambling-Related Problem Severity Among Psychiatric Outpatients And Community Participants",
-  "journal": "Clinical Neuropsychiatry",
-  "authors": [
-   "Antonino Costanzo",
-   "Giuseppe Maniaci",
-   "Carmen Concerto",
-   "Antonio Bruno",
-   "Ugo Pace",
-   "Alessia Passanisi",
-   "Caterina La Cascia",
-   "Laura Ferraro",
-   "Simone Russo Coco",
-   "Rossana Geraci",
-   "Alessandro Rodolico",
-   "Antonio Trovato",
-   "Antonino Petralia",
-   "Maria Salvina Signorelli",
-   "William Torregrossa",
-   "Fabrizio Turiaco",
-   "Maria Rosaria Anna Muscatello",
-   "Adriano Schimmenti"
-  ],
-  "published": "2026-10-31",
-  "year": 2026,
-  "created": "2026-10-23",
-  "first_seen": "2026-10-24",
-  "summary": "Gambling-related problems frequently co-occur with psychiatric conditions. This cross-sectional study examined past-year gambling involvement and gambling-related problem severity in psychiatric outpatients and community participants, with particular attention to the role of emotion dysregulation and impulsivity …",
-  "url": "https://doi.org/10.36131/cnfioritieditore20260501",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684849/",
-  "sources": [
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "policy",
-   "cognition",
-   "comorbidity"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "DE",
-   "IT"
-  ],
-  "regions": [
-   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -2108,6 +2635,67 @@
   ],
   "language": "en",
   "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.36131/cnfioritieditore20260501",
+  "doi": "10.36131/cnfioritieditore20260501",
+  "pmid": "42909926",
+  "pmcid": "PMC13684849",
+  "openalex": null,
+  "title": "Gambling Involvement And Gambling-Related Problem Severity Among Psychiatric Outpatients And Community Participants",
+  "journal": "Clinical Neuropsychiatry",
+  "authors": [
+   "Antonino Costanzo",
+   "Giuseppe Maniaci",
+   "Carmen Concerto",
+   "Antonio Bruno",
+   "Ugo Pace",
+   "Alessia Passanisi",
+   "Caterina La Cascia",
+   "Laura Ferraro",
+   "Simone Russo Coco",
+   "Rossana Geraci",
+   "Alessandro Rodolico",
+   "Antonio Trovato",
+   "Antonino Petralia",
+   "Maria Salvina Signorelli",
+   "William Torregrossa",
+   "Fabrizio Turiaco",
+   "Maria Rosaria Anna Muscatello",
+   "Adriano Schimmenti"
+  ],
+  "published": "2026-10-01",
+  "year": 2026,
+  "created": "2026-10-23",
+  "first_seen": "2026-10-24",
+  "summary": "Gambling-related problems frequently co-occur with psychiatric conditions. This cross-sectional study examined past-year gambling involvement and gambling-related problem severity in psychiatric outpatients and community participants, with particular attention to the role of emotion dysregulation and impulsivity …",
+  "url": "https://doi.org/10.36131/cnfioritieditore20260501",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684849/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "policy",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "DE",
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
   "retracted": false
  },
  {
@@ -3719,9 +4307,9 @@
   "id": "doi:10.1186/s12954-026-01565-0",
   "doi": "10.1186/s12954-026-01565-0",
   "pmid": "42888425",
-  "pmcid": "PMC13675995",
+  "pmcid": "13675995",
   "openalex": "W7222638795",
-  "title": "Study protocol: seeking treatment for gambling - a 10-year retrospective clinical and register study of gambling patterns and physical and psychiatric comorbidity in patients with gambling disorder",
+  "title": "Study protocol: seeking treatment for gambling – a 10-year retrospective clinical and register study of gambling patterns and physical and psychiatric comorbidity in patients with gambling disorder",
   "journal": "Harm Reduction Journal",
   "authors": [
    "Anders Håkansson",
@@ -3735,7 +4323,7 @@
   "first_seen": "2026-10-17",
   "summary": "Gambling disorder, the first non-substance-related addictive disorder to be recognized, can have a severe impact on health and psycho-social well-being, but treatment seeking is often low, and the documentation of clinical needs and medical comorbidities is sparser than for substance use disorders …",
   "url": "https://doi.org/10.1186/s12954-026-01565-0",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13675995/",
+  "oa_url": "https://link.springer.com/content/pdf/10.1186/s12954-026-01565-0.pdf",
   "sources": [
    "openalex",
    "pubmed"
@@ -3751,7 +4339,7 @@
    "protocol",
    "behavioral-data"
   ],
-  "design_basis": "pubmed",
+  "design_basis": "rules",
   "settings": [
    "SE"
   ],
@@ -6055,16 +6643,12 @@
   "openalex": "W7221323920",
   "title": "Online vs. In Person Gambling: Does Exposure to Brick-and-Mortar Gambling Shops Lead to Increased Online Gambling?",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Jing Zhang",
-   "Luning Li",
-   "Emmanouil Tranos"
-  ],
+  "authors": [],
   "published": "2026-10-10",
   "year": 2026,
   "created": "2026-10-10",
   "first_seen": "2026-10-10",
-  "summary": "Abstract The rise of online gambling in Great Britain in the past two decades has caused increased public health concerns. This study adds to existing evidence on physical gambling environment as a driver of gambling participation, using a 2022 national survey …",
+  "summary": "The rise of online gambling in Great Britain in the past two decades has caused increased public health concerns. This study adds to existing evidence on physical gambling environment as a driver of gambling participation, using a 2022 national survey …",
   "url": "https://doi.org/10.1007/s10899-026-10566-4",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10566-4.pdf",
   "sources": [
@@ -6088,13 +6672,9 @@
   "setting_regions": [
    "uk-ireland"
   ],
-  "countries": [
-   "GB"
-  ],
-  "regions": [
-   "uk-ireland"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6106,17 +6686,12 @@
   "openalex": "W7221361137",
   "title": "Distribution of Losses Among Horse Race Bettors: An Analysis of Account-Based Player Tracking Data",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Kerem Buzcular",
-   "Ingeborg Rossow",
-   "Ståle Pallesen",
-   "Tony Leino"
-  ],
+  "authors": [],
   "published": "2026-10-10",
   "year": 2026,
   "created": "2026-10-10",
   "first_seen": "2026-10-10",
-  "summary": "Abstract Previous research on gambling loss patterns has mainly relied on self-reported data, which has some inherent biases (e.g., low accuracy). While some studies are based on large samples of horse bettors, few have examined how losses are distributed among them …",
+  "summary": "Previous research on gambling loss patterns has mainly relied on self-reported data, which has some inherent biases (e.g., low accuracy). While some studies are based on large samples of horse bettors, few have examined how losses are distributed among them …",
   "url": "https://doi.org/10.1007/s10899-026-10568-2",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10568-2.pdf",
   "sources": [
@@ -6137,14 +6712,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "NO",
-   "TR"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -8032,7 +8602,7 @@
   "year": 2026,
   "created": "2026-10-01",
   "first_seen": "2026-10-01",
-  "summary": "Gaming Law Review, Ahead of Print. United States sportsbooks saw a sharp decline in June revenue thanks to two distinct events: the U.S. men's soccer World Cup opening match and the New York Knicks ending a 53-year title drought in the NBA.",
+  "summary": "Gaming Law Review, Volume 30, Issue 10, Page 274-280, December 2026. United States sportsbooks saw a sharp decline in June revenue thanks to two distinct events: the U.S. men's soccer World Cup opening match and the New York Knicks ending a 53-year title drought in the NBA.",
   "url": "https://doi.org/10.1177/25725300261493692",
   "oa_url": null,
   "sources": [
@@ -23091,7 +23661,7 @@
   "id": "doi:10.1007/s10071-026-02091-z",
   "doi": "10.1007/s10071-026-02091-z",
   "pmid": "42961680",
-  "pmcid": null,
+  "pmcid": "PMC13722762",
   "openalex": "W7172061053",
   "title": "Evidence of optimal choice in pigeons performing a bird-analog of the iowa gambling task",
   "journal": "Animal Cognition",
@@ -23105,7 +23675,7 @@
   "first_seen": "2026-07-31",
   "summary": "Gambling disorder is characterized by a maladaptive behavioral pattern that persists despite significant negative consequences. Neuropsychological paradigms such as the Iowa Gambling Task (IGT) and its adaptation to animal models, have provided critical insights into the mechanisms underlying this type of decision-making …",
   "url": "https://doi.org/10.1007/s10071-026-02091-z",
-  "oa_url": "https://doi.org/10.1007/s10071-026-02091-z",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722762/",
   "sources": [
    "openalex",
    "pubmed"
@@ -264068,39 +264638,6 @@
    "uk-ireland"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.51889/8448.2022.63.96.006",
-  "doi": "10.51889/8448.2022.63.96.006",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4387882684",
-  "title": "ЭМПИРИЧЕСКОЕ ИССЛЕДОВАНИЕ ПСИХОЛОГИЧЕСКИХ ОСОБЕННОСТЕЙ ЛЮДЕЙ, СТРАДАЮЩИХ АЗАРТНЫМИ ИГРАМИ",
-  "journal": "Habaršy. Psihologiâ seriâsy",
-  "authors": [
-   "М.А. Еркинбекова"
-  ],
-  "published": "2023-09-25",
-  "year": 2023,
-  "created": "2025-10-10",
-  "first_seen": "2023-09-25",
-  "summary": "Тәуелділік мәселелерінің өзектілігі әр түрлі тәуелді мінез-құлықтары бар адамдар санының тұрақты өсуіне байланысты айқын көрінеді. ХХ ғасырдың соңғы онжылдықтары мен ХХІ ғасырдың басында бұл құбылыс оны әлеуметтік және ғылыми бағалау үшін маңызды формалар мен ендіктерге ие болған кезде құмар ойындардың ерекше проблемасы ретінде пайда болды …",
-  "url": "https://doi.org/10.51889/8448.2022.63.96.006",
-  "oa_url": "https://bulletin-psychology.kaznpu.kz/index.php/ped/article/download/984/621",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": "kk",
   "relevance": "high",
   "retracted": false
  },
