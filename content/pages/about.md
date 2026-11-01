@@ -76,7 +76,11 @@ A misfiled study, a wrong date, a missing journal: write to <editor@gambling-res
 
 ## Citing the index
 
-The index data is released under CC0 at [/data/papers.json](/data/papers.json). Cite the underlying study, not this site; if you need to cite the index itself, "Gambling Research Index (gambling-research.com), retrieved [date]" is enough.
+Cite the study, not this site, when you are citing a finding. Cite the index itself when you have used it as a dataset, when you are reporting a count drawn from it, or when a resource page or library guide links to it:
+
+> Beerman, C. (2026). *Gambling Research Index* [Data set]. Retrieved 1 November 2026, from https://gambling-research.com/data/papers.json
+
+The whole index downloads as JSON or CSV under CC0, with every field documented, on the [index data page](/data/). Because the index is rebuilt nightly, any count taken from it should carry a retrieval date.
 
 ## If you need help with gambling
 

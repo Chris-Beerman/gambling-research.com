@@ -9,7 +9,8 @@ config/      site.yml (names, windows), sources.yml (queries, feeds, backfill_fr
              rules version), corrections.yml (hand fixes that override every rule)
 pipeline/    fetch.py (nightly collection) -> data/papers.json, data/news.json, data/trials.json, data/bills.json,
              data/cases.json, data/fetch_log.json, data/weekly/latest.json
-             build.py (renders _site/ from data/ and content/ with templates/; search_index.mjs writes _site/pagefind/)
+             build.py (renders _site/ from data/ and content/ with templates/; copies the JSON and writes the
+             public CSVs to _site/data/; search_index.mjs writes _site/pagefind/)
              gold.py (scores the index against the hand-checked studies in tests/gold/labels.yml)
 content/     pages/*.md (reference pages, About, methodology), digests/YYYY-MM-DD.md (weekly digest posts)
 templates/   Jinja2 templates; static/ holds the stylesheet, the filter script and the favicon
@@ -39,6 +40,10 @@ python -m http.server -d _site 8000
 ```
 
 When `data/papers.json` is empty the build falls back to `pipeline/fixtures/` so the templates can be checked without data.
+
+## Published data
+
+The build copies the JSON files to `_site/data/` and writes CSV copies beside them (`papers.csv` for the main index, `papers-borderline.csv` for the `relevance: low` records, plus news, trials, bills and cases). The CSV columns are declared in `CSV_COLUMNS` in `pipeline/build.py` and documented field by field on `content/pages/data.md`, which renders at `/data/` alongside the files themselves. **The columns are a contract:** add to the end of a list rather than reordering, and when you change one, change that page in the same commit — `tests/test_csv_export.py` checks that every field of a paper record is published.
 
 ## Writing a digest
 
