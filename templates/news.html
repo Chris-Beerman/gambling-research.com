@@ -8,8 +8,9 @@
   <p class="kicker kind-news">Policy and public health</p>
   <h1>Policy and news</h1>
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'news') }}{% endif %}
-  <p class="page-deck">{{ count }} items from the past {{ window }} days, collected from regulators, courts, the press and trade outlets and sorted by category. Headlines link to the original source; nothing is rewritten here. Items are categorised by keyword, so expect the occasional miss.</p>
+  <p class="page-deck">{{ count }} items from the past {{ window }} days, collected from regulators, courts, the press and trade outlets and sorted by category. Headlines link to the original source; nothing is rewritten here. Items are categorised by keyword, so expect the occasional miss. <a href="/data/news.csv">These items as CSV</a>.</p>
 </section>
+{{ m.charts_block(charts) }}
 <form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
   <div class="filter-row">
     <label class="filter-search"><span class="visually-hidden">Search headlines and sources</span><input type="search" id="q" placeholder="Search headlines and sources" autocomplete="off"></label>
