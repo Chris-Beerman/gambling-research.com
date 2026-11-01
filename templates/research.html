@@ -47,5 +47,6 @@
 {% if not borderline %}
 <p class="fine">Something misfiled, or a study missing? <a href="/methodology/#corrections">How to report it</a>. Items judged only loosely related are listed under <a href="/research/borderline/">possibly related</a>.</p>
 {% endif %}
+{% if cite %}{{ m.cite_block(cite) }}{% endif %}
 {% endblock %}
 {% block scripts %}{% if not borderline %}<script src="/static/filters.js" defer></script>{% endif %}{% endblock %}

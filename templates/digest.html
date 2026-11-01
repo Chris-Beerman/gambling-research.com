@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "_macros.html" as m %}
 {% block title %}{{ digest.title }}: {{ site.title }} weekly digest{% endblock %}
 {% block description %}{{ digest.summary or site.descriptor }}{% endblock %}
 {% block head %}<meta name="author" content="{{ site.editor.name }}">
@@ -11,5 +12,6 @@
   <p class="byline">{{ digest.date|fmt_date('long') }}. By <a href="/about/#editor">{{ site.editor.name }}</a>, {{ site.editor.credentials }}.</p>
   {% if digest.summary %}<p class="deck">{{ digest.summary }}</p>{% endif %}
   {{ digest.html|safe }}
+  {% if cite %}{{ m.cite_block(cite) }}{% endif %}
 </article>
 {% endblock %}

@@ -58,5 +58,6 @@
 {% endfor %}
 </div>
 <p class="fine">CourtListener's search is queried nightly for opinions filed in the window and for federal dockets (RECAP) with new filings, using gambling terms; a record is kept when its case name, snippet or docket entries name gambling, betting, a lottery, casino, gaming regulation, prediction markets or self-exclusion. State trial courts and most state dockets are not in CourtListener, and criminal cases that mention gambling in passing do get through. Something wrong? <a href="/methodology/#corrections">How to report it</a>.</p>
+{% if cite %}{{ m.cite_block(cite) }}{% endif %}
 {% endblock %}
 {% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}

@@ -53,5 +53,6 @@
 {% endfor %}
 </div>
 <p class="fine">Found by full-text search of state bills for gambling terms (Open States) and by matching the official titles of federal bill texts (GovInfo), then kept only if the title, abstract or subject names gambling, betting, a lottery, casino, gaming regulation, prediction markets or self-exclusion. Appropriations and omnibus bills that mention gambling only in passing are usually missed. Stage is derived from the legislature's recorded actions. Something wrong? <a href="/methodology/#corrections">How to report it</a>.</p>
+{% if cite %}{{ m.cite_block(cite) }}{% endif %}
 {% endblock %}
 {% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}

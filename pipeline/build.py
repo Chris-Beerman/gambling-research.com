@@ -4,6 +4,7 @@
 """
 from __future__ import annotations
 
+import csv
 import datetime as dt
 import json
 import re
@@ -138,6 +139,110 @@ def setting_names(codes: list[str]) -> list[str]:
     return [countries.COUNTRY_NAMES.get(c, c) for c in codes or []]
 
 
+# ---------------------------------------------------------------- data exports
+# Explicit, stable column order per tracker: analysts build scripts against
+# these, so a column must not move or vanish because a field was empty in one
+# night's data. List fields are joined with "; "; nested structures are counted
+# rather than flattened (the JSON carries their detail).
+CSV_COLUMNS: dict[str, list[str]] = {
+    "papers": [
+        "id", "doi", "pmid", "pmcid", "openalex", "title", "journal", "authors", "published", "year",
+        "first_seen", "url", "oa_url", "type", "topics", "designs", "settings", "setting_regions",
+        "countries", "regions", "language", "relevance", "retracted", "sources", "summary",
+    ],
+    "trials": [
+        "id", "registry", "kind", "title", "status", "study_type", "phases", "enrollment", "conditions",
+        "interventions", "sponsor", "sponsor_class", "collaborators", "countries", "regions",
+        "start_date", "completion_date", "first_posted", "last_updated", "results_posted", "results_date",
+        "registration_type", "topics", "designs", "first_seen", "url", "summary",
+    ],
+    "bills": [
+        "id", "level", "jurisdiction", "jurisdiction_code", "session", "identifier", "congress",
+        "bill_type", "number", "title", "classification", "subjects", "sponsors", "introduced",
+        "latest_action_date", "latest_action", "latest_passage_date", "stage", "previous_stage",
+        "stage_changed", "topics", "first_seen", "url", "source_url", "abstract",
+    ],
+    "cases": [
+        "id", "kind", "case_name", "court", "court_id", "court_citation", "court_level", "date_filed",
+        "date_terminated", "latest_activity", "docket_number", "citation", "status", "suit_nature",
+        "cite_count", "documents_count", "topics", "first_seen", "url", "snippet",
+    ],
+}
+
+# What each tracker is, for the Dataset markup and the citation line.
+DATASETS: dict[str, dict] = {
+    "papers": {
+        "page": "/research/",
+        "name": "Gambling research index: studies and preprints",
+        "title": "Gambling studies and preprints",
+        "description": (
+            "Peer-reviewed studies and preprints on gambling, betting, lotteries, loot boxes and prediction "
+            "markets, collected nightly from PubMed, OpenAlex, Crossref and journal feeds, and tagged by topic, "
+            "study design and study setting. One row per study."
+        ),
+        "keywords": ["gambling", "problem gambling", "sports betting", "bibliometrics", "research index"],
+        "cite_note": "Citing a finding? Cite the study itself, not this index. Cite the dataset when the index is what you used — its coverage, counts, tags or trends over time.",
+        "sources": ["https://pubmed.ncbi.nlm.nih.gov/", "https://openalex.org/", "https://www.crossref.org/"],
+        "spatial": "Worldwide",
+    },
+    "trials": {
+        "page": "/trials/",
+        "name": "Gambling clinical trials and preregistrations",
+        "title": "Gambling trials and preregistrations",
+        "description": (
+            "Registered clinical trials and public preregistrations of studies on gambling and betting, from "
+            "ClinicalTrials.gov, ISRCTN and OSF Registries, with recruitment status, sponsor, country and whether "
+            "results have been posted. One row per registration."
+        ),
+        "keywords": ["gambling", "clinical trials", "preregistration", "problem gambling", "treatment"],
+        "cite_note": "Referring to one trial? Cite its registry record. Cite the dataset when you use the compilation — how many trials are recruiting, what is being tested, how often results are posted.",
+        "sources": ["https://clinicaltrials.gov/", "https://www.isrctn.com/", "https://osf.io/registries"],
+        "spatial": "Worldwide",
+    },
+    "bills": {
+        "page": "/bills/",
+        "name": "US gambling legislation tracker",
+        "title": "Gambling bills in state legislatures and Congress",
+        "description": (
+            "Bills on gambling, sports betting, lotteries, casinos, prediction markets and self-exclusion in the "
+            "US state legislatures and Congress, with sponsor, subject, latest recorded action and derived "
+            "legislative stage. One row per bill."
+        ),
+        "keywords": ["gambling legislation", "sports betting law", "state legislatures", "prediction markets", "self-exclusion"],
+        "cite_note": "Referring to one bill? Cite the bill and its legislature. Cite the dataset when you use the compilation — counts by state, what passed, how a session moved.",
+        "sources": ["https://openstates.org/", "https://www.govinfo.gov/", "https://www.congress.gov/"],
+        "spatial": "United States",
+    },
+    "cases": {
+        "page": "/courts/",
+        "name": "Gambling court opinions and federal dockets",
+        "title": "Gambling court rulings and dockets",
+        "description": (
+            "Court opinions and federal dockets involving gambling, sports betting, lotteries, tribal gaming, "
+            "sweepstakes and event contracts, from CourtListener, with court, level, filing date and citation "
+            "count. One row per opinion or docket."
+        ),
+        "keywords": ["gambling law", "court opinions", "tribal gaming", "event contracts", "sweepstakes"],
+        "cite_note": "Referring to one ruling? Cite the opinion. Cite the dataset when you use the compilation — what is being litigated, where, and how often.",
+        "sources": ["https://www.courtlistener.com/"],
+        "spatial": "United States",
+    },
+}
+
+
+def csv_cell(value) -> str:
+    """One JSON value as one CSV cell."""
+    if value is None:
+        return ""
+    if isinstance(value, bool):
+        return "true" if value else "false"
+    if isinstance(value, (list, tuple)):
+        return "; ".join(csv_cell(v) for v in value if v not in (None, ""))
+    if isinstance(value, dict):
+        return json.dumps(value, ensure_ascii=False, sort_keys=True)
+    return str(value)
+
+
 # ---------------------------------------------------------------- build
 class Builder:
     def __init__(self):
@@ -192,6 +297,127 @@ class Builder:
         self.subnavs = {
             "research": [("/research/", "New studies"), ("/trials/", "Trials and preregistrations"), ("/research/topics/", "Topics"), ("/research/archive/", "Archive")],
             "policy": [("/news/", "News"), ("/bills/", "Bills"), ("/courts/", "Courts")],
+        }
+
+    # ---- exports, Dataset markup and citations ----
+    def tracker_records(self, key: str) -> list[dict]:
+        return {"papers": self.papers_all, "trials": self.trials_all, "bills": self.bills_all, "cases": self.cases_all}[key]
+
+    def write_csv(self, key: str, records: list[dict]) -> None:
+        """A CSV mirror of the tracker's JSON, at a stable URL beside it."""
+        cols = CSV_COLUMNS[key]
+        dest = SITE_DIR / "data" / f"{key}.csv"
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        with open(dest, "w", encoding="utf-8", newline="") as f:
+            w = csv.writer(f, lineterminator="\n")
+            w.writerow(cols)
+            for rec in records:
+                row = []
+                for c in cols:
+                    if c == "documents_count":
+                        row.append(str(len(rec.get("documents") or [])))
+                    else:
+                        row.append(csv_cell(rec.get(c)))
+                w.writerow(row)
+
+    def coverage_span(self, key: str, records: list[dict]) -> str:
+        """ISO 8601 open-ended interval covering the records actually present."""
+        field = {"papers": "published", "trials": "first_posted", "bills": "introduced", "cases": "date_filed"}[key]
+        if key == "papers" and self.coverage_from():
+            start = self.coverage_from()
+        else:
+            dates = sorted(x for x in (r.get(field) or "" for r in records) if x)
+            start = dates[0][:10] if dates else None
+        return f"{start}/.." if start else ""
+
+    def dataset_schema(self, key: str, records: list[dict]) -> dict:
+        spec = DATASETS[key]
+        base = self.site["url"]
+        page = base + spec["page"]
+        ed = self.site.get("editor", {})
+        creator = {"@type": "Person", "@id": f"{base}/about/#editor", "name": ed.get("name"), "url": f"{base}/about/"}
+        if ed.get("credentials"):
+            creator["honorificSuffix"] = ed["credentials"]
+        if ed.get("orcid"):
+            creator["identifier"] = f"https://orcid.org/{ed['orcid']}"
+            creator["sameAs"] = f"https://orcid.org/{ed['orcid']}"
+        schema = {
+            "@context": "https://schema.org",
+            "@type": "Dataset",
+            "@id": page + "#dataset",
+            "name": spec["name"],
+            "description": spec["description"],
+            "url": page,
+            "keywords": spec["keywords"],
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "isAccessibleForFree": True,
+            "creator": creator,
+            "publisher": {"@type": "Person", "@id": f"{base}/about/#editor", "name": ed.get("name")},
+            "inLanguage": "en",
+            "isBasedOn": spec["sources"],
+            "variableMeasured": [c for c in CSV_COLUMNS[key]],
+            "distribution": [
+                {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": f"{base}/data/{key}.json"},
+                {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": f"{base}/data/{key}.csv"},
+            ],
+            "includedInDataCatalog": {"@type": "DataCatalog", "name": self.site["title"], "url": base + "/"},
+            "creativeWorkStatus": "Updated nightly",
+        }
+        span = self.coverage_span(key, records)
+        if span:
+            schema["temporalCoverage"] = span
+        if spec.get("spatial"):
+            schema["spatialCoverage"] = {"@type": "Place", "name": spec["spatial"]}
+        modified = (self.fetch_log.get("finished") or "")[:10]
+        if modified:
+            schema["dateModified"] = modified
+        return schema
+
+    def as_of(self) -> str:
+        """The date the data last changed, for the citation line."""
+        stamp = (self.fetch_log.get("finished") or "")[:10]
+        return stamp or self.today.isoformat()
+
+    def cite_data(self, key: str) -> dict:
+        """The suggested citation for a tracker page."""
+        spec = DATASETS[key]
+        base = self.site["url"]
+        page = base + spec["page"]
+        ed = self.site.get("editor", {})
+        author = f"{family(ed.get('name', ''))}, {ed.get('name', ' ')[0]}." if ed.get("name") else ""
+        as_of = self.as_of()
+        text = (
+            f"{author} ({as_of[:4]}). {spec['title']} [Data set]. {self.site['title']}. "
+            f"Data as of {fmt_date(as_of, 'long')}. {page}"
+        )
+        return {
+            "text": text,
+            "licence": "CC0 1.0",
+            "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "kind": "data",
+            "json_url": f"/data/{key}.json",
+            "csv_url": f"/data/{key}.csv",
+            "as_of": as_of,
+            "note": spec.get("cite_note", ""),
+        }
+
+    def cite_text(self, title: str, path: str, *, date: str | None = None, extra: str = "", date_label: str = "") -> dict:
+        """The suggested citation for an editorial page or a digest issue."""
+        base = self.site["url"]
+        ed = self.site.get("editor", {})
+        author = f"{family(ed.get('name', ''))}, {ed.get('name', ' ')[0]}." if ed.get("name") else ""
+        stamp = (date or self.today.isoformat())[:10]
+        bits = [f"{author} ({stamp[:4]}).", f"{title}{extra}.", f"{self.site['title']}."]
+        if date:
+            bits.append(f"{date_label} {fmt_date(stamp, 'long')}.".strip())
+        else:
+            bits.append(f"Retrieved {fmt_date(self.today.isoformat(), 'long')}.")
+        bits.append(f"{base}{path}")
+        return {
+            "text": " ".join(bits),
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "kind": "text",
         }
 
     # ---- data views ----
@@ -389,6 +615,9 @@ class Builder:
             if src.exists():
                 (SITE_DIR / "data" / name).parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy(src, SITE_DIR / "data" / name)
+        # CSV mirrors of the four CC0 trackers, at stable URLs beside the JSON.
+        for key in CSV_COLUMNS:
+            self.write_csv(key, self.tracker_records(key))
 
         window = self.site.get("index_window_days", 90)
         recent = self.papers(window)
@@ -427,6 +656,7 @@ class Builder:
             settings=[(s, self.tax.regions[s]["label"], n) for s, n in setting_counts.most_common() if s in self.tax.regions],
             designs=[(s, self.tax.design_label(s), n) for s, n in sorted(design_counts.items(), key=lambda x: self.tax.design_order.index(x[0]) if x[0] in self.tax.design_order else 99)], this_week_count=len(this_week),
             total_count=len(self.papers(None)), coverage_from=self.coverage_from(),
+            dataset=self.dataset_schema("papers", self.papers_all), cite=self.cite_data("papers"),
         )
         # Borderline (low relevance) for transparency
         low = self.papers(window, relevance="low")
@@ -468,6 +698,7 @@ class Builder:
             topics=[(x, self.tax.topic_label(x), n) for x, n in trial_topics.most_common(10)],
             regions=[(x, self.tax.regions[x]["label"], n) for x, n in trial_regions.most_common() if x in self.tax.regions],
             registries=[(k, v) for k, v in (("clinicaltrials", "ClinicalTrials.gov"), ("isrctn", "ISRCTN"), ("osf", "OSF Registries")) if any(t.get("registry") == k for t in self.trials_all)],
+            dataset=self.dataset_schema("trials", self.trials_all), cite=self.cite_data("trials"),
         )
         bills_window = self.site.get("bills_window_days", 365)
         bitems = self.bills(bills_window)
@@ -485,6 +716,7 @@ class Builder:
             topics=[(x, self.tax.topic_label(x), n) for x, n in bill_topics.most_common(14)],
             enacted_year=[b for b in bitems if b.get("stage") == "enacted" and (b.get("latest_action_date") or "")[:4] == year],
             recent_count=sum(1 for b in bitems if (b.get("latest_action_date") or "") >= month_ago),
+            dataset=self.dataset_schema("bills", self.bills_all), cite=self.cite_data("bills"),
         )
         cases_window = self.site.get("cases_window_days", 180)
         citems = self.cases(cases_window)
@@ -497,6 +729,7 @@ class Builder:
             levels=[(slug, label, level_counts.get(slug, 0)) for slug, label in COURT_LEVELS if level_counts.get(slug)],
             topics=[(x, self.tax.topic_label(x), n) for x, n in case_topics.most_common(14)],
             recent_opinions=sum(1 for c in citems if c.get("kind") == "opinion" and (c.get("date_filed") or "") >= month_ago),
+            dataset=self.dataset_schema("cases", self.cases_all), cite=self.cite_data("cases"),
         )
         self.render("feed_trials.xml", "trials/feed.xml", trials=sorted(self.trials_all, key=lambda t: (t.get("first_seen") or "", t["title"]), reverse=True)[:50])
         self.render("feed_bills.xml", "bills/feed.xml", bills=bitems[:50])
@@ -504,7 +737,10 @@ class Builder:
         # Digests
         self.render("digest_index.html", "digest/index.html", digests=digests)
         for dg in digests:
-            self.render("digest.html", f"digest/{dg['slug']}/index.html", digest=dg)
+            self.render(
+                "digest.html", f"digest/{dg['slug']}/index.html", digest=dg,
+                cite=self.cite_text(dg["title"], dg["url"], date=str(dg["date"]), extra=f" (Weekly Digest No. {dg['number']})"),
+            )
         # Reference and other pages
         for path in sorted((CONTENT_DIR / "pages").glob("*.md")):
             meta, html = read_markdown(path)
@@ -512,12 +748,20 @@ class Builder:
             if slug == "methodology":
                 self.render(
                 "methodology.html", f"{slug}/index.html", page=meta, body=html, log=self.fetch_log, sources=self.sources, topics=self.tax.topics,
+                cite=self.cite_text(meta.get("title", slug), f"/{slug}/"),
                 topic_min=self.tax.topic_min, designs=self.tax.designs, design_rules=self.tax.design_rules, pubtypes=self.tax.pubtypes,
                 gold=load_json(DATA_DIR / "gold_report.json", {}), index_meta=load_json(DATA_DIR / "index_meta.json", {}),
                 n_corrections=len(self.tax.corrections.by_key),
             )
             else:
-                self.render("page.html", f"{slug}/index.html", page=meta, body=html)
+                cite = None
+                if meta.get("cite", True):
+                    cite = self.cite_text(
+                        meta.get("title", slug), f"/{slug}/",
+                        date=str(meta["updated"]) if meta.get("updated") else None,
+                        date_label="Last updated",
+                    )
+                self.render("page.html", f"{slug}/index.html", page=meta, body=html, cite=cite)
         # Search across the whole index
         main_index = self.papers(None)
         search_ok = self.build_search(main_index)

@@ -292,3 +292,65 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
   body { background: #fff; color: #000; }
   a { color: #000; }
 }
+
+/* Suggested citation. Set in the sans face at small size so it reads as
+   apparatus rather than body copy; the citation line itself is monospace so a
+   DOI or URL can be checked character by character before it is copied. */
+.cite {
+  font-family: var(--sans);
+  max-width: var(--measure);
+  margin: 2.6rem 0 0;
+  padding: 1rem 1.1rem 1.1rem;
+  background: var(--paper-2);
+  border-radius: 4px;
+  border-top: 2px solid var(--baize);
+}
+.cite-heading {
+  font-family: var(--sans);
+  font-size: .74rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--ink-2);
+  margin: 0 0 .55rem;
+}
+.cite-line {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .78rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper);
+  margin: 0;
+  padding: .6rem .7rem;
+  border-radius: 3px;
+  border: 1px solid var(--rule);
+  overflow-wrap: anywhere;
+  -webkit-user-select: all;
+  user-select: all;
+}
+.cite-actions { display: flex; align-items: center; gap: .6rem; margin: .5rem 0 0; }
+.cite-copy {
+  font-family: var(--sans);
+  font-size: .76rem;
+  font-weight: 500;
+  color: var(--paper);
+  background: var(--baize);
+  border: 0;
+  border-radius: 3px;
+  padding: .3rem .8rem;
+  cursor: pointer;
+}
+.cite-copy:hover { background: var(--baize-2); }
+.cite-copy:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.cite-status { font-size: .76rem; color: var(--ink-2); }
+.cite-note {
+  font-size: .78rem;
+  line-height: 1.55;
+  color: var(--ink-2);
+  margin: .7rem 0 0;
+}
+.cite-note a { color: var(--ink-2); }
+.cite-note a:hover { color: var(--ink); }
+@media (prefers-color-scheme: dark) {
+  .cite-copy { color: #0b1310; }
+}
