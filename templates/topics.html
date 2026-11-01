@@ -10,6 +10,7 @@
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'research') }}{% endif %}
   <p class="page-deck">Counts are for studies that entered the index in the past {{ window }} days. Tags come from keyword rules applied to titles and abstracts, listed on the <a href="/methodology/#tagging">methodology page</a>.</p>
 </section>
+{{ m.charts_block(charts) }}
 <ul class="topic-grid">
   {% for slug, label, n in topics %}
   <li><a href="/research/topics/{{ slug }}/">{{ label|capitalize }}</a> <span class="count">{{ n }}</span></li>

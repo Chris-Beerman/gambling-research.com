@@ -74,9 +74,9 @@ The index is software: a nightly job that queries public bibliographic databases
 
 A misfiled study, a wrong date, a missing journal: write to <editor@gambling-research.com> or open an issue on GitHub. Corrections are made in the data, not quietly on the page, so they carry forward.
 
-## Citing the index
+## Citing and reusing the index
 
-The index data is released under CC0 at [/data/papers.json](/data/papers.json). Cite the underlying study, not this site; if you need to cite the index itself, "Gambling Research Index (gambling-research.com), retrieved [date]" is enough.
+Cite the underlying study, not this site, whenever the claim is the study's. Where the index itself is the source — a count, a trend, a chart — every data page prints a suggested citation with the date the data was current, and publishes its rows as a CSV at a fixed address. The terms, the files, and what reporters can expect on deadline are on [using this data](/data-use/).
 
 ## If you need help with gambling
 

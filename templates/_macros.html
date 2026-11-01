@@ -32,3 +32,31 @@
   {% for href, label in items %}<a href="{{ href }}"{% if current == href %} aria-current="page"{% endif %}>{{ label }}</a>{% endfor %}
 </nav>
 {% endmacro %}
+
+{% macro chart_figure(ch) %}
+<figure class="chart">
+  <img src="{{ ch.url }}" alt="{{ ch.alt }}" width="{{ ch.width }}" height="{{ ch.height }}" loading="lazy" decoding="async">
+  <figcaption>{{ ch.caption }} <a href="{{ ch.url }}">Chart as SVG</a>; free to reuse with credit, which is printed inside the image.</figcaption>
+</figure>
+{% endmacro %}
+
+{% macro charts_block(charts) %}
+{% if charts %}
+<div class="charts">
+  {% for ch in charts %}{{ chart_figure(ch) }}{% endfor %}
+</div>
+{% endif %}
+{% endmacro %}
+
+{% macro cite_block(citation, dp) %}
+<aside class="cite" aria-labelledby="cite-heading">
+  <h2 id="cite-heading">Cite this page</h2>
+  <p class="cite-line" id="cite-text">{{ citation }}</p>
+  <p class="cite-actions">
+    <button type="button" class="cite-copy" data-copy="cite-text" data-done="Copied">Copy citation</button>
+    <a href="{{ dp.csv_url }}">Download these {{ '{:,}'.format(dp.count) }} rows as CSV</a>
+    {% if dp.json_url %}<a href="{{ dp.json_url }}">Full data as JSON</a>{% endif %}
+    <a href="/data-use/">Reuse, attribution and press</a>
+  </p>
+</aside>
+{% endmacro %}

@@ -8,8 +8,9 @@
   <p class="kicker kind-news">Policy and public health</p>
   <h1>Bills</h1>
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'news') }}{% endif %}
-  <p class="page-deck">{{ count }} {{ 'bill' if count == 1 else 'bills' }} on gambling, betting, lotteries, casinos, prediction markets or self-exclusion with action in the past {{ window }} days{% if n_jurisdictions %}, in {{ n_jurisdictions }} state {{ 'legislature' if n_jurisdictions == 1 else 'legislatures' }}{% if has_federal %} and Congress{% endif %}{% endif %}; {{ recent_count }} moved in the past 30 days{% if enacted_year %}, {{ enacted_year|length }} {{ 'was' if enacted_year|length == 1 else 'were' }} enacted this year{% endif %}. State bills come from Open States, federal bills from GovInfo and Congress.gov. The stage is read from recorded actions and can lag a legislature's own site by a day or two. <a href="/bills/feed.xml">RSS feed</a>, <a href="/methodology/#bills">how this list is made</a>.</p>
+  <p class="page-deck">{{ count }} {{ 'bill' if count == 1 else 'bills' }} on gambling, betting, lotteries, casinos, prediction markets or self-exclusion with action in the past {{ window }} days{% if n_jurisdictions %}, in {{ n_jurisdictions }} state {{ 'legislature' if n_jurisdictions == 1 else 'legislatures' }}{% if has_federal %} and Congress{% endif %}{% endif %}; {{ recent_count }} moved in the past 30 days{% if enacted_year %}, {{ enacted_year|length }} {{ 'was' if enacted_year|length == 1 else 'were' }} enacted this year{% endif %}. State bills come from Open States, federal bills from GovInfo and Congress.gov. The stage is read from recorded actions and can lag a legislature's own site by a day or two. <a href="/bills/feed.xml">RSS feed</a>, <a href="/data/bills.csv">CSV</a>, <a href="/methodology/#bills">how this list is made</a>.</p>
 </section>
+{{ m.charts_block(charts) }}
 
 <form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
   <div class="filter-row">

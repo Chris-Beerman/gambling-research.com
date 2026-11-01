@@ -10,6 +10,8 @@ config/      site.yml (names, windows), sources.yml (queries, feeds, backfill_fr
 pipeline/    fetch.py (nightly collection) -> data/papers.json, data/news.json, data/trials.json, data/bills.json,
              data/cases.json, data/fetch_log.json, data/weekly/latest.json
              build.py (renders _site/ from data/ and content/ with templates/; search_index.mjs writes _site/pagefind/)
+             exports.py (one description per data page: its CSV columns, citation and Dataset metadata)
+             charts.py (standalone SVG charts with the source printed inside the image)
              gold.py (scores the index against the hand-checked studies in tests/gold/labels.yml)
 content/     pages/*.md (reference pages, About, methodology), digests/YYYY-MM-DD.md (weekly digest posts)
 templates/   Jinja2 templates; static/ holds the stylesheet, the filter script and the favicon
@@ -39,6 +41,23 @@ python -m http.server -d _site 8000
 ```
 
 When `data/papers.json` is empty the build falls back to `pipeline/fixtures/` so the templates can be checked without data.
+
+## Data pages: CSV, citation, charts, Dataset metadata
+
+Every page that publishes counts is described once in `pipeline/build.py` as a `DataPage`, and that one description drives four things that then cannot drift apart:
+
+- **a CSV** at a fixed address (`/data/research.csv`, `/data/bills.csv`, `/data/topics/<topic>.csv`, `/data/research-archive/<YYYY-MM>.csv`), holding exactly the rows the page shows;
+- **a suggested citation** printed at the foot of the page with a copy button, carrying the author, the title, the index's as-of date and the URL;
+- **`schema.org/Dataset` metadata**, which is what makes the pages eligible for Google Dataset Search, with every CSV column described in `variableMeasured`;
+- **a row in the catalogue** on `/data-use/`, which also carries the `DataCatalog` node tying the datasets together.
+
+The as-of date on all of them is when the last nightly fetch finished (`data/fetch_log.json`), not when the build ran, so a rebuild without a fetch does not move it.
+
+**Adding a data page:** build the rows, then `self.publish(DataPage(...))` and pass the result to `self.render(..., dp=...)`. The citation block and the Dataset metadata are emitted by `templates/base.html` for any page given a `dp`, so a new page needs no template change beyond `{{ m.charts_block(charts) }}` if it has a chart. Column sets live in `pipeline/exports.py`; each column carries the one-line description that is published in the structured data and read by anyone using the file.
+
+**Charts** are written by `pipeline/charts.py` as plain SVG, with no plotting library, to `/charts/<name>.svg`. Each one prints the domain, the as-of date and the licence inside the image, so the credit survives a screenshot, and carries its own dark-mode steps so it follows the reader's theme while still being a file an outlet can download. The intrinsic size is 960px wide; change `BAR_CAP`, `RADIUS` or the colour steps at the top of that module.
+
+To change what reporters are told about reuse or reply times, edit `content/pages/data-use.md`. The catalogue below the prose is generated, and is placed where the `<!-- catalogue -->` comment sits in that file.
 
 ## Writing a digest
 

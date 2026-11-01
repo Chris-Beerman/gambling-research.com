@@ -8,8 +8,9 @@
   <p class="kicker kind-news">Policy and public health</p>
   <h1>Courts</h1>
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'news') }}{% endif %}
-  <p class="page-deck">{{ n_opinions }} {{ 'opinion' if n_opinions == 1 else 'opinions' }} filed and {{ n_dockets }} federal {{ 'docket' if n_dockets == 1 else 'dockets' }} with filings in the past {{ window }} days that involve gambling, betting, lotteries, casinos, tribal gaming, sweepstakes or event contracts, from <a href="https://www.courtlistener.com" rel="noopener">CourtListener</a>; {{ recent_opinions }} {{ 'opinion' if recent_opinions == 1 else 'opinions' }} in the past 30 days. Opinions are listed by filing date, dockets by their latest filing. Search terms chose these, not a lawyer; the weekly digest notes the ones that matter. <a href="/courts/feed.xml">RSS feed</a>, <a href="/methodology/#courts">how this list is made</a>.</p>
+  <p class="page-deck">{{ n_opinions }} {{ 'opinion' if n_opinions == 1 else 'opinions' }} filed and {{ n_dockets }} federal {{ 'docket' if n_dockets == 1 else 'dockets' }} with filings in the past {{ window }} days that involve gambling, betting, lotteries, casinos, tribal gaming, sweepstakes or event contracts, from <a href="https://www.courtlistener.com" rel="noopener">CourtListener</a>; {{ recent_opinions }} {{ 'opinion' if recent_opinions == 1 else 'opinions' }} in the past 30 days. Opinions are listed by filing date, dockets by their latest filing. Search terms chose these, not a lawyer; the weekly digest notes the ones that matter. <a href="/courts/feed.xml">RSS feed</a>, <a href="/data/courts.csv">CSV</a>, <a href="/methodology/#courts">how this list is made</a>.</p>
 </section>
+{{ m.charts_block(charts) }}
 
 <form class="filters" id="filters" aria-label="Filter the list" onsubmit="return false">
   <div class="filter-row">
