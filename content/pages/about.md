@@ -1,5 +1,6 @@
 ---
 title: About
+cite: false
 description: Who edits the Gambling Research Index, why it exists, and how it stays independent of the gambling industry.
 deck: A running record of what is being published about gambling, kept by one clinician-researcher, free of industry money.
 schema:
@@ -76,7 +77,7 @@ A misfiled study, a wrong date, a missing journal: write to <editor@gambling-res
 
 ## Citing the index
 
-The index data is released under CC0 at [/data/papers.json](/data/papers.json). Cite the underlying study, not this site; if you need to cite the index itself, "Gambling Research Index (gambling-research.com), retrieved [date]" is enough.
+The four trackers on this site — [studies](/research/), [trials](/trials/), [bills](/bills/) and [courts](/courts/) — are released under CC0 as JSON and CSV, and each page carries a citation line ready to copy. Cite the underlying study, bill or ruling when you refer to one; cite the dataset when the compilation itself is what you used. Full terms, the download URLs and what belongs to publishers rather than to this site are on [Data use and reuse](/data-use/).
 
 ## If you need help with gambling
 

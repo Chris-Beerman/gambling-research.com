@@ -9,7 +9,8 @@ config/      site.yml (names, windows), sources.yml (queries, feeds, backfill_fr
              rules version), corrections.yml (hand fixes that override every rule)
 pipeline/    fetch.py (nightly collection) -> data/papers.json, data/news.json, data/trials.json, data/bills.json,
              data/cases.json, data/fetch_log.json, data/weekly/latest.json
-             build.py (renders _site/ from data/ and content/ with templates/; search_index.mjs writes _site/pagefind/)
+             build.py (renders _site/ from data/ and content/ with templates/; search_index.mjs writes _site/pagefind/;
+             also writes the CSV mirrors and the Dataset markup -- see "Citable data")
              gold.py (scores the index against the hand-checked studies in tests/gold/labels.yml)
 content/     pages/*.md (reference pages, About, methodology), digests/YYYY-MM-DD.md (weekly digest posts)
 templates/   Jinja2 templates; static/ holds the stylesheet, the filter script and the favicon
@@ -55,6 +56,16 @@ Body in Markdown. Link each study to its publisher record.
 
 `data/weekly/latest.json` holds a ranked shortlist of the past seven days (studies and policy news) to draft from. A draft with `draft: true` in its front matter is not published.
 
+## Citable data
+
+The four trackers (`papers`, `trials`, `bills`, `cases`) are published at stable URLs in two formats: the JSON that `fetch.py` writes, and a CSV mirror that `build.py` generates at build time from the same records. The CSVs are not committed; they are built into `_site/data/` on every run, so the two can never drift.
+
+`CSV_COLUMNS` in `pipeline/build.py` fixes each tracker's column order. Analysts write scripts against these, so **a column must not be renamed, reordered or dropped** once published; add new ones at the end. `tests/test_exports.py` fails if a column stops matching the data.
+
+`DATASETS` in the same file describes each tracker for two purposes: the `Dataset` JSON-LD block in the page head (which makes the pages eligible for Google Dataset Search) and the suggested-citation line at the foot of the page. Editing a tracker's `name`, `description` or `keywords` changes both at once.
+
+Citation blocks also appear on the digest issues and the reference pages, where the licence is CC BY 4.0 rather than CC0. A page opts out with `cite: false` in its front matter. `/data-use/` is the public statement of all of this: what is CC0, what belongs to publishers, the download URLs, and how to reach the editor.
+
 ## Settings worth knowing
 
 - `config/site.yml`: title, descriptor, editor, contact address, how many days each page shows.
@@ -71,4 +82,4 @@ Body in Markdown. Link each study to its publisher record.
 
 ## Licences
 
-Code MIT; index data CC0; editorial content CC BY 4.0. See `LICENSE`.
+Code MIT; index data CC0; editorial content CC BY 4.0. See `LICENSE` for the exact terms and [/data-use/](https://gambling-research.com/data-use/) (`content/pages/data-use.md`) for the public statement of them.

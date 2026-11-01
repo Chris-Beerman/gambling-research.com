@@ -56,5 +56,6 @@
 {% endfor %}
 </div>
 <p class="fine">Coverage: ClinicalTrials.gov (condition or any field mentions gambling, betting, wagering, loot boxes or prediction markets), ISRCTN (query "gambling") and public OSF registrations whose title or description mentions those terms, each filtered by the same relevance rules as the studies index. Not covered: ANZCTR, PROSPERO, the EU trials register and AsPredicted, none of which offers a usable public interface. Something missing or misfiled? <a href="/methodology/#corrections">How to report it</a>.</p>
+{% if cite %}{{ m.cite_block(cite) }}{% endif %}
 {% endblock %}
 {% block scripts %}<script src="/static/filters.js" defer></script>{% endblock %}

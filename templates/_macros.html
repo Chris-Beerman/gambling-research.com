@@ -32,3 +32,18 @@
   {% for href, label in items %}<a href="{{ href }}"{% if current == href %} aria-current="page"{% endif %}>{{ label }}</a>{% endfor %}
 </nav>
 {% endmacro %}
+
+{% macro cite_block(cite) %}
+<aside class="cite" aria-labelledby="cite-heading">
+  <h2 class="cite-heading" id="cite-heading">Cite this page</h2>
+  <p class="cite-line" data-cite>{{ cite.text }}</p>
+  <p class="cite-note">
+    {% if cite.kind == 'data' %}
+    {% if cite.note %}{{ cite.note }}{% endif %}
+    This data is released under <a href="{{ cite.licence_url }}" rel="license noopener">CC0 1.0</a>: public domain, free for any use, commercial included, with no permission needed. A citation is requested, not required. Download the whole set as <a href="{{ cite.json_url }}">JSON</a> or <a href="{{ cite.csv_url }}">CSV</a>; both URLs are stable and update nightly. <a href="/data-use/">How to reuse this data</a>.
+    {% else %}
+    This page's text is licensed <a href="{{ cite.licence_url }}" rel="license noopener">CC BY 4.0</a>: reuse it, commercially included, with attribution. <a href="/data-use/">Reuse and attribution</a>.
+    {% endif %}
+  </p>
+</aside>
+{% endmacro %}

@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "_macros.html" as m %}
 {% block title %}{{ page.title }}: {{ site.title }}{% endblock %}
 {% block description %}{{ page.description or site.descriptor }}{% endblock %}
 {% block head %}{% if page.schema %}<script type="application/ld+json">{{ page.schema|tojson }}</script>{% endif %}{% endblock %}
@@ -10,5 +11,6 @@
   {% if page.deck %}<p class="deck">{{ page.deck }}</p>{% endif %}
   {% if page.updated %}<p class="byline">Last checked {{ page.updated|fmt_date('long') }}. Details change; confirm against the source before relying on them.</p>{% endif %}
   {{ body|safe }}
+  {% if cite %}{{ m.cite_block(cite) }}{% endif %}
 </article>
 {% endblock %}
