@@ -1,12 +1,12 @@
 {
- "started": "2026-11-01T13:16:34+00:00",
+ "started": "2026-11-02T15:43:39+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 47,
+   "items": 46,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 194,
+   "items": 197,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 23,
+   "items": 26,
    "error": null,
    "warning": null
   },
@@ -46,7 +46,7 @@
    "id": "feed:jswpa",
    "kind": "papers",
    "ok": true,
-   "items": 26,
+   "items": 19,
    "error": null,
    "warning": null
   },
@@ -62,7 +62,7 @@
    "id": "feed:addictive-behaviors",
    "kind": "papers",
    "ok": true,
-   "items": 54,
+   "items": 56,
    "error": null,
    "warning": null
   },
@@ -286,7 +286,7 @@
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 71,
+   "items": 72,
    "error": null,
    "warning": null
   }
@@ -294,45 +294,55 @@
  "rebuild": null,
  "papers": {
   "raw": 669,
-  "groups": 605,
-  "added": 13,
-  "updated": 185,
-  "dropped_irrelevant": 407,
-  "removed": 1,
-  "total": 8374
+  "groups": 606,
+  "added": 4,
+  "updated": 197,
+  "dropped_irrelevant": 405,
+  "removed": 0,
+  "total": 8378
  },
  "news": {
   "raw": 646,
-  "added": 40,
-  "dropped_irrelevant": 108,
-  "total": 1372
+  "added": 75,
+  "dropped_irrelevant": 123,
+  "total": 1416
  },
  "trials": {
   "raw": 894,
-  "added": 0,
-  "updated": 707,
-  "dropped_irrelevant": 186,
-  "removed": 0,
-  "total": 715
+  "added": 2,
+  "updated": 706,
+  "dropped_irrelevant": 185,
+  "removed": 1,
+  "total": 716
  },
  "bills": {
   "raw": 659,
-  "added": 5,
-  "updated": 162,
+  "added": 0,
+  "updated": 167,
   "dropped_irrelevant": 492,
   "total": 638
  },
  "cases": {
-  "raw": 71,
-  "added": 0,
+  "raw": 72,
+  "added": 3,
   "updated": 6,
-  "dropped_irrelevant": 65,
-  "total": 82
+  "dropped_irrelevant": 63,
+  "total": 85
  },
- "finished": "2026-11-01T13:30:57+00:00",
- "papers_total": 8374,
- "news_total": 1372,
+ "finished": "2026-11-02T15:57:04+00:00",
+ "papers_total": 8378,
+ "news_total": 1416,
  "history": [
+  {
+   "finished": "2026-11-02T15:57:04+00:00",
+   "mode": "nightly",
+   "added": 4,
+   "news_added": 75,
+   "trials_added": 2,
+   "bills_added": 0,
+   "cases_added": 3,
+   "failed": 0
+  },
   {
    "finished": "2026-11-01T13:30:57+00:00",
    "mode": "nightly",

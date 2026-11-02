@@ -45,13 +45,13 @@
   "documents": [
    {
     "date": "2026-10-30",
-    "description": "Minute Order AND Order on Motion for Extension of Time",
-    "url": ""
+    "description": "Notice of Appeal",
+    "url": "https://www.courtlistener.com/docket/73453634/68/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
    },
    {
     "date": "2026-10-30",
-    "description": "Notice of Appeal",
-    "url": "https://www.courtlistener.com/docket/73453634/68/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    "description": "Minute Order AND Order on Motion for Extension of Time",
+    "url": ""
    },
    {
     "date": "2026-10-29",
@@ -72,6 +72,37 @@
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-73700030",
+  "kind": "docket",
+  "case_name": "People of the State of New York, by Letitia James, Attorney General of the State of New York v. KalshiEX LLC",
+  "court": "District Court, S.D. New York",
+  "court_id": "nysd",
+  "court_citation": "S.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-07-31",
+  "date_terminated": null,
+  "latest_activity": "2026-10-30",
+  "docket_number": "1:26-cv-06550",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73700030/people-of-the-state-of-new-york-by-letitia-james-attorney-general-of-the/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-30",
+    "description": "JOINT LETTER MOTION for Discovery re Subpoena Duces Tecum Issued by the OAG to KalshiEX LLC addressed to Judge Vernon S. Broderick from Matt",
+    "url": "https://www.courtlistener.com/docket/73700030/23/1/people-of-the-state-of-new-york-by-letitia-james-attorney-general-of-the/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-02"
  },
  {
   "id": "cl-d-71042736",
@@ -165,6 +196,66 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-27"
+ },
+ {
+  "id": "cl-d-73522956",
+  "kind": "docket",
+  "case_name": "KalshiEX LLC v. Raoul",
+  "court": "District Court, N.D. Illinois",
+  "court_id": "ilnd",
+  "court_citation": "N.D. Ill.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-23",
+  "date_terminated": null,
+  "latest_activity": "2026-10-30",
+  "docket_number": "1:26-cv-07363",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73522956/kalshiex-llc-v-raoul/",
+  "snippet": "7:6(b) Federal Commodity Exchange Regulation; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-10-30",
+    "description": "Preliminary Injunction",
+    "url": "https://www.courtlistener.com/docket/73522956/64/kalshiex-llc-v-raoul/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-02"
+ },
+ {
+  "id": "cl-d-72057229",
+  "kind": "docket",
+  "case_name": "Coinbase Financial Markets, Inc. v. Raoul",
+  "court": "District Court, N.D. Illinois",
+  "court_id": "ilnd",
+  "court_citation": "N.D. Ill.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2025-12-18",
+  "date_terminated": null,
+  "latest_activity": "2026-10-30",
+  "docket_number": "1:25-cv-15406",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/72057229/coinbase-financial-markets-inc-v-raoul/",
+  "snippet": "Civil Miscellaneous Case; nature of suit: 950 Constitutional - State Statute",
+  "suit_nature": "950 Constitutional - State Statute",
+  "documents": [
+   {
+    "date": "2026-10-30",
+    "description": "PRELIMINARY INJUNCTION Signed by the Honorable Martha M. Pacold on 10/30/2026. Mailed notice(mjc, )",
+    "url": "https://www.courtlistener.com/docket/72057229/98/coinbase-financial-markets-inc-v-raoul/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-02"
  },
  {
   "id": "cl-d-74726436",

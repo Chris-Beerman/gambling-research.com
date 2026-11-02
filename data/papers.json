@@ -1,5 +1,198 @@
 [
  {
+  "id": "doi:10.1177/21565333261502205",
+  "doi": "10.1177/21565333261502205",
+  "pmid": "42969088",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Recruitment, Retention, and Patient Engagement of Adolescents and Young Adult Cancer Survivors in Psycho-Oncology Research: A Qualitative Study",
+  "journal": "Journal of Adolescent and Young Adult Oncology",
+  "authors": [
+   "Monireh Nazari",
+   "Clarissa Schilstra",
+   "Fiona E J McDonald",
+   "Claire E Wakefield",
+   "Tayhla Ryder",
+   "Jordana McLoone"
+  ],
+  "published": "2026-11-02",
+  "year": 2026,
+  "created": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "summary": "Adolescent and young adult (AYA) cancer patients/survivors are underrepresented in psycho-oncology, limiting research generalizability. This study identified strategies to improve AYA recruitment and retention by consulting survivors and health care professionals (HCPs) …",
+  "url": "https://doi.org/10.1177/21565333261502205",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US",
+   "AU"
+  ],
+  "regions": [
+   "us",
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/2006.2025.00483",
+  "doi": "10.1556/2006.2025.00483",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Gambling venues and their association with incidence of help-seeking gambling disorder: A Bayesian spatial analysis",
+  "journal": "Journal of Behavioral Addictions",
+  "authors": [
+   "Konstantinos Ioannidis",
+   "Jeremy Solly",
+   "Luke Simcoe",
+   "Ibrahim H Aslan",
+   "Sujoy Ray",
+   "Mohammed Elsankary",
+   "Dianna M Smith",
+   "Samuel R Chamberlain"
+  ],
+  "published": "2026-11-02",
+  "year": 2026,
+  "created": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "summary": "Abstract Introduction and background While the association between physical accessibility to gambling venues and problematic gambling has been demonstrated in previous research, there are no published data from UK NHS-led gambling services exploring such relationships …",
+  "url": "https://doi.org/10.1556/2006.2025.00483",
+  "oa_url": null,
+  "sources": [
+   "crossref"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.64898/2026.10.30.26366936",
+  "doi": "10.64898/2026.10.30.26366936",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Demographic and Comorbidity Characteristics of U.S. Veterans in a Retrospective Descriptive Matched Cohort Study Addressing Problematic Gambling",
+  "journal": "medRxiv",
+  "authors": [
+   "Workman",
+   "T. E.",
+   "Kupersmith",
+   "J.",
+   "Spevak",
+   "C.",
+   "Sandbrink",
+   "F.",
+   "Treitler-Zeng",
+   "Q."
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "summary": "Problematic gambling is an increasing public health concern that also affects U.S. Veterans. Problematic gambling in Veterans correlates with several other factors, including socio-economic issues like homelessness and legal problems, and mental health issues like post-traumatic stress disorder, and suicide attempt …",
+  "url": "https://doi.org/10.64898/2026.10.30.26366936",
+  "oa_url": null,
+  "sources": [
+   "feed:medrxiv-addiction"
+  ],
+  "type": "preprint",
+  "topics": [
+   "comorbidity",
+   "equity",
+   "veterans"
+  ],
+  "designs": [
+   "longitudinal",
+   "behavioral-data"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.63680/ijsate112601.01",
+  "doi": "10.63680/ijsate112601.01",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225041573",
+  "title": "Betting to Survive: Prevalence, Motivations and Academic Effects of Sports Betting Among Undergraduate Students in Sokoto State Univesrity, Nigeria",
+  "journal": "International Journal of Science Architecture Technology and Environment",
+  "authors": [
+   "Chukwuma Kalu Onwu"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "summary": "",
+  "url": "https://doi.org/10.63680/ijsate112601.01",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "NG"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1038/s41598-026-76386-z",
   "doi": "10.1038/s41598-026-76386-z",
   "pmid": null,
@@ -18,7 +211,7 @@
   "first_seen": "2026-11-01",
   "summary": "This study develops and analyses a non-linear reaction–diffusion model for information spread, motivated by gambling-related information diffusion …",
   "url": "https://doi.org/10.1038/s41598-026-76386-z",
-  "oa_url": "https://doi.org/10.1038/s41598-026-76386-z",
+  "oa_url": "https://www.nature.com/articles/s41598-026-76386-z_reference.pdf",
   "sources": [
    "openalex"
   ],
@@ -564,7 +757,7 @@
   "doi": "10.1002/hpja.70270",
   "pmid": "42963140",
   "pmcid": "PMC13722572",
-  "openalex": "W7224743753",
+  "openalex": "W7166803140",
   "title": "Unhealthy Digital Marketing Among Aboriginal People in Australia: Findings From the #DigitalMob Pilot Study",
   "journal": "Health promotion journal of Australia",
   "authors": [
@@ -587,7 +780,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-01",
+  "published": "2027-01-02",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -1228,7 +1421,7 @@
   "doi": "10.1371/journal.pone.0345194",
   "pmid": "42949904",
   "pmcid": "PMC13716225",
-  "openalex": "W7224078736",
+  "openalex": "W7133736413",
   "title": "Perceptions of homogeneity reproduction in health sciences academia",
   "journal": "PLOS ONE",
   "authors": [
@@ -1403,7 +1596,7 @@
   "doi": "10.1007/s42521-026-00233-z",
   "pmid": null,
   "pmcid": null,
-  "openalex": "W7223791560",
+  "openalex": "W7154344718",
   "title": "Calibrated agents as market makers: automated liquidity provision for long-tail prediction markets",
   "journal": "Digital Finance",
   "authors": [
@@ -1411,18 +1604,19 @@
   ],
   "published": "2026-10-27",
   "year": 2026,
-  "created": "2026-10-28",
+  "created": "2026-04-15",
   "first_seen": "2026-10-29",
-  "summary": "",
+  "summary": "Abstract Under what conditions can a forecasting agent profitably provide liquidity on a prediction market? We derive a decomposition of the optimal market-making spread into a microstructure term and an adverse selection term proportional to the agent's mean absolute estimation error~$\\alpha$ …",
   "url": "https://doi.org/10.1007/s42521-026-00233-z",
-  "oa_url": null,
+  "oa_url": "https://www.researchsquare.com/article/rs-9339189/latest.pdf",
   "sources": [
    "openalex"
   ],
   "type": "article",
   "topics": [
    "prediction-markets",
-   "financial-harm"
+   "financial-harm",
+   "industry"
   ],
   "designs": [],
   "design_basis": "rules",
@@ -1684,15 +1878,15 @@
   "doi": "10.1057/s41302-026-00346-8",
   "pmid": null,
   "pmcid": null,
-  "openalex": "W7223677275",
+  "openalex": "W4412826152",
   "title": "Analyzing the Costs and Benefits of Legalized Sports Betting",
   "journal": "Eastern Economic Journal",
   "authors": [
-   "Kurt Rotthoff"
+   "Kurt William Rotthoff"
   ],
   "published": "2026-10-26",
   "year": 2026,
-  "created": "2026-10-27",
+  "created": "2025-10-10",
   "first_seen": "2026-10-28",
   "summary": "Abstract Following a 2018 Supreme Court ruling that overturned the prohibition on sports betting in most states, 38 states have since passed laws legalizing sports gambling. Most of the literature examines the negative impacts of legalized sports betting. As with anything in life, activities often have both costs and benefits …",
   "url": "https://doi.org/10.1057/s41302-026-00346-8",
@@ -1831,7 +2025,7 @@
   "doi": "10.1007/s10899-026-10571-7",
   "pmid": "42944954",
   "pmcid": null,
-  "openalex": "W7223969030",
+  "openalex": "W7213077550",
   "title": "Locating Gambling Severity Within Polysubstance Involvement: The Specific Role of Methamphetamine in 9,421 Adults Entering Treatment",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -2665,7 +2859,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-01",
+  "published": "2026-10-02",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -4057,12 +4251,12 @@
    "Kaniz Fatema",
    "Hoang Diep",
    "Dang-Khoa Nguyena",
-   "Mark Hardy",
+   "Mark A. Hardy",
    "Fikriye Salih"
   ],
   "published": "2026-10-18",
   "year": 2026,
-  "created": "2026-10-18",
+  "created": "2026-10-19",
   "first_seen": "2026-10-19",
   "summary": "Vietnamese communities in South Western Sydney experience migration-related stressors, stigma, and barriers to accessing alcohol and other drug (AOD) and gambling services. Culturally tailored psychoeducational interventions may improve recovery-oriented outcomes; however, qualitative evidence in this population is limited …",
   "url": "https://doi.org/10.1080/15332640.2026.2741047",
@@ -4251,24 +4445,24 @@
   "id": "doi:10.1159/ear/acrag008",
   "doi": "10.1159/ear/acrag008",
   "pmid": "42891958",
-  "pmcid": "PMC13690321",
+  "pmcid": "13690321",
   "openalex": "W7222865932",
-  "title": "Widespread Suspected Illegal Advertising of Paid Loot Boxes and Social Casino Games in Belgium: Empowered by the EU Digital Services Act to Assess Compliance Using Meta's Ad Repository",
+  "title": "Widespread Suspected Illegal Advertising of Paid Loot Boxes and Social Casino Games in Belgium: Empowered by the EU Digital Services Act to Assess Compliance Using Meta’s Ad Repository",
   "journal": "European Addiction Research",
   "authors": [
-   "Leon Y Xiao",
+   "Leon Y. Xiao",
    "Elena Petrovskaya",
    "Nicole Khoo",
    "Maarten Denoo",
-   "Amanda Roberts"
+   "Amanda D. L. Roberts"
   ],
   "published": "2026-10-17",
   "year": 2026,
-  "created": "2026-10-18",
+  "created": "2026-10-19",
   "first_seen": "2026-10-18",
   "summary": "Paid loot boxes and social casino mechanics are gambling-like products inside video games that provide random rewards in exchange for real-world money. These products may cause harm to vulnerable consumers, e.g., children and adults experiencing gambling harms …",
   "url": "https://doi.org/10.1159/ear/acrag008",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690321/",
+  "oa_url": "https://karger.com/ear/article-pdf/doi/10.1159/ear/acrag008/4595707/000554935.pdf",
   "sources": [
    "openalex",
    "pubmed"

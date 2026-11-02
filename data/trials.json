@@ -1,5 +1,93 @@
 [
  {
+  "id": "osf:vpxqz",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Reward positivity across adolescence: Reward processing for self and others and the associations with internalizing and externalizing symptoms.",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-02",
+  "last_updated": "2026-11-02",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "During adolescence, sensitivity to rewards increases (van Duijvenvoorde et al., 2016), while peer relationships also become increasingly more important (Crone & Dahl, 2012) …",
+  "url": "https://osf.io/vpxqz/",
+  "registration_type": "EEG and ERP Methods",
+  "authors": [
+   "Yvette Grootjans",
+   "Lonneke Elzinga",
+   "Anita Harrewijn",
+   "Ingmar H.A. Franken"
+  ],
+  "topics": [
+   "youth",
+   "cognition",
+   "comorbidity",
+   "families"
+  ],
+  "designs": [],
+  "first_seen": "2026-11-02",
+  "status_changed": null
+ },
+ {
+  "id": "osf:jhv9z",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Post-error behaviour differences between people who score high on the PGSI and non-gamblers: a pre-registered cognitive modelling study",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-30",
+  "last_updated": "2026-10-30",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This study aims to examine whether people who score high on the PGSI behave differently to non-gamblers after making an error in a laboratory task, specifically the Stroop task …",
+  "url": "https://osf.io/jhv9z/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Michelle Oxtoby",
+   "Charlotte Rebecca Pennington",
+   "Richard Tunney",
+   "Craig Hedge"
+  ],
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "protocol",
+   "experiment"
+  ],
+  "first_seen": "2026-11-02",
+  "status_changed": null
+ },
+ {
   "id": "osf:7egbz",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -14916,7 +15004,7 @@
   "registry_label": "ClinicalTrials.gov",
   "kind": "trial",
   "title": "Theory-based Intervention for Promoting Responsible Gambling Among College Students",
-  "status": "not-yet-recruiting",
+  "status": "unknown",
   "study_type": "interventional",
   "phases": [],
   "enrollment": 60,
@@ -14954,7 +15042,8 @@
    "trial"
   ],
   "first_seen": "2024-10-15",
-  "status_changed": null
+  "status_changed": "2026-11-02",
+  "previous_status": "not-yet-recruiting"
  },
  {
   "id": "osf:sgk3c",
@@ -22876,41 +22965,6 @@
    "protocol"
   ],
   "first_seen": "2023-01-31",
-  "status_changed": null
- },
- {
-  "id": "osf:c9yxk",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Blinded Study Preregistration (Original Preregistration posted to OSF on 8/13/2020)",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-01-26",
-  "last_updated": "2023-01-26",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "Examining the relationship between casino employee gambling involvement and responsible gambling program outcomes",
-  "url": "https://osf.io/c9yxk/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Tiange Xu"
-  ],
-  "topics": [],
-  "designs": [],
-  "first_seen": "2023-01-26",
   "status_changed": null
  },
  {
