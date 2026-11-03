@@ -1,10 +1,422 @@
 [
  {
+  "id": "doi:10.1007/s10899-026-10577-1",
+  "doi": "10.1007/s10899-026-10577-1",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Stigma and Purpose in Life in Gambling Disorder: A Mixed-Methods Study With a Gender Perspective",
+  "journal": "Journal of Gambling Studies",
+  "authors": [],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "summary": "Gambling disorder carries a heavy burden of social stigma that severely impacts recovery and psychological well-being. However, the intersection between discrimination, existential meaning and gender roles within clinical populations remains insufficiently explored …",
+  "url": "https://doi.org/10.1007/s10899-026-10577-1",
+  "oa_url": null,
+  "sources": [
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/2006.2026.00414",
+  "doi": "10.1556/2006.2026.00414",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Improving the subtyping of gamblers by gambling type",
+  "journal": "Journal of Behavioral Addictions",
+  "authors": [
+   "Céline Bonnaire",
+   "Joël Billieux"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "summary": "Abstract In gambling research, gambling subtypes have traditionally been used to distinguish between games of skill or competition and games of chance. The former are referred to as strategic games, whereas the latter are classified as non-strategic games …",
+  "url": "https://doi.org/10.1556/2006.2026.00414",
+  "oa_url": null,
+  "sources": [
+   "crossref"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "FR",
+   "CH"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/bs16112069",
+  "doi": "10.3390/bs16112069",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225124894",
+  "title": "Preferred Gambling Modality and Hazardous Drinking Among Adults Screening Positive for Gambling Disorder: A Conceptual Replication from Türkiye",
+  "journal": "Behavioral Sciences",
+  "authors": [
+   "Hatice Arslan",
+   "Lut Tamam"
+  ],
+  "published": "2026-11-02",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "summary": "Mixed-mode gamblers, who gamble online and in physical venues, reportedly consume more alcohol while gambling than online-only gamblers in Australia, where many venues serve alcohol. This conceptual replication tested whether this pattern holds in Türkiye, where alcohol consumption is low, casinos are closed, and licensed betting shops do not serve alcohol …",
+  "url": "https://doi.org/10.3390/bs16112069",
+  "oa_url": "https://doi.org/10.3390/bs16112069",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TR"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1037/ppm0000699",
+  "doi": "10.1037/ppm0000699",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7171930559",
+  "title": "Mapping motivations for livestream viewing to gambling",
+  "journal": "Psychology of Popular Media",
+  "authors": [
+   "Raymond Wu",
+   "Luke Clark"
+  ],
+  "published": "2026-11-02",
+  "year": 2026,
+  "created": "2026-08-01",
+  "first_seen": "2026-11-03",
+  "summary": "Prior research shows that people who watch gambling and gambling-like content on streaming platforms display an elevated risk of gambling problems. Here, we leverage the literature on motivations as a dominant framework for understanding engagement in addictive behaviors to test how watching gambling is linked to problematic gambling …",
+  "url": "https://doi.org/10.1037/ppm0000699",
+  "oa_url": "https://doi.org/10.1037/ppm0000699",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1186/s12888-026-08661-2",
+  "doi": "10.1186/s12888-026-08661-2",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225085902",
+  "title": "Gambling disorder and other impulse control disorders associated with pramipexole: a nationwide Swedish case-control study",
+  "journal": "BMC Psychiatry",
+  "authors": [
+   "Miriam Carolina Lecerof",
+   "Mirjam Wolfschlag",
+   "Anders Håkansson"
+  ],
+  "published": "2026-11-02",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "summary": "Abstract Background Pramipexole, a dopamine agonist, is commonly prescribed for restless leg syndrome and Parkinson’s disease. However, it has been linked to gambling disorders and other impulse control disorders developing as a side effect …",
+  "url": "https://doi.org/10.1186/s12888-026-08661-2",
+  "oa_url": "https://doi.org/10.1186/s12888-026-08661-2",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "SE"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB",
+   "SE"
+  ],
+  "regions": [
+   "uk-ireland",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.31363/2313-7053-2026-5-1413",
+  "doi": "10.31363/2313-7053-2026-5-1413",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225095906",
+  "title": "Psychopharmacotherapy of Gambling Disorder",
+  "journal": "V M BEKHTEREV REVIEW OF PSYCHIATRY AND MEDICAL PSYCHOLOGY",
+  "authors": [
+   "Ф. Ш. Шагиахметов",
+   "Yu.M. Scheidegger",
+   "Evgeny M. Krupitsky",
+   "Т.В. Клименко",
+   "S. E. Golygina",
+   "Анатолий Васильевич Сахаров"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "summary": "Gambling disorder (GD) is a behavioral addiction characterized by high comorbidity, significant social and economic consequences. The neurobiological mechanisms underlying GD are similar to those observed in substance use disorders, which opens possibilities for pharmacological intervention …",
+  "url": "https://doi.org/10.31363/2313-7053-2026-5-1413",
+  "oa_url": "https://doi.org/10.31363/2313-7053-2026-5-1413",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "RU"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.comppsych.2026.152753",
+  "doi": "10.1016/j.comppsych.2026.152753",
+  "pmid": "42970962",
+  "pmcid": null,
+  "openalex": "W7107876228",
+  "title": "Decision-making and implicit associations in internet gaming disorder, gambling disorder and alcohol use disorder - A comparative study on treatment-seeking patients",
+  "journal": "Comprehensive Psychiatry",
+  "authors": [
+   "N Dominick",
+   "M E Beutel",
+   "O Tüscher",
+   "S Steins-Loeber",
+   "K Wölfling"
+  ],
+  "published": "2026-10-29",
+  "year": 2026,
+  "created": "2026-11-02",
+  "first_seen": "2026-11-03",
+  "summary": "Background And Aims: Previous studies suggest that altered implicit and explicit cognitive processes in individuals with substance-related and behavioral addictions influence the development and maintenance of these disorders …",
+  "url": "https://doi.org/10.1016/j.comppsych.2026.152753",
+  "oa_url": "https://doi.org/10.1016/j.comppsych.2026.152753",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.econmod.2026.107914",
+  "doi": "10.1016/j.econmod.2026.107914",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223811909",
+  "title": "Casino tourism, externalities, and optimal tax policy: A general equilibrium framework",
+  "journal": "Economic Modelling",
+  "authors": [
+   "Tony Sio-Chong U",
+   "Jacky Yuk-Chow So",
+   "Shinya Kawahara",
+   "Xinhua Gu",
+   "Ziwei Yang"
+  ],
+  "published": "2026-10-27",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-11-03",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.econmod.2026.107914",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "MO",
+   "JP"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1186/s12916-026-05112-3",
+  "doi": "10.1186/s12916-026-05112-3",
+  "pmid": "42972567",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Reminder recall is associated with higher mammogram uptake among overdue repeat screeners: an exploratory telephone survey within a randomized trial",
+  "journal": "BMC medicine",
+  "authors": [
+   "Sasidharan Swarnalatha Lucky",
+   "Wenyun Li",
+   "Samuel G W Ow",
+   "Lukas Loh",
+   "Jun Hui Tan",
+   "Boon-Cher Goh",
+   "Soo-Chin Lee"
+  ],
+  "published": "2026-07-31",
+  "year": 2026,
+  "created": "2026-11-02",
+  "first_seen": "2026-11-03",
+  "summary": "Despite more than two decades of a national breast cancer screening program, fewer than 40% of eligible women in Singapore undergo recommended biennial mammography …",
+  "url": "https://doi.org/10.1186/s12916-026-05112-3",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "measurement",
+   "families",
+   "equity"
+  ],
+  "designs": [
+   "trial",
+   "survey"
+  ],
+  "design_basis": "pubmed",
+  "settings": [
+   "SG"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "SG"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/21565333261502205",
   "doi": "10.1177/21565333261502205",
   "pmid": "42969088",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7225096197",
   "title": "Recruitment, Retention, and Patient Engagement of Adolescents and Young Adult Cancer Survivors in Psycho-Oncology Research: A Qualitative Study",
   "journal": "Journal of Adolescent and Young Adult Oncology",
   "authors": [
@@ -23,6 +435,7 @@
   "url": "https://doi.org/10.1177/21565333261502205",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -37,12 +450,12 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "US",
-   "AU"
+   "AU",
+   "US"
   ],
   "regions": [
-   "us",
-   "australia-nz"
+   "australia-nz",
+   "us"
   ],
   "language": "en",
   "relevance": "low",
@@ -51,9 +464,9 @@
  {
   "id": "doi:10.1556/2006.2025.00483",
   "doi": "10.1556/2006.2025.00483",
-  "pmid": null,
+  "pmid": "42969976",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7168359679",
   "title": "Gambling venues and their association with incidence of help-seeking gambling disorder: A Bayesian spatial analysis",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
@@ -72,9 +485,11 @@
   "first_seen": "2026-11-02",
   "summary": "Abstract Introduction and background While the association between physical accessibility to gambling venues and problematic gambling has been demonstrated in previous research, there are no published data from UK NHS-led gambling services exploring such relationships …",
   "url": "https://doi.org/10.1556/2006.2025.00483",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1556/2006.2025.00483",
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -95,7 +510,7 @@
   "regions": [
    "uk-ireland"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -711,8 +1126,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -780,7 +1199,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-02",
+  "published": "2027-01-03",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -1332,6 +1751,42 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1038/d41586-026-03476-3",
+  "doi": "10.1038/d41586-026-03476-3",
+  "pmid": "42951990",
+  "pmcid": null,
+  "openalex": "W7224130372",
+  "title": "Is research funding now a lottery? Elite funder ERC swamped by applications",
+  "journal": "Nature",
+  "authors": [
+   "Jonathan O'Callaghan"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "summary": "",
+  "url": "https://doi.org/10.1038/d41586-026-03476-3",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.7583/jkgs.2026.26.5.153",
   "doi": "10.7583/jkgs.2026.26.5.153",
   "pmid": null,
@@ -1461,42 +1916,6 @@
   "regions": [
    "europe"
   ],
-  "language": "en",
-  "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.1038/d41586-026-03476-3",
-  "doi": "10.1038/d41586-026-03476-3",
-  "pmid": "42951990",
-  "pmcid": null,
-  "openalex": "W7224130372",
-  "title": "Is research funding now a lottery? Elite funder ERC swamped by applications",
-  "journal": "Nature",
-  "authors": [
-   "Jonathan O'Callaghan"
-  ],
-  "published": "2026-10-28",
-  "year": 2026,
-  "created": "2026-10-29",
-  "first_seen": "2026-10-29",
-  "summary": "",
-  "url": "https://doi.org/10.1038/d41586-026-03476-3",
-  "oa_url": null,
-  "sources": [
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "lottery"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -2859,7 +3278,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-02",
+  "published": "2026-10-03",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",

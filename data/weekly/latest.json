@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "window": {
-  "from": "2026-10-26",
-  "to": "2026-11-02"
+  "from": "2026-10-27",
+  "to": "2026-11-03"
  },
- "new_studies": 41,
+ "new_studies": 47,
  "candidates": [
   {
    "id": "doi:10.1007/s11469-026-01756-7",
@@ -40,32 +40,6 @@
     "core journal",
     "review",
     "US"
-   ]
-  },
-  {
-   "id": "doi:10.1177/25725300261503803",
-   "title": "CONSTITUTIONAL FOUNDATIONS of AMERICAN GAMBLING LAW",
-   "journal": "Gaming Law Review",
-   "authors": [
-    "Robert M. Jarvis"
-   ],
-   "published": "2026-10-25",
-   "first_seen": "2026-10-26",
-   "summary": "Gaming Law Review, Volume 30, Issue 10, Page 263-273, December 2026. This article argues that gambling litigation constitutes an overlooked but coherent body of jurisprudence that has significantly shaped the development of major constitutional doctrines.",
-   "url": "https://doi.org/10.1177/25725300261503803",
-   "oa_url": null,
-   "topics": [
-    "policy"
-   ],
-   "designs": [],
-   "regions": [
-    "us"
-   ],
-   "score": 5,
-   "why": [
-    "core journal",
-    "US",
-    "priority topic"
    ]
   },
   {
@@ -195,6 +169,40 @@
    ]
   },
   {
+   "id": "doi:10.1556/2006.2025.00483",
+   "title": "Gambling venues and their association with incidence of help-seeking gambling disorder: A Bayesian spatial analysis",
+   "journal": "Journal of Behavioral Addictions",
+   "authors": [
+    "Konstantinos Ioannidis",
+    "Jeremy Solly",
+    "Luke Simcoe",
+    "Ibrahim H Aslan",
+    "Sujoy Ray",
+    "Mohammed Elsankary",
+    "Dianna M Smith",
+    "Samuel R Chamberlain"
+   ],
+   "published": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "summary": "Abstract Introduction and background While the association between physical accessibility to gambling venues and problematic gambling has been demonstrated in previous research, there are no published data from UK NHS-led gambling services exploring such relationships …",
+   "url": "https://doi.org/10.1556/2006.2025.00483",
+   "oa_url": "https://doi.org/10.1556/2006.2025.00483",
+   "topics": [
+    "treatment",
+    "equity"
+   ],
+   "designs": [],
+   "regions": [
+    "uk-ireland"
+   ],
+   "score": 5,
+   "why": [
+    "core journal",
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
    "id": "doi:10.1177/25725300261503840",
    "title": "REGULATING MONETIZATION and GAMBLIFICATION IN VIDEO GAMES: THE CLASSIFICATION–FUNCTION MISMATCH IN DIGITAL MARKETS",
    "journal": "Gaming Law Review",
@@ -313,32 +321,49 @@
    ]
   },
   {
-   "id": "doi:10.1556/2006.2025.00483",
-   "title": "Gambling venues and their association with incidence of help-seeking gambling disorder: A Bayesian spatial analysis",
+   "id": "doi:10.1556/2006.2026.00414",
+   "title": "Improving the subtyping of gamblers by gambling type",
    "journal": "Journal of Behavioral Addictions",
    "authors": [
-    "Konstantinos Ioannidis",
-    "Jeremy Solly",
-    "Luke Simcoe",
-    "Ibrahim H Aslan",
-    "Sujoy Ray",
-    "Mohammed Elsankary",
-    "Dianna M Smith",
-    "Samuel R Chamberlain"
+    "Céline Bonnaire",
+    "Joël Billieux"
    ],
-   "published": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "summary": "Abstract Introduction and background While the association between physical accessibility to gambling venues and problematic gambling has been demonstrated in previous research, there are no published data from UK NHS-led gambling services exploring such relationships …",
-   "url": "https://doi.org/10.1556/2006.2025.00483",
+   "published": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "summary": "Abstract In gambling research, gambling subtypes have traditionally been used to distinguish between games of skill or competition and games of chance. The former are referred to as strategic games, whereas the latter are classified as non-strategic games …",
+   "url": "https://doi.org/10.1556/2006.2026.00414",
+   "oa_url": null,
+   "topics": [
+    "treatment"
+   ],
+   "designs": [],
+   "regions": [
+    "europe"
+   ],
+   "score": 4,
+   "why": [
+    "core journal",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10899-026-10577-1",
+   "title": "Stigma and Purpose in Life in Gambling Disorder: A Mixed-Methods Study With a Gender Perspective",
+   "journal": "Journal of Gambling Studies",
+   "authors": [],
+   "published": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "summary": "Gambling disorder carries a heavy burden of social stigma that severely impacts recovery and psychological well-being. However, the intersection between discrimination, existential meaning and gender roles within clinical populations remains insufficiently explored …",
+   "url": "https://doi.org/10.1007/s10899-026-10577-1",
    "oa_url": null,
    "topics": [
     "treatment",
     "equity"
    ],
-   "designs": [],
-   "regions": [
-    "uk-ireland"
+   "designs": [
+    "qualitative"
    ],
+   "regions": [],
    "score": 4,
    "why": [
     "core journal",
@@ -508,33 +533,6 @@
    "why": [
     "free full text",
     "US",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.11648/j.ijls.20260904.13",
-   "title": "Legal Reconstruction as a Policy Bridge: Advancing Criminalization of Online Gambling Amid National Differences",
-   "journal": "International Journal of Law and Society",
-   "authors": [
-    "Muhammad Nurhidayatullah",
-    "Agus Raharjo"
-   ],
-   "published": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "summary": "Online gambling is a rapidly growing global phenomenon affecting countries across the world and creating complex legal, social, economic, and technological challenges …",
-   "url": "https://doi.org/10.11648/j.ijls.20260904.13",
-   "oa_url": "http://article.sciencepg.com/pdf/j.ijls.20260904.13",
-   "topics": [
-    "online-gambling",
-    "policy"
-   ],
-   "designs": [],
-   "regions": [
-    "asia"
-   ],
-   "score": 2,
-   "why": [
-    "free full text",
     "priority topic"
    ]
   },
@@ -712,7 +710,7 @@
     "Steve Allender",
     "Yin Paradies"
    ],
-   "published": "2027-01-02",
+   "published": "2027-01-03",
    "first_seen": "2026-10-31",
    "summary": "Issue Addressed: This study aimed to quantify Aboriginal adults' exposure to digital marketing of unhealthy food and beverages, alcohol, gambling, tobacco and e-cigarettes; analyse demographic differences in marketing exposure; and describe the nature of digital marketing reaching Aboriginal audiences, including brands, platforms and marketing tactics …",
    "url": "https://doi.org/10.1002/hpja.70270",
@@ -785,7 +783,9 @@
     "advertising"
    ],
    "designs": [],
-   "regions": [],
+   "regions": [
+    "asia"
+   ],
    "score": 2,
    "why": [
     "free full text",
@@ -816,6 +816,102 @@
    ],
    "regions": [
     "africa"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1016/j.comppsych.2026.152753",
+   "title": "Decision-making and implicit associations in internet gaming disorder, gambling disorder and alcohol use disorder - A comparative study on treatment-seeking patients",
+   "journal": "Comprehensive Psychiatry",
+   "authors": [
+    "N Dominick",
+    "M E Beutel",
+    "O Tüscher",
+    "S Steins-Loeber",
+    "K Wölfling"
+   ],
+   "published": "2026-10-29",
+   "first_seen": "2026-11-03",
+   "summary": "Background And Aims: Previous studies suggest that altered implicit and explicit cognitive processes in individuals with substance-related and behavioral addictions influence the development and maintenance of these disorders …",
+   "url": "https://doi.org/10.1016/j.comppsych.2026.152753",
+   "oa_url": "https://doi.org/10.1016/j.comppsych.2026.152753",
+   "topics": [
+    "loot-boxes",
+    "treatment",
+    "cognition",
+    "comorbidity"
+   ],
+   "designs": [
+    "experiment"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1186/s12888-026-08661-2",
+   "title": "Gambling disorder and other impulse control disorders associated with pramipexole: a nationwide Swedish case-control study",
+   "journal": "BMC Psychiatry",
+   "authors": [
+    "Miriam Carolina Lecerof",
+    "Mirjam Wolfschlag",
+    "Anders Håkansson"
+   ],
+   "published": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "summary": "Abstract Background Pramipexole, a dopamine agonist, is commonly prescribed for restless leg syndrome and Parkinson’s disease. However, it has been linked to gambling disorders and other impulse control disorders developing as a side effect …",
+   "url": "https://doi.org/10.1186/s12888-026-08661-2",
+   "oa_url": "https://doi.org/10.1186/s12888-026-08661-2",
+   "topics": [
+    "treatment",
+    "cognition",
+    "comorbidity"
+   ],
+   "designs": [],
+   "regions": [
+    "uk-ireland",
+    "europe"
+   ],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.31363/2313-7053-2026-5-1413",
+   "title": "Psychopharmacotherapy of Gambling Disorder",
+   "journal": "V M BEKHTEREV REVIEW OF PSYCHIATRY AND MEDICAL PSYCHOLOGY",
+   "authors": [
+    "Ф. Ш. Шагиахметов",
+    "Yu.M. Scheidegger",
+    "Evgeny M. Krupitsky",
+    "Т.В. Клименко",
+    "S. E. Golygina",
+    "Анатолий Васильевич Сахаров"
+   ],
+   "published": "2026-10-31",
+   "first_seen": "2026-11-03",
+   "summary": "Gambling disorder (GD) is a behavioral addiction characterized by high comorbidity, significant social and economic consequences. The neurobiological mechanisms underlying GD are similar to those observed in substance use disorders, which opens possibilities for pharmacological intervention …",
+   "url": "https://doi.org/10.31363/2313-7053-2026-5-1413",
+   "oa_url": "https://doi.org/10.31363/2313-7053-2026-5-1413",
+   "topics": [
+    "treatment",
+    "cognition",
+    "comorbidity"
+   ],
+   "designs": [],
+   "regions": [
+    "europe"
    ],
    "score": 2,
    "why": [
@@ -1095,92 +1191,241 @@
    "why": [
     "priority topic"
    ]
-  },
-  {
-   "id": "doi:10.64898/2026.10.30.26366936",
-   "title": "Demographic and Comorbidity Characteristics of U.S. Veterans in a Retrospective Descriptive Matched Cohort Study Addressing Problematic Gambling",
-   "journal": "medRxiv",
-   "authors": [
-    "Workman",
-    "T. E.",
-    "Kupersmith",
-    "J.",
-    "Spevak",
-    "C.",
-    "Sandbrink",
-    "F.",
-    "Treitler-Zeng",
-    "Q."
-   ],
-   "published": "2026-11-01",
-   "first_seen": "2026-11-02",
-   "summary": "Problematic gambling is an increasing public health concern that also affects U.S. Veterans. Problematic gambling in Veterans correlates with several other factors, including socio-economic issues like homelessness and legal problems, and mental health issues like post-traumatic stress disorder, and suicide attempt …",
-   "url": "https://doi.org/10.64898/2026.10.30.26366936",
-   "oa_url": null,
-   "topics": [
-    "comorbidity",
-    "equity",
-    "veterans"
-   ],
-   "designs": [
-    "longitudinal",
-    "behavioral-data"
-   ],
-   "regions": [],
-   "score": 1,
-   "why": [
-    "longitudinal or behavioral data"
-   ]
-  },
-  {
-   "id": "doi:10.7583/jkgs.2026.26.5.153",
-   "title": "Analysis of Changes in the Knowledge Structure of Adolescent Gaming and Gambling Research in Korea: A Text Mining and Social Network Analysis",
-   "journal": "Journal of Korea Game Society",
-   "authors": [
-    "Young-Suk Lee",
-    "Ji-Yeoun Lee"
-   ],
-   "published": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "summary": "본 연구는 2013년부터 2026년까지 발표된 국내 청소년 게임·도박 관련 학술지 논문을 대상으로 텍스트마이닝과 사회연결망분석을 활용하여 연구동향과 지식구조의 변화를 분석하였다. 단어빈도 분석, 핵심 키워드 중요도 분석, 연결중심성 분석, CONCOR 분석 및 군집분석을 수행하였다. 분석 결과, 핵심 연구주제는 지속적으로 유지되었으나 코로나19 이후 온라인·사이버 환경과 정책 및 위험요인 관련 연구의 비중이 증가한 것으로 나타났다. 또한 연구주제 간 연결성과 네트워크 응집성이 강화되면서 지식구조가 보다 통합적인 형태로 변화하였다 …",
-   "url": "https://doi.org/10.7583/jkgs.2026.26.5.153",
-   "oa_url": null,
-   "topics": [
-    "youth"
-   ],
-   "designs": [],
-   "regions": [],
-   "score": 0,
-   "why": []
-  },
-  {
-   "id": "doi:10.1016/j.chb.2026.109234",
-   "title": "Social comparison and risky loot box use in video games: The roles of relative deprivation, perceived superiority, and perceived luck",
-   "journal": "Computers in Human Behavior",
-   "authors": [
-    "Siyuan Xu",
-    "YangLiu",
-    "Qiuming Tang",
-    "Ming Ji"
-   ],
-   "published": "2026-10-29",
-   "first_seen": "2026-11-01",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.chb.2026.109234",
-   "oa_url": null,
-   "topics": [
-    "loot-boxes",
-    "equity"
-   ],
-   "designs": [],
-   "regions": [
-    "asia"
-   ],
-   "score": 0,
-   "why": []
   }
  ],
  "news": [
+  {
+   "title": "Family seeks closure of son’s betting accounts over alleged gambling addiction",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlBXdkpLYWZEdmlad3d5bDM4dXFqcmVVVVFGVHptWjN0eDdpR1F3cUlUVHlqVWRFLWNvaEVNMmJvNXZEUmxmdHdmX21pczdlVElsOVpvN3NhNFhPczFiV3gxcU5YNnJKUTU4OWxSaTdPWW9jcXgyUDFMWE9JV0g1Y0Qza2QtdW5COGlheS1Ic1ZiamQ4aDVEM2JRcjdoUEQ5MFpGSVI1R2l5d2xlblNQcTV5VzdtcmFKTWlMWTI0c2MzTDNvY21wVmZ6WXZUWU5G?oc=5",
+   "source": "Premium Times Nigeria",
+   "published": "2026-11-03",
+   "primary": "public-health",
+   "summary": "Family seeks closure of son’s betting accounts over alleged gambling addiction Premium Times"
+  },
+  {
+   "title": "Are prediction markets accurate on elections? The US midterms are a big test",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanRYMzgzdF9zc1RWTlhQQUR6QWxxWWxPSjNINFNaWHJVTDFhMTlvTnQ2cHZ6aVhXcmdVVEg0SWNyR3BySHU1Z1VmTWJqOUN2eF92cWVyX2ppb3ZFX3FxOGg3TXNVaVZkWTAxdlcwVm4zaEtZOFZ2aTcyaGFvRXg1T1pjS2lPOXZfR2NLSlo3SjU2Xzg?oc=5",
+   "source": "The Guardian",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Are prediction markets accurate on elections? The US midterms are a big test The"
+  },
+  {
+   "title": "Prediction markets face US midterms test as election bets soar",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Prediction markets face US midterms test as election bets soar"
+  },
+  {
+   "title": "Nearly $1.9 billion traded on midterms in booming prediction markets",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORlpUR0FQeEhjOEpvVFlnbnpaSk1zZG9DbUQ0ckVrZm1HQ0hncks2SGN6SGg5Q05qXzhIc3JFazBMcERLQ1ZaR2JReDdxcFFqRmdZSXR2d2RnUTFBU3huU2pQa0NQd2JMTFRicU1uMHJhMm42M2p0Z24ySHYtWWtGVHJFZGdXMnNoaHY5ek0xOWhwalJTcVB6VEJJeE5vbkZERWZ4ZXl0TDZDdzA5LUhPM1FR?oc=5",
+   "source": "The Washington Post",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Nearly $1.9 billion traded on midterms in booming prediction markets The Washington"
+  },
+  {
+   "title": "Prediction Markets May Face Bipartisan Reckoning After Midterms",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakk4YXdYaXZrLUNhUXFIOFZ5T0dlWDgwVDAtN1RpTjg2dFU5ckEzdU1YV2FYeEFfOVg3bkhIaEpfdlVTc2JPVWNlcl8zUVE4UVJsZDE4STRlbEpJRDJsdm43ekZ4T2hYTGlQdUswaWlXUVRNdU5zMEU1ZEF0S3Y4bzJ6MlpMMFkxMGN6WnhwaXlpdmdqdHUyelhrZjc0NVlxYTExX1plYw?oc=5",
+   "source": "Front Office Sports",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Prediction Markets May Face Bipartisan Reckoning After Midterms Front Office"
+  },
+  {
+   "title": "Polls show tight Texas Senate race, but prediction markets tell a different story",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGstWjJ1YnRpbDJyRGFCUXNvemJhTjVvZXVEREhjd2hfWWVHdGxDc2JRNWZnZGlLcEM5RnhzOTNfMVVkNWdmOW50ejVpdEZ5aS0tYk03djNJMEJJNjlNS3FnNGo0T2xlUnI2WktvU1o5S0cwckd6SGJtaFZZQkZlbE9BNHpXVzd4c1hSWGI5MHpoMGlocWJ3RHFsMXZja2VLUmhVSEVvS3JlR0c2Y2VoZllTOTFSTVdNRzB0aHZzOGNESXRzTUpKbDctNWMyelYxMDZJdA?oc=5",
+   "source": "KHOU",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Polls show tight Texas Senate race, but prediction markets tell a different story"
+  },
+  {
+   "title": "Surprise Flip in Tarik Skubal Next Team Market on Kalshi",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTczNmNfRUVFYlJBUzZRbWVCZl9qQ0Z3V3pJTklQR0NMSG9CTUxqWDdfOVd4QW1fSTBQdVdoWTJiRjJ1TXRXSXBTS0Nsc3FGVURucFctSW53UmhacUhhS1Zsc2dDVlJ6RWlsRWVtZWlXLVdjUUkxUDRFLVFnNGY5bXhTQzJsNUxGSW9ORjJCQ3o4bVNiNm5fdENSdzFza0gydXRwWDNDVTdFeTA?oc=5",
+   "source": "Sports Illustrated",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Surprise Flip in Tarik Skubal Next Team Market on Kalshi Sports"
+  },
+  {
+   "title": "ACDC: $431M Bet on 2026 Congressional Prediction Markets",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkFreWtDLVlySk1KeUNKNmFiQzFXTzhZQW16MW5QemF0alhJWU1iVElNZ0xadVVUbk5LVzRzdFp2ZENVS25FSkxqbEZCa3cxWmJjbjNCdEJJRXJKcVFkVll4STA5U2ZNWThQZlpHX21PaEd0WWI2RGlhMW1xd085S1FCY2xWdGdQRG5jY2pyQzZ1cnJWaU80cmZSMWlydnp6ZnpZcnpXc0pfZw?oc=5",
+   "source": "RG.org",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "ACDC: $431M Bet on 2026 Congressional Prediction Markets"
+  },
+  {
+   "title": "Prediction markets are attracting big money for the midterms despite state laws and regulations",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdDdjV203SkdzaUVKZ1dtbUkxSTNaN0dKNDY1VzRNWWVlZTM4TmJUYTgyN0kxT1BVTEJEYmp6dXJTZ2Z2ZEd1MlVmaGtDU1d3OFpWd0hiMlJQRzdkSkZraUtteC16WDB5RjU2LThldGxNVW4yU3Jodnk0bkliZDI1RXZGLXc1LXBycWt2S0x1RkpRUGplMlFMUGwwbUdyNzV4Nkxpd2loTS05NGFERzVjXzMwQkxiYm8yMi1YVVVwOUlwbjhmX1BhdGRFMGZTeVFCSVY2c3VJQlB2NjcxaUJLcFVn?oc=5",
+   "source": "kare11.com",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Prediction markets are attracting big money for the midterms despite state laws and regulations"
+  },
+  {
+   "title": "Millions of dollars traded on prediction markets tied to Maine elections raise influence, insider trading concerns",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaXloWjRBLUFBeW5QU2VhUDU4U2RKZzRfRUlEYzItdUg1cXdfZEZ2UFNmOTF0Z3pvakpaN3dVWW9zbndOSzRIdzNrV0Y0MklDRS0tOFZfc1V1SmM3d3NON2tJcFZVVE5pZF9uQUxCSFJjT29vT18telZNMnl0RVNlQVg1WG5SYnN3SHRaYlBrUzJEdzdyLXpobFo0MHE1VDJYbjRRTXlnSzEwaWo5eTItWlJxTjhxNkN4SW5BMjItNWhBczhVd3NYQ21sUTkxYkhwTmdNWmo1c3NWYnhDOWI3WmtFVl9EQ3ZrNTJNYUtVTTF0REFoYTA5cXBkRnk3QjlDcjRHWW1fdHU3cGVQSFlkRnEzVHRGNlZlNUlrcUtSNlZmTU0?oc=5",
+   "source": "newscentermaine.com",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Millions of dollars traded on prediction markets tied to Maine elections raise influence, insider trading concerns"
+  },
+  {
+   "title": "Polls show statewide tossups. Prediction markets suggest Florida GOP sweep.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kY1FmQ1lsRE9iQmktWkszMzlyZXUzZnozTktiNGlpUVVLWm9MaG93aTlLQWFHRlFFTGZXekNpeFI1aHlUSlgzSEtpc1FxOG1iWU5UWjdyZGgwYmVENXBBeF9XbnlqSE9wOGZoc1I1blFyTE1BRHNr?oc=5",
+   "source": "Florida Politics",
+   "published": "2026-11-03",
+   "primary": "prediction-markets",
+   "summary": "Polls show statewide tossups. Prediction markets suggest Florida GOP sweep. Florida"
+  },
+  {
+   "title": "DC iCasino bill prospects still upbeat despite dwindling time to pass",
+   "url": "https://sbcamericas.com/2026/11/02/dc-icasino-bill-approval-prospects/",
+   "source": "SBC Americas",
+   "published": "2026-11-02",
+   "primary": "regulation",
+   "summary": "KEY TAKEAWAYS Washington, D.C. might not wait until 2027 to legalize online casinos. Multiple industry sources told SBC Americas that the DC Council could pass Councilmember Wendell Felder‘s Internet Gaming and Consumer…"
+  },
+  {
+   "title": "Illinois appeals to Seventh Circuit after judge blocks prediction markets law",
+   "url": "https://sbcamericas.com/2026/11/02/illinois-appeal-prediction-markets-law/",
+   "source": "SBC Americas",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "KEY TAKEAWAYS A new federal court preliminary injunction blocks Illinois from enforcing the prediction markets licensing and tax law state legislators passed in June. In an order issued Friday, Oct. 30, Judge Martha…"
+  },
+  {
+   "title": "Updated: Michigan gaming regulators target 32 illegal offshore operators",
+   "url": "https://cdcgaming.com/michigan-gaming-regulators-target-33-illegal-offshore-operators/",
+   "source": "CDC Gaming",
+   "published": "2026-11-02",
+   "primary": "regulation",
+   "summary": "Editor’s Note: The Michigan Gaming Control Board incorrectly identified an additional company as a recipient of a cease-and-desist letter last month. Our story has been updated to reflect the correction and revise the…"
+  },
+  {
+   "title": "10 Best Gambling Sites UK 2026: New Report Names Leading Brands",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVJJbng0OHp1czdUQ0o0LTB0SnRkZDNMSmtBTGxmX2RZbDZKTzFyR3RnMy13VS1tV0REdnhxd3lOVGNhdnc2NVBzOUtXb1NHUnZaUEpPV0pwbnFUVUVKZWkxcTBHb204TVpEVDVFTXlwdzBRVWRXX0tEQkg1d1NjOXo5dDQ3OFRQTUdZRkFfVWRMdEtta1AtdERTSXJhSUcxazZtNEdyNFpXbnF6?oc=5",
+   "source": "Female First",
+   "published": "2026-11-02",
+   "primary": "regulation",
+   "summary": "10 Best Gambling Sites UK 2026: New Report Names Leading Brands Female"
+  },
+  {
+   "title": "UK Gambling Commission Licence Fees Rise by 25% for Casino Operators",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDhNNEswTXV2aHFxMzRXTGNfbkNCVE1jczEwUXY3OFVsVVRYY2d4WmVoODB3dEZOeEd4Y0JPbHNaMzE5UE40cDM4VG9mUlpKRjdWVXVPVENKTlZWVnZCdTZOSkdpck1oM2NXTEd3MDBBdzdlWmVrZDctdy1HeDBDWDRoWTFxM3pLVUF2S0lESFVBQXpNNUE?oc=5",
+   "source": "NEXT.io",
+   "published": "2026-11-02",
+   "primary": "regulation",
+   "summary": "UK Gambling Commission Licence Fees Rise by 25% for Casino Operators"
+  },
+  {
+   "title": "Teen gambling addiction rising across the United States - FOX 9 Minneapolis-St. Paul",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LSXJjbFRsZk92T3VpT1R2TlhINkRWVzJ2Nk1Qb1NBcnNmRG05a2RaNGE1Q0RqVF9fQ1ZFSDVSeUFXd2RsLVpPTS1QcWlocmJVWXhCajVhSmlwRmvSAWBBVV95cUxPMzlCaWJfSlo2YTRYVXAtaG4xNWZ4Y2FsYVQ0dFRFQWpwMkVxOV9nS1FoeHVscGxhS2JQVnBqTm9QM3dnYnpYbS1oUzRGV1I2SFl3Y2EzOUtwNnppanBUSmY?oc=5",
+   "source": "FOX 9 Minneapolis-St. Paul",
+   "published": "2026-11-02",
+   "primary": "public-health",
+   "summary": "Teen gambling addiction rising across the United States FOX 9 Minneapolis-St."
+  },
+  {
+   "title": "PGA Tour Lobbies on Sports Betting Tax and Golf Promotion",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ebl82dmdhQmRmSmR3VGtBTUI1TU8ycWt2SWVjbFFidUNIVkFsVDZmNWl4YkU1NVFvNnc3LVJTaWxJMndDNzJqMjUzVEFWWExhWjQwbkhrVG5uOFFXbHJvN01GSTRGX2VzR0xxbzR4NkZxQ0UxMkNPaTFYU0k3UQ?oc=5",
+   "source": "Legis1",
+   "published": "2026-11-02",
+   "primary": "regulation",
+   "summary": "PGA Tour Lobbies on Sports Betting Tax and Golf Promotion"
+  },
+  {
+   "title": "DraftKings, FanDuel Face Questions From Lawmakers Over VIP Rewards Targeting Problem Gamblers",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlNFQjV0TzN5R2I3cHpLS3lVSFhFcWpYdks0OTlEUDAtaXNHbkREVExQOFBqWmRpd0E1VjcxSXRtV19ua3NNUDNWcG9vbzFvcGo0X0VrQzVWbDA0MldNczFYc2pMaVlUQUNKUHFVODdFV2JHSXRsSVlHSUpicDhMYWFtYXl0a2Jmd1ZEeExnX1MzUVFTbzNUN0lsQ3ZLZldPNnRvODlhVWlqb0U1X24zQ2dSWkNnOXhwQlUtZ1RhVQ?oc=5",
+   "source": "AboutLawsuits.com",
+   "published": "2026-11-02",
+   "primary": "regulation",
+   "summary": "DraftKings, FanDuel Face Questions From Lawmakers Over VIP Rewards Targeting Problem Gamblers"
+  },
+  {
+   "title": "Kalshi and Polymarket traders back Democrats to win the Senate",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTFFmck51Y1RYRWRFZ3JEQ1dUUHAwb1k5QlNfck43MFBFeGZoV0pxV1ZHS3gzdDFHeWQyUkg1WUp1RG1Xem5rNFFiaTlOeDVsWUhsbnVYcmdTXzRpVlQ3bVNwdjBGc1BoYWlhNjVLMEVqNWw0anBRZQ?oc=5",
+   "source": "Quartz",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Kalshi and Polymarket traders back Democrats to win the Senate"
+  },
+  {
+   "title": "Prediction markets have gone 'mainstream' but what effect will it have on the U.S. midterms?",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Udi1zZjZod3ZmWmFTc2tDeEFhSXV5VEx5U0tEV0xxYmVtdUhLVHo3U3RhdF9YSVR6eVNhWkd5Y0g0Qks1aFU4YWhjdXRrbWtoVHU3NjR4ODh6YWZySUtfdWQxSDg3SmFXM3FwQ0FlRFpLeFNxTzZNTUNn?oc=5",
+   "source": "CBC",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Prediction markets have gone 'mainstream' but what effect will it have on the U.S. midterms?"
+  },
+  {
+   "title": "Prediction market punters go door to door hunting a midterm edge",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakQ0SEdDLTV5RnhzbFhURzFROHpXSmhrSlFTVzZBdFBfenVXZ3NTbUhsT1EyNmZhaGZYOUpnWndscHFpRER5cWsyYlpWZ1p0R0V5eE5PXzhWZ1hfTm16STRGSlZxUWtaZjFpeTdkSDlGVjJsaFIwYjYzZzB2WTZCd19RX3BlTUVEd2h2SWR3Z0xjclJlQUdVZjNod1l5OHRMbHNYTzZveW00YkhpMVo1bDJPNEdIdHdCVTMzVA?oc=5",
+   "source": "AFR",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Prediction market punters go door to door hunting a midterm edge"
+  },
+  {
+   "title": "Prediction Markets Now Favor Democrats to Win ALL 7 of the Top Swing Senate Races",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDFLMEs2Z2VVd3lPc0NlYXlDNENHeWVyNnlNMmR2NjJqSVZvdWhyd01TR2tNWXotN0g5N3ZKMFN4bjBZa055aWtINENqYmZxTWFELXBRN05ONi1HSmlFOXo1Y1pkck9KSnM3eWZMQ28xRTNKTDZkYTRrWHlIY0ZLYndTYm53SWFDal9nRDZ5SmVuY0NKakVMWE1jYnhTRFpkSHB4cm5fbUdNaGVoUWFQR3Z2cGRSR0k?oc=5",
+   "source": "Mediaite",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Prediction Markets Now Favor Democrats to Win ALL 7 of the Top Swing Senate Races"
+  },
+  {
+   "title": "Prediction Markets and accuracy in predicting elections. Can you bet on it?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmZGZVk0YUYwdmdoV0FncEFBcTMzSnBqVjRucGZCSVk3WGtka0wyWXRNTHQ2a3hja3JjTmR4VWVXTjI4WGsxcnlyb3NDdEJGVU16WXVPZmVENnRtSlVNMi1ZZ24ySXFVYTVoSGlLNzRTd2doRDV4Tk91ekd1a1BMMQ?oc=5",
+   "source": "WSLS",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Prediction Markets and accuracy in predicting elections. Can you bet on it?"
+  },
+  {
+   "title": "Opinion | Betting on Prediction Markets Is Still Betting",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXd4YlZKWE54TF92ZmV2VlBQWGdlSmpHOXNxbld0RzZ2OWxRdkNmV2NXRVRad2w5Q1hJaE05bGRvNlJKeWVDRm9sU2h2Umk2c29RN1BTdGxldkFxN0Z2bXFUbTVEQmx1dENYcDRoazJBejJVRW9hbkVxM1cwbW1WTmRMb3RwUFRabEZj?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Opinion | Betting on Prediction Markets Is Still Betting"
+  },
+  {
+   "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXpBWk0yZjFFMDFTb29SZGdkTy1hWElUWU5peUctelVfVzZQZmk3VkNzVnpaSWJNVkpTMWstdEdrTWl4WmJCR2ZvdnQ2YWgwQ3lrRlRSNUlHRkg0ckdHd1M0bmMyN1U2Z3QtT2ktc0VGcXl6dVdvRjhzZFhxcHZkTmR6Z0ZXdFRFWTlNRkVCWdIBlAFBVV95cUxPOUZnMzJsZ3JYNEY2ZExhQUJjTFFzb1A1S1hNeEwxVldXZTVkNnlndzBxV1FHZjd6YTVfc0NuUFA2UTgwN3g5TlB2TG1LN1JLdmE4dTNrWTlTQTU2WFc4cjd2RTI5eWRjZWNFLXRyRnJBbUpHTW1UOXZmbTJLUVl3XzVPdnRXODF3eTN6ZWVFTUhzTGNB?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Texas governor race tightens in prediction markets, but Abbott remains favored"
+  },
+  {
+   "title": "Other predictive markets pull out of Utah after Kalshi criminal charges",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkZCbkotbFB5eDc3VUxHVTU2TnlCdjdDcFpuMkFDbDB4WHdBU0pFdG8yRWV0RlRsWkNxWF9fejZjR1docUZFSDRpcFRETmJlXzB0Q1VpZzc4TmpLb09PMEhCZEZzb0FsMEFWVXJSS2lDYmVhemgxOWtQM01sTHhJY1lLOEtFOUpaYkhYLUNVZnBGNWV6TWN5SkFMTXVadFF0UFBUajd1VFlsblh4Ri00?oc=5",
+   "source": "FOX 13 News Utah",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Other predictive markets pull out of Utah after Kalshi criminal charges FOX 13 News"
+  },
+  {
+   "title": "Prediction market bettors are the new political pundits. Why are we listening to them? | Judith Levine",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFhQaWh2WXU1bjVYSVdBTW4yZ19ZMzVmelhTcW5MYjNYWFRxd08wb2lDZmVaZzR1OU1CUDNNOXNTYnpTdjJyZ0ZRSzRTZDdBWVpkQUVEajNnYjNBMUUzclpSNl90MG0xWnV2TUs4OU5KazVsSV9LMXV2LWh1M1U0bW9CTjNWOEZobTc3OVgtdTNBWnc?oc=5",
+   "source": "The Guardian",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Prediction market bettors are the new political pundits. Why are we listening to them? | Judith Levine The"
+  },
+  {
+   "title": "Kalshi, Polymarket Put Democrats At 70%+: 5 ETFs To Watch - iShares Global Clean Energy ETF (NASDAQ:ICLN)",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOWdtLU9RSl8ybExSWGNYVXhMVFNhdGhxZEFIOWNPa01iQW9BaXBBVVd3VjdOOGpJZEFJcjljZlduVGtBVGlKS1JCM0JzWkRGR2FvWWRTa2l4U251dW1lLU50RlVlWUE0MlJvRDFZUk1CVEphRDRlekZlbUlQazIwYnp0QjYyVFhjNjFiak50REhmUHJCT0lSc0tEekdVaDU4cGlYaHVGbVVUdHo5R1RpV3ZkZ2JIR01DTnhmaktYTUdDTXhWbjhnNDQ5blBoNHdPdmU0M3ZmZ242LXVmRFBmbWk3cjBkUF9KUDNv?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-02",
+   "primary": "prediction-markets",
+   "summary": "Kalshi, Polymarket Put Democrats At 70%+: 5 ETFs To Watch - iShares Global Clean Energy ETF (NASDAQ:ICLN)"
+  },
   {
    "title": "KSA launches campaign to encourage early conversations about gambling harm among 16-25-year-olds",
    "url": "https://igamingbusiness.com/sustainable-gambling/ksa-launch-campaign-gambling-harm-16-25-year-olds/",
@@ -1262,92 +1507,28 @@
    "summary": "Trans MP falsified documents in the grip of gambling addiction Wales"
   },
   {
-   "title": "Prediction markets take some thunder from election polls and add a financial incentive",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEEwYlZDRGxjQ1ZCdmM4R2h3cVlGOTZOMHhpVG13V2k0a2h4cXRfTFVKS2N3ZGc1VGIzVEZKMEdEYWUxOFcxS2VIekFtRnVwRVRlVFVjeWloc2JlWEV4WVFRYVM3d0VKWnJYNnhLQ0xDS0NicjIxa1l3QW9YN2ExNDNlMlU1dDFqaEJLY2VHdGVXcUU1cTQ5Q0NZV1Bfb0hCSnlYYnBRVjhUYks5X25pNkhzV0tueU1QSlpqcW1pMi05QTFWSjNtZHlQMHlqQ0s4S2dz?oc=5",
-   "source": "WLRN",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Prediction markets take some thunder from election polls and add a financial incentive"
-  },
-  {
-   "title": "Kalshi And Nate Silver Forecast Democrats Ahead In U.S. Midterms On November 3: 13 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUFJaG01Mm1HMzBLTlQ4QXBCMXd1VTAzUWFNV2ZTUVpQc3FXQWpwNVBtOU44ZVpheXFzVEE4VEZCMGJrTTBiUzhQQXItS1pfbUFweHRSdTNENXV0cDFIMkF6UEJ6ZHFQZTk2c2hMb1kxd2FXZktteUotb1owY1BNZHdlU2laUU9GYTk4MnAtcG5OMWI1OWVUSUJmcHpfM0lJdFc4S0hpclh0bEdiUGxCQkF5NHJoZDBkY2d3MF94SG4tMWhwODVZanNhZUJqYW8taS1GTzlmMEF2MTZoOTB0cWlqSHk?oc=5",
-   "source": "NewsCord",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Kalshi And Nate Silver Forecast Democrats Ahead In U.S. Midterms On November 3: 13 outlets compared"
-  },
-  {
-   "title": "Michigan Senate race: Abdul El-Sayed's odds rebound to all-time high after Stevens' endorsement of Mike Rogers",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUld2VTNnVUpBWGNOVG9hSTFFNjUyYTVnTFIzSXFsMUVJWkFHSjRRRkRROFVQejJLSURDbWpCRFM4NUZISkdobGxyV0tCWkctT1dnanJ0RFFlN2RrX2lFMElKazVwZlJWS3dtM3BEX2ZJa1hyTGtIMmFrdE9fczhjaUdya3pXdko0SGZJUm9QbW4tWkJaSVFhSDl6ZW5EZU5lcEJKZnBiNDd1b3Y4LUp3YXFxU2oxbEN3NVhfbGVyd0M2LWJx?oc=5",
-   "source": "Kalshi News",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Michigan Senate race: Abdul El-Sayed's odds rebound to all-time high after Stevens' endorsement of Mike Rogers Kalshi"
-  },
-  {
-   "title": "Do Celebrities Endorsing Prediction Markets Not Have Enough Money Already?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGRiSHQyNHZ2dWtROEdNQzdoNllXSHdrWXZycVNqVjR3Z19jbGI3Z0Uza3l0RFdwMi0tdEIzUGJGemtqaUZ0RWgtM1F0dmZZTlFRVU1CRjE0SkRWUWZHVUM4T0cwMlRzRF9ocS1NOGJLV0hwTEFJQi1RRm5fWlp6T3VGLWo5VjhHb2t4Z2JzWGlRaWlCTHBzQXpGMXc1cnNfTURiZUtJdlNicG94c3ZCQjRRb0o1Y1VCOUY0?oc=5",
-   "source": "Bloomberg",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Do Celebrities Endorsing Prediction Markets Not Have Enough Money Already?"
-  },
-  {
-   "title": "Prediction markets bet on 2026 election, putting cash on the line for results",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbTJFTlFDelJGckg2Ul84Wnh5TWNvLURvYURtTEFucG54RDUzbXhLZXFHbzhMVDBUUGozaElXNUJQSEVRSTN5RTh3UXhmRHNZSXB4bkNvbElKcGV5UEVpWnJEYjRTbmhJbi02QjZZSHR4THBnYkVUc0R3ckRHTFQ5cHNCOGU1N0pCemszWmVxN0pHY3V5cHRRdGhLOEdBVlRJT2g3aFNKVzRELWN0eFFiLU1NWVY2bXgxZElGQmcxNHYzSHdTQTJmS293UDHSAdQBQVVfeXFMTXlRQ3o1Rjc0MzhDVXFSRjFnYmVvQUJ4UnBFcXJYZ0hranl0cjNkeGFEaDRQQUhmUVpqU19Ud0F5SVdtTlJWY3JSMC1LMmNKYTQyMjNLLTdXUGswS3oyS0M4Z0lkVWRrUmZJaUMzLXY2dnZrNHF5TVh5R3NRQk1NU09JVnhQSVVKV0VoRV9MQUJZZlhuT1Iya09ZWVB4aFc5bXBlSE95Nm9GNXRNXzZlS0l3cTdoWllpRHNRbTBjbENBTUxOTE9mWWo2YXI0dlR0TGNGQ20?oc=5",
-   "source": "NBC4 Washington",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Prediction markets bet on 2026 election, putting cash on the line for results NBC4"
-  },
-  {
-   "title": "Polymarket vs Kalshi: Who’s Winning The Midterms?",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTRxMkozNUFlQmF5b0NwXzNEQnJUWkZLMDJpb255enhib05NU3Q1Mzh3Rmp4Q1h1LVJUTmV4SXQxRWJBc0t6OWRhZ016OGlFTlNkQUVqU0NMaFdoUTdYSlhubzFFT1lkN1NRY0VPYURjTk82ZEo3UjVTZ0k0YU54S1djZ3V1WlpGRTc2alJEYzktMjBweWhlLTJHdmE2V1VKNzVPR1hCT2IzRms?oc=5",
-   "source": "Trefis",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Polymarket vs Kalshi: Who’s Winning The Midterms?"
-  },
-  {
-   "title": "What’s Happening With Prediction Markets?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3FsS0VwUVRzOUFzb2dHcW1XTDMwLVlYem1vSlgwbWNXUXprbDc0cWI1d2tYQnNpVEltbE1ULXEwaHdDTGtmclZvLUM2cXN4bkRqMEt5a1N0SDAtenFRVHkyd2lzcms5NE56ZmhrRnR3RHVKTUtMZ3NGSHJHaVJHVldad25MUnQ1bkJxVmpfTGxhcEl1bTBUODBMYWtGdWpXVzNr?oc=5",
-   "source": "Trefis",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "What’s Happening With Prediction Markets?"
-  },
-  {
-   "title": "Kalshi’s $40 Billion Price Tag Rides On Football",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTZGVXlZVk9vcE1qSTNiRU9GNUlIUWVIT1lNMUEtVVVjUnFoTVBFSXlTTzFZbk1VSlZOM2pvbHlqa1pUci1rOHczZUoxT01XMXMzUE9ELWVnRWhleE1veHFDYzhhUkNSODc0RlNvU2pDc09uN1NLUXMzNWlhQWZ2ZWd5cGlwNjhKc0tPRS1ZOWNDRHZ3SGFFb1Vob254REFQVi1LOVAycDFBOU56?oc=5",
-   "source": "Trefis",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Kalshi’s $40 Billion Price Tag Rides On Football"
-  },
-  {
-   "title": "Best prediction market promos, bonuses & invite codes for November 2026",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbldza05BS2p5amRHRlFlM1lndGdyS3VYNTNBSXRwQXB1bE1KX2J6cXpMZzhBT29ySHhqQlJuRVNiY2xWcnlhd0xMcUJvVzI5OGkyNnpLVmVjakRMQy16VDF1amo1bjVIeGpId2NuQWp0TWV4YVVGOW9Nd0lRaERIdVYtT1RjYUhINlFITEtKRVV5WjB0M0ZvQ2lUQ0t4YlRVZmVOSldOUmNyWmNBZERESkl0cVVhcFc4UGoxTnh2WEQ1UQ?oc=5",
-   "source": "The Columbus Dispatch",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Best prediction market promos, bonuses & invite codes for November 2026 The Columbus"
-  },
-  {
-   "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXZzUTAxZG9HenN3Y2p1VjNOb2lyRVFtaER1bnFtS2lzRFBTVGlJZ3hSbFp2YjRlQ3ZLWWVDd040Mnk1b0xxUkVVclN6SUJ4dWFFQmZid1puNlBoUWdFX1lPMGppWS14YmRKQ0lPZFdHYlhUMjVxZ25CSlFnU0ZEYUE4WjM4OGczM0NWckhHYWFrRW9mUXRvNU1vVkcxMGQ3c0Rn0gGoAUFVX3lxTE1OaFY5OVh5Vk9UR0lKb1ljN0FYMFBJdmR5VVJOVld1RTFiZXRWMmJRUFVjaUdOUjVaNkxsQkJuLWhhdTA3LVRsMXRYQldQS3hrVWlKcm1zN2E1YmotMkZTOG00cXkwM2lUWHVfMFpaWmdpVzNQSlJPMHVNV3ZfbmlqeVV5OU1SaVA4dkVHNmxZcFJlV2p4YVgtck1qemtjSkEwR2Q0RGNDNQ?oc=5",
-   "source": "SecurityWeek",
-   "published": "2026-11-02",
-   "primary": "prediction-markets",
-   "summary": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack"
-  },
-  {
    "title": "Dutch Gambling Regulator Urges Parents to Talk to Children About Betting",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnlXcE01bnUtNkl3bW05NEliSEFueFNVQXM3bTRiY0FnMXdNTUlZUXRONDlwUjlyTnFyWEFuQlc4MndXWm13LUdIRElnOEZ2STJTX1VXT0U5RXdEanNUaFJuU0VsOHRMRmhpbkZrME10SG4xNHN6TGpFSkVzVEVVdG8zTTFlNzd0Ym9SUTRSU2dtWXVQSVZZVG1yRHhLVjh2NHBn?oc=5",
    "source": "Casino.org",
    "published": "2026-11-02",
    "primary": "regulation",
    "summary": "Dutch Gambling Regulator Urges Parents to Talk to Children About Betting"
+  },
+  {
+   "title": "Sports journalist with gambling addiction shown sympathy by ex-boss",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHVJZWVIUnUzZGJiN0ZsSk5BZzlDbk54SUlocFpraFREajBYMmYtQlkxbWkzbmNPQlNaNG5QNHhKcllsc2Fzd3NiZVNXVEpydVhvNnRGVUw1WGR6MFY4ZFN2clE4c0M5VHpISmRBWmVyUGZlWktqcC1xb3dBMzRDdFlOZXZMMWExYkZmSHl3R0VpNndtMDV5Q0ctdEpaZw?oc=5",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-01",
+   "primary": "public-health",
+   "summary": "Sports journalist with gambling addiction shown sympathy by ex-boss ABC News & Headlines – Australian Broadcasting"
+  },
+  {
+   "title": "SUN: Kalshi, Polymarket users trade $1.1M on Maryland elections, despite betting ban",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjV2bjRWdXc4aEY1cE5CenAzRzU2dlFjNGNhQ3QyNDBIZnFBWXh4Smd4NlNNdmFFaFlYMW9XeWRFZ28zQzFCTVFic0NYWVRqbWxGWUdBSTAzaTJzYllVSzVveTRfbk85aDM3UEtFX21iZ24wOXYyZTl1ZEhUVG9MajNnUmNTeVdJTTZldlVFSjlSR2xIZkZoWlg4VmxNRndfRzdpX0NtOA?oc=5",
+   "source": "WBFF",
+   "published": "2026-11-01",
+   "primary": "prediction-markets",
+   "summary": "SUN: Kalshi, Polymarket users trade $1.1M on Maryland elections, despite betting ban"
   },
   {
    "title": "Gambling industry responds to Channel 4's fake Bradley Walsh quiz show",
@@ -1492,174 +1673,6 @@
    "published": "2026-10-31",
    "primary": "prediction-markets",
    "summary": "Kalshi sues Missouri over attempts to regulate the prediction market"
-  },
-  {
-   "title": "76ers Sign Multi-Year Kalshi Deal, a First for an NBA Team",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX25abm9kbk5QTjd3WG1fX2U1ejNfZ09uSHlFaFlUWGd0M3puclVYYm03UzVVMnhTVE51eGZpdVpnSGtlY0otRmFvN2ozbVlzVFI5VmY1eERuekQ2NU82Zi1HSUJiVDVRamZaSldza1dCUVVDdmdoYUx1UDVWaGdWNFZDclRkRFh1akN4NjBaWkdvMWF4V0hNZndOS0w?oc=5",
-   "source": "RG.org",
-   "published": "2026-10-31",
-   "primary": "prediction-markets",
-   "summary": "76ers Sign Multi-Year Kalshi Deal, a First for an NBA Team"
-  },
-  {
-   "title": "Indiana Trending Up in College Football Playoff Qualifiers Market on Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFdNNGN2X3JZLVowM042QjMwcXZmRWxfSHBnMU9YZ3R0QXZfejJ1bVYwOGczbWNRRFpxUVJKUlJ5VHJRMXJXQXZzTkpvTnhaSUpITV96OHRqTnVNVUVsQnpnTEhBQlRaMVc1STluTmFGQ1dQT0cyb29ydnJ0OWhSSjRXYllHVEwzaUlFZS1jblZ0dTFDUTFjeW1BLTZ5R3pkRXBjRDRLMkpSMEpCbFVZVTVUNHhpbDRWdHRCSEdERlJfWlFw?oc=5",
-   "source": "Sports Illustrated",
-   "published": "2026-10-31",
-   "primary": "prediction-markets",
-   "summary": "Indiana Trending Up in College Football Playoff Qualifiers Market on Kalshi Sports"
-  },
-  {
-   "title": "Futures, Index Options and Prediction Markets: The Year-End Tax Rule That Catches Traders Off Guard",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGZOXzYwekZ2N3BaRGhEaU80ZElTTC05UC1TUnVuVG4wN3hBNzl5Q0tHV2dzb3Z6SzJKZGJwTjFMVmJmbmthZnFHZ1hZUlVKVWEwR0Uyb254NGlja0FSY1IwV3V5bnRjUnZObGVzUjRZX3JMbUJBaWtZSlFsck50V0FKZ0d1S3I0djB2SXJoNWE5TEdDUmQxem9DbFQtaGZ0Y1RpRUxMQjQ5Zw?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-31",
-   "primary": "prediction-markets",
-   "summary": "Futures, Index Options and Prediction Markets: The Year-End Tax Rule That Catches Traders Off Guard Yahoo"
-  },
-  {
-   "title": "Chances for Miami, UCLA and Utah to Stay Undefeated on Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmRiUUZfbDBKLXVqaXV0NlhhUTliSVdMQ1p6UGtia3FOcWd2akZKSEYwOVo4bmtIWk9ld2VSVFNKZVhXY3VWeFJVRmJGVHhjQ0R4VEROQnE1RXl1djA2dWRmMHdXU3VqUnBsMk9fZE1TTlpNRUNIWVN2RnM0UTlFNWJJOUU5X1BXdzRXalh6bVJFb19NU3c?oc=5",
-   "source": "WTOP News",
-   "published": "2026-10-31",
-   "primary": "prediction-markets",
-   "summary": "Chances for Miami, UCLA and Utah to Stay Undefeated on Kalshi WTOP"
-  },
-  {
-   "title": "Heisman Trophy Winner Markets on Kalshi: Impacts on Saturday",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGM4eFBDaFFscWwzNzJTZHJzVVVhdWQwUS1kclpPcU5TWC1uWUpKZmJEWUk0XzN2Nmt4LVY0RDV1OXA3el8wRW1Bd2VRS291aGd0cXZBdDI4Q2hXck1Ld1B0eXVDUE83cDd6ZzQ0aWtuZ3pqSGZQc3RNUkZmYmdUbnFpMjdqTG1qMGp1ZDZzYVoyVVU5?oc=5",
-   "source": "WTOP News",
-   "published": "2026-10-31",
-   "primary": "prediction-markets",
-   "summary": "Heisman Trophy Winner Markets on Kalshi: Impacts on Saturday WTOP"
-  },
-  {
-   "title": "Will Kalshi Event Contracts Change Broadridge's (BR) Narrative",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbThmNENiMFVER09iVzBPNEtkSVY3LVVFd1E5blBOS2xPTGdZWWNqOUtCWFdkY1Mwc0xEVXdhbHpNZnVRYlRiZ0duVUIzVHdHaXhucUJMMC1SbmVoXzlxZVZhczJJZURIOVF0S1F2Rl8tUElyTWdzT3RmaWFDVFJmdm0xU1FGaUlaOEJDdHZFZHJlXzAybGsyQXVVSHRvVXZZTkxHeXUzZlZUWGdjNzQ5UzUxSE1nZWI3WkY5UkZyYzR4R2lyb0FLZld2cWV6VzZBTjVzRXNpRG9vTkNzTWNkSHZ5emxKWGVHVFNR0gHwAUFVX3lxTE1oNGZJM3VPcGZhTk5DM0l2SmJfWGNaTklBLXR5Z1JBSE5mUTREaUxGUDZxRU10bTJ6X25wLTN3bUgybkE1QVAtMUswY3gxYlc1WGtSdHdNRS1KQkkzaEY3M2swVTdjMlpPY1lqdkw5azZkaDd0ZFdja2dRVGFabnEtTDRNWjZQUTJob1dzOXNkRE1JdkllYXhYcm5jYlZxcVdWNTJOQVR6N24ycjY2RWlROFp6aW1fZktMWm9yUTlGTk9faEotdV91OW5ZbWw2MFU3SG5nWG90MjMxN2V6eU5nTi1qWGltazRudDNEeEdaVA?oc=5",
-   "source": "Simply Wall St",
-   "published": "2026-10-31",
-   "primary": "prediction-markets",
-   "summary": "Will Kalshi Event Contracts Change Broadridge's (BR) Narrative Simply Wall"
-  },
-  {
-   "title": "Study: British Gamblers Are Not Turning Away From Legal Gambling in Favor of Illegal Options",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14R0wtY25OZFZORWhoZFk1RHMwb0lxSWp4XzBPQldrcnVHblhOS0hMYTA1QVl4Xzgzc0dibGduWFc5dTBtb3FGZ1FhQm03ckhjZDRKRw?oc=5",
-   "source": "WN Hub",
-   "published": "2026-10-30",
-   "primary": "research",
-   "summary": "Study: British Gamblers Are Not Turning Away From Legal Gambling in Favor of Illegal Options WN"
-  },
-  {
-   "title": "Nine Months Into the 10x Wagering Cap, Free Spins Dominate UK Welcome Offers",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3BHcFo5MlZvejF0R21OZWkwVEZYalBKRnFpZjVIZlhjcjFtRVhfX1Y1ald4RjJXOTlKZkZCWDR6UjZsMldlNTUzd1JQTFNGTjN4eThaQkxuRWxNMlFSUVJrNUFFdXZyc0pHQkk0dmRfNl9SQ1Znc0tLQlFDRkhnYWdNOHE5OXN0OThfRGJFVU9YOEJSRFJPejlZbXBUTkExNG4zQkpBS3BGRTRxYzM4?oc=5",
-   "source": "Gambling News",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "Nine Months Into the 10x Wagering Cap, Free Spins Dominate UK Welcome Offers Gambling"
-  },
-  {
-   "title": "Where to play Drops and Wins UK - 7 top casinos that run it",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNk5mb2JXQ2drMy1ITG9HcUsyTG45VFpPN185aGJudFRfZFVVQ09fLXEzNFM3b3Ftd2d1al9hTG9DdF9LT25lZXRLS0c2RUVWX3duZm5uYm15VzNpQURhcU1keGZlclBBUjBUNUdwWktJdmFKeWxTdHpDT1kxREE0UlZZN24?oc=5",
-   "source": "The Independent",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "Where to play Drops and Wins UK - 7 top casinos that run it The"
-  },
-  {
-   "title": "Gaming donors back Lombardo in Nevada governor race as odds shift to Ford",
-   "url": "https://igamingbusiness.com/casino-games/nevada-governor-race-2026/",
-   "source": "iGaming Business",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "Nevada has elected mostly Republican governors for the last 20-plus years, but will that trend continue this"
-  },
-  {
-   "title": "Prediction market roundup: Saquon forced to unload stake in Polymarket under NFL rules",
-   "url": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-103026/",
-   "source": "iGaming Business",
-   "published": "2026-10-30",
-   "primary": "prediction-markets",
-   "summary": "The week includes a decision by the Philadelphia Eagles' running back to divest his stake in Polymarket, as well as criminal charges filed by Utah against Kalshi CEO"
-  },
-  {
-   "title": "Best Cricket Betting App UK (2026): Top 10 Ranked",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2dxX1dncHJycVlEemdEMUlhWlk1Q3BWZXRfZ0g3c3NhY2ZCeE9ZREFkMEJ2NFhqakV3QjdhUUxGQW5tYy1RaXFDVGwxbUxVOEpoSFJ1T3VNUEJPMm5mVFBQRllsNGRWUkNjZG1PN0lJVVZVMkd3cUZUNWhzUllkNFpiR204cXN5NHBDSGFncjlKeFZSWUpj?oc=5",
-   "source": "DAZN",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "Best Cricket Betting App UK (2026): Top 10 Ranked"
-  },
-  {
-   "title": "Machine Games Duty Rise Puts UK Venue Slots Under Pressure",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTh0OXBTWlZpV283SHpFM2RQN05BazlKVUhlSzRoSl9QQ2JIVVBXa1lrQjl1QlFjRUlMRENRLXIzWVRRcUNKRm9qVHBrOUlBdC1mamJzUlZEMGZ0eDRvTzJPNGJXdjlYelFxOU8ybWZTbDRfVFFmNEl2T0QwR1o1amh4eTBtWVBqT0JlTkF6ZkpEbWxYMnlTWS1pb215M28?oc=5",
-   "source": "Power Up Gaming",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "Machine Games Duty Rise Puts UK Venue Slots Under Pressure Power Up"
-  },
-  {
-   "title": "UKGC Study: Illegal Gambling Sits Alongside Licensed Play",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTV2V3U4ems4Y1hBZmQ1NFN4TEROZWNFSi1tR1pBZnFYQ2FQeGlZcXp5MlFhU0pCZlRRSmVhTC1FQnRta2QzdUtiNFluUzlhaW9lQWlXdFpVTkpMTEJmanloOUphYm51OG5tRzhIM0RFV2tCc21MLW9hMEdiUThScndGXzduR1ZUemJVS213ZXJ3QUx5OVk3SXdDTQ?oc=5",
-   "source": "Gambling.com",
-   "published": "2026-10-30",
-   "primary": "research",
-   "summary": "UKGC Study: Illegal Gambling Sits Alongside Licensed Play"
-  },
-  {
-   "title": "Minsk Pawnshop Employee with Gambling Disorder Accused of Embezzling 125,000 Rubles",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2RmaFRwSjMzWmt2WXBXRnVfS1Q3Y3dodTZldG9QSnl3aTFPSEF6X2lLd000NUZLLWg3VFplU0hXczNOejZVOUZmV2tRUWcyT2g3VFBlVFpuaHkzWHBiX1pIRHFHRFhmY05RUlBxb3RlYU9WMmw5RlRYSkpobXV0Qk9SQWJDbFpHcGtjeVNIeTUxUXQwREg3czlRQWRDbzB3SmROM25QODN3dXfSAbABQVVfeXFMT3pIY0xULWFIdXJLY2RZNGh0YnF2YWNETUg1RzFOQ0FiaXYzUXZkc2dyY3ZnZ3NwTFVhc0VvR1FVVVZqZnJ4VmQ3dThFYmFTbnN1UDlmbzJFdmRBVkdfVWFYS3Y4VTZpVzRKQXVBaExZNVlhODJHMUFGUHlHUHd0OGtaRENkVF9QR3BGbU13Sjl5MXlQVHZORFQxUk1SSkNHTXlEMVk4SXpEYksydEZaNmk?oc=5",
-   "source": "REFORM.news",
-   "published": "2026-10-30",
-   "primary": "public-health",
-   "summary": "Minsk Pawnshop Employee with Gambling Disorder Accused of Embezzling 125,000 Rubles"
-  },
-  {
-   "title": "DraftKings, FanDuel, Fanatics retreat from Utah prediction markets amid Kalshi firestorm",
-   "url": "https://sbcamericas.com/2026/10/30/draftkings-fanduel-fanatics-sports-utah/",
-   "source": "SBC Americas",
-   "published": "2026-10-30",
-   "primary": "prediction-markets",
-   "summary": "KEY TAKEAWAYS: Utah’s felony charges against Kalshi spooked sports betting operators just before Halloween. The anti-gambling state brought a total of 14 criminal charges against Kalshi in state court this week, 13 of…"
-  },
-  {
-   "title": "Prediction Markets Weekly: Kalshi valued at $40bn, NFL blocks Saquon Barkley’s Polymarket deal",
-   "url": "https://sbcamericas.com/2026/10/30/prediction-markets-weekly-october-30/",
-   "source": "SBC Americas",
-   "published": "2026-10-30",
-   "primary": "prediction-markets",
-   "summary": "There can be little doubt about this week’s biggest prediction markets newsmaker: the litigation war unfolding in Utah that has Kalshi’s co-founders facing felony charges and gaming operators making hasty retreats.…"
-  },
-  {
-   "title": "NCAA joins sportsbooks, prediction markets in IC360’s Bad Actor Program",
-   "url": "https://sbcamericas.com/2026/10/30/ncaa-ic360-bad-actor-program-abuse/",
-   "source": "SBC Americas",
-   "published": "2026-10-30",
-   "primary": "prediction-markets",
-   "summary": "KEY TAKEAWAYS As the NCAA continues its efforts to tackle betting-related abuse of college athletes and other sports personnel, it is the first U.S. sports governing body to announce its participation in the Integrity…"
-  },
-  {
-   "title": "CDC Gaming: Inside the latest prediction market developments",
-   "url": "https://cdcgaming.com/do-not-publish-cdc-gaming-inside-the-latest-prediction-market-developments/",
-   "source": "CDC Gaming",
-   "published": "2026-10-30",
-   "primary": "prediction-markets",
-   "summary": "The U.S. Circuit Court of Appeals for the First Circuit scheduled oral arguments on Wednesday in the Robinhood Derivatives appeal of their case against the Massachusetts attorney general and state gaming regulators that…"
-  },
-  {
-   "title": "New Sigma Derby out of final turn, heading toward casino floor",
-   "url": "https://cdcgaming.com/new-sigma-derby-out-of-final-turn-heading-toward-casino-floor/",
-   "source": "CDC Gaming",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "The first new Sigma Derby mechanical horse-racing game in decades is set to go live soon in Las Vegas, with a goal of spreading its unique appeal worldwide. The first game will be available by the end of the year at…"
-  },
-  {
-   "title": "Michigan: Regulators add fixed-odds horse racing to online sports betting options",
-   "url": "https://cdcgaming.com/michigan-regulators-add-fixed-odds-horse-racing-to-online-sports-betting-options/",
-   "source": "CDC Gaming",
-   "published": "2026-10-30",
-   "primary": "regulation",
-   "summary": "The Michigan Gaming Control Board (MGCB) Friday announced that fixed-odds wagering on horse racing will be added to the state’s online sports betting catalog, giving bettors a new way to wager on races. Under the…"
   }
  ],
  "trials": [
@@ -1790,10 +1803,10 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "osf:axd49",
+   "id": "osf:ma6b9",
    "registry_label": "OSF Registries",
    "kind": "registration",
-   "title": "Ecological validity of addiction cue reactivity: a systematic review and meta-analysis of virtual reality versus conventional cue presentation",
+   "title": "Informing the Implementation of a Novel Digital Gambling Harm-Minimisation Tool Among Health and Social Service Professionals",
    "status": "registered",
    "previous_status": null,
    "status_changed": null,
@@ -1803,47 +1816,9 @@
    "completion_date": null,
    "enrollment": null,
    "results_posted": false,
-   "summary": "This systematic review and meta-analysis examines whether presenting addiction cues in immersive virtual reality (VR) elicits stronger craving, autonomic and brain responses than conventional, non-immersive cue presentation …",
-   "url": "https://osf.io/axd49/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "NCT03967418",
-   "registry_label": "ClinicalTrials.gov",
-   "kind": "trial",
-   "title": "Behavioral Addictions and Related NeuroCOgnitive Aspects",
-   "status": "completed",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "Nantes University Hospital",
-   "country_names": [
-    "France"
-   ],
-   "start_date": "2019-10-28",
-   "completion_date": "2025-06-26",
-   "enrollment": 116,
-   "results_posted": false,
-   "summary": "Improving knowledge about behavioural addictions is a real public health issue. The etiopathogenic model of behavioural addictions is multifactorial, with various risk and vulnerability factors, involved in the initiation and maintenance of the disorders …",
-   "url": "https://clinicaltrials.gov/study/NCT03967418",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:rwvbq",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Feasibility and preliminary effects of micro interventions for the promotion of well-being in clinical samples: A randomized controlled pilot study of IMPULSA solution",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "This study aims to evaluate the feasibility of the IMPULSA solution — a positive psychology mobile app — and its preliminary effects on enhancing well-being among individuals with various diagnoses, including emotional disorders, borderline personality disorder, adjustment disorder, pathological …",
-   "url": "https://osf.io/rwvbq/",
-   "first_seen": "2026-10-26"
+   "summary": "This is a preregistration for a study examining health and social service professionals’ intentions to refer clients to a novel digital gambling harm-minimisation tool and subsequent referral behaviour. The detailed study protocol is attached as a file.",
+   "url": "https://osf.io/ma6b9/",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "osf:vtk83",
@@ -1864,98 +1839,6 @@
    "first_seen": "2026-10-31"
   },
   {
-   "id": "osf:y3wvp",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Quais são as evidências disponíveis na literatura para mudanças neurocomportamentais e os riscos de vitimização e morte precoce em idosos que experimentam de solidão crônica e como o uso de dispositivos eletrônicos se relaciona a estes fenômenos?",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "Revisão de Escopo sobre Solidão Crônica, Neurociências e Vulnerabilidade Digital em Idosos 1. Introdução O envelhecimento populacional é um fenômeno global que traz consigo desafios complexos, incluindo o aumento da prevalência de solidão e isolamento social entre idosos …",
-   "url": "https://osf.io/y3wvp/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:hjqwe",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Are parental monitoring and gaming behaviors, such as problematic gaming, in-game purchasing and streaming of gaming, associated with bedtime and rise time in Norwegian adolescents?",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "The purpose of this research project is to investigate the possible association between different gaming behaviours and sleep. The project is carried out due to a bachelor's thesis written by Mina Thornton Bratland, Ilse Evelien Bode and Selma Rodt Brandsnes, and supervised by Ståle Pallesen …",
-   "url": "https://osf.io/hjqwe/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "NCT01248767",
-   "registry_label": "ClinicalTrials.gov",
-   "kind": "trial",
-   "title": "A Prospective Clinical Study of a Cohort of Patients Seeking Treatment for a Behavioral Addiction",
-   "status": "recruiting",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "Nantes University Hospital",
-   "country_names": [
-    "France"
-   ],
-   "start_date": "2019-03-28",
-   "completion_date": "2029-03-28",
-   "enrollment": 2720,
-   "results_posted": false,
-   "summary": "This research aims to provide a better understanding of the factors associated with the evolution of behavioral addictions, and compliance with care …",
-   "url": "https://clinicaltrials.gov/study/NCT01248767",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:hfz45",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Emotion regulation strategies among relatives of individuals with addictive disorders: A systematic review and meta-analysis",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "The systematic review aims to synthesize empirical findings on the emotion regulation strategies of individuals who have a close relative struggling with addictive disorders. The review aims to explore: Primary aim: 1 …",
-   "url": "https://osf.io/hfz45/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:9g5jr",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Pornography Dependence and the Abstinence Violation Effect",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "The purpose of this study is to investigate the relationship between the abstinence violation effect (AVE; Marlatt & Gordon, 1985) and problematic pornography use (PPU) …",
-   "url": "https://osf.io/9g5jr/",
-   "first_seen": "2026-10-26"
-  },
-  {
    "id": "osf:wmaq2",
    "registry_label": "OSF Registries",
    "kind": "registration",
@@ -1974,60 +1857,6 @@
    "first_seen": "2026-10-31"
   },
   {
-   "id": "osf:85nmp",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Einfluss psychosozialer Merkmale und Spielsperren auf die Entwicklung von Glücksspielverhalten: Ergebnisse einer Sekundäranalyse",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "Im Rahmen dieser Sekundäranalyse wird untersucht, welche Risiko- und Schutzfaktoren die Entwicklung problematischen Glücksspielverhaltens über die Zeit beeinflussen …",
-   "url": "https://osf.io/85nmp/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:cv39z",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "The Influence of State Boredom on Unhealthy Eating Choices",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "退屈とは、満足を得られる活動に没頭したいのに、それができないときに生じる不快感のことを指し（Eastwood et al., 2012）、主に二種類に分けられる。第一は、特性退屈といい、個人が生まれつき持っている、物足りなさやつまらなさを感じやすい傾向のことを指す（Danckert et al., 2018）。特性退屈についてはこれまでに暴飲暴食、薬物乱用、ギャンブル中毒など、衝動性との関係性に焦点を当てた様々な研究がなされている（Moynihan et al., 2015; Lee et al., 2007; Blaszczynski et al …",
-   "url": "https://osf.io/cv39z/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:pxv5u",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "The use of interoceptive awareness in treatment of psychiatric disorders - a scoping review protocol",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "Within mental healthcare, an important part of treatment is focused on learning healthy coping strategies to deal with negative emotions, such as emotional tension, stress, or anger (Cheng et al., 2014; Ryan et al., 2014; Theodoratou & Argyrides, 2024) …",
-   "url": "https://osf.io/pxv5u/",
-   "first_seen": "2026-10-26"
-  },
-  {
    "id": "NCT06642155",
    "registry_label": "ClinicalTrials.gov",
    "kind": "trial",
@@ -2044,111 +1873,9 @@
    "summary": "The goal of this clinical trial is to learn if the RESPONSIBLEPLAY© intervention helps promote responsible gambling behaviors in University of Nevada, Las Vegas (UNLV) students aged 21 and older who have a Problem Gambling Severity Index (PGSI) score of 3 or higher …",
    "url": "https://clinicaltrials.gov/study/NCT06642155",
    "first_seen": "2024-10-15"
-  },
-  {
-   "id": "osf:hg6u3",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Prisoners of the Past",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "With most actions, people believe that they are exercising ‘free will’ in choice selection. Free will is often experienced through a Sense of Agency (SoA), a subtle and perpetual feeling that we are in control of our own actions (Haggard, 2002) …",
-   "url": "https://osf.io/hg6u3/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:46h7g",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Investigating attitudes towards individuals with addictive disorders",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "The purpose of this study is to explore potential links between disgust sensitivity and the stigmatization of individuals with one of three specific addictive disorders …",
-   "url": "https://osf.io/46h7g/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:jcf2m",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Relationship between stress in university students and electronic cigarette consumption",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "In recent years, the increased use of e-cigarettes has challenged the dominance of conventional smoking. Studies have found links between perceived stress and smoking, showing an association between high levels of self-perceived stress and increased smoking (Stubbs et al., 2017) …",
-   "url": "https://osf.io/jcf2m/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:wcyjs",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Behavioral addictions and personality disorders: a systematic review and meta-analysis",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "This review attempts to investigate the relationship between personality disorders and behavioral addictions …",
-   "url": "https://osf.io/wcyjs/",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "osf:b5g73",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "Examining the relationship between task-based self-control performance and different cortisol response profiles",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "In everyday life, we are commonly confronted with conflict situations in which we have to resist an immediate temptation or to endure a short-term aversion in order to reach a long-term goal in the future (Hofmann et al., 2012) …",
-   "url": "https://osf.io/b5g73/",
-   "first_seen": "2026-10-26"
   }
  ],
  "bills": [
-  {
-   "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
-   "jurisdiction": "Montana",
-   "identifier": "LC 660",
-   "title": "Gambling oversight to economic affairs interim committee",
-   "stage": "introduced",
-   "previous_stage": null,
-   "latest_action_date": "2026-10-26",
-   "latest_action": "(LC) Draft in Edit",
-   "url": "https://openstates.org/mt/bills/2027/LC660/",
-   "topics": []
-  },
   {
    "id": "ocd-bill/a240cf04-34d6-4714-ac4b-4d0171fa10da",
    "jurisdiction": "Massachusetts",
@@ -2161,6 +1888,47 @@
    "url": "https://openstates.org/ma/bills/194th/HD6408/",
    "topics": [
     "sports-betting"
+   ]
+  },
+  {
+   "id": "us-119-hr-10951",
+   "jurisdiction": "United States",
+   "identifier": "H.R. 10951",
+   "title": "No Bets on Wildfires Act",
+   "stage": "committee",
+   "previous_stage": null,
+   "latest_action_date": "2026-10-29",
+   "latest_action": "Referred to the House Committee on Agriculture.",
+   "url": "https://www.congress.gov/bill/119th-congress/house-bill/10951",
+   "topics": []
+  },
+  {
+   "id": "ocd-bill/81ba7ce5-441a-4f23-946b-faffd2f92dea",
+   "jurisdiction": "Montana",
+   "identifier": "LC 893",
+   "title": "Generally revise sports betting revenue laws",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-11-02",
+   "latest_action": "(LC) Drafter Assigned",
+   "url": "https://openstates.org/mt/bills/2027/LC893/",
+   "topics": [
+    "sports-betting",
+    "policy"
+   ]
+  },
+  {
+   "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
+   "jurisdiction": "Montana",
+   "identifier": "LC 568",
+   "title": "Revise alcohol licensure eligibility standards for felony convictions",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-11-03",
+   "latest_action": "(LC) Draft in Edit",
+   "url": "https://openstates.org/mt/bills/2027/LC568/",
+   "topics": [
+    "comorbidity"
    ]
   }
  ],
@@ -2548,45 +2316,6 @@
    "url": "https://www.courtlistener.com/docket/71671503/in-re-kalshi-sports-prediction-market-litigation/"
   },
   {
-   "id": "cl-d-73453634",
-   "kind": "docket",
-   "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
-   "court": "District Court, E.D. California",
-   "court_level": "federal-district",
-   "date_filed": "2026-06-05",
-   "latest_activity": "2026-10-30",
-   "citation": "",
-   "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-   "documents": [
-    {
-     "date": "2026-10-30",
-     "description": "Notice of Appeal",
-     "url": "https://www.courtlistener.com/docket/73453634/68/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-    },
-    {
-     "date": "2026-10-30",
-     "description": "Minute Order AND Order on Motion for Extension of Time",
-     "url": ""
-    },
-    {
-     "date": "2026-10-29",
-     "description": "ORDER (I) DENYING PLAINTIFF'S MOTION FOR A PRELIMINARY INJUNCTION AND STAY, (II) GRANTING THE NOMINAL DEFENDANTS' MOTION TO DISMISS, AND (II",
-     "url": "https://www.courtlistener.com/docket/73453634/66/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-    },
-    {
-     "date": "2026-10-28",
-     "description": "OPPOSITION by Picayune Rancheria of the Chukchansi Indians to 64 Motion for Extension of Time,. (Dhillon, Navtej)",
-     "url": "https://www.courtlistener.com/docket/73453634/65/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-    },
-    {
-     "date": "2026-10-23",
-     "description": "MOTION for 21-DAY EXTENSION OF TIME to File Administrative Record by The Chair of the National Indian Gaming Commission, United States Natio",
-     "url": "https://www.courtlistener.com/docket/73453634/64/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-  },
-  {
    "id": "cl-d-73700030",
    "kind": "docket",
    "case_name": "People of the State of New York, by Letitia James, Attorney General of the State of New York v. KalshiEX LLC",
@@ -2597,6 +2326,11 @@
    "citation": "",
    "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
    "documents": [
+    {
+     "date": "2026-10-30",
+     "description": "JOINT LETTER MOTION for Discovery re Subpoena Duces Tecum Issued by the OAG to KalshiEX LLC addressed to Judge Vernon S. Broderick from Matt",
+     "url": "https://www.courtlistener.com/docket/73700030/23/people-of-the-state-of-new-york-by-letitia-james-attorney-general-of-the/"
+    },
     {
      "date": "2026-10-30",
      "description": "JOINT LETTER MOTION for Discovery re Subpoena Duces Tecum Issued by the OAG to KalshiEX LLC addressed to Judge Vernon S. Broderick from Matt",
@@ -2642,6 +2376,58 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/72057229/coinbase-financial-markets-inc-v-raoul/"
+  },
+  {
+   "id": "cl-d-73453634",
+   "kind": "docket",
+   "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
+   "court": "District Court, E.D. California",
+   "court_level": "federal-district",
+   "date_filed": "2026-06-05",
+   "latest_activity": "2026-11-02",
+   "citation": "",
+   "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+   "documents": [
+    {
+     "date": "2026-11-02",
+     "description": "USCA Case Number",
+     "url": "https://www.courtlistener.com/docket/73453634/70/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    },
+    {
+     "date": "2026-11-02",
+     "description": "Appeal Processed to USCA",
+     "url": "https://www.courtlistener.com/docket/73453634/69/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    },
+    {
+     "date": "2026-11-02",
+     "description": "Appeal Information",
+     "url": "https://www.courtlistener.com/docket/73453634/69/1/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    },
+    {
+     "date": "2026-10-30",
+     "description": "Notice of Appeal",
+     "url": "https://www.courtlistener.com/docket/73453634/68/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    },
+    {
+     "date": "2026-10-30",
+     "description": "Minute Order AND Order on Motion for Extension of Time",
+     "url": ""
+    }
+   ],
+   "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+  },
+  {
+   "id": "cl-o-11052189",
+   "kind": "opinion",
+   "case_name": "State v. Holley",
+   "court": "Ohio Court of Appeals",
+   "court_level": "state-appellate",
+   "date_filed": "2026-10-30",
+   "latest_activity": "2026-10-30",
+   "citation": "2026 Ohio 4349",
+   "snippet": "Appellant responded, \"It did, plus I have a gambling addiction.\" He further admitted he was trying",
+   "documents": [],
+   "url": "https://www.courtlistener.com/opinion/11052189/state-v-holley/"
   },
   {
    "id": "cl-o-11050602",

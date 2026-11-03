@@ -1,5 +1,98 @@
 [
  {
+  "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 568",
+  "title": "Revise alcohol licensure eligibility standards for felony convictions",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Alcohol",
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-09-28",
+  "latest_action_date": "2026-11-03",
+  "latest_action": "(LC) Draft in Edit",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC568/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0568",
+  "topics": [
+   "comorbidity"
+  ],
+  "updated": "2026-11-03",
+  "first_seen": "2026-09-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/81ba7ce5-441a-4f23-946b-faffd2f92dea",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 893",
+  "title": "Generally revise sports betting revenue laws",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Revenue, State",
+   "Taxation",
+   "Taxation--Property"
+  ],
+  "sponsors": [],
+  "introduced": "2026-11-02",
+  "latest_action_date": "2026-11-02",
+  "latest_action": "(LC) Drafter Assigned",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC893/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0893",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "updated": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "stage_changed": null
+ },
+ {
+  "id": "us-119-hr-10951",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "H.R. 10951",
+  "title": "No Bets on Wildfires Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rep. Whitesides, George [D-CA-27]"
+  ],
+  "introduced": "2026-10-29",
+  "latest_action_date": "2026-10-29",
+  "latest_action": "Referred to the House Committee on Agriculture.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/house-bill/10951",
+  "source_url": "",
+  "topics": [],
+  "updated": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "hr",
+  "number": 10951
+ },
+ {
   "id": "ocd-bill/a240cf04-34d6-4714-ac4b-4d0171fa10da",
   "level": "state",
   "jurisdiction": "Massachusetts",
@@ -778,37 +871,6 @@
   ],
   "updated": "2026-09-29",
   "first_seen": "2026-02-05",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
-  "level": "state",
-  "jurisdiction": "Montana",
-  "jurisdiction_code": "mt",
-  "session": "2027",
-  "identifier": "LC 568",
-  "title": "Align the alcohol licensure requirements with gambling licensure for felony convictions",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [
-   "Alcohol",
-   "Gambling"
-  ],
-  "sponsors": [],
-  "introduced": "2026-09-28",
-  "latest_action_date": "2026-09-28",
-  "latest_action": "(LC) Drafter Assigned",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/mt/bills/2027/LC568/",
-  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0568",
-  "topics": [
-   "policy",
-   "comorbidity"
-  ],
-  "updated": "2026-10-16",
-  "first_seen": "2026-09-28",
   "stage_changed": null
  },
  {
@@ -2422,15 +2484,13 @@
   "introduced": "2026-05-28",
   "latest_action_date": "2026-06-01",
   "latest_action": "Enrolled. Signed by the President of the Senate and sent to the Secretary of State by the Secretary of the Senate on 6/2/2026.",
-  "latest_passage_date": null,
+  "latest_passage_date": "2026-05-29",
   "stage": "passed-both",
   "stage_label": "passed both chambers",
   "url": "https://openstates.org/la/bills/2026/SR178/",
   "source_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=252160",
-  "topics": [
-   "prevention"
-  ],
-  "updated": "2026-07-07",
+  "topics": [],
+  "updated": "2026-11-03",
   "first_seen": "2026-05-28",
   "stage_changed": null
  },
@@ -4267,7 +4327,7 @@
   "url": "https://openstates.org/mo/bills/2026/HB3533/",
   "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB3533&year=2026&code=R&style=new",
   "topics": [],
-  "updated": "2026-09-24",
+  "updated": "2026-11-03",
   "first_seen": "2026-02-27",
   "stage_changed": null
  },
@@ -15083,7 +15143,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/HB923/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb923",
   "topics": [],
-  "updated": "2026-10-30",
+  "updated": "2026-11-03",
   "first_seen": "2025-03-14",
   "stage_changed": null
  },
@@ -15665,7 +15725,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },
