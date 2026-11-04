@@ -1,13 +1,485 @@
 [
  {
-  "id": "doi:10.1007/s10899-026-10577-1",
-  "doi": "10.1007/s10899-026-10577-1",
+  "id": "doi:10.68910/qvrdw423",
+  "doi": "10.68910/qvrdw423",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225159809",
+  "title": "The Blade and the Gambler",
+  "journal": "The Mailer review/Mailer review",
+  "authors": [
+   "Michael K. Glenday"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "An examination of the interconnections between the works of F. Scott Fitzgerald and Norman Mailer.",
+  "url": "https://doi.org/10.68910/qvrdw423",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10573-5",
+  "doi": "10.1007/s10899-026-10573-5",
   "pmid": null,
   "pmcid": null,
   "openalex": null,
+  "title": "Sociodemographic and Behavioural Predictors of Gambling and Problematic Gambling in Canada: Evidence from the 2025 CCHS",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Robert J. Williams",
+   "Carrie A. Shaw",
+   "Youssef Allami",
+   "Darren R. Christensen",
+   "David C. Hodgins",
+   "Hyoun S. Kim",
+   "Daniel S. McGrath",
+   "Rhys M.G. Stevens"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Using data from the 2025 Canadian Community Health Survey (CCHS) Rapid Response Gambling Module (RRGM), this study examined the sociodemographic and behavioural correlates of gambling and problem gambling among Canadian adults. The RRGM was administered to a representative sample of 16,351 adults across Canada’s 10 provinces between January and July 2025 …",
+  "url": "https://doi.org/10.1007/s10899-026-10573-5",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "casino",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10578-0",
+  "doi": "10.1007/s10899-026-10578-0",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Priorities for Intervention Content to Support Families and Friends Affected by Gambling Harm: A Mixed Methods Study of Clinician and Researcher Perspectives",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Monique N. Gandhi",
+   "Nicki A. Dowling",
+   "Anna C. Thomas",
+   "Simone N. Rodda",
+   "Chloe O. Hawker",
+   "Imran M. Keshani",
+   "Anita Guyett",
+   "Stephanie S. Merkouris"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Abstract Harmful gambling impacts not only the person who gambles but also their partners, families, and friends (affected others; AOs). Although interventions for AOs exist, effectiveness is modest, with little evidence available to guide the selection of intervention content …",
+  "url": "https://doi.org/10.1007/s10899-026-10578-0",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "families"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.58738/lawyer.v4i2.1934",
+  "doi": "10.58738/lawyer.v4i2.1934",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225203954",
+  "title": "EFEKTIVITAS PEMBERANTASAN KASUS JUDI ONLINE DI DARATAN TIMOR OLEH KEPOLISIAN DAERAH NUSA TENGGARA TIMUR",
+  "journal": "LAWYER Jurnal Hukum",
+  "authors": [
+   "Yoser Elyonai Ferroh",
+   "Heryanto Amalo",
+   "Debi F. Ng. Fallo"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "This study examines the effectiveness of the East Nusa Tenggara Regional Police in eradicating online gambling on the island of Timor, as well as the measures taken to achieve this. An empirical-juridical method was employed, utilizing interviews and literature reviews …",
+  "url": "https://doi.org/10.58738/lawyer.v4i2.1934",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "prevention"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.54254/2753-8818/2026.38520",
+  "doi": "10.54254/2753-8818/2026.38520",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225183498",
+  "title": "The Logical Probability Behind Lotteries and Raffles: Chance and Cognitive Bias from a Data Science Perspective",
+  "journal": "Theoretical and Natural Science",
+  "authors": [
+   "Xi Tong"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "The entertainment activities such as lotteries and raffles are popular among people, but the cognitive bias of people may result in fluke mentality, leading to social issues like debts, problem gambling and behavioral addiction …",
+  "url": "https://doi.org/10.54254/2753-8818/2026.38520",
+  "oa_url": "https://tns.ewapub.com/article/view/38520.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1137/23m1623574",
+  "doi": "10.1137/23m1623574",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225169076",
+  "title": "Order Selection Prophet Inequality",
+  "journal": "SIAM Journal on Computing",
+  "authors": [
+   "Bo Peng",
+   "Zhihao Gavin Tang"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Abstract. In the classical prophet inequality, a gambler faces a sequence of items, whose values are drawn independently from known distributions. Upon the arrival of each item, its value is realized and the gambler either accepts it and the game ends, or irrevocably rejects it and continues to the next item …",
+  "url": "https://doi.org/10.1137/23m1623574",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "equity"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10575-3",
+  "doi": "10.1007/s10899-026-10575-3",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Illusion of Control, Gambler’s Fallacy, or Neither? Testing Key Models of Gambling Psychology by Extending Langer and Roth (1975)",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Charlotte Eben",
+   "Ty Hayes",
+   "Zhang Chen",
+   "Philip Newall"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Abstract Cognitive biases about randomness, such as the illusion of control and the gambler’s fallacy, are central to the widely-used cognitive models of disordered gambling …",
+  "url": "https://doi.org/10.1007/s10899-026-10575-3",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "trial",
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1145/3831281",
+  "doi": "10.1145/3831281",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225161033",
+  "title": "From Stream to Stake: Gamblification Practices and User Perceptions on Twitch",
+  "journal": "Proceedings of the ACM on Human-Computer Interaction",
+  "authors": [
+   "Yunhan Liu",
+   "Sam Moradzadeh",
+   "Qiurong Song",
+   "Yubo Kou",
+   "Xinning Gui"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Gambling has existed as a foundational form of play in human society for a long time. With the development of the digital era, gambling practices have been increasingly incorporated into a wider array of contexts. This evolution is captured by the concept of gamblification—the process of integrating gambling-related content into non-gambling environments …",
+  "url": "https://doi.org/10.1145/3831281",
+  "oa_url": "https://doi.org/10.1145/3831281",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/healthcare14213685",
+  "doi": "10.3390/healthcare14213685",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225143250",
+  "title": "Modelling Excess Public Expenditure on Emergency Department and Inpatient Care Associated with Gambling Disorder in Spain",
+  "journal": "Healthcare",
+  "authors": [
+   "Gonzalo Romero-Martín",
+   "Rosa Magallón Botaya",
+   "Ana Gastón Faci",
+   "Eva María De Andrés Esteban"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Evidence on healthcare expenditure associated with gambling disorder (GD) remains limited in Spain. This study modelled annual excess emergency department and inpatient expenditure per adult with GD and nationally …",
+  "url": "https://doi.org/10.3390/healthcare14213685",
+  "oa_url": "https://doi.org/10.3390/healthcare14213685",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ES"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.21512/ijcshai.v3i2.15283",
+  "doi": "10.21512/ijcshai.v3i2.15283",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225198457",
+  "title": "Implementation of Fine-Tuned Model Llama3 on Hugging Face to detect Online Gambling Promotional Text",
+  "journal": "International Journal of Computer Science and Humanitarian AI",
+  "authors": [
+   "Rafid Miftah Fadhil",
+   "Indira Syawanodya",
+   "Yulia Retnowati"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "summary": "Online gambling is a serious problem in Indonesia due to its social and economic impact, worsened by ease of access and massive promotional strategies. From the past research, online gambling promotion in Indonesia has not been widely conducted …",
+  "url": "https://doi.org/10.21512/ijcshai.v3i2.15283",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "advertising"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1186/s13034-026-01150-0",
+  "doi": "10.1186/s13034-026-01150-0",
+  "pmid": "42977989",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Filling the void: sense of absence as a comprehensive bridge between attachment, parent-adolescent communication, and addictive behaviors among adolescents",
+  "journal": "Child and Adolescent Psychiatry and Mental Health",
+  "authors": [
+   "Yaniv Efrati"
+  ],
+  "published": "2026-08-05",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-04",
+  "summary": "Adolescent addictive behaviors present a growing public health concern, yet the pathways leading from experiences of disconnection to persistent addictive patterns remain unclear. This study examined the Sense of Absence (SoA), a subjective feeling of inner void and disconnection, as a potential bridge linking relational deprivation with addictive behaviors …",
+  "url": "https://doi.org/10.1186/s13034-026-01150-0",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "youth",
+   "comorbidity",
+   "families"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "IL"
+  ],
+  "setting_regions": [
+   "middle-east"
+  ],
+  "countries": [
+   "IL"
+  ],
+  "regions": [
+   "middle-east"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10577-1",
+  "doi": "10.1007/s10899-026-10577-1",
+  "pmid": "42975784",
+  "pmcid": null,
+  "openalex": "W7225145199",
   "title": "Stigma and Purpose in Life in Gambling Disorder: A Mixed-Methods Study With a Gender Perspective",
   "journal": "Journal of Gambling Studies",
-  "authors": [],
+  "authors": [
+   "Aitana Fernández-Villardón",
+   "Laura Macía",
+   "Ana Estévez"
+  ],
   "published": "2026-11-03",
   "year": 2026,
   "created": "2026-11-03",
@@ -16,7 +488,10 @@
   "url": "https://doi.org/10.1007/s10899-026-10577-1",
   "oa_url": null,
   "sources": [
-   "feed:jgs"
+   "crossref",
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -29,18 +504,22 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": null,
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
  {
   "id": "doi:10.1556/2006.2026.00414",
   "doi": "10.1556/2006.2026.00414",
-  "pmid": null,
+  "pmid": "42975573",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7167295698",
   "title": "Improving the subtyping of gamblers by gambling type",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
@@ -53,9 +532,11 @@
   "first_seen": "2026-11-03",
   "summary": "Abstract In gambling research, gambling subtypes have traditionally been used to distinguish between games of skill or competition and games of chance. The former are referred to as strategic games, whereas the latter are classified as non-strategic games …",
   "url": "https://doi.org/10.1556/2006.2026.00414",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1556/2006.2026.00414",
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -72,7 +553,7 @@
   "regions": [
    "europe"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -138,9 +619,9 @@
   "year": 2026,
   "created": "2026-08-01",
   "first_seen": "2026-11-03",
-  "summary": "Prior research shows that people who watch gambling and gambling-like content on streaming platforms display an elevated risk of gambling problems. Here, we leverage the literature on motivations as a dominant framework for understanding engagement in addictive behaviors to test how watching gambling is linked to problematic gambling …",
+  "summary": "Prior research shows that people who watch gambling and gambling-like content on streaming platforms display an elevated risk of gambling problems.Here, we leverage the literature on motivations as a dominant framework for understanding engagement in addictive behaviors to test how watching gambling is linked to problematic gambling.We pooled data across …",
   "url": "https://doi.org/10.1037/ppm0000699",
-  "oa_url": "https://doi.org/10.1037/ppm0000699",
+  "oa_url": "https://psycnet.apa.org/fulltext/2028-50189-001.pdf",
   "sources": [
    "openalex"
   ],
@@ -235,7 +716,7 @@
   "first_seen": "2026-11-03",
   "summary": "Gambling disorder (GD) is a behavioral addiction characterized by high comorbidity, significant social and economic consequences. The neurobiological mechanisms underlying GD are similar to those observed in substance use disorders, which opens possibilities for pharmacological intervention …",
   "url": "https://doi.org/10.31363/2313-7053-2026-5-1413",
-  "oa_url": "https://doi.org/10.31363/2313-7053-2026-5-1413",
+  "oa_url": "https://www.bekhterevreview.com/jour/article/download/1482/726",
   "sources": [
    "openalex"
   ],
@@ -361,7 +842,7 @@
   "id": "doi:10.1186/s12916-026-05112-3",
   "doi": "10.1186/s12916-026-05112-3",
   "pmid": "42972567",
-  "pmcid": null,
+  "pmcid": "PMC13726179",
   "openalex": null,
   "title": "Reminder recall is associated with higher mammogram uptake among overdue repeat screeners: an exploratory telephone survey within a randomized trial",
   "journal": "BMC medicine",
@@ -380,7 +861,7 @@
   "first_seen": "2026-11-03",
   "summary": "Despite more than two decades of a national breast cancer screening program, fewer than 40% of eligible women in Singapore undergo recommended biennial mammography …",
   "url": "https://doi.org/10.1186/s12916-026-05112-3",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13726179/",
   "sources": [
    "pubmed"
   ],
@@ -1199,7 +1680,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-03",
+  "published": "2027-01-04",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -1761,7 +2242,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-03",
+  "published": "2026-11-04",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -2575,42 +3056,6 @@
   "retracted": false
  },
  {
-  "id": "doi:10.1080/1533256x.2026.2694417",
-  "doi": "10.1080/1533256x.2026.2694417",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": null,
-  "title": "BOOK REVIEW",
-  "journal": "Journal of Social Work Practice in the Addictions",
-  "authors": [
-   "Nubian Sun Carla B. Monteiro a Tulane University, New Orleans, LAb Sacred Heart University, Fairfield, CT"
-  ],
-  "published": "2026-07-06",
-  "year": 2026,
-  "created": "2026-07-06",
-  "first_seen": "2026-10-26",
-  "summary": "Book Review: Harris, Bob. (2022). Gambling in Britain in the Long Eighteenth Century . Cambridge University Press. 316 pp. ISBN: 9781009067348",
-  "url": "https://doi.org/10.1080/1533256x.2026.2694417",
-  "oa_url": null,
-  "sources": [
-   "feed:cgs",
-   "feed:jswpa"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [
-   "commentary"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": null,
-  "relevance": "low",
-  "retracted": false
- },
- {
   "id": "doi:10.1177/10911421261498451",
   "doi": "10.1177/10911421261498451",
   "pmid": null,
@@ -2629,9 +3074,9 @@
   "year": 2026,
   "created": "2026-10-25",
   "first_seen": "2026-10-25",
-  "summary": "State lotteries are an important source of state revenue in the 45 states that operate them. Following the repeal of the Professional and Amateur Sports Protection Act (PASPA), 38 states and Washington, DC legalized sports betting …",
+  "summary": "State lotteries are a staple of state revenue for the 45 states that run them and are an important part of state public finance. Following the repeal of the Professional and Amateur Sports Protection Act (PASPA), 38 states, plus Washington, DC, began operating legal sports betting markets …",
   "url": "https://doi.org/10.1177/10911421261498451",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.2139/ssrn.6294538",
   "sources": [
    "openalex"
   ],
@@ -3278,7 +3723,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-03",
+  "published": "2026-10-04",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -4115,32 +4560,33 @@
  {
   "id": "doi:10.3389/fpsyt.2026.1931287",
   "doi": "10.3389/fpsyt.2026.1931287",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42978789",
+  "pmcid": "PMC13727565",
   "openalex": "W7207679652",
   "title": "Prevalence and correlates of gambling problems among forensic psychiatric patients: evidence of elevated rates from a multi-site study",
   "journal": "Frontiers in Psychiatry",
   "authors": [
-   "Jakob Winther Eriksen",
-   "Lisbeth Uhrskov Sørensen",
+   "Jakob W Eriksen",
+   "Lisbeth U Sørensen",
    "Søren Kristiansen",
-   "Morten Deleuran Terkildsen",
-   "Rasmus Mølgaard Hansen",
+   "Morten D Terkildsen",
+   "Rasmus M Hansen",
    "Thomas Marcussen",
-   "Mette Brandt‐Christensen",
+   "Mette Brandt-Christensen",
    "Asbjørn Storgaard",
-   "Kaare Bro Wellnitz",
+   "Kaare B Wellnitz",
    "Lisbeth Frostholm"
   ],
   "published": "2026-10-20",
   "year": 2026,
-  "created": "2026-09-04",
+  "created": "2026-11-04",
   "first_seen": "2026-10-21",
-  "summary": "Introduction Gambling problems (GP) remain underexplored among forensic psychiatric patients (FPPs). Given the associations between GP, mental distress, and criminal behavior, it is imperative to investigate GP in this population …",
+  "summary": "Gambling problems (GP) remain underexplored among forensic psychiatric patients (FPPs). Given the associations between GP, mental distress, and criminal behavior, it is imperative to investigate GP in this population …",
   "url": "https://doi.org/10.3389/fpsyt.2026.1931287",
-  "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1931287/pdf",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13727565/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -6941,13 +7387,7 @@
   "openalex": "W7221535907",
   "title": "Invisible Obstacles: Audit of Consumer Experience When Calling Gambling Helplines in the United States",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Natasha M. Bourgoin",
-   "Mark R. Hastings",
-   "Jordan N. Jones",
-   "Meredith K. Ginley",
-   "James P. Whelan"
-  ],
+  "authors": [],
   "published": "2026-10-13",
   "year": 2026,
   "created": "2026-10-13",
@@ -6975,13 +7415,9 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -21346,26 +21782,27 @@
  {
   "id": "doi:10.1186/s40359-026-05246-2",
   "doi": "10.1186/s40359-026-05246-2",
-  "pmid": null,
+  "pmid": "42978009",
   "pmcid": null,
   "openalex": "W7202133469",
   "title": "Stress coping strategies as predictors of job fatigue and psychological health among casino employees in Macao SAR (China)",
-  "journal": "BMC Psychology",
+  "journal": "BMC psychology",
   "authors": [
    "Tang Su",
    "Jacky Ho",
    "Mohammad Anisur Rahaman",
-   "Botelho FP"
+   "Botelho Fp"
   ],
   "published": "2026-08-11",
   "year": 2026,
-  "created": "2026-08-11",
+  "created": "2026-11-03",
   "first_seen": "2026-08-11",
   "summary": "This study investigates the predictive role of stress coping strategies on job fatigue and psychological health among casino employees in Macao, a sector marked by high emotional labor and irregular work schedules …",
   "url": "https://doi.org/10.1186/s40359-026-05246-2",
   "oa_url": "https://doi.org/10.1186/s40359-026-05246-2",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -21379,14 +21816,14 @@
   ],
   "design_basis": "rules",
   "settings": [
-   "MO",
-   "CN"
+   "MO"
   ],
   "setting_regions": [
    "asia"
   ],
   "countries": [
    "CN",
+   "MO",
    "BD"
   ],
   "regions": [
@@ -57796,6 +58233,61 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1097/jan.0000000000000700",
+  "doi": "10.1097/jan.0000000000000700",
+  "pmid": "42975892",
+  "pmcid": null,
+  "openalex": "W7164832771",
+  "title": "What Strategies Are Used to Market Digital Gambling to Young People?: A Scoping Review",
+  "journal": "International Journal of Addiction Nursing",
+  "authors": [
+   "Adam Searby",
+   "Marissa D Abram",
+   "Beth Blackwood",
+   "Peter Kelly",
+   "Renee Molloy"
+  ],
+  "published": "2026-05-08",
+  "year": 2026,
+  "created": "2026-11-03",
+  "first_seen": "2026-04-01",
+  "summary": "Research indicates that digital gambling, including through online sites and smartphone apps, is an increasing issue among youth. The aim of this scoping review is to identify and map literature exploring how digital strategies are used to market digital gambling products to young people …",
+  "url": "https://doi.org/10.1097/jan.0000000000000700",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "review",
+  "topics": [
+   "online-gambling",
+   "loot-boxes",
+   "youth",
+   "advertising"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "pubmed",
+  "settings": [
+   "AU"
+  ],
+  "setting_regions": [
+   "australia-nz"
+  ],
+  "countries": [
+   "IE",
+   "AU"
+  ],
+  "regions": [
+   "uk-ireland",
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.21608/jfsu.2026.467017.1347",
   "doi": "10.21608/jfsu.2026.467017.1347",
   "pmid": null,
@@ -57828,62 +58320,6 @@
   "countries": [],
   "regions": [],
   "language": "ar",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1097/jan.0000000000000700",
-  "doi": "10.1097/jan.0000000000000700",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7164832771",
-  "title": "What Strategies Are Used to Market Digital Gambling to Young People?: A Scoping Review",
-  "journal": "International Journal of Addiction Nursing",
-  "authors": [
-   "Adam Searby",
-   "Marissa D. Abram",
-   "Beth Blackwood",
-   "Peter Kelly",
-   "Renee Molloy"
-  ],
-  "published": "2026-04-01",
-  "year": 2026,
-  "created": "2026-06-16",
-  "first_seen": "2026-04-01",
-  "summary": "Research indicates that digital gambling, including through online sites and smartphone apps, is an increasing issue among youth. The aim of this scoping review is to identify and map literature exploring how digital strategies are used to market digital gambling products to young people …",
-  "url": "https://doi.org/10.1097/jan.0000000000000700",
-  "oa_url": null,
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "loot-boxes",
-   "youth",
-   "advertising"
-  ],
-  "designs": [
-   "review"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "AU"
-  ],
-  "setting_regions": [
-   "australia-nz"
-  ],
-  "countries": [
-   "AU",
-   "US",
-   "IE"
-  ],
-  "regions": [
-   "australia-nz",
-   "us",
-   "uk-ireland"
-  ],
-  "language": "en",
   "relevance": "high",
   "retracted": false
  },

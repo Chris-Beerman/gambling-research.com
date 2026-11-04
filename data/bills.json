@@ -6528,6 +6528,41 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/57c83b68-f2f7-4aa3-9352-ad0701963485",
+  "level": "state",
+  "jurisdiction": "Kansas",
+  "jurisdiction_code": "ks",
+  "session": "2025-2026",
+  "identifier": "SB 356",
+  "title": "House Substitute for SB 356 by Committee on Federal and State Affairs - Authorizing the adoption of administrative rules and regulations concerning sports wagering by the Kansas racing and gaming commission.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Civil Procedure and Civil Actions",
+   "Firearms",
+   "Gambling and Gaming",
+   "Rules and Regulations, Administrative",
+   "SB 502"
+  ],
+  "sponsors": [
+   "Committee on Federal and State Affairs"
+  ],
+  "introduced": "2026-01-21",
+  "latest_action_date": "2026-04-09",
+  "latest_action": "Enrolled and presented to Governor on Friday, April 3, 2026",
+  "latest_passage_date": "2026-03-18",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ks/bills/2025-2026/SB356/",
+  "source_url": "https://www.kslegislature.gov/b2025_26/bills/SB356/",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-03",
+  "first_seen": "2026-11-04",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/b21f383a-8fa2-4e50-8e3d-0cd0d709a64d",
   "level": "state",
   "jurisdiction": "Illinois",
@@ -15143,7 +15178,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/HB923/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb923",
   "topics": [],
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "first_seen": "2025-03-14",
   "stage_changed": null
  },
@@ -15214,7 +15249,7 @@
   "topics": [
    "older-adults"
   ],
-  "updated": "2026-11-01",
+  "updated": "2026-11-04",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
