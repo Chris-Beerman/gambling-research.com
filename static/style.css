@@ -260,6 +260,10 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
 .colophon a:hover { color: var(--ink); }
 .colophon-name { font-family: var(--serif); font-weight: 600; font-size: 1.05rem; color: var(--ink); margin: 0 0 .35rem; }
 .colophon p { margin: 0 0 .5rem; }
+/* Membership badge: a white card so the NCPG mark reads on dark paper too. */
+.colophon-badge { margin: 12px 0; }
+.colophon-badge a { display: inline-block; background: #fff; padding: 6px 10px; border-radius: 6px; line-height: 0; }
+.colophon-badge img { display: block; height: 52px; width: auto; max-width: 100%; }
 .colophon-fine { margin-top: 1.5rem; font-size: .76rem; }
 
 /* Responsive */
