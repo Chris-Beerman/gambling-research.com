@@ -1,5 +1,211 @@
 [
  {
+  "id": "doi:10.1177/09567976261490829",
+  "doi": "10.1177/09567976261490829",
+  "pmid": "42981298",
+  "pmcid": null,
+  "openalex": "W7213246724",
+  "title": "The Gambler's Fallacy Fallacy Fallacy (Commentary on Xiang et al., 2025)",
+  "journal": "Psychological Science",
+  "authors": [
+   "Daniel Banki",
+   "Uri Simonsohn"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-05",
+  "summary": "Xiang et al. concluded that the gambler's fallacy does not originate in biased beliefs. Reanalyzing their data, we arrived at the opposite conclusion …",
+  "url": "https://doi.org/10.1177/09567976261490829",
+  "oa_url": "https://doi.org/10.2139/ssrn.7441481",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/084.2026.01478",
+  "doi": "10.1556/084.2026.01478",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225238488",
+  "title": "Relevance theory and the translation of swearwords in audiovisual translation. Scorsese's Casino and The Wolf of Wall Street in Spanish",
+  "journal": "Across Languages and Cultures",
+  "authors": [
+   "Francisco Javier Díaz-Pérez"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "summary": "Abstract This study examines the translation of swearwords in the Spanish subtitled and dubbed versions of Scorsese's Casino and The Wolf of Wall Street through the lens of relevance theory. Swearwords constitute a crucial element in fictional audiovisual narratives, as they convey emotional intensity, social relations and pragmatic meaning …",
+  "url": "https://doi.org/10.1556/084.2026.01478",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1055/a-2984-7514",
+  "doi": "10.1055/a-2984-7514",
+  "pmid": "42982044",
+  "pmcid": null,
+  "openalex": "W7225227120",
+  "title": "Aripiprazole-Induced Gambling Disorder as an Adverse Drug Reaction in Tourette Syndrome: A Case Report",
+  "journal": "Pharmacopsychiatry",
+  "authors": [
+   "David Kiefner",
+   "Dae-In Chang",
+   "Georg Juckel"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-05",
+  "summary": "Abstract Aripiprazole is recommended as a first-line treatment for Tourette syndrome but has been associated with new-onset impulse control disorders, including pathological gambling, as highlighted by a 2016 Food and Drug Administration safety warning. Gambling disorder has rarely been reported in patients with Tourette syndrome receiving aripiprazole …",
+  "url": "https://doi.org/10.1055/a-2984-7514",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "comorbidity"
+  ],
+  "designs": [
+   "longitudinal",
+   "case-report"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/14034948261498332",
+  "doi": "10.1177/14034948261498332",
+  "pmid": "42979988",
+  "pmcid": null,
+  "openalex": "W7225274945",
+  "title": "Are electronic gambling machine availability and area-level socioeconomic disadvantage associated with local residents' gambling losses and share of local revenue?",
+  "journal": "Scandinavian Journal of Public Health",
+  "authors": [
+   "Jani Selin"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-05",
+  "summary": "Physical availability is a key determinant of gambling spending and, consequently, gambling harm …",
+  "url": "https://doi.org/10.1177/14034948261498332",
+  "oa_url": "https://doi.org/10.1177/14034948261498332",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "equity",
+   "industry"
+  ],
+  "designs": [
+   "behavioral-data"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/1533256x.2026.2694417",
+  "doi": "10.1080/1533256x.2026.2694417",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "BOOK REVIEW",
+  "journal": "Journal of Social Work Practice in the Addictions",
+  "authors": [
+   "Nubian Sun Carla B. Monteiro a Tulane University, New Orleans, LAb Sacred Heart University, Fairfield, CT"
+  ],
+  "published": "2026-07-06",
+  "year": 2026,
+  "created": "2026-07-06",
+  "first_seen": "2026-11-05",
+  "summary": "Book Review: Harris, Bob. (2022). Gambling in Britain in the Long Eighteenth Century . Cambridge University Press. 316 pp. ISBN: 9781009067348",
+  "url": "https://doi.org/10.1080/1533256x.2026.2694417",
+  "oa_url": null,
+  "sources": [
+   "feed:cgs",
+   "feed:jswpa"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.68910/qvrdw423",
   "doi": "10.68910/qvrdw423",
   "pmid": null,
@@ -26,8 +232,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -35,31 +245,33 @@
  {
   "id": "doi:10.1007/s10899-026-10573-5",
   "doi": "10.1007/s10899-026-10573-5",
-  "pmid": null,
+  "pmid": "42980981",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7225232705",
   "title": "Sociodemographic and Behavioural Predictors of Gambling and Problematic Gambling in Canada: Evidence from the 2025 CCHS",
   "journal": "Journal of Gambling Studies",
   "authors": [
-   "Robert J. Williams",
-   "Carrie A. Shaw",
+   "Robert J Williams",
+   "Carrie A Shaw",
    "Youssef Allami",
-   "Darren R. Christensen",
-   "David C. Hodgins",
-   "Hyoun S. Kim",
-   "Daniel S. McGrath",
-   "Rhys M.G. Stevens"
+   "Darren R Christensen",
+   "David C Hodgins",
+   "Hyoun S Kim",
+   "Daniel S McGrath",
+   "Rhys M G Stevens"
   ],
   "published": "2026-11-04",
   "year": 2026,
   "created": "2026-11-04",
   "first_seen": "2026-11-04",
-  "summary": "Using data from the 2025 Canadian Community Health Survey (CCHS) Rapid Response Gambling Module (RRGM), this study examined the sociodemographic and behavioural correlates of gambling and problem gambling among Canadian adults. The RRGM was administered to a representative sample of 16,351 adults across Canada’s 10 provinces between January and July 2025 …",
+  "summary": "Using data from the 2025 Canadian Community Health Survey (CCHS) Rapid Response Gambling Module (RRGM), this study examined the sociodemographic and behavioural correlates of gambling and problem gambling among Canadian adults. The RRGM was administered to a representative sample of 16,351 adults across Canada's 10 provinces between January and July 2025 …",
   "url": "https://doi.org/10.1007/s10899-026-10573-5",
   "oa_url": null,
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -78,8 +290,14 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "CA",
+   "RS"
+  ],
+  "regions": [
+   "canada",
+   "europe"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -87,20 +305,20 @@
  {
   "id": "doi:10.1007/s10899-026-10578-0",
   "doi": "10.1007/s10899-026-10578-0",
-  "pmid": null,
+  "pmid": "42980980",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7225274613",
   "title": "Priorities for Intervention Content to Support Families and Friends Affected by Gambling Harm: A Mixed Methods Study of Clinician and Researcher Perspectives",
   "journal": "Journal of Gambling Studies",
   "authors": [
-   "Monique N. Gandhi",
-   "Nicki A. Dowling",
-   "Anna C. Thomas",
-   "Simone N. Rodda",
-   "Chloe O. Hawker",
-   "Imran M. Keshani",
+   "Monique N Gandhi",
+   "Nicki A Dowling",
+   "Anna C Thomas",
+   "Simone N Rodda",
+   "Chloe O Hawker",
+   "Imran M Keshani",
    "Anita Guyett",
-   "Stephanie S. Merkouris"
+   "Stephanie S Merkouris"
   ],
   "published": "2026-11-04",
   "year": 2026,
@@ -108,10 +326,12 @@
   "first_seen": "2026-11-04",
   "summary": "Abstract Harmful gambling impacts not only the person who gambles but also their partners, families, and friends (affected others; AOs). Although interventions for AOs exist, effectiveness is modest, with little evidence available to guide the selection of intervention content …",
   "url": "https://doi.org/10.1007/s10899-026-10578-0",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1007/s10899-026-10578-0",
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -121,8 +341,13 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "AU",
+   "NZ"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -146,7 +371,7 @@
   "first_seen": "2026-11-04",
   "summary": "This study examines the effectiveness of the East Nusa Tenggara Regional Police in eradicating online gambling on the island of Timor, as well as the measures taken to achieve this. An empirical-juridical method was employed, utilizing interviews and literature reviews …",
   "url": "https://doi.org/10.58738/lawyer.v4i2.1934",
-  "oa_url": null,
+  "oa_url": "https://asianpublisher.id/journal/index.php/lawyer/article/download/1934/1455",
   "sources": [
    "openalex"
   ],
@@ -159,8 +384,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -251,10 +480,10 @@
  {
   "id": "doi:10.1007/s10899-026-10575-3",
   "doi": "10.1007/s10899-026-10575-3",
-  "pmid": null,
+  "pmid": "42980979",
   "pmcid": null,
-  "openalex": null,
-  "title": "Illusion of Control, Gambler’s Fallacy, or Neither? Testing Key Models of Gambling Psychology by Extending Langer and Roth (1975)",
+  "openalex": "W7172409447",
+  "title": "Illusion of Control, Gambler's Fallacy, or Neither? Testing Key Models of Gambling Psychology by Extending Langer and Roth (1975)",
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Charlotte Eben",
@@ -268,10 +497,12 @@
   "first_seen": "2026-11-04",
   "summary": "Abstract Cognitive biases about randomness, such as the illusion of control and the gambler’s fallacy, are central to the widely-used cognitive models of disordered gambling …",
   "url": "https://doi.org/10.1007/s10899-026-10575-3",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1007/s10899-026-10575-3",
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -284,8 +515,15 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "DE",
+   "GB",
+   "BE"
+  ],
+  "regions": [
+   "europe",
+   "uk-ireland"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -396,7 +634,7 @@
   "first_seen": "2026-11-04",
   "summary": "Online gambling is a serious problem in Indonesia due to its social and economic impact, worsened by ease of access and massive promotional strategies. From the past research, online gambling promotion in Indonesia has not been widely conducted …",
   "url": "https://doi.org/10.21512/ijcshai.v3i2.15283",
-  "oa_url": null,
+  "oa_url": "https://journal.binus.ac.id/index.php/ijcshai/article/download/15283/5913",
   "sources": [
    "openalex"
   ],
@@ -413,8 +651,12 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -423,7 +665,7 @@
   "id": "doi:10.1186/s13034-026-01150-0",
   "doi": "10.1186/s13034-026-01150-0",
   "pmid": "42977989",
-  "pmcid": null,
+  "pmcid": "PMC13729574",
   "openalex": null,
   "title": "Filling the void: sense of absence as a comprehensive bridge between attachment, parent-adolescent communication, and addictive behaviors among adolescents",
   "journal": "Child and Adolescent Psychiatry and Mental Health",
@@ -436,7 +678,7 @@
   "first_seen": "2026-11-04",
   "summary": "Adolescent addictive behaviors present a growing public health concern, yet the pathways leading from experiences of disconnection to persistent addictive patterns remain unclear. This study examined the Sense of Absence (SoA), a subjective feeling of inner void and disconnection, as a potential bridge linking relational deprivation with addictive behaviors …",
   "url": "https://doi.org/10.1186/s13034-026-01150-0",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13729574/",
   "sources": [
    "pubmed"
   ],
@@ -1019,7 +1261,7 @@
   "year": 2026,
   "created": "2026-11-01",
   "first_seen": "2026-11-02",
-  "summary": "Problematic gambling is an increasing public health concern that also affects U.S. Veterans. Problematic gambling in Veterans correlates with several other factors, including socio-economic issues like homelessness and legal problems, and mental health issues like post-traumatic stress disorder, and suicide attempt …",
+  "summary": "IntroductionProblematic gambling is an increasing public health concern that also affects U.S. Veterans. Problematic gambling in Veterans correlates with several other factors, including socio-economic issues like homelessness and legal problems, and mental health issues like post-traumatic stress disorder, and suicide attempt …",
   "url": "https://doi.org/10.64898/2026.10.30.26366936",
   "oa_url": null,
   "sources": [
@@ -1594,7 +1836,7 @@
   "first_seen": "2026-11-01",
   "summary": "The widespread distribution of online gambling advertisements on digital platforms has become a significant issue requiring an automated detection system. This study aims to implement Deep Learning using a Long Short-Term Memory (LSTM) architecture to detect online gambling advertisements within a web-based environment …",
   "url": "https://doi.org/10.59934/jaiea.v6i1.3073",
-  "oa_url": "https://doi.org/10.59934/jaiea.v6i1.3073",
+  "oa_url": "https://ioinformatic.org/index.php/JAIEA/article/download/3073/2071",
   "sources": [
    "openalex"
   ],
@@ -1680,7 +1922,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-04",
+  "published": "2027-01-05",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -2242,7 +2484,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-04",
+  "published": "2026-11-05",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -3723,7 +3965,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-04",
+  "published": "2026-10-05",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -6927,7 +7169,7 @@
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-15",
-  "summary": "Background China operates the world’s largest lottery market, yet the psychological mechanisms linking individual dispositions to problem lottery gambling remain insufficiently understood, particularly among mainland Chinese samples. Financially focused self-concept—the tendency to base self-worth on financial success—has been linked to gambling problems …",
+  "summary": "China operates the world's largest lottery market, yet the psychological mechanisms linking individual dispositions to problem lottery gambling remain insufficiently understood, particularly among mainland Chinese samples. Financially focused self-concept-the tendency to base self-worth on financial success-has been linked to gambling problems …",
   "url": "https://doi.org/10.3389/fpsyt.2026.1978508",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13713455/",
   "sources": [
@@ -7105,12 +7347,8 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -21783,7 +22021,7 @@
   "id": "doi:10.1186/s40359-026-05246-2",
   "doi": "10.1186/s40359-026-05246-2",
   "pmid": "42978009",
-  "pmcid": null,
+  "pmcid": "PMC13729594",
   "openalex": "W7202133469",
   "title": "Stress coping strategies as predictors of job fatigue and psychological health among casino employees in Macao SAR (China)",
   "journal": "BMC psychology",
@@ -21799,7 +22037,7 @@
   "first_seen": "2026-08-11",
   "summary": "This study investigates the predictive role of stress coping strategies on job fatigue and psychological health among casino employees in Macao, a sector marked by high emotional labor and irregular work schedules …",
   "url": "https://doi.org/10.1186/s40359-026-05246-2",
-  "oa_url": "https://doi.org/10.1186/s40359-026-05246-2",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13729594/",
   "sources": [
    "openalex",
    "pubmed"

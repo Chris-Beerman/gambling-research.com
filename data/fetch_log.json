@@ -1,12 +1,12 @@
 {
- "started": "2026-11-04T14:28:05+00:00",
+ "started": "2026-11-05T14:35:22+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 49,
+   "items": 54,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 223,
+   "items": 220,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 27,
+   "items": 28,
    "error": null,
    "warning": null
   },
@@ -77,9 +77,9 @@
   {
    "id": "feed:cgs",
    "kind": "papers",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: GET failed after 3 tries: https://criticalgamblingstudies.com/index.php/cgs/gateway/plugin/WebFeedGatewayPlugin/rss2: HTTPSConnectionPool(host='criticalgamblingstudies.com', port=443): Max retries exceeded with url: /index.php/cgs/gateway/plugin/WebFeedGatewayPlugin/rss2 (Caused by ConnectTimeoutErr",
+   "ok": true,
+   "items": 30,
+   "error": null,
    "warning": null
   },
   {
@@ -198,7 +198,7 @@
    "id": "news:gnews-ukgc",
    "kind": "news",
    "ok": true,
-   "items": 100,
+   "items": 30,
    "error": null,
    "warning": null
   },
@@ -214,7 +214,7 @@
    "id": "news:gnews-problem-gambling",
    "kind": "news",
    "ok": true,
-   "items": 100,
+   "items": 62,
    "error": null,
    "warning": null
   },
@@ -222,7 +222,7 @@
    "id": "news:gnews-betting-law",
    "kind": "news",
    "ok": true,
-   "items": 100,
+   "items": 58,
    "error": null,
    "warning": null
   },
@@ -238,7 +238,7 @@
    "id": "news:gnews-self-exclusion",
    "kind": "news",
    "ok": true,
-   "items": 100,
+   "items": 28,
    "error": null,
    "warning": null
   },
@@ -262,7 +262,7 @@
    "id": "trials:osf",
    "kind": "trials",
    "ok": true,
-   "items": 654,
+   "items": 655,
    "error": null,
    "warning": null
   },
@@ -270,7 +270,7 @@
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 619,
+   "items": 408,
    "error": null,
    "warning": null
   },
@@ -286,53 +286,63 @@
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 71,
+   "items": 73,
    "error": null,
    "warning": null
   }
  ],
  "rebuild": null,
  "papers": {
-  "raw": 675,
-  "groups": 602,
-  "added": 11,
-  "updated": 174,
-  "dropped_irrelevant": 417,
-  "removed": 1,
-  "total": 8397
+  "raw": 708,
+  "groups": 627,
+  "added": 5,
+  "updated": 202,
+  "dropped_irrelevant": 420,
+  "removed": 0,
+  "total": 8402
  },
  "news": {
-  "raw": 716,
-  "added": 96,
-  "dropped_irrelevant": 110,
-  "total": 1495
+  "raw": 494,
+  "added": 169,
+  "dropped_irrelevant": 117,
+  "total": 1549
  },
  "trials": {
-  "raw": 898,
-  "added": 4,
-  "updated": 708,
-  "dropped_irrelevant": 185,
-  "removed": 1,
+  "raw": 899,
+  "added": 0,
+  "updated": 712,
+  "dropped_irrelevant": 186,
+  "removed": 0,
   "total": 720
  },
  "bills": {
-  "raw": 635,
-  "added": 1,
-  "updated": 152,
-  "dropped_irrelevant": 482,
+  "raw": 424,
+  "added": 0,
+  "updated": 101,
+  "dropped_irrelevant": 323,
   "total": 641
  },
  "cases": {
-  "raw": 71,
-  "added": 2,
-  "updated": 5,
-  "dropped_irrelevant": 64,
+  "raw": 73,
+  "added": 0,
+  "updated": 6,
+  "dropped_irrelevant": 67,
   "total": 88
  },
- "finished": "2026-11-04T14:45:16+00:00",
- "papers_total": 8397,
- "news_total": 1495,
+ "finished": "2026-11-05T14:46:46+00:00",
+ "papers_total": 8402,
+ "news_total": 1549,
  "history": [
+  {
+   "finished": "2026-11-05T14:46:46+00:00",
+   "mode": "nightly",
+   "added": 5,
+   "news_added": 169,
+   "trials_added": 0,
+   "bills_added": 0,
+   "cases_added": 0,
+   "failed": 0
+  },
   {
    "finished": "2026-11-04T14:45:16+00:00",
    "mode": "nightly",
@@ -613,13 +623,6 @@
    "added": 1346,
    "news_added": 0,
    "failed": 0
-  },
-  {
-   "finished": "2026-10-16T00:02:11+00:00",
-   "mode": "backfill",
-   "added": 346,
-   "news_added": 501,
-   "failed": 5
   }
  ]
 }
