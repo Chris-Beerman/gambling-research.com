@@ -34,14 +34,15 @@
  },
  "topics": {
   "n": 92,
-  "accuracy": 0.935,
+  "accuracy": 0.924,
   "misses": [
    "10.1007/s10899-026-10519-x: topics missing [], wrongly present ['policy']",
    "10.1080/14459795.2026.2697456: topics missing ['sports-betting'], wrongly present []",
    "10.1080/14459795.2026.2696244: topics missing ['comorbidity', 'treatment'], wrongly present []",
    "10.1080/14459795.2026.2697452: topics missing ['policy'], wrongly present []",
    "10.1080/14459795.2026.2727848: topics missing ['lived-experience'], wrongly present []",
-   "10.1007/s10899-026-10481-8: topics missing [], wrongly present ['policy']"
+   "10.1007/s10899-026-10481-8: topics missing [], wrongly present ['policy']",
+   "10.1111/add.70626: topics missing ['prevention'], wrongly present []"
   ]
  },
  "rules_only": {
@@ -55,10 +56,10 @@
   },
   "topics": {
    "n": 92,
-   "accuracy": 0.935
+   "accuracy": 0.924
   }
  },
- "checked": "2026-11-05T18:23:34+00:00",
+ "checked": "2026-11-06T14:25:45+00:00",
  "thresholds": {
   "keep": 0.95,
   "designs": 0.82,

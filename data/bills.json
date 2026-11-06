@@ -1937,8 +1937,48 @@
    "equity",
    "veterans"
   ],
-  "updated": "2026-10-30",
+  "updated": "2026-11-05",
   "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/f6964e95-5483-4a76-9773-c60afc5b61fb",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 595",
+  "title": "Various Revenue Laws Changes.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "AIRPORTS; ALCOHOLIC BEVERAGES; AUDITING & AUDITS; AVIATION; COMMERCE; COMMERCE DEPT.; COMMISSIONS; CORPORATIONS",
+   "CORPORATE INCOME; TAXES",
+   "EXCISE; TAXES",
+   "FOR-PROFIT; CREDIT UNION COMN.; CREDIT UNIONS; DEBTOR & CREDITOR; FEES; FINANCIAL INSTITUTIONS; FINES & PENALTIES; FUELS; GAMING; INTEREST; LAW ENFORCEMENT; RENTALS & LEASING; LOTTERY; MOTOR VEHICLES; PARTNERSHIPS; PRESENTED; PUBLIC; RATIFIED; REVENUE DEPT.; ROADS & HIGHWAYS; TAX DEDUCTIONS; TAX REFUNDS; TAX RETURNS; TAXATION; TAXES",
+   "FUEL; TITLE CHANGE; TOBACCO; TRANSPORTATION; LOTTERY COMN.; RECORDS; TAXES",
+   "HIGHWAY USE; CHAPTERED; TAX COLLECTION; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; ALE",
+   "PRIVILEGE; TAXES"
+  ],
+  "sponsors": [
+   "McInnis",
+   "Craven"
+  ],
+  "introduced": "2025-03-25",
+  "latest_action_date": "2026-07-02",
+  "latest_action": "Signed by Gov. 7/2/2026",
+  "latest_passage_date": "2025-06-25",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/nc/bills/2025/SB595/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S595",
+  "topics": [
+   "lottery",
+   "policy",
+   "industry"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
   "stage_changed": null
  },
  {
@@ -4561,6 +4601,37 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/baa97a9a-2038-4814-a315-8f6f33e4414f",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 1042",
+  "title": "Child Welfare/Foster Care/Child Care Funding.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "AOC; APPROPRIATIONS; BUDGETING; CHILD CUSTODY; COMMISSIONS; COURTS; DATA & RECORDS SYSTEMS; DAY CARE; DHHS; FOSTER CARE; FUNDS & ACCOUNTS; GAMING; INDIGENTS; INFORMATION TECHNOLOGY; INTERNET; JUDICIAL DEPT.; LOTTERY; MINORS; PUBLIC; PUBLIC DEFENDERS; SOCIAL SERVICES; SPORTS; TELECOMMUNICATIONS; TELEPHONES; TELESERVICES; LOTTERY COMN.; LOTTERY FUND; RECORDS; INDIGENT DEFENSE SERVICES OFFICE; ELECTRONIC GOVERNMENT; FAMILY ISSUES; MOBILE PHONES & DEVICES"
+  ],
+  "sponsors": [
+   "Burgin"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-05-06",
+  "latest_action": "Withdrawn From Com",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/nc/bills/2025/SB1042/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S1042",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/e940aa6a-1d18-48b9-9042-5a16b19adc2d",
   "level": "state",
   "jurisdiction": "Missouri",
@@ -4619,6 +4690,147 @@
   "topics": [],
   "updated": "2026-10-31",
   "first_seen": "2026-02-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/32ad1441-2646-4706-9ab4-847d722dc444",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 1171",
+  "title": "Prohibit Gambling in Prediction Markets.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "APPROPRIATIONS; BUDGETING; COMMISSIONS; GAMING; INVESTMENTS; LOTTERY; PUBLIC; SECURITIES; LOTTERY COMN."
+  ],
+  "sponsors": [
+   "Harrison",
+   "Morey",
+   "Butler",
+   "Belk",
+   "Cervania",
+   "Cohn"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-05-04",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/HB1171/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H1171",
+  "topics": [
+   "prediction-markets",
+   "lottery"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/de2d3826-7803-4a8d-89c8-2b00782d905a",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 1167",
+  "title": "2026 Governor's Budget.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADMIN. HEARINGS OFFICE; ADMINISTRATION DEPT.; ADOPTION; AGRICULTURE; AGRICULTURE DEPT.; OBSOLETE LAWS; APPROPRIATIONS; ARMED FORCES; ARTS; ATTORNEY GENERAL; ATTORNEYS; AUDITING & AUDITS; AUTHORITIES; BIDS & BIDDING; BIOTECHNOLOGY; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDINGS; CAPITAL SPENDING; CEMETERIES; CHARTER SCHOOLS; CHILD CUSTODY; CHILDREN WITH SPECIAL NEEDS; CIVIL PROCEDURE; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CONTRACTS; CORPORATIONS",
+   "CORPORATE INCOME; TAXES",
+   "DISPOSAL; SUPERIOR COURT; BIOTECHNOLOGY CENTER; GOLDEN L.E.A.F",
+   "FOR-PROFIT; CORPORATIONS",
+   "HEALTH; INSURANCE",
+   "INC.; INDIGENT DEFENSE SERVICES OFFICE; DISASTER RELIEF RESERVE FUND; SCHOLARSHIPS & FINANCIAL AID; CIVIL ACTIONS; DEVELOPMENTAL DISABILITIES; EARLY CHILDHOOD EDUCATION; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; TAX HOLIDAYS; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; SHALLOW DRAFT INLET DREDGING FUND; NEWBORNS & INFANTS; CHIEF INFORMATION OFFICER; FAMILY ISSUES; HUMAN RESOURCES OFFICE; INFORMATION TECHNOLOGY DEPT.; MONITORING & SURVEILLANCE SYSTEMS; MILITARY AFFAIRS DEPT.; STATE CRIME LAB; CAPITAL & INFRASTRUCTURE FUND; UNC SYSTEM OFFICE; SAFETY EDUCATION; SCHOOL GRADES; FOOD & NUTRITION PROGRAMS; SCHOOL OF SCIENCE & MATH; SCHOOL OF THE ARTS; SCHOOL OF THE ARTS BOARD; CONCEALED CARRY; SCHOOL STAFF; ADULT CORRECTION DEPT.; RESIDENTIAL SCHOOLS; NCINNOVATION BOARD",
+   "INDIVIDUAL INCOME; TAXES",
+   "NONPROFIT; CORRECTIONAL INSTITUTIONS; COST-OF-LIVING; COUNCIL OF STATE; COUNSELING; COUNTIES; COURT CLERKS; COURT OF APPEALS; COURTS; CRIMINAL JUSTICE INFORMATION BD.; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DAY CARE; DEFINITIONS; DEQ; DHHS; DISABLED PERSONS; DISASTERS & EMERGENCIES; DISEASES & HEALTH DISORDERS; DISTRICT COURT; ECONOMIC DEVELOPMENT; EDUCATION; EDUCATION ADMINISTRATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATION",
+   "SALES & USE; TEACHERS; TELECOMMUNICATIONS; TELESERVICES; TEXTBOOK COMN.; TEXTBOOKS; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TRIBES & TRIBAL GOVERNMENT; TSERS; TUITION; UNC; UNEMPLOYMENT; VETERANS; VOCATIONAL EDUCATION; WASTE MANAGEMENT; WATER RESOURCES; WEAPONS; WILDLIFE RESOURCES COMN.; WOMEN; LOTTERY FUND; DISTRICT ATTORNEYS; HIGHWAY FUND; SUBSTANCE ABUSE; JOHNSTON COUNTY; TAXES",
+   "STATE BOARD OF; ELECTIONS; ELECTIONS",
+   "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMERGING TECHNOLOGIES; EMPLOYMENT; ENVIRONMENT; ESL; FEES; FINES & PENALTIES; FISH & WILDLIFE; FOODS & BEVERAGES; FOSTER CARE; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GENERAL STATUTES; GOVERNOR; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOSPITALS; HOUSING; HOUSING FINANCE AGENCY; INDIGENTS; INDUSTRIAL COMN.; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSURANCE; INSURANCE DEPT.; INSURANCE",
+   "UNEMPLOYMENT; INTERNET; JUDGES; JUDGMENTS & SETTLEMENTS; JUDICIAL DEPT.; JUSTICE DEPT.; KINDERGARTEN; LABOR DEPT.; LABORATORIES; LAKES & RIVERS; LANGUAGES; LAW ENFORCEMENT; LICENSES & PERMITS; LITERACY; LOCAL GOVERNMENT; LOTTERY; LT. GOVERNOR; MAGISTRATES; MANUFACTURING; MEDICAID; MEDICAL CARE COMN.; MENTAL HEALTH; MHDDSAS COMN.; MINORITIES; MINORS; MOTOR VEHICLES; MOTORCYCLES & MOPEDS; NURSES & NURSING; NUTRITION; OCCUPATIONS; PARKS & RECREATION AREAS; PERSONNEL; POVERTY; PREGNANCY; PRINCIPALS; INMATES; PRIVATE SCHOOLS; PROFESSIONAL EDUCATION; PROPERTY; PSYCHIATRY; PSYCHOLOGY; PUBLIC; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; PURCHASING; RECYCLING; DISTANCE EDUCATION; RESEARCH; RETAILING; RETIREMENT; REVENUE DEPT.; ROADS & HIGHWAYS; RURAL DEVELOPMENT; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SCHOOL OF SCIENCE & MATH BOARD; SECONDARY EDUCATION; SECRETARY OF STATE; SMALL BUSINESS; SOCIAL SERVICES; SOLID WASTE; STATE AUDITOR; STATE CONTROLLER; STATE EMPLOYEES; STATE TREASURER; STUDIES; SUPREME COURT; TAX DEDUCTIONS; TAXATION; TAXES"
+  ],
+  "sponsors": [
+   "Lambeth",
+   "Arp",
+   "K. Hall",
+   "Strickland",
+   "Ager",
+   "Alston"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-05-04",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/HB1167/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H1167",
+  "topics": [
+   "lottery",
+   "youth",
+   "policy",
+   "equity",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/7f3e9d1f-29d4-45e7-8ef6-912f56709bbb",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 1146",
+  "title": "2026 Governor's Budget.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADMIN. HEARINGS OFFICE; ADMINISTRATION DEPT.; ADOPTION; AGRICULTURE; AGRICULTURE DEPT.; OBSOLETE LAWS; APPROPRIATIONS; ARMED FORCES; ARTS; ATTORNEY GENERAL; ATTORNEYS; AUDITING & AUDITS; AUTHORITIES; BIDS & BIDDING; BIOTECHNOLOGY; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDINGS; CAPITAL SPENDING; CEMETERIES; CHARTER SCHOOLS; CHILD CUSTODY; CHILDREN WITH SPECIAL NEEDS; CIVIL PROCEDURE; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CONTRACTS; CORPORATIONS",
+   "CORPORATE INCOME; TAXES",
+   "DISPOSAL; SUPERIOR COURT; BIOTECHNOLOGY CENTER; GOLDEN L.E.A.F",
+   "FOR-PROFIT; CORPORATIONS",
+   "HEALTH; INSURANCE",
+   "INC.; INDIGENT DEFENSE SERVICES OFFICE; DISASTER RELIEF RESERVE FUND; SCHOLARSHIPS & FINANCIAL AID; CIVIL ACTIONS; DEVELOPMENTAL DISABILITIES; EARLY CHILDHOOD EDUCATION; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; TAX HOLIDAYS; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; SHALLOW DRAFT INLET DREDGING FUND; NEWBORNS & INFANTS; CHIEF INFORMATION OFFICER; FAMILY ISSUES; HUMAN RESOURCES OFFICE; INFORMATION TECHNOLOGY DEPT.; MONITORING & SURVEILLANCE SYSTEMS; MILITARY AFFAIRS DEPT.; STATE CRIME LAB; CAPITAL & INFRASTRUCTURE FUND; UNC SYSTEM OFFICE; SAFETY EDUCATION; SCHOOL GRADES; FOOD & NUTRITION PROGRAMS; SCHOOL OF SCIENCE & MATH; SCHOOL OF THE ARTS; SCHOOL OF THE ARTS BOARD; CONCEALED CARRY; SCHOOL STAFF; ADULT CORRECTION DEPT.; RESIDENTIAL SCHOOLS; NCINNOVATION BOARD",
+   "INDIVIDUAL INCOME; TAXES",
+   "NONPROFIT; CORRECTIONAL INSTITUTIONS; COST-OF-LIVING; COUNCIL OF STATE; COUNSELING; COUNTIES; COURT CLERKS; COURT OF APPEALS; COURTS; CRIMINAL JUSTICE INFORMATION BD.; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DAY CARE; DEFINITIONS; DEQ; DHHS; DISABLED PERSONS; DISASTERS & EMERGENCIES; DISEASES & HEALTH DISORDERS; DISTRICT COURT; ECONOMIC DEVELOPMENT; EDUCATION; EDUCATION ADMINISTRATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATION",
+   "SALES & USE; TEACHERS; TELECOMMUNICATIONS; TELESERVICES; TEXTBOOK COMN.; TEXTBOOKS; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TRIBES & TRIBAL GOVERNMENT; TSERS; TUITION; UNC; UNEMPLOYMENT; VETERANS; VOCATIONAL EDUCATION; WASTE MANAGEMENT; WATER RESOURCES; WEAPONS; WILDLIFE RESOURCES COMN.; WOMEN; LOTTERY FUND; DISTRICT ATTORNEYS; HIGHWAY FUND; SUBSTANCE ABUSE; JOHNSTON COUNTY; TAXES",
+   "STATE BOARD OF; ELECTIONS; ELECTIONS",
+   "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMERGING TECHNOLOGIES; EMPLOYMENT; ENVIRONMENT; ESL; FEES; FINES & PENALTIES; FISH & WILDLIFE; FOODS & BEVERAGES; FOSTER CARE; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GENERAL STATUTES; GOVERNOR; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOSPITALS; HOUSING; HOUSING FINANCE AGENCY; INDIGENTS; INDUSTRIAL COMN.; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSURANCE; INSURANCE DEPT.; INSURANCE",
+   "UNEMPLOYMENT; INTERNET; JUDGES; JUDGMENTS & SETTLEMENTS; JUDICIAL DEPT.; JUSTICE DEPT.; KINDERGARTEN; LABOR DEPT.; LABORATORIES; LAKES & RIVERS; LANGUAGES; LAW ENFORCEMENT; LICENSES & PERMITS; LITERACY; LOCAL GOVERNMENT; LOTTERY; LT. GOVERNOR; MAGISTRATES; MANUFACTURING; MEDICAID; MEDICAL CARE COMN.; MENTAL HEALTH; MHDDSAS COMN.; MINORITIES; MINORS; MOTOR VEHICLES; MOTORCYCLES & MOPEDS; NURSES & NURSING; NUTRITION; OCCUPATIONS; PARKS & RECREATION AREAS; PERSONNEL; POVERTY; PREGNANCY; PRINCIPALS; INMATES; PRIVATE SCHOOLS; PROFESSIONAL EDUCATION; PROPERTY; PSYCHIATRY; PSYCHOLOGY; PUBLIC; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; PURCHASING; RECYCLING; DISTANCE EDUCATION; RESEARCH; RETAILING; RETIREMENT; REVENUE DEPT.; ROADS & HIGHWAYS; RURAL DEVELOPMENT; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SCHOOL OF SCIENCE & MATH BOARD; SECONDARY EDUCATION; SECRETARY OF STATE; SMALL BUSINESS; SOCIAL SERVICES; SOLID WASTE; STATE AUDITOR; STATE CONTROLLER; STATE EMPLOYEES; STATE TREASURER; STUDIES; SUPREME COURT; TAX DEDUCTIONS; TAXATION; TAXES"
+  ],
+  "sponsors": [
+   "Arp",
+   "K. Hall",
+   "Strickland",
+   "Lambeth",
+   "Adams",
+   "Ager"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-05-04",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/HB1146/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H1146",
+  "topics": [
+   "lottery",
+   "youth",
+   "policy",
+   "equity",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
   "stage_changed": null
  },
  {
@@ -4810,6 +5022,58 @@
   "congress": 119,
   "bill_type": "s",
   "number": 4469
+ },
+ {
+  "id": "ocd-bill/9031e445-4e4c-44a3-ba7d-20b70aa7fb8c",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 915",
+  "title": "2026 Governor's Budget.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADMIN. HEARINGS OFFICE; ADMINISTRATION DEPT.; ADOPTION; AGRICULTURE; AGRICULTURE DEPT.; OBSOLETE LAWS; APPROPRIATIONS; ARMED FORCES; ARTS; ATTORNEY GENERAL; ATTORNEYS; AUDITING & AUDITS; AUTHORITIES; BIDS & BIDDING; BIOTECHNOLOGY; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDINGS; CAPITAL SPENDING; CEMETERIES; CHARTER SCHOOLS; CHILD CUSTODY; CHILDREN WITH SPECIAL NEEDS; CIVIL PROCEDURE; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CONTRACTS; CORPORATIONS",
+   "CORPORATE INCOME; TAXES",
+   "DISPOSAL; SUPERIOR COURT; BIOTECHNOLOGY CENTER; GOLDEN L.E.A.F",
+   "FOR-PROFIT; CORPORATIONS",
+   "HEALTH; INSURANCE",
+   "INC.; INDIGENT DEFENSE SERVICES OFFICE; DISASTER RELIEF RESERVE FUND; SCHOLARSHIPS & FINANCIAL AID; CIVIL ACTIONS; DEVELOPMENTAL DISABILITIES; EARLY CHILDHOOD EDUCATION; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; TAX HOLIDAYS; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; SHALLOW DRAFT INLET DREDGING FUND; NEWBORNS & INFANTS; CHIEF INFORMATION OFFICER; FAMILY ISSUES; HUMAN RESOURCES OFFICE; INFORMATION TECHNOLOGY DEPT.; MONITORING & SURVEILLANCE SYSTEMS; MILITARY AFFAIRS DEPT.; STATE CRIME LAB; CAPITAL & INFRASTRUCTURE FUND; UNC SYSTEM OFFICE; SAFETY EDUCATION; SCHOOL GRADES; FOOD & NUTRITION PROGRAMS; SCHOOL OF SCIENCE & MATH; SCHOOL OF THE ARTS; SCHOOL OF THE ARTS BOARD; CONCEALED CARRY; SCHOOL STAFF; ADULT CORRECTION DEPT.; RESIDENTIAL SCHOOLS; NCINNOVATION BOARD",
+   "INDIVIDUAL INCOME; TAXES",
+   "NONPROFIT; CORRECTIONAL INSTITUTIONS; COST-OF-LIVING; COUNCIL OF STATE; COUNSELING; COUNTIES; COURT CLERKS; COURT OF APPEALS; COURTS; CRIMINAL JUSTICE INFORMATION BD.; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DAY CARE; DEFINITIONS; DEQ; DHHS; DISABLED PERSONS; DISASTERS & EMERGENCIES; DISEASES & HEALTH DISORDERS; DISTRICT COURT; ECONOMIC DEVELOPMENT; EDUCATION; EDUCATION ADMINISTRATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATION",
+   "SALES & USE; TEACHERS; TELECOMMUNICATIONS; TELESERVICES; TEXTBOOK COMN.; TEXTBOOKS; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TRIBES & TRIBAL GOVERNMENT; TSERS; TUITION; UNC; UNEMPLOYMENT; VETERANS; VOCATIONAL EDUCATION; WASTE MANAGEMENT; WATER RESOURCES; WEAPONS; WILDLIFE RESOURCES COMN.; WOMEN; LOTTERY FUND; DISTRICT ATTORNEYS; HIGHWAY FUND; SUBSTANCE ABUSE; JOHNSTON COUNTY; TAXES",
+   "STATE BOARD OF; ELECTIONS; ELECTIONS",
+   "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMERGING TECHNOLOGIES; EMPLOYMENT; ENVIRONMENT; ESL; FEES; FINES & PENALTIES; FISH & WILDLIFE; FOODS & BEVERAGES; FOSTER CARE; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GENERAL STATUTES; GOVERNOR; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOSPITALS; HOUSING; HOUSING FINANCE AGENCY; INDIGENTS; INDUSTRIAL COMN.; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSURANCE; INSURANCE DEPT.; INSURANCE",
+   "UNEMPLOYMENT; INTERNET; JUDGES; JUDGMENTS & SETTLEMENTS; JUDICIAL DEPT.; JUSTICE DEPT.; KINDERGARTEN; LABOR DEPT.; LABORATORIES; LAKES & RIVERS; LANGUAGES; LAW ENFORCEMENT; LICENSES & PERMITS; LITERACY; LOCAL GOVERNMENT; LOTTERY; LT. GOVERNOR; MAGISTRATES; MANUFACTURING; MEDICAID; MEDICAL CARE COMN.; MENTAL HEALTH; MHDDSAS COMN.; MINORITIES; MINORS; MOTOR VEHICLES; MOTORCYCLES & MOPEDS; NURSES & NURSING; NUTRITION; OCCUPATIONS; PARKS & RECREATION AREAS; PERSONNEL; POVERTY; PREGNANCY; PRINCIPALS; INMATES; PRIVATE SCHOOLS; PROFESSIONAL EDUCATION; PROPERTY; PSYCHIATRY; PSYCHOLOGY; PUBLIC; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; PURCHASING; RECYCLING; DISTANCE EDUCATION; RESEARCH; RETAILING; RETIREMENT; REVENUE DEPT.; ROADS & HIGHWAYS; RURAL DEVELOPMENT; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SCHOOL OF SCIENCE & MATH BOARD; SECONDARY EDUCATION; SECRETARY OF STATE; SMALL BUSINESS; SOCIAL SERVICES; SOLID WASTE; STATE AUDITOR; STATE CONTROLLER; STATE EMPLOYEES; STATE TREASURER; STUDIES; SUPREME COURT; TAX DEDUCTIONS; TAXATION; TAXES"
+  ],
+  "sponsors": [
+   "Jackson",
+   "Hise",
+   "Lee",
+   "Adcock",
+   "Applewhite",
+   "Mohammed"
+  ],
+  "introduced": "2026-04-29",
+  "latest_action_date": "2026-04-30",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/SB915/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S915",
+  "topics": [
+   "lottery",
+   "youth",
+   "policy",
+   "equity",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
  },
  {
   "id": "ocd-bill/c68969cb-aec2-4a3e-8ad5-4a83bf2c76c6",
@@ -15662,7 +15926,7 @@
    "industry",
    "veterans"
   ],
-  "updated": "2026-10-30",
+  "updated": "2026-11-05",
   "first_seen": "2026-10-31",
   "stage_changed": null
  },
@@ -15878,6 +16142,43 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/87e0e929-6245-45e7-946e-3b0304ba905a",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 14",
+  "title": "Gambling Loss Tax Deduction, NC Sound Money Act.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "GAMING; INVESTMENTS; PUBLIC; TAX DEDUCTIONS; TAXATION; TAXES",
+   "INDIVIDUAL INCOME; TITLE CHANGE; PRECIOUS METALS; CRYPTOCURRENCY & NFTS"
+  ],
+  "sponsors": [
+   "Paré",
+   "Tyson",
+   "Kidwell",
+   "Winslow",
+   "T. Brown",
+   "Cairns"
+  ],
+  "introduced": "2025-01-29",
+  "latest_action_date": "2025-06-25",
+  "latest_action": "Reptd Fav Com Substitute",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
+  "url": "https://openstates.org/nc/bills/2025/HB14/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H14",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/7cdf85c7-8a80-4c2f-bb13-8625d7c6fdf4",
   "level": "state",
   "jurisdiction": "Maine",
@@ -15943,7 +16244,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-30",
+  "updated": "2026-11-05",
   "first_seen": "2026-10-31",
   "stage_changed": null
  },
@@ -17783,6 +18084,42 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/53d9c8de-e327-4709-ab63-1122c4b162d2",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 999",
+  "title": "Regulation of Video Gaming Terminals.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADVERTISING & MARKETING; ALCOHOLIC BEVERAGES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNICATIONS; COMPUTERS; FEES; FUNDS & ACCOUNTS; GAMING; INFORMATION TECHNOLOGY; INTERNET; LICENSES & PERMITS; MANUFACTURING; PUBLIC; TELECOMMUNICATIONS; TELESERVICES; ABC COMN.; GAMING COMN."
+  ],
+  "sponsors": [
+   "Warren",
+   "Loftis",
+   "Branson",
+   "Miller",
+   "Pickett"
+  ],
+  "introduced": "2025-04-10",
+  "latest_action_date": "2025-04-14",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/HB999/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H999",
+  "topics": [
+   "loot-boxes",
+   "advertising"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/b541aebb-4618-4de9-af54-a0d4bf258ff4",
   "level": "state",
   "jurisdiction": "North Carolina",
@@ -17811,12 +18148,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/nc/bills/2025/HB937/",
   "source_url": "https://www.ncleg.gov/BillLookUp/2025/H937",
-  "topics": [
-   "lottery",
-   "policy",
-   "industry"
-  ],
-  "updated": "2026-03-17",
+  "topics": [],
+  "updated": "2026-11-05",
   "first_seen": "2025-04-10",
   "stage_changed": null
  },
@@ -18105,10 +18438,9 @@
   "url": "https://openstates.org/nc/bills/2025/HB828/",
   "source_url": "https://www.ncleg.gov/BillLookUp/2025/H828",
   "topics": [
-   "lottery",
-   "youth"
+   "lottery"
   ],
-  "updated": "2026-03-17",
+  "updated": "2026-11-05",
   "first_seen": "2025-04-08",
   "stage_changed": null
  },
@@ -18422,6 +18754,37 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/10a42f20-fd95-4689-84d9-d3900344b32a",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 533",
+  "title": "Vaping and Gambling Addiction Prev. Strategies.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "APPROPRIATIONS; BUDGETING; COMMERCE; COMMISSIONS; DHHS; GAMING; LICENSES & PERMITS; LOTTERY; MINORS; PUBLIC; RETAILING; TOBACCO; LOTTERY COMN.; TOBACCO PRODUCTS"
+  ],
+  "sponsors": [
+   "Burgin"
+  ],
+  "introduced": "2025-03-25",
+  "latest_action_date": "2025-03-26",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/SB533/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S533",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/e69eb856-9474-4d67-9cb9-2622cd8043d1",
   "level": "state",
   "jurisdiction": "North Carolina",
@@ -18449,8 +18812,92 @@
   "url": "https://openstates.org/nc/bills/2025/SB471/",
   "source_url": "https://www.ncleg.gov/BillLookUp/2025/S471",
   "topics": [],
-  "updated": "2026-03-17",
+  "updated": "2026-11-05",
   "first_seen": "2025-03-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2ecdf461-c03d-42d2-975a-d80b5ba43364",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 440",
+  "title": "2025 Governor's Budget.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADMIN. HEARINGS OFFICE; ADMINISTRATION DEPT.; AGRICULTURE; AGRICULTURE DEPT.; APPROPRIATIONS; AQUARIUMS; ARMED FORCES; AUDITING & AUDITS; AUTHORITIES; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDINGS; CANCER; CAPITAL SPENDING; CEMETERIES; CHILD SUPPORT; CHILDREN WITH SPECIAL NEEDS; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CORPORATIONS",
+   "CORPORATE INCOME; TAXES",
+   "FOR-PROFIT; CORPORATIONS",
+   "HEALTH; INTERNET; JUDGES; JUDICIAL DEPT.; JUSTICE DEPT.; KINDERGARTEN; LABOR DEPT.; LAKES & RIVERS; LAW ENFORCEMENT; LITERACY; LOCAL GOVERNMENT; LOTTERY; LT. GOVERNOR; MAGISTRATES; MEDICAID; MENTAL HEALTH; MINORITIES; MINORS; MOTOR VEHICLES; MOTORCYCLES & MOPEDS; MUSEUMS; NURSES & NURSING; OCCUPATIONS; PARTNERSHIP FOR CHILDREN; PERSONNEL; PILOT PROGRAMS; POLLUTION; POVERTY; PREGNANCY; PRINCIPALS; INMATES; PROPERTY; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; RADIOLOGY; RETIREMENT; REVENUE DEPT.; ROADS & HIGHWAYS; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SECONDARY EDUCATION; SECRETARY OF STATE; SMALL BUSINESS; SOCIAL SERVICES; SOLID WASTE; STATE AUDITOR; STATE BUILDINGS; STATE CONTROLLER; STATE EMPLOYEES; DEBT/STATE GOVERNMENT; STATE TREASURER; STORAGE SYSTEMS; STORAGE TANKS; STUDENTS; TAX CREDITS; TAXATION; TAXES",
+   "INDIVIDUAL INCOME; TEACHERS; TELECOMMUNICATIONS; TELEPHONES; TESTING; TEXTBOOKS; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TRIBES & TRIBAL GOVERNMENT; TSERS; TUITION; UNC; UNC BOARD OF GOVERNORS; VETERANS; VETERANS AFFAIRS COMN.; VOCATIONAL EDUCATION; WASTE MANAGEMENT; WATER RESOURCES; WILDLIFE RESOURCES COMN.; WOMEN; ZOOS; LOTTERY FUND; HIGHWAY FUND; SUBSTANCE ABUSE; INDIGENT DEFENSE SERVICES OFFICE; ELECTRONIC GOVERNMENT; SCHOLARSHIPS & FINANCIAL AID; ZOO FUND; PUBLIC BUILDINGS; EARLY CHILDHOOD EDUCATION; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; REMEDIATION & CLEANUP; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; NEWBORNS & INFANTS; FAMILY ISSUES; MOBILE PHONES & DEVICES; HUMAN RESOURCES OFFICE; MILITARY AFFAIRS DEPT.; UNC SYSTEM OFFICE; SCHOOL GRADES; SCHOOL OF SCIENCE & MATH; SCHOOL STAFF; ADULT CORRECTION DEPT.",
+   "NONPROFIT; CORRECTIONAL INSTITUTIONS; COST-OF-LIVING; COUNCIL OF STATE; COUNTIES; COURT CLERKS; COURTS; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; CURRICULUM; DAY CARE; DEFINITIONS; DEQ; DHHS; DISABLED PERSONS; DISASTERS & EMERGENCIES; DISEASES & HEALTH DISORDERS; DIVORCE; EDUCATION; EDUCATION ADMINISTRATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATIONAL TESTING; ELECTIONS; ELECTIONS",
+   "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMPLOYMENT; ENVIRONMENT; FEES; FERRIES; FISH & WILDLIFE; FUNDING; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GOVERNOR; GRANTS; GUARDIANSHIP; HAZARDOUS SUBSTANCES; HEALTH DEPTS.; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOSPITALS; HOUSING; HOUSING FINANCE AGENCY; INDIGENTS; INDUSTRIAL COMN.; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSPECTIONS; INSURANCE; INSURANCE DEPT.; INSURANCE"
+  ],
+  "sponsors": [
+   "Jackson",
+   "Hise",
+   "Lee",
+   "Adcock",
+   "Applewhite",
+   "Batch"
+  ],
+  "introduced": "2025-03-24",
+  "latest_action_date": "2025-03-25",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/SB440/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S440",
+  "topics": [
+   "lottery",
+   "youth",
+   "policy",
+   "equity",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/5417b68e-9047-48d5-9329-b84d53b88826",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 420",
+  "title": "Redirect Lottery Advertising for Foster Care.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADVERTISING & MARKETING; BUDGETING; CHILD CUSTODY; COMMISSIONS; COMMUNICATIONS; DHHS; FOSTER CARE; FUNDING; FUNDS & ACCOUNTS; GAMING; LOTTERY; MINORS; PUBLIC; SOCIAL SERVICES; LOTTERY COMN.; LOTTERY FUND; FAMILY ISSUES"
+  ],
+  "sponsors": [
+   "Burgin",
+   "Alexander",
+   "Applewhite",
+   "Mohammed",
+   "Smith",
+   "Waddell"
+  ],
+  "introduced": "2025-03-24",
+  "latest_action_date": "2025-03-25",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/SB420/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S420",
+  "topics": [
+   "lottery",
+   "advertising"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
   "stage_changed": null
  },
  {
@@ -18484,8 +18931,43 @@
   "url": "https://openstates.org/nc/bills/2025/SB393/",
   "source_url": "https://www.ncleg.gov/BillLookUp/2025/S393",
   "topics": [],
-  "updated": "2026-03-17",
+  "updated": "2026-11-05",
   "first_seen": "2025-03-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c26e8d54-e98f-4fbe-b813-941503d5ad8a",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "SB 367",
+  "title": "Capital Project Funding at HBCUs.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "APPROPRIATIONS; BUDGETING; CAPITAL SPENDING; COLLEGES & UNIVERSITIES; EDUCATION; FUNDS & ACCOUNTS; GAMING; HIGHER EDUCATION; LOTTERY; MINORITIES; PRIVATE SCHOOLS; PUBLIC; LOTTERY FUND"
+  ],
+  "sponsors": [
+   "Robinson",
+   "Lowe",
+   "Smith",
+   "Theodros",
+   "Waddell"
+  ],
+  "introduced": "2025-03-20",
+  "latest_action_date": "2025-03-24",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/SB367/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/S367",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
   "stage_changed": null
  },
  {
@@ -19135,6 +19617,42 @@
   ],
   "updated": "2026-10-23",
   "first_seen": "2025-02-18",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/cf4d2f84-d13d-4325-8bf1-9201e7a29869",
+  "level": "state",
+  "jurisdiction": "North Carolina",
+  "jurisdiction_code": "nc",
+  "session": "2025",
+  "identifier": "HB 401",
+  "title": "Allow Lottery Winners to be Confidential.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "COMMISSIONS; CONFIDENTIALITY; GAMING; LOTTERY; PRIVACY; PUBLIC; REVENUE DEPT.; TAXATION; LOTTERY COMN."
+  ],
+  "sponsors": [
+   "Logan",
+   "Harrison",
+   "Hawkins",
+   "F. Jackson",
+   "Ager",
+   "Baker"
+  ],
+  "introduced": "2025-03-13",
+  "latest_action_date": "2025-03-17",
+  "latest_action": "Passed 1st Reading",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nc/bills/2025/HB401/",
+  "source_url": "https://www.ncleg.gov/BillLookUp/2025/H401",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-05",
+  "first_seen": "2026-11-06",
   "stage_changed": null
  },
  {

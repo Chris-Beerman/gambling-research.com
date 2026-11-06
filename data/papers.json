@@ -1,5 +1,512 @@
 [
  {
+  "id": "doi:10.1007/s41347-026-00755-8",
+  "doi": "10.1007/s41347-026-00755-8",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225320817",
+  "title": "Father-Child and Mother-Child Relationships and Online Gambling Problems Among Adolescents: The Mediating Role of Emotion Dysregulation",
+  "journal": "Journal of Technology in Behavioral Science",
+  "authors": [
+   "Nofrans Eka Saputra",
+   "Triantoro Safaria",
+   "Hadi Suyono"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "summary": "",
+  "url": "https://doi.org/10.1007/s41347-026-00755-8",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.tourman.2026.105559",
+  "doi": "10.1016/j.tourman.2026.105559",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225296322",
+  "title": "The economics of bundling in casino markets: Theory and evidence from U.S. gaming destinations",
+  "journal": "Tourism Management",
+  "authors": [
+   "Kahlil S. Philander"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.tourman.2026.105559",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/2006.2026.00113",
+  "doi": "10.1556/2006.2026.00113",
+  "pmid": "42986324",
+  "pmcid": null,
+  "openalex": "W7225307370",
+  "title": "Multidimensional loss chasing among online sports gamblers: Assessing the moderating effects of starting behaviors on harm prediction",
+  "journal": "Journal of Behavioral Addictions",
+  "authors": [
+   "Timothy C Edson",
+   "Matthew A Tom",
+   "Debi A LaPlante"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "summary": "Abstract Background and aims Loss chasing is a defining marker of problematic gambling however its relationship with gambling harms could be meaningfully influenced by other behaviors such as overall levels of involvement (i.e., average stake size, numbers of bets placed) …",
+  "url": "https://doi.org/10.1556/2006.2026.00113",
+  "oa_url": "https://doi.org/10.1556/2006.2026.00113",
+  "sources": [
+   "crossref",
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "self-exclusion"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.cobeha.2026.101697",
+  "doi": "10.1016/j.cobeha.2026.101697",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225225855",
+  "title": "High-performance cognition under uncertainty: lessons from poker and digital games",
+  "journal": "Current Opinion in Behavioral Sciences",
+  "authors": [
+   "Jussi Palomäki"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "summary": "Research on skilled performance has traditionally focused on domains where performance quality and outcomes are tightly coupled, such as chess or music. Many domains, however, involve genuine uncertainty — poker, digital games, and sports betting among them — where good decisions can produce poor outcomes, while poor decisions may occasionally be rewarded …",
+  "url": "https://doi.org/10.1016/j.cobeha.2026.101697",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S235215462600063X/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "review",
+  "topics": [
+   "sports-betting",
+   "casino",
+   "policy",
+   "cognition"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/2006.2026.00131",
+  "doi": "10.1556/2006.2026.00131",
+  "pmid": "42986348",
+  "pmcid": null,
+  "openalex": "W7154917323",
+  "title": "Genuine association or spurious responding? Experimental evidence on the correlation between cryptocurrency trading and problem gambling severity index scores",
+  "journal": "Journal of Behavioral Addictions",
+  "authors": [
+   "Maira Andrade",
+   "Leonardo Weiss-Cohen",
+   "Richard J E James",
+   "Leon Y Xiao",
+   "Philip Newall"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "summary": "Abstract Background and aims Cryptocurrency trading has become a popular activity worldwide, which has been correlated with harmful gambling as measured by the Problem Gambling Severity Index (PGSI) …",
+  "url": "https://doi.org/10.1556/2006.2026.00131",
+  "oa_url": "https://doi.org/10.1556/2006.2026.00131",
+  "sources": [
+   "crossref",
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "trading"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "GB",
+   "HK"
+  ],
+  "regions": [
+   "uk-ireland",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s11845-026-04710-7",
+  "doi": "10.1007/s11845-026-04710-7",
+  "pmid": "42986387",
+  "pmcid": null,
+  "openalex": "W7225343803",
+  "title": "Enough is enough: examining default online national lottery spending limits",
+  "journal": "Irish Journal of Medical Science",
+  "authors": [
+   "Amrutha Vijayan",
+   "Frank Houghton",
+   "Jennifer Moran Stritch",
+   "Daisy Houghton",
+   "Mia Daly",
+   "Anne Campbell"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "summary": "Gambling represents a substantial threat to a small proportion of the population. The National Lottery is routinely presented as a highly sanitised and almost philanthropic activity. However, the crucial role of the State in the National Lottery necessitates additional oversight to safeguard public health and vulnerable groups …",
+  "url": "https://doi.org/10.1007/s11845-026-04710-7",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "letter",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "pubmed",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "IE",
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s11149-026-09532-0",
+  "doi": "10.1007/s11149-026-09532-0",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225346613",
+  "title": "Did legalized sports betting hurt Las Vegas’s tourism?",
+  "journal": "Journal of Regulatory Economics",
+  "authors": [
+   "Brian Meehan",
+   "E. Frank Stephenson"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "summary": "Abstract The Supreme Court’s 2018 decision in Murphy v. NCAA struck down the 1992 law restricting legal sports betting to Nevada. Many states subsequently moved to legalize sports betting, with 38 plus the District of Columbia and Puerto Rico doing so by mid-2025 …",
+  "url": "https://doi.org/10.1007/s11149-026-09532-0",
+  "oa_url": "https://doi.org/10.1007/s11149-026-09532-0",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "policy",
+   "industry"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.5281/zenodo.23916624",
+  "doi": "10.5281/zenodo.23916624",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225189548",
+  "title": "STRENGTHENING DIGITAL AND ISLAMIC FINANCIAL LITERACY TO ADDRESS FRAUDULENT INVESTMENTS AND ONLINE GAMBLING AMONG DAYAH STUDENTS IN ACEH",
+  "journal": "IRPITAGE JOURNAL",
+  "authors": [
+   "Rico Nur Ilham",
+   "Irada Sinta",
+   "Muttaqien",
+   "Fuadi",
+   "Reza Juanda",
+   "Tahara Alsura"
+  ],
+  "published": "2026-11-03",
+  "year": 2026,
+  "created": "2026-11-04",
+  "first_seen": "2026-11-06",
+  "summary": "This article documents a participatory community service program on digital safety, fraudulent investments, and online gambling at Al Madinatuddiniyah Babul Huda Dayah, Padang Sakti, Lhokseumawe, Aceh, on 21 September 2026 …",
+  "url": "https://doi.org/10.5281/zenodo.23916624",
+  "oa_url": "https://radjapublika.com/index.php/IRPITAGE/article/view/6604",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1111/add.70638",
+  "doi": "10.1111/add.70638",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7167089499",
+  "title": "Missing the target: Young adults were wrongfully targeted by gambling ads on social media despite UK and Dutch regulations",
+  "journal": "Addiction",
+  "authors": [
+   "Leon Y. Xiao",
+   "Callum Deery",
+   "Lo Ching Yiu",
+   "Xiaoyao REN",
+   "Yuchen Huang",
+   "Harry Tattan‐Birch"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-07-03",
+  "first_seen": "2026-11-06",
+  "summary": "Background and Aims: Gambling advertising may harm young people, including both (i) under-18s who are legally not permitted to gamble and (ii) 18–24-year-olds who are permitted to gamble but are demonstrably more vulnerable to gambling harm than older adults …",
+  "url": "https://doi.org/10.1111/add.70638",
+  "oa_url": "https://doi.org/10.31219/osf.io/sbdfk_v1",
+  "sources": [
+   "feed:addiction",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "advertising",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "GB",
+   "NL"
+  ],
+  "setting_regions": [
+   "uk-ireland",
+   "europe"
+  ],
+  "countries": [
+   "HK",
+   "GB"
+  ],
+  "regions": [
+   "asia",
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1111/add.70656",
+  "doi": "10.1111/add.70656",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7163052003",
+  "title": "Behavioural economics of gambling harm: Gambling purchase demand and drift‐diffusion modelling of value‐based decision‐making",
+  "journal": "Addiction",
+  "authors": [
+   "Chenji Gu",
+   "Matt Field",
+   "Jamie Torrance",
+   "Martyn Quigley",
+   "Simon Dymond"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-06-02",
+  "first_seen": "2026-11-06",
+  "summary": "Gambling is highly prevalent in the UK and is associated with substantial harms at population level. According to the Gambling Survey for Great Britain (GSGB) Year 2 (2024), nearly half of adults (48%) gambled in the past four weeks, including lottery participation …",
+  "url": "https://doi.org/10.1111/add.70656",
+  "oa_url": "https://osf.io/7gyd2",
+  "sources": [
+   "feed:addiction",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [
+   "GB",
+   "IS"
+  ],
+  "regions": [
+   "uk-ireland",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.51867/aqssr.3.4.62",
+  "doi": "10.51867/aqssr.3.4.62",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225294293",
+  "title": "Examining the influence of gambling intensity on college students’ wellbeing and academic engagement: A case of Tanzania Public Service College (TPSC) Tanga",
+  "journal": "African Quarterly Social Science Review",
+  "authors": [
+   "Yuda Kyara*",
+   "Rashid Zawadi"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "summary": "This article explores the growing phenomenon of gambling among college students, focusing on how gambling intensity affects their well-being and academic engagement. Using a case study of Tanzania public service college (TPSC)-Tanga campus …",
+  "url": "https://doi.org/10.51867/aqssr.3.4.62",
+  "oa_url": "https://doi.org/10.51867/aqssr.3.4.62",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth"
+  ],
+  "designs": [
+   "survey",
+   "case-report"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TZ"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/09567976261490829",
   "doi": "10.1177/09567976261490829",
   "pmid": "42981298",
@@ -17,7 +524,7 @@
   "first_seen": "2026-11-05",
   "summary": "Xiang et al. concluded that the gambler's fallacy does not originate in biased beliefs. Reanalyzing their data, we arrived at the opposite conclusion …",
   "url": "https://doi.org/10.1177/09567976261490829",
-  "oa_url": "https://doi.org/10.2139/ssrn.7441481",
+  "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/09567976261490829?download=true",
   "sources": [
    "openalex",
    "pubmed"
@@ -98,7 +605,7 @@
   "year": 2026,
   "created": "2026-11-04",
   "first_seen": "2026-11-05",
-  "summary": "Abstract Aripiprazole is recommended as a first-line treatment for Tourette syndrome but has been associated with new-onset impulse control disorders, including pathological gambling, as highlighted by a 2016 Food and Drug Administration safety warning. Gambling disorder has rarely been reported in patients with Tourette syndrome receiving aripiprazole …",
+  "summary": "Abstract: Aripiprazole is recommended as a first-line treatment for Tourette syndrome but has been associated with new-onset impulse control disorders, including pathological gambling, as highlighted by a 2016 Food and Drug Administration safety warning. Gambling disorder has rarely been reported in patients with Tourette syndrome receiving aripiprazole …",
   "url": "https://doi.org/10.1055/a-2984-7514",
   "oa_url": null,
   "sources": [
@@ -212,7 +719,7 @@
   "pmcid": null,
   "openalex": "W7225159809",
   "title": "The Blade and the Gambler",
-  "journal": "The Mailer review/Mailer review",
+  "journal": "The Mailer Review",
   "authors": [
    "Michael K. Glenday"
   ],
@@ -291,12 +798,10 @@
    "canada"
   ],
   "countries": [
-   "CA",
-   "RS"
+   "CA"
   ],
   "regions": [
-   "canada",
-   "europe"
+   "canada"
   ],
   "language": "en",
   "relevance": "high",
@@ -326,7 +831,7 @@
   "first_seen": "2026-11-04",
   "summary": "Abstract Harmful gambling impacts not only the person who gambles but also their partners, families, and friends (affected others; AOs). Although interventions for AOs exist, effectiveness is modest, with little evidence available to guide the selection of intervention content …",
   "url": "https://doi.org/10.1007/s10899-026-10578-0",
-  "oa_url": "https://doi.org/10.1007/s10899-026-10578-0",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10578-0.pdf",
   "sources": [
    "crossref",
    "feed:jgs",
@@ -497,7 +1002,7 @@
   "first_seen": "2026-11-04",
   "summary": "Abstract Cognitive biases about randomness, such as the illusion of control and the gambler’s fallacy, are central to the widely-used cognitive models of disordered gambling …",
   "url": "https://doi.org/10.1007/s10899-026-10575-3",
-  "oa_url": "https://doi.org/10.1007/s10899-026-10575-3",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10575-3.pdf",
   "sources": [
    "crossref",
    "feed:jgs",
@@ -516,11 +1021,13 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
+   "CA",
    "DE",
    "GB",
    "BE"
   ],
   "regions": [
+   "canada",
    "europe",
    "uk-ireland"
   ],
@@ -1117,7 +1624,7 @@
    "trial",
    "survey"
   ],
-  "design_basis": "pubmed",
+  "design_basis": "rules",
   "settings": [
    "SG"
   ],
@@ -1922,7 +2429,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-05",
+  "published": "2027-01-06",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -2484,7 +2991,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-05",
+  "published": "2026-11-06",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -3364,7 +3871,7 @@
   "first_seen": "2026-10-25",
   "summary": "Online-offline gambling comparisons rarely distinguish debt occurrence from debt amount. Problem-stage gambling modality and recalled modality pathways were examined in relation to symptom severity and gambling-related debt …",
   "url": "https://doi.org/10.1159/ear/acrag013",
-  "oa_url": "https://doi.org/10.1159/ear/acrag013",
+  "oa_url": "https://karger.com/ear/article-pdf/doi/10.1159/ear/acrag013/4598243/000555039.pdf",
   "sources": [
    "openalex",
    "pubmed"
@@ -3965,7 +4472,7 @@
    "Maria Rosaria Anna Muscatello",
    "Adriano Schimmenti"
   ],
-  "published": "2026-10-05",
+  "published": "2026-10-06",
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
@@ -4571,7 +5078,7 @@
   "title": "Combatting gambling in Ireland: adopting demand and supply strategies from the fight against big tobacco and alcohol",
   "journal": "Irish Journal of Medical Science",
   "authors": [
-   "Frank Houghton",
+   "Frank Thomas Houghton",
    "Daisy Houghton",
    "Mia Daly",
    "Anne Campbell"
@@ -4587,15 +5094,12 @@
    "openalex",
    "pubmed"
   ],
-  "type": "letter",
+  "type": "article",
   "topics": [
-   "advertising",
    "comorbidity"
   ],
-  "designs": [
-   "commentary"
-  ],
-  "design_basis": "pubmed",
+  "designs": [],
+  "design_basis": "rules",
   "settings": [
    "IE"
   ],
@@ -6246,6 +6750,41 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1111/add.70626",
+  "doi": "10.1111/add.70626",
+  "pmid": "42885285",
+  "pmcid": null,
+  "openalex": "W7222501486",
+  "title": "System‐frame interventions to prevent gambling harms and beyond",
+  "journal": "Addiction",
+  "authors": [
+   "Tobias Hayer"
+  ],
+  "published": "2026-10-16",
+  "year": 2026,
+  "created": "2026-10-16",
+  "first_seen": "2026-10-16",
+  "summary": "Addiction, EarlyView.",
+  "url": "https://doi.org/10.1111/add.70626",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/add.70626",
+  "sources": [
+   "feed:addiction",
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.3928/02793695-20261008-01",
   "doi": "10.3928/02793695-20261008-01",
   "pmid": "42879692",
@@ -6283,47 +6822,6 @@
   "setting_regions": [],
   "countries": [
    "TR"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1111/add.70626",
-  "doi": "10.1111/add.70626",
-  "pmid": "42885285",
-  "pmcid": null,
-  "openalex": "W7222501486",
-  "title": "System‐frame interventions to prevent gambling harms and beyond",
-  "journal": "Addiction",
-  "authors": [
-   "Tobias Hayer"
-  ],
-  "published": "2026-10-15",
-  "year": 2026,
-  "created": "2026-10-17",
-  "first_seen": "2026-10-16",
-  "summary": "System-frame interventions to prevent gambling harms and beyondLiving environments should be designed in a way that promotes health.Evidence-based gambling addiction prevention, therefore, requires systemic (s-frame) interventions that are considered both effective and cost-efficient.Future research should not only evaluate the effects associated with …",
-  "url": "https://doi.org/10.1111/add.70626",
-  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/add.70626",
-  "sources": [
-   "feed:addiction",
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "prevention"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "DE"
   ],
   "regions": [
    "europe"
@@ -7313,17 +7811,12 @@
   "openalex": "W7221810164",
   "title": "Gambling, Discrimination, and Stressful Life Events among Substance Use Disorder Treatment Patients",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Anna Pagano",
-   "Nadra E. Lisha",
-   "Jennifer T. Le",
-   "Caravella McCuistian"
-  ],
+  "authors": [],
   "published": "2026-10-14",
   "year": 2026,
-  "created": "2026-10-15",
+  "created": "2026-10-14",
   "first_seen": "2026-10-14",
-  "summary": "Abstract People with addictive disorders are vulnerable to stigma and discrimination, which can impact addiction treatment outcomes through increased psychological distress and reduced self-efficacy …",
+  "summary": "People with addictive disorders are vulnerable to stigma and discrimination, which can impact addiction treatment outcomes through increased psychological distress and reduced self-efficacy …",
   "url": "https://doi.org/10.1007/s10899-026-10567-3",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10567-3.pdf",
   "sources": [
@@ -7349,7 +7842,7 @@
   ],
   "countries": [],
   "regions": [],
-  "language": "en",
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -8760,8 +9253,8 @@
  {
   "id": "doi:10.12688/wellcomeopenres.27602.1",
   "doi": "10.12688/wellcomeopenres.27602.1",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42984687",
+  "pmcid": "PMC13728439",
   "openalex": "W7220651352",
   "title": "Behind the Shirt: Examining Trends in the Commercial Relationships Between English Premier League Football Clubs and Gambling Companies",
   "journal": "Wellcome Open Research",
@@ -8771,13 +9264,14 @@
   ],
   "published": "2026-10-06",
   "year": 2026,
-  "created": "2026-10-07",
+  "created": "2026-11-05",
   "first_seen": "2026-10-07",
-  "summary": "Background In August 2026, the English Premier League (EPL) banned front-of-shirt gambling sponsorships to reduce gambling marketing exposure. Shirt sponsorship represents one aspect of broader commercial relationships between football clubs and gambling companies, often not covered by existing industry codes …",
+  "summary": "In August 2026, the English Premier League (EPL) banned front-of-shirt gambling sponsorships to reduce gambling marketing exposure. Shirt sponsorship represents one aspect of broader commercial relationships between football clubs and gambling companies, often not covered by existing industry codes …",
   "url": "https://doi.org/10.12688/wellcomeopenres.27602.1",
-  "oa_url": "https://doi.org/10.12688/wellcomeopenres.27602.1",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13728439/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -31891,35 +32385,54 @@
  {
   "id": "doi:10.1080/14459795.2026.2697457",
   "doi": "10.1080/14459795.2026.2697457",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "42985329",
+  "pmcid": "PMC13733637",
   "openalex": "W7167280652",
-  "title": "Exploring the relationship between Positive Play and perceived knowledge in traditional sports gambling",
+  "title": "Exploring the Relationship Between Positive Play and Perceived Knowledge in Traditional Sports Gambling",
   "journal": "International Gambling Studies",
   "authors": [
-   "Alexander J. Connolly Rakin Faruk Jennifer T. Grant Weinandy Lindsay M. Stall Shane W. Kraus Joshua B. Grubbs a Center on Alcohol, Substance Use, And Addictions (CASAA), University of New Mexico, Albuquerque, New Mexico, USAb Independent Scholar, Albuquerque, New Mexico, USAc Department of Psychology, Ohio University, Athens, Ohio, USAd Department of Psychology, University of South Florida, Tampa, Florida, USAe Department of Psychology, University of Nevada Las Vegas, Las Vegas, NV, USAAlexander Connolly, M.A.: Alex Connolly is currently a Ph.D. candidate at the University of New Mexico where he studies responsible and problem gambling under the advisement of Dr Joshua Grubbs.Rakin Faruk, B.S.: Rakin Faruk graduated in 2024 from the University of New Mexico and is currently an independent scholar.Jennifer T. Grant Weinandy, Ph.D.: Dr Grant Weinandy is an Assistant Professor at Ohio University, where she uses mixed methods to study perceptions and experiences of addictions and addiction treatment in adults.Lindsay M. Stall, M.A.: Lindsay Stall is currently a Ph.D. student at the University of South Florida, where she studies externalizing behaviors.Shane W. Kraus, Ph.D.: Dr. Kraus is an Associate Professor at the University of Nevada Las Vegas, where he studies psychopathology, substance use disorders, gambling disorder, and compulsive sexual behavior disorder.Joshua B. Grubbs, Ph.D.: Dr Grubbs is an Associate Professor at the University of New Mexico where he studies compulsive sexual behavior disorder, gambling disorder, and personality traits. In addition, Dr Grubbs is an investigator at the Center on Alcohol, Substance Use, and Addictions."
+   "Alexander J Connolly",
+   "Rakin Faruk",
+   "Jennifer T Grant Weainandy",
+   "Lindsay M Stall",
+   "Shane W Kraus",
+   "Joshua B Grubbs"
   ],
   "published": "2026-07-03",
   "year": 2026,
-  "created": "2026-07-03",
+  "created": "2026-11-05",
   "first_seen": "2026-07-03",
-  "summary": ".",
+  "summary": "The growing accessibility of gambling in the United States, fueled by legalization and online platforms, has increased the need to examine both problem and responsible gambling, particularly among sports gamblers. Sports betting is often viewed as a skill-based activity, in which knowledge and skill are perceived to influence betting outcomes …",
   "url": "https://doi.org/10.1080/14459795.2026.2697457",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13733637/",
   "sources": [
    "crossref",
    "feed:igs",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
-  "topics": [],
-  "designs": [],
+  "topics": [
+   "sports-betting",
+   "prevention"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
   "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": null,
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -100927,6 +101440,52 @@
   "retracted": false
  },
  {
+  "id": "doi:10.2196/87126",
+  "doi": "10.2196/87126",
+  "pmid": "42986417",
+  "pmcid": null,
+  "openalex": "W7168133854",
+  "title": "A Wise Intervention for Adolescents Who Purchase Loot Boxes (WISEBOx): Pilot Study",
+  "journal": "JMIR formative research",
+  "authors": [
+   "Joaquín González-Cabrera",
+   "Vanessa Caba-Machado",
+   "Francisco J Sanmartín",
+   "Juan Antonio Moriana",
+   "Teresa Galán-Luque",
+   "Juan Manuel Machimbarrena"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2025-11-05",
+  "summary": "In this 1-group pretest-posttest pilot of WISEBOx (Wise Intervention for Adolescents Who Purchase Loot Boxes) with adolescents who had previously purchased loot boxes (N=38), fewer participants reported purchasing loot boxes at the 1-month posttest than in the year before baseline …",
+  "url": "https://doi.org/10.2196/87126",
+  "oa_url": "https://doi.org/10.2196/87126",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "youth"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s00213-025-06937-1",
   "doi": "10.1007/s00213-025-06937-1",
   "pmid": "41193859",
@@ -101253,47 +101812,6 @@
   "regions": [
    "europe"
   ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.2196/87126",
-  "doi": "10.2196/87126",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7168133854",
-  "title": "A Wise Intervention for Adolescents Who Purchase Loot Boxes (WISEBOx): Pilot Study (Preprint)",
-  "journal": "JMIR Formative Research",
-  "authors": [
-   "Joaquin Manuel González‐Cabrera",
-   "Vanessa Caba‐Machado",
-   "Francisco Javier Sanmartín",
-   "Juan Antonio Moriana",
-   "Teresa Galán‐Luque",
-   "Juan Manuel Machimbarrena"
-  ],
-  "published": "2025-11-05",
-  "year": 2025,
-  "created": "2026-07-14",
-  "first_seen": "2025-11-05",
-  "summary": "",
-  "url": "https://doi.org/10.2196/87126",
-  "oa_url": "https://doi.org/10.2196/87126",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "loot-boxes",
-   "youth"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -209391,49 +209909,6 @@
    "europe"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.47576/2949-1878.2024.7.7.023",
-  "doi": "10.47576/2949-1878.2024.7.7.023",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4401960785",
-  "title": "Сравнительное исследование противодействия участию в незаконных азартных играх по законодательству некоторых исламских стран и России",
-  "journal": "Journal of Applied Research",
-  "authors": [
-   "Анцыгин Алексей Валерьевич"
-  ],
-  "published": "2024-07-30",
-  "year": 2024,
-  "created": "2024-08-29",
-  "first_seen": "2024-07-30",
-  "summary": "Цель работы состоит в исследовании правового материала исламских стран Азии, Африки и Ближнего Востока о регулировании отношений по организации, проведению и участию в азартных играх. На основе сопоставления нормативных актов выработаны рекомендации о внесении дополнений в действующее законодательство …",
-  "url": "https://doi.org/10.47576/2949-1878.2024.7.7.023",
-  "oa_url": null,
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "RU"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [
-   "RU"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "ru",
   "relevance": "high",
   "retracted": false
  },

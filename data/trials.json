@@ -1,5 +1,135 @@
 [
  {
+  "id": "NCT07923032",
+  "registry": "clinicaltrials",
+  "registry_label": "ClinicalTrials.gov",
+  "kind": "trial",
+  "title": "Low-Intensity Focused Ultrasound for Gambling Disorder",
+  "status": "not-yet-recruiting",
+  "study_type": "interventional",
+  "phases": [],
+  "enrollment": 54,
+  "conditions": [
+   "Gambling Disorder",
+   "Gambling Addiction",
+   "Gambling Problem",
+   "Gambling"
+  ],
+  "interventions": [
+   "device: Active Low-Intensity Focused Ultrasound (LIFU)",
+   "device: Sham Low-Intensity Focused Ultrasound (LIFU)"
+  ],
+  "sponsor": "University of Virginia",
+  "sponsor_class": "other",
+  "collaborators": [
+   "NaviFUS Corporation"
+  ],
+  "countries": [
+   "US"
+  ],
+  "country_names": [
+   "United States"
+  ],
+  "regions": [
+   "us"
+  ],
+  "start_date": "2027-02-01",
+  "completion_date": "2028-12-01",
+  "first_posted": "2026-11-06",
+  "last_updated": "2026-11-06",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The goal of this clinical trial is to learn whether low-intensity focused ultrasound (LIFU) is safe and may help reduce gambling-related symptoms in adults seeking treatment for gambling disorder …",
+  "url": "https://clinicaltrials.gov/study/NCT07923032",
+  "registration_type": "",
+  "authors": [],
+  "topics": [
+   "treatment",
+   "cognition"
+  ],
+  "designs": [
+   "trial"
+  ],
+  "first_seen": "2026-11-06",
+  "status_changed": null
+ },
+ {
+  "id": "osf:uvrkz",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Prediction markets in the 2026 US midterm elections: dated note on the forecaster board and follow-up analyses fixed before certification",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-05",
+  "last_updated": "2026-11-05",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "A dated note on the 2026 midterm forecaster board registered at 10.17605/OSF.IO/JWERM, and five follow-up analyses of the market prices fixed on 5 November 2026, after the vote and before certification, by Vultax Research, Tallinn.",
+  "url": "https://osf.io/uvrkz/",
+  "registration_type": "Open-Ended Registration",
+  "authors": [
+   "Christopher Geneth Kurg"
+  ],
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [],
+  "first_seen": "2026-11-06",
+  "status_changed": null
+ },
+ {
+  "id": "osf:jwerm",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Prediction markets and forecasters in the 2026 US midterm elections: protocols frozen before the vote",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-10-27",
+  "last_updated": "2026-11-05",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The scoring protocol of the Polymarket 2026 midterm scorecard (frozen 17 October 2026 at 03:34:08 UTC; 13,186 contracts in 1,352 events; manifest SHA-256 5b607bded8bd47c8f41ec083f54d6319d7178027c7914c64ab77f069c4a79dca) and the pre-registration of the 2026 midterm forecaster board (version 1 …",
+  "url": "https://osf.io/jwerm/",
+  "registration_type": "Open-Ended Registration",
+  "authors": [
+   "Christopher Geneth Kurg"
+  ],
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [
+   "protocol"
+  ],
+  "first_seen": "2026-10-28",
+  "status_changed": null
+ },
+ {
   "id": "osf:f2ez6",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -345,45 +475,6 @@
   "designs": [
    "protocol",
    "review"
-  ],
-  "first_seen": "2026-10-28",
-  "status_changed": null
- },
- {
-  "id": "osf:jwerm",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Prediction markets and forecasters in the 2026 US midterm elections: protocols frozen before the vote",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2026-10-27",
-  "last_updated": "2026-10-27",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "The scoring protocol of the Polymarket 2026 midterm scorecard (frozen 17 October 2026 at 03:34:08 UTC; 13,186 contracts in 1,352 events; manifest SHA-256 5b607bded8bd47c8f41ec083f54d6319d7178027c7914c64ab77f069c4a79dca) and the pre-registration of the 2026 midterm forecaster board (version 1 …",
-  "url": "https://osf.io/jwerm/",
-  "registration_type": "Open-Ended Registration",
-  "authors": [
-   "Christopher Geneth Kurg"
-  ],
-  "topics": [
-   "prediction-markets"
-  ],
-  "designs": [
-   "protocol"
   ],
   "first_seen": "2026-10-28",
   "status_changed": null
