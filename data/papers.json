@@ -1,5 +1,264 @@
 [
  {
+  "id": "doi:10.1080/14459795.2026.2755593",
+  "doi": "10.1080/14459795.2026.2755593",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225414670",
+  "title": "‘I was just trying to get money’: adolescent gambling, economic pressures, and psychological consequences in Nigeria’s hustle culture",
+  "journal": "International Gambling Studies",
+  "authors": [
+   "Ezekiel Oghenetejiri Aruoture",
+   "Oluwadamilola Adeola Akinyemi",
+   "Shyngle Kolawole Balogun"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-07",
+  "summary": "Adolescents in economically constrained urban settings may encounter gambling within social environments shaped by financial pressure, peer influence, and aspirations for rapid financial success. This qualitative study explored adolescents’ gambling experiences in Lagos State, Nigeria …",
+  "url": "https://doi.org/10.1080/14459795.2026.2755593",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:igs",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "NG"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [
+   "NG"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/math14214071",
+  "doi": "10.3390/math14214071",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225407776",
+  "title": "Two-Way Price Discovery Between a Cryptocurrency-Based Prediction Market and Federal Funds Futures: Evidence from FOMC Decisions",
+  "journal": "Mathematics",
+  "authors": [
+   "Marcus Alexis Giannopoulos",
+   "Giovanni Millo"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "summary": "Expectations about policy rates play a central role in financial and insurance markets …",
+  "url": "https://doi.org/10.3390/math14214071",
+  "oa_url": "https://doi.org/10.3390/math14214071",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets",
+   "trading"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1002/adaw.35105",
+  "doi": "10.1002/adaw.35105",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225399209",
+  "title": "Parents worry, but few talk: Gambling and teens",
+  "journal": "Alcoholism & Drug Abuse Weekly",
+  "authors": [
+   "Alison Knopf"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "summary": "Most parents are worried about teenage gambling, but only half actually discuss it with their children, according to a national survey conducted by The Harris Poll on behalf of the National Council on Problem Gambling (NCPG). The poll found that 64% of parents with children under 18 are concerned about their children's gambling activities.",
+  "url": "https://doi.org/10.1002/adaw.35105",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "families"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/23311975.2026.2759480",
+  "doi": "10.1080/23311975.2026.2759480",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225407285",
+  "title": "From awareness to action: mapping online gambling prevention and treatment research through a social marketing lens",
+  "journal": "Cogent Business & Management",
+  "authors": [
+   "Ari Irawan",
+   "Taufiq Ismail"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "summary": "Social marketing interventions have emerged as important approaches for addressing online gambling-related harm, particularly amid the proliferation of digital gambling platforms and sophisticated marketing practices. However, existing bibliometric studies on gambling prevention have paid limited attention to the social marketing dimensions …",
+  "url": "https://doi.org/10.1080/23311975.2026.2759480",
+  "oa_url": "https://doi.org/10.1080/23311975.2026.2759480",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "treatment",
+   "prevention",
+   "advertising"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.biopsycho.2026.109422",
+  "doi": "10.1016/j.biopsycho.2026.109422",
+  "pmid": "42994783",
+  "pmcid": null,
+  "openalex": "W7225409512",
+  "title": "Anticipatory Cardiac Deceleration Is Related to Cautious Decision-Making after Threat Image Exposure",
+  "journal": "Biological Psychology",
+  "authors": [
+   "Leeann Runkle",
+   "Nina Lauharatanahirun",
+   "Sonia Cavigelli",
+   "Derek P Spangler"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-07",
+  "summary": "Cautious decision-making can be an adaptive tendency in stressful environments and in certain individuals. We hypothesized that cautious decision-making is supported by anticipatory cardiac deceleration (ACD)- a brief cardiac slowing tied to preparation and action readiness …",
+  "url": "https://doi.org/10.1016/j.biopsycho.2026.109422",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "title:b2dc7f6a61839131",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225442341",
+  "title": "Pola Komunikasi Remaja dalam Menghadapi Ayah yang Kecanduan Judi Online di Kelurahan Pangkalan Balai",
+  "journal": "Jurnal Abdimas Peradaban",
+  "authors": [
+   "Yuyun Sukowati",
+   "Eraskaita Ginting",
+   "Putri Citra Hati"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "summary": "Abstract Online gambling can affect family relationships, particularly interpersonal communication between adolescents and their fathers. Fathers’ involvement in online gambling may cause emotional distress, reduce opportunities for interaction, and discourage adolescents from openly expressing their feelings and opinions …",
+  "url": "https://jurnaldialektika.com/index.php/piani/article/view/1215",
+  "oa_url": "https://jurnaldialektika.com/index.php/piani/article/view/1215",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s41347-026-00755-8",
   "doi": "10.1007/s41347-026-00755-8",
   "pmid": null,
@@ -31,8 +290,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -70,8 +333,12 @@
   "setting_regions": [
    "us"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -331,7 +598,7 @@
   "first_seen": "2026-11-06",
   "summary": "This article documents a participatory community service program on digital safety, fraudulent investments, and online gambling at Al Madinatuddiniyah Babul Huda Dayah, Padang Sakti, Lhokseumawe, Aceh, on 21 September 2026 …",
   "url": "https://doi.org/10.5281/zenodo.23916624",
-  "oa_url": "https://radjapublika.com/index.php/IRPITAGE/article/view/6604",
+  "oa_url": "https://radjapublika.com/index.php/IRPITAGE/article/download/6604/5583",
   "sources": [
    "openalex"
   ],
@@ -377,7 +644,7 @@
   "first_seen": "2026-11-06",
   "summary": "Background and Aims: Gambling advertising may harm young people, including both (i) under-18s who are legally not permitted to gamble and (ii) 18–24-year-olds who are permitted to gamble but are demonstrably more vulnerable to gambling harm than older adults …",
   "url": "https://doi.org/10.1111/add.70638",
-  "oa_url": "https://doi.org/10.31219/osf.io/sbdfk_v1",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/add.70638",
   "sources": [
    "feed:addiction",
    "openalex"
@@ -431,7 +698,7 @@
   "first_seen": "2026-11-06",
   "summary": "Gambling is highly prevalent in the UK and is associated with substantial harms at population level. According to the Gambling Survey for Great Britain (GSGB) Year 2 (2024), nearly half of adults (48%) gambled in the past four weeks, including lottery participation …",
   "url": "https://doi.org/10.1111/add.70656",
-  "oa_url": "https://osf.io/7gyd2",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/add.70656",
   "sources": [
    "feed:addiction",
    "openalex"
@@ -481,7 +748,7 @@
   "first_seen": "2026-11-06",
   "summary": "This article explores the growing phenomenon of gambling among college students, focusing on how gambling intensity affects their well-being and academic engagement. Using a case study of Tanzania public service college (TPSC)-Tanga campus …",
   "url": "https://doi.org/10.51867/aqssr.3.4.62",
-  "oa_url": "https://doi.org/10.51867/aqssr.3.4.62",
+  "oa_url": "https://quarterlyreview.net/ojs/index.php/aqssr/article/download/814/463",
   "sources": [
    "openalex"
   ],
@@ -2379,7 +2646,7 @@
   "year": null,
   "created": null,
   "first_seen": "2026-11-01",
-  "summary": "Publication date: Available online 30 October 2026 Source: Addictive Behaviors Author(s): Colleen Verwacht, Nellia Bellaert, Aurélien Cornil, Thomas Brihaye, Federico Cassioli, Mandy Rossignol",
+  "summary": "Publication date: February 2027 Source: Addictive Behaviors, Volume 185 Author(s): Colleen Verwacht, Nellia Bellaert, Aurélien Cornil, Thomas Brihaye, Federico Cassioli, Mandy Rossignol",
   "url": "https://www.sciencedirect.com/science/article/pii/S030646032600300X?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
@@ -2429,7 +2696,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-06",
+  "published": "2027-01-07",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -2991,7 +3258,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-06",
+  "published": "2026-11-07",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -4150,13 +4417,13 @@
   "title": "Preventing Gambling Among Adolescents: An Umbrella Review of School-Based Prevention Programmes",
   "journal": "Journal of Prevention",
   "authors": [
-   "V Cabrera-Perona",
-   "S Tirado González",
-   "D Lloret-Irles"
+   "Víctor Cabrera‐Perona",
+   "Sonia Tirado González",
+   "Daniel Lloret Irles"
   ],
   "published": "2026-10-23",
   "year": 2026,
-  "created": "2026-10-23",
+  "created": "2026-10-24",
   "first_seen": "2026-10-24",
   "summary": "In recent years, both land-based and online gambling have become increasingly normalised and socially accepted activities. Despite legal restrictions aimed at preventing underage access, evidence confirms concerning prevalence rates among adolescents …",
   "url": "https://doi.org/10.1007/s10935-026-00957-z",
@@ -4167,14 +4434,13 @@
   ],
   "type": "review",
   "topics": [
-   "online-gambling",
    "youth",
    "prevention"
   ],
   "designs": [
    "review"
   ],
-  "design_basis": "pubmed",
+  "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
   "countries": [
@@ -4329,7 +4595,7 @@
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-24",
-  "summary": "Lottery participation may be associated with both beneficial and detrimental consequences relevant to individuals' health, well-being, and daily functioning, reflecting a double-edged phenomenon. Understanding the psychological factors associated with these divergent consequences is important for promoting responsible lottery participation …",
+  "summary": "Lottery participation may be associated with both beneficial and detrimental consequences relevant to individuals’ health, well-being, and daily functioning, reflecting a double-edged phenomenon. Understanding the psychological factors associated with these divergent consequences is important for promoting responsible lottery participation …",
   "url": "https://doi.org/10.1007/s10899-026-10569-1",
   "oa_url": null,
   "sources": [
@@ -4364,12 +4630,12 @@
   "id": "doi:10.1371/journal.pone.0360886",
   "doi": "10.1371/journal.pone.0360886",
   "pmid": "42911903",
-  "pmcid": "PMC13690192",
+  "pmcid": "13690192",
   "openalex": "W7223237270",
   "title": "Expression of Concern: In quest of China sports lottery development path to common prosperity in 2035",
   "journal": "PLOS ONE",
   "authors": [
-   "PLOS One Editors"
+   "The PLOS One Editors"
   ],
   "published": "2026-10-22",
   "year": 2026,
@@ -4377,7 +4643,7 @@
   "first_seen": "2026-10-24",
   "summary": "",
   "url": "https://doi.org/10.1371/journal.pone.0360886",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690192/",
+  "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0360886&type=printable",
   "sources": [
    "openalex",
    "pubmed"
@@ -4512,10 +4778,10 @@
   "pmcid": null,
   "openalex": "W7223177993",
   "title": "The Coroners and Justice Act of 2009 and the postcode lottery",
-  "journal": "The Medico-legal journal",
+  "journal": "Medico-Legal Journal",
   "authors": [
    "Samrddh Bengeri",
-   "Emyr W Benbow"
+   "Emyr Wyn Benbow"
   ],
   "published": "2026-10-22",
   "year": 2026,
@@ -4569,7 +4835,7 @@
   ],
   "published": "2026-10-22",
   "year": 2026,
-  "created": "2026-10-23",
+  "created": "2026-10-22",
   "first_seen": "2026-10-23",
   "summary": "Gambling is rapidly expanding across Africa, particularly through sports betting. However in Benin, data on gambling behaviors among adolescents is scarce. This study aimed to estimate the prevalence of problem gambling and identify associated factors among secondary school students in Benin …",
   "url": "https://doi.org/10.1007/s10899-026-10559-3",
@@ -5022,18 +5288,18 @@
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Youssef Allami",
-   "Robert J Williams",
-   "Darren R Christensen",
-   "Carrie A Shaw",
-   "Daniel S McGrath",
-   "Rhys M G Stevens",
+   "Robert J. Williams",
+   "Darren R. Christensen",
+   "Carrie A. Shaw",
+   "Daniel S. McGrath",
+   "Rhys M.G. Stevens",
    "Fiona Nicoll",
-   "Hyoun S Kim",
-   "David C Hodgins"
+   "Hyoun S. Kim",
+   "David C. Hodgins"
   ],
   "published": "2026-10-22",
   "year": 2026,
-  "created": "2026-10-23",
+  "created": "2026-10-22",
   "first_seen": "2026-10-22",
   "summary": "Voluntary self-exclusion (VSE) is a widely available harm-reduction strategy for individuals experiencing gambling-related harm. However, little is known about factors associated with VSE awareness and utilisation, or gambling during the self-exclusion period …",
   "url": "https://doi.org/10.1007/s10899-026-10570-8",
@@ -10369,6 +10635,60 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1016/j.abrep.2026.100764",
+  "doi": "10.1016/j.abrep.2026.100764",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223198400",
+  "title": "Longitudinal associations between adverse childhood experiences and moderate-risk to problem gambling in young adulthood: A prospective UK cohort study",
+  "journal": "Addictive Behaviors Reports",
+  "authors": [
+   "Emily Patterson",
+   "Raffaello Rossi",
+   "Hannah Sallis",
+   "Emma Dennie",
+   "Laura D Howe",
+   "Alan Martin Emond",
+   "Annie Herbert"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-10-23",
+  "first_seen": "2026-10-01",
+  "summary": "Abstract Previous research links Adverse Childhood Experiences (ACEs) with problem gambling, but most studies rely on retrospective reporting and focus narrowly on maltreatment, overlooking adversities such as parental mental health issues …",
+  "url": "https://doi.org/10.1016/j.abrep.2026.100764",
+  "oa_url": "https://doi.org/10.1016/j.abrep.2026.100764",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "families"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "regions": [
+   "uk-ireland",
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/25725300261493692",
   "doi": "10.1177/25725300261493692",
   "pmid": null,
@@ -10503,60 +10823,6 @@
   ],
   "regions": [
    "asia"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1016/j.abrep.2026.100764",
-  "doi": "10.1016/j.abrep.2026.100764",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7223198400",
-  "title": "Longitudinal associations between adverse childhood experiences and moderate-risk to problem gambling in young adulthood: A prospective UK cohort study",
-  "journal": "Addictive Behaviors Reports",
-  "authors": [
-   "Emily Patterson",
-   "Raffaello Rossi",
-   "Hannah Sallis",
-   "Emma Dennie",
-   "Laura D Howe",
-   "Alan Martin Emond",
-   "Annie Herbert"
-  ],
-  "published": "2026-10-01",
-  "year": 2026,
-  "created": "2026-10-23",
-  "first_seen": "2026-10-01",
-  "summary": "Previous research links Adverse Childhood Experiences (ACEs) with problem gambling, but most studies rely on retrospective reporting and focus narrowly on maltreatment, overlooking adversities such as parental mental health issues …",
-  "url": "https://doi.org/10.1016/j.abrep.2026.100764",
-  "oa_url": "https://doi.org/10.1016/j.abrep.2026.100764",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "youth",
-   "families"
-  ],
-  "designs": [
-   "longitudinal"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "GB"
-  ],
-  "setting_regions": [
-   "uk-ireland"
-  ],
-  "countries": [
-   "GB",
-   "US"
-  ],
-  "regions": [
-   "uk-ireland",
-   "us"
   ],
   "language": "en",
   "relevance": "high",
@@ -101443,7 +101709,7 @@
   "id": "doi:10.2196/87126",
   "doi": "10.2196/87126",
   "pmid": "42986417",
-  "pmcid": null,
+  "pmcid": "PMC13738161",
   "openalex": "W7168133854",
   "title": "A Wise Intervention for Adolescents Who Purchase Loot Boxes (WISEBOx): Pilot Study",
   "journal": "JMIR formative research",
@@ -101461,7 +101727,7 @@
   "first_seen": "2025-11-05",
   "summary": "In this 1-group pretest-posttest pilot of WISEBOx (Wise Intervention for Adolescents Who Purchase Loot Boxes) with adolescents who had previously purchased loot boxes (N=38), fewer participants reported purchasing loot boxes at the 1-month posttest than in the year before baseline …",
   "url": "https://doi.org/10.2196/87126",
-  "oa_url": "https://doi.org/10.2196/87126",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13738161/",
   "sources": [
    "openalex",
    "pubmed"
@@ -192727,43 +192993,6 @@
   ],
   "language": "it",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.32782/lst/2024-3-12",
-  "doi": "10.32782/lst/2024-3-12",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4403763995",
-  "title": "ДОСВІД ВЕЛИКОБРИТАНІЇ У АДМІНІСТРАТИВНО-ПРАВОВОМУ РЕГУЛЮВАННІ ДІЯЛЬНОСТІ У СФЕРІ ОРГАНІЗАЦІЇ ТА ПРОВЕДЕННЯ АЗАРТНИХ ІГОР",
-  "journal": "Law State Technology",
-  "authors": [
-   "Наталія ЮДІНА"
-  ],
-  "published": "2024-10-25",
-  "year": 2024,
-  "created": "2025-10-10",
-  "first_seen": "2024-10-25",
-  "summary": "Метою статті є висвітлення досвіду нормативного регулювання діяльності із організації та проведення азартних ігор у Великобританії задля пошуку напрямів його впровадження в Україні …",
-  "url": "https://doi.org/10.32782/lst/2024-3-12",
-  "oa_url": "https://journals.politehnica.dp.ua/index.php/lst/article/download/629/559",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "UA"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "uk",
-  "relevance": "high",
   "retracted": false
  },
  {
