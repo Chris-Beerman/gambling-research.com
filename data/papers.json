@@ -1,5 +1,48 @@
 [
  {
+  "id": "doi:10.55681/ijssh.v4i3.4649",
+  "doi": "10.55681/ijssh.v4i3.4649",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225412410",
+  "title": "Crisis Communication Strategy of the Ministry of Communication and Digital Affairs (Komdigi) in Handling Cases of Internal Staff Involvement in Online Gambling Site Licensing",
+  "journal": "International Journal of Social Sciences and Humanities",
+  "authors": [
+   "Ivan Hady Fadhila",
+   "Pitoyo"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-08",
+  "summary": "This study aims to analyze the crisis communication strategy implemented by the Ministry of Communication and Digital Affairs (Komdigi) in handling cases of internal staff involvement in online gambling site licensing, which was revealed in October 2024. The research employed a qualitative method with a case study design …",
+  "url": "https://doi.org/10.55681/ijssh.v4i3.4649",
+  "oa_url": "https://ejournal.45mataram.ac.id/index.php/ijssh/article/download/4649/3909",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1080/14459795.2026.2755593",
   "doi": "10.1080/14459795.2026.2755593",
   "pmid": null,
@@ -546,7 +589,7 @@
   "first_seen": "2026-11-06",
   "summary": "Abstract The Supreme Court’s 2018 decision in Murphy v. NCAA struck down the 1992 law restricting legal sports betting to Nevada. Many states subsequently moved to legalize sports betting, with 38 plus the District of Columbia and Puerto Rico doing so by mid-2025 …",
   "url": "https://doi.org/10.1007/s11149-026-09532-0",
-  "oa_url": "https://doi.org/10.1007/s11149-026-09532-0",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s11149-026-09532-0.pdf",
   "sources": [
    "openalex"
   ],
@@ -2361,6 +2404,54 @@
   "retracted": false
  },
  {
+  "id": "title:8cb81ac038a10667",
+  "doi": "10.1016/j.addbeh.2026.108890",
+  "pmid": "42998323",
+  "pmcid": null,
+  "openalex": null,
+  "title": "A systematic review on cognitive distortions in gambling activities and gambling disorder",
+  "journal": "Addictive Behaviors",
+  "authors": [
+   "Colleen Verwacht",
+   "Nellia Bellaert",
+   "Aurélien Cornil",
+   "Thomas Brihaye",
+   "Federico Cassioli",
+   "Mandy Rossignol"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-01",
+  "summary": "Purpose Of Review: Gambling involves placing irreversible bets on uncertain outcomes primarily governed by chance. Cognitive distortions, such as the gambler's fallacy and the illusion of control, can encourage persistent gambling despite financial losses and contribute to gambling disorder …",
+  "url": "https://doi.org/10.1016/j.addbeh.2026.108890",
+  "oa_url": null,
+  "sources": [
+   "feed:addictive-behaviors",
+   "pubmed"
+  ],
+  "type": "review",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "pubmed",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "FR",
+   "BE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.38035/snlpr.v3i1.1248",
   "doi": "10.38035/snlpr.v3i1.1248",
   "pmid": null,
@@ -2634,41 +2725,6 @@
   "retracted": false
  },
  {
-  "id": "title:8cb81ac038a10667",
-  "doi": null,
-  "pmid": null,
-  "pmcid": null,
-  "openalex": null,
-  "title": "A systematic review on cognitive distortions in gambling activities and gambling disorder",
-  "journal": "Addictive Behaviors",
-  "authors": [],
-  "published": null,
-  "year": null,
-  "created": null,
-  "first_seen": "2026-11-01",
-  "summary": "Publication date: February 2027 Source: Addictive Behaviors, Volume 185 Author(s): Colleen Verwacht, Nellia Bellaert, Aurélien Cornil, Thomas Brihaye, Federico Cassioli, Mandy Rossignol",
-  "url": "https://www.sciencedirect.com/science/article/pii/S030646032600300X?dgcid=rss_sd_all",
-  "oa_url": null,
-  "sources": [
-   "feed:addictive-behaviors"
-  ],
-  "type": "article",
-  "topics": [
-   "cognition"
-  ],
-  "designs": [
-   "review"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": null,
-  "relevance": "high",
-  "retracted": false
- },
- {
   "id": "doi:10.1002/hpja.70270",
   "doi": "10.1002/hpja.70270",
   "pmid": "42963140",
@@ -2696,7 +2752,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-07",
+  "published": "2027-01-08",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -3258,7 +3314,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-07",
+  "published": "2026-11-08",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -183044,42 +183100,6 @@
   ],
   "language": "en",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.63944/gm4gqs25",
-  "doi": "10.63944/gm4gqs25",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4411509123",
-  "title": "“非典型＂開設賭場行為的定罪和量刑探析",
-  "journal": "國際人文社科研究",
-  "authors": [
-   "肖權東",
-   "駱菲菲",
-   "龍耀軍",
-   "許順福"
-  ],
-  "published": "2024-12-15",
-  "year": 2024,
-  "created": "2025-10-10",
-  "first_seen": "2024-12-15",
-  "summary": "The physical behavior of opening a casino can be divided into typical and atypical behaviors. The atypical act of allowing others to profit from the operation of gambling machines by the perpetrator is substantially different from the implementation behavior stipulated in judicial interpretations, and its subjective malice is relatively light …",
-  "url": "https://doi.org/10.63944/gm4gqs25",
-  "oa_url": "http://ojs.iajournals.cn/index.php/ishss/article/download/70/60",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": "en",
-  "relevance": "high",
   "retracted": false
  },
  {
