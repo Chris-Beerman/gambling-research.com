@@ -1,5 +1,192 @@
 [
  {
+  "id": "doi:10.5281/zenodo.24034482",
+  "doi": "10.5281/zenodo.24034482",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225453970",
+  "title": "Social Media's Influence on Scatter Gambling at Cagayan State University (CSU) Sanchez Mira Campus",
+  "journal": "International Journal of Education, Research, and Innovation Perspectives",
+  "authors": [
+   "Ria Joy Agno"
+  ],
+  "published": "2026-11-07",
+  "year": 2026,
+  "created": "2026-11-08",
+  "first_seen": "2026-11-09",
+  "summary": "This study explored the influence of social media on students’ engagement in scatter gambling and its perceived impacts among Criminology students at Cagayan State University–Sanchez Mira Campus, Philippines, and used the findings as the basis for a proposed intervention program for the College of Criminal Justice Education (CCJE) …",
+  "url": "https://doi.org/10.5281/zenodo.24034482",
+  "oa_url": "https://doi.org/10.5281/zenodo.24034482",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "advertising",
+   "cognition",
+   "families",
+   "lived-experience"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "PH"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "PH"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.37284/eajle.9.4.6222",
+  "doi": "10.37284/eajle.9.4.6222",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225453739",
+  "title": "Effectiveness of the Legal Framework in Prohibiting Sports Betting to Minors in Tanzania",
+  "journal": "East African Journal of Law and Ethics",
+  "authors": [
+   "Jacob Kagose",
+   "Damas Francisco Mwizamholya"
+  ],
+  "published": "2026-11-07",
+  "year": 2026,
+  "created": "2026-11-08",
+  "first_seen": "2026-11-09",
+  "summary": "Sports betting is increasingly accessible through physical outlets and internet-enabled platforms, raising concerns about protecting minors from gambling-related harm. The study examines the effectiveness of Tanzania’s legal framework in prohibiting minors from participating in sports betting …",
+  "url": "https://doi.org/10.37284/eajle.9.4.6222",
+  "oa_url": "https://journals.eanso.org/index.php/eajle/article/download/6222/6516",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "youth",
+   "policy"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TZ"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [
+   "TZ"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1002/mde.70182",
+  "doi": "10.1002/mde.70182",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225462754",
+  "title": "The Challenge of Enterprise Artificial Intelligence Transformation: The Impact of Speculative Culture",
+  "journal": "Managerial and Decision Economics",
+  "authors": [
+   "Mudan Lan",
+   "Yuhong Huang"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-08",
+  "first_seen": "2026-11-09",
+  "summary": "ABSTRACT Against the backdrop of rapid advances in digital technologies, artificial intelligence (AI) transformation has emerged as a critical strategy for firms to enhance competitive advantage and adapt to technological change …",
+  "url": "https://doi.org/10.1002/mde.70182",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mde.70182",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.46880/jmika.vol10no2.pp554-564",
+  "doi": "10.46880/jmika.vol10no2.pp554-564",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225579501",
+  "title": "Implementasi Convolutional Neural Network (CNN) untuk Deteksi Visual Situs Judi Online",
+  "journal": "METHOMIKA Jurnal Manajemen Informatika dan Komputerisasi Akuntansi",
+  "authors": [
+   "Gusti Ngurah Senja Ghautama",
+   "Agus Adi Putrawan",
+   "Made Pasek Agus Ariawan"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-09",
+  "summary": "Online gambling poses a serious cyber threat in Indonesia, causing financial, social, and psychological impacts on society …",
+  "url": "https://doi.org/10.46880/jmika.vol10no2.pp554-564",
+  "oa_url": "https://ejurnal.methodist.ac.id/index.php/methomika/article/download/5806/3169",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.55681/ijssh.v4i3.4649",
   "doi": "10.55681/ijssh.v4i3.4649",
   "pmid": null,
@@ -150,7 +337,7 @@
   "first_seen": "2026-11-07",
   "summary": "Most parents are worried about teenage gambling, but only half actually discuss it with their children, according to a national survey conducted by The Harris Poll on behalf of the National Council on Problem Gambling (NCPG). The poll found that 64% of parents with children under 18 are concerned about their children's gambling activities.",
   "url": "https://doi.org/10.1002/adaw.35105",
-  "oa_url": null,
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adaw.35105",
   "sources": [
    "openalex"
   ],
@@ -189,7 +376,7 @@
   "first_seen": "2026-11-07",
   "summary": "Social marketing interventions have emerged as important approaches for addressing online gambling-related harm, particularly amid the proliferation of digital gambling platforms and sophisticated marketing practices. However, existing bibliometric studies on gambling prevention have paid limited attention to the social marketing dimensions …",
   "url": "https://doi.org/10.1080/23311975.2026.2759480",
-  "oa_url": "https://doi.org/10.1080/23311975.2026.2759480",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2759480?needAccess=true",
   "sources": [
    "openalex"
   ],
@@ -276,7 +463,7 @@
   "first_seen": "2026-11-07",
   "summary": "Abstract Online gambling can affect family relationships, particularly interpersonal communication between adolescents and their fathers. Fathers’ involvement in online gambling may cause emotional distress, reduce opportunities for interaction, and discourage adolescents from openly expressing their feelings and opinions …",
   "url": "https://jurnaldialektika.com/index.php/piani/article/view/1215",
-  "oa_url": "https://jurnaldialektika.com/index.php/piani/article/view/1215",
+  "oa_url": "https://jurnaldialektika.com/index.php/piani/article/download/1215/985",
   "sources": [
    "openalex"
   ],
@@ -2408,7 +2595,7 @@
   "doi": "10.1016/j.addbeh.2026.108890",
   "pmid": "42998323",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224809791",
   "title": "A systematic review on cognitive distortions in gambling activities and gambling disorder",
   "journal": "Addictive Behaviors",
   "authors": [
@@ -2425,9 +2612,10 @@
   "first_seen": "2026-11-01",
   "summary": "Purpose Of Review: Gambling involves placing irreversible bets on uncertain outcomes primarily governed by chance. Cognitive distortions, such as the gambler's fallacy and the illusion of control, can encourage persistent gambling despite financial losses and contribute to gambling disorder …",
   "url": "https://doi.org/10.1016/j.addbeh.2026.108890",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1016/j.addbeh.2026.108890",
   "sources": [
    "feed:addictive-behaviors",
+   "openalex",
    "pubmed"
   ],
   "type": "review",
@@ -2441,8 +2629,8 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "FR",
-   "BE"
+   "BE",
+   "FR"
   ],
   "regions": [
    "europe"
@@ -2752,7 +2940,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-08",
+  "published": "2027-01-09",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -3314,7 +3502,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-08",
+  "published": "2026-11-09",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -3580,7 +3768,7 @@
   "first_seen": "2026-10-29",
   "summary": "Abstract Under what conditions can a forecasting agent profitably provide liquidity on a prediction market? We derive a decomposition of the optimal market-making spread into a microstructure term and an adverse selection term proportional to the agent's mean absolute estimation error~$\\alpha$ …",
   "url": "https://doi.org/10.1007/s42521-026-00233-z",
-  "oa_url": "https://www.researchsquare.com/article/rs-9339189/latest.pdf",
+  "oa_url": "https://doi.org/10.2139/ssrn.6533018",
   "sources": [
    "openalex"
   ],
@@ -4177,51 +4365,6 @@
   "retracted": false
  },
  {
-  "id": "doi:10.1159/ear/acrag013",
-  "doi": "10.1159/ear/acrag013",
-  "pmid": "42925531",
-  "pmcid": null,
-  "openalex": "W7223471052",
-  "title": "Gambling Modality and Financial Harm among People Seeking Help for Gambling Disorder in South Korea",
-  "journal": "European Addiction Research",
-  "authors": [
-   "YoungHo Kim",
-   "Kounseok Lee"
-  ],
-  "published": "2026-10-24",
-  "year": 2026,
-  "created": "2026-10-24",
-  "first_seen": "2026-10-25",
-  "summary": "Online-offline gambling comparisons rarely distinguish debt occurrence from debt amount. Problem-stage gambling modality and recalled modality pathways were examined in relation to symptom severity and gambling-related debt …",
-  "url": "https://doi.org/10.1159/ear/acrag013",
-  "oa_url": "https://karger.com/ear/article-pdf/doi/10.1159/ear/acrag013/4598243/000555039.pdf",
-  "sources": [
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "treatment",
-   "financial-harm"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "KR"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [],
-  "regions": [],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
   "id": "doi:10.9741/2327-8455.1521",
   "doi": "10.9741/2327-8455.1521",
   "pmid": null,
@@ -4257,6 +4400,51 @@
   "regions": [
    "us"
   ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1159/ear/acrag013",
+  "doi": "10.1159/ear/acrag013",
+  "pmid": "42925531",
+  "pmcid": null,
+  "openalex": "W7223471052",
+  "title": "Gambling Modality and Financial Harm among People Seeking Help for Gambling Disorder in South Korea",
+  "journal": "European Addiction Research",
+  "authors": [
+   "YoungHo Kim",
+   "Kounseok Lee"
+  ],
+  "published": "2026-10-21",
+  "year": 2026,
+  "created": "2026-10-25",
+  "first_seen": "2026-10-25",
+  "summary": "Online-offline gambling comparisons rarely distinguish debt occurrence from debt amount. Problem-stage gambling modality and recalled modality pathways were examined in relation to symptom severity and gambling-related debt …",
+  "url": "https://doi.org/10.1159/ear/acrag013",
+  "oa_url": "https://karger.com/ear/article-pdf/doi/10.1159/ear/acrag013/4598243/000555039.pdf",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "treatment",
+   "financial-harm"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "KR"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -4373,10 +4561,10 @@
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Kahlil Simeon-Rose",
-   "Matthew A Tom",
-   "Timothy C Edson",
-   "Eric R Louderback",
-   "Sarah E Nelson"
+   "Matthew A. Tom",
+   "Timothy C. Edson",
+   "Eric R. Louderback",
+   "Sarah E. Nelson"
   ],
   "published": "2026-10-24",
   "year": 2026,
@@ -182281,53 +182469,6 @@
   "setting_regions": [],
   "countries": [
    "ID"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.26577/japj2024.112.i4.a14",
-  "doi": "10.26577/japj2024.112.i4.a14",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4406936859",
-  "title": "ҚАЗАҚСТАН РЕСПУБЛИКАСЫНДА ЛУДОМАНИЯҒА ҚАРСЫ ЗАҢНАМАНЫ ҚАЛЫПТАСТЫРУДЫҢ ӨЗЕКТІ МӘСЕЛЕЛЕРІ",
-  "journal": "Journal of Actual Problems of Jurisprudence",
-  "authors": [
-   "Seriev Bolat Abduldaevich",
-   "Zhanna Amangeldinovna Khamzina",
-   "Baurzhan Taubayev",
-   "Б.Ж. Айтимов",
-   "М.Р. Конысбекова"
-  ],
-  "published": "2024-12-19",
-  "year": 2024,
-  "created": "2025-01-30",
-  "first_seen": "2024-12-19",
-  "summary": "The purpose of the proposed study is to conduct a legal expert analysis of cases of ludomania in the Republic of Kazakhstan, to conduct a scientific study of the causes of ludomania, to conduct a study of the legislative acts of the Republic of Kazakhstan and some foreign states against ludomania and to draw legal scientific conclusions on the formation of …",
-  "url": "https://doi.org/10.26577/japj2024.112.i4.a14",
-  "oa_url": "https://bulletin-law.kaznu.kz/index.php/journal/article/download/3207/2480",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "KZ"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "KZ"
   ],
   "regions": [
    "asia"

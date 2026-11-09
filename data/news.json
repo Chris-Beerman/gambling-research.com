@@ -1,5 +1,432 @@
 [
  {
+  "id": "443ca8ba3fb4ef02",
+  "title": "Sift: Why fraud prevention could determine the commercial future of prediction markets",
+  "url": "https://sbcamericas.com/2026/11/09/sift-fraud-prediction-market-growth/",
+  "source": "SBC Americas",
+  "feed_id": "sbc-americas",
+  "kind": "trade",
+  "published": "2026-11-09",
+  "summary": "Prediction markets may be experiencing rapid growth, but for Jason Fama, SVP of Engineering at Sift, the industry’s long-term commercial prospects will depend on more than attracting new participants and expanding into…",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "6baba192eed27e10",
+  "title": "Wall Street Bets: DraftKings, Genius Sports, Wynn Resorts",
+  "url": "https://cdcgaming.com/wall-street-bets-draftkings-genius-sports-wynn-resorts/",
+  "source": "CDC Gaming",
+  "feed_id": "cdc-gaming",
+  "kind": "trade",
+  "published": "2026-11-09",
+  "summary": "Truist Securities’ Barry Jonas on November 6 examined DraftKings’ prediction market strategy: “After last night’s surprising miss and guide-down, DraftKings noted its prediction market strategy is based on internal data…",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "0e5b9c8e2094aace",
+  "title": "New York casino revenue climbs 248% to $194.9 million in October",
+  "url": "https://cdcgaming.com/new-york-casino-revenue-climbs-248-to-194-9-million-in-october/",
+  "source": "CDC Gaming",
+  "feed_id": "cdc-gaming",
+  "kind": "trade",
+  "published": "2026-11-09",
+  "summary": "New York casinos recorded $194.9 million in revenue in October, marking a 248% year-over-year increase, boosted by Resorts World New York City launching live table games in April. The New York State Gaming Commission…",
+  "categories": [
+   "regulation",
+   "industry"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "505a5cfc187a501a",
+  "title": "Dominican Republic names seven authorised online gambling operators",
+  "url": "https://igamingbusiness.com/legal-compliance/dominican-republic-seven-authorised-online-gambling-operators/",
+  "source": "iGaming Business",
+  "feed_id": "igb",
+  "kind": "trade",
+  "published": "2026-11-09",
+  "summary": "The Dominican Republic’s gambling regulator has identified seven authorised online operators and warned that approximately 81 operators lack state permission, as it develops licensing rules under the country’s new…",
+  "categories": [
+   "regulation",
+   "industry"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "c59b98bf5c6e98fa",
+  "title": "DraftKings and other betting sites urge parents to talk to kids about gambling – but disavow role in increase in teen wagering",
+  "url": "https://www.theguardian.com/sport/2026/nov/09/draftkings-fanduel-sports-betting-children-addiction",
+  "source": "The Guardian (gambling)",
+  "feed_id": "guardian-gambling",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "42% of US teens reported gambling last year, according to a survey, 10% of whom were at high risk for problem gambling Amid growing concerns about gambling addiction among young males, online sports betting leaders are…",
+  "categories": [
+   "public-health",
+   "research"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "a2fdd52431a23fa7",
+  "title": "New commission opens review into whether UK needs a new Gambling Act",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJoMGtkQkc1WGpFYndxTHhqLUNhQ2oxdzc2amJUc2JhZXdLN2QyU3pnRjl6RVg0V3VJZGNQR1JYTFh2dUt0elVHMXVkb3oxeldYOGhrNk9XbF85OTY1MldBbnUzcGtacm9RWkd0eTlZcmN3QlJ4cWhINC1GeXF5YUo1MUxfdW1ZSXpwUlpOUWNSaGM?oc=5",
+  "source": "iGaming Business",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "New commission opens review into whether UK needs a new Gambling Act iGaming",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "a35d1582c9325bb9",
+  "title": "Gambling Commission CEO talks UK tax impact following Budget rises",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkJaeVM2RmNibGw1U2VZR0UxQ1ZmZDZjV0hPM1g3TWtKZU5FcUlFSHkyNHh0OWo2UzFSMnk2enE1Qy1Jdy1GdzMybkgwZ1hWbXdQRkpBLVJ4YVpQaWJCMlBVMHhkUENGcnlqN0FzUDNPbWNFR0Vzb0hxWUVFa3BoNFFaTXBxUHI2UFI2UWV3VWZqbkVoeGlXSDNBYw?oc=5",
+  "source": "InterGame Online",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "Gambling Commission CEO talks UK tax impact following Budget rises InterGame",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "bdce3583c1782608",
+  "title": "New Independent Commission Launches Fresh Review of UK Gambling Laws",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRW1NWkxNM1hjeThfWG1kQlNDRUdvRE10TVNwME9BZWphU2p5bGJwd3QxZWlfX1lRWU1KVFhCZDV2LUxYMmRwVkNMbHMyMUpIU3JVVG1XRklneEdNTXhmVlVaeTIwa0J5eTVjNVpVZTJSRUpSUEFYVEwxTUxvXzNnX3ZQTWs2X05LQU1mOFN3dGVtdXM5OFVjS2UxeEFTV0E?oc=5",
+  "source": "iGamingToday.com",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "New Independent Commission Launches Fresh Review of UK Gambling Laws",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "44cc040481358022",
+  "title": "UK launches independent review of Gambling Act 2005 amid digital shift",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONVlkeERWMmVweU5LSXdsRk8teHBYMmp6QkpBR2NoYXF0OVdrTjE0cHRzT29faXV1Zjh5cm1yanp0ZDRjY0FVemJfVzhTMWRNcVFZbFp0WmZyWTFKLWk4enVUMnNhcTZBNF9rWjV0ei10T2dLYTQ0UnMzWEo0T0c1M1ZWVzFFZVBkaDlObEdSTlZQMG95bFVJZzQ2eDJZaHhGZnBPUDFONVVFTmZrb2gxemVZNUtXcFk2U2xCWGI3Y2FBNkJmYUdSTEI5NA?oc=5",
+  "source": "Yogonet",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "UK launches independent review of Gambling Act 2005 amid digital shift",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "f4934aaf6048adc2",
+  "title": "New Gambling Policy Commission launches review of UK regulations",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmFWNU5xV1VjMXNDX0h2SHo2VjNGM2Jab1dmYXZXajBIdWRPeFc3R0tWRm1oSDR2U193S0xkQzNKckl2MEFCZFZSaloyZzlxRTU4MGVxWlk4ZnYzYUhzYTA0OFZiVjlrMUVZdTBJRFV6UU5JZE1rUV8zMVcyN3M2Q3FLNmlQNGRQelFVNHBR?oc=5",
+  "source": "NEXT.io",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "New Gambling Policy Commission launches review of UK regulations",
+  "categories": [
+   "regulation",
+   "industry"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "6ac8cbabbe618b75",
+  "title": "UK Gambling Regulator Removes 3M Illegal Gambling URLs as Crackdown Intensifies",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHphenlHTG9iWlUzTUF5cmN4SDBaTFBnZjgtQUdKZHVpY3FBeVE4ZWlYMGpVaFJnNzRpU0FwcE4xXzRtdGk3QU1GLUI5TXZmOHhHS3VlbmFSMkx5SkxSXzYxQmExT3BOdVFMOXRvb0tHSU1aaDBPc2RWQ3RXUktnUjZDdE5jUEpOZUU5RjlfTHVxaHRMNkhVQlBLVjdxZ1J3NGg1NWhTTjNCSDlj?oc=5",
+  "source": "Casino.org",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "UK Gambling Regulator Removes 3M Illegal Gambling URLs as Crackdown Intensifies",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "1d1d352a981adec3",
+  "title": "Report paints picture of rise in UK illegal gambling market",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVhsMFR3SGpRLTlKb1RxbEItRVp2eVc2YXAxaG9nS1BRbjhUbE15U0J5VGJSeVdkeUZtTERUQ193MFVaV2JtdU1JNXlDbFRoZFdob1FGRFFWUTJfQmo5MmdWbm9FNG8xcDZ4YTJ3YnVQM2NFTWsxS2JTQWtuc1ZlRnMyWGZDMUJvdVpobmYtQlN2RC03NGxFdlM3cWg2dldkd0JBOGZOMA?oc=5",
+  "source": "InterGame Online",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "Report paints picture of rise in UK illegal gambling market InterGame",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "173d1b59953860d5",
+  "title": "Gambling Policy Commission to consider potential of new UK law",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1g5cXBncUZMbUR3NzNseGdvMFhqS3NVQmxlNmhSb0J4N2pRZ1h6OTFHNFl2WXBCdzVkRS1JenpXTGlic2l1V3ZOZHAwb0Rqal9TUWhxX0JnSWVEa21DcWxPVXRHWUVwS1pybVRURC14LXRBUl9tMEJrTzV1MnhDY24zQjNLU2MxbWdkYlFGTzByUTZJWUE?oc=5",
+  "source": "InterGame Online",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-09",
+  "summary": "Gambling Policy Commission to consider potential of new UK law InterGame",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "50fd3561615077f6",
+  "title": "Gyan-tsuma : How one woman discovered her husband’s gambling addiction",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWVSNmFiZWVOeU5TS2dsWHdDc21jSWljZ2hVSTk5RkctdXlEd0V0b0NuMy11MTNpRVp6NmNKMURBSTlhZHhPSW9LdUs1VkYwbjBTSzF6YnczYnVYcWtqRHJDdGRIVEtrODlBRkN1b3dnY2N0N29tU0tUQlVFRFZRSTE4VHZkVTlJVFdvaGR3aGhlZWxoRmRv?oc=5",
+  "source": "The Japan Times",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Gyan-tsuma : How one woman discovered her husband’s gambling addiction The Japan",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "ab07eb6599c37549",
+  "title": "University of New Hampshire Digs Into Data from Problem Gambling Helpline",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGF1bnVtNU5HNjAyRU1PODM4eWdJY2xrRHRtclk2YUNWYlhRVnhGZTFWblpJWklZaVltVGdjZUNORFM3dTk3blZHQUQ5Qy1LWGNhalMzT1V5RTRkZHNBV0xHQnd2Vmg5azB6c0dFZTc1VkNqSUJYMW9rU21Tak55OUVwZTZCNE1sRWJPTXM2UUNfTVFZZjJERkVfaU1xNHdwRGlLZE16MXo5YlFw?oc=5",
+  "source": "Gambling News",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "University of New Hampshire Digs Into Data from Problem Gambling Helpline Gambling",
+  "categories": [
+   "public-health",
+   "research"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "683e034500880d6b",
+  "title": "Rep. Titus Eyes Fast-Track of Gambling Loss Deduction Bill",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1dGaExhcVF1XzlnZjBmeUUyRVVYZ3R5eldfbXNHLWVpUEFMd1paTC15NHdxbFNkMHdQbWpRVjFSZkJrbU1sNkZYMGF1emZyN1lzcVJPeTBOd2ZhcnRSbk5kVm1oeW5WTlI4WUQwWXR0NFFrWU82dTV3ald2RnZhMURZVERoeUV5NG8zNTdIM0pPSEZMNk05bGFNS2hyUWU3dnF2QXpURS1aZw?oc=5",
+  "source": "Sports Betting Dime",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Rep. Titus Eyes Fast-Track of Gambling Loss Deduction Bill Sports Betting",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "5a3771649fce681c",
+  "title": "Canada Advances Bill S-211 Sports Betting Ad Framework",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlhOQUxwUnpaNldmX1FvMjFLU3pQSWxnVGpWNTB1ZnIwMklwMmFlbml6REtGNm9VRWd5d2JJaW1wUHBVM1hUSkFjVHdFWDlwelVEUmppa0hlZWphT3I0SEg1LU9qOER5cWhMZEhJWU83S2pLTUkxZzBNWkpLWVdIUHR5UjBKbVgwNDM3eGFBREVkTm1WRDNKN3hrVUtadV9qS2hj?oc=5",
+  "source": "Betting News",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Canada Advances Bill S-211 Sports Betting Ad Framework Betting",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "4d5a00124be83d9a",
+  "title": "Oklahoma tribal town town sues Kalshi amid prediction market contract dispute",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVNMZHU5ZHJFbjR5MnloNEdrNVZKelB6d1FEVFZWeS11bzlxVk5TOTcwWnNhNTIzOGxxaVRQT09lbXlMcXlzeDBQczdMc3J1anpndFRxTW1VZXlNWmhReTRBRVJNRVRWY0FsM3poQlpjX180UVZxOF9OaTNvYjlLSG9lQUhwYnZvMUozZXRZWjhrMW5CRkhaMjNJRlh3bC1SY0RkSGg2enNnalFDV0tPZkhyMk8zUQ?oc=5",
+  "source": "Oklahoma Voice",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Oklahoma tribal town town sues Kalshi amid prediction market contract dispute Oklahoma",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "7862f8f4ae850f77",
+  "title": "Will Jensen Huang Survive Nvidia's Spy Scandal? What Prediction Markets Say",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUk4c0VxQ2kzNERZcTBLOFl4cWdKYUVhaGc4YlFzOUlsVWVzb3E2WHh5RXBNTy1ybEpRekQ3Nl91Rnh5Q0V2dDJ4Q24wOEh3QU0tY2FLVzFJUEtmSmtPa2U1Yi1PT0drS3RhZHRzdkdwclpjOVNqNkZkREozdGpqU3o2UXNGOERuMDNIOEU2RWxPZmVUZGtsRg?oc=5",
+  "source": "Yahoo Finance",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Will Jensen Huang Survive Nvidia's Spy Scandal? What Prediction Markets Say Yahoo",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "627750788a3d9439",
+  "title": "Editorial: Will a new Congress do its job? Wanna make a bet?",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFU2R3d5cEs4cWlJMjZKX25DVVVVMWJxQ3l3UVJXVEc3bnppMFNhWkdqZ0g1RjRkWDFIYm9Ka2sxLXRTY2VPZlE3VW9TeS1nZTdxd1FHV3d2TV8td3ozZXVIaVhuLVZ3dGtqNnVVaVoyTmlRMkRqRGtxREVYME11MW5vanpsRzFibWZjYlg3SHF3SUc1eDFVU2hPNEtDZjQtSlE?oc=5",
+  "source": "Chicago Tribune",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Editorial: Will a new Congress do its job? Wanna make a bet? Chicago",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "c379c6fb2121438c",
+  "title": "262. Sports Bets, Swaps, and the Kalshi Mess",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1YVg4LXV5MVZHa2cxUkZNRzlxc3U0azJRREVORUROR2doRVZsbG9pdDU3RkdmWFJXc21rTGgyaHg2UlBMejNKVUlZM0ItRTlWNVdyOW1Gd1V2dWtsWHdsMk16bkY1ZEpMZElMOWZ4TWo0N21RS1E?oc=5",
+  "source": "One First | Steve Vladeck",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "262. Sports Bets, Swaps, and the Kalshi Mess One First | Steve",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "633ef1b5b65648a7",
+  "title": "Is a Kalshi-style weather contract insurance? Look to insurable interest",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQzZzZk5HNXFJTkg0c3dZblk2SmhGU2k3QnZHWDQyN3ppNnQ2Y0dieXF0U0dpNXJGYUFlRUJkeWpQYTdWRW91eWlXSFZjU1RqTTNQNUFvQ1B6MUZ5YTJQakdodmhhUy1nV19PYl81VWl2bC05bTctTVA1dmJabGVDSElUWGNQaUJKQUFrUmxDRzY2SVR5QjFVVFVGMXBZVFFfREIwWWpjRURnMHNxNmhGQWYxcHJYSXowYjFVT0ZLcWdWeGQwNTJHT2RDVGN5OEgtYVJWM3hn?oc=5",
+  "source": "Insurance Business",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Is a Kalshi-style weather contract insurance? Look to insurable interest Insurance",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "998406647218e755",
+  "title": "Cboe Expands Prediction Markets Suite to Small-Caps with Launch of Mini-Russell 2000 Index Binary Options",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmpEbUFyOTNsQ2ZldGNDSkhoNlRzbGNoS0Y0YlJkZW0tRkoteE5LejdFRWhMaTNYb0xFVWxHMWtUNnZCazdEX1Fzb0xCWlluOEFCczZ6eG9HOWV4QUNlNzFPNEdvN29CeTJERVFLY1lZWElGekpQSl9OOEtyeDFrREtWZlE4bmxSZXh2SVRUbXdCRW5zT0xkN181OHZUNGw1c1o1a2NR?oc=5",
+  "source": "Yahoo Finance",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Cboe Expands Prediction Markets Suite to Small-Caps with Launch of Mini-Russell 2000 Index Binary Options Yahoo",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "80a88d10a4852c73",
+  "title": "Polymarket Invite Code SBWIRE: Score $25 Bonus for NFL, NBA & More",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVldEN3NXTFpLajZaY3FQMF9zb3BxNmVTaUJMOGh2MTRpVERENXBYZG1wN0xXWmotOFo4TGxEOTZmZnM1STdPRnkxS0toWV9rTlJaenBfOEljMHlvTTM3eUVQUnFLMnIyRjdlc0V4VDZBUXhVY3dQdDliLWUxLXVoVE1GZmFQX2IwRGQzblN5eHkzc19ka2ZBZ0Nsa3lMTUtZT1NaSzJkTkl1dFZuQ3BEMGhMbXh0ZzQ?oc=5",
+  "source": "Chiefs Wire",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Polymarket Invite Code SBWIRE: Score $25 Bonus for NFL, NBA & More Chiefs",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "b9c86b9382d2a678",
+  "title": "New York Should Be Allowed to Protect New Yorkers from Lawless Sports Betting, Better Markets Tells Second Circuit",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYnFRVV9HZ2J5U3h0Z2U2YXJ2cndKOU1icjhRbUhWdXM1TE5tVUc2SFhYWnMwaXJLT3d6MUl1d3RQLXZEaGhpQmd5WHI4V21sZGZ4UWxGTV8zY0JsY1lSNl9HOE43UGNTTEIxLU04WGE5a21nU3MyWVA3OGFqX1BxWU9FaTZYOUVyTTVTTHU2aEVSOWtYNm11QWpGQTZwUUNTVVNOUW9JbGNobHREUl9BN3dzcndna2NJajJGMEtBY2VNcjBsekFKWE1QSkVYcDUtcWJzeXdqT2pQSTJSRm1pZjFsbw?oc=5",
+  "source": "Better Markets",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "New York Should Be Allowed to Protect New Yorkers from Lawless Sports Betting, Better Markets Tells Second Circuit Better",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "e1215af5e118614d",
+  "title": "Best prediction market promos, bonuses & invite codes for November 2026",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQektRWnE4dWZwcDhDWkx0YVR6ajh3WmdkSDhFeDJGOFoyNURzcERsdThpaWgtNEtYMlRVal9MRnJyVkVDVVdLLTdadWN4UG82ZlJqVFR4NS1qckJNdDZEVjZqSWZwYW9XZld5UUV0dm00LWtrSjVJS3BjTDJ5emVYWVMtYUJ3TDl1a1JTSjBYWFhQY21tYXJHdmM2QnBua1EteXpscGx1ZjNoRlZUdmI4UVA0Mkt4bVV5MUs2UFEwYTA?oc=5",
+  "source": "The Columbus Dispatch",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Best prediction market promos, bonuses & invite codes for November 2026 The Columbus",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "cc22fde53a7a0738",
+  "title": "Victorious Democrats vow to rein in prediction markets",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYkhPaURZaUNjeXdndi1sTVhYa0pIQkZrRnVUdkd3a1BQNW8zbkMyM3lyRHUyQkVVTVR5Tl9rYmxoOVFCNExWYlVEcWEtU3U0T1c2SzduQTdudmpfZUFhS1hwcDJOVkpsaGU2ek9uN3RfTC1VelMwSjBHeTVnVDVnQjNMZjMwZHNLRUNJ?oc=5",
+  "source": "CDC Gaming",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-09",
+  "summary": "Victorious Democrats vow to rein in prediction markets CDC",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "0ac4cf8f043fe87e",
+  "title": "'Now is the time': Victorious Democrats vow to rein in prediction markets",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDJXOHlKOTJ6SjNDN2dzUUp1eUlHU1dISUtJZERnM2wxMDVQUE9FODUtNjlRQmxKUDc0ZXVEVEZ0YTlhanRBUDN6LWE1Wm1XVTc4OHlaV1B2eFp5SnRsVEhyd1Q5a3NxLW1udHVON245MTNldzRwcDBtemZqbzhNZ3JUT2QtUWNkRVY0d2VHbzZsZzU4angtSjE2WEJEdk5INFZUQ0pQd3U4bG8?oc=5",
+  "source": "Politico",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-08",
+  "summary": "'Now is the time': Victorious Democrats vow to rein in prediction markets",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
   "id": "4d7975836aaa47d5",
   "title": "130,000 Ontarians now show signs of problem gambling — triple the 2018 estimate — as MPs weigh betting ad limits",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcW5DTDJhekg1cnZsQzF2ak1oYUtfSVNCV1cwSm4tN0lkRlRwbGlTUFBLVGRvOTVIMjJBamZaZWlfV01SbnVubVNhbDVUMnpPY2ItYmJwckE1OHlnMHhQcFR1R0xGbmZHZ0dVRmY3VVE5T2U1bGluUkpfVTRnUndndw?oc=5",
@@ -152,19 +579,34 @@
   "first_seen": "2026-11-08"
  },
  {
-  "id": "bdafc9971b9755ca",
-  "title": "Prediction Markets Boast 98% Accuracy in Midterms as Experts Advise Caution",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGhBbjF1a29lenBocmpnQkNWSDEtVm80d2ZaTm4yOHJtRUh4ZjFOcnhRODM0eWZfZ2ptSzM2UWlfb3dlNVVQRlRkN3Z2RWJTamFPaHZMRVYzd1lUM3lsQXhWalUwS2FFeDFpZzBpUXh4NVFXZlJkeDNMQTR0YUIzbUdFcnR6VXpCOXhHX01GN3Y2SFc2ZDZNV29KalNoY1dGbml3N1F3cEg1dVpa?oc=5",
-  "source": "South Florida Reporter",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-11-08",
-  "summary": "Prediction Markets Boast 98% Accuracy in Midterms as Experts Advise Caution South Florida",
+  "id": "2e2e15e964a14fe3",
+  "title": "Titus Urges House GOP To Fast-Track Gambling Loss Deduction Fix",
+  "url": "https://www.legalsportsreport.com/286198/titus-urges-house-gop-to-fast-track-gambling-loss-deduction-fix/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-07",
+  "summary": "Nevada Rep. Dina Titus sent a letter Thursday to House Speaker Mike Johnson and Majority Leader Steve Scalise asking them to include a restoration of the 100% gambling loss deduction in",
   "categories": [
-   "prediction-markets"
+   "industry"
   ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-11-08"
+  "primary": "industry",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "6eaa6c4ae1879298",
+  "title": "Gambling Commission launches Illegal Gambling Index as online use remains low",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PWmE1REl2Y0VIQjlwWE1uRnBQdUphSlpPT1BFSWF4R3BraWkyTk9VYkY4TGVWcVloaVBMMnlHd296eVRXSjhqaXVhdWtPY0lPUjNnM3llUzJHZU1VUUZ1b2FTdHZOYUJPd2E4TXVwNA?oc=5",
+  "source": "Focus Gaming News",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-07",
+  "summary": "Gambling Commission launches Illegal Gambling Index as online use remains low Focus Gaming",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-11-09"
  },
  {
   "id": "8c71cfb728827e4c",
@@ -393,6 +835,55 @@
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-11-07"
+ },
+ {
+  "id": "d3ce9de008e85546",
+  "title": "Four More Companies Agree To Drop Sports Contracts In Ohio",
+  "url": "https://www.legalsportsreport.com/286256/four-more-companies-agree-to-drop-sports-contracts-in-ohio/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-06",
+  "summary": "Four more companies have agreed to stop offering sports event contracts in Ohio, bringing the total that have complied with the Ohio Casino Control Commission’s cease-and-desist letters to five. The",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "7c5942bd6570b5d3",
+  "title": "Latest CFTC Directive Could Put Prediction Markets Further At Odds With States",
+  "url": "https://www.legalsportsreport.com/286307/latest-cftc-directive-could-put-prediction-markets-further-at-odds-with-states/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-06",
+  "summary": "The latest directive from the Commodity Futures Trading Commission could have a major impact on prediction markets operators required to geofence users in certain states from accessing the",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "612174bf466fc8df",
+  "title": "California Tribes Win Injunction To Block Kalshi Sports Contracts On Their Land",
+  "url": "https://www.legalsportsreport.com/286051/california-tribes-win-injunction-to-block-kalshi-sports-contracts-on-their-land/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-06",
+  "summary": "California tribes have secured the nation’s first preliminary injunction against Kalshi under federal Indian gaming law, turning restrictions the prediction market operator",
+  "categories": [
+   "prediction-markets",
+   "regulation",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
  },
  {
   "id": "1aade327be1231bb",
@@ -1050,6 +1541,52 @@
   ],
   "primary": "regulation",
   "first_seen": "2026-11-06"
+ },
+ {
+  "id": "f04ea152113c3e7e",
+  "title": "DraftKings Aiming For $1 Billion In ’27 Adjusted EBITDA Despite More Predictions Costs",
+  "url": "https://www.legalsportsreport.com/286113/draftkings-aiming-for-1-billion-in-27-adjusted-ebitda-despite-more-predictions-costs/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-05",
+  "summary": "DraftKings expects its adjusted EBITDA to hit $1 billion at the top end of their guidance range, the company said Thursday in its Q3 earnings report. The core sports betting and online",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "39652eab2093b6fd",
+  "title": "Genius Sports Shares Slide Despite Posting First Operating Profit",
+  "url": "https://www.legalsportsreport.com/285987/genius-sports-shares-slide-despite-posting-first-operating-profit/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-05",
+  "summary": "Genius Sports reported its first quarterly operating profit and raised its full-year outlook as growing demand for sports betting and prediction markets helped drive a 62% increase in revenue.",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "cc6b7771c9b47899",
+  "title": "Arkansas AG Sues Kalshi, VGW For Offering Illegal Gambling",
+  "url": "https://www.legalsportsreport.com/285978/arkansas-ag-sues-kalshi-vgw-for-offering-illegal-gambling/",
+  "source": "Legal Sports Report",
+  "feed_id": "lsr",
+  "kind": "trade",
+  "published": "2026-11-05",
+  "summary": "Arkansas is suing to shut down two of the most prominent companies offering what the state believes is illegal gambling within its borders. On Wednesday, Atty. Gen. Tim Griffin sued both",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
  },
  {
   "id": "674af7c2fa805ad4",
@@ -6752,6 +7289,22 @@
   "first_seen": "2026-10-27"
  },
  {
+  "id": "fb86a2f3b43f9add",
+  "title": "NBA announces partnership with prediction markets Kalshi, Polymarket - The Athletic",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHptejFHSHhpc1pBTGx2RHd1SndINlBIMFA0NHJvNldCMWpTaEZYZVlrSkdxMmstZi12QmlqWHVKeFl1UDhCc01wNy1DdkFycWpQQ1hjUGQ0SVNqREdMQkF1UGxuN0dxUTNyM2RSajh4MnltRE1EM2lnT25GS3pWUnNxNEU4N0tWRzdYSVlRZFNTYXVoTm8tQmVpZTd3bl9XbXpfWWJB?oc=5",
+  "source": "The New York Times",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-10-26",
+  "summary": "NBA announces partnership with prediction markets Kalshi, Polymarket - The Athletic The New York",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-09"
+ },
+ {
   "id": "891cc83f6feb7844",
   "title": "NBA Tips Off Prediction-Market Era With Kalshi, Polymarket",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmxpcTZSZEpCWXRiWi1UN1hDVEcxcGZpNm9FRHk1Z0p1ZDRDOXowUkxNOWNhb3dYZGFVMW5qQ3dIMmlHS3VhLXo0ZUtKQXl3RFU0YkV6Q3huMXVjSVZVbng1X3h0ZVdyQ3hCVThhT29rZ3FTM3loOHpZSzFfRjRIU3NIS0NCb0FPcmxFUHFPWkRvYkNjakM5NUZlMlI?oc=5",
@@ -6900,22 +7453,6 @@
   "categories": [
    "prediction-markets",
    "industry"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-10-30"
- },
- {
-  "id": "fa3a1050b653e190",
-  "title": "NBA partners with Kalshi and Polymarket amid regulation fight",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkF5WWY2TWhvaHJ5NVFIaHF2TTY2SmlEazZMUWdRb2hvb0x0THdwLUVodXNXb2dMbXpPNW9feXJJaElwZ1pYWGxMc2JNRGw2T2dQNm5qTkx5MEhsck5CaXZFenB4bTlPVWY2R2hyTTlMOGVtU1BNUXByempOc2UwbWwxdlUzd052Y09DSDQwdmVvU0NLdVlJc2dwY1laZw?oc=5",
-  "source": "ESPN",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-10-26",
-  "summary": "NBA partners with Kalshi and Polymarket amid regulation fight",
-  "categories": [
-   "prediction-markets",
-   "regulation"
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-10-30"
