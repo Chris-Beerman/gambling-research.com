@@ -7,7 +7,7 @@ schema:
   "@type": Person
   "@id": https://gambling-research.com/about/#editor
   name: Chris Beerman
-  honorificSuffix: LCSW, CADC
+  honorificSuffix: LCSW, CADC, PCGC
   jobTitle: Editor, Gambling Research Index
   description: Clinical social worker in Chicago who treats gambling disorder and edits the Gambling Research Index, an independent nightly index of new gambling studies, bills and court rulings.
   url: https://gambling-research.com/about/
@@ -38,6 +38,9 @@ schema:
     - "@type": EducationalOccupationalCredential
       credentialCategory: certification
       name: Certified Alcohol and Drug Counselor (Illinois Certification Board)
+    - "@type": EducationalOccupationalCredential
+      credentialCategory: certification
+      name: Certified Problem and Compulsive Gambling Counselor (Illinois Certification Board)
   knowsAbout:
     - gambling disorder
     - sports betting
@@ -54,7 +57,7 @@ The reference pages are the things people in this field keep looking up: [where 
 
 ## Who edits it {#editor}
 
-**Chris Beerman**, LCSW, CADC, is a clinical social worker in Chicago. He has worked in addiction treatment for about eight years, in hospital detox and residential programs before opening [Chicago Addiction Therapy](https://www.chicagoaddictiontherapy.com/) in 2022, a private practice in Logan Square that treats gambling disorder, sports betting, high-risk trading and alcohol problems, in person and by telehealth across Illinois and Minnesota. He holds a Master of Social Work from Loyola University Chicago (2020), is licensed as a clinical social worker in Illinois (LCSW) and Minnesota (LICSW), is a Certified Alcohol and Drug Counselor, completed the Illinois Council on Problem Gambling's 30-hour problem gambling counselor training, and is a member of the National Council on Problem Gambling.
+**Chris Beerman**, LCSW, CADC, PCGC, is a clinical social worker in Chicago. He has worked in addiction treatment for about eight years, in hospital detox and residential programs before opening [Chicago Addiction Therapy](https://www.chicagoaddictiontherapy.com/) in 2022, a private practice in Logan Square that treats gambling disorder, sports betting, high-risk trading and alcohol problems, in person and by telehealth across Illinois and Minnesota. He holds a Master of Social Work from Loyola University Chicago (2020), is licensed as a clinical social worker in Illinois (LCSW) and Minnesota (LICSW), is a Certified Alcohol and Drug Counselor, holds the Illinois Certification Board's Certified Problem and Compulsive Gambling Counselor (PCGC) credential, and is a member of the National Council on Problem Gambling.
 
 His own research grows out of what clients bring in: help-seeking for sports betting and how it follows the sports calendar, behaviour on prediction markets, and how fully self-exclusion programs cover the ways people can now wager. He preregisters his studies on OSF before running them; anything of his that is published enters this index under the same rules as every other paper and is marked as the editor's in the digest. ORCID [0009-0004-8277-2086](https://orcid.org/0009-0004-8277-2086).
 
