@@ -198,3 +198,50 @@ def test_a_chart_reports_its_own_size_so_the_page_can_reserve_the_space():
 def test_axis_maximum_is_a_round_number_at_or_above_the_data(top, expect):
     nice, step = charts._nice(top)
     assert nice == expect and nice >= top and step >= 1
+
+
+# ---- which pages claim a Dataset record ----
+def test_archive_months_do_not_claim_a_dataset_record():
+    """78 month-slices of the same records would be near-duplicates competing
+    with the tracker they came from, so they publish a CSV without claiming one."""
+    page = DataPage(
+        slug="research-archive/2020-05", path="/research/archive/2020/05/",
+        name="Gambling research added in May 2020", description="x", rows=[{"first_seen": "2020-05-02"}],
+        columns=[], date_field="first_seen", group=exports.ARCHIVE_GROUP,
+    )
+    assert page.is_dataset is False
+
+
+def test_a_small_topic_still_claims_a_dataset_record():
+    """A topic is a distinct subject set, not a cut of the same rows, so it
+    claims one however few studies it currently holds."""
+    page = DataPage(
+        slug="topics/older-adults", path="/research/topics/older-adults/",
+        name="Gambling research on older adults", description="x",
+        rows=[{"first_seen": "2026-01-01"}] * 7,
+        columns=[], date_field="first_seen", group="Research by topic",
+    )
+    assert page.is_dataset is True
+
+
+def test_trackers_claim_a_dataset_record(): 
+    page = DataPage(
+        slug="bills", path="/bills/", name="Gambling bills", description="x",
+        rows=[{"introduced": "2026-01-01"}], columns=[], date_field="introduced", group="Policy",
+    )
+    assert page.is_dataset is True
+
+
+def test_catalogue_lists_only_pages_that_claim_a_dataset():
+    archive = DataPage(
+        slug="research-archive/2020-05", path="/research/archive/2020/05/", name="May 2020",
+        description="x", rows=[], columns=[], date_field="first_seen", group=exports.ARCHIVE_GROUP,
+    )
+    topic = DataPage(
+        slug="topics/x", path="/research/topics/x/", name="Topic X",
+        description="x", rows=[], columns=[], date_field="first_seen", group="Research by topic",
+    )
+    cat = exports.catalog_jsonld(SITE, [archive, topic], "2026-11-10")
+    urls = [d["url"] for d in cat["dataset"]]
+    assert any("/topics/x/" in u for u in urls)
+    assert not any("/archive/" in u for u in urls)

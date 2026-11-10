@@ -157,6 +157,9 @@ CASE_COLS = [
 
 
 # ---------------------------------------------------------------- data pages
+ARCHIVE_GROUP = "Research archive"
+
+
 @dataclass
 class DataPage:
     """One page of the index that publishes counts, and everything derived from it."""
@@ -179,6 +182,21 @@ class DataPage:
     @property
     def label(self) -> str:
         return self.short or self.name
+
+    @property
+    def is_dataset(self) -> bool:
+        """Whether this page claims a schema.org/Dataset record of its own.
+
+        Google Dataset Search rewards a few substantial datasets and filters thin,
+        near-duplicate ones. The monthly archive pages are time-slices of records
+        already published in full on /research/ -- several hold a single study --
+        so a Dataset record for each would be 78 near-duplicates competing with
+        the tracker they came from. They keep their CSV, citation and charts; they
+        just do not claim to be datasets in their own right. Topic pages do claim
+        one: a topic is a distinct subject set, not a cut of the same rows, and
+        that holds however few studies it currently has.
+        """
+        return self.group != ARCHIVE_GROUP
 
     @property
     def csv_url(self) -> str:
@@ -295,5 +313,5 @@ def catalog_jsonld(site: dict, pages: list[DataPage], as_of_iso: str) -> dict:
         "inLanguage": "en",
         "publisher": {"@type": "Organization", "@id": f"{base}/#publisher", "name": site["title"], "url": f"{base}/"},
         "creator": {"@id": f"{base}/about/#editor"},
-        "dataset": [{"@type": "Dataset", "@id": f"{base}{p.path}#dataset", "name": f"{p.name} — {site['title']}", "url": f"{base}{p.path}"} for p in pages],
+        "dataset": [{"@type": "Dataset", "@id": f"{base}{p.path}#dataset", "name": f"{p.name} — {site['title']}", "url": f"{base}{p.path}"} for p in pages if p.is_dataset],
     }

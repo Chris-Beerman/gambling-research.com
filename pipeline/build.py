@@ -452,7 +452,8 @@ class Builder:
         if dp is not None:
             cite = exports.citation(self.site, dp, as_of_long=fmt_date(self.as_of, "long"), year=self.as_of.year)
             base["citation"] = cite
-            base["dataset"] = exports.dataset_jsonld(self.site, dp, as_of_iso=self.as_of.isoformat(), citation_text=cite, csv_bytes=dp.csv_bytes)
+            if dp.is_dataset:
+                base["dataset"] = exports.dataset_jsonld(self.site, dp, as_of_iso=self.as_of.isoformat(), citation_text=cite, csv_bytes=dp.csv_bytes)
             base["data_page"] = dp
             base["charts"] = dp.charts
         base.update(ctx)
