@@ -40,7 +40,7 @@
 {% endif %}
 <main id="main" class="wrap">
 {% block content %}{% endblock %}
-{% if citation and data_page %}{{ cm.cite_block(citation, data_page) }}{% endif %}
+{% if citation %}{{ cm.cite_block(citation, data_page) }}{% endif %}
 </main>
 <footer class="colophon">
   <div class="wrap colophon-grid">

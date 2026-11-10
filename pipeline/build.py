@@ -767,7 +767,14 @@ class Builder:
         # Digests
         self.render("digest_index.html", "digest/index.html", digests=digests)
         for dg in digests:
-            self.render("digest.html", f"digest/{dg['slug']}/index.html", digest=dg)
+            self.render(
+                "digest.html", f"digest/{dg['slug']}/index.html", digest=dg,
+                citation=exports.text_citation(
+                    self.site, f"{dg['title']} (Weekly Digest No. {dg['number']})", dg["url"],
+                    as_of_long=fmt_date(self.as_of, "long"), year=int(str(dg["date"])[:4]),
+                    date_long=fmt_date(str(dg["date"]), "long"),
+                ),
+            )
         # Reference and other pages
         for path in sorted((CONTENT_DIR / "pages").glob("*.md")):
             meta, html = read_markdown(path)
@@ -775,6 +782,10 @@ class Builder:
             if slug == "methodology":
                 self.render(
                 "methodology.html", f"{slug}/index.html", page=meta, body=html, log=self.fetch_log, sources=self.sources, topics=self.tax.topics,
+                citation=exports.text_citation(
+                    self.site, meta.get("title", slug), f"/{slug}/",
+                    as_of_long=fmt_date(self.as_of, "long"), year=self.as_of.year,
+                ),
                 topic_min=self.tax.topic_min, designs=self.tax.designs, design_rules=self.tax.design_rules, pubtypes=self.tax.pubtypes,
                 gold=load_json(DATA_DIR / "gold_report.json", {}), index_meta=load_json(DATA_DIR / "index_meta.json", {}),
                 n_corrections=len(self.tax.corrections.by_key),
@@ -787,7 +798,13 @@ class Builder:
                     n_datasets=len(self.data_pages),
                 )
             else:
-                self.render("page.html", f"{slug}/index.html", page=meta, body=html)
+                citation = None
+                if meta.get("cite", True):
+                    citation = exports.text_citation(
+                        self.site, meta.get("title", slug), f"/{slug}/",
+                        as_of_long=fmt_date(self.as_of, "long"), year=self.as_of.year,
+                    )
+                self.render("page.html", f"{slug}/index.html", page=meta, body=html, citation=citation)
         # Search across the whole index
         main_index = self.papers(None)
         search_ok = self.build_search(main_index)

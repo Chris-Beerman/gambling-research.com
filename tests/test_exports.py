@@ -245,3 +245,31 @@ def test_catalogue_lists_only_pages_that_claim_a_dataset():
     urls = [d["url"] for d in cat["dataset"]]
     assert any("/topics/x/" in u for u in urls)
     assert not any("/archive/" in u for u in urls)
+
+
+# ---- citations for pages that are writing rather than data ----
+def test_dated_page_cites_like_an_article():
+    c = exports.text_citation(
+        SITE, "A headline (Weekly Digest No. 2)", "/digest/2026-10-26/",
+        as_of_long="November 10, 2026", year=2026, date_long="October 26, 2026",
+    )
+    assert c.startswith("Beerman, C. (2026).")
+    assert "A headline (Weekly Digest No. 2)." in c
+    assert "October 26, 2026." in c
+    assert "Retrieved" not in c
+    assert c.endswith("/digest/2026-10-26/")
+
+
+def test_living_page_cites_with_a_retrieval_date():
+    """A reference page changes, so the reader needs to know which version."""
+    c = exports.text_citation(
+        SITE, "Where to publish gambling research", "/journals/",
+        as_of_long="November 10, 2026", year=2026,
+    )
+    assert "Retrieved November 10, 2026." in c
+    assert c.endswith("/journals/")
+
+
+def test_text_citation_leaves_no_placeholder_to_fill():
+    c = exports.text_citation(SITE, "T", "/x/", as_of_long="November 10, 2026", year=2026)
+    assert "[" not in c and "]" not in c

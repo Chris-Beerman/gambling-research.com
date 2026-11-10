@@ -48,14 +48,14 @@
 {% endif %}
 {% endmacro %}
 
-{% macro cite_block(citation, dp) %}
+{% macro cite_block(citation, dp=none) %}
 <aside class="cite" aria-labelledby="cite-heading">
   <h2 id="cite-heading">Cite this page</h2>
   <p class="cite-line" id="cite-text">{{ citation }}</p>
   <p class="cite-actions">
     <button type="button" class="cite-copy" data-copy="cite-text" data-done="Copied">Copy citation</button>
-    <a href="{{ dp.csv_url }}">Download these {{ '{:,}'.format(dp.count) }} rows as CSV</a>
-    {% if dp.json_url %}<a href="{{ dp.json_url }}">Full data as JSON</a>{% endif %}
+    {% if dp %}<a href="{{ dp.csv_url }}">Download these {{ '{:,}'.format(dp.count) }} rows as CSV</a>
+    {% if dp.json_url %}<a href="{{ dp.json_url }}">Full data as JSON</a>{% endif %}{% endif %}
     <a href="/data-use/">Reuse, attribution and press</a>
   </p>
 </aside>

@@ -47,6 +47,7 @@ schema:
     - prediction markets
     - self-exclusion
     - alcohol use disorder
+cite: false
 ---
 
 ## What this is
