@@ -220,6 +220,20 @@ def citation(site: dict, page: DataPage, *, as_of_long: str, year: int) -> str:
     )
 
 
+def text_citation(site: dict, title: str, path: str, *, as_of_long: str, year: int, date_long: str = "") -> str:
+    """The suggested citation for a page that is writing rather than data.
+
+    A digest issue is dated, so it cites like an article. A reference page is
+    living, so it cites with a retrieval date, which is what a reader needs to
+    know which version they read.
+    """
+    when = f"{date_long}." if date_long else f"Retrieved {as_of_long}."
+    return (
+        f"{author_ref(site['editor']['name'])} ({year}). "
+        f"{title}. {site['title']}. {when} {site['url']}{path}"
+    )
+
+
 def author_ref(full_name: str) -> str:
     """"Chris Beerman" -> "Beerman, C."."""
     parts = [p for p in (full_name or "").split() if p]
