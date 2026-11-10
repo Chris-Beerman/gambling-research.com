@@ -10,6 +10,7 @@
   {% if subnav %}{{ m.subnav(subnav, subnav_current, 'research') }}{% endif %}
   <p class="page-deck">{{ count }} studies in the past {{ window }} days. Tags are assigned automatically from titles and abstracts; a study can carry several.</p>
 </section>
+{{ m.charts_block(charts) }}
 <ol class="ledger">
   {% for p in papers %}{{ m.entry(p) }}{% else %}<li class="empty">Nothing tagged "{{ label }}" yet.</li>{% endfor %}
 </ol>

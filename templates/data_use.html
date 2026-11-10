@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}: {{ site.title }}{% endblock %}
+{% block description %}{{ page.description or site.descriptor }}{% endblock %}
+{% block head %}<script type="application/ld+json">{{ catalog_schema|tojson }}</script>{% endblock %}
+{% block body_class %}section-reference{% endblock %}
+{% block content %}
+{% set parts = body.split('<!-- catalogue -->') %}
+<article class="prose prose-wide">
+  <p class="kicker kind-reference"><a href="/journals/">Reference</a></p>
+  <h1>{{ page.title }}</h1>
+  {% if page.deck %}<p class="deck">{{ page.deck }}</p>{% endif %}
+  <p class="byline">{{ n_datasets }} CSV files, one for each page that publishes counts, rebuilt every night. Data as of {{ as_of }}.</p>
+  {{ parts[0]|safe }}
+
+  <h2 id="files">Every file on the site</h2>
+  <p>One CSV for each page that publishes counts, holding exactly the rows that page shows, at an address that does not move. Each page also prints its own suggested citation and carries <code>schema.org/Dataset</code> metadata describing the columns.</p>
+  {% for group, pages in catalogue %}
+  <h3>{{ group }}</h3>
+  {% if pages|length <= 8 %}
+  <div class="table-scroll">
+  <table class="catalogue">
+    <thead><tr><th>Data</th><th>Rows</th><th>Files</th></tr></thead>
+    <tbody>
+      {% for dp in pages %}
+      <tr>
+        <td><a href="{{ dp.path }}">{{ dp.label }}</a></td>
+        <td class="num">{{ '{:,}'.format(dp.count) }} {{ dp.unit }}</td>
+        <td><a href="{{ dp.csv_url }}">CSV</a>{% if dp.json_url %} · <a href="{{ dp.json_url }}">JSON</a>{% endif %}{% for ch in dp.charts %} · <a href="{{ ch.url }}" title="{{ ch.title }}">chart{% if dp.charts|length > 1 %}&nbsp;{{ loop.index }}{% endif %}</a>{% endfor %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  {% else %}
+  <p class="catalogue-links">{% for dp in pages %}<a href="{{ dp.path }}">{{ dp.label }}</a> <a class="csv-pill" href="{{ dp.csv_url }}" aria-label="{{ dp.label }} as CSV">CSV</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+  {% endif %}
+  {% endfor %}
+
+  {% if parts|length > 1 %}{{ parts[1]|safe }}{% endif %}
+</article>
+{% endblock %}

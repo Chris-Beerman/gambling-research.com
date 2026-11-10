@@ -267,6 +267,28 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
 .colophon-fine { margin-top: 1.5rem; font-size: .76rem; }
 
 /* Responsive */
+/* ---- Charts: standalone SVGs that carry their credit inside the image ---- */
+.charts { display: grid; gap: 1.8rem; margin: 1.5rem 0 2.2rem; }
+.chart { margin: 0; max-width: 820px; }
+.chart img { display: block; width: 100%; height: auto; border: 1px solid var(--rule); border-radius: 3px; }
+.chart figcaption { font-family: var(--sans); font-size: .78rem; line-height: 1.45; color: var(--ink-2); margin-top: .45rem; max-width: 70ch; }
+
+/* ---- The suggested citation, on every page that publishes data ---- */
+.cite { margin: 3.2rem 0 0; padding: .95rem 1.1rem 1.1rem; background: var(--paper-2); border-top: 2px solid var(--baize); border-radius: 0 0 4px 4px; }
+.cite h2 { font-family: var(--sans); font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2); margin: 0 0 .5rem; }
+.cite-line { font-family: var(--sans); font-size: .89rem; line-height: 1.55; color: var(--ink); margin: 0 0 .75rem; max-width: 86ch; overflow-wrap: break-word; }
+.cite-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem 1.1rem; font-family: var(--sans); font-size: .82rem; margin: 0; }
+.cite-copy { font: inherit; font-size: .8rem; font-weight: 600; color: var(--paper); background: var(--baize); border: 0; border-radius: 3px; padding: .32rem .75rem; cursor: pointer; }
+.cite-copy:hover { background: var(--baize-2); }
+.cite-copy.is-done { background: var(--ink-2); }
+
+/* ---- The catalogue on /data-use/ ---- */
+.catalogue td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.catalogue td:last-child { white-space: nowrap; }
+.catalogue-links { font-family: var(--sans); font-size: .85rem; line-height: 2.1; max-width: 70ch; }
+.csv-pill { font-size: .66rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; background: var(--paper-2); color: var(--ink-2); border-radius: 3px; padding: .12rem .34rem; text-decoration: none; }
+.csv-pill:hover { background: var(--rule); color: var(--ink); }
+
 @media (max-width: 920px) {
   .home-grid { grid-template-columns: 1fr; gap: 1rem; }
   .lede { grid-template-columns: 1fr; gap: 1.8rem; padding-bottom: .4rem; border-bottom: 0; }
@@ -288,11 +310,17 @@ a.tag-oa:hover { color: var(--baize-2); background: var(--baize-tint); }
   .docket-docs time { width: auto; margin-right: .4rem; }
   .prose-wide table { display: block; overflow-x: auto; width: 100%; }
 }
+@media (prefers-color-scheme: dark) {
+  .cite-copy { color: #10211a; }
+  .cite-copy.is-done { color: var(--paper); }
+}
 @media (prefers-reduced-motion: no-preference) {
   .chip, .masthead nav a, .tag { transition: background-color .12s ease, color .12s ease; }
 }
 @media print {
-  .masthead nav, .filters, .colophon-grid div:not(:first-child) { display: none; }
+  .masthead nav, .filters, .colophon-grid div:not(:first-child), .cite-copy { display: none; }
+  .cite { background: #fff; border-top: 1px solid #000; }
+  .chart img { border-color: #999; }
   body { background: #fff; color: #000; }
   a { color: #000; }
 }
