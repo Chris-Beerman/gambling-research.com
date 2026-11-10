@@ -1,5 +1,313 @@
 [
  {
+  "id": "doi:10.1556/2006.2026.00194",
+  "doi": "10.1556/2006.2026.00194",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Impulsivity, compulsivity, and impulse control disorders in adults with elevated borderline personality disorder traits",
+  "journal": "Journal of Behavioral Addictions",
+  "authors": [
+   "Laurie Avila",
+   "Megha Neelapu",
+   "Sophia Boutouis",
+   "Jon E. Grant"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "summary": "Abstract Background and aims While impulsivity is a core feature of borderline personality disorder (BPD), rates of comorbid impulse control disorders in those with BPD are unclear. Moreover, despite the tendency for impulsivity and compulsivity to present together, compulsivity has been understudied in BPD …",
+  "url": "https://doi.org/10.1556/2006.2026.00194",
+  "oa_url": null,
+  "sources": [
+   "crossref"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": null,
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10547-7",
+  "doi": "10.1007/s10899-026-10547-7",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Identifying Significant Correlates of Adolescent Online Gambling Using A Random Forest Approach: A Cross-Sectional Study",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Victoria Matheou",
+   "Mahmood R. Gohari",
+   "Karen A. Patte",
+   "Tara Elton-Marshall",
+   "Mark A. Ferro",
+   "Scott T. Leatherdale",
+   "Rachel Laxer",
+   "Adam G. Cole"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "summary": "Online gambling is increasing among adolescents. Machine learning methods can be used to identify and rank classification-relevant predictors among a large set of variables. This study identified and ranked factors associated with online gambling among high school students in Canada using a Random Forest (RF) approach …",
+  "url": "https://doi.org/10.1007/s10899-026-10547-7",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "loot-boxes",
+   "youth",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey",
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s11121-026-02009-8",
+  "doi": "10.1007/s11121-026-02009-8",
+  "pmid": "43002310",
+  "pmcid": null,
+  "openalex": "W7225622034",
+  "title": "Why do Adolescents Engage in Gambling Chasing? A Multidimensional Model of Motivational, Cognitive, and Disinhibitory Processes",
+  "journal": "Prevention Science",
+  "authors": [
+   "Marina Cosenza",
+   "Barbara Pizzini",
+   "Maria Ciccarelli",
+   "Giovanna Nigro"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-10",
+  "summary": "Gambling chasing has traditionally been defined as continued gambling after losses in an effort to recover money, although recent evidence suggests that it may also include broader persistence following salient outcomes, including wins. However, most research has focused on adults, and evidence in adolescence remains limited …",
+  "url": "https://doi.org/10.1007/s11121-026-02009-8",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "trial",
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "IT"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/2006.2026.00139",
+  "doi": "10.1556/2006.2026.00139",
+  "pmid": "43002196",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Incomplete compliance: Loot box prevalence, presence disclosures, probability disclosures, and Compu Gacha policy in Japanese mobile games",
+  "journal": "Journal of Behavioral Addictions",
+  "authors": [
+   "Kuma X Xiong",
+   "Sunny Jie Yang",
+   "Anh-Thu Nguyen",
+   "Tsubasa Shinohara",
+   "Leon Y Xiao"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-10",
+  "summary": "Abstract Background and aims Loot boxes or gacha are bought in video games to obtain randomised rewards. Their gambling-like characteristics and associations with both gambling and videogaming disorder worry parents and regulators. As the third-largest videogaming market, Japan has a decade-long history of regulating loot boxes. Several regulations co-exist …",
+  "url": "https://doi.org/10.1556/2006.2026.00139",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "policy",
+   "prevalence",
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "JP"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "GB",
+   "CN",
+   "HK",
+   "JP"
+  ],
+  "regions": [
+   "uk-ireland",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/14656566.2026.2761183",
+  "doi": "10.1080/14656566.2026.2761183",
+  "pmid": "43002438",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond",
+  "journal": "Expert Opinion on Pharmacotherapy",
+  "authors": [
+   "Stefania Chiappini",
+   "Angelo Giovanni Icro Maremmani",
+   "Clara Cavallotto",
+   "Carlotta Marrangone",
+   "Andrea Amerio",
+   "Matteo Lupi",
+   "Mauro Pettorruso",
+   "Giovanni Martinotti"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-10",
+  "summary": "Gambling disorder (GD) is a heterogeneous behavioral addiction associated with dysregulated reward processing, impaired executive control, stress-system dysfunction, and maladaptive neuroplasticity …",
+  "url": "https://doi.org/10.1080/14656566.2026.2761183",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "review",
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "pubmed",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "GB",
+   "IT"
+  ],
+  "regions": [
+   "uk-ireland",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:58cc236c312bb0f0",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225685921",
+  "title": "Pengaruh Literasi Keuangan, dan Kontrol Diri terhadap Kecenderungan Perilaku Judi Online pada Generasi Z di Indonesia",
+  "journal": "Journal of Business Economics and Management",
+  "authors": [
+   "Intan Maharani Putri",
+   "Dinda Alita Ramadani AR",
+   "Ria Aulia"
+  ],
+  "published": "2026-11-07",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "summary": "This study aims to examine the influence of financial literacy and self-control on the tendency toward online gambling behavior among Generation Z in Indonesia. This research employed a quantitative approach, collecting data through questionnaires from 46 respondents. Data were analyzed using simple and multiple linear regression …",
+  "url": "https://jurnal.globalscients.com/index.php/jbem/article/view/2120",
+  "oa_url": "https://jurnal.globalscients.com/index.php/jbem/article/view/2120",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.5281/zenodo.24034482",
   "doi": "10.5281/zenodo.24034482",
   "pmid": null,
@@ -2940,7 +3248,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-09",
+  "published": "2027-01-10",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -3502,7 +3810,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-09",
+  "published": "2026-11-10",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -6179,15 +6487,12 @@
   "openalex": "W7222980364",
   "title": "The Prevalence of Gambling Advertising during a Matchday of the German Bundesliga: A Frequency and Content Analysis of Live TV Coverage, Sport Highlight Programmes and Social Media",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Johannes Singer",
-   "Steffen Otterbach"
-  ],
+  "authors": [],
   "published": "2026-10-19",
   "year": 2026,
   "created": "2026-10-19",
   "first_seen": "2026-10-20",
-  "summary": "Abstract Gambling advertising is prevalent in sports, especially football. Sponsoring teams, leagues, and national and international competitions is an effective marketing strategy for gambling providers to reach a wide audience. This ‘gamblification’ of football poses risks to public health, particularly for vulnerable groups …",
+  "summary": "Gambling advertising is prevalent in sports, especially football. Sponsoring teams, leagues, and national and international competitions is an effective marketing strategy for gambling providers to reach a wide audience. This ‘gamblification’ of football poses risks to public health, particularly for vulnerable groups …",
   "url": "https://doi.org/10.1007/s10899-026-10560-w",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10560-w.pdf",
   "sources": [
@@ -6211,15 +6516,9 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [
-   "DE",
-   "ZA"
-  ],
-  "regions": [
-   "europe",
-   "africa"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -179052,46 +179351,6 @@
    "asia"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.21608/fica.2024.419117",
-  "doi": "10.21608/fica.2024.419117",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4409179833",
-  "title": "الأحكام الفقهية للألعاب الإلكترونية-دراسة تطبيقية",
-  "journal": "مجلة کلية الدراسات الإسلامية والعربية للبنات بجامعة الأزهر فرع کفر الشيخ",
-  "authors": [
-   "إبراهيم بن صالح بن إبراهيم التنم"
-  ],
-  "published": "2024-12-31",
-  "year": 2024,
-  "created": "2025-10-10",
-  "first_seen": "2024-12-31",
-  "summary": "المستخلص: يُعْنَى هذا البحث بدراسة جملة من المسائل والقضايا المتعلقة بالأحكام الفقهية للألعاب الإلكترونية، ويقوم البحث على المنهج التحليلي المقارن، ويهدف إلى تجلية جملة من أحكام قضايا الألعاب الإلكترونية، ومدى تأثيرها على صحة أو فساد عقد البيع …",
-  "url": "https://doi.org/10.21608/fica.2024.419117",
-  "oa_url": "https://fica.journals.ekb.eg/article_419117_f6a771c5dca630fcb08f9245d6440bfc.pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "policy",
-   "lived-experience"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "SA"
-  ],
-  "regions": [
-   "middle-east"
-  ],
-  "language": "ar",
   "relevance": "high",
   "retracted": false
  },

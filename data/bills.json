@@ -1,5 +1,32 @@
 [
  {
+  "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 660",
+  "title": "Gambling oversight to economic affairs interim committee",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-09-30",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "(LC) Draft in Input/Proofing",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC660/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
+  "topics": [],
+  "updated": "2026-11-10",
+  "first_seen": "2026-09-30",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
   "level": "state",
   "jurisdiction": "Montana",
@@ -15,8 +42,8 @@
   ],
   "sponsors": [],
   "introduced": "2026-09-28",
-  "latest_action_date": "2026-11-03",
-  "latest_action": "(LC) Draft in Edit",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "(LC) Draft in Input/Proofing",
   "latest_passage_date": null,
   "stage": "introduced",
   "stage_label": "introduced",
@@ -25,7 +52,7 @@
   "topics": [
    "comorbidity"
   ],
-  "updated": "2026-11-03",
+  "updated": "2026-11-10",
   "first_seen": "2026-09-28",
   "stage_changed": null
  },
@@ -85,7 +112,7 @@
   "url": "https://www.congress.gov/bill/119th-congress/house-bill/10951",
   "source_url": "",
   "topics": [],
-  "updated": "2026-11-03",
+  "updated": "2026-11-10",
   "first_seen": "2026-11-03",
   "stage_changed": null,
   "congress": 119,
@@ -122,33 +149,6 @@
   "stage_changed": null
  },
  {
-  "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
-  "level": "state",
-  "jurisdiction": "Montana",
-  "jurisdiction_code": "mt",
-  "session": "2027",
-  "identifier": "LC 660",
-  "title": "Gambling oversight to economic affairs interim committee",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [
-   "Gambling"
-  ],
-  "sponsors": [],
-  "introduced": "2026-09-30",
-  "latest_action_date": "2026-10-26",
-  "latest_action": "(LC) Draft in Edit",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/mt/bills/2027/LC660/",
-  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
-  "topics": [],
-  "updated": "2026-10-27",
-  "first_seen": "2026-09-30",
-  "stage_changed": null
- },
- {
   "id": "ocd-bill/5ba439c1-5c87-4307-807c-f938a570b3d0",
   "level": "state",
   "jurisdiction": "Pennsylvania",
@@ -176,7 +176,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -472,12 +472,12 @@
   "classification": "bill",
   "subjects": [],
   "sponsors": [
-   "José E. Torres Zamora",
-   "Carmen Medina Calderón",
    "Ensol Rodríguez Torres",
-   "Tatiana Pérez Ramírez",
-   "Eddie Charbonier Chinea",
-   "Sergio E. Estévez Vélez"
+   "Joel Franqui Atiles",
+   "Carmen Medina Calderón",
+   "María de Lourdes Ramos Rivera",
+   "Ángel R. Peña Ramírez",
+   "Luis J. Jiménez Torres"
   ],
   "introduced": "2026-10-15",
   "latest_action_date": "2026-10-15",
@@ -490,7 +490,7 @@
   "topics": [
    "online-gambling"
   ],
-  "updated": "2026-10-26",
+  "updated": "2026-11-10",
   "first_seen": "2026-10-15",
   "stage_changed": null
  },
@@ -1218,7 +1218,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-06",
+  "updated": "2026-11-10",
   "first_seen": "2025-03-18",
   "stage_changed": null
  },
@@ -5016,7 +5016,7 @@
   "topics": [
    "prediction-markets"
   ],
-  "updated": "2026-08-04",
+  "updated": "2026-11-10",
   "first_seen": "2026-04-30",
   "stage_changed": null,
   "congress": 119,
@@ -15647,10 +15647,9 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB73/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb73",
   "topics": [
-   "lottery",
-   "policy"
+   "lottery"
   ],
-  "updated": "2026-09-21",
+  "updated": "2026-11-10",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -16024,7 +16023,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-08",
+  "updated": "2026-11-10",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },

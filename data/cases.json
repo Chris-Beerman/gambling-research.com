@@ -10,7 +10,7 @@
   "court_level_label": "federal district",
   "date_filed": "2026-07-09",
   "date_terminated": null,
-  "latest_activity": "2026-11-06",
+  "latest_activity": "2026-11-09",
   "docket_number": "1:26-cv-05821",
   "citation": "",
   "status": "",
@@ -18,6 +18,11 @@
   "snippet": "28:1332 Diversity Action; nature of suit: 890 Other Statutory Actions",
   "suit_nature": "890 Other Statutory Actions",
   "documents": [
+   {
+    "date": "2026-11-09",
+    "description": "Order on Motion for Extension of Time",
+    "url": "https://www.courtlistener.com/docket/73593921/15/vazquez-v-kalshi-inc/"
+   },
    {
     "date": "2026-11-06",
     "description": "Response in Opposition to Motion",
@@ -29,6 +34,192 @@
    "prediction-markets"
   ],
   "first_seen": "2026-11-07"
+ },
+ {
+  "id": "cl-d-75094358",
+  "kind": "docket",
+  "case_name": "The Seminole Tribe of Florida v. DraftKings, Inc.",
+  "court": "District Court, S.D. Florida",
+  "court_id": "flsd",
+  "court_citation": "S.D. Fla.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-11-09",
+  "date_terminated": null,
+  "latest_activity": "2026-11-09",
+  "docket_number": "0:26-cv-63156",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75094358/the-seminole-tribe-of-florida-v-draftkings-inc/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-11-09",
+    "description": "Notice of Removal (State Court Complaint)",
+    "url": "https://www.courtlistener.com/docket/75094358/1/the-seminole-tribe-of-florida-v-draftkings-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "cl-d-75091330",
+  "kind": "docket",
+  "case_name": "Robinhood Derivatives, LLC v. Missouri Attorney General",
+  "court": "District Court, E.D. Missouri",
+  "court_id": "moed",
+  "court_citation": "E.D. Mo.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-11-09",
+  "date_terminated": null,
+  "latest_activity": "2026-11-09",
+  "docket_number": "4:26-cv-01932",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75091330/robinhood-derivatives-llc-v-missouri-attorney-general/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 950 Constitutional - State Statute",
+  "suit_nature": "950 Constitutional - State Statute",
+  "documents": [
+   {
+    "date": "2026-11-09",
+    "description": "COMPLAINT against defendant Missouri Attorney General with receipt number BMOEDC-12177600, in the amount of $405 Non-Jury Demand,, filed by ",
+    "url": "https://www.courtlistener.com/docket/75091330/1/robinhood-derivatives-llc-v-missouri-attorney-general/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "cl-d-75090390",
+  "kind": "docket",
+  "case_name": "QCX LLC v. Hanaway",
+  "court": "District Court, E.D. Missouri",
+  "court_id": "moed",
+  "court_citation": "E.D. Mo.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-11-09",
+  "date_terminated": null,
+  "latest_activity": "2026-11-09",
+  "docket_number": "4:26-cv-01930",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75090390/qcx-llc-v-hanaway/",
+  "snippet": "42:1983 Civil Rights Act; nature of suit: 950 Constitutional - State Statute",
+  "suit_nature": "950 Constitutional - State Statute",
+  "documents": [
+   {
+    "date": "2026-11-09",
+    "description": "DISCLOSURE STATEMENT by QCX LLC d/b/a Polymarket US, Blockratize Inc... (Dowd, Edward)",
+    "url": "https://www.courtlistener.com/docket/75090390/2/qcx-llc-dba-polymarket-us-v-hanaway/"
+   },
+   {
+    "date": "2026-11-09",
+    "description": "COMPLAINT against defendant All Defendants with receipt number AMOEDC-12176686, in the amount of $405 Non-Jury Demand,, filed by QCX LLC d/b",
+    "url": "https://www.courtlistener.com/docket/75090390/1/2/qcx-llc-dba-polymarket-us-v-hanaway/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "cl-d-73601450",
+  "kind": "docket",
+  "case_name": "KalshiEX LLC v. Williams",
+  "court": "Court of Appeals for the Second Circuit",
+  "court_id": "ca2",
+  "court_citation": "2d Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2026-07-08",
+  "date_terminated": null,
+  "latest_activity": "2026-11-09",
+  "docket_number": "26-1835",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73601450/kalshiex-llc-v-williams/",
+  "snippet": "",
+  "suit_nature": "",
+  "documents": [
+   {
+    "date": "2026-11-09",
+    "description": "AMICUS BRIEF, on behalf of Amicus Indian Gaming Association, National Congress of American Indians, FILED. Service date 11/09/2026 by ACMS. ",
+    "url": "https://www.courtlistener.com/docket/73601450/99/kalshiex-llc-v-williams/"
+   },
+   {
+    "date": "2026-11-09",
+    "description": "NOTICE OF APPEARANCE AS AMICUS COUNSEL, on behalf of Indian Gaming Association, National Congress of American Indians,, FILED. Service date ",
+    "url": "https://www.courtlistener.com/docket/73601450/100/kalshiex-llc-v-williams/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "AMICUS BRIEF, on behalf of Amicus North American Gaming Regulators Association, International Association of Gaming Regulators, FILED. Servi",
+    "url": "https://www.courtlistener.com/docket/73601450/83/kalshiex-llc-v-williams/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "AMICUS BRIEF, on behalf of Amicus Ohio, Nevada, 35 Other States, the District of Columbia, and the Northern Mariana Islands, FILED. Service ",
+    "url": "https://www.courtlistener.com/docket/73601450/91/kalshiex-llc-v-williams/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "AMICUS BRIEF, on behalf of Amicus Gary Gensler, FILED. Service date 11/06/2026 by ACMS. [Entered: 11/06/2026 03:33 PM]",
+    "url": "https://www.courtlistener.com/docket/73601450/93/kalshiex-llc-v-williams/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "cl-d-75062269",
+  "kind": "docket",
+  "case_name": "Capital Markets Alliance Association v. Commodity Futures Trading Commission",
+  "court": "District Court, S.D. New York",
+  "court_id": "nysd",
+  "court_citation": "S.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-11-03",
+  "date_terminated": null,
+  "latest_activity": "2026-11-09",
+  "docket_number": "1:26-cv-09608",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75062269/capital-markets-alliance-association-v-commodity-futures-trading/",
+  "snippet": "05:702 Administrative Procedure Act; nature of suit: 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "suit_nature": "899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "documents": [
+   {
+    "date": "2026-11-09",
+    "description": "NOTICE OF APPEARANCE by Steven A. Engel on behalf of Kalshi Inc...(Engel, Steven)",
+    "url": "https://www.courtlistener.com/docket/75062269/37/capital-markets-alliance-association-v-commodity-futures-trading/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "OPPOSITION BRIEF re: 4 Proposed Order to Show Cause With Emergency Relief,,,, . Document filed by Commodity Futures Trading Commission, Mich",
+    "url": "https://www.courtlistener.com/docket/75062269/31/capital-markets-alliance-association-v-commodity-futures-trading/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "DECLARATION of Stephen Berger / Redacted in Support re: 17 LETTER MOTION for Leave to File Supplemental Declarations in further support of t",
+    "url": "https://www.courtlistener.com/docket/75062269/19/capital-markets-alliance-association-v-commodity-futures-trading/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-10"
  },
  {
   "id": "cl-o-11056817",
@@ -101,57 +292,6 @@
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-10-16"
- },
- {
-  "id": "cl-d-73601450",
-  "kind": "docket",
-  "case_name": "KalshiEX LLC v. Williams",
-  "court": "Court of Appeals for the Second Circuit",
-  "court_id": "ca2",
-  "court_citation": "2d Cir.",
-  "court_level": "federal-appellate",
-  "court_level_label": "federal appellate",
-  "date_filed": "2026-07-08",
-  "date_terminated": null,
-  "latest_activity": "2026-11-06",
-  "docket_number": "26-1835",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73601450/kalshiex-llc-v-williams/",
-  "snippet": "",
-  "suit_nature": "",
-  "documents": [
-   {
-    "date": "2026-11-06",
-    "description": "AMICUS BRIEF, on behalf of Amicus North American Gaming Regulators Association, International Association of Gaming Regulators, FILED. Servi",
-    "url": "https://www.courtlistener.com/docket/73601450/83/kalshiex-llc-v-williams/"
-   },
-   {
-    "date": "2026-11-06",
-    "description": "AMICUS BRIEF, on behalf of Amicus Ohio, Nevada, 35 Other States, the District of Columbia, and the Northern Mariana Islands, FILED. Service ",
-    "url": "https://www.courtlistener.com/docket/73601450/91/kalshiex-llc-v-williams/"
-   },
-   {
-    "date": "2026-11-06",
-    "description": "AMICUS BRIEF, on behalf of Amicus Gary Gensler, FILED. Service date 11/06/2026 by ACMS. [Entered: 11/06/2026 03:33 PM]",
-    "url": "https://www.courtlistener.com/docket/73601450/93/kalshiex-llc-v-williams/"
-   },
-   {
-    "date": "2026-11-06",
-    "description": "AMICUS BRIEF, on behalf of Amicus Better Markets, FILED. Service date 11/06/2026 by ACMS. [Entered: 11/06/2026 11:27 AM]",
-    "url": "https://www.courtlistener.com/docket/73601450/84/kalshiex-llc-v-williams/"
-   },
-   {
-    "date": "2026-10-30",
-    "description": "BRIEF, on behalf of Appellee Robert Williams, Appellee Brian O'Dwyer, Appellee John A. Crotty, Appellee Sylvia B. Hamer, Appellee Martin J. ",
-    "url": "https://www.courtlistener.com/docket/73601450/72/kalshiex-llc-v-williams/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-27"
  },
  {
   "id": "cl-d-73485862",

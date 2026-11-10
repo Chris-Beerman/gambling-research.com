@@ -6921,6 +6921,46 @@
   "status_changed": null
  },
  {
+  "id": "osf:j8chw",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Exploratory Structural Equation Modelling (ESEM) of the Gambling Related Cognitions Scale",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2025-11-11",
+  "last_updated": "2026-01-15",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "The Gambling-Related Cognitions Scale (GRCS; Raylu and Oei, 2004) is a widely used measure of trait-level gambling distortions …",
+  "url": "https://osf.io/j8chw/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Zaina Alkurdi",
+   "Nassim Tabri",
+   "Luke Clark"
+  ],
+  "topics": [
+   "measurement",
+   "cognition"
+  ],
+  "designs": [],
+  "first_seen": "2026-11-10",
+  "status_changed": null
+ },
+ {
   "id": "osf:s45m3",
   "registry": "osf",
   "registry_label": "OSF Registries",
