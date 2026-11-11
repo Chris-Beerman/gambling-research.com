@@ -1,5 +1,175 @@
 [
  {
+  "id": "cl-o-11059022",
+  "kind": "opinion",
+  "case_name": "William T. McLain v. Tristan Davis",
+  "court": "Court of Appeals of Mississippi",
+  "court_id": "missctapp",
+  "court_citation": "Miss. Ct. App.",
+  "court_level": "state-appellate",
+  "court_level_label": "state appellate",
+  "date_filed": "2026-11-10",
+  "date_terminated": null,
+  "latest_activity": "2026-11-10",
+  "docket_number": "2025-CA-00453-COA",
+  "citation": "",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11059022/william-t-mclain-v-tristan-davis/",
+  "snippet": "account was currently depleted, mostly due to his gambling addiction. Davis stated that McLain gave her",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "cl-d-73456531",
+  "kind": "docket",
+  "case_name": "State of New Mexico v. Kalshi, Inc.",
+  "court": "District Court, D. New Mexico",
+  "court_id": "nmd",
+  "court_citation": "D.N.M.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-08",
+  "date_terminated": null,
+  "latest_activity": "2026-11-10",
+  "docket_number": "6:26-cv-01857",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73456531/state-of-new-mexico-v-kalshi-inc/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-10",
+    "description": "Status Conference",
+    "url": "https://www.courtlistener.com/docket/73456531/46/state-of-new-mexico-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "cl-d-71158158",
+  "kind": "docket",
+  "case_name": "Ho-Chunk Nation v. Kalshi Inc.",
+  "court": "District Court, W.D. Wisconsin",
+  "court_id": "wiwd",
+  "court_citation": "W.D. Wis.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2025-08-20",
+  "date_terminated": null,
+  "latest_activity": "2026-11-10",
+  "docket_number": "3:25-cv-00698",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/71158158/ho-chunk-nation-v-kalshi-inc/",
+  "snippet": "18:1964 Racketeering (RICO) Act; nature of suit: 470 Racketeer/Corrupt Organization",
+  "suit_nature": "470 Racketeer/Corrupt Organization",
+  "documents": [
+   {
+    "date": "2026-11-10",
+    "description": "Filing Fee Received",
+    "url": ""
+   },
+   {
+    "date": "2026-10-27",
+    "description": "ORDER from USCA that Kalshi Inc. and KalshiEX LLC's motion for leave to file a reply is GRANTED. Kalshi Inc. and KalshiEX LLC's petition for",
+    "url": "https://www.courtlistener.com/docket/71158158/117/ho-chunk-nation-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "cl-d-68451952",
+  "kind": "docket",
+  "case_name": "Cayuga Nation v. O'Dwyer",
+  "court": "District Court, N.D. New York",
+  "court_id": "nynd",
+  "court_citation": "N.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2024-04-18",
+  "date_terminated": null,
+  "latest_activity": "2026-11-10",
+  "docket_number": "5:24-cv-00537",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/68451952/cayuga-nation-v-odwyer/",
+  "snippet": "25:2701 Indian Gaming Regulatory Act (IGRA); nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-10",
+    "description": "Order AND ~Util - Add and Terminate Attorneys",
+    "url": "https://www.courtlistener.com/docket/68451952/107/cayuga-nation-v-odwyer/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "cl-d-70884560",
+  "kind": "docket",
+  "case_name": "Blue Lake Rancheria v. KALSHI INC.",
+  "court": "District Court, N.D. California",
+  "court_id": "cand",
+  "court_citation": "N.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2025-07-22",
+  "date_terminated": null,
+  "latest_activity": "2026-11-10",
+  "docket_number": "3:25-cv-06162",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/70884560/blue-lake-rancheria-v-kalshi-inc/",
+  "snippet": "25:640 Indian Tribal Rights; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-10",
+    "description": "Transcript",
+    "url": "https://www.courtlistener.com/docket/70884560/111/blue-lake-rancheria-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "Transcript Order",
+    "url": "https://www.courtlistener.com/docket/70884560/110/blue-lake-rancheria-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-05",
+    "description": "Electronic Filing Error",
+    "url": ""
+   },
+   {
+    "date": "2026-11-05",
+    "description": "Amended Document (NOT Motion)",
+    "url": "https://www.courtlistener.com/docket/70884560/109/blue-lake-rancheria-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-04",
+    "description": "Amended Complaint",
+    "url": "https://www.courtlistener.com/docket/70884560/107/blue-lake-rancheria-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ {
   "id": "cl-d-73593921",
   "kind": "docket",
   "case_name": "Vazquez v. Kalshi, Inc.",
@@ -38,7 +208,7 @@
  {
   "id": "cl-d-75094358",
   "kind": "docket",
-  "case_name": "The Seminole Tribe of Florida v. DraftKings, Inc.",
+  "case_name": "The Seminole Tribe of Florida v. DraftKings, Inc. et, al.",
   "court": "District Court, S.D. Florida",
   "court_id": "flsd",
   "court_citation": "S.D. Fla.",
@@ -50,13 +220,13 @@
   "docket_number": "0:26-cv-63156",
   "citation": "",
   "status": "",
-  "url": "https://www.courtlistener.com/docket/75094358/the-seminole-tribe-of-florida-v-draftkings-inc/",
-  "snippet": "",
-  "suit_nature": "",
+  "url": "https://www.courtlistener.com/docket/75094358/the-seminole-tribe-of-florida-v-draftkings-inc-et-al/",
+  "snippet": "28:1441 Notice of Removal; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
   "documents": [
    {
     "date": "2026-11-09",
-    "description": "Notice of Removal (State Court Complaint)",
+    "description": "NOTICE OF REMOVAL (STATE COURT COMPLAINT - Complaint) Filing fee $ 405.00 receipt number AFLSDC-20220109, filed by GUS III LLC, d/b/a DraftK",
     "url": "https://www.courtlistener.com/docket/75094358/1/the-seminole-tribe-of-florida-v-draftkings-inc/"
    }
   ],
@@ -206,13 +376,13 @@
    },
    {
     "date": "2026-11-06",
-    "description": "OPPOSITION BRIEF re: 4 Proposed Order to Show Cause With Emergency Relief,,,, . Document filed by Commodity Futures Trading Commission, Mich",
-    "url": "https://www.courtlistener.com/docket/75062269/31/capital-markets-alliance-association-v-commodity-futures-trading/"
+    "description": "DECLARATION of Stephen Berger / Redacted in Support re: 17 LETTER MOTION for Leave to File Supplemental Declarations in further support of t",
+    "url": "https://www.courtlistener.com/docket/75062269/19/capital-markets-alliance-association-v-commodity-futures-trading/"
    },
    {
     "date": "2026-11-06",
-    "description": "DECLARATION of Stephen Berger / Redacted in Support re: 17 LETTER MOTION for Leave to File Supplemental Declarations in further support of t",
-    "url": "https://www.courtlistener.com/docket/75062269/19/capital-markets-alliance-association-v-commodity-futures-trading/"
+    "description": "OPPOSITION BRIEF re: 4 Proposed Order to Show Cause With Emergency Relief,,,, . Document filed by Commodity Futures Trading Commission, Mich",
+    "url": "https://www.courtlistener.com/docket/75062269/31/capital-markets-alliance-association-v-commodity-futures-trading/"
    }
   ],
   "cite_count": 0,
@@ -418,52 +588,6 @@
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-11-08"
- },
- {
-  "id": "cl-d-70884560",
-  "kind": "docket",
-  "case_name": "Blue Lake Rancheria v. KALSHI INC.",
-  "court": "District Court, N.D. California",
-  "court_id": "cand",
-  "court_citation": "N.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2025-07-22",
-  "date_terminated": null,
-  "latest_activity": "2026-11-06",
-  "docket_number": "3:25-cv-06162",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/70884560/blue-lake-rancheria-v-kalshi-inc/",
-  "snippet": "25:640 Indian Tribal Rights; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-11-06",
-    "description": "Transcript Order",
-    "url": "https://www.courtlistener.com/docket/70884560/110/blue-lake-rancheria-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-11-05",
-    "description": "Electronic Filing Error",
-    "url": ""
-   },
-   {
-    "date": "2026-11-05",
-    "description": "Amended Document (NOT Motion)",
-    "url": "https://www.courtlistener.com/docket/70884560/109/blue-lake-rancheria-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-11-04",
-    "description": "Amended Complaint",
-    "url": "https://www.courtlistener.com/docket/70884560/107/blue-lake-rancheria-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-14"
  },
  {
   "id": "cl-d-73453634",
@@ -1231,37 +1355,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-13"
- },
- {
-  "id": "cl-d-71158158",
-  "kind": "docket",
-  "case_name": "Ho-Chunk Nation v. Kalshi Inc.",
-  "court": "District Court, W.D. Wisconsin",
-  "court_id": "wiwd",
-  "court_citation": "W.D. Wis.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2025-08-20",
-  "date_terminated": null,
-  "latest_activity": "2026-10-27",
-  "docket_number": "3:25-cv-00698",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/71158158/ho-chunk-nation-v-kalshi-inc/",
-  "snippet": "18:1964 Racketeering (RICO) Act; nature of suit: 470 Racketeer/Corrupt Organization",
-  "suit_nature": "470 Racketeer/Corrupt Organization",
-  "documents": [
-   {
-    "date": "2026-10-27",
-    "description": "ORDER from USCA that Kalshi Inc. and KalshiEX LLC's motion for leave to file a reply is GRANTED. Kalshi Inc. and KalshiEX LLC's petition for",
-    "url": "https://www.courtlistener.com/docket/71158158/117/ho-chunk-nation-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-28"
  },
  {
   "id": "cl-d-75015578",

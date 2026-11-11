@@ -25,8 +25,9 @@
  },
  "settings": {
   "n": 69,
-  "accuracy": 0.957,
+  "accuracy": 0.942,
   "misses": [
+   "10.1080/14459795.2026.2748058: settings [] != ['AU']",
    "10.24301/mhsw.2026.9.54.3.111: settings [] != ['KR']",
    "10.30659/ldj.4.3.389-395: settings [] != ['ID']",
    "10.47197/retos.v76.118475: settings ['KH', 'TH'] != ['TH']"
@@ -52,14 +53,14 @@
   },
   "settings": {
    "n": 69,
-   "accuracy": 0.957
+   "accuracy": 0.942
   },
   "topics": {
    "n": 92,
    "accuracy": 0.924
   }
  },
- "checked": "2026-11-10T14:59:38+00:00",
+ "checked": "2026-11-11T14:26:40+00:00",
  "thresholds": {
   "keep": 0.95,
   "designs": 0.82,

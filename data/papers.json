@@ -1,17 +1,500 @@
 [
  {
-  "id": "doi:10.1556/2006.2026.00194",
-  "doi": "10.1556/2006.2026.00194",
+  "id": "doi:10.20318/cdt.2026.10961",
+  "doi": "10.20318/cdt.2026.10961",
   "pmid": null,
   "pmcid": null,
+  "openalex": "W7225754768",
+  "title": "The CJEU’s Wunner judgment on Rome II and company directors’ tort liability for losses incurred by online gamblers",
+  "journal": "CUADERNOS DE DERECHO TRANSNACIONAL",
+  "authors": [
+   "Paolo Bertoli",
+   "Rebekka Monico"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "summary": "The article analyses the long-awaited Wunner judgment, where the Court of Justice addressed for the first time the interpretation of the lex societatis exception in article 1(2)(d) and the localisation of the locus damni pursuant to article 4(1) of the Rome II Regulation in the context of a claim brought by an Austrian gambler directly against company …",
+  "url": "https://doi.org/10.20318/cdt.2026.10961",
+  "oa_url": "https://doi.org/10.20318/cdt.2026.10961",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "AT",
+   "MT"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.36941/mjss-2026-0151",
+  "doi": "10.36941/mjss-2026-0151",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225706117",
+  "title": "Sports Betting and Regulatory Governance in Nigeria: Consumer Protection, Disputed Winnings and Institutional Accountability",
+  "journal": "Mediterranean Journal of Social Sciences",
+  "authors": [
+   "Charles Egwu UROM",
+   "CHRIS-WORLU Igwugwum"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "summary": "This study examined sports betting and regulatory governance in Nigeria, with particular attention to disputed winnings, consumer protection and institutional accountability …",
+  "url": "https://doi.org/10.36941/mjss-2026-0151",
+  "oa_url": "https://doi.org/10.36941/mjss-2026-0151",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "prevention",
+   "policy",
+   "industry"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "NG"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/29966892.2026.2761175",
+  "doi": "10.1080/29966892.2026.2761175",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225729080",
+  "title": "Spatial competition and patron retention: evaluating competitive zones in casino CRM models",
+  "journal": "Applied Operations and Analytics",
+  "authors": [
+   "Mark Legg",
+   "Asit Bandyopadhayay",
+   "Apostolos Ampountolas"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "summary": "Spatial dependence influences casino demand in competitive regional markets. Patrons prefer casinos that offer greater value relative to their travel effort, making proximity an important consideration when choosing among alternatives …",
+  "url": "https://doi.org/10.1080/29966892.2026.2761175",
+  "oa_url": "https://doi.org/10.1080/29966892.2026.2761175",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.54254/2754-1169/2026.38796",
+  "doi": "10.54254/2754-1169/2026.38796",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225733470",
+  "title": "How Do Loot Box Probabilities Affect Secondary Market Prices and Player Choices in Video Games",
+  "journal": "Advances in Economics Management and Political Sciences",
+  "authors": [
+   "Zijun Wang"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "summary": "This study aims to investigate how the probability of winning in video game gacha systems influences players' choices regarding the acquisition of virtual skins, as well as the relationship between this probability mechanism and secondary market prices …",
+  "url": "https://doi.org/10.54254/2754-1169/2026.38796",
+  "oa_url": "https://aemps.ewapub.com/article/view/38796.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.24072/pci.rr.103265",
+  "doi": "10.24072/pci.rr.103265",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225654216",
+  "title": "Recommendation of: The impact of cash out availability on online betting behavior. Round#2",
+  "journal": "Peer Community In Registered Reports",
+  "authors": [],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "",
+  "url": "https://doi.org/10.24072/pci.rr.103265",
+  "oa_url": "https://doi.org/10.24072/pci.rr.103265",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.33487/edumaspul.v10i2.596",
+  "doi": "10.33487/edumaspul.v10i2.596",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225664002",
+  "title": "Prohibited Transactions in Islamic Finance Education: A Conceptual Analysis of Riba, Gharar, Maysir, and Sharia Compliance in Contemporary Financial Practices",
+  "journal": "Edumaspul - Jurnal Pendidikan",
+  "authors": [
+   "Ramli Ramli",
+   "Syahriyah Semaun"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Islamic finance evaluates transactions through contractual validity and the substantive requirements of justice, transparency, lawful economic activity, and protection of wealth …",
+  "url": "https://doi.org/10.33487/edumaspul.v10i2.596",
+  "oa_url": "https://jurnal2.unimen.ac.id/index.php/edumaspul/article/download/596/472",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "policy"
+  ],
+  "designs": [
+   "qualitative",
+   "behavioral-data"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fradm.2026.1976366",
+  "doi": "10.3389/fradm.2026.1976366",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225648743",
+  "title": "Prediction markets in the United States: a youth public health perspective",
+  "journal": "Frontiers in Adolescent Medicine",
+  "authors": [
+   "Tammy A. Chung"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Prediction markets (PMs) provide the opportunity to trade on the likelihood of an event, such as will Team A beat Team B. PMs are increasingly popular, particularly among young people, because unlike legalized online sports betting, PMs can be accessed in all 50 United States and in some PMs, at age 18 …",
+  "url": "https://doi.org/10.3389/fradm.2026.1976366",
+  "oa_url": "https://www.frontiersin.org/journals/adolescent-medicine/articles/10.3389/fradm.2026.1976366/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "prediction-markets",
+   "youth",
+   "prevention",
+   "advertising"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/healthcare14213807",
+  "doi": "10.3390/healthcare14213807",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225613755",
+  "title": "Latent Profiles of Online Gambling and Sports Betting Participation and Psychological Distress Among Young People with Reduced Mobility",
+  "journal": "Healthcare",
+  "authors": [
+   "Raquel Suriá Martínez",
+   "Fernando García-Castillo",
+   "Carmen López Sánchez",
+   "Esther Villegas Castrillo",
+   "José Antonio García del Castillo"
+  ],
+  "published": "2026-11-07",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Background/Objectives: This study aimed to identify latent profiles of online gambling participation among young people with reduced mobility and examine their associations with anxiety and depression, as well as the relationship between gambling-related risk and psychological distress …",
+  "url": "https://doi.org/10.3390/healthcare14213807",
+  "oa_url": "https://doi.org/10.3390/healthcare14213807",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "online-gambling",
+   "youth",
+   "prevention",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.jbef.2026.101277",
+  "doi": "10.1016/j.jbef.2026.101277",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225613045",
+  "title": "The Hidden Costs of Sports Gambling: Spillover Effects on Financial Risk-Taking and Vulnerability to Fraud",
+  "journal": "Journal of Behavioral and Experimental Finance",
+  "authors": [
+   "Matheus Moura",
+   "Rodrigo de Oliveira Leite",
+   "Ricardo Lopes Cardoso",
+   "Luana Alves"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Using experimental data from a survey of 737 Brazilian investors sourced through the Brazilian Securities and Exchange Commission, we examine how individuals evaluate legitimate and illegitimate financial choices …",
+  "url": "https://doi.org/10.1016/j.jbef.2026.101277",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214635026001395/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "BR"
+  ],
+  "setting_regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.7759/cureus.117712",
+  "doi": "10.7759/cureus.117712",
+  "pmid": "43005291",
+  "pmcid": "PMC13745759",
   "openalex": null,
+  "title": "Project-Based Learning in Medical Physiology: Effects on Knowledge Gain and Student Perceptions",
+  "journal": "Cureus",
+  "authors": [
+   "Aparna Menon",
+   "K Venkatesh",
+   "Kanthasamy Kiran",
+   "R Premaraja",
+   "Boddepalli Abhiram",
+   "Monica P V",
+   "R Divya"
+  ],
+  "published": "2026-10-09",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Although project-based learning (PBL) is well-established in advanced medical curricula, evidence supporting its implementation in first-year undergraduate programs remains limited. Early research exposure may enhance student engagement …",
+  "url": "https://doi.org/10.7759/cureus.117712",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13745759/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "IN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/0308518x261441480",
+  "doi": "10.1177/0308518x261441480",
+  "pmid": "43005989",
+  "pmcid": "PMC13747232",
+  "openalex": null,
+  "title": "Financialization and local statecraft: Truth and consequences",
+  "journal": "Environment & planning A",
+  "authors": [
+   "Heather Whiteside"
+  ],
+  "published": "2026-04-19",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Dire warnings abound of English local government insolvency through reckless decision-making. Andy Pike's Financialization and Local Statecraft offers readers a more nuanced account of varied local statecrafters navigating fiscal-finance dilemmas, acknowledging both agency and constraints …",
+  "url": "https://doi.org/10.1177/0308518x261441480",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747232/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "casino"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1556/2006.2026.00194",
+  "doi": "10.1556/2006.2026.00194",
+  "pmid": "43007360",
+  "pmcid": null,
+  "openalex": "W7225720135",
   "title": "Impulsivity, compulsivity, and impulse control disorders in adults with elevated borderline personality disorder traits",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
    "Laurie Avila",
    "Megha Neelapu",
    "Sophia Boutouis",
-   "Jon E. Grant"
+   "Jon E Grant"
   ],
   "published": "2026-11-10",
   "year": 2026,
@@ -19,9 +502,11 @@
   "first_seen": "2026-11-10",
   "summary": "Abstract Background and aims While impulsivity is a core feature of borderline personality disorder (BPD), rates of comorbid impulse control disorders in those with BPD are unclear. Moreover, despite the tendency for impulsivity and compulsivity to present together, compulsivity has been understudied in BPD …",
   "url": "https://doi.org/10.1556/2006.2026.00194",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1556/2006.2026.00194",
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -44,27 +529,27 @@
   "regions": [
    "us"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "low",
   "retracted": false
  },
  {
   "id": "doi:10.1007/s10899-026-10547-7",
   "doi": "10.1007/s10899-026-10547-7",
-  "pmid": null,
+  "pmid": "43007620",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7225697611",
   "title": "Identifying Significant Correlates of Adolescent Online Gambling Using A Random Forest Approach: A Cross-Sectional Study",
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Victoria Matheou",
-   "Mahmood R. Gohari",
-   "Karen A. Patte",
+   "Mahmood R Gohari",
+   "Karen A Patte",
    "Tara Elton-Marshall",
-   "Mark A. Ferro",
-   "Scott T. Leatherdale",
+   "Mark A Ferro",
+   "Scott T Leatherdale",
    "Rachel Laxer",
-   "Adam G. Cole"
+   "Adam G Cole"
   ],
   "published": "2026-11-10",
   "year": 2026,
@@ -72,10 +557,12 @@
   "first_seen": "2026-11-10",
   "summary": "Online gambling is increasing among adolescents. Machine learning methods can be used to identify and rank classification-relevant predictors among a large set of variables. This study identified and ranked factors associated with online gambling among high school students in Canada using a Random Forest (RF) approach …",
   "url": "https://doi.org/10.1007/s10899-026-10547-7",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1007/s10899-026-10547-7",
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -95,8 +582,12 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -158,7 +649,7 @@
   "doi": "10.1556/2006.2026.00139",
   "pmid": "43002196",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7154685259",
   "title": "Incomplete compliance: Loot box prevalence, presence disclosures, probability disclosures, and Compu Gacha policy in Japanese mobile games",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
@@ -174,9 +665,10 @@
   "first_seen": "2026-11-10",
   "summary": "Abstract Background and aims Loot boxes or gacha are bought in video games to obtain randomised rewards. Their gambling-like characteristics and associations with both gambling and videogaming disorder worry parents and regulators. As the third-largest videogaming market, Japan has a decade-long history of regulating loot boxes. Several regulations co-exist …",
   "url": "https://doi.org/10.1556/2006.2026.00139",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1556/2006.2026.00139",
   "sources": [
    "crossref",
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -195,13 +687,10 @@
    "asia"
   ],
   "countries": [
-   "GB",
-   "CN",
    "HK",
    "JP"
   ],
   "regions": [
-   "uk-ireland",
    "asia"
   ],
   "language": "en",
@@ -213,7 +702,7 @@
   "doi": "10.1080/14656566.2026.2761183",
   "pmid": "43002438",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7225615078",
   "title": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond",
   "journal": "Expert Opinion on Pharmacotherapy",
   "authors": [
@@ -234,6 +723,7 @@
   "url": "https://doi.org/10.1080/14656566.2026.2761183",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "review",
@@ -249,12 +739,12 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "GB",
-   "IT"
+   "IT",
+   "GB"
   ],
   "regions": [
-   "uk-ireland",
-   "europe"
+   "europe",
+   "uk-ireland"
   ],
   "language": "en",
   "relevance": "high",
@@ -262,7 +752,7 @@
  },
  {
   "id": "title:58cc236c312bb0f0",
-  "doi": null,
+  "doi": "10.62379/jbem.v3i2.2120",
   "pmid": null,
   "pmcid": null,
   "openalex": "W7225685921",
@@ -278,8 +768,8 @@
   "created": "2026-11-10",
   "first_seen": "2026-11-10",
   "summary": "This study aims to examine the influence of financial literacy and self-control on the tendency toward online gambling behavior among Generation Z in Indonesia. This research employed a quantitative approach, collecting data through questionnaires from 46 respondents. Data were analyzed using simple and multiple linear regression …",
-  "url": "https://jurnal.globalscients.com/index.php/jbem/article/view/2120",
-  "oa_url": "https://jurnal.globalscients.com/index.php/jbem/article/view/2120",
+  "url": "https://doi.org/10.62379/jbem.v3i2.2120",
+  "oa_url": "https://doi.org/10.62379/jbem.v3i2.2120",
   "sources": [
    "openalex"
   ],
@@ -324,7 +814,7 @@
   "first_seen": "2026-11-09",
   "summary": "This study explored the influence of social media on students’ engagement in scatter gambling and its perceived impacts among Criminology students at Cagayan State University–Sanchez Mira Campus, Philippines, and used the findings as the basis for a proposed intervention program for the College of Criminal Justice Education (CCJE) …",
   "url": "https://doi.org/10.5281/zenodo.24034482",
-  "oa_url": "https://doi.org/10.5281/zenodo.24034482",
+  "oa_url": "https://ijerip.erio.org.ph/index.php/articles/article/view/2092",
   "sources": [
    "openalex"
   ],
@@ -853,15 +1343,16 @@
   "year": 2026,
   "created": "2026-11-06",
   "first_seen": "2026-11-06",
-  "summary": "",
+  "summary": "When jurisdictions adopt casinos, a central design question is whether to build integrated resorts or standalone gaming facilities. We examine how bundling gaming with hotels and other amenities is associated with casino market revenue, proposing that integrated resorts act as destination-creating mechanisms …",
   "url": "https://doi.org/10.1016/j.tourman.2026.105559",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1016/j.tourman.2026.105559",
   "sources": [
    "openalex"
   ],
   "type": "article",
   "topics": [
-   "casino"
+   "casino",
+   "industry"
   ],
   "designs": [],
   "design_basis": "rules",
@@ -3248,7 +3739,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-10",
+  "published": "2027-01-11",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -3810,7 +4301,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-10",
+  "published": "2026-11-11",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -4158,9 +4649,9 @@
   "pmcid": null,
   "openalex": "W7223934557",
   "title": "Three Years of Care Trajectories Among Patients with Gambling Disorder",
-  "journal": "Administration and Policy in Mental Health",
+  "journal": "Administration and Policy in Mental Health and Mental Health Services Research",
   "authors": [
-   "Marie-Josée Fleury",
+   "Marie‐Josée Fleury",
    "Zhirong Cao",
    "Guy Grenier",
    "Magaly Brodeur",
@@ -4168,7 +4659,7 @@
   ],
   "published": "2026-10-27",
   "year": 2026,
-  "created": "2026-10-27",
+  "created": "2026-10-28",
   "first_seen": "2026-10-28",
   "summary": "Given the limited evidence on care received over time by patients with gambling disorder (GD), this study examined care trajectories and their associations with patients' conditions, gambling characteristics, and quality of care …",
   "url": "https://doi.org/10.1007/s10488-026-01533-7",
@@ -4178,21 +4669,11 @@
    "pubmed"
   ],
   "type": "article",
-  "topics": [
-   "treatment",
-   "comorbidity"
-  ],
-  "designs": [
-   "longitudinal",
-   "behavioral-data"
-  ],
+  "topics": [],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "CA"
-  ],
-  "setting_regions": [
-   "canada"
-  ],
+  "settings": [],
+  "setting_regions": [],
   "countries": [
    "CA"
   ],
@@ -4499,7 +4980,7 @@
   "authors": [
    "Georgia Murphy",
    "Matthew Browne",
-   "Alex M T Russell"
+   "Alex M. T. Russell"
   ],
   "published": "2026-10-27",
   "year": 2026,
@@ -4642,7 +5123,7 @@
   "year": 2026,
   "created": "2026-10-25",
   "first_seen": "2026-10-25",
-  "summary": "State lotteries are a staple of state revenue for the 45 states that run them and are an important part of state public finance. Following the repeal of the Professional and Amateur Sports Protection Act (PASPA), 38 states, plus Washington, DC, began operating legal sports betting markets …",
+  "summary": "State lotteries are an important source of state revenue in the 45 states that operate them. Following the repeal of the Professional and Amateur Sports Protection Act (PASPA), 38 states and Washington, DC legalized sports betting …",
   "url": "https://doi.org/10.1177/10911421261498451",
   "oa_url": "https://doi.org/10.2139/ssrn.6294538",
   "sources": [
@@ -6189,16 +6670,13 @@
   "title": "From the love of the game: a qualitative study exploring mechanisms to online gambling participation in young people",
   "journal": "International Gambling Studies",
   "authors": [
-   "Aino Suomi",
-   "Debbie Noble-Carr",
-   "Hunter Culbong",
-   "Thomas Stevens"
+   "Aino Suomi Debbie Noble-Carr Hunter Culbong Thomas Stevens a Centre for Gambling Research, Australian National University, Canberra, Australiab POLIS: Centre for Social Policy Research, Australian National University, Canberra, Australiac Youth Coalition of the ACT, Canberra, AustraliaAino Suomi (MPsych, PhD), Director of the Centre for Gambling Research, will lead the project. She is a trained child and family psychologist and a public health researcher with nearly 20 years of experience in research of family impacts of gambling harm. She is internationally renowned of her work about the intersection of child and family wellbeing and gambling harm, impacts of parental gambling on children, including family and intimate partner violence and using population health methodologies to examine gambling harm. As examples of experience achieving relevant outcomes, Aino leads programmatic research on young people and gambling harm, including a mix of quantitative research, co-design activities and qualitative interviews of young people exposed to gambling harm.Dr Debbie Noble-Carr is a Social Worker and Senior Research Officer at the Centre for Gambling Research, ANU. Since qualifying as social worker in 1996, Debbie has worked in a range of health and welfare settings providing support to vulnerable children, young people and their families. She is a leading qualitative researcher with vulnerable children and young people; managing research projects at the Australian Institute of Health and Welfare, the Institute of Child Protection Studies at Australian Catholic University and the Australian National University.Hunter Culbong is a PhD student and Academic Associate at ANU@POLIS. His current position at ANU has involved contribution to projects across several disciplines, including mental health service access for Aboriginal and Torres Strait Islander youth, and criminal justice experiences in Aboriginal and Torres Strait Islander communities.Thomas Stevens is the Director of Sector Development, Workforce Capability & Communications at the Youth Coalition of the ACT. Thomas dedicated himself to making significant contributions in policy development, research and evaluation, sector development, and advocacy efforts focused on issues concerning young people in the ACT. With more than 12 years of experience, he possesses extensive expertise in design, communications and marketing and also holds a graduate diploma in Digital Marketing."
   ],
   "published": "2026-10-20",
   "year": 2026,
   "created": "2026-10-20",
   "first_seen": "2026-10-21",
-  "summary": "Emerging research has identified engagement in sports or video gaming as risk factors for gambling and gambling harm in young adults, but little is known about the mechanisms through which childhood engagement with these activities may lead to gambling in early adulthood …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2748058",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2748058?needAccess=true",
   "sources": [
@@ -6209,26 +6687,17 @@
   "type": "article",
   "topics": [
    "online-gambling",
-   "loot-boxes",
    "youth"
   ],
   "designs": [
    "qualitative"
   ],
   "design_basis": "rules",
-  "settings": [
-   "AU"
-  ],
-  "setting_regions": [
-   "australia-nz"
-  ],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -11198,7 +11667,7 @@
   "year": 2026,
   "created": "2026-10-23",
   "first_seen": "2026-10-01",
-  "summary": "Abstract Previous research links Adverse Childhood Experiences (ACEs) with problem gambling, but most studies rely on retrospective reporting and focus narrowly on maltreatment, overlooking adversities such as parental mental health issues …",
+  "summary": "Previous research links Adverse Childhood Experiences (ACEs) with problem gambling, but most studies rely on retrospective reporting and focus narrowly on maltreatment, overlooking adversities such as parental mental health issues …",
   "url": "https://doi.org/10.1016/j.abrep.2026.100764",
   "oa_url": "https://doi.org/10.1016/j.abrep.2026.100764",
   "sources": [
@@ -173804,46 +174273,6 @@
    "asia"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.32782/2524-0374/2025-2/118",
-  "doi": "10.32782/2524-0374/2025-2/118",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4409686327",
-  "title": "ПРОБЛЕМАТИКА ПОПУЛЯРНОСТІ АЗАРТНИХ ІГОР В ПЕРІОД ДІЇ ВОЄННОГО СТАНУ: МЕТОДИ НОРМАТИВНО-ПРАВОВОГО РЕГУЛЮВАННЯ",
-  "journal": "Juridical Scientific and Electronic Journal",
-  "authors": [
-   "О.С. Сердюков"
-  ],
-  "published": "2025-01-01",
-  "year": 2025,
-  "created": "2025-10-10",
-  "first_seen": "2025-01-01",
-  "summary": "У статті досліджується актуальна проблема зростання популярності азартних ігор під час дії воєнного стану в Україні.Звертається увага на те, що в умовах стресу, невизначеності, економічної нестабільності та психологічної вразливості населення інтерес до азартних ігор суттєво зріс.Ігри на гроші, онлайн-казино та букмекерські сервіси стали для багатьох …",
-  "url": "https://doi.org/10.32782/2524-0374/2025-2/118",
-  "oa_url": "https://doi.org/10.32782/2524-0374/2025-2/118",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "UA"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [],
-  "regions": [],
-  "language": "uk",
   "relevance": "high",
   "retracted": false
  },

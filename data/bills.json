@@ -1,5 +1,75 @@
 [
  {
+  "id": "ocd-bill/c3353ccb-7e6a-4c23-9ef7-028389315490",
+  "level": "state",
+  "jurisdiction": "Ohio",
+  "jurisdiction_code": "oh",
+  "session": "136",
+  "identifier": "SB 479",
+  "title": "Specify that betting on elections constitutes prohibited gambling",
+  "abstract": "To amend section 2915.01 of the Revised Code to specify that betting on elections constitutes prohibited gambling.",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [
+   "William P. DeMora",
+   "Nickie J. Antonio",
+   "Willis E. Blackshear, Jr.",
+   "Casey Weinstein"
+  ],
+  "introduced": "2026-10-13",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "Referred to committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/oh/bills/136/SB479/",
+  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb479/",
+  "topics": [],
+  "updated": "2026-11-11",
+  "first_seen": "2026-10-13",
+  "stage_changed": "2026-11-11",
+  "previous_stage": "introduced"
+ },
+ {
+  "id": "ocd-bill/aa8e4e78-af85-4476-b4a4-0f0774f9faf0",
+  "level": "state",
+  "jurisdiction": "Ohio",
+  "jurisdiction_code": "oh",
+  "session": "136",
+  "identifier": "HB 971",
+  "title": "Enact the Save Ohio Sports Act",
+  "abstract": "To amend sections 718.031, 718.08, 3123.89, 3123.90, 3770.03, 3770.06, 3770.07, 3770.071, 3770.073, 3770.10, 3772.01, 3772.02, 3775.01, 3775.02, 3775.03, 3775.04, 3775.041, 3775.051, 3775.06, 3775.09, 3775.10, 3775.12, 3775.14, 3775.15, 3775.16, 3775.99, 5747.01, 5747.062, 5747.063, 5753.01, 5753.07, and 5753.08; to …",
+  "classification": "bill",
+  "subjects": [
+   "Commerce",
+   "Consumer Protection",
+   "Gambling"
+  ],
+  "sponsors": [
+   "Johnathan Newman",
+   "Beth Lear",
+   "Tim Barhorst",
+   "Jennifer Gross",
+   "Adam Holmes",
+   "Mark Johnson"
+  ],
+  "introduced": "2026-07-01",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "Referred to committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/oh/bills/136/HB971/",
+  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb971/",
+  "topics": [],
+  "updated": "2026-11-11",
+  "first_seen": "2026-07-01",
+  "stage_changed": "2026-11-11",
+  "previous_stage": "introduced"
+ },
+ {
   "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
   "level": "state",
   "jurisdiction": "Montana",
@@ -14,15 +84,15 @@
   ],
   "sponsors": [],
   "introduced": "2026-09-30",
-  "latest_action_date": "2026-11-09",
-  "latest_action": "(LC) Draft in Input/Proofing",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "(LC) Draft in Assembly",
   "latest_passage_date": null,
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/mt/bills/2027/LC660/",
   "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
   "topics": [],
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "first_seen": "2026-09-30",
   "stage_changed": null
  },
@@ -52,7 +122,7 @@
   "topics": [
    "comorbidity"
   ],
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "first_seen": "2026-09-28",
   "stage_changed": null
  },
@@ -99,7 +169,9 @@
   "title": "No Bets on Wildfires Act",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
   "sponsors": [
    "Rep. Whitesides, George [D-CA-27]"
   ],
@@ -176,7 +248,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -580,38 +652,6 @@
   "topics": [],
   "updated": "2026-10-16",
   "first_seen": "2026-10-14",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/c3353ccb-7e6a-4c23-9ef7-028389315490",
-  "level": "state",
-  "jurisdiction": "Ohio",
-  "jurisdiction_code": "oh",
-  "session": "136",
-  "identifier": "SB 479",
-  "title": "Specify that betting on elections constitutes prohibited gambling",
-  "abstract": "To amend section 2915.01 of the Revised Code to specify that betting on elections constitutes prohibited gambling.",
-  "classification": "bill",
-  "subjects": [
-   "Gambling"
-  ],
-  "sponsors": [
-   "William P. DeMora",
-   "Nickie J. Antonio",
-   "Willis E. Blackshear, Jr.",
-   "Casey Weinstein"
-  ],
-  "introduced": "2026-10-13",
-  "latest_action_date": "2026-10-13",
-  "latest_action": "Introduced",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/oh/bills/136/SB479/",
-  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb479/",
-  "topics": [],
-  "updated": "2026-10-14",
-  "first_seen": "2026-10-13",
   "stage_changed": null
  },
  {
@@ -1647,7 +1687,7 @@
   "topics": [
    "prediction-markets"
   ],
-  "updated": "2026-09-18",
+  "updated": "2026-11-11",
   "first_seen": "2026-07-22",
   "stage_changed": null,
   "congress": 119,
@@ -1772,7 +1812,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-10",
   "first_seen": "2026-01-07",
   "stage_changed": null
  },
@@ -1803,7 +1843,7 @@
   "url": "https://openstates.org/va/bills/2027/HB49/",
   "source_url": "https://lis.virginia.gov/bill-details/20271/HB49",
   "topics": [],
-  "updated": "2026-10-27",
+  "updated": "2026-11-10",
   "first_seen": "2025-12-29",
   "stage_changed": null
  },
@@ -1979,44 +2019,6 @@
   ],
   "updated": "2026-11-05",
   "first_seen": "2026-11-06",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/aa8e4e78-af85-4476-b4a4-0f0774f9faf0",
-  "level": "state",
-  "jurisdiction": "Ohio",
-  "jurisdiction_code": "oh",
-  "session": "136",
-  "identifier": "HB 971",
-  "title": "Enact the Save Ohio Sports Act",
-  "abstract": "To amend sections 718.031, 718.08, 3123.89, 3123.90, 3770.03, 3770.06, 3770.07, 3770.071, 3770.073, 3770.10, 3772.01, 3772.02, 3775.01, 3775.02, 3775.03, 3775.04, 3775.041, 3775.051, 3775.06, 3775.09, 3775.10, 3775.12, 3775.14, 3775.15, 3775.16, 3775.99, 5747.01, 5747.062, 5747.063, 5753.01, 5753.07, and 5753.08; to …",
-  "classification": "bill",
-  "subjects": [
-   "Commerce",
-   "Consumer Protection",
-   "Gambling"
-  ],
-  "sponsors": [
-   "Johnathan Newman",
-   "Beth Lear",
-   "Tim Barhorst",
-   "Jennifer Gross",
-   "Adam Holmes",
-   "Mark Johnson"
-  ],
-  "introduced": "2026-07-01",
-  "latest_action_date": "2026-07-01",
-  "latest_action": "Introduced",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/oh/bills/136/HB971/",
-  "source_url": "https://www.legislature.ohio.gov/legislation/136/hb971",
-  "topics": [
-   "prevention"
-  ],
-  "updated": "2026-07-01",
-  "first_seen": "2026-07-01",
   "stage_changed": null
  },
  {
@@ -15513,7 +15515,7 @@
   "topics": [
    "older-adults"
   ],
-  "updated": "2026-11-05",
+  "updated": "2026-11-11",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -16023,7 +16025,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },
