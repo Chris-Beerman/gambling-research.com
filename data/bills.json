@@ -1,5 +1,125 @@
 [
  {
+  "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 660",
+  "title": "Gambling oversight to economic affairs interim committee",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-09-30",
+  "latest_action_date": "2026-11-11",
+  "latest_action": "(LC) Draft Delivered to Requester",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC660/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-09-30",
+  "stage_changed": null
+ },
+ {
+  "id": "us-119-hr-10983",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "H.R. 10983",
+  "title": "No Gambling for Medicaid Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rep. Harrigan, Pat [R-NC-10]"
+  ],
+  "introduced": "2026-11-10",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "Referred to the House Committee on Energy and Commerce.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/house-bill/10983",
+  "source_url": "",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "hr",
+  "number": 10983
+ },
+ {
+  "id": "ocd-bill/9a83ffdd-5c0d-4cfe-89a0-af8d27b68478",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 1033",
+  "title": "Relating to the definition of private place for gambling criminal offense purposes.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "Crimes--Miscellaneous (I0200)",
+   "Criminal Procedure--General (I0208)"
+  ],
+  "sponsors": [
+   "Shaheen"
+  ],
+  "introduced": "2026-11-10",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB1033/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01000_HB01099/HB 1033.xml",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/d97f0ece-8cf7-4226-86d8-f892140daf66",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 1031",
+  "title": "Relating to the definitions of bet and paid fantasy sports league for gambling criminal offenses purposes.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "Crimes--Against Morals (I0180)"
+  ],
+  "sponsors": [
+   "Shaheen"
+  ],
+  "introduced": "2026-11-10",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB1031/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01000_HB01099/HB 1031.xml",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/c3353ccb-7e6a-4c23-9ef7-028389315490",
   "level": "state",
   "jurisdiction": "Ohio",
@@ -25,7 +145,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/oh/bills/136/SB479/",
-  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb479/",
+  "source_url": "https://www.legislature.ohio.gov/legislation/136/sb479",
   "topics": [],
   "updated": "2026-11-11",
   "first_seen": "2026-10-13",
@@ -62,7 +182,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/oh/bills/136/HB971/",
-  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb971/",
+  "source_url": "https://www.legislature.ohio.gov/legislation/136/hb971",
   "topics": [],
   "updated": "2026-11-11",
   "first_seen": "2026-07-01",
@@ -70,30 +190,407 @@
   "previous_stage": "introduced"
  },
  {
-  "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
+  "id": "ocd-bill/7b5b10c4-682c-4a68-b009-03b5eaeba07c",
   "level": "state",
-  "jurisdiction": "Montana",
-  "jurisdiction_code": "mt",
-  "session": "2027",
-  "identifier": "LC 660",
-  "title": "Gambling oversight to economic affairs interim committee",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SJR 13",
+  "title": "Proposing a constitutional amendment authorizing the Kickapoo Traditional Tribe of Texas to conduct gaming on certain lands under state law; limiting certain taxes and fees.",
   "abstract": "",
-  "classification": "bill",
+  "classification": "joint resolution",
   "subjects": [
-   "Gambling"
+   "Amusements, Games, Sports (I0034)",
+   "GAMBLING (S1232)",
+   "KICKAPOO TRADITIONAL TRIBE OF TEXAS (S0730)",
+   "Resolutions--Constitutional Amendments (I0661)",
+   "SECRETARY OF STATE (V0042)",
+   "VIDEO LOTTERY (S0608)"
   ],
-  "sponsors": [],
-  "introduced": "2026-09-30",
-  "latest_action_date": "2026-11-10",
-  "latest_action": "(LC) Draft in Assembly",
+  "sponsors": [
+   "Gutierrez"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
   "latest_passage_date": null,
   "stage": "introduced",
   "stage_label": "introduced",
-  "url": "https://openstates.org/mt/bills/2027/LC660/",
-  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0660",
+  "url": "https://openstates.org/tx/bills/90R/SJR13/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 13.xml",
   "topics": [],
-  "updated": "2026-11-11",
-  "first_seen": "2026-09-30",
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a0b4a1ba-2d0a-4cc8-9c30-3cf67199c9f1",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SJR 12",
+  "title": "Proposing a constitutional amendment authorizing the Kickapoo Traditional Tribe of Texas to conduct gaming by executing a gaming compact with this state; providing for occupational licensing under the compact; limiting certain taxes and fees.",
+  "abstract": "",
+  "classification": "joint resolution",
+  "subjects": [
+   "AUDITS & AUDITORS (S4334)",
+   "Amusements, Games, Sports (I0034)",
+   "Civil Remedies & Liabilities (I0065)",
+   "GAMBLING (S1232)",
+   "KICKAPOO TRADITIONAL TRIBE OF TEXAS (S0730)",
+   "MEDIATION, DISPUTE RESOLUTION, & ARBITRATION (S8683)",
+   "Resolutions--Constitutional Amendments (I0661)"
+  ],
+  "sponsors": [
+   "Gutierrez"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/SJR12/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 12.xml",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/192b95e8-82bf-4c97-a099-48073db1fbe2",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SJR 11",
+  "title": "Proposing a constitutional amendment, to be submitted to the voters of Texas for approval, authorizing the legislature to strictly regulate and authorize casino gaming and sports wagering by general law and establishing certain requirements for such law, including establishment of a state agency with powers to regulate all lotteries and gift enterprises, imposition of a tax on casino gaming and sports wagering revenue, requiring licensing of casino gaming and sports wagering operators, and requiring license application fees.",
+  "abstract": "",
+  "classification": "joint resolution",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "GAMBLING (S1232)",
+   "NATIVE AMERICANS (S0441)",
+   "Occupational Regulation--Other Trades & Professions (I0541)",
+   "Resolutions--Constitutional Amendments (I0661)",
+   "Taxation--General (I0815)"
+  ],
+  "sponsors": [
+   "Alvarado"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/SJR11/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 11.xml",
+  "topics": [
+   "sports-betting",
+   "casino",
+   "policy"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/80414e2c-e470-4d21-8c82-576e9f7311c8",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SB 86",
+  "title": "Relating to the composition of the lottery advisory committee.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "LICENSING & REGULATION, TEXAS COMMISSION OF (V0383)",
+   "Occupational Regulation--Other Trades & Professions (I0541)"
+  ],
+  "sponsors": [
+   "Zaffirini"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/SB86/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00001_SB00099/SB 86.xml",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/162302e3-1c40-4e7c-bac5-d280145cd51a",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SB 194",
+  "title": "Relating to prohibited participation in an intercollegiate athletic competition by a student athlete who bet on an intercollegiate athletic competition in which the athlete participated.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "Education--Higher--Athletics (I0256)",
+   "GAMBLING (S1232)"
+  ],
+  "sponsors": [
+   "Hall"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/SB194/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00100_SB00199/SB 194.xml",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/71b76dc1-1a13-42a7-a300-9cec3050f751",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SB 188",
+  "title": "Relating to the abolishment of the state lottery and the administration of charitable bingo by the Texas Commission of Licensing and Regulation.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "BINGO (S2305)",
+   "LICENSING & REGULATION, TEXAS COMMISSION OF (V0383)",
+   "LICENSING & REGULATION, TEXAS DEPARTMENT OF (V8529)"
+  ],
+  "sponsors": [
+   "Hall",
+   "Hagenbuch"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/SB188/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00100_SB00199/SB 188.xml",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/770c6f7d-354e-4b79-b85d-776dfe6462b3",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "SB 162",
+  "title": "Relating to a prohibition on the Texas Department of Licensing and Regulation advertising, marketing, or promoting the state lottery.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADVERTISING (S2680)",
+   "Amusements, Games, Sports (I0034)",
+   "LICENSING & REGULATION, TEXAS DEPARTMENT OF (V8529)"
+  ],
+  "sponsors": [
+   "Hagenbuch",
+   "Hall"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/SB162/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00100_SB00199/SB 162.xml",
+  "topics": [
+   "advertising",
+   "policy"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/d18dca37-f469-46a8-b6e5-ff30b7c099a4",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HJR 52",
+  "title": "Proposing a constitutional amendment, to be submitted to the voters of Texas for approval, authorizing the legislature to strictly regulate and authorize casino gaming and sports wagering by general law and establishing certain requirements for such law, including imposition of a tax on casino gaming and sports wagering revenue, requiring licensing of casino gaming and sports wagering operators, and requiring license application fees.",
+  "abstract": "",
+  "classification": "joint resolution",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "GAMBLING (S1232)",
+   "NATIVE AMERICANS (S0441)",
+   "Occupational Regulation--Other Trades & Professions (I0541)",
+   "Resolutions--Constitutional Amendments (I0661)",
+   "Taxation--General (I0815)"
+  ],
+  "sponsors": [
+   "Geren"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HJR52/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_joint_resolutions/HJR00001_HJR00099/HJR 52.xml",
+  "topics": [
+   "sports-betting",
+   "casino",
+   "policy"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9a1c4d87-173b-4595-8910-bf0f8df6d4ef",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 924",
+  "title": "Relating to state lottery prize payouts and the use of lottery proceeds for public education and classroom teacher salaries, and making an appropriation.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Mizani"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB924/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00900_HB00999/HB 924.xml",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/66ac88dd-edd4-421d-b7b7-620314cf585c",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 702",
+  "title": "Relating to a limitation on the percentage of state lottery money paid as prizes to winning ticket holders.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "Education--Primary & Secondary--Finance (I0250)",
+   "State Finances--Management & Control (I0748)"
+  ],
+  "sponsors": [
+   "Vasut"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB702/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00700_HB00799/HB 702.xml",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/0b3d2a24-e248-4454-a36e-3cf596b2719b",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 598",
+  "title": "Relating to the regulation of prediction-market event contracts and related operator requirements; providing civil penalties.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ADVERTISING (S2680)",
+   "Business & Commerce--General (I0050)",
+   "Civil Remedies & Liabilities (I0065)"
+  ],
+  "sponsors": [
+   "Bhojani"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB598/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00500_HB00599/HB 598.xml",
+  "topics": [
+   "prediction-markets"
+  ],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/ca482e65-9074-4872-b10c-32e5955f32bd",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 206",
+  "title": "Relating to the creation of a lottery game to benefit animal welfare programs.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "Animals (I0035)",
+   "LICENSING & REGULATION, TEXAS DEPARTMENT OF (V8529)",
+   "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)"
+  ],
+  "sponsors": [
+   "Ordaz"
+  ],
+  "introduced": "2026-11-09",
+  "latest_action_date": "2026-11-09",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB206/",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00200_HB00299/HB 206.xml",
+  "topics": [],
+  "updated": "2026-11-12",
+  "first_seen": "2026-11-12",
   "stage_changed": null
  },
  {

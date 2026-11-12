@@ -1,5 +1,48 @@
 [
  {
+  "id": "osf:k2ytj",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Interoceptive Phenomenology during Online Slot Machine Gambling (Study 2)",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-08-04",
+  "last_updated": "2026-11-12",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Interoception refers to the conscious and unconscious sensation, interpretation and integration of signals originating from the body (Suksasilp and Garfinkel, 2022) …",
+  "url": "https://osf.io/k2ytj/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Lucas Palmer",
+   "Zaina Alkurdi",
+   "Shayden Schofield-Lewis",
+   "Luke Clark",
+   "Charlotte Eben"
+  ],
+  "topics": [
+   "casino"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "first_seen": "2026-11-04",
+  "status_changed": null
+ },
+ {
   "id": "osf:8gezp",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -6016,49 +6059,6 @@
    "longitudinal"
   ],
   "first_seen": "2026-04-01",
-  "status_changed": null
- },
- {
-  "id": "osf:k2ytj",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Interoceptive Phenomenology during Online Slot Machine Gambling (Study 2)",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2026-08-04",
-  "last_updated": "2026-02-23",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "Interoception refers to the conscious and unconscious sensation, interpretation and integration of signals originating from the body (Suksasilp and Garfinkel, 2022) …",
-  "url": "https://osf.io/k2ytj/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "Lucas Palmer",
-   "Zaina Alkurdi",
-   "Shayden Schofield-Lewis",
-   "Luke Clark",
-   "Charlotte Eben"
-  ],
-  "topics": [
-   "casino"
-  ],
-  "designs": [
-   "experiment"
-  ],
-  "first_seen": "2026-11-04",
   "status_changed": null
  },
  {

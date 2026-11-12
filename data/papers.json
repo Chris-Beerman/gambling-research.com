@@ -1,5 +1,382 @@
 [
  {
+  "id": "doi:10.37284/eajass.9.4.6255",
+  "doi": "10.37284/eajass.9.4.6255",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225793358",
+  "title": "Narratives Encouraging Participation in Sports Betting among University Students in Nairobi County, Kenya",
+  "journal": "East African Journal of Arts and Social Sciences",
+  "authors": [
+   "Joyce Mwangi"
+  ],
+  "published": "2026-11-11",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "The rapid expansion of digital sports betting has increased opportunities for gambling among young adults, including university students …",
+  "url": "https://doi.org/10.37284/eajass.9.4.6255",
+  "oa_url": "https://doi.org/10.37284/eajass.9.4.6255",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth",
+   "advertising",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "KE"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s12671-026-03013-3",
+  "doi": "10.1007/s12671-026-03013-3",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7169746532",
+  "title": "Exploring Mindfulness in the Context of Gambling: A Scoping Review of Current Evidence and Future Directions",
+  "journal": "Mindfulness",
+  "authors": [
+   "Chris James Serafim",
+   "Peter Richard Gill"
+  ],
+  "published": "2026-11-11",
+  "year": 2026,
+  "created": "2026-07-20",
+  "first_seen": "2026-11-12",
+  "summary": "Abstract Background Although researchers have investigated the relationship between mindfulness and gambling, findings across observational and intervention studies remain underdeveloped and inconsistent …",
+  "url": "https://doi.org/10.1007/s12671-026-03013-3",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s12671-026-03013-3.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "title:2fba2e3da4c68650",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225843773",
+  "title": "Gambling as a Psychological Compulsion: A Freudian Reading of Dostoevsky's The Gambler",
+  "journal": "Perspectives in Social Sciences",
+  "authors": [
+   "Dr. Zia Ur Rehman",
+   "Arooj Mughal",
+   "Aamir Zahoor"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "Over the course of Dostoevsky's The Gambler (1866), Alexis Ivanovitch is transformed from a scornful spectator at the roulette table into its captive. A close reading of C. J …",
+  "url": "http://pssperspectives.com/index.php/06/article/view/339",
+  "oa_url": "http://pssperspectives.com/index.php/06/article/download/339/345",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "PK"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.30591/jpit.v11i3.54",
+  "doi": "10.30591/jpit.v11i3.54",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225808454",
+  "title": "Comparative Analysis of RandAugment and AutoAugment on NASNetMobile for Online Gambling Image Classification in a Google Chrome Extension",
+  "journal": "Jurnal Informatika Jurnal Pengembangan IT",
+  "authors": [
+   "Fadhil Yuka Sahistya",
+   "Muhammad Naufal"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "The rapid growth of internet technology has been accompanied by the widespread circulation of online gambling content across digital platforms, which continues to evolve and evade manual moderation, making automatic detection increasingly necessary …",
+  "url": "https://doi.org/10.30591/jpit.v11i3.54",
+  "oa_url": "https://doi.org/10.30591/jpit.v11i3.54",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s12144-026-10332-0",
+  "doi": "10.1007/s12144-026-10332-0",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225793151",
+  "title": "Personality–psychopathology in relation to online gambling: the mediating roles of anxiety and depression and the moderating effects of gambling motives",
+  "journal": "Current Psychology",
+  "authors": [
+   "Ganime Can Gür",
+   "Behçet Kaan OKUNAKOL",
+   "İrem ÖZCAN"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "",
+  "url": "https://doi.org/10.1007/s12144-026-10332-0",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "comorbidity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1137/s0040585x97t993038",
+  "doi": "10.1137/s0040585x97t993038",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225831710",
+  "title": "On Convergence of Forecasts in Prediction Markets",
+  "journal": "Theory of Probability and Its Applications",
+  "authors": [
+   "N. A. Badulina",
+   "Mikhail Valentinovich Zhitlukhin",
+   "D. V. Shatilovich"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "We consider a probabilistic model of a prediction market where agents trade contracts associated with the outcomes of random variables. The market prices of the contracts are interpreted as forecasts of the values of these variables …",
+  "url": "https://doi.org/10.1137/s0040585x97t993038",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s12144-026-10325-z",
+  "doi": "10.1007/s12144-026-10325-z",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225793767",
+  "title": "Microtransactions and free-to-play models associated with gambling-like behaviors in children and adolescents: a bibliometric mapping and implications for pediatric nursing",
+  "journal": "Current Psychology",
+  "authors": [
+   "Birsel Molu"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "",
+  "url": "https://doi.org/10.1007/s12144-026-10325-z",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.22373/petita.v11i2.1313",
+  "doi": "10.22373/petita.v11i2.1313",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225830314",
+  "title": "EVALUATING THE EFFECTIVENESS OF ONLINE GAMBLING REGULATION IN INDONESIA",
+  "journal": "Petita Jurnal Kajian Ilmu Hukum dan Syariah",
+  "authors": [
+   "Lisa Aminatul Mukaromah",
+   "Khurul Anam",
+   "Ari Abi Aufa",
+   "Sefia Rara Romadona",
+   "Nikmatul Hidayah"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "Online gambling has emerged as a persistent socio-legal challenge in Indonesia, driven by rapid digitalisation and the transnational nature of online platforms. Despite the existence of criminal, administrative, and financial regulations, the effectiveness of Indonesia’s legal framework in addressing online gambling remains contested …",
+  "url": "https://doi.org/10.22373/petita.v11i2.1313",
+  "oa_url": "https://doi.org/10.22373/petita.v11i2.1313",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "prevention",
+   "policy"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.7358/neur-2026-040-mari",
+  "doi": "10.7358/neur-2026-040-mari",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225808049",
+  "title": "Beyond cold control. A neuroscientific perspective on hot executive functions in gambling and gaming disorder",
+  "journal": "Neuropsychological Trends",
+  "authors": [
+   "Victoria Marino",
+   "Laura Angioletti"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "summary": "Research on executive functions (EFs) in behavioural addictions (BAs) has predominantly focused on the cold domain, whereas the hot domain has received comparatively limited attention …",
+  "url": "https://doi.org/10.7358/neur-2026-040-mari",
+  "oa_url": "https://doi.org/10.7358/neur-2026-040-mari",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "cognition"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.20318/cdt.2026.10961",
   "doi": "10.20318/cdt.2026.10961",
   "pmid": null,
@@ -17,7 +394,7 @@
   "first_seen": "2026-11-11",
   "summary": "The article analyses the long-awaited Wunner judgment, where the Court of Justice addressed for the first time the interpretation of the lex societatis exception in article 1(2)(d) and the localisation of the locus damni pursuant to article 4(1) of the Rome II Regulation in the context of a claim brought by an Austrian gambler directly against company …",
   "url": "https://doi.org/10.20318/cdt.2026.10961",
-  "oa_url": "https://doi.org/10.20318/cdt.2026.10961",
+  "oa_url": "https://e-revistas.uc3m.es/index.php/CDT/article/download/10961/8134",
   "sources": [
    "openalex"
   ],
@@ -63,7 +440,7 @@
   "first_seen": "2026-11-11",
   "summary": "This study examined sports betting and regulatory governance in Nigeria, with particular attention to disputed winnings, consumer protection and institutional accountability …",
   "url": "https://doi.org/10.36941/mjss-2026-0151",
-  "oa_url": "https://doi.org/10.36941/mjss-2026-0151",
+  "oa_url": "https://www.richtmann.org/journal/index.php/mjss/article/download/15100/14650",
   "sources": [
    "openalex"
   ],
@@ -84,8 +461,12 @@
   "setting_regions": [
    "africa"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "NG"
+  ],
+  "regions": [
+   "africa"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -109,7 +490,7 @@
   "first_seen": "2026-11-11",
   "summary": "Spatial dependence influences casino demand in competitive regional markets. Patrons prefer casinos that offer greater value relative to their travel effort, making proximity an important consideration when choosing among alternatives …",
   "url": "https://doi.org/10.1080/29966892.2026.2761175",
-  "oa_url": "https://doi.org/10.1080/29966892.2026.2761175",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/29966892.2026.2761175?needAccess=true",
   "sources": [
    "openalex"
   ],
@@ -557,7 +938,7 @@
   "first_seen": "2026-11-10",
   "summary": "Online gambling is increasing among adolescents. Machine learning methods can be used to identify and rank classification-relevant predictors among a large set of variables. This study identified and ranked factors associated with online gambling among high school students in Canada using a Random Forest (RF) approach …",
   "url": "https://doi.org/10.1007/s10899-026-10547-7",
-  "oa_url": "https://doi.org/10.1007/s10899-026-10547-7",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10547-7.pdf",
   "sources": [
    "crossref",
    "feed:jgs",
@@ -814,7 +1195,7 @@
   "first_seen": "2026-11-09",
   "summary": "This study explored the influence of social media on students’ engagement in scatter gambling and its perceived impacts among Criminology students at Cagayan State University–Sanchez Mira Campus, Philippines, and used the findings as the basis for a proposed intervention program for the College of Criminal Justice Education (CCJE) …",
   "url": "https://doi.org/10.5281/zenodo.24034482",
-  "oa_url": "https://ijerip.erio.org.ph/index.php/articles/article/view/2092",
+  "oa_url": "https://ijerip.erio.org.ph/index.php/articles/article/download/2092/1759/3258",
   "sources": [
    "openalex"
   ],
@@ -2014,7 +2395,7 @@
   "pmid": null,
   "pmcid": null,
   "openalex": "W7225159809",
-  "title": "The Blade and the Gambler",
+  "title": "The Blade and the Gambler: F. Scott Fitzgerald and Norman Mailer",
   "journal": "The Mailer Review",
   "authors": [
    "Michael K. Glenday"
@@ -3178,27 +3559,28 @@
  {
   "id": "doi:10.5070/m5.52394",
   "doi": "10.5070/m5.52394",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "43011979",
+  "pmcid": "PMC13750655",
   "openalex": "W7224992650",
   "title": "All In: A Casino-Themed Emergency Medicine Conference Day",
-  "journal": "Journal of Education and Teaching in Emergency Medicine",
+  "journal": "Journal of Education & Teaching in Emergency Medicine",
   "authors": [
-   "Shorok Elsayed Hassan",
+   "Shorok Hassan",
    "Danielle Langan",
    "Amar Bukvic",
    "Moshe Weizberg",
-   "Barry J. Hahn"
+   "Barry Hahn"
   ],
   "published": "2026-10-31",
   "year": 2026,
-  "created": "2026-11-01",
+  "created": "2026-11-11",
   "first_seen": "2026-11-01",
   "summary": "Audience: The target audience includes individuals involved in the education and training of emergency medicine (EM) residents, such as program directors, assistant program directors, core faculty, and academic attendings, as well as learners including residents, physician assistant (PA) fellows, and medical students (MS) …",
   "url": "https://doi.org/10.5070/m5.52394",
-  "oa_url": "https://doi.org/10.5070/m5.52394",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13750655/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -3212,8 +3594,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -3739,7 +4125,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-11",
+  "published": "2027-01-12",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -4301,7 +4687,7 @@
   "authors": [
    "Jonathan O'Callaghan"
   ],
-  "published": "2026-11-11",
+  "published": "2026-11-12",
   "year": 2026,
   "created": "2026-10-29",
   "first_seen": "2026-10-29",
@@ -4415,23 +4801,23 @@
   "id": "doi:10.1371/journal.pone.0345194",
   "doi": "10.1371/journal.pone.0345194",
   "pmid": "42949904",
-  "pmcid": "PMC13716225",
+  "pmcid": "13716225",
   "openalex": "W7133736413",
   "title": "Perceptions of homogeneity reproduction in health sciences academia",
   "journal": "PLOS ONE",
   "authors": [
-   "Rieke Buckup",
-   "Jamie B Smith",
+   "Rieke B Buckup",
+   "Jamie Brian Smith",
    "Gertraud Stadler",
    "Pichit Buspavanich"
   ],
   "published": "2026-10-28",
   "year": 2026,
-  "created": "2026-10-28",
+  "created": "2026-03-06",
   "first_seen": "2026-10-29",
   "summary": "Academic institutions privilege norms of continuous productivity and uninterrupted availability, creating conformity pressures that systematically disadvantage those who deviate from an implicit template of the 'ideal academic'. This study explores how doctoral students and faculty in the health sciences perceive the reproduction of social homogeneity …",
   "url": "https://doi.org/10.1371/journal.pone.0345194",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13716225/",
+  "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345194&type=printable",
   "sources": [
    "openalex",
    "pubmed"
@@ -4594,17 +4980,17 @@
   "pmcid": null,
   "openalex": "W7223908307",
   "title": "Exploring obesity in behavioral addictions: a neglected field and new empirical insights",
-  "journal": "Reviews in Endocrine & Metabolic Disorders",
+  "journal": "Reviews in Endocrine and Metabolic Disorders",
   "authors": [
-   "Gemma Mestre-Bach",
-   "Lucía Camacho-Barcia",
-   "Anahi Gaspar-Pérez",
+   "Gemma Mestre‐Bach",
+   "Lucía Camacho‐Barcia",
+   "Anahí Gaspar‐Pérez",
    "Natalia Roxana Man",
-   "Aitor Gonzalez-Amezcua",
-   "Ferran Torres",
-   "Marc N Potenza",
-   "Susana Jiménez-Murcia",
-   "Fernando Fernández-Aranda"
+   "Aitor González Amezcua",
+   "Ferràn Torres",
+   "Marc Nicholas Potenza",
+   "Susana Jiménez‐Múrcia",
+   "Fernando Fernández‐Aranda"
   ],
   "published": "2026-10-28",
   "year": 2026,
@@ -4627,7 +5013,7 @@
   "designs": [
    "review"
   ],
-  "design_basis": "pubmed",
+  "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
   "countries": [
@@ -6369,6 +6755,53 @@
   "retracted": false
  },
  {
+  "id": "doi:10.4103/indianjpsychiatry_792_26",
+  "doi": "10.4103/indianjpsychiatry_792_26",
+  "pmid": "43011951",
+  "pmcid": "PMC13750497",
+  "openalex": "W7223145023",
+  "title": "Problem gambling and its correlates among treatment-seeking opioid users at a tertiary care center: A cross-sectional study",
+  "journal": "Indian Journal of Psychiatry",
+  "authors": [
+   "Tathagata Biswas",
+   "Pritiman Mishra",
+   "Chinu Patra",
+   "Biswa R Mishra",
+   "Arpit Parmar"
+  ],
+  "published": "2026-10-21",
+  "year": 2026,
+  "created": "2026-11-11",
+  "first_seen": "2026-10-22",
+  "summary": "Gambling is a major public health concern worldwide. Problem gambling refers to excessive gambling behaviors associated with negative health and socioeconomic consequences. Studies have described a strong association between problem gambling and substance use disorders (SUDs), with shared psychosocial and neurobiological vulnerabilities …",
+  "url": "https://doi.org/10.4103/indianjpsychiatry_792_26",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13750497/",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "IN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s11845-026-04699-z",
   "doi": "10.1007/s11845-026-04699-z",
   "pmid": "42905227",
@@ -6411,52 +6844,6 @@
   ],
   "regions": [
    "uk-ireland"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.4103/indianjpsychiatry_792_26",
-  "doi": "10.4103/indianjpsychiatry_792_26",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7223145023",
-  "title": "Problem gambling and its correlates among treatment-seeking opioid users at a tertiary care center: A cross-sectional study",
-  "journal": "Indian Journal of Psychiatry",
-  "authors": [
-   "Tathagata Biswas",
-   "Pritiman Mishra",
-   "Chinu Patra",
-   "Biswa Ranjan Mishra",
-   "Arpit Parmar"
-  ],
-  "published": "2026-10-01",
-  "year": 2026,
-  "created": "2026-10-22",
-  "first_seen": "2026-10-22",
-  "summary": "ABSTRACT Background: Gambling is a major public health concern worldwide. Problem gambling refers to excessive gambling behaviors associated with negative health and socioeconomic consequences. Studies have described a strong association between problem gambling and substance use disorders (SUDs), with shared psychosocial and neurobiological vulnerabilities …",
-  "url": "https://doi.org/10.4103/indianjpsychiatry_792_26",
-  "oa_url": "https://doi.org/10.4103/indianjpsychiatry_792_26",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "treatment",
-   "comorbidity"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "IN"
-  ],
-  "regions": [
-   "asia"
   ],
   "language": "en",
   "relevance": "high",
@@ -162582,50 +162969,6 @@
   "countries": [],
   "regions": [],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.51889/2959-5967.2025.82.1.022",
-  "doi": "10.51889/2959-5967.2025.82.1.022",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4409838492",
-  "title": "КОГНИТИВНЫЕ И ЭМОЦИОНАЛЬНЫЕ ПРЕДИКТОРЫ ЛУДОМАНИИ: ОТ ИМПУЛЬСИВНОСТИ К ПАТОЛОГИЧЕСКОЙ ЗАВИСИМОСТИ",
-  "journal": "Habaršy. Psihologiâ seriâsy",
-  "authors": [
-   "Ermek Abiltaevich Buribaev",
-   "Н.Б. Жиенбаева",
-   "Zhanna Amangeldinovna Khamzina",
-   "О. Б. Тапалова",
-   "С.З. Ешимбетова",
-   "С.А. Акназаров"
-  ],
-  "published": "2025-03-01",
-  "year": 2025,
-  "created": "2025-10-10",
-  "first_seen": "2025-03-01",
-  "summary": "Патологическая зависимость от азартных игр (лудомания) является сложной формой поведенческой зависимости, обусловленная взаимодействием когнитивных и эмоциональных факторов и характеризующаяся стойкой неспособностью контролировать участие в игровых активностях, несмотря на негативные последствия …",
-  "url": "https://doi.org/10.51889/2959-5967.2025.82.1.022",
-  "oa_url": "https://bulletin-psychology.kaznpu.kz/index.php/ped/article/download/2090/1023/10774",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "cognition"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "KZ"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "ru",
   "relevance": "high",
   "retracted": false
  },
