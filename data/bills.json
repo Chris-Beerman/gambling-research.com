@@ -36,7 +36,9 @@
   "title": "No Gambling for Medicaid Act",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "Health"
+  ],
   "sponsors": [
    "Rep. Harrigan, Pat [R-NC-10]"
   ],
@@ -69,7 +71,8 @@
   "subjects": [
    "Amusements, Games, Sports (I0034)",
    "Crimes--Miscellaneous (I0200)",
-   "Criminal Procedure--General (I0208)"
+   "Criminal Procedure--General (I0208)",
+   "GAMBLING (S1232)"
   ],
   "sponsors": [
    "Shaheen"
@@ -83,8 +86,41 @@
   "url": "https://openstates.org/tx/bills/90R/HB1033/",
   "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01000_HB01099/HB 1033.xml",
   "topics": [],
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "first_seen": "2026-11-12",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/ef9ee569-26dc-4b11-ad93-16fe94a68b65",
+  "level": "state",
+  "jurisdiction": "Texas",
+  "jurisdiction_code": "tx",
+  "session": "90R",
+  "identifier": "HB 1032",
+  "title": "Relating to the elimination of certain tax proceeds deposited to and the allocation of the horse industry escrowed purse account.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Amusements, Games, Sports (I0034)",
+   "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+   "HORSE RACING (S0512)",
+   "HORSES (S0193)",
+   "RACING COMMISSION, TEXAS (V0514)"
+  ],
+  "sponsors": [
+   "Shaheen"
+  ],
+  "introduced": "2026-11-10",
+  "latest_action_date": "2026-11-10",
+  "latest_action": "Filed",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/tx/bills/90R/HB1032/",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1032",
+  "topics": [],
+  "updated": "2026-11-13",
+  "first_seen": "2026-11-13",
   "stage_changed": null
  },
  {
@@ -98,8 +134,10 @@
   "abstract": "",
   "classification": "bill",
   "subjects": [
+   "AWARDS, MEDALS, PRIZES (S0129)",
    "Amusements, Games, Sports (I0034)",
-   "Crimes--Against Morals (I0180)"
+   "Crimes--Against Morals (I0180)",
+   "GAMBLING (S1232)"
   ],
   "sponsors": [
    "Shaheen"
@@ -111,11 +149,11 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/HB1031/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01000_HB01099/HB 1031.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1031",
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "first_seen": "2026-11-12",
   "stage_changed": null
  },
@@ -145,7 +183,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/oh/bills/136/SB479/",
-  "source_url": "https://www.legislature.ohio.gov/legislation/136/sb479",
+  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb479/",
   "topics": [],
   "updated": "2026-11-11",
   "first_seen": "2026-10-13",
@@ -182,7 +220,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/oh/bills/136/HB971/",
-  "source_url": "https://www.legislature.ohio.gov/legislation/136/hb971",
+  "source_url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb971/",
   "topics": [],
   "updated": "2026-11-11",
   "first_seen": "2026-07-01",
@@ -252,7 +290,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/SJR12/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 12.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SJR12",
   "topics": [],
   "updated": "2026-11-12",
   "first_seen": "2026-11-12",
@@ -286,7 +324,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/SJR11/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 11.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SJR11",
   "topics": [
    "sports-betting",
    "casino",
@@ -354,7 +392,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/SB194/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00100_SB00199/SB 194.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB194",
   "topics": [],
   "updated": "2026-11-12",
   "first_seen": "2026-11-12",
@@ -458,7 +496,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/HJR52/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_joint_resolutions/HJR00001_HJR00099/HJR 52.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR52",
   "topics": [
    "sports-betting",
    "casino",
@@ -478,7 +516,16 @@
   "title": "Relating to state lottery prize payouts and the use of lottery proceeds for public education and classroom teacher salaries, and making an appropriation.",
   "abstract": "",
   "classification": "bill",
-  "subjects": [],
+  "subjects": [
+   "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+   "EDUCATION AGENCY, TEXAS (V9941)",
+   "Education--Primary & Secondary--Finance (I0250)",
+   "Education--Primary & Secondary--Teachers (I0242)",
+   "LICENSING & REGULATION, TEXAS DEPARTMENT OF (V8529)",
+   "LOTTERIES (S0994)",
+   "Salaries & Expenses (I0745)",
+   "State Finances--Management & Control (I0748)"
+  ],
   "sponsors": [
    "Mizani"
   ],
@@ -1041,12 +1088,12 @@
   "classification": "bill",
   "subjects": [],
   "sponsors": [
-   "Ensol Rodríguez Torres",
-   "Joel Franqui Atiles",
+   "José Hernández Concepción",
    "Carmen Medina Calderón",
-   "María de Lourdes Ramos Rivera",
-   "Ángel R. Peña Ramírez",
-   "Luis J. Jiménez Torres"
+   "José E. Torres Zamora",
+   "Jorge Navarro Suárez",
+   "Eddie Charbonier Chinea",
+   "Gabriel Rodríguez Aguiló"
   ],
   "introduced": "2026-10-15",
   "latest_action_date": "2026-10-15",
@@ -1059,7 +1106,7 @@
   "topics": [
    "online-gambling"
   ],
-  "updated": "2026-11-10",
+  "updated": "2026-11-12",
   "first_seen": "2026-10-15",
   "stage_changed": null
  },
@@ -16012,7 +16059,7 @@
   "topics": [
    "older-adults"
   ],
-  "updated": "2026-11-11",
+  "updated": "2026-11-13",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -22056,6 +22103,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/1e89559a-96b5-4ca4-b8c0-e2f70a61322c",
+  "level": "state",
+  "jurisdiction": "Wyoming",
+  "jurisdiction_code": "wy",
+  "session": "2027",
+  "identifier": "27LSO-0098",
+  "title": "Online sweepstakes prohibited.",
+  "abstract": "",
+  "classification": "proposed bill",
+  "subjects": [],
+  "sponsors": [
+   "Management Council"
+  ],
+  "introduced": null,
+  "latest_action_date": null,
+  "latest_action": "",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/wy/bills/2027/27LSO-0098/",
+  "source_url": "https://wyoleg.gov/Legislation/committeeBills/2027",
+  "topics": [],
+  "updated": "2026-11-13",
+  "first_seen": "2026-11-13",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/c61a720c-8d3b-4bfe-9428-1fe2f5cfde82",
   "level": "state",
   "jurisdiction": "Wyoming",
@@ -22080,6 +22154,33 @@
   "topics": [],
   "updated": "2026-10-30",
   "first_seen": "2026-10-30",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/971d34f8-95c8-43c9-82d8-c4f09617d1cf",
+  "level": "state",
+  "jurisdiction": "Wyoming",
+  "jurisdiction_code": "wy",
+  "session": "2027",
+  "identifier": "27LSO-0049",
+  "title": "Pari-mutuel wagering breakage.",
+  "abstract": "",
+  "classification": "proposed bill",
+  "subjects": [],
+  "sponsors": [
+   "Management Council"
+  ],
+  "introduced": null,
+  "latest_action_date": null,
+  "latest_action": "",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/wy/bills/2027/27LSO-0049/",
+  "source_url": "https://wyoleg.gov/Legislation/committeeBills/2027",
+  "topics": [],
+  "updated": "2026-11-13",
+  "first_seen": "2026-11-13",
   "stage_changed": null
  },
  {

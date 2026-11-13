@@ -1,5 +1,138 @@
 [
  {
+  "id": "doi:10.2196/106739",
+  "doi": "10.2196/106739",
+  "pmid": "43019532",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Suicidal Ideation Endorsed on the Patient Health Questionnaire-9 at Intake and Treatment Outcomes in Gambling Disorder Care: Retrospective Cohort Study",
+  "journal": "JMIR formative research",
+  "authors": [
+   "Elizabeth Knight",
+   "Kelsey McAlister",
+   "Landry Huffman",
+   "Cynthia Grant",
+   "Jennifer Huberty"
+  ],
+  "published": "2026-11-12",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-13",
+  "summary": "Gambling disorder (GD) carries a disproportionate burden of suicide risk. Clinicians frequently encounter patients with suicidal ideation (SI) at treatment entry, yet no published study has examined whether SI at intake predicts treatment engagement or symptom change in GD care …",
+  "url": "https://doi.org/10.2196/106739",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "comorbidity",
+   "equity"
+  ],
+  "designs": [
+   "survey",
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1038/s41598-026-71861-z",
+  "doi": "10.1038/s41598-026-71861-z",
+  "pmid": "43019133",
+  "pmcid": "PMC13719513",
+  "openalex": "W4413223188",
+  "title": "Scarcity, cognition, and health decision-making: evidence from a lab-in-the-field experiment in rural China",
+  "journal": "Scientific Reports",
+  "authors": [
+   "Haiou Zhu",
+   "Fangzhou You",
+   "E Liu",
+   "Thorsten Gruber",
+   "Hua Dong",
+   "Cees De Bont"
+  ],
+  "published": "2026-10-28",
+  "year": 2026,
+  "created": "2026-11-12",
+  "first_seen": "2026-11-13",
+  "summary": "Unlabelled: Understanding how financial scarcity impacts health-related decision-making is vital for designing interventions to break the cycle between poverty and poor health …",
+  "url": "https://doi.org/10.1038/s41598-026-71861-z",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13719513/",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "trial",
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "GB",
+   "SG"
+  ],
+  "regions": [
+   "uk-ireland",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "title:0f2b3a1348225816",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Betting on more than the game: elevated cannabis use disorder risk among Americans wagering on sports",
+  "journal": "Addictive Behaviors",
+  "authors": [],
+  "published": null,
+  "year": null,
+  "created": null,
+  "first_seen": "2026-11-13",
+  "summary": "Publication date: Available online 12 November 2026 Source: Addictive Behaviors Author(s): Frankie A. Nieblas, Karen A. Valle Frias, Alexander J. Connolly, Joshua B. Grubbs, Shane W. Kraus",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0306460326003205?dgcid=rss_sd_all",
+  "oa_url": null,
+  "sources": [
+   "feed:addictive-behaviors"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.37284/eajass.9.4.6255",
   "doi": "10.37284/eajass.9.4.6255",
   "pmid": null,
@@ -4125,7 +4258,7 @@
    "Steve Allender",
    "Yin Paradies"
   ],
-  "published": "2027-01-12",
+  "published": "2027-01-13",
   "year": 2027,
   "created": "2026-10-30",
   "first_seen": "2026-10-31",
@@ -4592,17 +4725,17 @@
   "pmid": "42955014",
   "pmcid": null,
   "openalex": "W7224209734",
-  "title": "Wagering on Unfinished Experiments-Prediction Markets and Clinical Trial Integrity",
+  "title": "Wagering on Unfinished Experiments—Prediction Markets and Clinical Trial Integrity",
   "journal": "JAMA",
   "authors": [
-   "Jay B Lusk",
-   "Robert M Califf",
-   "Ann Marie Navar",
-   "Emily C O'Brien"
+   "Jay B. Lusk",
+   "Robert M. Califf",
+   "Ann Marie Návar",
+   "Emily Claire O'Brien"
   ],
   "published": "2026-10-29",
   "year": 2026,
-  "created": "2026-10-29",
+  "created": "2026-10-30",
   "first_seen": "2026-10-30",
   "summary": "This Viewpoint discusses the potential impact on recruitment, retention, measurement, or evidence generation after a prediction market platform announced it would host betting on the outcomes of clinical trials and US Food and Drug Administration regulatory reviews, noting that policy action is needed to ensure that prediction markets do not undermine the …",
   "url": "https://doi.org/10.1001/jama.2026.19361",
@@ -4645,7 +4778,7 @@
   ],
   "published": "2026-10-29",
   "year": 2026,
-  "created": "2026-10-29",
+  "created": "2026-10-30",
   "first_seen": "2026-10-30",
   "summary": "The Problem Gambling Severity Index (PGSI) is a widely used tool for measuring gambling-related issues, playing a central role in service delivery and national monitoring, especially in the British context …",
   "url": "https://doi.org/10.1037/adb0001189",
@@ -4656,9 +4789,7 @@
   ],
   "type": "article",
   "topics": [],
-  "designs": [
-   "survey"
-  ],
+  "designs": [],
   "design_basis": "rules",
   "settings": [
    "GB"
@@ -6243,15 +6374,7 @@
   "openalex": "W7223177028",
   "title": "Problem Gambling Among Schoolchildren in Sub-Saharan African Context : A Cross-Sectional Study of Prevalence and Associated Factors in Benin, 2025",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Chabi Olaniran Alphonse Biaou",
-   "Yolaine Glèlè Ahanhanzo",
-   "Moussiliou Noël Paraïso",
-   "Blaise Choki",
-   "Sylvestre Bofe",
-   "Kpèdétin Rolande Kikissagbé",
-   "Smaïla Ouédraogo"
-  ],
+  "authors": [],
   "published": "2026-10-22",
   "year": 2026,
   "created": "2026-10-22",
@@ -6281,14 +6404,9 @@
   "setting_regions": [
    "africa"
   ],
-  "countries": [
-   "BJ",
-   "BF"
-  ],
-  "regions": [
-   "africa"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6705,17 +6823,7 @@
   "openalex": "W7223183265",
   "title": "Casino and Online Self-Exclusion in Canada: Awareness, Uptake, and Compliance",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Youssef Allami",
-   "Robert J. Williams",
-   "Darren R. Christensen",
-   "Carrie A. Shaw",
-   "Daniel S. McGrath",
-   "Rhys M.G. Stevens",
-   "Fiona Nicoll",
-   "Hyoun S. Kim",
-   "David C. Hodgins"
-  ],
+  "authors": [],
   "published": "2026-10-22",
   "year": 2026,
   "created": "2026-10-22",
@@ -6744,13 +6852,9 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -19200,30 +19304,31 @@
  {
   "id": "doi:10.3138/jmvfh-2025-0098",
   "doi": "10.3138/jmvfh-2025-0098",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "43017367",
+  "pmcid": "PMC13754439",
   "openalex": "W7212611951",
   "title": "From trauma to tolerance: Psychological predictors of gambling harm among male UK Armed Forces Veterans",
-  "journal": "Journal of Military Veteran and Family Health",
+  "journal": "Journal of Military, Veteran and Family Health",
   "authors": [
    "Adanma Ekenna",
    "Dana Dekel",
    "Hilary Engward",
-   "Lauren Rose Godier-McBard",
+   "Lauren Godier-McBard",
    "Chris Kay",
    "Thomas Kersey",
-   "Matt J. Fossey",
+   "Matt Fossey",
    "Simon Dymond"
   ],
   "published": "2026-09-01",
   "year": 2026,
-  "created": "2026-09-15",
+  "created": "2026-11-12",
   "first_seen": "2026-09-01",
   "summary": "Veterans face disproportionately high risks of gambling-related harm, influenced by trauma exposure, emotional dysregulation, and maladaptive coping. However, little is known about how these interconnected psychological traits contribute to gambling harm severity in Veterans …",
-  "url": "https://doi.org/10.3138/jmvfh-2025-0098",
-  "oa_url": "https://cronfa.swan.ac.uk/Record/cronfa72780/Download/72780__37823__77eddee32b384a6996e5500dd1fdb06c.pdf",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017367/",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13754439/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -112735,51 +112840,6 @@
    "uk-ireland"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.24866/1813-3274/2025-3/155-167",
-  "doi": "10.24866/1813-3274/2025-3/155-167",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4414717876",
-  "title": "Уголовно-правовое противодействие использованию и (или) передаче персональных данных организаторами незаконных азартных игр в сети Интернет",
-  "journal": "Азиатско-Тихоокеанский регион Экономика политика право",
-  "authors": [
-   "Климент Арменакович Ханджян"
-  ],
-  "published": "2025-09-30",
-  "year": 2025,
-  "created": "2025-10-10",
-  "first_seen": "2025-09-30",
-  "summary": "В свете недавних изменений уголовного и административного законодательства, затронувших область обеспечения безопасности личных сведений граждан Российской Федерации, вопрос использования персональных данных организаторами незаконных азартных игр в сети Интернет обрёл новые грани для исследования …",
-  "url": "https://doi.org/10.24866/1813-3274/2025-3/155-167",
-  "oa_url": "https://journals.dvfu.ru/ATR/article/download/1695/1352",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "casino",
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "RU"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
-  "countries": [
-   "RU"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "ru",
   "relevance": "high",
   "retracted": false
  },

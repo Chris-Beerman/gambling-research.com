@@ -1,5 +1,44 @@
 [
  {
+  "id": "osf:z7q6r",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "The Use of Virtual Reality in Gambling Disorder: A Scoping Review",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-06-14",
+  "last_updated": "2026-11-13",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This scoping review aims to map the existing scientific evidence on the use of Virtual Reality (VR) in Gambling Disorder. Peer-reviewed studies published in indexed journals will be included without restrictions on publication date …",
+  "url": "https://osf.io/z7q6r/",
+  "registration_type": "Open-Ended Registration",
+  "authors": [
+   "Maria Eduarda Goldmeier",
+   "Roberto Pierobom Lima",
+   "Alexandre Kieslich da Silva"
+  ],
+  "topics": [],
+  "designs": [
+   "review"
+  ],
+  "first_seen": "2026-06-14",
+  "status_changed": null
+ },
+ {
   "id": "osf:k2ytj",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -3885,44 +3924,6 @@
   ],
   "designs": [],
   "first_seen": "2026-06-16",
-  "status_changed": null
- },
- {
-  "id": "osf:z7q6r",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "The Use of Virtual Reality in Gambling Disorder: A Scoping Review",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2026-06-14",
-  "last_updated": "2026-06-14",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "This scoping review aims to map the existing scientific evidence on the use of Virtual Reality (VR) in Gambling Disorder. Peer-reviewed studies published in indexed journals will be included without restrictions on publication date …",
-  "url": "https://osf.io/z7q6r/",
-  "registration_type": "Open-Ended Registration",
-  "authors": [
-   "Maria Eduarda Goldmeier",
-   "Roberto Pierobom Lima"
-  ],
-  "topics": [],
-  "designs": [
-   "review"
-  ],
-  "first_seen": "2026-06-14",
   "status_changed": null
  },
  {
