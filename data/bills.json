@@ -1,5 +1,92 @@
 [
  {
+  "id": "ocd-bill/8f9c3d63-a3f6-4153-a306-002ac30c99a2",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 4231",
+  "title": "SPORTS WAGERING-FANTASY MKT",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Neil Anderson"
+  ],
+  "introduced": "2026-11-13",
+  "latest_action_date": "2026-11-13",
+  "latest_action": "Referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB4231/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4231&GAID=18&DocTypeID=SB&LegId=168932&SessionID=114",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/11166b5c-0b3d-4075-bb74-378008be20a4",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 4230",
+  "title": "SPORTS WAGERING-EXCHANGE TAX",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Neil Anderson"
+  ],
+  "introduced": "2026-11-13",
+  "latest_action_date": "2026-11-13",
+  "latest_action": "Referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB4230/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4230&GAID=18&DocTypeID=SB&LegId=168931&SessionID=114",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3886f0af-bde3-4fd2-beb8-4e59e4a73667",
+  "level": "state",
+  "jurisdiction": "Illinois",
+  "jurisdiction_code": "il",
+  "session": "104th",
+  "identifier": "SB 4219",
+  "title": "VIDEO GAMING-CASHLESS WAGERING",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Willie Preston"
+  ],
+  "introduced": "2026-11-13",
+  "latest_action_date": "2026-11-13",
+  "latest_action": "Referred to Assignments",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/il/bills/104th/SB4219/",
+  "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=4219&GAID=18&DocTypeID=SB&LegId=168857&SessionID=114",
+  "topics": [
+   "loot-boxes"
+  ],
+  "updated": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/2aa4a65d-c833-4e51-9295-00af8b24b704",
   "level": "state",
   "jurisdiction": "Montana",
@@ -117,7 +204,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/HB1032/",
-  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1032",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01000_HB01099/HB 1032.xml",
   "topics": [],
   "updated": "2026-11-13",
   "first_seen": "2026-11-13",
@@ -324,7 +411,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/SJR11/",
-  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SJR11",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 11.xml",
   "topics": [
    "sports-betting",
    "casino",
@@ -347,6 +434,7 @@
   "subjects": [
    "Amusements, Games, Sports (I0034)",
    "LICENSING & REGULATION, TEXAS COMMISSION OF (V0383)",
+   "LOTTERIES (S0994)",
    "Occupational Regulation--Other Trades & Professions (I0541)"
   ],
   "sponsors": [
@@ -361,9 +449,10 @@
   "url": "https://openstates.org/tx/bills/90R/SB86/",
   "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00001_SB00099/SB 86.xml",
   "topics": [
+   "lottery",
    "policy"
   ],
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "first_seen": "2026-11-12",
   "stage_changed": null
  },
@@ -496,7 +585,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/HJR52/",
-  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR52",
+  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_joint_resolutions/HJR00001_HJR00099/HJR 52.xml",
   "topics": [
    "sports-betting",
    "casino",
@@ -15988,7 +16077,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/HB923/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/hb923",
   "topics": [],
-  "updated": "2026-11-04",
+  "updated": "2026-11-14",
   "first_seen": "2025-03-14",
   "stage_changed": null
  },
@@ -16569,7 +16658,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-11",
+  "updated": "2026-11-14",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },
@@ -17038,7 +17127,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-09",
+  "updated": "2026-11-14",
   "first_seen": "2025-04-03",
   "stage_changed": null
  },

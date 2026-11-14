@@ -39,6 +39,48 @@
   "status_changed": null
  },
  {
+  "id": "osf:ur2hf",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "EEG markers of adolescent substance use, gambling, and antisocial behavior: Towards a transdiagnostic endophenotype for externalizing behaviors",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-13",
+  "last_updated": "2026-11-13",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Externalizing behaviors, including substance use, gambling, and antisocial behaviors are characterized by disrupted goal-directed behavior that manifests as an inability to override impulses and learn from mistakes …",
+  "url": "https://osf.io/ur2hf/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Doga Ultanir",
+   "Reshmi Marhe",
+   "Marilisa Boffo",
+   "Ingmar Franken"
+  ],
+  "topics": [
+   "youth",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-11-14",
+  "status_changed": null
+ },
+ {
   "id": "osf:k2ytj",
   "registry": "osf",
   "registry_label": "OSF Registries",
