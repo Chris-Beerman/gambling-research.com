@@ -1,10 +1,263 @@
 [
  {
+  "id": "doi:10.1016/j.techfore.2026.124955",
+  "doi": "10.1016/j.techfore.2026.124955",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7226041497",
+  "title": "Reviewing digital gaming and gambling addiction: A dark intersection of technology, psychology, and sociology",
+  "journal": "Technological Forecasting and Social Change",
+  "authors": [
+   "Ebru Susur",
+   "Alberto Urueña"
+  ],
+  "published": "2026-11-13",
+  "year": 2026,
+  "created": "2026-11-14",
+  "first_seen": "2026-11-15",
+  "summary": "Digital gaming and digital gambling are converging into a single behavioural ecosystem in which loot boxes, social casino games, esports betting, and other hybrid mechanisms blur the historical boundary between gaming and gambling, generating addiction risks that no single discipline can fully explain …",
+  "url": "https://doi.org/10.1016/j.techfore.2026.124955",
+  "oa_url": "https://doi.org/10.1016/j.techfore.2026.124955",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "loot-boxes"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.9741/2327-8455.1528",
+  "doi": "10.9741/2327-8455.1528",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7226001809",
+  "title": "Surprising Payouts in Parimutuel Numbers Games",
+  "journal": "UNLV Gaming Research & Review Journal",
+  "authors": [
+   "Anthony Gamst",
+   "Skip Garibaldi"
+  ],
+  "published": "2026-11-12",
+  "year": 2026,
+  "created": "2026-11-14",
+  "first_seen": "2026-11-15",
+  "summary": "When legal numbers games first appeared in the United States, something surprising happened: Payouts were high, then decreased significantly to a steady state, all without any changes to the rules or payout formula. We resolve this mystery …",
+  "url": "https://doi.org/10.9741/2327-8455.1528",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.12688/f1000research.191912.2",
+  "doi": "10.12688/f1000research.191912.2",
+  "pmid": "43034331",
+  "pmcid": "PMC13760149",
+  "openalex": null,
+  "title": "Online Gambling Detection Systems: A Systematic Review",
+  "journal": "F1000Research",
+  "authors": [
+   "Abdul Azzam Ajhari",
+   "Rizal Fathoni Aji",
+   "Aprinaldi Jasa Mantau",
+   "Mahardhika Pratama",
+   "Wisnu Jatmiko"
+  ],
+  "published": "2026-11-11",
+  "year": 2026,
+  "created": "2026-11-15",
+  "first_seen": "2026-11-15",
+  "summary": "Illegal online gambling increasingly exploits websites, mobile applications, social media, messaging services, and decentralized financial infrastructure, and operators actively evade automated filtering …",
+  "url": "https://doi.org/10.12688/f1000research.191912.2",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13760149/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "pubmed",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "AU",
+   "ID"
+  ],
+  "regions": [
+   "australia-nz",
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.70610/jcpa.2142",
+  "doi": "10.70610/jcpa.2142",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7226024888",
+  "title": "Application of Article 427 of Law Number 1 of 2023 concerning the Indonesian Criminal Code to the Crime of Online Gambling (A Study of Decision Number 1090/Pid.B/2026/PN Sby)",
+  "journal": "Journal of Creative Power and Ambition",
+  "authors": [
+   "Adef Dio Brahmana",
+   "Erry Meta"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-14",
+  "first_seen": "2026-11-15",
+  "summary": "The proliferation of online gambling in Indonesia has created new challenges for criminal law enforcement, particularly following the enactment of Law Number 1 of 2023 concerning the Criminal Code (KUHP Nasional), which reformulates gambling offenses through Articles 426 and 427 …",
+  "url": "https://doi.org/10.70610/jcpa.2142",
+  "oa_url": "https://doi.org/10.70610/jcpa.2142",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.pmedr.2026.103715",
+  "doi": "10.1016/j.pmedr.2026.103715",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7226034071",
+  "title": "Designing gambling-harm prevention messages: A randomized experiment on lottery-chasing persistence in China",
+  "journal": "Preventive Medicine Reports",
+  "authors": [
+   "Xinyu Cai"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-14",
+  "first_seen": "2026-11-15",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.pmedr.2026.103715",
+  "oa_url": "https://doi.org/10.1016/j.pmedr.2026.103715",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "prevention"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fnhum.2026.1976371",
+  "doi": "10.3389/fnhum.2026.1976371",
+  "pmid": "43032764",
+  "pmcid": "PMC13762741",
+  "openalex": null,
+  "title": "Prefrontal cortical morphometric covariance and cognitive task performance in healthy young adults: an exploratory analysis of Human Connectome Project data",
+  "journal": "Frontiers in Human Neuroscience",
+  "authors": [
+   "Roman Chivers"
+  ],
+  "published": "2026-10-22",
+  "year": 2026,
+  "created": "2026-11-14",
+  "first_seen": "2026-11-15",
+  "summary": "The prefrontal cortex (PFC) is implicated in many cognitive tasks, including working memory, reward-based decision-making, executive control, and metacognition. This exploratory analysis investigated whether individual expression of PFC cortical thickness and surface area covariance components is associated with cognitive task performance …",
+  "url": "https://doi.org/10.3389/fnhum.2026.1976371",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13762741/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s00737-026-01782-3",
   "doi": "10.1007/s00737-026-01782-3",
   "pmid": "43024114",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7225995324",
   "title": "Cluster analysis based on alexithymia in young women: exploring addictions, psychological symptoms and relational vulnerability factors",
   "journal": "Archives of Women's Mental Health",
   "authors": [
@@ -20,6 +273,7 @@
   "url": "https://doi.org/10.1007/s00737-026-01782-3",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -122,8 +376,12 @@
   "setting_regions": [
    "uk-ireland"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -258,8 +516,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -1005,7 +1267,7 @@
   "id": "doi:10.3390/healthcare14213807",
   "doi": "10.3390/healthcare14213807",
   "pmid": "43028827",
-  "pmcid": null,
+  "pmcid": "PMC13762485",
   "openalex": "W7225613755",
   "title": "Latent Profiles of Online Gambling and Sports Betting Participation and Psychological Distress Among Young People with Reduced Mobility",
   "journal": "Healthcare",
@@ -1022,7 +1284,7 @@
   "first_seen": "2026-11-11",
   "summary": "Background/Objectives: This study aimed to identify latent profiles of online gambling participation among young people with reduced mobility and examine their associations with anxiety and depression, as well as the relationship between gambling-related risk and psychological distress …",
   "url": "https://doi.org/10.3390/healthcare14213807",
-  "oa_url": "https://doi.org/10.3390/healthcare14213807",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13762485/",
   "sources": [
    "openalex",
    "pubmed"
@@ -3083,7 +3345,7 @@
   "id": "doi:10.3390/healthcare14213685",
   "doi": "10.3390/healthcare14213685",
   "pmid": "43028706",
-  "pmcid": null,
+  "pmcid": "PMC13762612",
   "openalex": "W7225143250",
   "title": "Modelling Excess Public Expenditure on Emergency Department and Inpatient Care Associated with Gambling Disorder in Spain",
   "journal": "Healthcare",
@@ -3099,7 +3361,7 @@
   "first_seen": "2026-11-04",
   "summary": "Evidence on healthcare expenditure associated with gambling disorder (GD) remains limited in Spain. This study modelled annual excess emergency department and inpatient expenditure per adult with GD and nationally …",
   "url": "https://doi.org/10.3390/healthcare14213685",
-  "oa_url": "https://doi.org/10.3390/healthcare14213685",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13762612/",
   "sources": [
    "openalex",
    "pubmed"
@@ -6001,14 +6263,7 @@
   "openalex": "W7223459910",
   "title": "Sex Differences in the Association Between Child Sexual Abuse and Machine-Based Gambling: Findings from a National Survey",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Yousuke Imanishi",
-   "Maria Iorini",
-   "Sinchul Jwa",
-   "Ichiro Wada",
-   "Takahiro Tabuchi",
-   "Mai Uchida"
-  ],
+  "authors": [],
   "published": "2026-10-24",
   "year": 2026,
   "created": "2026-10-24",
@@ -6038,15 +6293,9 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [
-   "US",
-   "JP"
-  ],
-  "regions": [
-   "us",
-   "asia"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6058,13 +6307,7 @@
   "openalex": "W7223451877",
   "title": "Payment Preferences and Related Sports Betting Behavior: A Secondary Analysis of Player Data from an Online Sports Gambling Operator",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Kahlil Simeon-Rose",
-   "Matthew A. Tom",
-   "Timothy C. Edson",
-   "Eric R. Louderback",
-   "Sarah E. Nelson"
-  ],
+  "authors": [],
   "published": "2026-10-24",
   "year": 2026,
   "created": "2026-10-24",
@@ -6089,13 +6332,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -12323,8 +12562,8 @@
  {
   "id": "doi:10.1016/j.abrep.2026.100764",
   "doi": "10.1016/j.abrep.2026.100764",
-  "pmid": null,
-  "pmcid": null,
+  "pmid": "43032733",
+  "pmcid": "PMC13763127",
   "openalex": "W7223198400",
   "title": "Longitudinal associations between adverse childhood experiences and moderate-risk to problem gambling in young adulthood: A prospective UK cohort study",
   "journal": "Addictive Behaviors Reports",
@@ -12334,18 +12573,19 @@
    "Hannah Sallis",
    "Emma Dennie",
    "Laura D Howe",
-   "Alan Martin Emond",
+   "Alan Emond",
    "Annie Herbert"
   ],
   "published": "2026-10-22",
   "year": 2026,
-  "created": "2026-10-23",
+  "created": "2026-11-14",
   "first_seen": "2026-10-01",
   "summary": "Previous research links Adverse Childhood Experiences (ACEs) with problem gambling, but most studies rely on retrospective reporting and focus narrowly on maltreatment, overlooking adversities such as parental mental health issues …",
   "url": "https://doi.org/10.1016/j.abrep.2026.100764",
-  "oa_url": "https://doi.org/10.1016/j.abrep.2026.100764",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13763127/",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -12363,12 +12603,12 @@
    "uk-ireland"
   ],
   "countries": [
-   "GB",
-   "US"
+   "US",
+   "GB"
   ],
   "regions": [
-   "uk-ireland",
-   "us"
+   "us",
+   "uk-ireland"
   ],
   "language": "en",
   "relevance": "high",
@@ -84316,52 +84556,6 @@
    "us"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.54649/2077-9860-2026-2-97-104",
-  "doi": "10.54649/2077-9860-2026-2-97-104",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7203540461",
-  "title": "Особенности законодательства об игорном бизнесе в Сингапуре: сравнительно-правовой анализ с Республикой Казахстан",
-  "journal": "Scientific works Adilet",
-  "authors": [
-   "Vitaly Vladimirovich Ten"
-  ],
-  "published": "2026-01-01",
-  "year": 2026,
-  "created": "2026-08-16",
-  "first_seen": "2026-01-01",
-  "summary": "The purpose of this study was to conduct a comparative legal analysis of the legislative models governing the gambling industry in the Republic of Kazakhstan and Singapore and to identify the key differences in regulatory approaches, principles, and control mechanisms …",
-  "url": "https://doi.org/10.54649/2077-9860-2026-2-97-104",
-  "oa_url": "https://ojs.adlet-nt.kz/index.php/nt/article/download/241/214",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "prevention",
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "KZ",
-   "SG"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "KZ"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": null,
   "relevance": "high",
   "retracted": false
  },

@@ -2,7 +2,7 @@
  {
   "id": "cl-d-75119504",
   "kind": "docket",
-  "case_name": "State of Louisiana v. Kalshi Inc.",
+  "case_name": "Louisiana State v. Kalshi Inc.",
   "court": "District Court, E.D. Louisiana",
   "court_id": "laed",
   "court_citation": "E.D. La.",
@@ -14,7 +14,7 @@
   "docket_number": "2:26-cv-02614",
   "citation": "",
   "status": "",
-  "url": "https://www.courtlistener.com/docket/75119504/state-of-louisiana-v-kalshi-inc/",
+  "url": "https://www.courtlistener.com/docket/75119504/louisiana-state-v-kalshi-inc/",
   "snippet": "",
   "suit_nature": "",
   "documents": [
@@ -27,6 +27,11 @@
     "date": "2026-11-14",
     "description": "Vacate",
     "url": "https://www.courtlistener.com/docket/75119504/4/state-of-louisiana-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-14",
+    "description": "Initial Case Assignment",
+    "url": ""
    },
    {
     "date": "2026-11-13",
