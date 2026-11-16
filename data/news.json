@@ -1,5 +1,506 @@
 [
  {
+  "id": "1bbca24060a0031a",
+  "title": "In prediction markets Supreme Court case, experts expect nuance on sports",
+  "url": "https://sbcamericas.com/2026/11/16/prediction-markets-supreme-court-nuance/",
+  "source": "SBC Americas",
+  "feed_id": "sbc-americas",
+  "kind": "trade",
+  "published": "2026-11-16",
+  "summary": "KEY TAKEAWAYS The prediction markets jurisdictional fight over sports contracts is at the U.S. Supreme Court‘s door. Whether the justices open it, and when, remains the industry’s biggest open question, along with how…",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "f6a69ff926685c1a",
+  "title": "Wall Street Bets: Double Down Interactive, prediction markets, DraftKings, Brightstar Lottery",
+  "url": "https://cdcgaming.com/wall-street-bets-double-down-interactive-prediction-markets-draftkings-brightstar-lottery/",
+  "source": "CDC Gaming",
+  "feed_id": "cdc-gaming",
+  "kind": "trade",
+  "published": "2026-11-16",
+  "summary": "Josh Nichols of B Riley Associates on November 9 examined Double Down Interactive: “We are downgrading Double Down Interactive from Buy to Neutral and lowering our price target from $24 to $16.25 after controlling…",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "08fd68f661460ac0",
+  "title": "Overwhelming Bipartisan American Agreement: “Prediction Market” Sports Betting Should be Regulated like Gambling, Wide Acceptance of Legal Gambling as Entertainment",
+  "url": "https://www.americangaming.org/overwhelming-bipartisan-american-agreement-prediction-market-sports-betting-should-be-regulated-like-gambling-wide-acceptance-of-legal-gambling-as-entertainment/",
+  "source": "American Gaming Association",
+  "feed_id": "aga",
+  "kind": "industry",
+  "published": "2026-11-16",
+  "summary": "",
+  "categories": [
+   "prediction-markets",
+   "regulation"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "0d70f513e9073eb4",
+  "title": "Youth gambling falls again: 74% of British children have never gambled",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pM1ZGQmR2cUtBYmFoTDN1Q0NHUHpUNHMzQTlzeVdGS29HVDBnSE8xWlpXc2c2YjhVV1dZZWNKZjBBMTFzNDVLdVUwNE5ieUQydG1ndV92UWIxQ2hXcF9OMHdranlLVVU?oc=5",
+  "source": "WellPlayed",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Youth gambling falls again: 74% of British children have never gambled",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "94536cf1023a1da4",
+  "title": "Safer Gambling Week 2026 puts unlicensed operators in the spotlight",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnhBZTJuN1hlNHpEUUpKaWpYV2xnQzRVQnlTRnpXd0RrR2NKVnhmeFJHR092M3doWkt2Rml1N09aRndPakc1amk1Sk1SYzhiam10c05PVGFmcl9yejlqX19LTmllN0pJdE9aMm9rSDIyakM5NkRqQUFza0lTaW41REd3WFlGU0dMRVBtVXQzdHc5c21UWGN3ZzRycDkyd24zTzR0OHVR?oc=5",
+  "source": "The Independent",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Safer Gambling Week 2026 puts unlicensed operators in the spotlight The",
+  "categories": [
+   "public-health",
+   "regulation",
+   "industry"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "2a6c2ec6e0a97df5",
+  "title": "Self-appointed gambling policy review body ducks key questions over independence and funding",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFBhZGdvQWRVZGdSYzl2dTB2dE13MWJWVmFlclE4Zy05Y1JGVEM3b3N4S2Q4SmlpR05uQy1UdDgtN01JUmtCb3VpV2ZWcTgwWUFkMXBoY1dueGRqZnhkODNVenZ0M1EzRnZoUlZfcWx2cHhBcXhtRkdKRWZmcEpEYXBkb2RQcDZQdEhlN3pxQlhKWFZYUmJ4ZWtPMF83c1Y0cXZscWtOZURFVEZjODlHZ0xENFh6eDVZZjVnNU53?oc=5",
+  "source": "CDC Gaming",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Self-appointed gambling policy review body ducks key questions over independence and funding CDC",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "455aa3f8fad9a661",
+  "title": "Safer Gambling Week 2026: Betting Sites Join Charities To Promote Safer Gambling",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTZDT2lGalNMeTlYYW9ndEtWM3Q1MHdVUHQxcUo3ZExyZDVOWExzVFNXUlNLZmpkU20yNVhqYnl4V3NESWJlVmRZdmViVklBMnJQcWFsbWdQLWNacTAzM1I2WXJoSnc3TWNiS29XRjE3NUJRN1A4Z2pkM0RZTlM2WjR6dFFEOXpWVjF4MVFLWEo2UFhUenE3WDFWN0hEalBiLWdRaA?oc=5",
+  "source": "OLBG",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Safer Gambling Week 2026: Betting Sites Join Charities To Promote Safer Gambling",
+  "categories": [
+   "public-health",
+   "industry"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "974611381e3550da",
+  "title": "Gibraltar puts ex-Entain tax lead in charge of gambling",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXhIdUI5ZWtPWkRkSlpNalRINkRjb0p0TkVjcjNEc1FrSUpycjZmMGViRFJncUxYb0RaOXJCYTBwZE1LSWppbFBZcVFsWW10dlU3eFFOUGV2ZUJRNTdyV0xaYjRKSUx5Q2F3WE8tSjVOSS1wUnV0NWdUV2FQUQ?oc=5",
+  "source": "SBC News",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Gibraltar puts ex-Entain tax lead in charge of gambling SBC",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "6fc0433edcbb706b",
+  "title": "I'm A Celebrity 2026 Odds: Wayne Rooney Shortest EVER Priced Contestant To Be Crowned King Of The Jungle",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJZQ3BXT2xSVzlnVWFWY2pabWFEZFplZ0xhUm40WDFNVnJjVjEzM3VtaDFMQVBRZ2V3Sk1kTElKa0NTa05VakV4d1MyMGxab0d6cHpSN2I0QVRSNkJmYTBSV0dqMGQxbm1oR1BHeTBHWmw0c2UzWUtrLXhhVkpkcGJkSW5wWFhocS1YVFB5X1h1YVM4MG5VR2h0ak5TT1pmY21KdmFtREF0QQ?oc=5",
+  "source": "William Hill News",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "I'm A Celebrity 2026 Odds: Wayne Rooney Shortest EVER Priced Contestant To Be Crowned King Of The Jungle William Hill",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "695820c0b3c36b05",
+  "title": "Safer Gambling Week 2026 returns with stark warning over illegal gambling sites",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGtLZ1BOZF9NNFVZYmloNU94ZU5Zdk5IeWc5LS1iVjVLei0tZmVlZWZYeFFqVTQwSnFobC1VdmN6WWd2RjlmNDJfRkVieldJR1RVaUVJN1FyNFdFWFRWX0ozU3NzcU9Qckp1TndOUkhEWHdReWY2SEFxbGhGRThTTjAwTElDUVE3YlZaY3BEa2ZrSWcwSXV4VjZR?oc=5",
+  "source": "The Sun",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Safer Gambling Week 2026 returns with stark warning over illegal gambling sites The",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "69d94e8c097c8086",
+  "title": "Casinos That Accept PayPal: A Quick Guide for Football Fans",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcU1KcXhUbXpSWFBNeGd6NXZNSnhIaWRNVXY1b1JwUll6MlMyWWdIazZBR3BPd2NPYmxBX3FlWXFqZ2tycF9xOVJaSWNPakRiRmstTVBPUWpBcnFwQzZtdmFlWUxncWhwaVFXVndRalJuRmN6aXNRdTZWZG5SeTA1NEphQXV2aDlVQkxB?oc=5",
+  "source": "Fan Banter",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Casinos That Accept PayPal: A Quick Guide for Football Fans Fan",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "4e32e1efa3c1b354",
+  "title": "Crypto Betting Statistics 2026: Crypto's Share of SOFTSWISS Brand Bets Fell as Altcoins Neared Half of Crypto Wagers",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNDg5VmZGTHAwT1NjZFI3WmM1OTk2MTZRdTRBX2ROYmlDMXVEOENmS01fS0l1MFpjX2p5Um03Q2ljMnE4TG92S2taTnhGODIzbnJHQXB5M3Y?oc=5",
+  "source": "CoinLaw",
+  "feed_id": "gnews-ukgc",
+  "kind": "regulator",
+  "published": "2026-11-16",
+  "summary": "Crypto Betting Statistics 2026: Crypto's Share of SOFTSWISS Brand Bets Fell as Altcoins Neared Half of Crypto Wagers",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "ad9be8419cf5f23f",
+  "title": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFJ1RDJRcGtPcWpmaVBFbkZMeGRfbjRoMUJoMUg0a21SZVM5enNPVS04MHY2S2dsM0YwQXF1SExvcTZaeUlSdVdNek10R0JrSTJTc1lQSkF0SnNCd0hIa2hORlV5anI0bzJiV0VFOHBTX3VwZWNWRTdkWG5OT2kyRnNyWHBjUFczYlBGSXNVNmhGV2p6RUtmUVpvb0RWOTRIN3ZLOXE2aEtYem1ieHhKMmF5dEpueEw4d3ZiOEZSbDhyVlFaYWxZdHN4Y2F2UDV5RUh1QmlIMlpTeHM?oc=5",
+  "source": "MarketWatch",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "b9379d72a4fcd2de",
+  "title": "Beyond the Bets: The rise of problem gambling",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0piTzNIcG9sS1BsREN6M3lNclpXUExKOHNpMEJxOXV0Ymk3VTRST1lXNDhRMnRFcWktcU5WY0Jzd0NRZ3htcHlEVFIxRUpqT3RLeEl5NGhVVlZRaE50NkxkVXhLejlZUjZkMVBJRkl1dkNZUlRKLXVyYVA3S01Ba0pIeEZ1WXBPV09yQUZZWkxjM0Y0U1Vv?oc=5",
+  "source": "CTV News",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Beyond the Bets: The rise of problem gambling CTV",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "4c3b2dcf930b725d",
+  "title": "Ann-Marie Ashton v TSE Malta: High Court Dismisses Betfair Gambling Negligence Claim",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamFnRWZvLUlUQUJrVWlyWFdtN3VOME1NX2I5bk5yZ09VanNsZlozTTIxeHdXVDROb0M5UEpyU2hXbmhFOE1SVUhhcW1NT2xQV2VHSGpNQXhaQ0hDdm1BUXZDVExEdVJPRDg4Mk01RmZBclk5eUpEVFQyTnByLUlVdW4tcXRnODdB?oc=5",
+  "source": "Solicitor News",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Ann-Marie Ashton v TSE Malta: High Court Dismisses Betfair Gambling Negligence Claim Solicitor",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "48186575abf0c2aa",
+  "title": "Military At Risk: Gambling Addiction Can Cost A Career",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNFF5SktGZVRxazdraTVXMXdYdktZZDBZa1hzSWxmVl9YWXkzRnVxd3dQOEFCSEt0RUNYcUVHdVIwMzRjcllmSTNOUC1La2c5MjZ4T1I0MGpqMThIMHNJUFdROGtSZFBKSFg2bXVfelotcHhkVTlaRHplVk1WN21ieA?oc=5",
+  "source": "Casino Reports",
+  "feed_id": "gnews-problem-gambling",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Military At Risk: Gambling Addiction Can Cost A Career Casino",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "6d5fb9eb49bc3579",
+  "title": "Buenos Aires online betting bill stalls after committee fails to reach quorum",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2lMSG9NOUlUczBfU21yUlBhQ2FmR0QzQWpVV191NnZqVUR2bFZ4YlJqSFg0ZVluMTlFOUhHVlBGSS1QZ1VERU9EY1VKSVpJTy1OVXZNWUFkOTNzQlNPaU9TQ0g5S0lPX1c4bDlRbGFkZDlPUFZFNUdTVGdHWHZtNFhvNFo2RU5iV1NRdkIwbTBoTmFPTEhVNg?oc=5",
+  "source": "iGaming Business",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Buenos Aires online betting bill stalls after committee fails to reach quorum iGaming",
+  "categories": [
+   "regulation"
+  ],
+  "primary": "regulation",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "9d662c12c835353e",
+  "title": "‘Nobody's untouchable anymore’: Prediction markets feel heat from Trump administration",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3RxbjMxSUtaRTRqS1NHUUdxYjFYcENxaFNVbmZuOVVmNHZ4d0NBNlhkVURUNkdoMVJBYjM0dVFvajZvSk9pQ0p2WWtoaFRwaWxaMTlJQU1qd190VXN6ZDhQcWRpOWFUcHJLSXQ2WmhidnNqOGYzTjVuTThjUVNpeEFIQmMwX1RK?oc=5",
+  "source": "Politico",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "‘Nobody's untouchable anymore’: Prediction markets feel heat from Trump administration",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "0f274521f0f902a3",
+  "title": "The Economic Case for Prediction Markets",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXzZYZDNBaFBLVFpSNm5TZ3ZQbTc0ZmV1N1JoV0E3UjNEZFNkLWJDNllPdkY4VTBxb2tCQjZPalZQbmo3Q3BBano2RWs0MFlsYXdGQTlraGtaNk1LczY3RUxiNDZqU0VHa0ZyQTZPMWdLMjFTY2xTTWdHLTdaS1JTbDZndktKSE9Fd2NmU0c5a242WHJO?oc=5",
+  "source": "Barron's",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "The Economic Case for Prediction Markets",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "d8bdf9431be56c0d",
+  "title": "Jensen Huang return: Kalshi, Polymarket speculators join Elon Musk in weighing Nvidia odds",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VmlOSWd5UkFhSFM2eEI0aXc3aURGQzJ0QS1uQmI4SW9SM3ZmY0FuSlhkSXdYVXd4Mk9JbERHdzZYWjZkOG8zQVVNNzhXWER5Z0U2RnY2eU0wRTJpbU5nQS1ORVVoMEp5ckFJWHNBLUkyZFBZQTF3cVhRZWN6eXM?oc=5",
+  "source": "Fortune",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Jensen Huang return: Kalshi, Polymarket speculators join Elon Musk in weighing Nvidia odds",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "74e39ccdfbba7c95",
+  "title": "CFTC’s Vision of Open Prediction Markets Isn’t Reality",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWNUaE9vV3ZkaHdodEx5OVlIRm9HQUttUnlsSDFVOThsYk12V2pGdGVZNFR4cGpoZGNnNUVvbmZpbks1RGhyaW1ETWEwNGpMR2xKaGhObENSRlJDWWFkZzdQb3dWY1JGcGFvTmRhbU0tLWpBa2RFNDYzZmtqNHlBOWQ4bGJyOERQSnBaLUx0dlJuU1F4cWlRM250WjRseS0yWE9HbzRLSHNaMUo3WlpTREVONA?oc=5",
+  "source": "Sportico.com",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "CFTC’s Vision of Open Prediction Markets Isn’t Reality",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "0ebe5b8aa1e88a24",
+  "title": "2026 ACC Championship Polymarket odds updated after Week 11",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmtlSWtKMkwyaGd4YzZuczQxTlNfWmZFQnc4RWg4UDVVWDhkRHBoaDhnM0V3THNEUkZkTVgzZEJycmp0UkhvSGx1cS1hZ3hVOG5aWTB0UVoyTEF6T1hKZVhyVEpXX2NPSUVrQ2ctdHhjVWc3N2s4UUxPTng4TEVSUTFGa01QQmFkSVRyb1JB?oc=5",
+  "source": "On3",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "2026 ACC Championship Polymarket odds updated after Week 11",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "d4bea454c38b68da",
+  "title": "Blue wave could cool red-hot prediction markets",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjFxR0FtdHlfN3ZDOGJLNXYzUU5yZ3pBeG5xNldGRUFQZWVYWGdycjFzaWpuTlRxazFTbm8yUEliQUVjUHh1c1pOU3Q0YXJ6QjBpT1ctM09qSF9UTHc0RjBpTVU1RHVWZGlJUngyU2EtRjl0R0M2QzNrQTJuNkhjclVkY2Zud0t5TFBTaDJUQWZzdDhlLW9nWlpzNmpZTTByUU9wVHZubjE1dw?oc=5",
+  "source": "Sports Business Journal",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Blue wave could cool red-hot prediction markets Sports Business",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "1aa4d80c5cd794e5",
+  "title": "Kalshi seeks $65 billion valuation in new funding talks for compute futures expansion",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU0tNLVJXWjRUSlZ1NXczY1JIV3A0dzNnZ2p1MVNoZGExVkxIdVNSQVYxcEZxRm82TmlqdUg3RGlkeW8xeUV3OWFud3Vra2lTbnAzQWx5aDVLVHVQaUdLZEFXZHpzRWlNTUt3d1hhMXh2cjFJTkhiSWFBMmtlQ0ZaVm5pNHJzM09OQ2J3eS1WVmdmRzYwWUlXRHNNT3BOdS1JZ19BV1NudlhhMUV1dzh4aVdMZUk3MjFDQzRIYm1wZkhYWk5mV3RtdVdjaFFLNkhUckdwMnoteElacTFmZmc?oc=5",
+  "source": "Yogonet",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Kalshi seeks $65 billion valuation in new funding talks for compute futures expansion",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "a00e05941fcdd575",
+  "title": "Louisiana suit against prediction markets triggers legal volley, setting the stage for showdown in the bayou",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzN5bkItUjRjSnFNSXVkdkRlTU1aem5FbnNZUlRVTjI3cGtjZXZhOUh1d2xETHRyME1qQ1pDN2Fxa3RST3R3cHBsNk5IWGJZREM0RjBYZi1sUl93bFFXa3JVaHNER3g3NlVsNlo4M2NMZ3J1WWZnWWtCcjk2MjczY0duN0J1NHBYMjdmd29sMEx1ejlWUTZZakxJdjhVM3h5dWtrRHhn?oc=5",
+  "source": "iGaming Business",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Louisiana suit against prediction markets triggers legal volley, setting the stage for showdown in the bayou iGaming",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "b6836bcb6365ca34",
+  "title": "Tracking The Badgers And Wisconsin's Championship Hopefuls In Indiana On Prediction Markets",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LU3BYc1BTTjRZUDFtSG91bmxKUmYwVTNYemlNanMyNmFnWjBQZnNVTS1KeUlnQy1FTlotaktqa1RPemgtT3U5c2JtMU5Fc1Zsa04tS1doeUlibFYyaGdYajViQlFZLWJlUDlaTnpEVExobG5ydy0xckVR?oc=5",
+  "source": "Racine County Eye",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Tracking The Badgers And Wisconsin's Championship Hopefuls In Indiana On Prediction Markets Racine County",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "c0056f3f0da0841b",
+  "title": "Polymarket Invite Code SBWIRE: Get $25 Bonus for NFL, NCAAF, NBA & More",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWVpcW1zd0ZNRjZ1em5saEQ4Umtab3BIRGRQeGhXUFV4OFAyQXpYU1BNSjFSZURXSXVQQTJoYkJxbmZ0dU5JTDl3aXA2N08zbUJWc3dKVGxBTGRONmtmSWtBY0hlenRCWjc0ZlJpOHhYSUtlUkgwT0x4N0N4cWlMT3JpX1RMczhfR3FnVkV6WWpYZ2dfWVZvQWdpZkFscHo2a1BZeXgzOERWTXJCU3RuZE1FNDdYenB6X0VQNHRldw?oc=5",
+  "source": "Chiefs Wire",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Polymarket Invite Code SBWIRE: Get $25 Bonus for NFL, NCAAF, NBA & More Chiefs",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "ea5e960e3ddc3bb1",
+  "title": "NJ Self-Exclusion Offers Context for GamStop Comparison",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbVdfd1ZnU2ZjNVFjS2ZQOXJtamVBd3cxbm5kQ3Yxdlp5eFZVck9JdnR1aWg3UkxzS2hjN2JSaVNnRVBFVmRzdFc5bEQxYlBEcEJoYnhnRW54QXJyemNWUjhaV0wxZ2lOLTFKdmJvWjdoLTNnR2hVYlhfVTN4NExpZnpScDNnMkJlNWxpbnJEWlNJNk1veDQ0?oc=5",
+  "source": "PlayNJ",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "NJ Self-Exclusion Offers Context for GamStop Comparison",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "bd09a0ef464569c7",
+  "title": "Pennsylvania: Gambling self-exclusions rise beyond casino counties",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmtLUE9HQldUa2ZRVkEzVnlYZ2dMVVl0M1MxZDJDa1Z1QWwtRTgtTUoxQmVlV3dWRlhrRVpucEY0WXRPNjNoN21Jc2xGcmtFY3N4REN2dWUwV1BEQlpDWmZ1QXJNNHlzSlk5aHNXX1pmaE9CQkt6ek5WNUR0dEdmWnktQmJQZEswbzFUaUhYcFFvdFExRFo5WDV3?oc=5",
+  "source": "CDC Gaming",
+  "feed_id": "gnews-self-exclusion",
+  "kind": "press",
+  "published": "2026-11-16",
+  "summary": "Pennsylvania: Gambling self-exclusions rise beyond casino counties CDC",
+  "categories": [
+   "public-health"
+  ],
+  "primary": "public-health",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "2f4d581cea046e12",
+  "title": "Where Is Sports Betting Legal? 2026 State-by-State Guide | OutKick",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81eWp0Y0o4TFZYVnRwY2lXWDF6VEdMR21DeVdncV83eWJqOVZTLWNRa0hIUnAtWkpTR1F2WWdhX25WMHRhc1VuQzFSWUpvS1Fha3hEcE15Yk0tNFphdEprU2RDTno0OHZWUWRBdXFIRUxFcWd2TE9MbQ?oc=5",
+  "source": "Fox News",
+  "feed_id": "gnews-betting-law",
+  "kind": "press",
+  "published": "2026-11-15",
+  "summary": "Where Is Sports Betting Legal? 2026 State-by-State Guide | OutKick Fox",
+  "categories": [
+   "industry"
+  ],
+  "primary": "industry",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "e4b673170be6e2f6",
+  "title": "The Bigger Picture | Polymarket UFC 334",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBraTREUXVKeTRxcUFqaXFjSG5hZG1Wa3F5MzkybjZpSDhmWGYwWnNwbTN1VGFEYU1DOHpyNmRiWFUxRmdqRGFaOThxMWhkTnN0aVpoVHpzNDVHWkRjUW56by1CbE42cmRkeUxONlhlWQ?oc=5",
+  "source": "UFC.com",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-15",
+  "summary": "The Bigger Picture | Polymarket UFC 334",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "978e7ab2b608353c",
+  "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHJfMWl2cGJEWEdGdlFscGZsUkxPNGRiMFF6NmhMSWprWUhLUWZSbzZycHlrcUpLbHE3X1FkZ29XeHZtc09pQ2NpS1FYcDhTU0IyM3pZZFVGdjdSNzFMLUNwV1RQdnc1RktpeWFIQXd1ak9BT0ZIaDJHVmN4SldVN1ZBeDNySWpZbXFfWDBUTTBKaFFrdEdHQnBnTFlwcXVJY1VOejE5N3pxaTAwMW5nOGhvb0puWjRIMDQzNnJ3NFRGbm9HZXdKSQ?oc=5",
+  "source": "Bloomberg.com",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-15",
+  "summary": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+  "categories": [
+   "prediction-markets",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "11be5454f2a84372",
+  "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanRJNjFBN3N6VkFtQlpvRHNvaU5pbEljV3dORDBUTWJIenMxYWlSSXBhZjBnUGgwTlhaM3ViNkdEODJGWGxHbU01SnI2bFlPNDF3UDl6clM4bGwzYkwwelhYS3IxTGRxdWtQV2tlbkRJQkpkQ3ZEbzNzSmhPRzZqdHE5MkQxdGFxb1FHV1hZek13MGNkX2tVYUpTN1dlZGtFUGI4WVR3OFdPQTFzemU5cQ?oc=5",
+  "source": "CoinDesk",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-15",
+  "summary": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+  "categories": [
+   "prediction-markets"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
+ },
+ {
   "id": "498073294f9a5a9b",
   "title": "UK Gambling Commission's 2026 Report on Youth Gambling Trends | Reports - SoloAzar International",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjM1R1ZoSnBjeGYtN25GRkt0bkpGUVJ4M05Dc21Cd0tvUURJOWxNX01TQU5YR3VNLXlRdWFNNXRWU1JhaW16cFdTSWNSSHl5NUk3dTY5Q05PYTlvVFVBckdBTHhrNVFBLXBlT1Y3RlFNbUVWZ2YxTlc5bmM0NGo3Ukwtd1VfNkVUSnBSUVczN25Wdmt2cjF0RUV3Wkk1TzZ0Qmxrck8wQjc?oc=5",
@@ -144,52 +645,6 @@
   "kind": "press",
   "published": "2026-11-15",
   "summary": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
-  "categories": [
-   "prediction-markets"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-11-15"
- },
- {
-  "id": "417c9047e84672b0",
-  "title": "Kalshi Users Ages 18 To 21 Traded $3.9 Billion On Sports As Ro Khanna Calls For A Ban",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1RLbGlxcEdMbU9ITHk2d1M0S1BFRzNDQnJMRG1HSC1XY243YU1SblkyMEY0ZEpPMEpBZmNvMVVfSlRaOV9RN2xCVUpZb3ltRXR4NlQ0cHlLaE1GZnhtWEQ4TFp6Y1JPaFY0eGJXTGM4WUpoZ2JiczZVVVBFTGtSbVBPMERQZE5DTmJoTXl5QVFsYldBWGJxYVUwV1lETmdyUm9yZ2kzeXVfMU0?oc=5",
-  "source": "The College Investor",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-11-15",
-  "summary": "Kalshi Users Ages 18 To 21 Traded $3.9 Billion On Sports As Ro Khanna Calls For A Ban The College",
-  "categories": [
-   "prediction-markets",
-   "regulation"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-11-15"
- },
- {
-  "id": "7ba052e3d3aed1c5",
-  "title": "Caio Borralho Octagon Interview | Polymarket UFC 334",
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pb1h5b1R1eHUtSTFIUGozVWVmXzR5dUVTNmtHcTY3MHlURGNSSHF4NlJ2bUw5aFU3MlJkbTJCYjA1RGpDOFQ4?oc=5",
-  "source": "UFC.com",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-11-15",
-  "summary": "Caio Borralho Octagon Interview | Polymarket UFC 334",
-  "categories": [
-   "prediction-markets"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-11-15"
- },
- {
-  "id": "f098c4b6569449a5",
-  "title": "Luis Gurule Octagon Interview | Polymarket UFC 334",
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JS1RwdVQteHZUWXZhcXlIaVAtZGhwZjU0UndpcFhvd012Y1UyMGtaVWNnSHIwdlY5QUNkdmtYd01PTmxWSzhN?oc=5",
-  "source": "UFC.com",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-11-15",
-  "summary": "Luis Gurule Octagon Interview | Polymarket UFC 334",
   "categories": [
    "prediction-markets"
   ],
@@ -408,6 +863,23 @@
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-11-14"
+ },
+ {
+  "id": "172ae6d382a4bb4c",
+  "title": "Louisiana judge orders sweeping restraining order against Kalshi, Polymarket, Coinbase, and other prediction market operators",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrNlR6c0EzTnJBa2xEWmRPWTd6VFRlWGdrN0R3TFIwcURtTVZhRnNnRTFiZi1Gb2lPNnZUQjFFZ0lxX2xsV1hTYi05Qm94WkJnWlBiWkFObXB1N1pnWEswLVdoWUNXbVV2NmdGMUFXQjdWYm1XLTNXTQ?oc=5",
+  "source": "Crypto Briefing",
+  "feed_id": "gnews-prediction-markets",
+  "kind": "press",
+  "published": "2026-11-13",
+  "summary": "Louisiana judge orders sweeping restraining order against Kalshi, Polymarket, Coinbase, and other prediction market operators Crypto",
+  "categories": [
+   "prediction-markets",
+   "regulation",
+   "industry"
+  ],
+  "primary": "prediction-markets",
+  "first_seen": "2026-11-16"
  },
  {
   "id": "c6f89554e26244ad",
@@ -978,21 +1450,6 @@
   "categories": [
    "prediction-markets",
    "regulation"
-  ],
-  "primary": "prediction-markets",
-  "first_seen": "2026-11-14"
- },
- {
-  "id": "ed4cbc0e46040bf2",
-  "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted “optics” weren’t good",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3ZJZVFsT3JuUXBRY3lIVDNoNFgzTkRlZERPUEdYbko3ZGRZcXFnUTAwaTRSM3YwV0tFbDhxbldkRmhzMGJ0VEVPS0tpWk5OdHNCQ2lVbTJUTGhyNFRlcmtuQjRDeFRZVHRoVHRnczVELVR5OEZHdzZsWjkwcVZOX09HeHl6MVdPeGRzVkJWREVwcHBockI4RUoxRlFjbGF3WXBDTXNPYlVrc2pNazRYTW5aeUtQQXB5TFBJaw?oc=5",
-  "source": "Ars Technica",
-  "feed_id": "gnews-prediction-markets",
-  "kind": "press",
-  "published": "2026-11-13",
-  "summary": "Kalshi ditches Trump Jr. as advisor; CEO admitted “optics” weren’t good Ars",
-  "categories": [
-   "prediction-markets"
   ],
   "primary": "prediction-markets",
   "first_seen": "2026-11-14"

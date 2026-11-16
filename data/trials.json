@@ -39,6 +39,51 @@
   "status_changed": null
  },
  {
+  "id": "osf:6pwzn",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "The Impact of Sports Betting on Mental Health and Addiction",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-13",
+  "last_updated": "2026-11-13",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Since the Supreme Court struck down the Professional and Amateur Sports Protection Act (PASPA) in May 2018, 39 states and the District of Columbia have legalized retail or online sports betting and Americans have wagered nearly $550 billion on sports events, as of August 2026 …",
+  "url": "https://osf.io/6pwzn/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Sarah Schutz",
+   "Lawrence Baker",
+   "Ruolin Lu",
+   "Jonathan Cantor"
+  ],
+  "topics": [
+   "sports-betting",
+   "treatment",
+   "policy",
+   "comorbidity"
+  ],
+  "designs": [
+   "behavioral-data"
+  ],
+  "first_seen": "2026-11-16",
+  "status_changed": null
+ },
+ {
   "id": "osf:ur2hf",
   "registry": "osf",
   "registry_label": "OSF Registries",

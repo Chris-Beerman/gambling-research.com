@@ -1,5 +1,41 @@
 [
  {
+  "id": "cl-d-73456531",
+  "kind": "docket",
+  "case_name": "State of New Mexico v. Kalshi, Inc.",
+  "court": "District Court, D. New Mexico",
+  "court_id": "nmd",
+  "court_citation": "D.N.M.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-08",
+  "date_terminated": null,
+  "latest_activity": "2026-11-15",
+  "docket_number": "6:26-cv-01857",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73456531/state-of-new-mexico-v-kalshi-inc/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-15",
+    "description": "Transcript",
+    "url": "https://www.courtlistener.com/docket/73456531/47/state-of-new-mexico-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-10",
+    "description": "Status Conference",
+    "url": "https://www.courtlistener.com/docket/73456531/46/state-of-new-mexico-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-11"
+ },
+ {
   "id": "cl-d-75119504",
   "kind": "docket",
   "case_name": "Louisiana State v. Kalshi Inc.",
@@ -10,18 +46,28 @@
   "court_level_label": "federal district",
   "date_filed": "2026-11-13",
   "date_terminated": null,
-  "latest_activity": "2026-11-14",
+  "latest_activity": "2026-11-15",
   "docket_number": "2:26-cv-02614",
   "citation": "",
   "status": "",
   "url": "https://www.courtlistener.com/docket/75119504/louisiana-state-v-kalshi-inc/",
-  "snippet": "",
-  "suit_nature": "",
+  "snippet": "Civil Miscellaneous Case; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
   "documents": [
    {
+    "date": "2026-11-15",
+    "description": "EXPARTE/CONSENT MOTION to Expedite HEARING ON MOTION TO DISSOLVE TEMPORARY RESTRAINING ORDER by Robinhood Derivatives, LLC, Robinhood Market",
+    "url": "https://www.courtlistener.com/docket/75119504/11/louisiana-state-v-kalshi-inc/"
+   },
+   {
     "date": "2026-11-14",
-    "description": "Request/Statement of Oral Argument",
+    "description": "Request/Statement of Oral Argument by Robinhood Derivatives, LLC, Robinhood Markets, Inc. regarding 4 MOTION to Vacate Temporary Restraining",
     "url": "https://www.courtlistener.com/docket/75119504/5/state-of-louisiana-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-14",
+    "description": "Initial Case Assignment to Judge Nannette Jolivette Brown and Magistrate Judge Eva J. Dossier. (clc)",
+    "url": "https://www.courtlistener.com/docket/75119504/6/louisiana-state-v-kalshi-inc/"
    },
    {
     "date": "2026-11-14",
@@ -32,11 +78,6 @@
     "date": "2026-11-14",
     "description": "Initial Case Assignment",
     "url": ""
-   },
-   {
-    "date": "2026-11-13",
-    "description": "Notice of Removal",
-    "url": "https://www.courtlistener.com/docket/75119504/1/state-of-louisiana-v-kalshi-inc/"
    }
   ],
   "cite_count": 0,
@@ -185,6 +226,40 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-28"
+ },
+ {
+  "id": "cl-d-73414398",
+  "kind": "docket",
+  "case_name": "GEORGIA GAMBLING RECOVERY, LLC v. VGW HOLDINGS, LTD.",
+  "court": "District Court, M.D. Georgia",
+  "court_id": "gamd",
+  "court_citation": "M.D. Ga.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-05-29",
+  "date_terminated": null,
+  "latest_activity": "2026-11-13",
+  "docket_number": "4:26-cv-00883",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73414398/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/",
+  "snippet": "28:1332 Diversity-Notice of Removal; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-13",
+    "description": "JOINT MOTION to Set Briefing Schedule on Responses to Complaint by VGW GP LTD, VGW HOLDINGS LTD, VGW LUCKYLAND INC, VGW MALTA LTD filed by G",
+    "url": "https://www.courtlistener.com/docket/73414398/25/1/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
+   },
+   {
+    "date": "2026-10-28",
+    "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
+    "url": "https://www.courtlistener.com/docket/73414398/24/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-29"
  },
  {
   "id": "cl-d-75114293",
@@ -372,37 +447,6 @@
   "documents": [],
   "cite_count": 0,
   "topics": [],
-  "first_seen": "2026-11-11"
- },
- {
-  "id": "cl-d-73456531",
-  "kind": "docket",
-  "case_name": "State of New Mexico v. Kalshi, Inc.",
-  "court": "District Court, D. New Mexico",
-  "court_id": "nmd",
-  "court_citation": "D.N.M.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-06-08",
-  "date_terminated": null,
-  "latest_activity": "2026-11-10",
-  "docket_number": "6:26-cv-01857",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73456531/state-of-new-mexico-v-kalshi-inc/",
-  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-11-10",
-    "description": "Status Conference",
-    "url": "https://www.courtlistener.com/docket/73456531/46/state-of-new-mexico-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
   "first_seen": "2026-11-11"
  },
  {
@@ -1211,35 +1255,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-30"
- },
- {
-  "id": "cl-d-73414398",
-  "kind": "docket",
-  "case_name": "GEORGIA GAMBLING RECOVERY, LLC v. VGW HOLDINGS, LTD.",
-  "court": "District Court, M.D. Georgia",
-  "court_id": "gamd",
-  "court_citation": "M.D. Ga.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-05-29",
-  "date_terminated": null,
-  "latest_activity": "2026-10-28",
-  "docket_number": "4:26-cv-00883",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73414398/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/",
-  "snippet": "",
-  "suit_nature": "",
-  "documents": [
-   {
-    "date": "2026-10-28",
-    "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
-    "url": "https://www.courtlistener.com/docket/73414398/24/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-10-29"
  },
  {
   "id": "cl-d-73416148",
