@@ -1,5 +1,395 @@
 [
  {
+  "id": "doi:10.69554/zteb8126",
+  "doi": "10.69554/zteb8126",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7234494258",
+  "title": "Privacy, age assurance, and platform governance in online gambling: Lessons from India, UK/EU, Australia, and Singapore",
+  "journal": "Journal of Data Protection & Privacy.",
+  "authors": [
+   "Animesh Kumar Sharma",
+   "Rahul Sharma"
+  ],
+  "published": "2026-11-16",
+  "year": 2026,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-17",
+  "summary": "Online gambling and adjacent gaming mechanics raise acute data protection challenges: pervasive identification (ID) and age assurance, profiling for fairness and harm prevention, high-velocity payments, dark pattern monetisation, and cross-border enforcement …",
+  "url": "https://doi.org/10.69554/zteb8126",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "loot-boxes",
+   "youth",
+   "prevention",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "IN",
+   "GB",
+   "AU",
+   "SG"
+  ],
+  "setting_regions": [
+   "asia",
+   "uk-ireland",
+   "australia-nz"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.47772/ijriss.2026.102500017",
+  "doi": "10.47772/ijriss.2026.102500017",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7234135165",
+  "title": "Perceptions of Gambling Disorder Among University Students in Hidalgo: An Exploratory Study Based on the Health Belief Model",
+  "journal": "International Journal of Research and Innovation in Social Science",
+  "authors": [
+   "Jennifer Palacios Ramírez",
+   "Andrés Alberto Hernández López",
+   "Josué Rafael Hernández García"
+  ],
+  "published": "2026-11-16",
+  "year": 2026,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-17",
+  "summary": "Online betting has become a relevant research topic due to its potential association with financial difficulties, emotional distress, and loss of control, particuularly among young people. Understanding how university students perceive betting-related behaviors and their potential consequences may contribute to the development of prevention strategies …",
+  "url": "https://doi.org/10.47772/ijriss.2026.102500017",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "prevention"
+  ],
+  "designs": [
+   "survey",
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "MX"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.47268/pamali.v6i3.3746",
+  "doi": "10.47268/pamali.v6i3.3746",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7234297495",
+  "title": "Double Digital Crime and Law Enforcement Challenges: Criminal Liability in Slot Gambling and Pornography Cases Through Trakteer Platforms",
+  "journal": "PAMALI Pattimura Magister Law Review",
+  "authors": [
+   "Benny Karya Limantara",
+   "Adi Pranata"
+  ],
+  "published": "2026-11-16",
+  "year": 2026,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-17",
+  "summary": "The development of digital technology opens up opportunities for the abuse of electronic platforms to commit various criminal acts, including the promotion of online gambling and the repeated and organized dissemination of pornographic content …",
+  "url": "https://doi.org/10.47268/pamali.v6i3.3746",
+  "oa_url": "https://doi.org/10.47268/pamali.v6i3.3746",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.puhe.2026.106559",
+  "doi": "10.1016/j.puhe.2026.106559",
+  "pmid": "43038653",
+  "pmcid": null,
+  "openalex": "W7168175656",
+  "title": "'Not on GamStop': Mapping unlicensed gambling websites' user journeys from social media advertisements to unsuccessful withdrawals",
+  "journal": "Public Health",
+  "authors": [
+   "Jamie Torrance",
+   "Simon Wright",
+   "Maira Andrade",
+   "Philip Newall"
+  ],
+  "published": "2026-11-16",
+  "year": 2026,
+  "created": "2026-11-16",
+  "first_seen": "2026-11-17",
+  "summary": "This audit mapped the user journey from social media adverts for unlicensed 'not on GamStop' operators (which evade Great Britain's national self-exclusion scheme) to the gambling sites they lead to. Study Design: Cross-sectional, online digital-risk audit …",
+  "url": "https://doi.org/10.1016/j.puhe.2026.106559",
+  "oa_url": "https://doi.org/10.1016/j.puhe.2026.106559",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "prevention",
+   "self-exclusion",
+   "advertising",
+   "policy",
+   "industry"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.51891/rease.v12i11.31964",
+  "doi": "10.51891/rease.v12i11.31964",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225741460",
+  "title": "A TERAPIA COGNITIVO-COMPORTAMENTAL NO TRATAMENTO DO TRANSTORNO DE JOGO ASSOCIADO ÀS APOSTAS ON-LINE: APROXIMAÇÕES COM INTERVENÇÕES UTILIZADAS NA DEPENDÊNCIA QUÍMICA",
+  "journal": "Revista Ibero-Americana de Humanidades, Ciências e Educação",
+  "authors": [
+   "Carla Patrícia Santos Araújo",
+   "Melissa Bastos Facundo de Almeida Hafner"
+  ],
+  "published": "2026-11-10",
+  "year": 2026,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-17",
+  "summary": "O crescimento das plataformas digitais de apostas esportivas on-line tem produzido novas formas de sofrimento psíquico, aproximando os vícios comportamentais das dependências químicas em seus mecanismos de compulsão, tolerância e abstinência …",
+  "url": "https://doi.org/10.51891/rease.v12i11.31964",
+  "oa_url": "https://periodicorease.pro.br/rease/article/download/31964/20993",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "BR"
+  ],
+  "setting_regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "pt",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.51359/2177-9309.2026.271374",
+  "doi": "10.51359/2177-9309.2026.271374",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225418198",
+  "title": "Desmistificando os jogos de azar eletrônicos por meio da matemática: um simulador virtual para a Educação Financeira Crítica",
+  "journal": "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana",
+  "authors": [
+   "Vitor Ferreira de Souza",
+   "Débora A. F. Albanez",
+   "Anderson Paião dos Santos"
+  ],
+  "published": "2026-11-06",
+  "year": 2026,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-17",
+  "summary": "Este trabalho apresenta uma proposta didática para o Ensino Fundamental, fundamentada na Educação Matemática Crítica (Skovsmose, 2001), voltada à discussão do fenômeno das apostas eletrônicas e à promoção da Educação Financeira Crítica aos estudantes …",
+  "url": "https://doi.org/10.51359/2177-9309.2026.271374",
+  "oa_url": "https://periodicos.ufpe.br/revistas/emteia/article/download/271374/53268",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "BR"
+  ],
+  "setting_regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "pt",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.36128/z6es5q19",
+  "doi": "10.36128/z6es5q19",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225257418",
+  "title": "Ochrona dziecka przed hazardem i „para-hazardem” w prawie polskim",
+  "journal": "PRAWO i WIĘŹ",
+  "authors": [
+   "Filip Jurkiewicz"
+  ],
+  "published": "2026-11-04",
+  "year": 2026,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-17",
+  "summary": "Artykuł omawia polskie regulacje prawne dotyczące ograniczenia dostępu do hazardu dzieciom i przeciwdziałania uzależnieniu od gier hazardowych w świetle przepisów ustawy o grach hazardowych, ze szczególnym uwzględnieniem problematyki hazardu cyfrowego oraz „para-hazardu” …",
+  "url": "https://doi.org/10.36128/z6es5q19",
+  "oa_url": "https://prawoiwiez.edu.pl/index.php/piw/article/download/1844/1535",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "PL"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "pl",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.jcae.2026.100611",
+  "doi": "10.1016/j.jcae.2026.100611",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W4414001813",
+  "title": "Gambling culture and management earnings forecasts: Evidence from China",
+  "journal": "Journal of Contemporary Accounting & Economics",
+  "authors": [
+   "Jichen Huang",
+   "Shengnian Wang",
+   "Yueying Li"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2025-10-10",
+  "first_seen": "2026-11-17",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.jcae.2026.100611",
+  "oa_url": "https://doi.org/10.2139/ssrn.5437854",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.51891/rease.v12i10.32029",
+  "doi": "10.51891/rease.v12i10.32029",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224880377",
+  "title": "A LUDOPATIA DIGITAL E O JOGO DO TIGRINHO: IMPACTOS PSICOLÓGICOS, SOCIAIS E O PAPEL DO PSICÓLOGO NO ENFRENTAMENTO DO VÍCIO EM JOGOS DE AZAR ONLINE",
+  "journal": "Revista Ibero-Americana de Humanidades, Ciências e Educação",
+  "authors": [
+   "Marcionilio Botelho Moreira Júnior",
+   "Mariana Fernandes Ramos dos Santos"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-10-31",
+  "first_seen": "2026-11-17",
+  "summary": "O avanço das tecnologias digitais modificou profundamente os modos de lazer e interação social, tornando os jogos de azar online um fenômeno de grande alcance, especialmente entre jovens e adultos em situação de vulnerabilidade …",
+  "url": "https://doi.org/10.51891/rease.v12i10.32029",
+  "oa_url": "https://periodicorease.pro.br/rease/article/download/32029/20604",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "pt",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.66618/equalitylawandsocial.v2i2.1589",
   "doi": "10.66618/equalitylawandsocial.v2i2.1589",
   "pmid": null,
@@ -18,7 +408,7 @@
   "first_seen": "2026-11-16",
   "summary": "Fish shooting machine gambling remains a social and legal problem in Purba Tua Village, Batang Onang Subdistrict, despite its prohibition under Indonesian positive law and Islamic criminal law. This study examines the mechanisms, contributing factors, criminal liability, and applicable sanctions for the practice from both legal perspectives …",
   "url": "https://doi.org/10.66618/equalitylawandsocial.v2i2.1589",
-  "oa_url": "https://doi.org/10.66618/equalitylawandsocial.v2i2.1589",
+  "oa_url": "https://ejournal.risetanakbangsa.id/jhs/article/download/1589/226",
   "sources": [
    "openalex"
   ],
@@ -36,8 +426,12 @@
   "setting_regions": [
    "asia"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -629,7 +1023,7 @@
   "doi": "10.2196/106739",
   "pmid": "43019532",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7169500098",
   "title": "Suicidal Ideation Endorsed on the Patient Health Questionnaire-9 at Intake and Treatment Outcomes in Gambling Disorder Care: Retrospective Cohort Study",
   "journal": "JMIR formative research",
   "authors": [
@@ -645,8 +1039,9 @@
   "first_seen": "2026-11-13",
   "summary": "Gambling disorder (GD) carries a disproportionate burden of suicide risk. Clinicians frequently encounter patients with suicidal ideation (SI) at treatment entry, yet no published study has examined whether SI at intake predicts treatment engagement or symptom change in GD care …",
   "url": "https://doi.org/10.2196/106739",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.2196/106739",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -1327,6 +1722,54 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1016/j.jbef.2026.101277",
+  "doi": "10.1016/j.jbef.2026.101277",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7225613045",
+  "title": "The hidden costs of sports gambling: Spillover effects on financial risk-taking and vulnerability to fraud",
+  "journal": "Journal of Behavioral and Experimental Finance",
+  "authors": [
+   "Matheus Moura",
+   "Rodrigo de Oliveira Leite",
+   "Ricardo Lopes Cardoso",
+   "Luana Alves"
+  ],
+  "published": "2026-11-09",
+  "year": 2026,
+  "created": "2026-11-10",
+  "first_seen": "2026-11-11",
+  "summary": "Using experimental data from a survey of 737 Brazilian investors sourced through the Brazilian Securities and Exchange Commission, we examine how individuals evaluate legitimate and illegitimate financial choices …",
+  "url": "https://doi.org/10.1016/j.jbef.2026.101277",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214635026001395/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "BR"
+  ],
+  "setting_regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.24072/pci.rr.103265",
   "doi": "10.24072/pci.rr.103265",
   "pmid": null,
@@ -1500,54 +1943,6 @@
   ],
   "regions": [
    "europe"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1016/j.jbef.2026.101277",
-  "doi": "10.1016/j.jbef.2026.101277",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7225613045",
-  "title": "The Hidden Costs of Sports Gambling: Spillover Effects on Financial Risk-Taking and Vulnerability to Fraud",
-  "journal": "Journal of Behavioral and Experimental Finance",
-  "authors": [
-   "Matheus Moura",
-   "Rodrigo de Oliveira Leite",
-   "Ricardo Lopes Cardoso",
-   "Luana Alves"
-  ],
-  "published": "2026-11-01",
-  "year": 2026,
-  "created": "2026-11-10",
-  "first_seen": "2026-11-11",
-  "summary": "Using experimental data from a survey of 737 Brazilian investors sourced through the Brazilian Securities and Exchange Commission, we examine how individuals evaluate legitimate and illegitimate financial choices …",
-  "url": "https://doi.org/10.1016/j.jbef.2026.101277",
-  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214635026001395/pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "sports-betting"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "BR"
-  ],
-  "setting_regions": [
-   "latin-america"
-  ],
-  "countries": [
-   "BR"
-  ],
-  "regions": [
-   "latin-america"
   ],
   "language": "en",
   "relevance": "high",
@@ -3950,17 +4345,17 @@
   "title": "Decision-making and implicit associations in internet gaming disorder, gambling disorder and alcohol use disorder - A comparative study on treatment-seeking patients",
   "journal": "Comprehensive Psychiatry",
   "authors": [
-   "N Dominick",
-   "M E Beutel",
-   "O Tüscher",
-   "S Steins-Loeber",
-   "K Wölfling"
+   "N. Dominick",
+   "M.E. Beutel",
+   "O. Tüscher",
+   "S. Steins-Loeber",
+   "K. Wölfling"
   ],
   "published": "2026-10-29",
   "year": 2026,
-  "created": "2026-11-02",
+  "created": "2025-11-28",
   "first_seen": "2026-11-03",
-  "summary": "Background And Aims: Previous studies suggest that altered implicit and explicit cognitive processes in individuals with substance-related and behavioral addictions influence the development and maintenance of these disorders …",
+  "summary": "BACKGROUND AND AIMS: Previous studies suggest that altered implicit and explicit cognitive processes in individuals with substance-related and behavioral addictions influence the development and maintenance of these disorders …",
   "url": "https://doi.org/10.1016/j.comppsych.2026.152753",
   "oa_url": "https://doi.org/10.1016/j.comppsych.2026.152753",
   "sources": [
@@ -4103,15 +4498,15 @@
   "journal": "Journal of Adolescent and Young Adult Oncology",
   "authors": [
    "Monireh Nazari",
-   "Clarissa Schilstra",
-   "Fiona E J McDonald",
-   "Claire E Wakefield",
+   "Clarissa E. Schilstra",
+   "Fiona E. J. McDonald",
+   "Claire Elizabeth Wakefield",
    "Tayhla Ryder",
-   "Jordana McLoone"
+   "Jordana Kathleen McLoone"
   ],
   "published": "2026-11-02",
   "year": 2026,
-  "created": "2026-11-02",
+  "created": "2026-11-03",
   "first_seen": "2026-11-02",
   "summary": "Adolescent and young adult (AYA) cancer patients/survivors are underrepresented in psycho-oncology, limiting research generalizability. This study identified strategies to improve AYA recruitment and retention by consulting survivors and health care professionals (HCPs) …",
   "url": "https://doi.org/10.1177/21565333261502205",
@@ -5060,14 +5455,20 @@
   ],
   "type": "article",
   "topics": [
-   "treatment"
+   "treatment",
+   "comorbidity"
   ],
   "designs": [
-   "longitudinal"
+   "longitudinal",
+   "behavioral-data"
   ],
   "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
   "countries": [
    "CA"
   ],
@@ -5317,7 +5718,7 @@
   "authors": [
    "Alexander J. Connolly",
    "Lindsay M. Stall",
-   "Taylor Mick-Keck",
+   "Taylor O. Mick-Keck",
    "Alexander Montoya",
    "Jaxon Scowden",
    "London Campbell",
@@ -5337,7 +5738,9 @@
    "openalex"
   ],
   "type": "review",
-  "topics": [],
+  "topics": [
+   "youth"
+  ],
   "designs": [
    "review"
   ],
@@ -6179,9 +6582,9 @@
   "title": "CONSTITUTIONAL FOUNDATIONS of AMERICAN GAMBLING LAW",
   "journal": "Gaming Law Review",
   "authors": [
-   "Robert M. Jarvis"
+   "Robert M. JarvisRobert M. Jarvis is a Professor of Law at Nova Southeastern University, Fort Lauderdale, Florida, USA, and a member of the Editorial Board of the Gaming Law Review. This article benefited from editing by Microsoft Copilot. It is current as of September 30, 2026."
   ],
-  "published": "2026-10-25",
+  "published": "2026-10-26",
   "year": 2026,
   "created": "2026-10-26",
   "first_seen": "2026-10-26",
@@ -6201,13 +6604,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -23710,11 +24109,11 @@
  {
   "id": "doi:10.1186/s40359-026-05280-0",
   "doi": "10.1186/s40359-026-05280-0",
-  "pmid": null,
+  "pmid": "43040444",
   "pmcid": null,
   "openalex": "W7203642658",
   "title": "Nonlinear association between gambling severity and retrospective gambling-related emotions: exploratory evidence from resting-state degree centrality",
-  "journal": "BMC Psychology",
+  "journal": "BMC psychology",
   "authors": [
    "Yifan Xu",
    "Haolin Huang",
@@ -23725,13 +24124,14 @@
   ],
   "published": "2026-08-17",
   "year": 2026,
-  "created": "2026-08-18",
+  "created": "2026-11-16",
   "first_seen": "2026-08-17",
-  "summary": "Abstract Objective Existing research on gambling disorder has primarily focused on emotional states following gambling episodes, difficulties in emotion regulation, or abnormalities in reward-based decision-making, whereas relatively less attention has been paid to patterns of change in individuals’ subjective emotional experiences in gambling-related …",
+  "summary": "Existing research on gambling disorder has primarily focused on emotional states following gambling episodes, difficulties in emotion regulation, or abnormalities in reward-based decision-making, whereas relatively less attention has been paid to patterns of change in individuals' subjective emotional experiences in gambling-related contexts …",
   "url": "https://doi.org/10.1186/s40359-026-05280-0",
   "oa_url": "https://doi.org/10.1186/s40359-026-05280-0",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -48257,54 +48657,6 @@
    "australia-nz"
   ],
   "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.34925/eip.2026.188.3.106",
-  "doi": "10.34925/eip.2026.188.3.106",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7170666250",
-  "title": "ТЕХНОЛОГИИ И АЗАРТ: ГЕРМЕНЕВТИЧЕСКАЯ ДЕКОНСТРУКЦИЯ ТЕНЕВОЙ АРХИТЕКТУРЫ ИГРОВОГО БИЗНЕСА В УСЛОВИЯХ ПЕРМИССИВНОГО РЕГУЛЯТОРНОГО КОНТИНУУМА",
-  "journal": "Экономика И Предпринимательство",
-  "authors": [
-   "Н.И. Улендеева",
-   "А.А. КОРОЛЕВ",
-   "Д.О. БЕЛОВ"
-  ],
-  "published": "2026-05-25",
-  "year": 2026,
-  "created": "2026-07-25",
-  "first_seen": "2026-05-25",
-  "summary": "Настоящее исследование осуществляет герменевтическую деконструкцию коммерческой праксисы казино «Casino Caribe Cartagena», репрезентирующего собой неразрывный системный симбионт гостиничного конгломерата Hilton Cartagena и детерминирующего доминирующего актора на отечественном азартном ландшафте …",
-  "url": "https://doi.org/10.34925/eip.2026.188.3.106",
-  "oa_url": null,
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "casino",
-   "policy"
-  ],
-  "designs": [
-   "qualitative"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "CO"
-  ],
-  "setting_regions": [
-   "latin-america"
-  ],
-  "countries": [
-   "RU"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "ru",
   "relevance": "high",
   "retracted": false
  },

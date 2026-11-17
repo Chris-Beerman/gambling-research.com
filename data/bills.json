@@ -1,5 +1,34 @@
 [
  {
+  "id": "ocd-bill/d8d9fcda-6178-4c5d-a90f-69f97f1f6666",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 705",
+  "title": "Generally revise gambling laws",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Revenue, State",
+   "Rule Making"
+  ],
+  "sponsors": [],
+  "introduced": "2026-10-14",
+  "latest_action_date": "2026-11-16",
+  "latest_action": "(LC) Draft in Edit",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC705/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0705",
+  "topics": [],
+  "updated": "2026-11-17",
+  "first_seen": "2026-10-14",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/8f9c3d63-a3f6-4153-a306-002ac30c99a2",
   "level": "state",
   "jurisdiction": "Illinois",
@@ -881,7 +910,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -1255,33 +1284,6 @@
   "stage_label": "introduced",
   "url": "https://openstates.org/mt/bills/2027/LC706/",
   "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0706",
-  "topics": [],
-  "updated": "2026-10-16",
-  "first_seen": "2026-10-14",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/d8d9fcda-6178-4c5d-a90f-69f97f1f6666",
-  "level": "state",
-  "jurisdiction": "Montana",
-  "jurisdiction_code": "mt",
-  "session": "2027",
-  "identifier": "LC 705",
-  "title": "Generally revise gambling laws",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [
-   "Gambling"
-  ],
-  "sponsors": [],
-  "introduced": "2026-10-14",
-  "latest_action_date": "2026-10-14",
-  "latest_action": "(LC) Drafter Assigned",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/mt/bills/2027/LC705/",
-  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0705",
   "topics": [],
   "updated": "2026-10-16",
   "first_seen": "2026-10-14",
@@ -7186,6 +7188,38 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/5615002e-72ef-43a8-b6d5-61ada0d7ad3f",
+  "level": "state",
+  "jurisdiction": "Kansas",
+  "jurisdiction_code": "ks",
+  "session": "2025-2026",
+  "identifier": "SB 502",
+  "title": "Authorizing the adoption of administrative rules and regulations concerning sports wagering by the Kansas racing and gaming commission.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling and Gaming",
+   "Rules and Regulations, Administrative"
+  ],
+  "sponsors": [
+   "Committee on Federal and State Affairs"
+  ],
+  "introduced": "2026-02-10",
+  "latest_action_date": "2026-04-10",
+  "latest_action": "Died on House Calendar",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ks/bills/2025-2026/SB502/",
+  "source_url": "https://www.kslegislature.gov/b2025_26/bills/SB502/",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-17",
+  "first_seen": "2026-11-17",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/7682f182-1ba3-4d91-a4d0-2f1cba36d7da",
   "level": "state",
   "jurisdiction": "Kansas",
@@ -7248,6 +7282,35 @@
   "topics": [],
   "updated": "2026-07-08",
   "first_seen": "2025-02-13",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8f46d784-1048-4243-b16f-c5a284197644",
+  "level": "state",
+  "jurisdiction": "Kansas",
+  "jurisdiction_code": "ks",
+  "session": "2025-2026",
+  "identifier": "HB 2084",
+  "title": "Allowing an itemized deduction for certain wagering losses for individual income tax purposes.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Taxation"
+  ],
+  "sponsors": [
+   "Committee on Taxation"
+  ],
+  "introduced": "2025-01-23",
+  "latest_action_date": "2026-04-10",
+  "latest_action": "Died in Committee",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ks/bills/2025-2026/HB2084/",
+  "source_url": "https://www.kslegislature.gov/b2025_26/bills/HB2084/",
+  "topics": [],
+  "updated": "2026-11-17",
+  "first_seen": "2026-11-17",
   "stage_changed": null
  },
  {
@@ -16148,7 +16211,7 @@
   "topics": [
    "older-adults"
   ],
-  "updated": "2026-11-13",
+  "updated": "2026-11-17",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -16280,7 +16343,7 @@
   "stage": "passed-one",
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/pa/bills/2025-2026/SB73/",
-  "source_url": "https://www.palegis.us/legislation/bills/2025/sb73",
+  "source_url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=31&rollcallid=244&sessYr=2025&sessInd=0",
   "topics": [
    "lottery"
   ],
@@ -16658,7 +16721,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-14",
+  "updated": "2026-11-17",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },
@@ -17127,7 +17190,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-14",
+  "updated": "2026-11-17",
   "first_seen": "2025-04-03",
   "stage_changed": null
  },
