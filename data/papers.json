@@ -1,5 +1,230 @@
 [
  {
+  "id": "doi:10.54254/2754-1169/2026.38966",
+  "doi": "10.54254/2754-1169/2026.38966",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7234740171",
+  "title": "Variable-Ratio Reinforcement and the Spectrum of Addictive Behaviour: A Comparative Analysis of TCG Consumption and Pathological Gambling",
+  "journal": "Advances in Economics Management and Political Sciences",
+  "authors": [
+   "Muyuan Yang"
+  ],
+  "published": "2026-11-17",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "summary": "With the explosive growth of the trading card (TCG) market, the variable ratio reinforcement behind its card-drawing mechanism has raised concerns about behavioural addiction among teenagers, and it is highly likely that they will develop bad habits prematurely …",
+  "url": "https://doi.org/10.54254/2754-1169/2026.38966",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "policy",
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3390/ctn10040033",
+  "doi": "10.3390/ctn10040033",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7235112396",
+  "title": "Neural Correlates of Cue Reactivity in Slot-Machine Gambling",
+  "journal": "Clinical and Translational Neuroscience",
+  "authors": [
+   "Isabella Fuchs",
+   "Stefan Katletz",
+   "Jan Rosenleitner",
+   "Michael Sonnberger",
+   "Kurosch Yazdi‐Zorn",
+   "Raimund Kleiser"
+  ],
+  "published": "2026-11-17",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "summary": "Gambling disorder (GD) shares key features with substance use disorders, including craving, withdrawal, tolerance, loss of control, as well as decision-making impairment, and involves overlapping neurobiological mechanisms. GD provides a unique opportunity to investigate addiction-related neural processes without substance-related confounds …",
+  "url": "https://doi.org/10.3390/ctn10040033",
+  "oa_url": "https://doi.org/10.3390/ctn10040033",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "AT"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "AT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.9741/2327-8455.1529",
+  "doi": "10.9741/2327-8455.1529",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7235032491",
+  "title": "Are Prediction Platform Bettors Distinct from Sportsbook Bettors? Evidence from Skill Perceptions and Positive Play Attitudes",
+  "journal": "UNLV Gaming Research & Review Journal",
+  "authors": [
+   "Brandon Mastromartino"
+  ],
+  "published": "2026-11-16",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "summary": "The rapid expansion of sports betting in the United States has been accompanied by the emergence of prediction market platforms offering sports event contracts, which closely resemble traditional wagering while differing in how they are framed and regulated …",
+  "url": "https://doi.org/10.9741/2327-8455.1529",
+  "oa_url": "https://oasis.library.unlv.edu/context/grrj/article/1529/viewcontent/Are_Prediction_Platform_Bettors_Distinct_from_Sportsbook_Bettors_Evidence_from_Skill_Perceptions_and_Positive_Play_Attitudes.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "prediction-markets",
+   "prevention"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.58824/arjis.v5i3.635",
+  "doi": "10.58824/arjis.v5i3.635",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7235140016",
+  "title": "The Fulfilment of Family Maintenance Obligations in the Context of Online Gambling in Aceh: An Analysis of Socio-Economic Impacts and Gampong-Level Responses",
+  "journal": "Abdurrauf Journal of Islamic Studies.",
+  "authors": [
+   "Lukmanul Hakim",
+   "Irwansyah Irwansyah",
+   "Jummaidi Saputra"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "summary": "The development of online gambling in Aceh has become not merely an issue of violations of law and religious norms, but also a problem affecting the fulfilment of family maintenance obligations and household economic resilience …",
+  "url": "https://doi.org/10.58824/arjis.v5i3.635",
+  "oa_url": "https://journal.staisar.ac.id/index.php/arjis/article/download/635/386",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "families",
+   "equity",
+   "industry"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.31579/2690-4861/1152",
+  "doi": "10.31579/2690-4861/1152",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7235159788",
+  "title": "Profit Without Protection: Addressing the Public Health Gap in Ontario’s Online Gambling Expansion",
+  "journal": "International Journal of Clinical Case Reports and Reviews",
+  "authors": [
+   "Chinmyee Saha 1*"
+  ],
+  "published": "2026-10-30",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "summary": "Whether through aggressive sports-betting promotions during large-scale events (i.e. FIFA World Cup 2026) or consistent advertising of online casino platforms, online gambling has become a ubiquitous feature of daily life in Canada …",
+  "url": "https://doi.org/10.31579/2690-4861/1152",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "advertising",
+   "industry"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
+  "countries": [
+   "IN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.69554/zteb8126",
   "doi": "10.69554/zteb8126",
   "pmid": null,
@@ -67,7 +292,7 @@
   "first_seen": "2026-11-17",
   "summary": "Online betting has become a relevant research topic due to its potential association with financial difficulties, emotional distress, and loss of control, particuularly among young people. Understanding how university students perceive betting-related behaviors and their potential consequences may contribute to the development of prevention strategies …",
   "url": "https://doi.org/10.47772/ijriss.2026.102500017",
-  "oa_url": null,
+  "oa_url": "https://rsisinternational.org/journals/ijriss/uploads/vol10-iss25-pg326-338-202611_pdf.pdf",
   "sources": [
    "openalex"
   ],
@@ -112,7 +337,7 @@
   "first_seen": "2026-11-17",
   "summary": "The development of digital technology opens up opportunities for the abuse of electronic platforms to commit various criminal acts, including the promotion of online gambling and the repeated and organized dissemination of pornographic content …",
   "url": "https://doi.org/10.47268/pamali.v6i3.3746",
-  "oa_url": "https://doi.org/10.47268/pamali.v6i3.3746",
+  "oa_url": "https://fhukum.unpatti.ac.id/jurnal/pamali/article/download/3746/1910",
   "sources": [
    "openalex"
   ],
@@ -1260,7 +1485,7 @@
   "title": "Gambling as a Psychological Compulsion: A Freudian Reading of Dostoevsky's The Gambler",
   "journal": "Perspectives in Social Sciences",
   "authors": [
-   "Dr. Zia Ur Rehman",
+   "Zia Ur Rehman",
    "Arooj Mughal",
    "Aamir Zahoor"
   ],
@@ -2755,12 +2980,12 @@
   "pmid": "42994783",
   "pmcid": null,
   "openalex": "W7225409512",
-  "title": "Anticipatory Cardiac Deceleration Is Related to Cautious Decision-Making after Threat Image Exposure",
+  "title": "Anticipatory cardiac deceleration is related to cautious decision-making after threat image exposure",
   "journal": "Biological Psychology",
   "authors": [
    "Leeann Runkle",
    "Nina Lauharatanahirun",
-   "Sonia Cavigelli",
+   "Sonia A Cavigelli",
    "Derek P Spangler"
   ],
   "published": "2026-11-06",
@@ -6281,12 +6506,12 @@
    "asia"
   ],
   "countries": [
-   "ES",
-   "GB"
+   "GB",
+   "ES"
   ],
   "regions": [
-   "europe",
-   "uk-ireland"
+   "uk-ireland",
+   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -6532,16 +6757,12 @@
   "openalex": "W7213077550",
   "title": "Locating Gambling Severity Within Polysubstance Involvement: The Specific Role of Methamphetamine in 9,421 Adults Entering Treatment",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Georgia Murphy",
-   "Matthew Browne",
-   "Alex M. T. Russell"
-  ],
+  "authors": [],
   "published": "2026-10-27",
   "year": 2026,
   "created": "2026-10-27",
   "first_seen": "2026-10-27",
-  "summary": "Abstract Gambling problems are common among people entering alcohol and other drug (AOD) treatment, yet they are easily missed and the substance-use patterns that mark them are poorly understood …",
+  "summary": "Gambling problems are common among people entering alcohol and other drug (AOD) treatment, yet they are easily missed and the substance-use patterns that mark them are poorly understood …",
   "url": "https://doi.org/10.1007/s10899-026-10571-7",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10571-7.pdf",
   "sources": [
@@ -6563,13 +6784,9 @@
   "setting_regions": [
    "australia-nz"
   ],
-  "countries": [
-   "AU"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -22394,26 +22611,27 @@
  {
   "id": "doi:10.1186/s12889-026-29103-4",
   "doi": "10.1186/s12889-026-29103-4",
-  "pmid": null,
+  "pmid": "43046200",
   "pmcid": null,
   "openalex": "W7203937636",
   "title": "Research on gambling and gambling harm in Aotearoa New Zealand: a scoping review",
   "journal": "BMC Public Health",
   "authors": [
-   "Simone N. Rodda",
-   "J Landon (13615588)",
-   "M.E. Bellringer",
-   "S. Tse"
+   "S N Rodda",
+   "J Landon",
+   "M E Bellringer",
+   "S Tse"
   ],
   "published": "2026-08-22",
   "year": 2026,
-  "created": "2026-08-22",
+  "created": "2026-11-17",
   "first_seen": "2026-08-22",
   "summary": "Gambling harm is a significant public health issue made more urgent by the rapid growth of online gambling. In Aotearoa New Zealand, gambling access expanded following the introduction of gaming machines in the 1990s and is expected to expand again with the regulation of online casinos …",
   "url": "https://doi.org/10.1186/s12889-026-29103-4",
   "oa_url": "https://doi.org/10.1186/s12889-026-29103-4",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -22426,7 +22644,7 @@
   "designs": [
    "review"
   ],
-  "design_basis": "rules",
+  "design_basis": "pubmed",
   "settings": [
    "NZ"
   ],
@@ -22435,6 +22653,7 @@
   ],
   "countries": [
    "NZ",
+   "CN",
    "HK"
   ],
   "regions": [
@@ -22448,7 +22667,7 @@
  {
   "id": "doi:10.1007/s44192-026-00568-4",
   "doi": "10.1007/s44192-026-00568-4",
-  "pmid": null,
+  "pmid": "43043608",
   "pmcid": null,
   "openalex": "W7203932278",
   "title": "Psychometric analysis of brief adolescent gambling screen, problem gambling severity index, and gambling motives questionnaire-financial among Ghanaian adolescents",
@@ -22461,13 +22680,14 @@
   ],
   "published": "2026-08-22",
   "year": 2026,
-  "created": "2026-08-22",
+  "created": "2026-11-17",
   "first_seen": "2026-08-22",
-  "summary": "The purpose of this study was to evaluate the psychometric properties of the Brief Adolescent Sport Betting Screen (BASBS), Problem Sport Betting Severity Index (PSBSI), and Sport Betting Motives Questionnaire–Financial (SBMQF) among Ghanaian adolescents …",
+  "summary": "The purpose of this study was to evaluate the psychometric properties of the Brief Adolescent Sport Betting Screen (BASBS), Problem Sport Betting Severity Index (PSBSI), and Sport Betting Motives Questionnaire-Financial (SBMQF) among Ghanaian adolescents …",
   "url": "https://doi.org/10.1007/s44192-026-00568-4",
   "oa_url": "https://doi.org/10.1007/s44192-026-00568-4",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -24110,7 +24330,7 @@
   "id": "doi:10.1186/s40359-026-05280-0",
   "doi": "10.1186/s40359-026-05280-0",
   "pmid": "43040444",
-  "pmcid": null,
+  "pmcid": "PMC13776517",
   "openalex": "W7203642658",
   "title": "Nonlinear association between gambling severity and retrospective gambling-related emotions: exploratory evidence from resting-state degree centrality",
   "journal": "BMC psychology",
@@ -24128,7 +24348,7 @@
   "first_seen": "2026-08-17",
   "summary": "Existing research on gambling disorder has primarily focused on emotional states following gambling episodes, difficulties in emotion regulation, or abnormalities in reward-based decision-making, whereas relatively less attention has been paid to patterns of change in individuals' subjective emotional experiences in gambling-related contexts …",
   "url": "https://doi.org/10.1186/s40359-026-05280-0",
-  "oa_url": "https://doi.org/10.1186/s40359-026-05280-0",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13776517/",
   "sources": [
    "openalex",
    "pubmed"
@@ -36796,47 +37016,6 @@
   ],
   "language": "en",
   "relevance": "low",
-  "retracted": false
- },
- {
-  "id": "doi:10.67298/paper/570001",
-  "doi": "10.67298/paper/570001",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7203479214",
-  "title": "面向多元与韧性的澳门新口岸商业区更新与转型策略研究",
-  "journal": "嶺南科學工業學報",
-  "authors": [
-   "建 陈"
-  ],
-  "published": "2026-06-30",
-  "year": 2026,
-  "created": "2026-08-15",
-  "first_seen": "2026-06-30",
-  "summary": "上世纪八九十年代经填海形成的澳门首个中央商务区——新口岸，正经历一场由制度变迁引发的结构性危机。2022年修订的《娱乐场幸运博彩经营法律制度》规定，澳门特有的“卫星赌场”经营模式须于2025年底前全面终止；由于新口岸是全澳卫星赌场最密集的区域，这一政策变迁将直接冲击区内十余家卫星赌场及其关联的数千个就业岗位与数百家中小商户，使区域的转型需求由渐进式改良骤然转变为结构性求生。既有关于旧商业区更新与博彩旅游城市转型的研究，多聚焦于拉斯维加斯式的大型资本驱动路径，或停留于澳门经济适度多元的宏观论述，鲜少针对旧有次核心商业区在遭遇制度性冲击时的系统性转型路径展开分析。为填补这一空白，本研究整合韧性城市理论、产业生态位理论、制度变迁理论与文化资本转化理论，构建用以诊断挑战、厘定定位并生成策略的分析框架，并以政策文件、政 …",
-  "url": "https://doi.org/10.67298/paper/570001",
-  "oa_url": "https://d2xsxph8kpxj0f.cloudfront.net/310519663447755408/mRbYpxfvUhKGT5WC2LtshV/papers/1786646349351-KI66-ep_.pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "MO"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "CN"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": null,
-  "relevance": "high",
   "retracted": false
  },
  {
@@ -52781,28 +52960,29 @@
  {
   "id": "doi:10.1186/s12954-026-01513-y",
   "doi": "10.1186/s12954-026-01513-y",
-  "pmid": null,
+  "pmid": "43046267",
   "pmcid": null,
   "openalex": "W7160504593",
-  "title": "Affected others’ perspectives on the burden, drivers, and prevention of gambling-related harms: a qualitative study",
+  "title": "Affected others' perspectives on the burden, drivers, and prevention of gambling-related harms: a qualitative study",
   "journal": "Harm Reduction Journal",
   "authors": [
    "Devashish Ray",
    "Aikaterini Grimani",
-   "Laura J. McGowan",
-   "Emily J. Oliver",
-   "Michael P. Kelly",
-   "Philip Warren Stirling Newall"
+   "Laura J McGowan",
+   "Emily J Oliver",
+   "Michael P Kelly",
+   "Philip Newall"
   ],
   "published": "2026-08-22",
   "year": 2026,
-  "created": "2026-05-08",
+  "created": "2026-11-17",
   "first_seen": "2026-05-08",
-  "summary": "Abstract Background Gambling is increasingly recognised as a public health concern, with harms extending beyond individuals who gamble to families and communities. However, young people and adults affected by others’ gambling remain under-represented in research on harm prevention messaging …",
+  "summary": "Gambling is increasingly recognised as a public health concern, with harms extending beyond individuals who gamble to families and communities. However, young people and adults affected by others' gambling remain under-represented in research on harm prevention messaging …",
   "url": "https://doi.org/10.1186/s12954-026-01513-y",
   "oa_url": "https://doi.org/10.1186/s12954-026-01513-y",
   "sources": [
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
