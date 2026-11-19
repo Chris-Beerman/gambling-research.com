@@ -1,5 +1,47 @@
 [
  {
+  "id": "osf:gvyku",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Gambling harm prevention videos longitudinal study",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-19",
+  "last_updated": "2026-11-19",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Longitudinal study to test the effectiveness of five novel gambling harm prevention videos.",
+  "url": "https://osf.io/gvyku/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Philip Newall",
+   "Leonardo Weiss-Cohen",
+   "Jamie Torrance",
+   "Lukasz Walasek"
+  ],
+  "topics": [
+   "prevention"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
+  "first_seen": "2026-11-19",
+  "status_changed": null
+ },
+ {
   "id": "osf:ur2hf",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -19067,47 +19109,6 @@
    "review"
   ],
   "first_seen": "2022-09-28",
-  "status_changed": null
- },
- {
-  "id": "osf:x5rwe",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "The feasibility and acceptability of an inoculative intervention to reduce gambling advertising persuasion; a focus group study of experts by experience and academics",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-02-24",
-  "last_updated": "2024-03-23",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "This preregistration relates to a qualitative focus group study that will utilise a sample of gambling experts by experience (EbyEs) and academics with experience in gambling/advertising (n = 25) …",
-  "url": "https://osf.io/x5rwe/",
-  "registration_type": "Qualitative Preregistration",
-  "authors": [
-   "Jamie Torrance",
-   "Philip Newall"
-  ],
-  "topics": [
-   "advertising",
-   "lived-experience"
-  ],
-  "designs": [
-   "qualitative"
-  ],
-  "first_seen": "2023-02-24",
   "status_changed": null
  },
  {

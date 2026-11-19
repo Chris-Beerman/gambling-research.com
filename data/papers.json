@@ -1,5 +1,369 @@
 [
  {
+  "id": "doi:10.1007/s10899-026-10532-0",
+  "doi": "10.1007/s10899-026-10532-0",
+  "pmid": "43052590",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Gambling Disorder, Family Context, and Suicide Risk: Evidence From a Spanish Household Survey",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Rosa Aísa",
+   "Patricia Gascón",
+   "Gemma Larramona"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-19",
+  "summary": "Abstract This study examines household level associations between suicidal behavior and gambling disorder, considering household structure, health conditions, and economic strain. Using a nationally representative Spanish survey, we estimated a structural equation model to assess direct and indirect associations between these factors and suicidal behavior …",
+  "url": "https://doi.org/10.1007/s10899-026-10532-0",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "comorbidity",
+   "families",
+   "financial-harm"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10576-2",
+  "doi": "10.1007/s10899-026-10576-2",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Cross-Cultural Adaptation and Validation of the European Portuguese Version of the Problem Gambling Severity Index",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Miguel Peixoto",
+   "Fernando Barbosa",
+   "António Marques",
+   "Artemisa R. Dores"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "summary": "The Problem Gambling Severity Index (PGSI) is widely used to assess the prevalence of problem gambling on a community level. No cultural adaptation or psychometric validation of the instrument has been conducted for European Portuguese. The sample comprised 171 individuals, aged 18 to 75 years old …",
+  "url": "https://doi.org/10.1007/s10899-026-10576-2",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "measurement",
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/02614367.2026.2765849",
+  "doi": "10.1080/02614367.2026.2765849",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7235987787",
+  "title": "Want to bet? an exploratory study of women’s engagement with sports betting in British football culture",
+  "journal": "Leisure Studies",
+  "authors": [
+   "Kevin Dixon",
+   "Ellis Cashmore"
+  ],
+  "published": "2026-11-18",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "summary": "This article explores how women engage with sports betting within contemporary football fandom. Drawing on survey data from 60 British women football fans, the study adopts a qualitative, interpretive approach to examine how betting is understood and negotiated in football culture …",
+  "url": "https://doi.org/10.1080/02614367.2026.2765849",
+  "oa_url": "https://doi.org/10.1080/02614367.2026.2765849",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "equity"
+  ],
+  "designs": [
+   "qualitative",
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1371/journal.pone.0361472",
+  "doi": "10.1371/journal.pone.0361472",
+  "pmid": "43050401",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Population-level associations of interpersonal trauma during childhood and adulthood with mental health and addiction problems",
+  "journal": "PLOS ONE",
+  "authors": [
+   "André J McDonald",
+   "Nigel E Turner",
+   "Anca R Ialomiteanu",
+   "John McCready",
+   "Dov Millstone",
+   "Hayley A Hamilton",
+   "Tara Elton-Marshall",
+   "Jürgen Rehm",
+   "Paul Kurdyak",
+   "Gabriela Ilie",
+   "Gina Stoduto",
+   "Christine M Wickens",
+   "Evelyn R Vingilis",
+   "Mark van der Maas",
+   "Susan J Bondy",
+   "Michael Roerecke",
+   "Steven Cook",
+   "Michael D Cusimano"
+  ],
+  "published": "2026-11-18",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-19",
+  "summary": "Interpersonal trauma during childhood and adulthood is associated with many adverse mental health and addiction outcomes. However, methodological issues of previous studies make it difficult to estimate and compare these associations at the population level …",
+  "url": "https://doi.org/10.1371/journal.pone.0361472",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US",
+   "CA",
+   "DE"
+  ],
+  "regions": [
+   "us",
+   "canada",
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1098/rsos.262048",
+  "doi": "10.1098/rsos.262048",
+  "pmid": "43048301",
+  "pmcid": "PMC13777461",
+  "openalex": "W7235127564",
+  "title": "Evolutionary selection pressures give rise to risky preferences in value-based decision-making",
+  "journal": "Royal Society open science",
+  "authors": [
+   "Jiayi Wu",
+   "Erdem Pulcu"
+  ],
+  "published": "2026-11-18",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-19",
+  "summary": "We are living in a dynamically changing world, where optimal decision-making under uncertainty is linked to the survival of species. However, evolutionary selection pressures that shape value-based decision-making (VBDM, i.e. choosing between available options based on their expected value) under uncertainty have received only limited attention …",
+  "url": "https://doi.org/10.1098/rsos.262048",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13777461/",
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.25248/reas.e25678.2026",
+  "doi": "10.25248/reas.e25678.2026",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7236249707",
+  "title": "Apostas online, sintomas de transtorno do jogo, danos financeiros e sintomas de ansiedade e depressão entre estudantes universitários",
+  "journal": "Revista Eletrônica Acervo Saúde",
+  "authors": [
+   "Roberta De Lorenzi Steiger Ferraz",
+   "Celina Steiger Santos de Noronha",
+   "Viviane Oliveira Vilela de Vasconcelos",
+   "Leopoldo Nelson Fernandes Barbosa"
+  ],
+  "published": "2026-11-18",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "summary": "To investigate the frequency of online gambling and associations of past-year gambling and positive screening for gambling disorder symptoms with sociodemographic characteristics, financial harm, and anxiety and depressive symptoms among university students …",
+  "url": "https://doi.org/10.25248/reas.e25678.2026",
+  "oa_url": "https://doi.org/10.25248/reas.e25678.2026",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "comorbidity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "BR"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.56238/revgeov17n11-092",
+  "doi": "10.56238/revgeov17n11-092",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7235859508",
+  "title": "APOSTAS ONLINE E ENDIVIDAMENTO FAMILIAR: DIMENSÕES SOCIAIS DA EXPANSÃO DAS BETS NO BRASIL",
+  "journal": "Revista de Geopolítica",
+  "authors": [
+   "Kennya Rodrigues Nunes"
+  ],
+  "published": "2026-11-17",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "summary": "A legalização das apostas de quota fixa em 2018 e sua regulamentação em 2023 levaram as bets ao cotidiano brasileiro, pelo celular e pelo Pix. O artigo pergunta se essa expansão está associada ao endividamento das famílias, quais grupos sociais estão mais expostos e por quais mecanismos o gasto com apostas compromete a renda doméstica …",
+  "url": "https://doi.org/10.56238/revgeov17n11-092",
+  "oa_url": "https://revistageo.com.br/revgeo/article/download/4001/3156",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "pt",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/20451253261489645",
+  "doi": "10.1177/20451253261489645",
+  "pmid": "43047689",
+  "pmcid": "PMC13774599",
+  "openalex": null,
+  "title": "Impulse control symptoms associated with aripiprazole long-acting injectable: A prospective cohort study",
+  "journal": "Therapeutic Advances in Psychopharmacology",
+  "authors": [
+   "Francisco José López García",
+   "Guido de Marco Galliano",
+   "Melisa Darlene López Soto",
+   "Vicenç Vallès Callol",
+   "Rafael Penadés Rubio",
+   "Núria Aragay Vicente"
+  ],
+  "published": "2026-10-08",
+  "year": 2026,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-19",
+  "summary": "Impulse control disorders (ICDs) have been described in association with dopamine partial agonists, particularly aripiprazole. However, data regarding the risk of ICDs with long-acting injectable (LAI) formulations remain limited …",
+  "url": "https://doi.org/10.1177/20451253261489645",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13774599/",
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "cognition",
+   "comorbidity"
+  ],
+  "designs": [
+   "longitudinal"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.54254/2754-1169/2026.38966",
   "doi": "10.54254/2754-1169/2026.38966",
   "pmid": null,
@@ -105,7 +469,7 @@
   "first_seen": "2026-11-18",
   "summary": "The rapid expansion of sports betting in the United States has been accompanied by the emergence of prediction market platforms offering sports event contracts, which closely resemble traditional wagering while differing in how they are framed and regulated …",
   "url": "https://doi.org/10.9741/2327-8455.1529",
-  "oa_url": "https://oasis.library.unlv.edu/context/grrj/article/1529/viewcontent/Are_Prediction_Platform_Bettors_Distinct_from_Sportsbook_Bettors_Evidence_from_Skill_Perceptions_and_Positive_Play_Attitudes.pdf",
+  "oa_url": "https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=1529&context=grrj",
   "sources": [
    "openalex"
   ],
@@ -196,7 +560,7 @@
   "first_seen": "2026-11-18",
   "summary": "Whether through aggressive sports-betting promotions during large-scale events (i.e. FIFA World Cup 2026) or consistent advertising of online casino platforms, online gambling has become a ubiquitous feature of daily life in Canada …",
   "url": "https://doi.org/10.31579/2690-4861/1152",
-  "oa_url": null,
+  "oa_url": "https://auctoresonline.org/uploads/articles/add/Profit_Without_Protection_Addressing_the_Public_Health_Gap_in_Ontarios_Online_Gambling_Expansion.pdf",
   "sources": [
    "openalex"
   ],
@@ -1378,6 +1742,7 @@
   ],
   "countries": [
    "GB",
+   "CN",
    "SG"
   ],
   "regions": [
@@ -3583,7 +3948,7 @@
   "pmid": "42981298",
   "pmcid": null,
   "openalex": "W7213246724",
-  "title": "The Gambler's Fallacy Fallacy Fallacy (Commentary on Xiang et al., 2025)",
+  "title": "The Gambler’s Fallacy Fallacy Fallacy (Commentary on Xiang et al., 2025)",
   "journal": "Psychological Science",
   "authors": [
    "Daniel Banki",
@@ -3591,7 +3956,7 @@
   ],
   "published": "2026-11-04",
   "year": 2026,
-  "created": "2026-11-04",
+  "created": "2026-09-16",
   "first_seen": "2026-11-05",
   "summary": "Xiang et al. concluded that the gambler's fallacy does not originate in biased beliefs. Reanalyzing their data, we arrived at the opposite conclusion …",
   "url": "https://doi.org/10.1177/09567976261490829",
@@ -3600,7 +3965,7 @@
    "openalex",
    "pubmed"
   ],
-  "type": "article",
+  "type": "editorial",
   "topics": [
    "cognition"
   ],
@@ -3669,12 +4034,12 @@
   "journal": "Pharmacopsychiatry",
   "authors": [
    "David Kiefner",
-   "Dae-In Chang",
+   "Dae‐In Chang",
    "Georg Juckel"
   ],
   "published": "2026-11-04",
   "year": 2026,
-  "created": "2026-11-04",
+  "created": "2026-11-05",
   "first_seen": "2026-11-05",
   "summary": "Abstract: Aripiprazole is recommended as a first-line treatment for Tourette syndrome but has been associated with new-onset impulse control disorders, including pathological gambling, as highlighted by a 2016 Food and Drug Administration safety warning. Gambling disorder has rarely been reported in patients with Tourette syndrome receiving aripiprazole …",
   "url": "https://doi.org/10.1055/a-2984-7514",
@@ -3710,14 +4075,14 @@
   "pmid": "42979988",
   "pmcid": null,
   "openalex": "W7225274945",
-  "title": "Are electronic gambling machine availability and area-level socioeconomic disadvantage associated with local residents' gambling losses and share of local revenue?",
+  "title": "Are electronic gambling machine availability and area-level socioeconomic disadvantage associated with local residents’ gambling losses and share of local revenue?",
   "journal": "Scandinavian Journal of Public Health",
   "authors": [
    "Jani Selin"
   ],
   "published": "2026-11-04",
   "year": 2026,
-  "created": "2026-11-04",
+  "created": "2026-11-05",
   "first_seen": "2026-11-05",
   "summary": "Physical availability is a key determinant of gambling spending and, consequently, gambling harm …",
   "url": "https://doi.org/10.1177/14034948261498332",
@@ -3829,20 +4194,20 @@
   "title": "Sociodemographic and Behavioural Predictors of Gambling and Problematic Gambling in Canada: Evidence from the 2025 CCHS",
   "journal": "Journal of Gambling Studies",
   "authors": [
-   "Robert J Williams",
-   "Carrie A Shaw",
+   "Robert J. Williams",
+   "Carrie A. Shaw",
    "Youssef Allami",
-   "Darren R Christensen",
-   "David C Hodgins",
-   "Hyoun S Kim",
-   "Daniel S McGrath",
-   "Rhys M G Stevens"
+   "Darren R. Christensen",
+   "David C. Hodgins",
+   "Hyoun S. Kim",
+   "Daniel S. McGrath",
+   "Rhys M.G. Stevens"
   ],
   "published": "2026-11-04",
   "year": 2026,
   "created": "2026-11-04",
   "first_seen": "2026-11-04",
-  "summary": "Using data from the 2025 Canadian Community Health Survey (CCHS) Rapid Response Gambling Module (RRGM), this study examined the sociodemographic and behavioural correlates of gambling and problem gambling among Canadian adults. The RRGM was administered to a representative sample of 16,351 adults across Canada's 10 provinces between January and July 2025 …",
+  "summary": "Using data from the 2025 Canadian Community Health Survey (CCHS) Rapid Response Gambling Module (RRGM), this study examined the sociodemographic and behavioural correlates of gambling and problem gambling among Canadian adults. The RRGM was administered to a representative sample of 16,351 adults across Canada’s 10 provinces between January and July 2025 …",
   "url": "https://doi.org/10.1007/s10899-026-10573-5",
   "oa_url": null,
   "sources": [
@@ -3887,14 +4252,14 @@
   "title": "Priorities for Intervention Content to Support Families and Friends Affected by Gambling Harm: A Mixed Methods Study of Clinician and Researcher Perspectives",
   "journal": "Journal of Gambling Studies",
   "authors": [
-   "Monique N Gandhi",
-   "Nicki A Dowling",
-   "Anna C Thomas",
-   "Simone N Rodda",
-   "Chloe O Hawker",
-   "Imran M Keshani",
+   "Monique N. Gandhi",
+   "Nicki A. Dowling",
+   "Anna C. Thomas",
+   "Simone N. Rodda",
+   "Chloe O. Hawker",
+   "Imran M. Keshani",
    "Anita Guyett",
-   "Stephanie S Merkouris"
+   "Stephanie S. Merkouris"
   ],
   "published": "2026-11-04",
   "year": 2026,
@@ -4059,7 +4424,7 @@
   "pmid": "42980979",
   "pmcid": null,
   "openalex": "W7172409447",
-  "title": "Illusion of Control, Gambler's Fallacy, or Neither? Testing Key Models of Gambling Psychology by Extending Langer and Roth (1975)",
+  "title": "Illusion of Control, Gambler’s Fallacy, or Neither? Testing Key Models of Gambling Psychology by Extending Langer and Roth (1975)",
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Charlotte Eben",
@@ -6368,6 +6733,50 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1177/25725300261503840",
+  "doi": "10.1177/25725300261503840",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223985119",
+  "title": "REGULATING MONETIZATION and GAMBLIFICATION IN VIDEO GAMES: THE CLASSIFICATION–FUNCTION MISMATCH IN DIGITAL MARKETS",
+  "journal": "Gaming Law Review",
+  "authors": [
+   "Jan Ivern, Xavier Carbonell, Mark D. GriffithsJan Ivern is at the Facultat de Psicologia, Ciències de l’Educació i de l’Esport Blanquerna, Universitat Ramon Llull, Barcelona, Spain.Xavier Carbonell is at the Facultat de Psicologia, Ciències de l’Educació i de l’Esport Blanquerna, Universitat Ramon Llull, Barcelona, Spain.Mark D. Griffiths is at the International Gaming Research Unit, Nottingham Trent University, Nottingham, UK."
+  ],
+  "published": "2026-10-28",
+  "year": 2026,
+  "created": "2026-10-28",
+  "first_seen": "2026-10-28",
+  "summary": "Gaming Law Review, Ahead of Print. The present article provides a comparative doctrinal analysis of monetized video game features subject to regulatory and judicial review in Europe, the United States, and China. It examines monetization infrastructure, including virtual currencies, ...",
+  "url": "https://doi.org/10.1177/25725300261503840",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:glr",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US",
+   "CN"
+  ],
+  "setting_regions": [
+   "us",
+   "asia"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "low",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s11154-026-10100-2",
   "doi": "10.1007/s11154-026-10100-2",
   "pmid": "42946945",
@@ -6459,59 +6868,6 @@
   ],
   "regions": [
    "canada"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1177/25725300261503840",
-  "doi": "10.1177/25725300261503840",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7223985119",
-  "title": "REGULATING MONETIZATION and GAMBLIFICATION IN VIDEO GAMES: THE CLASSIFICATION–FUNCTION MISMATCH IN DIGITAL MARKETS",
-  "journal": "Gaming Law Review",
-  "authors": [
-   "Jan Ivern",
-   "Xavier Carbonell",
-   "Mark D. Griffiths"
-  ],
-  "published": "2026-10-27",
-  "year": 2026,
-  "created": "2026-10-28",
-  "first_seen": "2026-10-28",
-  "summary": "The present article provides a comparative doctrinal analysis of monetized video game features subject to regulatory and judicial review in Europe, the United States, and China …",
-  "url": "https://doi.org/10.1177/25725300261503840",
-  "oa_url": null,
-  "sources": [
-   "crossref",
-   "feed:glr",
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "loot-boxes",
-   "prevention",
-   "policy"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "US",
-   "CN"
-  ],
-  "setting_regions": [
-   "us",
-   "asia"
-  ],
-  "countries": [
-   "GB",
-   "ES"
-  ],
-  "regions": [
-   "uk-ireland",
-   "europe"
   ],
   "language": "en",
   "relevance": "high",
@@ -22612,7 +22968,7 @@
   "id": "doi:10.1186/s12889-026-29103-4",
   "doi": "10.1186/s12889-026-29103-4",
   "pmid": "43046200",
-  "pmcid": null,
+  "pmcid": "PMC13776433",
   "openalex": "W7203937636",
   "title": "Research on gambling and gambling harm in Aotearoa New Zealand: a scoping review",
   "journal": "BMC Public Health",
@@ -22628,12 +22984,12 @@
   "first_seen": "2026-08-22",
   "summary": "Gambling harm is a significant public health issue made more urgent by the rapid growth of online gambling. In Aotearoa New Zealand, gambling access expanded following the introduction of gaming machines in the 1990s and is expected to expand again with the regulation of online casinos …",
   "url": "https://doi.org/10.1186/s12889-026-29103-4",
-  "oa_url": "https://doi.org/10.1186/s12889-026-29103-4",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13776433/",
   "sources": [
    "openalex",
    "pubmed"
   ],
-  "type": "article",
+  "type": "review",
   "topics": [
    "online-gambling",
    "casino",
@@ -22668,7 +23024,7 @@
   "id": "doi:10.1007/s44192-026-00568-4",
   "doi": "10.1007/s44192-026-00568-4",
   "pmid": "43043608",
-  "pmcid": null,
+  "pmcid": "PMC13777918",
   "openalex": "W7203932278",
   "title": "Psychometric analysis of brief adolescent gambling screen, problem gambling severity index, and gambling motives questionnaire-financial among Ghanaian adolescents",
   "journal": "Discover Mental Health",
@@ -22684,7 +23040,7 @@
   "first_seen": "2026-08-22",
   "summary": "The purpose of this study was to evaluate the psychometric properties of the Brief Adolescent Sport Betting Screen (BASBS), Problem Sport Betting Severity Index (PSBSI), and Sport Betting Motives Questionnaire-Financial (SBMQF) among Ghanaian adolescents …",
   "url": "https://doi.org/10.1007/s44192-026-00568-4",
-  "oa_url": "https://doi.org/10.1007/s44192-026-00568-4",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13777918/",
   "sources": [
    "openalex",
    "pubmed"
@@ -52961,7 +53317,7 @@
   "id": "doi:10.1186/s12954-026-01513-y",
   "doi": "10.1186/s12954-026-01513-y",
   "pmid": "43046267",
-  "pmcid": null,
+  "pmcid": "PMC13779889",
   "openalex": "W7160504593",
   "title": "Affected others' perspectives on the burden, drivers, and prevention of gambling-related harms: a qualitative study",
   "journal": "Harm Reduction Journal",
@@ -52979,7 +53335,7 @@
   "first_seen": "2026-05-08",
   "summary": "Gambling is increasingly recognised as a public health concern, with harms extending beyond individuals who gamble to families and communities. However, young people and adults affected by others' gambling remain under-represented in research on harm prevention messaging …",
   "url": "https://doi.org/10.1186/s12954-026-01513-y",
-  "oa_url": "https://doi.org/10.1186/s12954-026-01513-y",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13779889/",
   "sources": [
    "openalex",
    "pubmed"

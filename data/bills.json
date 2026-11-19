@@ -1,5 +1,89 @@
 [
  {
+  "id": "ocd-bill/1944e1b9-3b4c-4ad2-b9c9-eba1bcc8d13b",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 1799",
+  "title": "Revise prediction market laws",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Taxation"
+  ],
+  "sponsors": [],
+  "introduced": "2026-11-18",
+  "latest_action_date": "2026-11-18",
+  "latest_action": "(LC) Drafter Assigned",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC1799/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC1799",
+  "topics": [
+   "prediction-markets"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/22e42765-bc7b-4774-87db-71cd6f67a7dc",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 1736",
+  "title": "Generally revise gambling laws",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-11-18",
+  "latest_action_date": "2026-11-18",
+  "latest_action": "(LC) Draft On Hold",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC1736/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC1736",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e1287563-9690-45d2-979a-41e4fda57c9f",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 1735",
+  "title": "Generally revise gambling laws",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-11-18",
+  "latest_action_date": "2026-11-18",
+  "latest_action": "(LC) Draft On Hold",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC1735/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC1735",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/62a72bab-62b1-4d22-bba5-fa70174169fb",
   "level": "state",
   "jurisdiction": "Illinois",
@@ -502,7 +586,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/SJR13/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 13.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SJR13",
   "topics": [],
   "updated": "2026-11-12",
   "first_seen": "2026-11-12",
@@ -853,7 +937,7 @@
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://openstates.org/tx/bills/90R/HB598/",
-  "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00500_HB00599/HB 598.xml",
+  "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB598",
   "topics": [
    "prediction-markets"
   ],
@@ -10564,10 +10648,9 @@
   "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
   "topics": [
    "sports-betting",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-05-31",
+  "updated": "2026-11-19",
   "first_seen": "2025-02-28",
   "stage_changed": null
  },
@@ -10603,11 +10686,9 @@
   "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-05-31",
+  "updated": "2026-11-19",
   "first_seen": "2025-02-28",
   "stage_changed": "2026-10-17",
   "previous_stage": "failed"
@@ -11028,12 +11109,48 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/ga/bills/2025_26/SB571/",
   "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
-  "topics": [
-   "online-gambling",
-   "youth"
-  ],
-  "updated": "2026-03-18",
+  "topics": [],
+  "updated": "2026-11-19",
   "first_seen": "2026-02-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3a80ce1e-3057-4558-9434-2e65b3fe2c70",
+  "level": "state",
+  "jurisdiction": "Georgia",
+  "jurisdiction_code": "ga",
+  "session": "2025_26",
+  "identifier": "HB 1197",
+  "title": "Georgia Lottery for Education Act; authorize certain billiards and darts tournaments and prizes",
+  "abstract": "A BILL to be entitled an Act to amend Chapter 27 of Title 50 of the Official Code of Georgia Annotated, the \"Georgia Lottery for Education Act,\" so as to authorize certain billiards and darts tournaments and the prizes therefor; to provide for definitions; to provide for the promulgation of certain rules and …",
+  "classification": "bill",
+  "subjects": [
+   "CRIMES AND OFFENSES (CRIMINAL CODE)",
+   "PROFESSIONS AND BUSINESSES",
+   "STATE GOVERNMENT"
+  ],
+  "sponsors": [
+   "Alan Powell",
+   "Rick Jasperse",
+   "David Wilkerson",
+   "Mary Oliver",
+   "Kasey Carpenter",
+   "Derrick McCollum"
+  ],
+  "introduced": "2026-02-05",
+  "latest_action_date": "2026-02-24",
+  "latest_action": "House Committee Favorably Reported",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
+  "url": "https://openstates.org/ga/bills/2025_26/HB1197/",
+  "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+  "topics": [
+   "lottery",
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -11306,6 +11423,41 @@
   ],
   "updated": "2026-10-30",
   "first_seen": "2026-10-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/590c004a-3d10-4430-ad70-b56a8dae612d",
+  "level": "state",
+  "jurisdiction": "Georgia",
+  "jurisdiction_code": "ga",
+  "session": "2025_26",
+  "identifier": "HB 1373",
+  "title": "Gambling; criminal prohibitions on gambling for coin operated amusement machines; revise certain exceptions",
+  "abstract": "A BILL to be entitled an Act to amend Part 1 of Article 2 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to gambling, so as to revise certain exceptions from the criminal prohibitions on gambling for coin operated amusement machines; to expand such exceptions to coin operated amusement …",
+  "classification": "bill",
+  "subjects": [
+   "CRIMES AND OFFENSES (CRIMINAL CODE)"
+  ],
+  "sponsors": [
+   "Jordan Ridley",
+   "Jason Ridley",
+   "Mitchell Horner",
+   "Demetrius Douglas"
+  ],
+  "introduced": "2026-02-18",
+  "latest_action_date": "2026-02-20",
+  "latest_action": "House Second Readers",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/ga/bills/2025_26/HB1373/",
+  "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+  "topics": [
+   "casino",
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -14808,12 +14960,9 @@
   "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "lottery",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-05-31",
+  "updated": "2026-11-19",
   "first_seen": "2025-04-02",
   "stage_changed": null
  },
@@ -16978,6 +17127,45 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/65a940af-7348-4620-b6e2-e2a559a83c46",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "HB 1348",
+  "title": "RELATING TO PUBLIC LANDS.",
+  "abstract": "Requires the Board of Land and Natural Resources to lease public lands for recreation-residence use by public lottery under certain conditions and restrict participation in the public lottery to residents of the county in which the leased land is located under certain conditions. (CD1)",
+  "classification": "bill",
+  "subjects": [
+   "BLNR",
+   "Public Lands",
+   "Public Lottery",
+   "Recreation-Residence Use Leases"
+  ],
+  "sponsors": [
+   "MORIKAWA",
+   "EVSLIN",
+   "IWAMOTO",
+   "LAMOSAO",
+   "MIYAKE",
+   "NAKAMURA"
+  ],
+  "introduced": "2025-01-23",
+  "latest_action_date": "2025-06-25",
+  "latest_action": "Act 225, 06/25/2025 (Gov. Msg. No. 1327).",
+  "latest_passage_date": "2025-04-30",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/hi/bills/2025/HB1348/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1348&year=2025",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/de1e64d4-6611-4bed-a360-fb9a2867d076",
   "level": "state",
   "jurisdiction": "North Carolina",
@@ -17418,6 +17606,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/efbce8c4-9ad4-4272-889d-97d6384baf2c",
+  "level": "state",
+  "jurisdiction": "Nevada",
+  "jurisdiction_code": "nv",
+  "session": "83",
+  "identifier": "SB 203",
+  "title": "Revises provisions relating to the pari-mutuel system of wagering. (BDR 41-608)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Julie Pazina"
+  ],
+  "introduced": "2025-02-12",
+  "latest_action_date": "2025-05-31",
+  "latest_action": "Approved by the Governor. Chapter 181.",
+  "latest_passage_date": "2025-05-23",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/nv/bills/83/SB203/",
+  "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12255/Overview",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/41d2e6c8-3573-4186-9600-4acc7a759005",
   "level": "state",
   "jurisdiction": "Illinois",
@@ -17605,7 +17820,7 @@
   "topics": [
    "loot-boxes"
   ],
-  "updated": "2026-08-10",
+  "updated": "2026-11-19",
   "first_seen": "2024-10-21",
   "stage_changed": null
  },
@@ -17792,10 +18007,9 @@
   "url": "https://openstates.org/mt/bills/2025/HB893/",
   "source_url": "https://bills.legmt.gov/#/laws/bill/2/LC4442?open_tab=sum",
   "topics": [
-   "lottery",
    "policy"
   ],
-  "updated": "2026-08-10",
+  "updated": "2026-11-19",
   "first_seen": "2025-03-18",
   "stage_changed": null
  },
@@ -18122,6 +18336,71 @@
   ],
   "updated": "2026-10-17",
   "first_seen": "2025-02-04",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/7e2cb48d-45b6-46f6-84c2-3bc9082395ef",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "HB 1552",
+  "title": "Increases excursion gambling boat admission fees and the gaming revenue tax",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "FEES",
+   "GAMBLING",
+   "HISTORIC PRESERVATION",
+   "PUBLIC SAFETY, DEPARTMENT OF",
+   "TAXATION AND REVENUE - GENERAL"
+  ],
+  "sponsors": [
+   "Tara Peters"
+  ],
+  "introduced": "2025-02-27",
+  "latest_action_date": "2025-05-15",
+  "latest_action": "Referred: Emerging Issues(H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/HB1552/",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1552&year=2025&code=R&style=new",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1e7dd28e-2d73-4e33-a803-fb9591074a4e",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "HB 1327",
+  "title": "Creates new provisions for entities required to report to the Missouri ethics commission",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "BUSINESS AND COMMERCE",
+   "CRIMES AND PUNISHMENT",
+   "ETHICS",
+   "GAMBLING"
+  ],
+  "sponsors": [
+   "Tara Peters"
+  ],
+  "introduced": "2025-02-17",
+  "latest_action_date": "2025-05-15",
+  "latest_action": "Referred: Emerging Issues(H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/HB1327/",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1327&year=2025&code=R&style=new",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -18509,6 +18788,42 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/2da3cdbe-7185-4cba-98db-578bbd2ab97f",
+  "level": "state",
+  "jurisdiction": "Georgia",
+  "jurisdiction_code": "ga",
+  "session": "2025_26",
+  "identifier": "HB 74",
+  "title": "Georgia Lottery for Education Act; correct a reference; provisions",
+  "abstract": "A BILL to be entitled an Act to amend Chapter 27 of Title 50 of the Official Code of Georgia Annotated, the \"Georgia Lottery for Education Act,\" so as to correct a reference; to provide for the application of the provisions of the Georgia Administrative Procedure Act to certain provisions of the Code relating to bona …",
+  "classification": "bill",
+  "subjects": [
+   "STATE GOVERNMENT"
+  ],
+  "sponsors": [
+   "Alan Powell",
+   "Dale Washburn",
+   "Rick Jasperse",
+   "David Wilkerson",
+   "Mary Oliver",
+   "Matt Reeves"
+  ],
+  "introduced": "2025-01-16",
+  "latest_action_date": "2025-05-09",
+  "latest_action": "Effective Date",
+  "latest_passage_date": "2025-03-31",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ga/bills/2025_26/HB74/",
+  "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/8ab9791b-3a36-4a33-b852-bd3eab298aae",
   "level": "state",
   "jurisdiction": "New York",
@@ -18538,6 +18853,42 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2025-01-22",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/718d7bd8-bd20-4b5a-b418-a3b9aa9a2fdd",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "HB 970",
+  "title": "Establishes provisions relating to video lottery gaming terminals, licenses, and regulation",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ENTERTAINMENT, SPORTS AND AMUSEMENTS",
+   "GAMBLING",
+   "LAW ENFORCEMENT OFFICERS AND AGENCIES",
+   "LICENSES - MISCELLANEOUS",
+   "LOTTERIES"
+  ],
+  "sponsors": [
+   "Bill Hardwick"
+  ],
+  "introduced": "2025-01-22",
+  "latest_action_date": "2025-05-08",
+  "latest_action": "Public Hearing Held (S)",
+  "latest_passage_date": "2025-04-09",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/mo/bills/2025/HB970/",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB970&year=2025&code=R&style=new",
+  "topics": [
+   "lottery",
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -18638,6 +18989,39 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/1ead866c-a732-44ff-83e5-3080c6b5a94e",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SCR 121",
+  "title": "REQUESTING THE DEPARTMENT OF BUSINESS, ECONOMIC DEVELOPMENT, AND TOURISM TO CONVENE A TOURISM AND GAMING WORKING GROUP.",
+  "abstract": "",
+  "classification": "concurrent resolution",
+  "subjects": [
+   "Gambling",
+   "Legislative Report",
+   "Tourism and Gaming Working Group"
+  ],
+  "sponsors": [
+   "DECOITE"
+  ],
+  "introduced": "2025-03-07",
+  "latest_action_date": "2025-04-29",
+  "latest_action": "Received notice of Adoption (Sen. Com. No. 886).",
+  "latest_passage_date": "2025-04-25",
+  "stage": "passed-both",
+  "stage_label": "passed both chambers",
+  "url": "https://openstates.org/hi/bills/2025/SCR121/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SCR&billnumber=121&year=2025",
+  "topics": [
+   "industry"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/fbab3089-bda9-4b44-8b1e-8caf4fc416f5",
   "level": "state",
   "jurisdiction": "Minnesota",
@@ -18707,10 +19091,9 @@
    "sports-betting",
    "treatment",
    "prevention",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -18849,6 +19232,39 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/50aa7c41-dada-445f-82dd-eb1ad71b6d22",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "HCR 192",
+  "title": "REQUESTING THE DEPARTMENT OF BUSINESS, ECONOMIC DEVELOPMENT, AND TOURISM TO ESTABLISH A NATIVE HAWAIIAN ECONOMIC DEVELOPMENT WORKING GROUP.",
+  "abstract": "",
+  "classification": "concurrent resolution",
+  "subjects": [
+   "Gambling",
+   "Legislative Report",
+   "Native Hawaiian Economic Development Working Group"
+  ],
+  "sponsors": [
+   "HOLT"
+  ],
+  "introduced": "2025-03-07",
+  "latest_action_date": "2025-04-15",
+  "latest_action": "The committee(s) on EDT recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in EDT were as follows: 3 Aye(s): Senator(s) DeCoite, Wakai; Aye(s) with reservations: Senator(s) Fukunaga ; 1 No(es): Senator(s) Kim; and 1 Excused: Senator(s) Awa.",
+  "latest_passage_date": "2025-04-03",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/hi/bills/2025/HCR192/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HCR&billnumber=192&year=2025",
+  "topics": [
+   "industry"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/53d9c8de-e327-4709-ab63-1122c4b162d2",
   "level": "state",
   "jurisdiction": "North Carolina",
@@ -18916,6 +19332,33 @@
   "topics": [],
   "updated": "2026-11-05",
   "first_seen": "2025-04-10",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/dceb2446-de83-498c-9272-7da8263ba47f",
+  "level": "state",
+  "jurisdiction": "Nevada",
+  "jurisdiction_code": "nv",
+  "session": "83",
+  "identifier": "AJR 5-82",
+  "title": "Proposes to amend the Nevada Constitution to revise provisions relating to lotteries and the sale of lottery tickets. (BDR C-986)",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [],
+  "introduced": "2025-02-03",
+  "latest_action_date": "2025-04-12",
+  "latest_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/nv/bills/83/AJR5-82/",
+  "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11956/Overview",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -19312,6 +19755,42 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/db7a67c2-dd2b-4237-b2c0-e81624a12bd0",
+  "level": "state",
+  "jurisdiction": "Georgia",
+  "jurisdiction_code": "ga",
+  "session": "2025_26",
+  "identifier": "SB 102",
+  "title": "Dogfighting; revise provisions",
+  "abstract": "A BILL to be entitled an Act to amend Part 1 of Article 2 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to gambling, so as to revise provisions relative to dogfighting; to prohibit fighting of dogs and game cocks; to prohibit possession or sale of fighting related objects; to provide …",
+  "classification": "bill",
+  "subjects": [
+   "CRIMES AND OFFENSES (CRIMINAL CODE)"
+  ],
+  "sponsors": [
+   "Randy Robertson",
+   "Chuck Payne",
+   "Chuck Hufstetler",
+   "Rick Williams",
+   "John Albers",
+   "Ben Watson"
+  ],
+  "introduced": "2025-02-05",
+  "latest_action_date": "2025-04-04",
+  "latest_action": "House Withdrawn, Recommitted",
+  "latest_passage_date": "2025-02-20",
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ga/bills/2025_26/SB102/",
+  "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/301800ef-9d58-4619-b301-12d6fa311cbc",
   "level": "state",
   "jurisdiction": "North Dakota",
@@ -19375,6 +19854,82 @@
   ],
   "updated": "2026-03-18",
   "first_seen": "2025-03-31",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/7e86c986-a9aa-443f-9023-c4068182ce9c",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "SR 187",
+  "title": "A RESOLUTION confirming the reappointment of Cammie D. Grant to the Kentucky Lottery Corporation Board of Directors.",
+  "abstract": "Confirm the reappointment of Cammie D. Grant to the Kentucky Lottery Corporation Board of Directors for a term expiring November 28, 2028.",
+  "classification": "resolution",
+  "subjects": [
+   "Confirmation of Appointments",
+   "Lottery"
+  ],
+  "sponsors": [],
+  "introduced": "2025-03-12",
+  "latest_action_date": "2025-03-28",
+  "latest_action": "adopted 38-0",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2025RS/SR187/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/sr187.html",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e0a1e4f3-db02-4ba8-a9d4-8865926aa9b2",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "HB 566",
+  "title": "AN ACT relating to the Kentucky Horse Racing and Gaming Corporation and declaring an emergency.",
+  "abstract": "Amend various sections of KRS Chapters 230 and 238, relating to the Kentucky Horse Racing and Gaming Corporation, to define \"Kentucky quarter horse purse fund,\" \"proof of wagers,\" \"unclaimed pari-mutuel winning ticket,\" and \"unredeemed pari-mutuel voucher\"; confirm the corporation's jurisdiction over racing and …",
+  "classification": "bill",
+  "subjects": [
+   "Administrative Regulations and Proceedings",
+   "Advisory Boards, Commissions, and Committees",
+   "Amusements and Recreation",
+   "Auditor of Public Accounts",
+   "Charitable Organizations and Institutions",
+   "Effective Dates, Delayed",
+   "Effective Dates, Emergency",
+   "Gambling",
+   "Horses and Horse Racing",
+   "Licensing",
+   "Public Protection",
+   "Racing"
+  ],
+  "sponsors": [
+   "M. Koch",
+   "D. Osborne",
+   "S. Bratcher",
+   "P. Flannery"
+  ],
+  "introduced": "2025-02-14",
+  "latest_action_date": "2025-03-28",
+  "latest_action": "delivered to Secretary of State (Acts Ch. 124)",
+  "latest_passage_date": "2025-03-28",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ky/bills/2025RS/HB566/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/hb566.html",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -19732,6 +20287,68 @@
   ],
   "updated": "2026-11-05",
   "first_seen": "2026-11-06",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/fca63c31-6cda-4b84-918f-cad40ea299ff",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "SB 637",
+  "title": "Modifies provisions relating to admission fees on excursion gambling boats",
+  "abstract": "SB 637 - Current law requires an excursion gambling boat to pay to the Missouri Gaming Commission an admission fee of two dollars for each person embarking on the boat, with fifty percent of such fee remitted to the home dock city or county and fifty percent remitted to the Gaming Commission Fund …",
+  "classification": "bill",
+  "subjects": [
+   "Gambling"
+  ],
+  "sponsors": [
+   "Steven Roberts"
+  ],
+  "introduced": "2025-01-27",
+  "latest_action_date": "2025-03-24",
+  "latest_action": "Second Read and Referred S Appropriations Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/SB637/",
+  "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2025&billid=3171488",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/feec40a1-404a-4112-9928-f956e584da7d",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "SB 634",
+  "title": "Repeals the prohibition on the State Lottery offering games based on the outcome of sporting events",
+  "abstract": "SB 634 - Current law prohibits the State Lottery from offering any games that are based on the outcome of sporting events. This act repeals such prohibition. JOSH NORBERG",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Lotteries"
+  ],
+  "sponsors": [
+   "Justin Brown"
+  ],
+  "introduced": "2025-01-27",
+  "latest_action_date": "2025-03-24",
+  "latest_action": "Second Read and Referred S Appropriations Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/SB634/",
+  "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2025&billid=3171485",
+  "topics": [
+   "lottery",
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -20420,6 +21037,84 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/ddb525b1-b773-49b6-94be-3246d857281a",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SR 182",
+  "title": "REQUESTING THE ESTABLISHMENT OF AN INTERGOVERNMENTAL TASK FORCE TO ERADICATE ILLEGAL GAMBLING AND DRUG ACTIVITIES AND TO ESTABLISH COMMUNITY SAFE ZONES.",
+  "abstract": "",
+  "classification": "resolution",
+  "subjects": [
+   "Community Safe Zones",
+   "Drugs",
+   "Gambling",
+   "Intergovernmental Task Force"
+  ],
+  "sponsors": [
+   "FEVELLA",
+   "AQUINO",
+   "CHANG",
+   "GABBARD",
+   "Awa"
+  ],
+  "introduced": "2025-03-07",
+  "latest_action_date": "2025-03-14",
+  "latest_action": "Re-Referred to JDC.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/SR182/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SR&billnumber=182&year=2025",
+  "topics": [
+   "policy",
+   "comorbidity"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/563b863a-371e-4937-8d5a-43b7c23cf8ce",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SCR 207",
+  "title": "REQUESTING THE ESTABLISHMENT OF AN INTERGOVERNMENTAL TASK FORCE TO ERADICATE ILLEGAL GAMBLING AND DRUG ACTIVITIES AND TO ESTABLISH COMMUNITY SAFE ZONES.",
+  "abstract": "",
+  "classification": "concurrent resolution",
+  "subjects": [
+   "Community Safe Zones",
+   "Drugs",
+   "Gambling",
+   "Intergovernmental Task Force"
+  ],
+  "sponsors": [
+   "FEVELLA",
+   "AQUINO",
+   "CHANG",
+   "GABBARD",
+   "Awa"
+  ],
+  "introduced": "2025-03-07",
+  "latest_action_date": "2025-03-14",
+  "latest_action": "Re-Referred to JDC.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/SCR207/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SCR&billnumber=207&year=2025",
+  "topics": [
+   "policy",
+   "comorbidity"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/ff474410-2c6c-4de9-91d9-056ea0824441",
   "level": "state",
   "jurisdiction": "United States",
@@ -20605,6 +21300,41 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/878ad470-793f-44a3-983a-9d34d901bb01",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "HB 46",
+  "title": "AN ACT relating to the identification of lottery winners.",
+  "abstract": "Create a new section of KRS Chapter 154A to allow the winner of a lottery prize with a gross value that exceeds $1,000,000 to elect to have his or her identifying information withheld from public record for one year; amend KRS 154A.040 to conform; amend KRS 61.878 to exempt the identifying information of the winner …",
+  "classification": "bill",
+  "subjects": [
+   "Boards and Commissions",
+   "Lottery",
+   "Public Protection",
+   "Public Records and Reports"
+  ],
+  "sponsors": [
+   "K. Banta",
+   "B. Chester-Burton"
+  ],
+  "introduced": "2025-01-07",
+  "latest_action_date": "2025-03-12",
+  "latest_action": "2nd reading, to Rules",
+  "latest_passage_date": "2025-02-26",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/ky/bills/2025RS/HB46/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/hb46.html",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/a30453e8-4699-4e5e-b1d3-45d210bcf087",
   "level": "state",
   "jurisdiction": "United States",
@@ -20629,6 +21359,39 @@
   "topics": [],
   "updated": "2026-03-18",
   "first_seen": "2025-03-11",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c4cd4437-5d94-49b0-a612-6a05b4bcb40f",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "HB 84",
+  "title": "Enacts provisions relating to gambling boat admission fees",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "ENTERTAINMENT, SPORTS AND AMUSEMENTS",
+   "FEES",
+   "GAMBLING",
+   "LICENSES - MISCELLANEOUS",
+   "TAXATION AND REVENUE - GENERAL"
+  ],
+  "sponsors": [
+   "Dave Griffith"
+  ],
+  "introduced": "2024-12-02",
+  "latest_action_date": "2025-03-11",
+  "latest_action": "Public Hearing Completed (H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/HB84/",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB84&year=2025&code=R&style=new",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -20852,6 +21615,103 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/90975f20-9157-481e-a55a-05d15d29a79e",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SB 1517",
+  "title": "RELATING TO PUBLIC LANDS.",
+  "abstract": "Authorizes the Board of Land and Natural Resources to lease public lands for recreational-residential use by public lottery and restrict participation in the public lottery to residents of the county in which the leased land is located …",
+  "classification": "bill",
+  "subjects": [
+   "BLNR",
+   "Public Lands",
+   "Public Lottery",
+   "Recreation-residence Use Leases"
+  ],
+  "sponsors": [
+   "KOUCHI"
+  ],
+  "introduced": "2025-01-22",
+  "latest_action_date": "2025-03-06",
+  "latest_action": "Pass First Reading",
+  "latest_passage_date": "2025-03-04",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/hi/bills/2025/SB1517/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=1517&year=2025",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/086d1268-17eb-47ca-a527-6a68617554fc",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "HB 1251",
+  "title": "Modifies provisions relating to illegal gambling",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "CRIMES AND PUNISHMENT",
+   "GAMBLING",
+   "HIGHWAY PATROL",
+   "LICENSES - MISCELLANEOUS",
+   "PUBLIC SAFETY, DEPARTMENT OF"
+  ],
+  "sponsors": [
+   "Scott Cupps"
+  ],
+  "introduced": "2025-02-10",
+  "latest_action_date": "2025-03-05",
+  "latest_action": "Referred: Government Efficiency(H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/HB1251/",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1251&year=2025&code=R&style=new",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/fa35219d-b9ad-44f6-b8af-92bc33fad327",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "HB 1250",
+  "title": "Modifies the definition of slot machine, as it relates to gambling offenses",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "CRIMES AND PUNISHMENT",
+   "GAMBLING"
+  ],
+  "sponsors": [
+   "Scott Cupps"
+  ],
+  "introduced": "2025-02-10",
+  "latest_action_date": "2025-03-05",
+  "latest_action": "Referred: Government Efficiency(H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/HB1250/",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1250&year=2025&code=R&style=new",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/11bebb85-791c-4326-b2f8-3bc123ebe39e",
   "level": "state",
   "jurisdiction": "Maryland",
@@ -21021,6 +21881,118 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/d9674414-5d53-4862-a0fd-447fcae59826",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "HB 782",
+  "title": "AN ACT relating to the partial distribution of pari-mutuel racing tax receipts to local governments.",
+  "abstract": "Amend KRS 138.510 to allocate moneys to a newly created fund from the pari-mutuel racing tax distribution; create a new section of KRS Chapter 230 to establish a fund relating to local governments and administered by the Department for Local Government; and amend KRS 131.190 to allow the Department of Revenue to …",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Horses and Horse Racing",
+   "Local Government",
+   "Reports Mandated",
+   "Taxation"
+  ],
+  "sponsors": [
+   "A. Gentry",
+   "G. Brown Jr.",
+   "N. Kulkarni",
+   "A. Moore",
+   "R. Roarx"
+  ],
+  "introduced": "2025-02-19",
+  "latest_action_date": "2025-02-27",
+  "latest_action": "to Appropriations & Revenue (H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2025RS/HB782/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/hb782.html",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/6a7d5d86-a5d4-40ed-a284-1fe3b4246380",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "HB 781",
+  "title": "AN ACT relating to responsible gambling.",
+  "abstract": "Create a new section of KRS Chapter 230 to require tracks licensed by the Kentucky Horse Racing and Gaming Corporation to implement programs that promote responsible gambling.",
+  "classification": "bill",
+  "subjects": [
+   "Boards and Commissions",
+   "Gambling",
+   "Horses and Horse Racing"
+  ],
+  "sponsors": [],
+  "introduced": "2025-02-19",
+  "latest_action_date": "2025-02-27",
+  "latest_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2025RS/HB781/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/hb781.html",
+  "topics": [
+   "prevention"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2e39691f-9fba-45c9-8cda-2af6466bf968",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "HB 742",
+  "title": "AN ACT relating to fantasy contests.",
+  "abstract": "Create new sections of KRS Chapter 230 to authorize the corporation to regulate the conduct of fantasy contest operators; require the use of geolocation technology; require fantasy contest operators to implement procedures to prevent fraud, abuse, and money laundering; require notification to the corporation for a …",
+  "classification": "bill",
+  "subjects": [
+   "Administrative Regulations and Proceedings",
+   "Amusements and Recreation",
+   "Corrections Impact",
+   "Effective Dates, Delayed",
+   "Gambling",
+   "Horses and Horse Racing",
+   "Licensing",
+   "Racing",
+   "Short Titles and Popular Names",
+   "State Agencies",
+   "Taxation"
+  ],
+  "sponsors": [],
+  "introduced": "2025-02-19",
+  "latest_action_date": "2025-02-27",
+  "latest_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2025RS/HB742/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/hb742.html",
+  "topics": [
+   "sports-betting",
+   "self-exclusion",
+   "policy",
+   "industry"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/943e3c4e-b16a-49e4-9f7a-4744980047c1",
   "level": "state",
   "jurisdiction": "Tennessee",
@@ -21163,10 +22135,9 @@
    "sports-betting",
    "treatment",
    "prevention",
-   "policy",
    "industry"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -21292,6 +22263,37 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/6d539c55-0d95-4e96-b5ed-5ab12218bfda",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "SB 219",
+  "title": "AN ACT relating to sports wagering.",
+  "abstract": "Amend KRS 230.805 to make technical corrections.",
+  "classification": "bill",
+  "subjects": [
+   "Boards and Commissions",
+   "Technical Corrections",
+   "Wagering"
+  ],
+  "sponsors": [],
+  "introduced": "2025-02-18",
+  "latest_action_date": "2025-02-20",
+  "latest_action": "to Licensing & Occupations (S)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2025RS/SB219/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/sb219.html",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/05a3e641-9765-4430-abf5-9039731ef4f8",
   "level": "state",
   "jurisdiction": "Georgia",
@@ -21318,10 +22320,9 @@
   "source_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
   "topics": [
    "sports-betting",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-05-31",
+  "updated": "2026-11-19",
   "first_seen": "2025-02-19",
   "stage_changed": null
  },
@@ -21532,6 +22533,42 @@
   ],
   "updated": "2026-09-21",
   "first_seen": "2025-02-10",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b93045c1-29e0-403a-9b9f-3007d59f3e8f",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SB 893",
+  "title": "RELATING TO THE ECONOMY.",
+  "abstract": "Grants twenty-year licenses for casinos in the New Aloha Stadium Entertainment District and Hawaii Convention Center. Establishes the Hawaii Gaming Control Commission. Imposes fifteen per cent wagering tax on gross receipts. Establishes the State Gaming Fund and Compulsive Gambler Program. Appropriates funds. (SD1)",
+  "classification": "bill",
+  "subjects": [
+   "Appropriations ($)",
+   "Casino Gaming",
+   "Compulsive Gamblers Program",
+   "Hawaii Convention Center",
+   "New Aloha Stadium Entertainment District",
+   "State Gaming Fund"
+  ],
+  "sponsors": [
+   "KANUHA"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-02-13",
+  "latest_action": "The committee on EDT deferred the measure.",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
+  "url": "https://openstates.org/hi/bills/2025/SB893/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=893&year=2025",
+  "topics": [
+   "casino"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -21818,11 +22855,51 @@
   "topics": [
    "sports-betting",
    "casino",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-02-04",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/6f256db0-f4ba-45ea-828a-0177868db507",
+  "level": "state",
+  "jurisdiction": "Kentucky",
+  "jurisdiction_code": "ky",
+  "session": "2025RS",
+  "identifier": "HB 33",
+  "title": "AN ACT relating to gaming activities.",
+  "abstract": "Amend KRS 230.210 to define terms; amend KRS 230.260 to allow the Kentucky Horse Racing and Gaming Corporation (corporation) to license and regulate casino gaming and fantasy contests; allow the corporation to inspect all premises where casino gaming is conducted and seize any equipment or records related to casino …",
+  "classification": "bill",
+  "subjects": [
+   "Administrative Regulations and Proceedings",
+   "Amusements and Recreation",
+   "Corrections Impact",
+   "County Clerks",
+   "Crimes and Punishments",
+   "Effective Dates, Delayed",
+   "Elections and Voting",
+   "Gambling",
+   "Horses and Horse Racing",
+   "Licensing",
+   "Local Government",
+   "Local Mandate"
+  ],
+  "sponsors": [],
+  "introduced": "2025-01-07",
+  "latest_action_date": "2025-02-04",
+  "latest_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ky/bills/2025RS/HB33/",
+  "source_url": "https://apps.legislature.ky.gov/record/25RS/hb33.html",
+  "topics": [
+   "casino",
+   "policy"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -21855,6 +22932,43 @@
   ],
   "updated": "2026-10-31",
   "first_seen": "2026-11-01",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/f3ccd22d-c847-4fc3-bb26-e03674effafc",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SB 1531",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Offers rights and protections to citizens who bring civil nuisance abatement suits related to illegal gambling. Imposes a mandatory fine of $5,000 for violating nuisance abatement laws related to gambling offenses.",
+  "classification": "bill",
+  "subjects": [
+   "Civil Suits",
+   "Gambling",
+   "Nuisance Abatement",
+   "Penalties",
+   "Victim Protection"
+  ],
+  "sponsors": [
+   "DECORTE",
+   "CHANG",
+   "KIM",
+   "RHOADS",
+   "Fukunaga"
+  ],
+  "introduced": "2025-01-22",
+  "latest_action_date": "2025-01-31",
+  "latest_action": "Re-Referred to JDC.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/SB1531/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=1531&year=2025",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -21969,11 +23083,10 @@
   "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=1572&year=2025",
   "topics": [
    "sports-betting",
-   "prevention",
    "policy",
    "industry"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -22005,10 +23118,9 @@
   "url": "https://openstates.org/hi/bills/2025/SB1507/",
   "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=1507&year=2025",
   "topics": [
-   "lottery",
-   "policy"
+   "lottery"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -22045,12 +23157,47 @@
   "url": "https://openstates.org/hi/bills/2025/HB1466/",
   "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1466&year=2025",
   "topics": [
-   "casino",
    "policy",
    "industry"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-23",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/18845534-7562-47fa-97aa-a0d85ef9e4e3",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "HB 1463",
+  "title": "RELATING TO A STATE LOTTERY.",
+  "abstract": "Requires the Department of Business, Economic Development, and Tourism to conduct a feasibility study for the establishment of a state lottery.",
+  "classification": "bill",
+  "subjects": [
+   "DBEDT",
+   "State Lottery",
+   "Study"
+  ],
+  "sponsors": [
+   "KILA",
+   "KAHALOA",
+   "LAMOSAO",
+   "MORIKAWA"
+  ],
+  "introduced": "2025-01-23",
+  "latest_action_date": "2025-01-27",
+  "latest_action": "Referred to ECD, FIN, referral sheet 4",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/HB1463/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1463&year=2025",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -22081,11 +23228,152 @@
   "url": "https://openstates.org/hi/bills/2025/HB1434/",
   "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1434&year=2025",
   "topics": [
-   "lottery",
-   "policy"
+   "lottery"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-23",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/44be00be-523d-4775-acf1-cb15574f202f",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "HB 1219",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Offers rights and protections to citizens who bring civil nuisance abatement suits related to illegal gambling. Imposes a mandatory fine of $5,000 for violating nuisance abatement laws related to gambling offenses.",
+  "classification": "bill",
+  "subjects": [
+   "Civil Suits",
+   "Gambling",
+   "Nuisance Abatement",
+   "Penalties",
+   "Victim Protection"
+  ],
+  "sponsors": [
+   "MURAOKA"
+  ],
+  "introduced": "2025-01-22",
+  "latest_action_date": "2025-01-27",
+  "latest_action": "Referred to JHA, referral sheet 4",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/HB1219/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1219&year=2025",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/86c0de5c-d3c8-45ce-81a9-509dd93dfb60",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "SB 112",
+  "title": "Authorizes the Video Lottery Control Act",
+  "abstract": "SB 112 - This act establishes the Missouri Video Lottery Control Act. This act allows the State Lottery Commission to implement a system of video lottery game terminals and to issue licenses to video lottery game manufacturers, distributors, operators, handlers, and retailers, as defined in the act …",
+  "classification": "bill",
+  "subjects": [
+   "Gambling",
+   "Political Subdivisions"
+  ],
+  "sponsors": [
+   "Karla May"
+  ],
+  "introduced": "2024-12-01",
+  "latest_action_date": "2025-01-23",
+  "latest_action": "Second Read and Referred S Appropriations Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/SB112/",
+  "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2025&billid=79",
+  "topics": [
+   "lottery",
+   "policy",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a659a6ec-5109-4820-82a2-d1aca7cc058a",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SB 653",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Requires the court to impose a mandatory fine per violation for nuisance abatement laws related to gambling offenses. Allows citizens who bring civil nuisance abatement suits against places used for illegal gambling the same rights and protections as those afforded to victims and witnesses in criminal proceedings.",
+  "classification": "bill",
+  "subjects": [
+   "Gambling Offenses",
+   "Mandatory Fine",
+   "Nuisance Abatement"
+  ],
+  "sponsors": [
+   "FEVELLA",
+   "AQUINO",
+   "CHANG",
+   "KIM",
+   "MORIWAKI",
+   "Fukunaga"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-01-23",
+  "latest_action": "Referred to JDC, WAM.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/SB653/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=653&year=2025",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/26779efb-9e8d-42b7-8d1e-020c57e711c1",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "HB 825",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Offers rights and protections to citizens who bring civil nuisance abatement suits related to illegal gambling. Imposes a mandatory fine of $5,0000 for violating nuisance abatement laws related to gambling offenses.",
+  "classification": "bill",
+  "subjects": [
+   "Civil Suits",
+   "Gambling",
+   "Nuisance Abatement",
+   "Penalties",
+   "Victim Protection"
+  ],
+  "sponsors": [
+   "MURAOKA",
+   "BELATTI",
+   "GARCIA",
+   "IWAMOTO",
+   "KILA",
+   "MATSUMOTO"
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2025-01-23",
+  "latest_action": "Introduced and Pass First Reading.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/HB825/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=825&year=2025",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -22221,13 +23509,46 @@
   "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=373&year=2025",
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "treatment",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2025-12-18",
+  "updated": "2026-11-19",
   "first_seen": "2025-01-14",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/fdf45dd8-0db9-41d8-bcdb-c1af3ad336a6",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "HB 669",
+  "title": "RELATING TO NUISANCE ABATEMENT.",
+  "abstract": "Requires the court to impose a mandatory fine per violation for nuisance abatement laws related to gambling offenses. Allows citizens who bring civil nuisance abatement suits against places used for illegal gambling the same rights and protections as those afforded to victims and witnesses in criminal proceedings.",
+  "classification": "bill",
+  "subjects": [
+   "Gambling Offenses",
+   "Mandatory Fine",
+   "Nuisance Abatement"
+  ],
+  "sponsors": [
+   "KILA",
+   "HOLT",
+   "LAMOSAO",
+   "OLDS",
+   "TAKAYAMA",
+   "TAKENOUCHI"
+  ],
+  "introduced": "2025-01-17",
+  "latest_action_date": "2025-01-21",
+  "latest_action": "Introduced and Pass First Reading.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/HB669/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=669&year=2025",
+  "topics": [],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
@@ -22260,6 +23581,77 @@
   "topics": [],
   "updated": "2026-03-18",
   "first_seen": "2025-01-13",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/37c064ba-0bf3-4623-b20e-eda191099083",
+  "level": "state",
+  "jurisdiction": "Hawaii",
+  "jurisdiction_code": "hi",
+  "session": "2025",
+  "identifier": "SB 203",
+  "title": "RELATING TO CRIME.",
+  "abstract": "Establishes a special intergovernmental task force to eradicate illegal gambling and drug activities and to establish community safe zones across the State. Requires a report to the Legislature.",
+  "classification": "bill",
+  "subjects": [
+   "Community Safe Zones",
+   "Drugs",
+   "Gambling",
+   "Special Intergovernmental Task Force"
+  ],
+  "sponsors": [
+   "FEVELLA",
+   "CHANG"
+  ],
+  "introduced": "2025-01-13",
+  "latest_action_date": "2025-01-17",
+  "latest_action": "Referred to PSM, JDC.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/hi/bills/2025/SB203/",
+  "source_url": "https://capitol.hawaii.gov/session/archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=203&year=2025",
+  "topics": [
+   "policy",
+   "comorbidity"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/052c2f0f-81ba-4213-86f5-8e802ae632a1",
+  "level": "state",
+  "jurisdiction": "Missouri",
+  "jurisdiction_code": "mo",
+  "session": "2025",
+  "identifier": "SB 16",
+  "title": "Phases out the corporate income tax",
+  "abstract": "SB 16 - This act establishes the Missouri Video Lottery Control Act. This act allows the State Lottery Commission to implement a system of video lottery game terminals and to issue licenses to video lottery game manufacturers, distributors, operators, handlers, and retailers, as defined in the act …",
+  "classification": "bill",
+  "subjects": [
+   "Corporations",
+   "Taxation and Revenue - Income"
+  ],
+  "sponsors": [
+   "Karla May"
+  ],
+  "introduced": "2024-12-01",
+  "latest_action_date": "2025-01-16",
+  "latest_action": "Second Read and Referred S Appropriations Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/mo/bills/2025/SB16/",
+  "source_url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2025&billid=74",
+  "topics": [
+   "lottery",
+   "policy",
+   "industry",
+   "veterans"
+  ],
+  "updated": "2026-11-19",
+  "first_seen": "2026-11-19",
   "stage_changed": null
  },
  {
