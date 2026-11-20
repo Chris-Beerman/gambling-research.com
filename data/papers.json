@@ -1,5 +1,177 @@
 [
  {
+  "id": "doi:10.1080/16066359.2026.2763085",
+  "doi": "10.1080/16066359.2026.2763085",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Improving the odds: how modifiable social factors influence gambling harm and recovery – a narrative review of longitudinal evidence",
+  "journal": "Addiction Research & Theory",
+  "authors": [
+   "Catherine Tulloch Nerilee Hing Matthew Browne Matthew Rockloff Alex M. T. Russell School of Health, Medical and Applied Sciences, CQUniversity (Experimental Gambling Research Laboratory), Australia"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-20",
+  "summary": ".",
+  "url": "https://doi.org/10.1080/16066359.2026.2763085",
+  "oa_url": null,
+  "sources": [
+   "feed:art"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1098/rsta.2025.0170",
+  "doi": "10.1098/rsta.2025.0170",
+  "pmid": "43055243",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Ergodicity transformation for additive-ruin wealth dynamic with money borrowing",
+  "journal": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
+  "authors": [
+   "Carlos Rodriguez Raposo",
+   "Pablo Coello Pulido"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-20",
+  "summary": "Ergodicity economics provides a framework for deriving utility functions that ensure growth optimality without relying on subjective or psychological assumptions …",
+  "url": "https://doi.org/10.1098/rsta.2025.0170",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "financial-harm"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ES"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1111/ans.71060",
+  "doi": "10.1111/ans.71060",
+  "pmid": "43058954",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Combatting Postcode Lottery: A Qualitative Exploration of Patient Perspectives on Rural Surgical Outreach Clinics in Hawke's Bay, Aotearoa New Zealand",
+  "journal": "ANZ journal of surgery",
+  "authors": [
+   "Sarah Cowan",
+   "Korban Hill",
+   "Helen Waaka",
+   "Jamie-Lee Rahiri"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-20",
+  "summary": "Rural surgical outreach clinics aim to improve access to specialist care for rural and Māori populations in Aotearoa New Zealand, but little is known about how patients experience them …",
+  "url": "https://doi.org/10.1111/ans.71060",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery",
+   "equity"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "NZ"
+  ],
+  "setting_regions": [
+   "australia-nz"
+  ],
+  "countries": [
+   "NZ"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "title:28052bed0ad4f8ab",
+  "doi": null,
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7236513129",
+  "title": "Digital Transformation in Online Gambling Prevention: Increasing the Role of the PKK in Strengthening Digital Education to the Community",
+  "journal": "International Journal of Health Economics and Social Sciences",
+  "authors": [
+   "Yenny Aman Serah",
+   "Resmaya Agnesia Mutiara Sirait",
+   "Rini Setiawati"
+  ],
+  "published": "2026-11-16",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-20",
+  "summary": "Digital transformation has had a diverse impact on people's lives, including the increasing prevalence of online gambling practices that cause social and economic problems …",
+  "url": "http://jurnal.unismuhpalu.ac.id/index.php/IJHESS/article/view/12434",
+  "oa_url": "http://jurnal.unismuhpalu.ac.id/index.php/IJHESS/article/download/12434/8332",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "prevention",
+   "policy",
+   "families"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s10899-026-10532-0",
   "doi": "10.1007/s10899-026-10532-0",
   "pmid": "43052590",
@@ -49,7 +221,7 @@
  {
   "id": "doi:10.1007/s10899-026-10576-2",
   "doi": "10.1007/s10899-026-10576-2",
-  "pmid": null,
+  "pmid": "43055865",
   "pmcid": null,
   "openalex": null,
   "title": "Cross-Cultural Adaptation and Validation of the European Portuguese Version of the Problem Gambling Severity Index",
@@ -58,7 +230,7 @@
    "Miguel Peixoto",
    "Fernando Barbosa",
    "António Marques",
-   "Artemisa R. Dores"
+   "Artemisa R Dores"
   ],
   "published": "2026-11-19",
   "year": 2026,
@@ -69,7 +241,8 @@
   "oa_url": null,
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -80,8 +253,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "PT"
+  ],
+  "regions": [
+   "europe"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -138,8 +315,8 @@
   "id": "doi:10.1371/journal.pone.0361472",
   "doi": "10.1371/journal.pone.0361472",
   "pmid": "43050401",
-  "pmcid": null,
-  "openalex": null,
+  "pmcid": "PMC13781351",
+  "openalex": "W7236425530",
   "title": "Population-level associations of interpersonal trauma during childhood and adulthood with mental health and addiction problems",
   "journal": "PLOS ONE",
   "authors": [
@@ -168,8 +345,9 @@
   "first_seen": "2026-11-19",
   "summary": "Interpersonal trauma during childhood and adulthood is associated with many adverse mental health and addiction outcomes. However, methodological issues of previous studies make it difficult to estimate and compare these associations at the population level …",
   "url": "https://doi.org/10.1371/journal.pone.0361472",
-  "oa_url": null,
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13781351/",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -183,14 +361,14 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "US",
    "CA",
-   "DE"
+   "DE",
+   "US"
   ],
   "regions": [
-   "us",
    "canada",
-   "europe"
+   "europe",
+   "us"
   ],
   "language": "en",
   "relevance": "high",
@@ -778,6 +956,51 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1016/j.jcae.2026.100611",
+  "doi": "10.1016/j.jcae.2026.100611",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W4414001813",
+  "title": "Gambling culture and management earnings forecasts: Evidence from China",
+  "journal": "Journal of Contemporary Accounting & Economics",
+  "authors": [
+   "Jichen Huang",
+   "Shengnian Wang",
+   "Yueying Li"
+  ],
+  "published": "2026-11-15",
+  "year": 2026,
+  "created": "2025-10-10",
+  "first_seen": "2026-11-17",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.jcae.2026.100611",
+  "oa_url": "https://doi.org/10.2139/ssrn.5437854",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "equity"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "CN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.51891/rease.v12i11.31964",
   "doi": "10.51891/rease.v12i11.31964",
   "pmid": null,
@@ -896,51 +1119,6 @@
    "europe"
   ],
   "language": "pl",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1016/j.jcae.2026.100611",
-  "doi": "10.1016/j.jcae.2026.100611",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W4414001813",
-  "title": "Gambling culture and management earnings forecasts: Evidence from China",
-  "journal": "Journal of Contemporary Accounting & Economics",
-  "authors": [
-   "Jichen Huang",
-   "Shengnian Wang",
-   "Yueying Li"
-  ],
-  "published": "2026-11-01",
-  "year": 2026,
-  "created": "2025-10-10",
-  "first_seen": "2026-11-17",
-  "summary": "",
-  "url": "https://doi.org/10.1016/j.jcae.2026.100611",
-  "oa_url": "https://doi.org/10.2139/ssrn.5437854",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "equity"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "CN"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "CN"
-  ],
-  "regions": [
-   "asia"
-  ],
-  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -3521,9 +3699,9 @@
   "title": "Multidimensional loss chasing among online sports gamblers: Assessing the moderating effects of starting behaviors on harm prediction",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
-   "Timothy C Edson",
-   "Matthew A Tom",
-   "Debi A LaPlante"
+   "Timothy C. Edson",
+   "Matthew A. Tom",
+   "Debi A. LaPlante"
   ],
   "published": "2026-11-05",
   "year": 2026,
@@ -3611,8 +3789,8 @@
   "authors": [
    "Maira Andrade",
    "Leonardo Weiss-Cohen",
-   "Richard J E James",
-   "Leon Y Xiao",
+   "Richard J. E. James",
+   "Leon Y. Xiao",
    "Philip Newall"
   ],
   "published": "2026-11-05",
@@ -3659,7 +3837,7 @@
   "journal": "Irish Journal of Medical Science",
   "authors": [
    "Amrutha Vijayan",
-   "Frank Houghton",
+   "Frank Thomas Houghton",
    "Jennifer Moran Stritch",
    "Daisy Houghton",
    "Mia Daly",
@@ -3667,7 +3845,7 @@
   ],
   "published": "2026-11-05",
   "year": 2026,
-  "created": "2026-11-05",
+  "created": "2026-11-06",
   "first_seen": "2026-11-06",
   "summary": "Gambling represents a substantial threat to a small proportion of the population. The National Lottery is routinely presented as a highly sanitised and almost philanthropic activity. However, the crucial role of the State in the National Lottery necessitates additional oversight to safeguard public health and vulnerable groups …",
   "url": "https://doi.org/10.1007/s11845-026-04710-7",
@@ -3676,14 +3854,12 @@
    "openalex",
    "pubmed"
   ],
-  "type": "letter",
+  "type": "article",
   "topics": [
    "lottery"
   ],
-  "designs": [
-   "commentary"
-  ],
-  "design_basis": "pubmed",
+  "designs": [],
+  "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
   "countries": [
@@ -3713,7 +3889,7 @@
   "year": 2026,
   "created": "2026-11-06",
   "first_seen": "2026-11-06",
-  "summary": "Abstract The Supreme Court’s 2018 decision in Murphy v. NCAA struck down the 1992 law restricting legal sports betting to Nevada. Many states subsequently moved to legalize sports betting, with 38 plus the District of Columbia and Puerto Rico doing so by mid-2025 …",
+  "summary": "The Supreme Court’s 2018 decision in Murphy v. NCAA struck down the 1992 law restricting legal sports betting to Nevada. Many states subsequently moved to legalize sports betting, with 38 plus the District of Columbia and Puerto Rico doing so by mid-2025 …",
   "url": "https://doi.org/10.1007/s11149-026-09532-0",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11149-026-09532-0.pdf",
   "sources": [
@@ -7896,6 +8072,55 @@
   "retracted": false
  },
  {
+  "id": "doi:10.59011/vjlaws.5.4.2026.813-825",
+  "doi": "10.59011/vjlaws.5.4.2026.813-825",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7223172083",
+  "title": "Analisis Viktimologi terhadap Keterlibatan Anak dalam Perjudian Online di Lingkungan 1, Kelurahan Binjai, Kecamatan Medan Denai",
+  "journal": "Verdict.",
+  "authors": [
+   "Ahmad Syawal Firdaus",
+   "Budi Sastra Panjaitan"
+  ],
+  "published": "2026-11-05",
+  "year": 2026,
+  "created": "2026-10-22",
+  "first_seen": "2026-10-23",
+  "summary": "This study examines the position of children involved in online gambling from a victimological perspective and identifies factors contributing to their involvement in Neighborhood 1, Binjai Urban Village, Medan Denai District. It employs empirical legal research with a qualitative approach …",
+  "url": "https://doi.org/10.59011/vjlaws.5.4.2026.813-825",
+  "oa_url": "https://www.ojs.wahanapublikasi.com/index.php/vjlaws/article/download/506/315",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth",
+   "prevention",
+   "policy"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1177/00258172261462769",
   "doi": "10.1177/00258172261462769",
   "pmid": "42908346",
@@ -8186,55 +8411,6 @@
   "setting_regions": [],
   "countries": [],
   "regions": [],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.59011/vjlaws.5.4.2026.813-825",
-  "doi": "10.59011/vjlaws.5.4.2026.813-825",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7223172083",
-  "title": "Analisis Viktimologi terhadap Keterlibatan Anak dalam Perjudian Online di Lingkungan 1, Kelurahan Binjai, Kecamatan Medan Denai",
-  "journal": "Verdict.",
-  "authors": [
-   "Ahmad Syawal Firdaus",
-   "Budi Sastra Panjaitan"
-  ],
-  "published": "2026-10-22",
-  "year": 2026,
-  "created": "2026-10-22",
-  "first_seen": "2026-10-23",
-  "summary": "This study examines the position of children involved in online gambling from a victimological perspective and identifies factors contributing to their involvement in Neighborhood 1, Binjai Urban Village, Medan Denai District. It employs empirical legal research with a qualitative approach …",
-  "url": "https://doi.org/10.59011/vjlaws.5.4.2026.813-825",
-  "oa_url": "https://www.ojs.wahanapublikasi.com/index.php/vjlaws/article/download/506/315",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "online-gambling",
-   "youth",
-   "prevention",
-   "policy"
-  ],
-  "designs": [
-   "qualitative"
-  ],
-  "design_basis": "rules",
-  "settings": [
-   "ID"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "ID"
-  ],
-  "regions": [
-   "asia"
-  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -35744,21 +35920,16 @@
   "pmid": "42985329",
   "pmcid": "PMC13733637",
   "openalex": "W7167280652",
-  "title": "Exploring the Relationship Between Positive Play and Perceived Knowledge in Traditional Sports Gambling",
+  "title": "Exploring the relationship between Positive Play and perceived knowledge in traditional sports gambling",
   "journal": "International Gambling Studies",
   "authors": [
-   "Alexander J Connolly",
-   "Rakin Faruk",
-   "Jennifer T Grant Weainandy",
-   "Lindsay M Stall",
-   "Shane W Kraus",
-   "Joshua B Grubbs"
+   "Alexander J. Connolly Rakin Faruk Jennifer T. Grant Weinandy Lindsay M. Stall Shane W. Kraus Joshua B. Grubbs a Center on Alcohol, Substance Use, And Addictions (CASAA), University of New Mexico, Albuquerque, New Mexico, USAb Independent Scholar, Albuquerque, New Mexico, USAc Department of Psychology, Ohio University, Athens, Ohio, USAd Department of Psychology, University of South Florida, Tampa, Florida, USAe Department of Psychology, University of Nevada Las Vegas, Las Vegas, NV, USAAlexander Connolly, M.A.: Alex Connolly is currently a Ph.D. candidate at the University of New Mexico where he studies responsible and problem gambling under the advisement of Dr Joshua Grubbs.Rakin Faruk, B.S.: Rakin Faruk graduated in 2024 from the University of New Mexico and is currently an independent scholar.Jennifer T. Grant Weinandy, Ph.D.: Dr Grant Weinandy is an Assistant Professor at Ohio University, where she uses mixed methods to study perceptions and experiences of addictions and addiction treatment in adults.Lindsay M. Stall, M.A.: Lindsay Stall is currently a Ph.D. student at the University of South Florida, where she studies externalizing behaviors.Shane W. Kraus, Ph.D.: Dr. Kraus is an Associate Professor at the University of Nevada Las Vegas, where he studies psychopathology, substance use disorders, gambling disorder, and compulsive sexual behavior disorder.Joshua B. Grubbs, Ph.D.: Dr Grubbs is an Associate Professor at the University of New Mexico where he studies compulsive sexual behavior disorder, gambling disorder, and personality traits. In addition, Dr Grubbs is an investigator at the Center on Alcohol, Substance Use, and Addictions."
   ],
   "published": "2026-07-03",
   "year": 2026,
-  "created": "2026-11-05",
+  "created": "2026-07-03",
   "first_seen": "2026-07-03",
-  "summary": "The growing accessibility of gambling in the United States, fueled by legalization and online platforms, has increased the need to examine both problem and responsible gambling, particularly among sports gamblers. Sports betting is often viewed as a skill-based activity, in which knowledge and skill are perceived to influence betting outcomes …",
+  "summary": ".",
   "url": "https://doi.org/10.1080/14459795.2026.2697457",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13733637/",
   "sources": [
@@ -35768,27 +35939,14 @@
    "pubmed"
   ],
   "type": "article",
-  "topics": [
-   "sports-betting",
-   "prevention"
-  ],
-  "designs": [
-   "longitudinal"
-  ],
+  "topics": [],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "US"
-  ],
-  "setting_regions": [
-   "us"
-  ],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },

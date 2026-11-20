@@ -3295,6 +3295,48 @@
   "status_changed": null
  },
  {
+  "id": "osf:48bju",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Understanding the mixed results for the illusion-of-control in gambling",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-03-03",
+  "last_updated": "2026-07-16",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Cognitive biases about randomness, such as the illusion of control and the gambler’s fallacy, play a key role in the widely-used cognitive models of disordered gambling …",
+  "url": "https://osf.io/48bju/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Charlotte Eben",
+   "Ty Hayes",
+   "Zhang Chen",
+   "Philip Newall"
+  ],
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "first_seen": "2026-11-20",
+  "status_changed": null
+ },
+ {
   "id": "osf:7n5ug",
   "registry": "osf",
   "registry_label": "OSF Registries",
