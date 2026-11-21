@@ -16,21 +16,21 @@
    "Sen. Schiff, Adam B. [D-CA]"
   ],
   "introduced": "2026-03-10",
-  "latest_action_date": "2026-11-19",
-  "latest_action": "Passed Senate with an amendment by Voice Vote.",
+  "latest_action_date": "2026-11-20",
+  "latest_action": "Message on Senate action sent to the House.",
   "latest_passage_date": null,
-  "stage": "passed-one",
-  "stage_label": "passed one chamber",
+  "stage": "introduced",
+  "stage_label": "introduced",
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4035",
   "source_url": "",
   "topics": [],
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "first_seen": "2026-03-10",
-  "stage_changed": "2026-11-20",
+  "stage_changed": "2026-11-21",
   "congress": 119,
   "bill_type": "s",
   "number": 4035,
-  "previous_stage": "committee"
+  "previous_stage": "passed-one"
  },
  {
   "id": "ocd-bill/ededfd9b-78c3-4335-88db-01d54875471b",
@@ -1016,6 +1016,7 @@
    "EDUCATION AGENCY, TEXAS (V9941)",
    "Education--Primary & Secondary--Finance (I0250)",
    "Education--Primary & Secondary--Teachers (I0242)",
+   "LICENSING & REGULATION, TEXAS COMMISSION OF (V0383)",
    "LICENSING & REGULATION, TEXAS DEPARTMENT OF (V8529)",
    "LOTTERIES (S0994)",
    "Salaries & Expenses (I0745)",
@@ -1033,9 +1034,10 @@
   "url": "https://openstates.org/tx/bills/90R/HB924/",
   "source_url": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00900_HB00999/HB 924.xml",
   "topics": [
-   "lottery"
+   "lottery",
+   "policy"
   ],
-  "updated": "2026-11-12",
+  "updated": "2026-11-20",
   "first_seen": "2026-11-12",
   "stage_changed": null
  },
@@ -1290,7 +1292,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-17",
+  "updated": "2026-11-21",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -4767,6 +4769,47 @@
   ],
   "updated": "2026-10-31",
   "first_seen": "2026-10-31",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c8f8c026-11cb-4e9b-b3cc-5ebc23aa04be",
+  "level": "state",
+  "jurisdiction": "Alaska",
+  "jurisdiction_code": "ak",
+  "session": "34",
+  "identifier": "SB 170",
+  "title": "An Act relating to gaming; relating to gaming activities on Alaska marine highway system vessels; relating to bingo; relating to pull-tabs and electronic pull-tab systems; relating to the powers of the Department of Transportation and Public Facilities; relating to the Alaska marine highway system fund; and providing for an effective date.",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "BUSINESS",
+   "CONTRACTS",
+   "GAMBLING",
+   "LICENSING",
+   "MARINE HIGHWAY",
+   "PERMITS",
+   "REVENUE",
+   "SALES",
+   "TAXATION",
+   "TRANSPORTATION"
+  ],
+  "sponsors": [
+   "Bjorkman",
+   "Yundt",
+   "Cronk",
+   "Merrick"
+  ],
+  "introduced": "2025-04-11",
+  "latest_action_date": "2026-05-19",
+  "latest_action": "(H) Scheduled but Not Heard -- Delayed to a Call of the Chair --",
+  "latest_passage_date": "2026-05-12",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/ak/bills/34/SB170/",
+  "source_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB170",
+  "topics": [],
+  "updated": "2026-11-20",
+  "first_seen": "2026-11-21",
   "stage_changed": null
  },
  {
@@ -9430,7 +9473,7 @@
   "topics": [
    "prediction-markets"
   ],
-  "updated": "2026-08-01",
+  "updated": "2026-11-21",
   "first_seen": "2026-03-23",
   "stage_changed": null,
   "congress": 119,
@@ -17064,7 +17107,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },

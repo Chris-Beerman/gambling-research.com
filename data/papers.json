@@ -1,26 +1,418 @@
 [
  {
+  "id": "doi:10.1007/s42786-026-00066-9",
+  "doi": "10.1007/s42786-026-00066-9",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7237222321",
+  "title": "Decentralizing betting: leveraging blockchain technology for a transparent and inclusive future",
+  "journal": "Journal of Banking and Financial Technology",
+  "authors": [
+   "Faryad Bigdeli",
+   "Saviz Changizi",
+   "Masoud Rayat Zadeh",
+   "Charlotte Aung",
+   "Ittipat Pojpring",
+   "Xiaojun Luo"
+  ],
+  "published": "2026-11-21",
+  "year": 2026,
+  "created": "2026-11-21",
+  "first_seen": "2026-11-21",
+  "summary": "Traditional centralised online betting platforms can be opaque, raising concerns about transparency, fairness, and access …",
+  "url": "https://doi.org/10.1007/s42786-026-00066-9",
+  "oa_url": "https://doi.org/10.1007/s42786-026-00066-9",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/21676968261512194",
+  "doi": "10.1177/21676968261512194",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7237239324",
+  "title": "Understanding the Development of Gambling Behavior in Emerging Adulthood in Türkiye: A Phenomenological Study",
+  "journal": "Emerging Adulthood",
+  "authors": [
+   "Nilgün ÖZTÜRK",
+   "Kibar Yıldırım"
+  ],
+  "published": "2026-11-20",
+  "year": 2026,
+  "created": "2026-11-21",
+  "first_seen": "2026-11-21",
+  "summary": "Gambling has increasingly become a widespread risky activity among emerging adults, accelerated by online platforms. This study explores the experiences of emerging adults in Türkiye with gambling problems and its impact on their lives …",
+  "url": "https://doi.org/10.1177/21676968261512194",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TR"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1002/mhw.35086",
+  "doi": "10.1002/mhw.35086",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7237146413",
+  "title": "Report raises concerns about youth gambling and MH risks",
+  "journal": "Mental Health Weekly",
+  "authors": [
+   "Valerie A. Canady"
+  ],
+  "published": "2026-11-20",
+  "year": 2026,
+  "created": "2026-11-21",
+  "first_seen": "2026-11-21",
+  "summary": "In the past year, more than 40% of U.S. teens reported gambling, according to researchers at the Center for Gambling Studies at the Rutgers School of Social Work. Last week they released a new report, “Adolescent and Young Adult Gambling in the United States.” The survey results were part of a 2026 U.S …",
+  "url": "https://doi.org/10.1002/mhw.35086",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3167/ame.2026.210207",
+  "doi": "10.3167/ame.2026.210207",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7236720503",
+  "title": "‘May It Bring Good Luck’: Lottery Tickets as Gifts in Turkey",
+  "journal": "Anthropology of the Middle East",
+  "authors": [
+   "Wesam Adel Hassan"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-20",
+  "first_seen": "2026-11-21",
+  "summary": "In Turkey, the exchange of lottery tickets before New Year's Eve constitutes a widespread social practice through which economic transactions are reconfigured as relational and moral acts …",
+  "url": "https://doi.org/10.3167/ame.2026.210207",
+  "oa_url": "https://doi.org/10.3167/ame.2026.210207",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TR"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.4088/pcc.26m04309",
+  "doi": "10.4088/pcc.26m04309",
+  "pmid": "43063180",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Prevalence and Mental and Physical Health Correlates of Cardiovascular Disease Among Older US Veterans: Results From the 2025-2026 National Health and Resilience in Veterans Study",
+  "journal": "The primary care companion for CNS disorders",
+  "authors": [
+   "Alina Yang",
+   "Atreya Manaswi",
+   "Melanie W Fischer",
+   "Ian C Fischer",
+   "Peter J Na",
+   "Jonathan A Ripp",
+   "Robert H Pietrzak"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-20",
+  "first_seen": "2026-11-21",
+  "summary": "Cardiovascular disease (CVD) is the leading cause of morbidity and mortality in the United States, and older military veterans are at particularly high risk. This study aims to determine the prevalence and temporal stability of CVD in a nationally representative sample of older US veterans and identify correlates of CVD and related multimorbidity …",
+  "url": "https://doi.org/10.4088/pcc.26m04309",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "prevalence",
+   "comorbidity",
+   "veterans"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.69849/2b8wk289",
+  "doi": "10.69849/2b8wk289",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7236561319",
+  "title": "O impacto das apostas on-line na economia brasileira",
+  "journal": "Revista Fisio&terapia.",
+  "authors": [
+   "Guilherme Didier",
+   "Sebastian Dellantonio",
+   "Ana Sofia Uchôa"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-20",
+  "first_seen": "2026-11-21",
+  "summary": "The growth of online betting in Brazil has become a significant phenomenon for the economy, especially after the sector was regulated and access to digital platforms expanded. This study aims to analyse the economic and social impacts of online betting, considering its effects on household consumption, indebtedness and the circulation of income …",
+  "url": "https://doi.org/10.69849/2b8wk289",
+  "oa_url": "https://www.revistaft.com/ft/article/download/3283/8621",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy",
+   "financial-harm"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "BR"
+  ],
+  "setting_regions": [
+   "latin-america"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.3389/fpsyg.2026.1968227",
+  "doi": "10.3389/fpsyg.2026.1968227",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7236725850",
+  "title": "Impact of perceived social risk on the tendency toward sports gambling addiction among Chinese recreational sports club members: verifying the mediating effect of sports values",
+  "journal": "Frontiers in Psychology",
+  "authors": [
+   "林孟龙",
+   "Jun Hyeok Choi",
+   "Jixing Wu",
+   "Woog-Yeon Jo"
+  ],
+  "published": "2026-11-19",
+  "year": 2026,
+  "created": "2026-11-20",
+  "first_seen": "2026-11-21",
+  "summary": "Introduction This study examines the associations between perceived social risk and the tendency toward sports gambling addiction among recreational sports club members in China, with particular attention to the potential indirect role of sports values …",
+  "url": "https://doi.org/10.3389/fpsyg.2026.1968227",
+  "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1968227/pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "CN"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.addbeh.2026.108916",
+  "doi": "10.1016/j.addbeh.2026.108916",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7236245387",
+  "title": "Latent profiles of addictive-like behaviors: a person-centered analysis of risk and protective factors among adolescents",
+  "journal": "Addictive Behaviors",
+  "authors": [
+   "Yaniv Efrati"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-21",
+  "summary": "Addictive-like behaviors are common during adolescence and are associated with a broad range of emotional, behavioral, and social outcomes …",
+  "url": "https://doi.org/10.1016/j.addbeh.2026.108916",
+  "oa_url": "https://doi.org/10.1016/j.addbeh.2026.108916",
+  "sources": [
+   "feed:addictive-behaviors",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "cognition"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "IL"
+  ],
+  "regions": [
+   "middle-east"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.addbeh.2026.108917",
+  "doi": "10.1016/j.addbeh.2026.108917",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7237187873",
+  "title": "Exploring the relationship between gambling consumption and problem gambling severity index scores: An analysis of two cross-sectional datasets of people in Britain who gamble regularly",
+  "journal": "Addictive Behaviors",
+  "authors": [
+   "Sarah Tipping",
+   "Heather Wardle"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-11-21",
+  "first_seen": "2026-11-21",
+  "summary": "Publication date: Available online 20 November 2026 Source: Addictive Behaviors Author(s): Sarah Tipping, Heather Wardle",
+  "url": "https://doi.org/10.1016/j.addbeh.2026.108917",
+  "oa_url": "https://doi.org/10.1016/j.addbeh.2026.108917",
+  "sources": [
+   "feed:addictive-behaviors",
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1080/16066359.2026.2763085",
   "doi": "10.1080/16066359.2026.2763085",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7236664141",
   "title": "Improving the odds: how modifiable social factors influence gambling harm and recovery – a narrative review of longitudinal evidence",
   "journal": "Addiction Research & Theory",
   "authors": [
-   "Catherine Tulloch Nerilee Hing Matthew Browne Matthew Rockloff Alex M. T. Russell School of Health, Medical and Applied Sciences, CQUniversity (Experimental Gambling Research Laboratory), Australia"
+   "Catherine Tulloch",
+   "Nerilee Hing",
+   "Matthew Browne",
+   "Matthew Rockloff",
+   "Alex Myles Thomas Russell"
   ],
   "published": "2026-11-19",
   "year": 2026,
-  "created": "2026-11-19",
+  "created": "2026-11-20",
   "first_seen": "2026-11-20",
-  "summary": ".",
+  "summary": "Background Harm from gambling is dynamic and episodic, with individuals transitioning into and out of harmful levels of consumption over time.Methods This narrative review synthesizes longitudinal and life-course evidence to identify modifiable predictors of these transitions across multiple domains: gambling-specific, individual, and social.Results 36 …",
   "url": "https://doi.org/10.1080/16066359.2026.2763085",
-  "oa_url": null,
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2763085?needAccess=true",
   "sources": [
-   "feed:art"
+   "feed:art",
+   "openalex"
   ],
-  "type": "article",
+  "type": "review",
   "topics": [
    "treatment"
   ],
@@ -30,9 +422,13 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
-  "language": null,
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
   "relevance": "high",
   "retracted": false
  },
@@ -41,7 +437,7 @@
   "doi": "10.1098/rsta.2025.0170",
   "pmid": "43055243",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W4287213395",
   "title": "Ergodicity transformation for additive-ruin wealth dynamic with money borrowing",
   "journal": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
   "authors": [
@@ -54,8 +450,9 @@
   "first_seen": "2026-11-20",
   "summary": "Ergodicity economics provides a framework for deriving utility functions that ensure growth optimality without relying on subjective or psychological assumptions …",
   "url": "https://doi.org/10.1098/rsta.2025.0170",
-  "oa_url": null,
+  "oa_url": "https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2025.0170/6178280/rsta.2025.0170.pdf",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -81,7 +478,7 @@
   "doi": "10.1111/ans.71060",
   "pmid": "43058954",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7237157538",
   "title": "Combatting Postcode Lottery: A Qualitative Exploration of Patient Perspectives on Rural Surgical Outreach Clinics in Hawke's Bay, Aotearoa New Zealand",
   "journal": "ANZ journal of surgery",
   "authors": [
@@ -96,8 +493,9 @@
   "first_seen": "2026-11-20",
   "summary": "Rural surgical outreach clinics aim to improve access to specialist care for rural and Māori populations in Aotearoa New Zealand, but little is known about how patients experience them …",
   "url": "https://doi.org/10.1111/ans.71060",
-  "oa_url": null,
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ans.71060",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -176,7 +574,7 @@
   "doi": "10.1007/s10899-026-10532-0",
   "pmid": "43052590",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7236832219",
   "title": "Gambling Disorder, Family Context, and Suicide Risk: Evidence From a Spanish Household Survey",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -190,10 +588,11 @@
   "first_seen": "2026-11-19",
   "summary": "Abstract This study examines household level associations between suicidal behavior and gambling disorder, considering household structure, health conditions, and economic strain. Using a nationally representative Spanish survey, we estimated a structural equation model to assess direct and indirect associations between these factors and suicidal behavior …",
   "url": "https://doi.org/10.1007/s10899-026-10532-0",
-  "oa_url": null,
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10899-026-10532-0.pdf",
   "sources": [
    "crossref",
    "feed:jgs",
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -223,7 +622,7 @@
   "doi": "10.1007/s10899-026-10576-2",
   "pmid": "43055865",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7162267235",
   "title": "Cross-Cultural Adaptation and Validation of the European Portuguese Version of the Problem Gambling Severity Index",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -238,10 +637,11 @@
   "first_seen": "2026-11-19",
   "summary": "The Problem Gambling Severity Index (PGSI) is widely used to assess the prevalence of problem gambling on a community level. No cultural adaptation or psychometric validation of the instrument has been conducted for European Portuguese. The sample comprised 171 individuals, aged 18 to 75 years old …",
   "url": "https://doi.org/10.1007/s10899-026-10576-2",
-  "oa_url": null,
+  "oa_url": "https://osf.io/hejk2",
   "sources": [
    "crossref",
    "feed:jgs",
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -281,7 +681,7 @@
   "first_seen": "2026-11-19",
   "summary": "This article explores how women engage with sports betting within contemporary football fandom. Drawing on survey data from 60 British women football fans, the study adopts a qualitative, interpretive approach to examine how betting is understood and negotiated in football culture …",
   "url": "https://doi.org/10.1080/02614367.2026.2765849",
-  "oa_url": "https://doi.org/10.1080/02614367.2026.2765849",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/02614367.2026.2765849?needAccess=true",
   "sources": [
    "openalex"
   ],
@@ -435,7 +835,7 @@
   "first_seen": "2026-11-19",
   "summary": "To investigate the frequency of online gambling and associations of past-year gambling and positive screening for gambling disorder symptoms with sociodemographic characteristics, financial harm, and anxiety and depressive symptoms among university students …",
   "url": "https://doi.org/10.25248/reas.e25678.2026",
-  "oa_url": "https://doi.org/10.25248/reas.e25678.2026",
+  "oa_url": "https://acervomais.com.br/saude/article/download/25678/13042",
   "sources": [
    "openalex"
   ],
@@ -558,7 +958,7 @@
   "first_seen": "2026-11-18",
   "summary": "With the explosive growth of the trading card (TCG) market, the variable ratio reinforcement behind its card-drawing mechanism has raised concerns about behavioural addiction among teenagers, and it is highly likely that they will develop bad habits prematurely …",
   "url": "https://doi.org/10.54254/2754-1169/2026.38966",
-  "oa_url": null,
+  "oa_url": "https://aemps.ewapub.com/article/view/38966.pdf",
   "sources": [
    "openalex"
   ],
@@ -1265,7 +1665,7 @@
   "year": 2026,
   "created": "2026-11-04",
   "first_seen": "2026-11-16",
-  "summary": "Abstract There is a growing evidence base for the treatment of gambling harms indicating that cognitive behavioural therapy (CBT) is an effective treatment. However, limitations in research methodology raise questions about the effective mechanisms of change …",
+  "summary": "There is a growing evidence base for the treatment of gambling harms indicating that cognitive behavioural therapy (CBT) is an effective treatment. However, limitations in research methodology raise questions about the effective mechanisms of change …",
   "url": "https://doi.org/10.1017/s1754470x26100798",
   "oa_url": "https://doi.org/10.1017/s1754470x26100798",
   "sources": [
@@ -1660,7 +2060,7 @@
   "year": 2026,
   "created": "2026-08-10",
   "first_seen": "2026-11-14",
-  "summary": "Abstract Despite the well-established relationship between positive and negative urgency and gambling, the research examining how these impulsivity facets are expressed across the full spectrum of this behaviour is currently underdeveloped …",
+  "summary": "Despite the well-established relationship between positive and negative urgency and gambling, the research examining how these impulsivity facets are expressed across the full spectrum of this behaviour is currently underdeveloped …",
   "url": "https://doi.org/10.1007/s44202-026-00977-0",
   "oa_url": "https://doi.org/10.1007/s44202-026-00977-0",
   "sources": [
@@ -1704,7 +2104,7 @@
   "year": 2026,
   "created": "2026-11-13",
   "first_seen": "2026-11-14",
-  "summary": "Abstract Background: Gambling is increasingly recognised as a public health issue, often co-occurring with alcohol and tobacco use. In response, the UK government plans to introduce Cumulative Impact Assessments (CIAs) for gambling, allowing local authorities to identify areas where venue density may contribute to increased gambling harm …",
+  "summary": "Gambling is increasingly recognised as a public health issue, often co-occurring with alcohol and tobacco use. In response, the UK government plans to introduce Cumulative Impact Assessments (CIAs) for gambling, allowing local authorities to identify areas where venue density may contribute to increased gambling harm …",
   "url": "https://doi.org/10.1186/s12954-026-01571-2",
   "oa_url": "https://doi.org/10.1186/s12954-026-01571-2",
   "sources": [
@@ -1995,7 +2395,7 @@
   "year": 2026,
   "created": "2026-07-20",
   "first_seen": "2026-11-12",
-  "summary": "Abstract Background Although researchers have investigated the relationship between mindfulness and gambling, findings across observational and intervention studies remain underdeveloped and inconsistent …",
+  "summary": "Background Although researchers have investigated the relationship between mindfulness and gambling, findings across observational and intervention studies remain underdeveloped and inconsistent …",
   "url": "https://doi.org/10.1007/s12671-026-03013-3",
   "oa_url": "https://link.springer.com/content/pdf/10.1007/s12671-026-03013-3.pdf",
   "sources": [
@@ -3228,7 +3628,7 @@
   "year": 2026,
   "created": "2026-11-08",
   "first_seen": "2026-11-09",
-  "summary": "ABSTRACT Against the backdrop of rapid advances in digital technologies, artificial intelligence (AI) transformation has emerged as a critical strategy for firms to enhance competitive advantage and adapt to technological change …",
+  "summary": "Against the backdrop of rapid advances in digital technologies, artificial intelligence (AI) transformation has emerged as a critical strategy for firms to enhance competitive advantage and adapt to technological change …",
   "url": "https://doi.org/10.1002/mde.70182",
   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mde.70182",
   "sources": [
@@ -3515,49 +3915,6 @@
   ],
   "language": "en",
   "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1016/j.biopsycho.2026.109422",
-  "doi": "10.1016/j.biopsycho.2026.109422",
-  "pmid": "42994783",
-  "pmcid": null,
-  "openalex": "W7225409512",
-  "title": "Anticipatory cardiac deceleration is related to cautious decision-making after threat image exposure",
-  "journal": "Biological Psychology",
-  "authors": [
-   "Leeann Runkle",
-   "Nina Lauharatanahirun",
-   "Sonia A Cavigelli",
-   "Derek P Spangler"
-  ],
-  "published": "2026-11-06",
-  "year": 2026,
-  "created": "2026-11-06",
-  "first_seen": "2026-11-07",
-  "summary": "Cautious decision-making can be an adaptive tendency in stressful environments and in certain individuals. We hypothesized that cautious decision-making is supported by anticipatory cardiac deceleration (ACD)- a brief cardiac slowing tied to preparation and action readiness …",
-  "url": "https://doi.org/10.1016/j.biopsycho.2026.109422",
-  "oa_url": null,
-  "sources": [
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "cognition"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
-  "relevance": "low",
   "retracted": false
  },
  {
@@ -4176,7 +4533,7 @@
   "year": 2026,
   "created": "2026-11-05",
   "first_seen": "2026-11-05",
-  "summary": "Abstract This study examines the translation of swearwords in the Spanish subtitled and dubbed versions of Scorsese's Casino and The Wolf of Wall Street through the lens of relevance theory. Swearwords constitute a crucial element in fictional audiovisual narratives, as they convey emotional intensity, social relations and pragmatic meaning …",
+  "summary": "This study examines the translation of swearwords in the Spanish subtitled and dubbed versions of Scorsese's Casino and The Wolf of Wall Street through the lens of relevance theory. Swearwords constitute a crucial element in fictional audiovisual narratives, as they convey emotional intensity, social relations and pragmatic meaning …",
   "url": "https://doi.org/10.1556/084.2026.01478",
   "oa_url": null,
   "sources": [
@@ -4564,7 +4921,7 @@
   "year": 2026,
   "created": "2026-11-04",
   "first_seen": "2026-11-04",
-  "summary": "Abstract. In the classical prophet inequality, a gambler faces a sequence of items, whose values are drawn independently from known distributions. Upon the arrival of each item, its value is realized and the gambler either accepts it and the game ends, or irrevocably rejects it and continues to the next item …",
+  "summary": "In the classical prophet inequality, a gambler faces a sequence of items, whose values are drawn independently from known distributions. Upon the arrival of each item, its value is realized and the gambler either accepts it and the game ends, or irrevocably rejects it and continues to the next item …",
   "url": "https://doi.org/10.1137/23m1623574",
   "oa_url": null,
   "sources": [
@@ -4662,7 +5019,7 @@
    "Yubo Kou",
    "Xinning Gui"
   ],
-  "published": "2026-11-03",
+  "published": "2026-11-02",
   "year": 2026,
   "created": "2026-11-04",
   "first_seen": "2026-11-04",
@@ -5024,7 +5381,7 @@
   "year": 2026,
   "created": "2026-11-03",
   "first_seen": "2026-11-03",
-  "summary": "Abstract Background Pramipexole, a dopamine agonist, is commonly prescribed for restless leg syndrome and Parkinson’s disease. However, it has been linked to gambling disorders and other impulse control disorders developing as a side effect …",
+  "summary": "Background Pramipexole, a dopamine agonist, is commonly prescribed for restless leg syndrome and Parkinson’s disease. However, it has been linked to gambling disorders and other impulse control disorders developing as a side effect …",
   "url": "https://doi.org/10.1186/s12888-026-08661-2",
   "oa_url": "https://doi.org/10.1186/s12888-026-08661-2",
   "sources": [
@@ -5750,8 +6107,8 @@
   "settings": [],
   "setting_regions": [],
   "countries": [
-   "BE",
-   "FR"
+   "FR",
+   "BE"
   ],
   "regions": [
    "europe"
@@ -6154,11 +6511,7 @@
   "openalex": "W7224914123",
   "title": "Proposal of Gender-Sensitive Diagnostic Indicators for the Detection of Gambling Disorder in Women: An Exploratory and Qualitative Approach to Women’s Narratives",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Laura Macía",
-   "Gema Aonso-Diego",
-   "Ana Estévez"
-  ],
+  "authors": [],
   "published": "2026-10-30",
   "year": 2026,
   "created": "2026-10-30",
@@ -6182,13 +6535,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6200,12 +6549,7 @@
   "openalex": "W7224735227",
   "title": "Factors Associated with Treatment Dropout Among Individuals with Gambling Disorder: A Retrospective Cohort Study",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Ovidiu Tatar",
-   "Christophe Huỳnh",
-   "Nadine Blanchette-Martin",
-   "Marie-Josée Fleury"
-  ],
+  "authors": [],
   "published": "2026-10-30",
   "year": 2026,
   "created": "2026-10-30",
@@ -6235,13 +6579,9 @@
   "setting_regions": [
    "canada"
   ],
-  "countries": [
-   "CA"
-  ],
-  "regions": [
-   "canada"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6481,17 +6821,7 @@
   "openalex": "W7224410895",
   "title": "Gambling-Related Knowledge: A Systematic Review and Clinical Implications",
   "journal": "International Journal of Mental Health and Addiction",
-  "authors": [
-   "Alexander J. Connolly",
-   "Lindsay M. Stall",
-   "Taylor O. Mick-Keck",
-   "Alexander Montoya",
-   "Jaxon Scowden",
-   "London Campbell",
-   "Hilaria Barragan",
-   "Brooke Kopatz",
-   "Joshua Briggs Grubbs"
-  ],
+  "authors": [],
   "published": "2026-10-30",
   "year": 2026,
   "created": "2026-10-30",
@@ -6503,7 +6833,7 @@
    "feed:ijmha",
    "openalex"
   ],
-  "type": "review",
+  "type": "article",
   "topics": [
    "youth"
   ],
@@ -6513,13 +6843,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -6648,6 +6974,51 @@
   "retracted": false
  },
  {
+  "id": "doi:10.47116/apjcri.2026.10.20",
+  "doi": "10.47116/apjcri.2026.10.20",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7224103461",
+  "title": "A Comparative Study of Topic Modeling Algorithms for Online Reviews: The Case of Casino Integrated Resorts in South Korea (LDA, STM, and BERTopic)",
+  "journal": "Asia-pacific Journal of Convergent Research Interchange",
+  "authors": [
+   "Min-Hwan Ko",
+   "Yeon Kook Jeong"
+  ],
+  "published": "2026-10-31",
+  "year": 2026,
+  "created": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "summary": "When applying topic modeling to online reviews in tourism and hospitality research, scholars face a largely undocumented decision: which algorithm to use.This study addresses that choice empirically by benchmarking three representative algorithms-Latent Dirichlet Allocation (LDA), the Structural Topic Model (STM; implemented as Dirichlet-Multinomial …",
+  "url": "https://doi.org/10.47116/apjcri.2026.10.20",
+  "oa_url": "http://apjcriweb.org/content/vol12no10/20.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "casino",
+   "industry"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "KR"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "KR"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.7583/jkgs.2026.26.5.153",
   "doi": "10.7583/jkgs.2026.26.5.153",
   "pmid": null,
@@ -6683,51 +7054,6 @@
   ],
   "countries": [],
   "regions": [],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.47116/apjcri.2026.10.20",
-  "doi": "10.47116/apjcri.2026.10.20",
-  "pmid": null,
-  "pmcid": null,
-  "openalex": "W7224103461",
-  "title": "A Comparative Study of Topic Modeling Algorithms for Online Reviews: The Case of Casino Integrated Resorts in South Korea (LDA, STM, and BERTopic)",
-  "journal": "Asia-pacific Journal of Convergent Research Interchange",
-  "authors": [
-   "Min-Hwan Ko",
-   "Yeon Kook Jeong"
-  ],
-  "published": "2026-10-29",
-  "year": 2026,
-  "created": "2026-10-29",
-  "first_seen": "2026-10-29",
-  "summary": "When applying topic modeling to online reviews in tourism and hospitality research, scholars face a largely undocumented decision: which algorithm to use.This study addresses that choice empirically by benchmarking three representative algorithms-Latent Dirichlet Allocation (LDA), the Structural Topic Model (STM; implemented as Dirichlet-Multinomial …",
-  "url": "https://doi.org/10.47116/apjcri.2026.10.20",
-  "oa_url": "http://apjcriweb.org/content/vol12no10/20.pdf",
-  "sources": [
-   "openalex"
-  ],
-  "type": "article",
-  "topics": [
-   "casino",
-   "industry"
-  ],
-  "designs": [],
-  "design_basis": "rules",
-  "settings": [
-   "KR"
-  ],
-  "setting_regions": [
-   "asia"
-  ],
-  "countries": [
-   "KR"
-  ],
-  "regions": [
-   "asia"
-  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -17539,6 +17865,53 @@
   "retracted": false
  },
  {
+  "id": "doi:10.1037/adb0001186",
+  "doi": "10.1037/adb0001186",
+  "pmid": "42752157",
+  "pmcid": null,
+  "openalex": "W7213450540",
+  "title": "A systematic review and meta-analysis of the relative and complementary effects of motivational interviewing and cognitive–behavioral treatment for problem gambling and gambling disorder",
+  "journal": "Psychology of Addictive Behaviors",
+  "authors": [
+   "Mark R. Hastings",
+   "David P. Forman",
+   "Hyoun S. Kim",
+   "Rory A. Pfund"
+  ],
+  "published": "2026-11-01",
+  "year": 2026,
+  "created": "2026-09-17",
+  "first_seen": "2026-09-17",
+  "summary": "To compare the relative and complementary effects of motivational interviewing (MI) and cognitive-behavioral treatment (CBT) for problem gambling and gambling disorder. METHOD: Four bibliographic databases were searched to identify published and unpublished studies of randomized controlled trials of participants with problem gambling and gambling disorder …",
+  "url": "https://doi.org/10.1037/adb0001186",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "review",
+  "topics": [
+   "treatment"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US",
+   "CA"
+  ],
+  "regions": [
+   "us",
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s10899-026-10556-6",
   "doi": "10.1007/s10899-026-10556-6",
   "pmid": "42754757",
@@ -17833,53 +18206,6 @@
   ],
   "regions": [
    "asia"
-  ],
-  "language": "en",
-  "relevance": "high",
-  "retracted": false
- },
- {
-  "id": "doi:10.1037/adb0001186",
-  "doi": "10.1037/adb0001186",
-  "pmid": "42752157",
-  "pmcid": null,
-  "openalex": "W7213450540",
-  "title": "A systematic review and meta-analysis of the relative and complementary effects of motivational interviewing and cognitive-behavioral treatment for problem gambling and gambling disorder",
-  "journal": "Psychology of Addictive Behaviors",
-  "authors": [
-   "Mark R Hastings",
-   "David P Forman",
-   "Hyoun S Kim",
-   "Rory A Pfund"
-  ],
-  "published": "2026-09-17",
-  "year": 2026,
-  "created": "2026-09-17",
-  "first_seen": "2026-09-17",
-  "summary": "To compare the relative and complementary effects of motivational interviewing (MI) and cognitive-behavioral treatment (CBT) for problem gambling and gambling disorder. Method: Four bibliographic databases were searched to identify published and unpublished studies of randomized controlled trials of participants with problem gambling and gambling disorder …",
-  "url": "https://doi.org/10.1037/adb0001186",
-  "oa_url": null,
-  "sources": [
-   "openalex",
-   "pubmed"
-  ],
-  "type": "article",
-  "topics": [
-   "treatment"
-  ],
-  "designs": [
-   "review"
-  ],
-  "design_basis": "rules",
-  "settings": [],
-  "setting_regions": [],
-  "countries": [
-   "US",
-   "CA"
-  ],
-  "regions": [
-   "us",
-   "canada"
   ],
   "language": "en",
   "relevance": "high",
@@ -104779,25 +105105,25 @@
   "id": "doi:10.2196/87126",
   "doi": "10.2196/87126",
   "pmid": "42986417",
-  "pmcid": "PMC13738161",
+  "pmcid": "13738161",
   "openalex": "W7168133854",
   "title": "A Wise Intervention for Adolescents Who Purchase Loot Boxes (WISEBOx): Pilot Study",
-  "journal": "JMIR formative research",
+  "journal": "JMIR Formative Research",
   "authors": [
-   "Joaquín González-Cabrera",
-   "Vanessa Caba-Machado",
-   "Francisco J Sanmartín",
+   "Joaquin Manuel González‐Cabrera",
+   "Vanessa Caba‐Machado",
+   "Francisco Javier Sanmartín",
    "Juan Antonio Moriana",
-   "Teresa Galán-Luque",
+   "Teresa Galán‐Luque",
    "Juan Manuel Machimbarrena"
   ],
   "published": "2026-11-05",
   "year": 2026,
-  "created": "2026-11-05",
+  "created": "2026-07-14",
   "first_seen": "2025-11-05",
-  "summary": "In this 1-group pretest-posttest pilot of WISEBOx (Wise Intervention for Adolescents Who Purchase Loot Boxes) with adolescents who had previously purchased loot boxes (N=38), fewer participants reported purchasing loot boxes at the 1-month posttest than in the year before baseline …",
+  "summary": "Unlabelled: In this 1-group pretest-posttest pilot of WISEBOx (Wise Intervention for Adolescents Who Purchase Loot Boxes) with adolescents who had previously purchased loot boxes (N=38), fewer participants reported purchasing loot boxes at the 1-month posttest than in the year before baseline …",
   "url": "https://doi.org/10.2196/87126",
-  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13738161/",
+  "oa_url": "https://doi.org/10.2196/87126",
   "sources": [
    "openalex",
    "pubmed"

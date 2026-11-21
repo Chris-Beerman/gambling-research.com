@@ -42,6 +42,51 @@
   "status_changed": null
  },
  {
+  "id": "osf:kt7xs",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Loneliness and risky behaviours in adolescents: a multilevel meta-analysis of domain-specific associations",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-18",
+  "last_updated": "2026-11-18",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "This systematic review and multilevel meta-analysis aims to estimate the magnitude and direction of the associations between perceived loneliness and risky behaviours among adolescents aged 10–17 years …",
+  "url": "https://osf.io/kt7xs/",
+  "registration_type": "Generalized Systematic Review Registration",
+  "authors": [
+   "Sebastián Rosas",
+   "stalin patricio songor illescas",
+   "Devis Geovanny Cedeno Mero",
+   "Wilson Alexander Zambrano Vélez",
+   "Harol Castillo Del Valle"
+  ],
+  "topics": [
+   "youth",
+   "comorbidity"
+  ],
+  "designs": [
+   "protocol",
+   "review"
+  ],
+  "first_seen": "2026-11-21",
+  "status_changed": null
+ },
+ {
   "id": "osf:ur2hf",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -17065,48 +17110,6 @@
   "status_changed": null
  },
  {
-  "id": "osf:ua6gx",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Viability of Online Gambling Disorder Screening: An Exploratory Study",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-03-13",
-  "last_updated": "2024-07-23",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "Public health screening day events promote awareness and treatment engagement for a diversity of disorders by exposing people to brief screening experiences and providing pertinent resources and referrals as needed …",
-  "url": "https://osf.io/ua6gx/",
-  "registration_type": "Open-Ended Registration",
-  "authors": [
-   "Heather Gray",
-   "Debi LaPlante",
-   "Caitlyn Matykiewicz",
-   "Sarah E Nelson"
-  ],
-  "topics": [
-   "online-gambling"
-  ],
-  "designs": [
-   "survey"
-  ],
-  "first_seen": "2023-03-13",
-  "status_changed": null
- },
- {
   "id": "osf:rf2pb",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -24806,42 +24809,6 @@
   "topics": [],
   "designs": [],
   "first_seen": "2021-10-18",
-  "status_changed": null
- },
- {
-  "id": "osf:3bqea",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Bayesian choice, mixed information, and gambling Experience....Addendum (March 14, 2023)",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-03-14",
-  "last_updated": "2022-02-11",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "In the original preregistration for this project, we inadvertently reverse-stated our Hypothesis 1b (and are only noticing it now because we are about to finally go through the data for analysis) …",
-  "url": "https://osf.io/3bqea/",
-  "registration_type": "OSF Preregistration",
-  "authors": [
-   "David L. Dickinson",
-   "Parker Reid"
-  ],
-  "topics": [],
-  "designs": [],
-  "first_seen": "2023-03-14",
   "status_changed": null
  },
  {

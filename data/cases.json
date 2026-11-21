@@ -1,5 +1,465 @@
 [
  {
+  "id": "cl-d-73242633",
+  "kind": "docket",
+  "case_name": "United States of America v. State Of New York",
+  "court": "District Court, S.D. New York",
+  "court_id": "nysd",
+  "court_citation": "S.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-04-24",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "1:26-cv-03404",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73242633/united-states-of-america-v-state-of-new-york/",
+  "snippet": "07:1 Personal Property; nature of suit: 950 Constitutional - State Statute",
+  "suit_nature": "950 Constitutional - State Statute",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "ORDER re: 186 EMERGENCY MOTION for Temporary Restraining Order (Renewed Motion Originally filed as Dkt. No. 118). filed by Commodity Futures",
+    "url": "https://www.courtlistener.com/docket/73242633/187/united-states-of-america-v-state-of-new-york/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "NOTICE of Supplemental Authority - 25-1892 - Kalshi v Martin - Opinion ECF 135 11-18-2026 re: 34 MOTION for Preliminary Injunction .. Docume",
+    "url": "https://www.courtlistener.com/docket/73242633/185/united-states-of-america-v-state-of-new-york/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
+  "id": "cl-d-73243156",
+  "kind": "docket",
+  "case_name": "State of Wisconsin v. Kalshi, Inc.",
+  "court": "District Court, W.D. Wisconsin",
+  "court_id": "wiwd",
+  "court_citation": "W.D. Wis.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-04-24",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "3:26-cv-00378",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73243156/state-of-wisconsin-v-kalshi-inc/",
+  "snippet": "28:1331 Fed. Question: Securities Violation; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "Notice of Supplemental Authority",
+    "url": "https://www.courtlistener.com/docket/73243156/89/state-of-wisconsin-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-10-16",
+    "description": "Notice of Supplemental Authority",
+    "url": "https://www.courtlistener.com/docket/73243156/88/state-of-wisconsin-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-09-29",
+    "description": "Notice of Supplemental Authority",
+    "url": "https://www.courtlistener.com/docket/73243156/87/state-of-wisconsin-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-09-22",
+    "description": "Notice of Supplemental Authority",
+    "url": "https://www.courtlistener.com/docket/73243156/86/state-of-wisconsin-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-16"
+ },
+ {
+  "id": "cl-d-68927898",
+  "kind": "docket",
+  "case_name": "Southern Ute Indian Tribe v. Polis",
+  "court": "District Court, D. Colorado",
+  "court_id": "cod",
+  "court_citation": "D. Colo.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2024-07-08",
+  "date_terminated": "2025-10-23",
+  "latest_activity": "2026-11-20",
+  "docket_number": "1:24-cv-01886",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/68927898/southern-ute-indian-tribe-v-polis/",
+  "snippet": "25:2701 - Indian Gaming Regulatory Act (IGRA); nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "Order on Motion to Withdraw as Attorney",
+    "url": "https://www.courtlistener.com/docket/68927898/80/southern-ute-indian-tribe-v-polis/"
+   },
+   {
+    "date": "2026-11-19",
+    "description": "Memorandum",
+    "url": ""
+   },
+   {
+    "date": "2026-11-19",
+    "description": "Withdraw as Attorney",
+    "url": "https://www.courtlistener.com/docket/68927898/78/southern-ute-indian-tribe-v-polis/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-20"
+ },
+ {
+  "id": "cl-d-73435998",
+  "kind": "docket",
+  "case_name": "South Carolina Gambling Recovery LLC v. Underdog Sports Holdings, Inc.",
+  "court": "District Court, D. South Carolina",
+  "court_id": "scd",
+  "court_citation": "D.S.C.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-02",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "8:26-cv-02182",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73435998/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/",
+  "snippet": "28:1332 Diversity-Account Receivable; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "Reply Not to a Motion",
+    "url": "https://www.courtlistener.com/docket/73435998/117/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+   },
+   {
+    "date": "2026-11-17",
+    "description": "Reply Not to a Motion",
+    "url": "https://www.courtlistener.com/docket/73435998/116/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+   },
+   {
+    "date": "2026-11-12",
+    "description": "Order",
+    "url": ""
+   },
+   {
+    "date": "2026-11-12",
+    "description": "TEXT ORDER: The Court has pending before it a Motion to Remand filed by Plaintiff and fifteen motions by various groups of Defendants asking",
+    "url": "https://www.courtlistener.com/docket/73435998/114/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+   },
+   {
+    "date": "2026-11-06",
+    "description": "SUPPLEMENT by South Carolina Gambling Recovery LLC to 59 MOTION to Remand to State Court, 72 Response in Opposition to Motion,,, Notice of S",
+    "url": "https://www.courtlistener.com/docket/73435998/113/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-16"
+ },
+ {
+  "id": "cl-d-75091330",
+  "kind": "docket",
+  "case_name": "Robinhood Derivatives, LLC v. Catherine L. Hanaway,.",
+  "court": "District Court, E.D. Missouri",
+  "court_id": "moed",
+  "court_citation": "E.D. Mo.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-11-09",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "4:26-cv-01932",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75091330/robinhood-derivatives-llc-v-catherine-l-hanaway/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 950 Constitutional - State Statute",
+  "suit_nature": "950 Constitutional - State Statute",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "Memorandum & Order",
+    "url": "https://www.courtlistener.com/docket/75091330/23/robinhood-derivatives-llc-v-catherine-l-hanaway/"
+   },
+   {
+    "date": "2026-11-16",
+    "description": "Order",
+    "url": "https://www.courtlistener.com/docket/75091330/20/robinhood-derivatives-llc-v-catherine-l-hanaway/"
+   },
+   {
+    "date": "2026-11-09",
+    "description": "COMPLAINT against defendant Missouri Attorney General with receipt number BMOEDC-12177600, in the amount of $405 Non-Jury Demand,, filed by ",
+    "url": "https://www.courtlistener.com/docket/75091330/1/robinhood-derivatives-llc-v-missouri-attorney-general/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "cl-d-75029907",
+  "kind": "docket",
+  "case_name": "QCX LLC v. Murrill",
+  "court": "District Court, E.D. Louisiana",
+  "court_id": "laed",
+  "court_citation": "E.D. La.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-27",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "2:26-cv-02482",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75029907/qcx-llc-v-murrill/",
+  "snippet": "07:0006(b) Federal Commodity Exchange Regulation; nature of suit: 950 Constitutional - State Statute",
+  "suit_nature": "950 Constitutional - State Statute",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "MOTION to Vacate Temporary Restraining Order by Gemini Space Station, Inc.. Motion(s) will be submitted on 12/16/2026",
+    "url": "https://www.courtlistener.com/docket/75029907/100/1/qcx-llc-v-murrill/"
+   },
+   {
+    "date": "2026-11-20",
+    "description": "Intervenor COMPLAINT filed by Kalshi Inc., Kalshi Klear LLC, Kalshiex LLC, Kalshi Klear Inc., Kalshi Trading LLC",
+    "url": "https://www.courtlistener.com/docket/75029907/105/qcx-llc-v-murrill/"
+   },
+   {
+    "date": "2026-11-20",
+    "description": "Minute Order. Proceedings held before Judge Lance M Africk: Status Conference held on 11/20/2026. ORDERED that all motions pertaining to the",
+    "url": "https://www.courtlistener.com/docket/75029907/102/qcx-llc-v-murrill/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "EXPARTE/CONSENT Ex Parte MOTION for Joinder in Plaintiffs' Motion for Temporary Restraining Order and Preliminary Injunction [ECF No. 27] by",
+    "url": "https://www.courtlistener.com/docket/75029907/73/qcx-llc-v-murrill/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "MOTION to Intervene as Plaintiffs by Kalshi Inc., Kalshi Klear Inc., Kalshi Klear LLC, Kalshi Trading LLC, Kalshiex LLC. Motion(s) referred ",
+    "url": "https://www.courtlistener.com/docket/75029907/71/qcx-llc-v-murrill/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "cl-d-73453634",
+  "kind": "docket",
+  "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
+  "court": "District Court, E.D. California",
+  "court_id": "caed",
+  "court_citation": "E.D. Cal.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-06-05",
+  "date_terminated": "2026-11-16",
+  "latest_activity": "2026-11-20",
+  "docket_number": "1:26-cv-04343",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/",
+  "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "Notice (Other)",
+    "url": "https://www.courtlistener.com/docket/73453634/77/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-11-19",
+    "description": "Appeal Processed to USCA",
+    "url": "https://www.courtlistener.com/docket/73453634/76/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-11-16",
+    "description": "JUDGMENT signed by District Judge Kirk E. Sherriff on 11/13/2026. CASE CLOSED. (Deputy Clerk CRM)",
+    "url": "https://www.courtlistener.com/docket/73453634/74/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-11-16",
+    "description": "Notice of Appeal",
+    "url": "https://www.courtlistener.com/docket/73453634/75/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   },
+   {
+    "date": "2026-11-13",
+    "description": "ORDER GRANTING UNOPPOSED ADMINSTRATIVE MOTION TO CLARIFY PRIOR ORDER (DKT. 66) signed by District Judge Kirk E. Sherriff on 11/13/2026. (gm)",
+    "url": "https://www.courtlistener.com/docket/73453634/73/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "cl-d-71042736",
+  "kind": "docket",
+  "case_name": "Kalshiex LLC v. John Martin",
+  "court": "Court of Appeals for the Fourth Circuit",
+  "court_id": "ca4",
+  "court_citation": "4th Cir.",
+  "court_level": "federal-appellate",
+  "court_level_label": "federal appellate",
+  "date_filed": "2025-08-06",
+  "date_terminated": "2026-11-18",
+  "latest_activity": "2026-11-20",
+  "docket_number": "25-1892",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/",
+  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
+  "suit_nature": "3950 Constitutionality of State Statutes",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "COURT ORDER filed granting Motion to extend filing time [137]. Number of days granted: 14. Any rehearing petition due 12/16/2026. Copies to ",
+    "url": "https://www.courtlistener.com/docket/71042736/138/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-11-19",
+    "description": "MOTION by Kalshiex LLC to extend filing time for petition for rehearing until December 16, 2026.. Date and method of service: 11/19/2026 ecf",
+    "url": "https://www.courtlistener.com/docket/71042736/137/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "PUBLISHED PER CURIAM OPINION filed. Originating case number: 1:25-cv-01283-ABA. Copies to all parties and the district court. [1002097352] [",
+    "url": "https://www.courtlistener.com/docket/71042736/135/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-30",
+    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch,",
+    "url": "https://www.courtlistener.com/docket/71042736/134/kalshiex-llc-v-john-martin/"
+   },
+   {
+    "date": "2026-10-26",
+    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by James J. Stakem, Maryland Lottery and Gaming Control Commission, Maryland Lottery and Gami",
+    "url": "https://www.courtlistener.com/docket/71042736/133/kalshiex-llc-v-john-martin/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "cl-d-75029832",
+  "kind": "docket",
+  "case_name": "Kalshiex LLC v. Hanaway",
+  "court": "District Court, E.D. Missouri",
+  "court_id": "moed",
+  "court_citation": "E.D. Mo.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-10-27",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "4:26-cv-01860",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75029832/kalshiex-llc-v-hanaway/",
+  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "MEMORANDUM AND ORDER...IT IS FURTHER ORDERED that the Court will hold a telephone conference with counsel in all four cases on Tuesday, Nove",
+    "url": "https://www.courtlistener.com/docket/75029832/37/kalshiex-llc-v-hanaway/"
+   },
+   {
+    "date": "2026-11-16",
+    "description": "MEMORANDUM AND ORDER... IT IS HEREBY ORDERED that all parties in the following cases: Ludlow Exchange LLC d/b/a/NOVIG v. Hanaway et al., 4:2",
+    "url": "https://www.courtlistener.com/docket/75029832/30/kalshiex-llc-v-hanaway/"
+   },
+   {
+    "date": "2026-11-11",
+    "description": "ANSWER to 1 Complaint,,, COUNTERCLAIM against plaintiff Kalshiex LLC by Kevin Spaulding, Missouri Gaming Commission, Kevin Cantwell, Roger S",
+    "url": "https://www.courtlistener.com/docket/75029832/26/kalshiex-llc-v-hanaway/"
+   },
+   {
+    "date": "2026-10-27",
+    "description": "COMPLAINT against defendant Kevin Burkoff Cantwell, Sam K. Gladney, Catherine Hanaway, Michael A. Leara, Missouri Gaming Commission, Kevin S",
+    "url": "https://www.courtlistener.com/docket/75029832/1/kalshiex-llc-v-hanaway/"
+   },
+   {
+    "date": "2026-10-27",
+    "description": "DISCLOSURE STATEMENT by Kalshiex LLC, Kalshi Inc... (Simmons, David)",
+    "url": "https://www.courtlistener.com/docket/75029832/2/kalshiex-llc-v-hanaway/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "cl-d-64908240",
+  "kind": "docket",
+  "case_name": "In RE Lottery.com, Inc. Securities Litigation",
+  "court": "District Court, S.D. New York",
+  "court_id": "nysd",
+  "court_citation": "S.D.N.Y.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2022-08-19",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "1:22-cv-07111",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/64908240/in-re-lotterycom-inc-securities-litigation/",
+  "snippet": "15:78m(a) Securities Exchange Act; nature of suit: 850 Securities/Commodities",
+  "suit_nature": "850 Securities/Commodities",
+  "documents": [
+   {
+    "date": "2026-11-20",
+    "description": "Notice of Appearance",
+    "url": "https://www.courtlistener.com/docket/64908240/284/in-re-lotterycom-inc-securities-litigation/"
+   },
+   {
+    "date": "2026-11-19",
+    "description": "Miscellaneous Relief",
+    "url": "https://www.courtlistener.com/docket/64908240/283/in-re-lotterycom-inc-securities-litigation/"
+   },
+   {
+    "date": "2026-11-04",
+    "description": "Response in Opposition to Motion",
+    "url": "https://www.courtlistener.com/docket/64908240/281/in-re-lotterycom-inc-securities-litigation/"
+   },
+   {
+    "date": "2026-11-04",
+    "description": "Order on Motion for Leave to File Document",
+    "url": "https://www.courtlistener.com/docket/64908240/282/in-re-lotterycom-inc-securities-litigation/"
+   },
+   {
+    "date": "2026-11-03",
+    "description": "Leave to File Document",
+    "url": "https://www.courtlistener.com/docket/64908240/280/in-re-lotterycom-inc-securities-litigation/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-10-14"
+ },
+ {
   "id": "cl-d-70004718",
   "kind": "docket",
   "case_name": "Hills v. Treasure Chest Casino, L.L.C.",
@@ -39,87 +499,48 @@
   "first_seen": "2026-11-20"
  },
  {
-  "id": "cl-d-68927898",
+  "id": "cl-d-68451952",
   "kind": "docket",
-  "case_name": "Southern Ute Indian Tribe v. Polis",
-  "court": "District Court, D. Colorado",
-  "court_id": "cod",
-  "court_citation": "D. Colo.",
+  "case_name": "Cayuga Nation v. O'Dwyer",
+  "court": "District Court, N.D. New York",
+  "court_id": "nynd",
+  "court_citation": "N.D.N.Y.",
   "court_level": "federal-district",
   "court_level_label": "federal district",
-  "date_filed": "2024-07-08",
-  "date_terminated": "2025-10-23",
-  "latest_activity": "2026-11-19",
-  "docket_number": "1:24-cv-01886",
+  "date_filed": "2024-04-18",
+  "date_terminated": null,
+  "latest_activity": "2026-11-20",
+  "docket_number": "5:24-cv-00537",
   "citation": "",
   "status": "",
-  "url": "https://www.courtlistener.com/docket/68927898/southern-ute-indian-tribe-v-polis/",
-  "snippet": "25:2701 - Indian Gaming Regulatory Act (IGRA); nature of suit: 890 Other Statutory Actions",
+  "url": "https://www.courtlistener.com/docket/68451952/cayuga-nation-v-odwyer/",
+  "snippet": "25:2701 Indian Gaming Regulatory Act (IGRA); nature of suit: 890 Other Statutory Actions",
   "suit_nature": "890 Other Statutory Actions",
   "documents": [
    {
-    "date": "2026-11-19",
-    "description": "Memorandum",
+    "date": "2026-11-20",
+    "description": "Order on Letter Request",
     "url": ""
    },
    {
     "date": "2026-11-19",
-    "description": "Withdraw as Attorney",
-    "url": "https://www.courtlistener.com/docket/68927898/78/southern-ute-indian-tribe-v-polis/"
+    "description": "Letter Request/Motion",
+    "url": "https://www.courtlistener.com/docket/68451952/110/cayuga-nation-v-odwyer/"
+   },
+   {
+    "date": "2026-11-16",
+    "description": "Protective Order",
+    "url": "https://www.courtlistener.com/docket/68451952/109/cayuga-nation-v-odwyer/"
+   },
+   {
+    "date": "2026-11-10",
+    "description": "Order AND ~Util - Add and Terminate Attorneys",
+    "url": "https://www.courtlistener.com/docket/68451952/107/cayuga-nation-v-odwyer/"
    }
   ],
   "cite_count": 0,
   "topics": [],
-  "first_seen": "2026-11-20"
- },
- {
-  "id": "cl-d-73453634",
-  "kind": "docket",
-  "case_name": "Picayune Rancheria of the Chukchansi Indians v. The Chair of the National Indian Gaming Commission",
-  "court": "District Court, E.D. California",
-  "court_id": "caed",
-  "court_citation": "E.D. Cal.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-06-05",
-  "date_terminated": "2026-11-16",
-  "latest_activity": "2026-11-19",
-  "docket_number": "1:26-cv-04343",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73453634/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/",
-  "snippet": "46:1156 Administrative Procedure Act; nature of suit: Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-  "suit_nature": "Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision",
-  "documents": [
-   {
-    "date": "2026-11-19",
-    "description": "Appeal Processed to USCA",
-    "url": "https://www.courtlistener.com/docket/73453634/76/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-11-16",
-    "description": "JUDGMENT signed by District Judge Kirk E. Sherriff on 11/13/2026. CASE CLOSED. (Deputy Clerk CRM)",
-    "url": "https://www.courtlistener.com/docket/73453634/74/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-11-16",
-    "description": "Notice of Appeal",
-    "url": "https://www.courtlistener.com/docket/73453634/75/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-11-13",
-    "description": "ORDER GRANTING UNOPPOSED ADMINSTRATIVE MOTION TO CLARIFY PRIOR ORDER (DKT. 66) signed by District Judge Kirk E. Sherriff on 11/13/2026. (gm)",
-    "url": "https://www.courtlistener.com/docket/73453634/73/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   },
-   {
-    "date": "2026-11-11",
-    "description": "Miscellaneous Relief",
-    "url": "https://www.courtlistener.com/docket/73453634/72/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-10-13"
+  "first_seen": "2026-11-11"
  },
  {
   "id": "cl-d-73700030",
@@ -131,7 +552,7 @@
   "court_level": "federal-district",
   "court_level_label": "federal district",
   "date_filed": "2026-07-31",
-  "date_terminated": null,
+  "date_terminated": "2026-11-20",
   "latest_activity": "2026-11-19",
   "docket_number": "1:26-cv-06550",
   "citation": "",
@@ -161,106 +582,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-11-02"
- },
- {
-  "id": "cl-d-71042736",
-  "kind": "docket",
-  "case_name": "Kalshiex LLC v. John Martin",
-  "court": "Court of Appeals for the Fourth Circuit",
-  "court_id": "ca4",
-  "court_citation": "4th Cir.",
-  "court_level": "federal-appellate",
-  "court_level_label": "federal appellate",
-  "date_filed": "2025-08-06",
-  "date_terminated": "2026-11-18",
-  "latest_activity": "2026-11-19",
-  "docket_number": "25-1892",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/",
-  "snippet": "; nature of suit: 3950 Constitutionality of State Statutes",
-  "suit_nature": "3950 Constitutionality of State Statutes",
-  "documents": [
-   {
-    "date": "2026-11-19",
-    "description": "MOTION by Kalshiex LLC to extend filing time for petition for rehearing until December 16, 2026.. Date and method of service: 11/19/2026 ecf",
-    "url": "https://www.courtlistener.com/docket/71042736/137/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-11-18",
-    "description": "PUBLISHED PER CURIAM OPINION filed. Originating case number: 1:25-cv-01283-ABA. Copies to all parties and the district court. [1002097352] [",
-    "url": "https://www.courtlistener.com/docket/71042736/135/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-30",
-    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch,",
-    "url": "https://www.courtlistener.com/docket/71042736/134/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-26",
-    "description": "SUPPLEMENTAL AUTHORITIES (FRAP 28(j)) response by James J. Stakem, Maryland Lottery and Gaming Control Commission, Maryland Lottery and Gami",
-    "url": "https://www.courtlistener.com/docket/71042736/133/kalshiex-llc-v-john-martin/"
-   },
-   {
-    "date": "2026-10-14",
-    "description": "SUPPLEMENTAL AUTHORITIES by Ade Adebisi, Anthony G. Brown, Everett D. Browning, Sr., Diane Croghan, George L. Doetsch, Jr., Michael Eaton, H",
-    "url": "https://www.courtlistener.com/docket/71042736/132/kalshiex-llc-v-john-martin/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-14"
- },
- {
-  "id": "cl-d-64908240",
-  "kind": "docket",
-  "case_name": "In RE Lottery.com, Inc. Securities Litigation",
-  "court": "District Court, S.D. New York",
-  "court_id": "nysd",
-  "court_citation": "S.D.N.Y.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2022-08-19",
-  "date_terminated": null,
-  "latest_activity": "2026-11-19",
-  "docket_number": "1:22-cv-07111",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/64908240/in-re-lotterycom-inc-securities-litigation/",
-  "snippet": "15:78m(a) Securities Exchange Act; nature of suit: 850 Securities/Commodities",
-  "suit_nature": "850 Securities/Commodities",
-  "documents": [
-   {
-    "date": "2026-11-19",
-    "description": "Miscellaneous Relief",
-    "url": "https://www.courtlistener.com/docket/64908240/283/in-re-lotterycom-inc-securities-litigation/"
-   },
-   {
-    "date": "2026-11-04",
-    "description": "Response in Opposition to Motion",
-    "url": "https://www.courtlistener.com/docket/64908240/281/in-re-lotterycom-inc-securities-litigation/"
-   },
-   {
-    "date": "2026-11-04",
-    "description": "Order on Motion for Leave to File Document",
-    "url": "https://www.courtlistener.com/docket/64908240/282/in-re-lotterycom-inc-securities-litigation/"
-   },
-   {
-    "date": "2026-11-03",
-    "description": "Leave to File Document",
-    "url": "https://www.courtlistener.com/docket/64908240/280/in-re-lotterycom-inc-securities-litigation/"
-   },
-   {
-    "date": "2026-10-14",
-    "description": "Notice to Court Regarding Proposed Order",
-    "url": ""
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-10-14"
  },
  {
   "id": "cl-d-71532123",
@@ -298,45 +619,6 @@
    "treatment"
   ],
   "first_seen": "2026-11-20"
- },
- {
-  "id": "cl-d-68451952",
-  "kind": "docket",
-  "case_name": "Cayuga Nation v. O'Dwyer",
-  "court": "District Court, N.D. New York",
-  "court_id": "nynd",
-  "court_citation": "N.D.N.Y.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2024-04-18",
-  "date_terminated": null,
-  "latest_activity": "2026-11-19",
-  "docket_number": "5:24-cv-00537",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/68451952/cayuga-nation-v-odwyer/",
-  "snippet": "25:2701 Indian Gaming Regulatory Act (IGRA); nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-11-19",
-    "description": "Letter Request/Motion",
-    "url": "https://www.courtlistener.com/docket/68451952/110/cayuga-nation-v-odwyer/"
-   },
-   {
-    "date": "2026-11-16",
-    "description": "Protective Order",
-    "url": "https://www.courtlistener.com/docket/68451952/109/cayuga-nation-v-odwyer/"
-   },
-   {
-    "date": "2026-11-10",
-    "description": "Order AND ~Util - Add and Terminate Attorneys",
-    "url": "https://www.courtlistener.com/docket/68451952/107/cayuga-nation-v-odwyer/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-11-11"
  },
  {
   "id": "cl-d-70884560",
@@ -388,57 +670,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-14"
- },
- {
-  "id": "cl-d-75029907",
-  "kind": "docket",
-  "case_name": "QCX LLC v. Murrill",
-  "court": "District Court, E.D. Louisiana",
-  "court_id": "laed",
-  "court_citation": "E.D. La.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-10-27",
-  "date_terminated": null,
-  "latest_activity": "2026-11-18",
-  "docket_number": "2:26-cv-02482",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/75029907/qcx-llc-v-murrill/",
-  "snippet": "07:0006(b) Federal Commodity Exchange Regulation; nature of suit: 950 Constitutional - State Statute",
-  "suit_nature": "950 Constitutional - State Statute",
-  "documents": [
-   {
-    "date": "2026-11-18",
-    "description": "EXPARTE/CONSENT Ex Parte MOTION for Joinder in Plaintiffs' Motion for Temporary Restraining Order and Preliminary Injunction [ECF No. 27] by",
-    "url": "https://www.courtlistener.com/docket/75029907/73/qcx-llc-v-murrill/"
-   },
-   {
-    "date": "2026-11-18",
-    "description": "MOTION to Intervene as Plaintiffs by Kalshi Inc., Kalshi Klear Inc., Kalshi Klear LLC, Kalshi Trading LLC, Kalshiex LLC. Motion(s) referred ",
-    "url": "https://www.courtlistener.com/docket/75029907/71/qcx-llc-v-murrill/"
-   },
-   {
-    "date": "2026-11-18",
-    "description": "EXPARTE/CONSENT Ex Parte MOTION to Expedite Consideration of Kalshi Intervenor- Plaintiffs' Motion to Intervene as Plaintiffs by Kalshi Inc.",
-    "url": "https://www.courtlistener.com/docket/75029907/72/qcx-llc-v-murrill/"
-   },
-   {
-    "date": "2026-10-27",
-    "description": "Statement of Corporate Disclosure",
-    "url": "https://www.courtlistener.com/docket/75029907/2/qcx-llc-dba-polymarket-us-v-murrill/"
-   },
-   {
-    "date": "2026-10-27",
-    "description": "Complaint",
-    "url": "https://www.courtlistener.com/docket/75029907/1/qcx-llc-dba-polymarket-us-v-murrill/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-28"
  },
  {
   "id": "cl-d-74992301",
@@ -607,55 +838,6 @@
   "first_seen": "2026-11-19"
  },
  {
-  "id": "cl-d-73435998",
-  "kind": "docket",
-  "case_name": "South Carolina Gambling Recovery LLC v. Underdog Sports Holdings, Inc.",
-  "court": "District Court, D. South Carolina",
-  "court_id": "scd",
-  "court_citation": "D.S.C.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-06-02",
-  "date_terminated": null,
-  "latest_activity": "2026-11-17",
-  "docket_number": "8:26-cv-02182",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73435998/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/",
-  "snippet": "28:1332 Diversity-Account Receivable; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-11-17",
-    "description": "Reply Not to a Motion",
-    "url": "https://www.courtlistener.com/docket/73435998/116/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-   },
-   {
-    "date": "2026-11-12",
-    "description": "Order",
-    "url": ""
-   },
-   {
-    "date": "2026-11-12",
-    "description": "TEXT ORDER: The Court has pending before it a Motion to Remand filed by Plaintiff and fifteen motions by various groups of Defendants asking",
-    "url": "https://www.courtlistener.com/docket/73435998/114/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-   },
-   {
-    "date": "2026-11-06",
-    "description": "SUPPLEMENT by South Carolina Gambling Recovery LLC to 59 MOTION to Remand to State Court, 72 Response in Opposition to Motion,,, Notice of S",
-    "url": "https://www.courtlistener.com/docket/73435998/113/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-   },
-   {
-    "date": "2026-10-23",
-    "description": "Reply Not to a Motion",
-    "url": "https://www.courtlistener.com/docket/73435998/112/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-10-16"
- },
- {
   "id": "cl-d-75119504",
   "kind": "docket",
   "case_name": "Louisiana State v. Kalshi Inc.",
@@ -746,86 +928,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-25"
- },
- {
-  "id": "cl-d-75091330",
-  "kind": "docket",
-  "case_name": "Robinhood Derivatives, LLC v. Catherine L. Hanaway,.",
-  "court": "District Court, E.D. Missouri",
-  "court_id": "moed",
-  "court_citation": "E.D. Mo.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-11-09",
-  "date_terminated": null,
-  "latest_activity": "2026-11-16",
-  "docket_number": "4:26-cv-01932",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/75091330/robinhood-derivatives-llc-v-catherine-l-hanaway/",
-  "snippet": "28:1331 Fed. Question; nature of suit: 950 Constitutional - State Statute",
-  "suit_nature": "950 Constitutional - State Statute",
-  "documents": [
-   {
-    "date": "2026-11-16",
-    "description": "Order",
-    "url": "https://www.courtlistener.com/docket/75091330/20/robinhood-derivatives-llc-v-catherine-l-hanaway/"
-   },
-   {
-    "date": "2026-11-09",
-    "description": "COMPLAINT against defendant Missouri Attorney General with receipt number BMOEDC-12177600, in the amount of $405 Non-Jury Demand,, filed by ",
-    "url": "https://www.courtlistener.com/docket/75091330/1/robinhood-derivatives-llc-v-missouri-attorney-general/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [],
-  "first_seen": "2026-11-10"
- },
- {
-  "id": "cl-d-75029832",
-  "kind": "docket",
-  "case_name": "Kalshiex LLC v. Hanaway",
-  "court": "District Court, E.D. Missouri",
-  "court_id": "moed",
-  "court_citation": "E.D. Mo.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-10-27",
-  "date_terminated": null,
-  "latest_activity": "2026-11-16",
-  "docket_number": "4:26-cv-01860",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/75029832/kalshiex-llc-v-hanaway/",
-  "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-11-16",
-    "description": "MEMORANDUM AND ORDER... IT IS HEREBY ORDERED that all parties in the following cases: Ludlow Exchange LLC d/b/a/NOVIG v. Hanaway et al., 4:2",
-    "url": "https://www.courtlistener.com/docket/75029832/30/kalshiex-llc-v-hanaway/"
-   },
-   {
-    "date": "2026-11-11",
-    "description": "ANSWER to 1 Complaint,,, COUNTERCLAIM against plaintiff Kalshiex LLC by Kevin Spaulding, Missouri Gaming Commission, Kevin Cantwell, Roger S",
-    "url": "https://www.courtlistener.com/docket/75029832/26/kalshiex-llc-v-hanaway/"
-   },
-   {
-    "date": "2026-10-27",
-    "description": "COMPLAINT against defendant Kevin Burkoff Cantwell, Sam K. Gladney, Catherine Hanaway, Michael A. Leara, Missouri Gaming Commission, Kevin S",
-    "url": "https://www.courtlistener.com/docket/75029832/1/kalshiex-llc-v-hanaway/"
-   },
-   {
-    "date": "2026-10-27",
-    "description": "DISCLOSURE STATEMENT by Kalshiex LLC, Kalshi Inc... (Simmons, David)",
-    "url": "https://www.courtlistener.com/docket/75029832/2/kalshiex-llc-v-hanaway/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-10-29"
  },
  {
   "id": "cl-d-73414398",
@@ -2357,47 +2459,6 @@
   "topics": [
    "prediction-markets",
    "industry"
-  ],
-  "first_seen": "2026-10-16"
- },
- {
-  "id": "cl-d-73243156",
-  "kind": "docket",
-  "case_name": "State of Wisconsin v. Kalshi, Inc.",
-  "court": "District Court, W.D. Wisconsin",
-  "court_id": "wiwd",
-  "court_citation": "W.D. Wis.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-04-24",
-  "date_terminated": null,
-  "latest_activity": "2026-10-16",
-  "docket_number": "3:26-cv-00378",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/73243156/state-of-wisconsin-v-kalshi-inc/",
-  "snippet": "28:1331 Fed. Question: Securities Violation; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-10-16",
-    "description": "Notice of Supplemental Authority",
-    "url": "https://www.courtlistener.com/docket/73243156/88/state-of-wisconsin-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-09-29",
-    "description": "Notice of Supplemental Authority",
-    "url": "https://www.courtlistener.com/docket/73243156/87/state-of-wisconsin-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-09-22",
-    "description": "Notice of Supplemental Authority",
-    "url": "https://www.courtlistener.com/docket/73243156/86/state-of-wisconsin-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
   ],
   "first_seen": "2026-10-16"
  },
