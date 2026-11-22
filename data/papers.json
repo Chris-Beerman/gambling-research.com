@@ -1,5 +1,49 @@
 [
  {
+  "id": "doi:10.1159/ear/acrag021",
+  "doi": "10.1159/ear/acrag021",
+  "pmid": "43066659",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Co-occurrence in gambling behaviours and experience of harms within cohabiting couples: Cross-sectional evidence from health survey data",
+  "journal": "European Addiction Research",
+  "authors": [
+   "Sarah Tipping",
+   "Heather Wardle"
+  ],
+  "published": "2026-11-21",
+  "year": 2026,
+  "created": "2026-11-21",
+  "first_seen": "2026-11-22",
+  "summary": "This paper presents evidence from an exploratory analysis on the co-occurrence of gambling behaviour and problem gambling severity within cohabiting couples. Whilst such co-occurrence has been examined across other behaviours, such as substance and alcohol misuse, similar evidence for gambling is nascent …",
+  "url": "https://doi.org/10.1159/ear/acrag021",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "comorbidity",
+   "families",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "GB"
+  ],
+  "setting_regions": [
+   "uk-ireland"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1007/s42786-026-00066-9",
   "doi": "10.1007/s42786-026-00066-9",
   "pmid": null,
@@ -311,7 +355,7 @@
  {
   "id": "doi:10.1016/j.addbeh.2026.108916",
   "doi": "10.1016/j.addbeh.2026.108916",
-  "pmid": null,
+  "pmid": "43067258",
   "pmcid": null,
   "openalex": "W7236245387",
   "title": "Latent profiles of addictive-like behaviors: a person-centered analysis of risk and protective factors among adolescents",
@@ -319,16 +363,17 @@
   "authors": [
    "Yaniv Efrati"
   ],
-  "published": "2026-11-01",
+  "published": "2026-11-18",
   "year": 2026,
-  "created": "2026-11-19",
+  "created": "2026-11-21",
   "first_seen": "2026-11-21",
   "summary": "Addictive-like behaviors are common during adolescence and are associated with a broad range of emotional, behavioral, and social outcomes …",
   "url": "https://doi.org/10.1016/j.addbeh.2026.108916",
   "oa_url": "https://doi.org/10.1016/j.addbeh.2026.108916",
   "sources": [
    "feed:addictive-behaviors",
-   "openalex"
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -5887,12 +5932,8 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "high",
   "retracted": false

@@ -5520,7 +5520,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/ak/bills/34/SB194/",
-  "source_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB194",
+  "source_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB194#tab5_4",
   "topics": [
    "sports-betting",
    "policy"
@@ -19051,7 +19051,7 @@
   "stage": "passed-one",
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/mo/bills/2025/HB970/",
-  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB970&year=2025&code=R&style=new",
+  "source_url": "https://house.mo.gov/billactions.aspx?bill=HB970&year=2025&code=R",
   "topics": [
    "lottery",
    "policy"
@@ -23174,7 +23174,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-28",
+  "updated": "2026-11-21",
   "first_seen": "2025-01-29",
   "stage_changed": null
  },
