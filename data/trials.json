@@ -1,5 +1,47 @@
 [
  {
+  "id": "osf:zhxym",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Predicting Premature Termination: The Role of Pre-Treatment Expectations in Psychotherapy Dropout",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-22",
+  "last_updated": "2026-11-22",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Premature termination (dropout) in psychotherapy is a widespread and significant challenge. Practicing clinicians estimate a dropout rate of 8.89%, which they primarily attribute to client dissatisfaction with therapeutic interventions (Kullgard et al., 2022) …",
+  "url": "https://osf.io/zhxym/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Reut Machluf-Ruttner",
+   "Eran Bar-Kalifa",
+   "Gary Diamond",
+   "Gideon Anholt",
+   "Golan Shahar"
+  ],
+  "topics": [
+   "treatment",
+   "comorbidity"
+  ],
+  "designs": [],
+  "first_seen": "2026-11-23",
+  "status_changed": null
+ },
+ {
   "id": "osf:gvyku",
   "registry": "osf",
   "registry_label": "OSF Registries",
@@ -39,6 +81,48 @@
    "longitudinal"
   ],
   "first_seen": "2026-11-19",
+  "status_changed": null
+ },
+ {
+  "id": "osf:np94f",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Betting reaches Brazil's public mental health services: a meta-analysis of state-level time series of care-seeking for gambling disorder in community psychosocial care centres (CAPS), 2018–2025",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-17",
+  "last_updated": "2026-11-19",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Online sports betting expanded rapidly in Brazil after its authorisation in 2018 and regulation in 2023–2025, but it is unknown how this has reached the public mental health system …",
+  "url": "https://osf.io/np94f/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "renan moreira de araújo"
+  ],
+  "topics": [
+   "sports-betting",
+   "policy",
+   "comorbidity"
+  ],
+  "designs": [
+   "longitudinal",
+   "behavioral-data"
+  ],
+  "first_seen": "2026-11-23",
   "status_changed": null
  },
  {
@@ -9337,46 +9421,6 @@
    "survey"
   ],
   "first_seen": "2024-01-23",
-  "status_changed": null
- },
- {
-  "id": "osf:v9gqw",
-  "registry": "osf",
-  "registry_label": "OSF Registries",
-  "kind": "registration",
-  "title": "Identifying Risks and Ethical Considerations of AI and Machine Learning in Gambling: A Grounded Theory Study",
-  "status": "registered",
-  "study_type": "",
-  "phases": [],
-  "enrollment": null,
-  "conditions": [],
-  "interventions": [],
-  "sponsor": "",
-  "sponsor_class": "",
-  "collaborators": [],
-  "countries": [],
-  "country_names": [],
-  "regions": [],
-  "start_date": null,
-  "completion_date": null,
-  "first_posted": "2023-04-04",
-  "last_updated": "2025-09-23",
-  "results_posted": false,
-  "results_date": null,
-  "summary": "A qualitative research study to explore AI and machine learning applications in the gambling field and develop an understanding of the associated risks and ethical considerations …",
-  "url": "https://osf.io/v9gqw/",
-  "registration_type": "Qualitative Preregistration",
-  "authors": [
-   "Kasra Ghaharian",
-   "Nasim Binesh",
-   "Brett Abarbanel",
-   "Lukasz Golab"
-  ],
-  "topics": [],
-  "designs": [
-   "qualitative"
-  ],
-  "first_seen": "2023-04-04",
   "status_changed": null
  },
  {

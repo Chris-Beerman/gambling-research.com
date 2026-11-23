@@ -1,8 +1,31 @@
 [
  {
+  "id": "cl-o-11069047",
+  "kind": "opinion",
+  "case_name": "State v. Smith",
+  "court": "Ohio Court of Appeals",
+  "court_id": "ohioctapp",
+  "court_citation": "Ohio Ct. App.",
+  "court_level": "state-appellate",
+  "court_level_label": "state appellate",
+  "date_filed": "2026-11-23",
+  "date_terminated": null,
+  "latest_activity": "2026-11-23",
+  "docket_number": "25CA012333",
+  "citation": "2026 Ohio 4644",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11069047/state-v-smith/",
+  "snippet": "pay several bills. Evidence showed that he had a gambling problem and, at the time, owed more than $8,400",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-23"
+ },
+ {
   "id": "cl-d-73242633",
   "kind": "docket",
-  "case_name": "United States v. State Of New York",
+  "case_name": "United States of America v. State Of New York",
   "court": "District Court, S.D. New York",
   "court_id": "nysd",
   "court_citation": "S.D.N.Y.",
@@ -14,7 +37,7 @@
   "docket_number": "1:26-cv-03404",
   "citation": "",
   "status": "",
-  "url": "https://www.courtlistener.com/docket/73242633/united-states-v-state-of-new-york/",
+  "url": "https://www.courtlistener.com/docket/73242633/united-states-of-america-v-state-of-new-york/",
   "snippet": "07:1 Personal Property; nature of suit: 950 Constitutional - State Statute",
   "suit_nature": "950 Constitutional - State Statute",
   "documents": [
@@ -234,13 +257,13 @@
    },
    {
     "date": "2026-11-20",
-    "description": "Minute Order. Proceedings held before Judge Lance M Africk: Status Conference held on 11/20/2026. ORDERED that all motions pertaining to the",
-    "url": "https://www.courtlistener.com/docket/75029907/102/qcx-llc-v-murrill/"
+    "description": "Intervenor COMPLAINT filed by Kalshi Inc., Kalshi Klear LLC, Kalshiex LLC, Kalshi Klear Inc., Kalshi Trading LLC",
+    "url": "https://www.courtlistener.com/docket/75029907/105/qcx-llc-v-murrill/"
    },
    {
     "date": "2026-11-20",
-    "description": "Intervenor COMPLAINT filed by Kalshi Inc., Kalshi Klear LLC, Kalshiex LLC, Kalshi Klear Inc., Kalshi Trading LLC",
-    "url": "https://www.courtlistener.com/docket/75029907/105/qcx-llc-v-murrill/"
+    "description": "Minute Order. Proceedings held before Judge Lance M Africk: Status Conference held on 11/20/2026. ORDERED that all motions pertaining to the",
+    "url": "https://www.courtlistener.com/docket/75029907/102/qcx-llc-v-murrill/"
    },
    {
     "date": "2026-11-18",
@@ -290,13 +313,13 @@
    },
    {
     "date": "2026-11-16",
-    "description": "JUDGMENT signed by District Judge Kirk E. Sherriff on 11/13/2026. CASE CLOSED. (Deputy Clerk CRM)",
-    "url": "https://www.courtlistener.com/docket/73453634/74/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    "description": "Notice of Appeal",
+    "url": "https://www.courtlistener.com/docket/73453634/75/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
    },
    {
     "date": "2026-11-16",
-    "description": "Notice of Appeal",
-    "url": "https://www.courtlistener.com/docket/73453634/75/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
+    "description": "JUDGMENT signed by District Judge Kirk E. Sherriff on 11/13/2026. CASE CLOSED. (Deputy Clerk CRM)",
+    "url": "https://www.courtlistener.com/docket/73453634/74/picayune-rancheria-of-the-chukchansi-indians-v-the-chair-of-the-national/"
    },
    {
     "date": "2026-11-13",

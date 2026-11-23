@@ -1,12 +1,12 @@
 {
- "started": "2026-11-22T14:30:14+00:00",
+ "started": "2026-11-23T18:00:01+00:00",
  "mode": "nightly",
  "sources": [
   {
    "id": "pubmed",
    "kind": "papers",
    "ok": true,
-   "items": 40,
+   "items": 37,
    "error": null,
    "warning": null
   },
@@ -14,7 +14,7 @@
    "id": "openalex",
    "kind": "papers",
    "ok": true,
-   "items": 204,
+   "items": 190,
    "error": null,
    "warning": null
   },
@@ -22,7 +22,7 @@
    "id": "crossref",
    "kind": "papers",
    "ok": true,
-   "items": 22,
+   "items": 23,
    "error": null,
    "warning": null
   },
@@ -30,7 +30,7 @@
    "id": "feed:igs",
    "kind": "papers",
    "ok": true,
-   "items": 23,
+   "items": 24,
    "error": null,
    "warning": null
   },
@@ -62,7 +62,7 @@
    "id": "feed:addictive-behaviors",
    "kind": "papers",
    "ok": true,
-   "items": 74,
+   "items": 75,
    "error": null,
    "warning": null
   },
@@ -214,7 +214,7 @@
    "id": "news:gnews-problem-gambling",
    "kind": "news",
    "ok": true,
-   "items": 56,
+   "items": 65,
    "error": null,
    "warning": null
   },
@@ -222,7 +222,7 @@
    "id": "news:gnews-betting-law",
    "kind": "news",
    "ok": true,
-   "items": 59,
+   "items": 49,
    "error": null,
    "warning": null
   },
@@ -230,7 +230,7 @@
    "id": "news:gnews-prediction-markets",
    "kind": "news",
    "ok": true,
-   "items": 90,
+   "items": 100,
    "error": null,
    "warning": null
   },
@@ -238,7 +238,7 @@
    "id": "news:gnews-self-exclusion",
    "kind": "news",
    "ok": true,
-   "items": 34,
+   "items": 37,
    "error": null,
    "warning": null
   },
@@ -261,16 +261,16 @@
   {
    "id": "trials:osf",
    "kind": "trials",
-   "ok": false,
-   "items": 0,
-   "error": "RuntimeError: GET failed after 3 tries: https://api.osf.io/v2/registrations/: HTTPSConnectionPool(host='api.osf.io', port=443): Read timed out. (read timeout=90)",
+   "ok": true,
+   "items": 664,
+   "error": null,
    "warning": null
   },
   {
    "id": "bills:openstates",
    "kind": "bills",
    "ok": true,
-   "items": 417,
+   "items": 419,
    "error": null,
    "warning": null
   },
@@ -286,53 +286,63 @@
    "id": "courts:courtlistener",
    "kind": "cases",
    "ok": true,
-   "items": 78,
+   "items": 79,
    "error": null,
    "warning": null
   }
  ],
  "rebuild": null,
  "papers": {
-  "raw": 720,
-  "groups": 668,
-  "added": 1,
-  "updated": 216,
-  "dropped_irrelevant": 451,
+  "raw": 706,
+  "groups": 654,
+  "added": 5,
+  "updated": 208,
+  "dropped_irrelevant": 441,
   "removed": 0,
-  "total": 8489
+  "total": 8494
  },
  "news": {
-  "raw": 484,
-  "added": 98,
-  "dropped_irrelevant": 116,
-  "total": 2229
+  "raw": 496,
+  "added": 147,
+  "dropped_irrelevant": 125,
+  "total": 2272
  },
  "trials": {
-  "raw": 245,
-  "added": 0,
-  "updated": 176,
-  "dropped_irrelevant": 68,
-  "removed": 0,
-  "total": 728
+  "raw": 909,
+  "added": 2,
+  "updated": 719,
+  "dropped_irrelevant": 187,
+  "removed": 1,
+  "total": 729
  },
  "bills": {
-  "raw": 434,
-  "added": 0,
-  "updated": 87,
-  "dropped_irrelevant": 347,
-  "total": 726
+  "raw": 436,
+  "added": 3,
+  "updated": 89,
+  "dropped_irrelevant": 344,
+  "total": 729
  },
  "cases": {
-  "raw": 78,
-  "added": 0,
-  "updated": 13,
-  "dropped_irrelevant": 65,
-  "total": 107
+  "raw": 79,
+  "added": 1,
+  "updated": 12,
+  "dropped_irrelevant": 66,
+  "total": 108
  },
- "finished": "2026-11-22T14:43:24+00:00",
- "papers_total": 8489,
- "news_total": 2229,
+ "finished": "2026-11-23T18:10:17+00:00",
+ "papers_total": 8494,
+ "news_total": 2272,
  "history": [
+  {
+   "finished": "2026-11-23T18:10:17+00:00",
+   "mode": "nightly",
+   "added": 5,
+   "news_added": 147,
+   "trials_added": 2,
+   "bills_added": 3,
+   "cases_added": 1,
+   "failed": 0
+  },
   {
    "finished": "2026-11-22T14:43:24+00:00",
    "mode": "nightly",
@@ -621,16 +631,6 @@
    "trials_added": 0,
    "bills_added": 0,
    "cases_added": 0,
-   "failed": 0
-  },
-  {
-   "finished": "2026-10-25T11:29:13+00:00",
-   "mode": "nightly",
-   "added": 3,
-   "news_added": 40,
-   "trials_added": 0,
-   "bills_added": 0,
-   "cases_added": 1,
    "failed": 0
   }
  ]

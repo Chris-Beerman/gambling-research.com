@@ -1292,7 +1292,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-21",
+  "updated": "2026-11-23",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -5520,7 +5520,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/ak/bills/34/SB194/",
-  "source_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB194#tab5_4",
+  "source_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB194",
   "topics": [
    "sports-betting",
    "policy"
@@ -21299,16 +21299,17 @@
   ],
   "introduced": "2025-03-13",
   "latest_action_date": "2025-03-13",
-  "latest_action": "Introduced in Senate",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
+  "stage": "committee",
+  "stage_label": "in committee",
   "url": "https://openstates.org/us/bills/119/S1033/",
   "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1033.xml",
   "topics": [],
-  "updated": "2026-03-18",
+  "updated": "2026-11-23",
   "first_seen": "2025-03-13",
-  "stage_changed": null
+  "stage_changed": "2026-11-23",
+  "previous_stage": "introduced"
  },
  {
   "id": "ocd-bill/2509193b-a66b-4357-aa38-46eeabca6ca2",
@@ -21519,14 +21520,14 @@
   ],
   "introduced": "2025-03-11",
   "latest_action_date": "2025-03-11",
-  "latest_action": "Introduced in House",
+  "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_passage_date": null,
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/us/bills/119/HR2087/",
   "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2087.xml",
   "topics": [],
-  "updated": "2026-03-18",
+  "updated": "2026-11-23",
   "first_seen": "2025-03-11",
   "stage_changed": null
  },
@@ -22567,6 +22568,38 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/e623873c-5f40-4261-b100-83956fb355e2",
+  "level": "state",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "",
+  "session": "119",
+  "identifier": "HR 1440",
+  "title": "Discriminatory Gaming Tax Repeal Act of 2025",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Guy Reschenthaler",
+   "Mike Kelly",
+   "Steven Horsford",
+   "Mark E. Amodei",
+   "Andrew R. Garbarino",
+   "Brian K. Fitzpatrick"
+  ],
+  "introduced": "2025-02-18",
+  "latest_action_date": "2025-02-18",
+  "latest_action": "Referred to the House Committee on Ways and Means.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/us/bills/119/HR1440/",
+  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1440.xml",
+  "topics": [],
+  "updated": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/6b5b1091-a651-4b30-997d-5ab2bd45e3c5",
   "level": "state",
   "jurisdiction": "Minnesota",
@@ -22835,6 +22868,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/2edc85e7-d623-43a1-a40f-39e4de8b649b",
+  "level": "state",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "",
+  "session": "119",
+  "identifier": "HR 1141",
+  "title": "Gambling Addiction Recovery, Investment, and Treatment Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Andrea Salinas"
+  ],
+  "introduced": "2025-02-07",
+  "latest_action_date": "2025-02-07",
+  "latest_action": "Referred to the House Committee on Energy and Commerce.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/us/bills/119/HR1141/",
+  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1141.xml",
+  "topics": [
+   "treatment"
+  ],
+  "updated": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "stage_changed": null
+ },
+ {
   "id": "us-119-s-454",
   "level": "federal",
   "jurisdiction": "United States",
@@ -22867,6 +22929,35 @@
   "congress": 119,
   "bill_type": "s",
   "number": 454
+ },
+ {
+  "id": "ocd-bill/6a3ac3e9-e32b-427f-9236-c49532d6e8b1",
+  "level": "state",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "",
+  "session": "119",
+  "identifier": "S 454",
+  "title": "Gambling Addiction Recovery, Investment, and Treatment Act",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Richard Blumenthal"
+  ],
+  "introduced": "2025-02-06",
+  "latest_action_date": "2025-02-06",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/us/bills/119/S454/",
+  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s454.xml",
+  "topics": [
+   "treatment"
+  ],
+  "updated": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "stage_changed": null
  },
  {
   "id": "ocd-bill/e2b695a5-2866-4fc6-9cb5-371370b80504",
@@ -23174,7 +23265,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "first_seen": "2025-01-29",
   "stage_changed": null
  },
