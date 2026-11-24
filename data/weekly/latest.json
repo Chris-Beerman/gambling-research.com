@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "window": {
-  "from": "2026-11-16",
-  "to": "2026-11-23"
+  "from": "2026-11-17",
+  "to": "2026-11-24"
  },
- "new_studies": 41,
+ "new_studies": 44,
  "candidates": [
   {
    "id": "doi:10.1080/16066359.2026.2763085",
@@ -147,6 +147,85 @@
    ]
   },
   {
+   "id": "doi:10.1080/14459795.2026.2766139",
+   "title": "The mediating effect of mindful non-judging on the association between positive and negative urgency and gambling severity",
+   "journal": "International Gambling Studies",
+   "authors": [
+    "Chris James Serafim"
+   ],
+   "published": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "summary": "While positive and negative urgency predict problem gambling severity and mindfulness is suggested to serve as a protective factor, the underlying mechanisms linking these traits remain unclear …",
+   "url": "https://doi.org/10.1080/14459795.2026.2766139",
+   "oa_url": "https://doi.org/10.1080/14459795.2026.2766139",
+   "topics": [],
+   "designs": [],
+   "regions": [
+    "australia-nz"
+   ],
+   "score": 4,
+   "why": [
+    "core journal",
+    "free full text"
+   ]
+  },
+  {
+   "id": "doi:10.1007/s10899-026-10579-z",
+   "title": "Predictors of Online Sports Betting in Undergraduates: Sociodemographic Characteristics, Betting Motivations, and Psychiatric Symptoms",
+   "journal": "Journal of Gambling Studies",
+   "authors": [
+    "Howard L. Fung",
+    "Laura J. Holt",
+    "Luke Herchenroeder"
+   ],
+   "published": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "summary": "Online sports betting (OSB) is a relatively new form of gambling in the United States. Accordingly, its prevalence, sociodemographic and psychiatric correlates, motivations, and consequences have not been widely documented, particularly among emerging adults, the demographic most likely to engage in sports betting …",
+   "url": "https://doi.org/10.1007/s10899-026-10579-z",
+   "oa_url": null,
+   "topics": [
+    "sports-betting",
+    "youth",
+    "comorbidity",
+    "equity"
+   ],
+   "designs": [
+    "survey"
+   ],
+   "regions": [],
+   "score": 4,
+   "why": [
+    "core journal",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.1177/25725300261510374",
+   "title": "THE HOUSE TAKES A CUT: INSTITUTIONAL CONFLICT of INTEREST and THE ASSURANCE PROBLEM IN GAMBLING REGULATION",
+   "journal": "Gaming Law Review",
+   "authors": [
+    "Kennedy Chun Yin Kong"
+   ],
+   "published": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "summary": "Gambling regulation is standardly debated as a contest between paternalism and adult autonomy. But the state that regulates the activity is also its revenue partner, collecting a forecast share of losses drawn disproportionately from the most heavily harmed …",
+   "url": "https://doi.org/10.1177/25725300261510374",
+   "oa_url": null,
+   "topics": [
+    "policy",
+    "industry"
+   ],
+   "designs": [],
+   "regions": [
+    "asia"
+   ],
+   "score": 4,
+   "why": [
+    "core journal",
+    "priority topic"
+   ]
+  },
+  {
    "id": "doi:10.9741/2327-8455.1529",
    "title": "Are Prediction Platform Bettors Distinct from Sportsbook Bettors? Evidence from Skill Perceptions and Positive Play Attitudes",
    "journal": "UNLV Gaming Research & Review Journal",
@@ -171,146 +250,6 @@
    "why": [
     "free full text",
     "US",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1080/14459795.2026.2766139",
-   "title": "The mediating effect of mindful non-judging on the association between positive and negative urgency and gambling severity",
-   "journal": "International Gambling Studies",
-   "authors": [
-    "Chris James Serafim"
-   ],
-   "published": "2026-11-23",
-   "first_seen": "2026-11-23",
-   "summary": ".",
-   "url": "https://doi.org/10.1080/14459795.2026.2766139",
-   "oa_url": null,
-   "topics": [],
-   "designs": [],
-   "regions": [],
-   "score": 3,
-   "why": [
-    "core journal"
-   ]
-  },
-  {
-   "id": "doi:10.56371/jirpl.v7i1.778",
-   "title": "A NORMATIVE JURIDICAL ANALYSIS OF CRIMINAL LIABILITY FOR THE DISSEMINATION OF ELECTRONIC INFORMATION CONTAINING GAMBLING CONTENT",
-   "journal": "JILPR Journal Indonesia Law and Policy Review",
-   "authors": [
-    "Sularto",
-    "Muh. Amin Saleh",
-    "Hotman Sinambela",
-    "Appe Hutauruk"
-   ],
-   "published": "2026-10-29",
-   "first_seen": "2026-11-16",
-   "summary": "Advancements in information technology have led to the emergence of various forms of electronic based crimes, one of which is the dissemination of electronic information containing gambling content. Such acts not only violate criminal law provisions but also negatively impact public order, morality, and the security of the digital space …",
-   "url": "https://doi.org/10.56371/jirpl.v7i1.778",
-   "oa_url": "https://ejournal.aissrd.org/index.php/jirpl/article/download/778/580",
-   "topics": [
-    "online-gambling",
-    "policy"
-   ],
-   "designs": [],
-   "regions": [
-    "asia"
-   ],
-   "score": 2,
-   "why": [
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.66618/equalitylawandsocial.v2i2.1589",
-   "title": "Criminal Liability for Fish Shooting Machine Gambling: A Comparative Analysis of Positive Law and Islamic Criminal Law",
-   "journal": "Equality Law and Social",
-   "authors": [
-    "Laila Hairani",
-    "Risalan Basri Harahap",
-    "Hendra Gunawan"
-   ],
-   "published": "2026-11-14",
-   "first_seen": "2026-11-16",
-   "summary": "Fish shooting machine gambling remains a social and legal problem in Purba Tua Village, Batang Onang Subdistrict, despite its prohibition under Indonesian positive law and Islamic criminal law. This study examines the mechanisms, contributing factors, criminal liability, and applicable sanctions for the practice from both legal perspectives …",
-   "url": "https://doi.org/10.66618/equalitylawandsocial.v2i2.1589",
-   "oa_url": "https://ejournal.risetanakbangsa.id/jhs/article/download/1589/226",
-   "topics": [
-    "policy"
-   ],
-   "designs": [
-    "qualitative"
-   ],
-   "regions": [
-    "asia"
-   ],
-   "score": 2,
-   "why": [
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.35896/alhakam.v6i2.1448",
-   "title": "EVIDENCE IN DIVORCE CASES ARISING FROM ONLINE GAMBLING: AN ANALYSIS OF SIDOARJO RELIGIOUS COURT DECISIONS",
-   "journal": "Al Hakam The Indonesian Journal of Islamic Family Law and Gender Issues",
-   "authors": [
-    "Alfiyah Faizatul Arif Faizatul Arif",
-    "Jamilatus Solihah",
-    "Miftah Alfiyatur Rohmaniyah",
-    "Nilna Tsani Maulida",
-    "Zuhrotul Qibtiyah"
-   ],
-   "published": "2026-11-11",
-   "first_seen": "2026-11-16",
-   "summary": "The development of online gambling in recent years has given rise to new issues in family dynamics, as reflected in the increasing number of divorce cases at the Sidoarjo Religious Court …",
-   "url": "https://doi.org/10.35896/alhakam.v6i2.1448",
-   "oa_url": "https://journal.uaindonesia.ac.id/index.php/alhakam/article/download/1448/1013",
-   "topics": [
-    "online-gambling",
-    "policy",
-    "families"
-   ],
-   "designs": [],
-   "regions": [
-    "asia"
-   ],
-   "score": 2,
-   "why": [
-    "free full text",
-    "priority topic"
-   ]
-  },
-  {
-   "id": "doi:10.1017/s1754470x26100798",
-   "title": "What treatment goals are important to individuals harmed by gambling and to what extent are these met through a cognitive behavioural therapy programme? A single-case series",
-   "journal": "The Cognitive Behaviour Therapist",
-   "authors": [
-    "Rebecca Louise Dalby",
-    "Ciara Masterson",
-    "Matthew J. Gaskell"
-   ],
-   "published": "2026-11-03",
-   "first_seen": "2026-11-16",
-   "summary": "There is a growing evidence base for the treatment of gambling harms indicating that cognitive behavioural therapy (CBT) is an effective treatment. However, limitations in research methodology raise questions about the effective mechanisms of change …",
-   "url": "https://doi.org/10.1017/s1754470x26100798",
-   "oa_url": "https://doi.org/10.1017/s1754470x26100798",
-   "topics": [
-    "treatment",
-    "cognition"
-   ],
-   "designs": [
-    "experiment",
-    "case-report"
-   ],
-   "regions": [
-    "uk-ireland"
-   ],
-   "score": 2,
-   "why": [
-    "free full text",
     "priority topic"
    ]
   },
@@ -653,6 +592,34 @@
    ],
    "designs": [],
    "regions": [],
+   "score": 2,
+   "why": [
+    "free full text",
+    "priority topic"
+   ]
+  },
+  {
+   "id": "doi:10.68653/ayf59z19",
+   "title": "EVALUATION OF PATHOLOGICAL GAMBLING AND DESTRUCTIVE GAMBLING BEHAVIOUR: FINDINGS FROM BET9JA PLAYERS IN JOS NORTH LOCAL GOVERNMENT AREA OF PLATEAU STATE",
+   "journal": "Verstehen Journal of Social Research",
+   "authors": [
+    "Paul Joshua Oyakose",
+    "Paul Plangkhom Joyce"
+   ],
+   "published": "2026-11-21",
+   "first_seen": "2026-11-24",
+   "summary": "Despite the negative and economic implications associated with gambling, gambling stations seem to be striving with large followership. Purpose of the study is to evaluate gambling addiction among players of bet9ja …",
+   "url": "https://doi.org/10.68653/ayf59z19",
+   "oa_url": "https://journals.plasu.edu.ng/index.php/vjsr/article/download/482/484",
+   "topics": [
+    "youth",
+    "policy",
+    "prevalence"
+   ],
+   "designs": [],
+   "regions": [
+    "africa"
+   ],
    "score": 2,
    "why": [
     "free full text",
@@ -1119,7 +1086,7 @@
    "first_seen": "2026-11-23",
    "summary": "This study aims to describe the form of deviant behavior of adolescents in online gambling practices and analyze it from the perspective of Islamic education. This study uses a qualitative approach with a case study method conducted in Kampung Kepuh Nagasari, Nagasari Village, West Karawang District, Karawang Regency …",
    "url": "https://al-afkar.com/index.php/Afkar_Journal/article/view/2585",
-   "oa_url": "https://al-afkar.com/index.php/Afkar_Journal/article/view/2585",
+   "oa_url": "https://al-afkar.com/index.php/Afkar_Journal/article/download/2585/2917",
    "topics": [
     "online-gambling",
     "youth",
@@ -1136,9 +1103,308 @@
    "why": [
     "free full text"
    ]
+  },
+  {
+   "id": "doi:10.1159/ear/acrag020",
+   "title": "Gambling Harms: Locating the harm from gambling alongside substance addiction using Multi-Criteria Decision Analysis",
+   "journal": "European Addiction Research",
+   "authors": [
+    "Ryan Statton",
+    "James Close",
+    "Sharon Collard",
+    "Jamie Wheaton",
+    "Sara Davies",
+    "Imogen Martin",
+    "Crescenzo Pinto",
+    "Mark Conway",
+    "Colin Walsh",
+    "Matthew Browne",
+    "Owen Baily",
+    "Emily Crick",
+    "John Elisha Gani",
+    "David Hollingsworth",
+    "Gabriele Penazzi",
+    "Richie Paxton",
+    "Ingrid Louise Temmerman",
+    "David Quinti",
+    "Mara Airoldi"
+   ],
+   "published": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "summary": "Introduction Gambling harm has previously been treated differently from substance addiction in policy and regulation, despite emerging evidence of comparable population-level harm. However, direct comparison between gambling - a behavioural addiction - and substance addictions is difficult …",
+   "url": "https://doi.org/10.1159/ear/acrag020",
+   "oa_url": null,
+   "topics": [
+    "treatment",
+    "policy",
+    "comorbidity",
+    "lived-experience"
+   ],
+   "designs": [],
+   "regions": [],
+   "score": 1,
+   "why": [
+    "priority topic"
+   ]
   }
  ],
  "news": [
+  {
+   "title": "New Mexico ruling hands tribes another roadmap against Kalshi",
+   "url": "https://sbcamericas.com/2026/11/24/new-mexico-ruling-tribes-igra-kalshi/",
+   "source": "SBC Americas",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "KEY TAKEAWAYS Tribal nations now hold a second federal blueprint for pushing Kalshi off their lands following a ruling Monday in New Mexico. U.S. District Judge Margaret Strickland on Monday denied Kalshi’s motion to…"
+  },
+  {
+   "title": "Kalshi halts operations in Utah amid felony charges, court setbacks",
+   "url": "https://sbcamericas.com/2026/11/24/kalshi-pause-trading-utah-felony-charge/",
+   "source": "SBC Americas",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "KEY TAKEAWAYS Kalshi suspended its operations in Utah in light of the state’s wins in court and the 13 felony charges facing it and its co-founders, the company confirmed to SBC Americas on Monday. “Due to the adverse…"
+  },
+  {
+   "title": "The line between sports hero and gambling shill is fast disappearing",
+   "url": "https://www.theguardian.com/sport/2026/nov/24/prediction-markets-sports-gambling",
+   "source": "The Guardian (gambling)",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking an investment stake in…"
+  },
+  {
+   "title": "Rogue Casino Sites Caught Faking Gambling Experts to Lure UK Punters",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWxGQ3ZVWWtobzdVQnhMNFIwV2dNRDlPQUtNeGktcm9lX05YSHA5dVZ2bUw3Ym5zajJsVjlFcHhucU5icUhUSi1FZWktSFNzZ0E0eWE2Tlk1a01IUzNzOHM2ak1vOWhwck5ZMnFXSmp1TUZ1TGxuQjRWOHdtaThhaVEyWFJ5eFpNSmYxdkM2NEkxTVFTTFE?oc=5",
+   "source": "OLBG",
+   "published": "2026-11-24",
+   "primary": "regulation",
+   "summary": "Rogue Casino Sites Caught Faking Gambling Experts to Lure UK Punters"
+  },
+  {
+   "title": "Kalshi partnership costs problem gambling council another member",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3BUYk1wdVg0VVVmVEpVNDluT2U0azdERE1nVlJHTDFVRGVFaS1qQXI2OUdSX1MwdkxBdE90RC03X1RCMEdzXzBhY0lRVHM4Y3ZpenVCV2lOcXpCQVh4TW5JMVR0T2RlQTNKUGNDV1hWY2hfZjFkRWlJbC1CNEN0UHgyUUpaTXZZSmFISmZxTUt3OHRMak1BRFBMMUFEbkV1Yi13Mg?oc=5",
+   "source": "Nevada Current",
+   "published": "2026-11-24",
+   "primary": "public-health",
+   "summary": "Kalshi partnership costs problem gambling council another member Nevada"
+  },
+  {
+   "title": "MGM Leaves National Council on Problem Gambling Over Kalshi Membership",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFpJWjVZWWFsbEFNeFBiS0cwWjVCTGJQWXpvNzNRRjlScC1PelY1SVRpbzVkVnpBckRjNXZNSGlTQVY0ZWxIa2pOUTBGbUdYUndGa2JoUWpFMW11SUhwTVliWldlMmNnb1N5TnlTa1BsSmZEZG81MGJVYjdlVmRld2tmaWU2czZFSC1vbF83ZDNCdUkzRnpoenh1OFRIaXdFRy1VNEZ1S2d4NEVoY3RnYWxEaGtyWHlpTThZ?oc=5",
+   "source": "Sports Betting Dime",
+   "published": "2026-11-24",
+   "primary": "public-health",
+   "summary": "MGM Leaves National Council on Problem Gambling Over Kalshi Membership Sports Betting"
+  },
+  {
+   "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fOUY1Ny1oWVZVSzlEcXJqZGwyQzkzOFdXNDRRVmV6eXVHMUNHVklUa3NVSGlzMkZQS3pJZkxpWml1X0dvb0tiTTlfdUlyOUZLbkJHeHJydU9yU1BTbFBLTmt6VzdEYWZfVGxaQ1NFS1hYOWs0c1E?oc=5",
+   "source": "The New York Times",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Young New Yorkers Are Losing on Kalshi, City Council Says The New York"
+  },
+  {
+   "title": "NYC Calls on Kalshi, Polymarket to Testify on Marketing to Youth",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY19Va0JuWHdNYjR1S1puOGFaTmZBZkR6ckxfVTR2aUJHUkNYZnZkNHF0XzlkdThldVJ2ZHpKbnoya3hDdmxTRHFmUFJHcUlpa0ZzcE54NDBrZWkyeTFQbHRCTVVCQlg5bjk4WGd3akczX1R2c0RUWGFRcFhBSjdXb2xuUHdPcHF4V256anZQNDIzVFZVUlE2LThNakZLUVktcGwyc3cyZGtoLTFCblFOYXFRMHE?oc=5",
+   "source": "Bloomberg",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "NYC Calls on Kalshi, Polymarket to Testify on Marketing to Youth"
+  },
+  {
+   "title": "Commentary: Rolling the dice on prediction markets: North Carolina's warning for Indiana",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUmVGRm5mSXh1VGU2amxYSzQtWkNIWUxMMGJldzRDNThmSWJsN1RVZFh5LUl4Y25Xdld6WDdkM1BzS1RLRDJrci1iNE9TMk82YWRqRTV2bk5YWjJvSS1PbHpXRU16SUJsRXJJVUJCR0JpSUQ5aHRWSkFwdFdtM3dzTjdyQ25lWFVHWXBOLWdIUFlVRXhSXzhxX2FudDlkLU1iaE9pVm5weEdObDMyT2xnWURRMVlIVEtkeDdtRGtROA?oc=5",
+   "source": "Indiana Capital Chronicle",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Commentary: Rolling the dice on prediction markets: North Carolina's warning for Indiana Indiana Capital"
+  },
+  {
+   "title": "Jeremiah Smith Extends Heisman Lead on Kalshi",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlh0UVpxUWlGRVdyTDZNcDZpUmdhNlZWWDdoVmNTRkVwX092NVdkYUFGUWdOOTE2NF9MNXdpUHNTREstTmxsZ191RVRlUmJZTGNvMjVZZFpjQXJrb0hWcTVTcmg1cWFOdWFJRS1kVzE0RVhZOHhYMkxCY3VzN2NCNDl1bl80cTBjajdmS1Mybk1QelRxc1dHTEhFM3g?oc=5",
+   "source": "Sports Illustrated",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Jeremiah Smith Extends Heisman Lead on Kalshi Sports"
+  },
+  {
+   "title": "Utah moves to drop Kalshi gambling case after company blocks state users",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYV9XckRoR0pDbFVHbDVTdmY5OFNaVy1BejJ5dG52WnFaWDRIdGFVbFhXOC1VelVGMlBTSFJkdW40RkNMOGR5N3Z3X05GaGpBbXFELVhJaXJmQ0pGT202NW9aRTFRcDBLSXctZTJfeWo5RVExOGl2M2ozaUp2SzU4REdPVnRjQUFXYjd4XzJ4bGFlc19oSm51VmhpM1hxWVNpcFE?oc=5",
+   "source": "KUTV",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Utah moves to drop Kalshi gambling case after company blocks state users"
+  },
+  {
+   "title": "NY State Senator floats prediction market bill on same day Judge blocks TRO against Kalshi",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSmRzV0hJWlNfb0p2MFROZThvQjBHWWNPcmtqSWdkLUxfZ0MtbzVsUmZ0MUdZVjFSOFEwLXhaZF9reU9nS3B1ejF0ZHpYamFtbXctUURIb2lxWlpRSUhZTjZBaDM3czRaRktWakJFb3hjcVNHT0FzVjB0VzFUWERVSW4yaDNqbTM5YW5RZ2hiZ094eFdnbHlpN0lNb2FtLTFybUFoempnYzlCQlA1?oc=5",
+   "source": "iGaming Business",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "NY State Senator floats prediction market bill on same day Judge blocks TRO against Kalshi iGaming"
+  },
+  {
+   "title": "After Kalshi pulls out of Utah, state moves to drop criminal charges",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IZnNkNjBTX1ZNdGtyRjN3dl9mX1QzM0FLVjNURjhQODdYTVo0UVVaVXdURzZtZkRJdnRELVl2bGxJaGx2RGwzeVUzYkdkN3ExeWlwNlRtUy1ZN3BkRmsteUQ1QW1NQ0hNQXNrbEJEZGt4MjFLWVNHZ1daNmNTQQ?oc=5",
+   "source": "The Salt Lake Tribune",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "After Kalshi pulls out of Utah, state moves to drop criminal charges The Salt Lake"
+  },
+  {
+   "title": "Best prediction market platforms ranked & reviewed for November 2026",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVdyZEEyakJVS0tlVkV4cHVnOW1hY25zazFoWVNsNjNyRDV6N1I3STd6QV83aXYxbFVaQm9NM09pVjJjYm5lTmpES2sxTWVJYzJVUHFZTjJFQW85QTZxaElQRFY2djFrUDF6MDVxTEFrcGR0c0ZxeE9lMi1GcmRFNUZtSFJ3TEI2TU5FQ2ZUOThIdXJUM2dQX2RPUWRaemJKOVJkZjRXQjROUXVx?oc=5",
+   "source": "Detroit Free Press",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Best prediction market platforms ranked & reviewed for November 2026 Detroit Free"
+  },
+  {
+   "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONldRN0ZNb1hKRUxpTEt5Qy1nNEJtcENoOUtmUE1iVmlhLXlBRVNMc2h5bVEwakhtMDJMZ0pWcUp3OTlEbjltWk9kakVEc0xCRmEwWERVVTdsWG8zZWlBeGlWei1DQnVEaHZWZ25iS1JSeVVEOGdEdFRkT1EwMUJVeV9DOUo2cGV3?oc=5",
+   "source": "CoinGeek",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future"
+  },
+  {
+   "title": "Kalshi’s New Mexico Defeat Offers A Roadmap For Tribal Gaming Enforcement",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3J5SGJhb0R5SlA1Z25WR0txOFBhZ2otMXVveE54emEzbVRyNHVSTGRlNVROa2xjUEhvelNmeUdfeHQzTW92aUNlNGY5VC15SGdQN2NrbU5IbGotbXhXTGtFcVctY3Z0QkQzc2ZHMWRQQWZHM2h4U0FtNXhzNTRqejllNjBJM1Y2c1VhcUVHNm90VWFsN2FNTmcydVBXWjV6a0xHbEdVNWxCUngxNlQyYTNCZkNRdzBQTG5qeS1zM3o3QngzNEE?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-24",
+   "primary": "prediction-markets",
+   "summary": "Kalshi’s New Mexico Defeat Offers A Roadmap For Tribal Gaming Enforcement"
+  },
+  {
+   "title": "MGM Resorts, BetMGM explain why NCPG deal with Kalshi drove them to leave",
+   "url": "https://sbcamericas.com/2026/11/23/mgm-resorts-betmgm-quit-ncpg/",
+   "source": "SBC Americas",
+   "published": "2026-11-23",
+   "primary": "public-health",
+   "summary": "KEY TAKEAWAYS MGM Resorts International and BetMGM quit the National Council on Problem Gambling (NCPG) with immediate effect last week, citing the council’s choice to work with Kalshi. “NCPG’s decision to embrace…"
+  },
+  {
+   "title": "New York judge denies state temporary restraining order against Kalshi",
+   "url": "https://sbcamericas.com/2026/11/23/new-york-denied-tro-against-kalshi/",
+   "source": "SBC Americas",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "KEY TAKEAWAYS Kalshi can continue to offer sports event contracts in New York for the time being after a New York County Supreme Court justice declined to grant the state attorney general’s office a temporary…"
+  },
+  {
+   "title": "Schneider: How prediction markets innovation creates high risk for all",
+   "url": "https://sbcamericas.com/2026/11/23/schneider-prediction-markets-high-risk/",
+   "source": "SBC Americas",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "SBC’s Sue Schneider’s regular check-in covers the state of play for prediction markets in November 2026. As those in the industry know, the talk of many podcasts and every conference for the past two-plus years have…"
+  },
+  {
+   "title": "MGM Resorts latest to leave NCPG over prediction market stance",
+   "url": "https://igamingbusiness.com/sustainable-gambling/mgm-resorts-leaves-ncpg-prediction-markets/",
+   "source": "iGaming Business",
+   "published": "2026-11-23",
+   "primary": "public-health",
+   "summary": "MGM Resorts is departing the council on problem gambling, following a comparable by two agencies in Nevada and"
+  },
+  {
+   "title": "Kaizen Gaming enters the Philippines in first move into Asia",
+   "url": "https://igamingbusiness.com/igaming/kaizen-gaming-enters-philippines-first-move-asia/",
+   "source": "iGaming Business",
+   "published": "2026-11-23",
+   "primary": "regulation",
+   "summary": "The Betano owner will launch online sports betting and casino services under a licence overseen by the Philippine gambling regulator. No launch date"
+  },
+  {
+   "title": "UK gambling researchers impersonated to promote online casinos",
+   "url": "https://igamingbusiness.com/marketing-affiliates/uk-gambling-researchers-impersonated-promote-online-casinos/",
+   "source": "iGaming Business",
+   "published": "2026-11-23",
+   "primary": "research",
+   "summary": "Seven UK academics' names and photos reportedly appeared on nearly 30 gambling sites, falsely suggesting"
+  },
+  {
+   "title": "CFTC Publishes Final Rule Concerning Data Reporting Requirements for Certain Event Contracts",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
+   "source": "CFTC press releases",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": ""
+  },
+  {
+   "title": "UK Gambling Survey Review Finds Progress and Remaining Gaps",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHFkc1JfcXl2Znd6VDhSV1hoRkF2YXItRzBxYlJHWmpRWkp3R2RFNnRZU0pXWUJQOGZaYnU1dmZTcDFydVBWazhrZmRGa0wtb0NES25mX1g3dE01bEFXOXplOTl6Qzk5NWtQNWJ5NGkzZ0lGbDNWS1hVcGVRaWNyNE9PWmhJMUFuaFJJaElvRHBHUHZZU2R3TDgwSjRvSURaMk1Z?oc=5",
+   "source": "World Casino News",
+   "published": "2026-11-23",
+   "primary": "research",
+   "summary": "UK Gambling Survey Review Finds Progress and Remaining Gaps World Casino"
+  },
+  {
+   "title": "Kalshi Notches Win As Judge Denies New York a TRO",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0F6Z1JsM1RLMUR0VlhsNzZSbVprcVF0Zk92Vjg2dmRMZkJYTTBsTUVzWVBfQXdydThkZjIzV3NuLWtFb1VkSHdYT092cXIxMURBejNWdXFFUjZNTXpEX0lhLUlsMlNRdGJXbkFyWUpUME5mX3hTVHdFNmUzb1hNZTF1VzNaVUl0M3hRdVBqbU5IY2NTR0o4V2h4OF9taFhuTy15NkRGai1mOFdqU0ZOY1ln?oc=5",
+   "source": "Front Office Sports",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "Kalshi Notches Win As Judge Denies New York a TRO Front Office"
+  },
+  {
+   "title": "After judge signals ‘steep hill’ in regulatory case, Kalshi pauses operations in Utah",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MHZZc2hzNHozQkg3cWJXazJ6UHBrRTdvQWtCUDFKUEtBRWpsd2xuQ0VTRDkza3pDYzVJcVBMaTg2Vm96enlKLW9nSzJNTHdaYzlfaExMRnh4QVc3ZEl5aEp6MXZoWGVmcFV3YTVTTy12SG4yNlJkdllLQXJZNUU?oc=5",
+   "source": "The Salt Lake Tribune",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "After judge signals ‘steep hill’ in regulatory case, Kalshi pauses operations in Utah The Salt Lake"
+  },
+  {
+   "title": "New York judge urged Kalshi to compromise on limiting bets by anyone under 21",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGhqY2ROUjdBQzNGV1BFZ1hIeVBZMnIyNXpNdVNsZHRZdjhSd3JjOG14aExoWm9QdnhvTnNxMjN2ZllsNXcwZXdjZThwaV9VZ2ZfZEdLaVNlUzNBdzdldjdHMTBHT2daOXRXOU1Bc2NVMjY5R0Y5M1hyclpUV0JUag?oc=5",
+   "source": "CNN",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "New York judge urged Kalshi to compromise on limiting bets by anyone under 21"
+  },
+  {
+   "title": "With no legal wins so far, Kalshi blocks operations in Utah",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTENtV1czYjB6YzNIMGhHanlIQmtrU044dGtmZXZoQ2RpeWhybEtIdU1DZ09jY2tZcVY3QjhmSDJZNVloTzhnbjhkaDlPbTZ6QjItQzdXTExUZWsyNDZRZVByelM3b2lJNDJsMG1oNE1YeHV1XzVsOE83eUt3c19BS2JJVHFaZGpBX3ZxYVVldkM5X3dwS2pHQWVOekhmaXc?oc=5",
+   "source": "Utah News Dispatch",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "With no legal wins so far, Kalshi blocks operations in Utah Utah News"
+  },
+  {
+   "title": "Kalshi pauses operations in Utah after adverse federal court ruling",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1BkbFh2bHMxZFBzeG45cGVxUmJXS2s5RllXTC1fa29SYTJMYUpZOGNhQ3RNLWRtR2toSFJjR1Fwa1VOaFdDSDZ3alVFS0JXSXNubGFpLTVGTVcwSk9nR0lseF9WMW5JcERpTko4Q0RERUp5d05jbUhFdk43NVVUaWNiRDhZSDFtZ3ZxVkt1Yk5jYVhnSmJEYkFhaENlWjk2dlZ1MlZLdmxRcjlkUXc?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "Kalshi pauses operations in Utah after adverse federal court ruling"
+  },
+  {
+   "title": "Polymarket, Kalshi didn’t outperform mainstream forecasts in midterms: Report",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaS02bjJBMnpLb3RZQTBvdlpxZVY1ZTNHcWVzZFVKMTNwMTdpLW1UVWZzOGdrREd2bFZrMkFvRThDb0hqYWNxQkhaU2NIRDd6NzEyNktRU1dIVWJHdkkzbERwMHJRd2d4cHZoVzE5WXNhbGxIRkM0Wnl0RUNXNlBpUTE1bExhZllnNkRN0gGQAUFVX3lxTE1iZV9jWGNXMGs5TU5oSHJ5NVJwLUFmX1p0dTU3djB6bngzaFVraldZLUV5ZnVsMDRNdk5QYUk3TTI2NkdVX2dScmZxYVo5MjhqWGdLN2d1N09wNTZGM0dFc1k2VlNWRHlld0NqWFVETXpwYXBtbW5WZy0xeGl4cUdxd0pNVEJxV3RVdThpZFk5aw?oc=5",
+   "source": "The Hill",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "Polymarket, Kalshi didn’t outperform mainstream forecasts in midterms: Report The"
+  },
+  {
+   "title": "Kalshi pauses Utah operations amid legal fight over gambling laws",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0NVSG5mdmZrbE5mUFcxSi0wVkN3bjJqOXlINkxsMEZXR3ByOVdOR1AybzJPWDNsOWloNHRyZk9zRUMyLU93WDFfV3RiVUFta0tSNTR5eTh1X1psRVdGbWhaUlFIWTVNZFR2M1M4UnAzRE5UM3R1Si1rVzhWbkRhejktZnhYeUpBcmpLalVDVkdwbFlIal9nSg?oc=5",
+   "source": "KUTV",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "Kalshi pauses Utah operations amid legal fight over gambling laws"
+  },
+  {
+   "title": "New York judge declines to block Kalshi from operating in the state for now",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVN5Qi1Ccm4ycGdPWmluTm5ld3pydWZlNE5jbDk4WExrSG9KdkctODZGanZKTE9ndHU5TUVZcVZwUEtKWUhSRnhDTEJRQUg2dllkaUVrZDJZZzA5TXlUQ096MUx4RHl2Y3ZXSnBjMDZVc19lUVBERDdNcVNkLXRfU3VHN3VMcDVkWHduYTJzNzdpX0FWLXFmdFpYZmE3YUM0LXZCRTdvLS04WFpwZThzeG16UlBqcTRfclE?oc=5",
+   "source": "CoinDesk",
+   "published": "2026-11-23",
+   "primary": "prediction-markets",
+   "summary": "New York judge declines to block Kalshi from operating in the state for now"
+  },
   {
    "title": "NCPG Welcomes Michael Sciandra and Pedro Romero to Board of Directors",
    "url": "https://www.ncpgambling.org/news/ncpg-welcomes-michael-sciandra-and-pedro-romero-to-board-of-directors/",
@@ -1276,62 +1542,6 @@
    "summary": "Nvidia perpetual futures surge more than 20% after Jensen Huang reinstated as CEO Kalshi"
   },
   {
-   "title": "Kalshi Adds D&P Creative Strategies for Prediction Markets",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fV29PNjIyWkk1QlF2UkdXSWtzdjdKS0RzVkNpamtLNklEdE15MW5MckU2eUtDYUduME50R2ZZODlkVGd0MGFreWNkWTcxZmZmUGlibmlCak9Hcy1WMHZEcnVmU1oyMVI1ZEpiS2ZQeE9LckdkUkY4eV9Ibw?oc=5",
-   "source": "Legis1",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "Kalshi Adds D&P Creative Strategies for Prediction Markets"
-  },
-  {
-   "title": "Who won the Polymarket bets on Jensen Huang's return to Nvidia? 'Yes' holders, once it settles",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjNSVHBzLUJFRWpNMDNXSXBkNTVGMW0zRDBVSlBkNjZXY1VSVXM3N2NMbzdZSnlQNUVYQlBSQmE0cFExUzFwenI4U0xlVEZ2NTZaYW1jSUxfUklpbmx1WjZsSkVtNnd4UjdvRmtpTHJtVGhHVTNFZE5NZkFMdWEyVy1BQUNCZXlGVk1PaGIxSk43N2haUFNWSHZyVmJNYXVJSEY0?oc=5",
-   "source": "Nacionale",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "Who won the Polymarket bets on Jensen Huang's return to Nvidia? 'Yes' holders, once it settles"
-  },
-  {
-   "title": "Most winnings on Polymarket midterm bets went to top 1% of bettors, report says",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjc3MVhUdnFWREx5Rnp1VWlBT3BYQkhPcm16RVQ3eEJ2YkdZbGkwM3F2dHAwWENVZVV1UjVSRmtPVlZabEtfNzIyR1djR2pYY0lZOGdpT0RmWUEwdWNXTFFjMTJWYjhzNG5OY1NUa1daSndObktYV2x6ZEtlX1BfcGVQaXBOV21BU1Zta0dtLXBoZFpSVXUtdUdlQU5pdGZnVWpac2xnRFROS1lxN21PalA0UQ?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "Most winnings on Polymarket midterm bets went to top 1% of bettors, report says"
-  },
-  {
-   "title": "New York Judge Set to Hear Bid That Could Shut Down Kalshi Nationwide",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnA0VkxFV3hDbVpPa1htNEpXUEYzTXFVWlZ6M196VFlFbWxBRVN3dnVYWF9Jb2hfNG0yRGdYNnlyQm9uOEh1UF9MWXNsWk12X3BtWi1CTTlIRElvWm51RDRKbkhfQnBjVjNWUjdsckpocnZZR2xOR1U5MmtERHV6TnpkUk1mOUhqcnRtUDRtMXF2OHN4M0kweGpXRU5XOWUxSmxB?oc=5",
-   "source": "PYMNTS.com",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "New York Judge Set to Hear Bid That Could Shut Down Kalshi Nationwide"
-  },
-  {
-   "title": "An Overlooked Federal Law Strengthens States’ Case Against Sports Prediction Markets",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnlBVW9nR25zTWNSVUJpaFV6VGtETGVqSVMwU19RWm43c2pZWkJhd0ZaWndLTmF6cGJ2VFdxZFhVQmFMdXVrNGlaX3hzaHdUWWhtWWVrcHZ3TFRiaHgzUFgxOFRwMllCeGc2bWI0RWZKOE13LU8tU3dlSE9nbjBOTFNIMUl4TWFZYUFfZVUxbXVMMEtjRmxCQXZIclYxRzctanBzZzd5dWFabnZfT1gycVQzRF9uVkkzVWFmVzhzZWxXbHI5aU9MMllJbjNFSWlFdGhtbQ?oc=5",
-   "source": "Forbes",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "An Overlooked Federal Law Strengthens States’ Case Against Sports Prediction Markets"
-  },
-  {
-   "title": "Prediction markets put Jensen Huang’s odds of returning at 11% on Sunday night—hours later he was back as Nvidia CEO",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkdlX2JqSk5SQ2g2c3pHTlZqazZnWWk0Q3o4Zzk1dHd6S2ZULW5hTXUybDZLVUJpZlJBbXgzN0xoQndEaHpiczMwSmNsbmhQZXJXZjNvWXdiMVZzQVBRcW94TjE5RTNqSlZKTGgyVERyV0tLYXk0VldBS1ppUG9ob21VRm1aX2xRTzBYYm5nNA?oc=5",
-   "source": "Fortune",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "Prediction markets put Jensen Huang’s odds of returning at 11% on Sunday night—hours later he was back as Nvidia CEO"
-  },
-  {
-   "title": "Jensen Huang Return Rumors Become Reality: Polymarket's 19% Prediction Hits as Nvidia CEO Reinstated",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92VUlsUDJGNVdvRGNFS1hIRDI5WlpqbnkybnFXSDlDNGltOWJxYWlDWGRPWGthUEpLVXMya1FnaWY5WEczcW5hdG1ab2dyNFJkRkpBd2RDQldCcVdybmVyMW05LTVvUnMwOW5PNGpTUGFodkJ6UVE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-23",
-   "primary": "prediction-markets",
-   "summary": "Jensen Huang Return Rumors Become Reality: Polymarket's 19% Prediction Hits as Nvidia CEO Reinstated BigGo"
-  },
-  {
    "title": "Arizona gaming department expands self-exclusion program with shorter 6-month option",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDNYS3EtakM0bWp4WmFBeXJ1Q0JMUHlBbjJmWGhVQ0lfZHIwYmxXSW1YM2FBMkVpSjBabER3Q09kMzRDLThzVXhGZmtnVWpEbzRSREplZkdDcnI0Q0J1ejhQZWlWYzRGU1VFeXd4NkROTnRmdjRmR2FGeDBYb1F3cmRvaUw1TWtTazNKY3k4MXllRnUzM0t1M3FKZUdJUlFaLVZn?oc=5",
    "source": "KTAR News 92.3 FM",
@@ -1418,206 +1628,6 @@
    "published": "2026-11-22",
    "primary": "public-health",
    "summary": "Football legend and wife duo to put on 1,000 support sessions for gambling addiction Southend"
-  },
-  {
-   "title": "Kalshi Warns New York Lawsuit Could Force It to Shut Down Across the U.S.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1FPYmZMWGV3MF9LLXhRVjBzM081aE1nYldMLVlPbDZLS0pWSWdlbkhpVWFMcW1oNTJLM1h0NWx2QmVHaHZaVl9BVnpjN3AwemxZOXEyeW5XYUE4MFA4ZlRuMElad1NEc0ZITXdHbHpDYks4NVFZd1BHUHU5LVRjOTljakI1YUJPQS1VVGhvalVjRk5xTzNZSkpNS0dxQUlkcGFsYV9KR241NHVMb1VWZDBiQW0?oc=5",
-   "source": "Inc.com",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Kalshi Warns New York Lawsuit Could Force It to Shut Down Across the U.S."
-  },
-  {
-   "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
-   "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
-   "source": "The Guardian (gambling)",
-   "published": "2026-11-22",
-   "primary": "public-health",
-   "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So…"
-  },
-  {
-   "title": "Tommy Robinson reported to Gambling Commission over crypto betting links",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxUVmNmM0VzQXJNYUdnb3VReU5ZaDRWOTBvaGhTcXJKUlV5WXZpUjM4ZjJtYVl0U0p5LW5UNE9RdG91YVlVLVpCUEhWSTVOZWpucHR0VEdGaE95NVhLV1NuNm1uSHE3Z3hnRnQ1WEh2LTJaSkk4Sml5b0laMDl1N2EtZzJJOTBXQjZ3Vy1RUG81cm5wd2hvbDZjSmVkVTJiNEk0UDcydjlfdEJCampWbg?oc=5",
-   "source": "The Independent",
-   "published": "2026-11-22",
-   "primary": "regulation",
-   "summary": "Tommy Robinson reported to Gambling Commission over crypto betting links The"
-  },
-  {
-   "title": "Grand Slam Of Darts Semi-Final Betting Tips & Predictions (2026)",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjFvZFRsMXpIVE9mRXRYNF9Ea0xxMWp6QUpOS2NpcVRuSmdpLURWczg4SlNyRmhTRng3dWFXN3V2M1JZaVozc0RqbWdPY3ZnZ2JmU0dQOFNfdWlzOWNhYURrcmgtZVFPV0czM2Vvb3g3NnU0YzFwSXZBQk9KR3IzSVdIQlhFXzAyTXU5UHlUTE9Md3NuT2IzTlhHc1FhOTYwc2pEckRpSmg4Wnc?oc=5",
-   "source": "William Hill News",
-   "published": "2026-11-22",
-   "primary": "regulation",
-   "summary": "Grand Slam Of Darts Semi-Final Betting Tips & Predictions (2026) William Hill"
-  },
-  {
-   "title": "Major casino operator severs ties with problem gambling group over Kalshi membership - Las Vegas Review-Journal",
-   "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQMjlmb2xld2xqM0x3MHdDWVg4cjBlQ2c2MG5od3c4MGU3Wms0U3NLekI2RXktMzV2dFEtaVlDajRIdmgyVU16a1pKaWJoZWVqZVN3aEd0cHhxelhuY2tuT1o5MjE4ei1QZzIwZGFTNTM5NkJvcjlDa2hubXFtMGVuWUZCaGZVTUR6YkstRGpkVFpyWHpCVWxPV0puR092Q3pUX3RyWFN5THltdDdlNUtCa2hDU21haGdaRE43WnRDSUdPTS0wYk9ydmpYNUZpZWtWbGpuQ2h0TlVtREd0U2daWDB3Q3FEWUJuRzhGT3dacm5HdWFicGJYOGs0eUpESFpsVmRFRVBZay1iMjJXZnRhRWE5akJwblpvX0lnaEVjcXRGX0J1SjBJdG1YblVaZkFNS2xVLV8wT3d3NU9pVjRveXJmeW1kUWFLaTdxRjlfdmMtV0U5TldXM2cxejl2Y01BOUtac1l3bllJY3RLTTdOakhVUXNqS24teFA4MkpfamtLNG10bVIyTFItelNUa3pPdE13YnNuMmdhMklqR19TU2F5NVN1Q2s1bFFJdmZNckMyZlY5d1F4RjJGNVNhUk9WT1kydmhaQUE?oc=5",
-   "source": "Las Vegas Review-Journal",
-   "published": "2026-11-22",
-   "primary": "public-health",
-   "summary": "Major casino operator severs ties with problem gambling group over Kalshi membership Las Vegas"
-  },
-  {
-   "title": "How the Gambling Industry Levies Support Public Services and Gambling Addiction Support Programs",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEszaVlrVjI4ZmhncG10ZzJVb3VDMS1WTFJDdlFXeVRabWtIMFluTG43M0lZeThqYVdhX2VvSlJqS0pQWFp4R09BYXpHZmRHcW5Md2pGck1RNExfdVctNXBleFJTd2ZJQnRIeEMyT3RZWjhwbUtJOHdtYTh6eDh0LWptUk9WWGlBczl2UzdFVk1zcU53QXFwVVNXWV9LVE1Qb1ozZk9jNTdnLWxsaXdMYXYyZUpHX2paX0E?oc=5",
-   "source": "Aceh Investigasi News",
-   "published": "2026-11-22",
-   "primary": "public-health",
-   "summary": "How the Gambling Industry Levies Support Public Services and Gambling Addiction Support Programs Aceh Investigasi"
-  },
-  {
-   "title": "Tight Battle for NFL Coach of the Year on Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWlJdWs3NnNNSlZia0Ztc3FwLXpFM28tV2dMc3BqbG9YUVZ0VDZ4aFFxajMxNXVsUDZ2SEY5MkUxWWJtRGtIV09pQl9UYUhIYUZxZ1JvYzhnUmVXcHJoeHN0M2RqMlF2WjBaUmlFeWxPY2I0YkdlNG1wSTB2VmwxLWhfY212em9VLTZNNWFnWFNMN21CZHFpZnotNy1XVUtG?oc=5",
-   "source": "Sports Illustrated",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Tight Battle for NFL Coach of the Year on Kalshi Sports"
-  },
-  {
-   "title": "CPI | CFTC Loses Emergency Bid to Block New York Enforcement Against Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXpySEkxeWVueW5reGtseENpcnE3OVo5UUhCSTBfck5pWWJEdXdYTXdIUUtpa3JoWEVZLWFXMzBZX05zX0xOVXhDOWVJUnFBTUstbEFnOWxsTzFFY3ZfYXVMTEJ5WU5KUkI2djlzd0drOEVQWTYwRzRtTjd6V0xaMXpEc0pHaExueGZ3Wm1rQXFZb05WLTlXemNMRnZPT0RMRDkzamdn?oc=5",
-   "source": "PYMNTS.com",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "CPI | CFTC Loses Emergency Bid to Block New York Enforcement Against Kalshi"
-  },
-  {
-   "title": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckt1ZzgtNm51cm5GNWJYclNaYTVLRnhHWHpxNmZqTlZsUGpoR3dqV1lvd19jUW5TVTFCM0F1TkZoMGNOdThmVGhjTUVNUTRtMUFqQkVDQ3ViSGRpYmdIRDJxLV9PMnkyLVlfbjZpWVZhM0Itbm1FM0x5U3B4Wi1hb01FOElUajYt?oc=5",
-   "source": "CNBC",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall"
-  },
-  {
-   "title": "Broncos RB Jonah Coleman Climbing on Kalshi Offensive Rookie of the Year Market",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXEtTHE4cW9WY05rMFRBMWpwN2RRakQycDFmRUI5aWxDZXpXVHA1WkpZTlZZUnhvRnZIQ0ZXTm1iMVpTeWZQejVwNFl6OF9JOTVpWjRLdXhVMnBkSEE2QndlT3VTc0owWTlnVkxIS2VFclNDWmF0WG84c3lJUEE0TGFsNFRCZEQ5LThMMWtTQWxoV0d1c2NqRmdsM0NtV3VURmJHOE5DT1p1ZW1oT3NTRl9IdVgwVUVYQ2FUVHhVWUlxaFJ6S2FXSEpR?oc=5",
-   "source": "Sports Illustrated",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Broncos RB Jonah Coleman Climbing on Kalshi Offensive Rookie of the Year Market Sports"
-  },
-  {
-   "title": "Mention market volume plunges as CFTC halts President Trump contracts on Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlJ6bkVDLVdRdkRkRDhPcE11SFl2dVhGS2lKbHJfNGZFUW5SemdqYk1hQm5KbEJ4VTBfRl92dk8xUVJ4cVluU3VldVpmeGVOMjhySGNMQWRVLTdxX091UXkzMXlZTE1MSW5IY0k2eDIzc2tyd1liT1lrc3NBeFRyNEtBajBJelloZlVxR29wRENOYWpIUlNFX1BzdzE3SmF5SXJQMFVNNmZkdmJQ?oc=5",
-   "source": "CDC Gaming",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Mention market volume plunges as CFTC halts President Trump contracts on Kalshi CDC"
-  },
-  {
-   "title": "Trump administration tries to intervene after Kalshi is threatened with restraining order",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2lUMFVISlNpY1YycVIwTXJjNi1sZXZ3OUVvZkp2TXBCTjlaY0hLdHdINm9pZVdqanA0bG9jVXBWSVhwVkM3SzZmcklfOHNHQkZ5SVZaSFptOVJFcDA4MmNpMTNZQlczV25VT2VCNGlLZGtodEpOMHhoSXduSnFzTXZHbTlBbjZGbUhfUzFTcVdXR3gwUnlQLUwtUnkyLXhlVk9EVG04WmJLbU9RWmhHbzVCNUFEdHhoUGc?oc=5",
-   "source": "CDC Gaming",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Trump administration tries to intervene after Kalshi is threatened with restraining order CDC"
-  },
-  {
-   "title": "NFL anytime touchdown prediction markets: How to trade Week 11 TD props on ProphetX, Kalshi and more",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZlZFcUFjcmZhS2ZsbTZsRHlXWmQ4eWNTOXB5M05YaVpFcmJqOUhHNnMyU0c5SnJvanZ5M0NoaHY0bXJpLXhDOFdJUDZpb2xMNEFWYy0zYWpxZ2dEMEVOSEd5NnJLWmFxVEs5cW1zVHkyV2gzVEg5WkoyU1ZvdE5RYzlhT1JRZGx1ZDR0YXFyV0tUR083Q2ZOWS1oenphb2otSGRIWVlmVUxFWmV0RTVTOFB0TERlY3ZWcVBzbDF1S0NrV3otd1dzMkVKVWZyVVF4SW1OUlZGTWI5THJkVllJ?oc=5",
-   "source": "Sporting News",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "NFL anytime touchdown prediction markets: How to trade Week 11 TD props on ProphetX, Kalshi and more Sporting"
-  },
-  {
-   "title": "Kalshi Trading Surges As NJ Challenges Sports Event Contracts",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlNkR1g2UE9ERG1tTGJheDQxNVJzSlQtcTZRS1hPUllIMHZ0THRQVWNJcVBwSTA4NEFUR0lIVEZya1dhSEF4RzJUX0p6bUlFUEU5R211aElKanowOE12Sk41TWFBakw3aFFtVFctaTVwSENWbzJxMnZOMjNPbXhJT09LMm9pc0l4aUdfNldpTjNwaW5aZmVKWnpVMWdrWVdvR05nejZpX2xuR2hFdGpaZw?oc=5",
-   "source": "PlayNJ",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Kalshi Trading Surges As NJ Challenges Sports Event Contracts"
-  },
-  {
-   "title": "Van Hollen Calls Senate Democratic Leader Race 'Wide Open' as Prediction Markets Favor Schumer",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUFJdGctYUdpOWh6U2ZtZkN6ZHMzYkRoTFdLSlFKMEN5QkJWQV9teEtKM25iY0FqM2NYRW9VSWNZRll5Vmt2eWlCbjRTUHlQcXdfSkNyeWFMbVgtQVNwUDFmWlIyTzczaVVUUGJPY010LUJRUHN6T3BicmZlVEQ1eGowX01LQmwzaUk5UnA2VFFHOVJvLUlKNmhB?oc=5",
-   "source": "Yahoo",
-   "published": "2026-11-22",
-   "primary": "prediction-markets",
-   "summary": "Van Hollen Calls Senate Democratic Leader Race 'Wide Open' as Prediction Markets Favor Schumer"
-  },
-  {
-   "title": "BetMGM Sign-Up Offer | Bet £10 & Get £40 in Free Bets",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnptcU9aRTJiMjFna3EyVUNMU3hkY0Y1YXFBMmJmMlRPQlhia0tLQkpVUU1rUmJIYUVVQnpuVXZQWTk3b3NZRHBkcVR6MFByYTNsM3MxdGE1d2E1T1M1VVVQY0E0amdFNEs5MU9JY2l4WUhkdFRoZFlEcmVTWGF3cTVOTTBUcW1fbXBYT01n?oc=5",
-   "source": "Live Darts",
-   "published": "2026-11-21",
-   "primary": "regulation",
-   "summary": "BetMGM Sign-Up Offer | Bet £10 & Get £40 in Free Bets Live"
-  },
-  {
-   "title": "Kalshi’s GTA Guru Beats 35,000 Applicants to Land Dream Job",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXFxSEhZYl84ci00ckJTcndpcFY0cHpiQzAtaFFNalZ3ekczZU5EZHB2R0lZUnRLQmc1ZDREWlVNdEY5aGVNWFZXYUl6ODd2TTl2X2d5bzVWM0NIQUd5QlhIdFg5ZlNYTHFsZFBUNVNRS0xBYUZrRnAxNDJYZHAxcnFfVVNJYWs3MV9JNDNwZ2I2R1JTbDBVdFUySkRNTkY4Yy0xejM0UFI0aV96WTFn?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "Kalshi’s GTA Guru Beats 35,000 Applicants to Land Dream Job"
-  },
-  {
-   "title": "Involuntary care, gambling addiction, highlighted at addiction medicine conference",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTc0UDN2VklOMXZVdmUwM2xLMzNrVTlNSkZrTllQOVFHcWZFY3NzeW4wZHZvR3kyMWtPY2FQZlZwY0d0WHo3OU5WYU9lUUhEeWRIVGVBQllaODFUOHNWeHR1UGpmV25yTGczcjJnOEI2ZVpMOXVpLVQ0X0F3eTNYYWhRcE5ndi1fWkRQVzNmbFNJQmlaRkE5ZG43eENyV3ZtZ2ZyLXdIU1BtRFFuMEJ4aHotV0o4S0J0REtUSg?oc=5",
-   "source": "CTV News",
-   "published": "2026-11-21",
-   "primary": "public-health",
-   "summary": "Involuntary care, gambling addiction, highlighted at addiction medicine conference CTV"
-  },
-  {
-   "title": "Argentina’s Senate to Debate Problem Gambling Bill Next Week",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTFQYmt6eG5LbjcwdXotM0J6VHlCWUNCTFB4R0FrZkdmWDZnRE9JdHRTUWNWc1BXeEpVTjJ6UG9HLUNMTkF2WjlSU3p1enU2X2gzQk9mZFViMGZ4RUlIa2dBTmotQ0R1b0FCdkI0enR0R0NPTHN5VDNocnlXU1JiN3luVjhFcEg4S21yenJ2elVjams?oc=5",
-   "source": "iGamingToday.com",
-   "published": "2026-11-21",
-   "primary": "public-health",
-   "summary": "Argentina’s Senate to Debate Problem Gambling Bill Next Week"
-  },
-  {
-   "title": "Watchdog hails appeals ruling against Kalshi in Maryland sports-betting fight",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmctVFpadm9XZld1bU5BWDdWZzl6VDRNVklGU1VIVEFUVFJJZ0J3WC1iRVhTaE1oNEJCR3NoYnJXNGoxYkNCSjdRNkd1U3V1Sk91ZjhnUVZXdkJLWUgxYktQcmdtNl94VjZGQnhXeDNLeW0tN1E3T0pFREFaTU8zSnphemxkaXVSTnhDY2Rocl9ybmhWeFlHZU1TakFwVFk0ZXhlM2tDUl94eloxMDBN?oc=5",
-   "source": "njtoday.news",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "Watchdog hails appeals ruling against Kalshi in Maryland sports-betting fight"
-  },
-  {
-   "title": "State and federal battle over prediction markets regulation heats up after midterms",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1VQdl83RWdvc3d5bVdlZmRPMGYzeVB4dGpjZExkUFpFMTd2VmlrRUhMdVFtWVhaNm1LRF85LUw3X1FMR2pMSExSXzlUWGk4bnFDMEtyZlozZ29XMTJ0T0Y2M1VLS0l5ZGJSeldlOUVWeVR4czFVUEZzYzRXUWUwMTJfZ9IBiAFBVV95cUxNV3puYjlYV1c4dzdkbVZ6ZERnZm96Sm4tWUhGOWYwRklRbXdMT2V4OWVNa09YYl9QUkdBTXFOdGNMZWlSdFdwdFQwMTIzcmVEdFJ0SHJ0TjdkbFJvYTcxU3BFQmNzSmoxWUVCZld4UVM5ajBQN0xhc1VzekxVT1JJTWdVTk5BWEpT?oc=5",
-   "source": "CNBC",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "State and federal battle over prediction markets regulation heats up after midterms"
-  },
-  {
-   "title": "Administration tries to intervene after Kalshi is threatened with restraining order - ABC News",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFA1dURQNDVBUndhbkFuSzVGakZtWTd3TzdiV1Bpa3FDQWI0SzZ0OUp4cjl5OE1KY2YtSlNxTEN1RUJMemFrTkMwUV9xQzRpeW1iazZRV0VfNHhiOVBabXpEZUFTZEpWRUFjR292TmVxckpIZDRNTHloMkVuSEdsTFhaRU83S3VSVjdES1lXM2lZdlRZVlVyOUVMRjZrenZhZ2c2bDRqcW9vd9IBrwFBVV95cUxQblo1aTZZTWJ4TFpXaEVEYUFfa29CVTdZY2FoaVdENjRaRk83bUdPUVlfb0V2NmVSc2ZLQ0l5RVBpbzB5WU9leFczc2Y0RGxUQktWQWZVT0o0UUY0UWdaNVRhT3h0X01xYk1kc0dwOFM3T0otcmduX3ZueXFpVzdEbWJMczFTempLcVZ4dWhzVkZHRHpEMGU3ZFdUZElhZ0dXaEtRR1BiT25KZ1pRdnpZ?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "Administration tries to intervene after Kalshi is threatened with restraining order ABC News - Breaking News, Latest News and"
-  },
-  {
-   "title": "Kalshi says New York AG’s lawsuit could shutter company",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajBxSkttaGVhNzhWcHlfbnpncUdQSmhTYndVV2ZXb3llYXZLbXZTZ2pZeU1xLWtJb05uQ0ZmNUFwXzVYNDl4UVdGLVB6VEpNbXNoQkY2QnVYV1MxVWljNE9jeUZ6d25CVzk0QWRnSlNLT25JRVNubXpnbEdUOEkwc3BtbGpweG9HcGcwbndoUnR3Z9IBlwFBVV95cUxNUThzczZwTW1mMmxUaEo2bk1rdE51bGtuUzFPRzA3bFNjUXFfNzByU1pIQ0VqbTBFell1bmtHb0REWF8ybVAzZ3p0T0FleW84Q201ZzNhUnQ5VWoxRkJacnhIdllYMlpEUjV0WmIxQWx0bFA2M2o4ZjNoV1l1T3RKNXFXS1lIR0hjMS01Ump1cXVzdE1TR2Uw?oc=5",
-   "source": "NewsNation",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "Kalshi says New York AG’s lawsuit could shutter company"
-  },
-  {
-   "title": "Kalshi says one state’s lawsuit could threaten its $22 billion business nationwide",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3hPaTZNSDFsRDEtQ0taOGNsYm8tejFPanVybFhvei1Db2FCUHpjU2Q1Um9sYzdCM0xreGw4WUtnRkkxeVZMeU0wc1ZnY3pLcVZzS0VMY0RrZjJKSndWQVliSnFscHFmNmE1UUJWTTlnUFlTSE02bVo1bE10a3F5Ri1YOGlEZnZoTXk2dERZTWZGSENQOTBVeWhCUFJLWTNkVUwyT0tDdFBDX0pMRmd0UjcwVThQY29GV3dVS3ZNV1pHd9IB1gFBVV95cUxQTDdGUWZtRENwX01fRk1mSnRmUUg0a0xQNVBVYUJUcWNtelk3aDB4VlNpSExHN1dYM3IxTWROZ1QwSEpDcEkyYzJSTlNxOHlCamtJQVRHOVBSZmxtRU56a2Zmb3A1VFdsQkJhTEZzZUJpbE1jbUtNa3dkZWF1cFI0bGFpT2ZsWmNZQ2d2ZHlHY29lWEdTZ1JQWE9BZ1Z4dmRLamp6ZjhlRXFfc2tLMGNpY3EzQ1VtRkN2eGJYNkViRDROa3pzQTNxVkdDbUFBdU51aXBqcVFR?oc=5",
-   "source": "Cleveland.com",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "Kalshi says one state’s lawsuit could threaten its $22 billion business nationwide"
-  },
-  {
-   "title": "Institutional trading on Kalshi jumped 4,124% in six months. How much of it is hedging is unclear",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vNmVfTkZ0Nm1YalEwVGxVQXdIOUlJM0NCTmlFelE2d3BNZ2YzbTl5Qm4yZ3VsamVrMElQQjh5QVR1OU4tRnUzTUhPRlRWa3k4R2puSTFQN2ozenBFemFLbER1U3ZTbWJzc2hpTFRfbmtXcE9DcGcw?oc=5",
-   "source": "Fortune",
-   "published": "2026-11-21",
-   "primary": "prediction-markets",
-   "summary": "Institutional trading on Kalshi jumped 4,124% in six months. How much of it is hedging is unclear"
   }
  ],
  "trials": [
@@ -1638,6 +1648,24 @@
    "summary": "Premature termination (dropout) in psychotherapy is a widespread and significant challenge. Practicing clinicians estimate a dropout rate of 8.89%, which they primarily attribute to client dissatisfaction with therapeutic interventions (Kullgard et al., 2022) …",
    "url": "https://osf.io/zhxym/",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "osf:xtk6d",
+   "registry_label": "OSF Registries",
+   "kind": "registration",
+   "title": "Loneliness and risky behaviours in adolescents: a multilevel meta-analysis of domain-specific associations",
+   "status": "registered",
+   "previous_status": null,
+   "status_changed": null,
+   "sponsor": "",
+   "country_names": [],
+   "start_date": null,
+   "completion_date": null,
+   "enrollment": null,
+   "results_posted": false,
+   "summary": "Systematic review with multilevel meta-analysis of observational associations (Pearson r, Fisher z), with synthesis without meta-analysis (SWiM) for adjusted estimates and sparse domains …",
+   "url": "https://osf.io/xtk6d/",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "osf:gvyku",
@@ -1712,24 +1740,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "osf:6pwzn",
-   "registry_label": "OSF Registries",
-   "kind": "registration",
-   "title": "The Impact of Sports Betting on Mental Health and Addiction",
-   "status": "registered",
-   "previous_status": null,
-   "status_changed": null,
-   "sponsor": "",
-   "country_names": [],
-   "start_date": null,
-   "completion_date": null,
-   "enrollment": null,
-   "results_posted": false,
-   "summary": "Since the Supreme Court struck down the Professional and Amateur Sports Protection Act (PASPA) in May 2018, 39 states and the District of Columbia have legalized retail or online sports betting and Americans have wagered nearly $550 billion on sports events, as of August 2026 …",
-   "url": "https://osf.io/6pwzn/",
-   "first_seen": "2026-11-16"
-  },
-  {
    "id": "osf:48bju",
    "registry_label": "OSF Registries",
    "kind": "registration",
@@ -1777,32 +1787,6 @@
    "latest_action_date": "2026-11-17",
    "latest_action": "Placed on Calendar Order of 3rd Reading November 18, 2026",
    "url": "https://openstates.org/il/bills/104th/HB4885/",
-   "topics": []
-  },
-  {
-   "id": "ocd-bill/8ba1df99-c130-4f7e-bc2d-a682abedf4f9",
-   "jurisdiction": "Texas",
-   "identifier": "HB 1164",
-   "title": "Relating to the compensation paid to sales agents for state lottery ticket sales.",
-   "stage": "introduced",
-   "previous_stage": null,
-   "latest_action_date": "2026-11-16",
-   "latest_action": "Filed",
-   "url": "https://openstates.org/tx/bills/90R/HB1164/",
-   "topics": [
-    "lottery"
-   ]
-  },
-  {
-   "id": "ocd-bill/d8d9fcda-6178-4c5d-a90f-69f97f1f6666",
-   "jurisdiction": "Montana",
-   "identifier": "LC 705",
-   "title": "Generally revise gambling laws",
-   "stage": "introduced",
-   "previous_stage": null,
-   "latest_action_date": "2026-11-16",
-   "latest_action": "(LC) Draft in Edit",
-   "url": "https://openstates.org/mt/bills/2027/LC705/",
    "topics": []
   },
   {
@@ -1932,9 +1916,63 @@
    "stage": "introduced",
    "previous_stage": "passed-one",
    "latest_action_date": "2026-11-20",
-   "latest_action": "Message on Senate action sent to the House.",
+   "latest_action": "Held at the desk.",
    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4035",
    "topics": []
+  },
+  {
+   "id": "ocd-bill/a09fb85e-1436-47e8-9deb-9ffecc5d3ef4",
+   "jurisdiction": "New York",
+   "identifier": "S 10748",
+   "title": "Relates to universal pre-kindergarten",
+   "stage": "committee",
+   "previous_stage": null,
+   "latest_action_date": "2026-11-23",
+   "latest_action": "REFERRED TO RULES",
+   "url": "https://openstates.org/ny/bills/2025-2026/S10748/",
+   "topics": [
+    "prediction-markets"
+   ]
+  },
+  {
+   "id": "ocd-bill/e5426179-afbf-4a22-942a-78c41f196a50",
+   "jurisdiction": "New Jersey",
+   "identifier": "SR 114",
+   "title": "Urges prohibition of targeted gambling advertisements to individuals exhibiting signs of problem gambling or addiction.",
+   "stage": "committee",
+   "previous_stage": "introduced",
+   "latest_action_date": "2026-11-23",
+   "latest_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+   "url": "https://openstates.org/nj/bills/222/SR114/",
+   "topics": []
+  },
+  {
+   "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
+   "jurisdiction": "Montana",
+   "identifier": "LC 568",
+   "title": "Revise alcohol licensure eligibility standards for felony convictions",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-11-23",
+   "latest_action": "(LC) Draft Delivered to Requester",
+   "url": "https://openstates.org/mt/bills/2027/LC568/",
+   "topics": [
+    "comorbidity"
+   ]
+  },
+  {
+   "id": "ocd-bill/a3cd12e9-080f-435d-a750-fe5fa7bede65",
+   "jurisdiction": "Montana",
+   "identifier": "LC 2133",
+   "title": "Provide lottery proceeds to teacher's retirement",
+   "stage": "introduced",
+   "previous_stage": null,
+   "latest_action_date": "2026-11-23",
+   "latest_action": "(LC) Drafter Assigned",
+   "url": "https://openstates.org/mt/bills/2027/LC2133/",
+   "topics": [
+    "older-adults"
+   ]
   }
  ],
  "cases": [
@@ -1991,144 +2029,17 @@
    "url": "https://www.courtlistener.com/docket/71042736/kalshiex-llc-v-john-martin/"
   },
   {
-   "id": "cl-d-73414398",
-   "kind": "docket",
-   "case_name": "GEORGIA GAMBLING RECOVERY, LLC v. VGW HOLDINGS, LTD.",
-   "court": "District Court, M.D. Georgia",
-   "court_level": "federal-district",
-   "date_filed": "2026-05-29",
-   "latest_activity": "2026-11-16",
-   "citation": "",
-   "snippet": "28:1332 Diversity-Notice of Removal; nature of suit: 890 Other Statutory Actions",
-   "documents": [
-    {
-     "date": "2026-11-16",
-     "description": "Order on Motion for Extension of Time (Misc) AND Order on Motion for Extension of Time (Misc) AND Order on Motion for Miscellaneous Relief",
-     "url": "https://www.courtlistener.com/docket/73414398/26/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
-    },
-    {
-     "date": "2026-11-13",
-     "description": "JOINT MOTION to Set Briefing Schedule on Responses to Complaint by VGW GP LTD, VGW HOLDINGS LTD, VGW LUCKYLAND INC, VGW MALTA LTD filed by G",
-     "url": "https://www.courtlistener.com/docket/73414398/25/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
-    },
-    {
-     "date": "2026-11-13",
-     "description": "JOINT MOTION to Set Briefing Schedule on Responses to Complaint by VGW GP LTD, VGW HOLDINGS LTD, VGW LUCKYLAND INC, VGW MALTA LTD filed by G",
-     "url": "https://www.courtlistener.com/docket/73414398/25/1/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
-    },
-    {
-     "date": "2026-10-28",
-     "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
-     "url": "https://www.courtlistener.com/docket/73414398/24/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73414398/georgia-gambling-recovery-llc-v-vgw-holdings-ltd/"
-  },
-  {
-   "id": "cl-d-73416148",
-   "kind": "docket",
-   "case_name": "GEORGIA GAMBLING RECOVERY LLC v. DABBLE SPORTS LLC",
-   "court": "District Court, M.D. Georgia",
-   "court_level": "federal-district",
-   "date_filed": "2026-05-29",
-   "latest_activity": "2026-11-16",
-   "citation": "",
-   "snippet": "28:1332 Diversity-Notice of Removal; nature of suit: 890 Other Statutory Actions",
-   "documents": [
-    {
-     "date": "2026-11-16",
-     "description": "Order on Motion for Extension of Time (Misc) AND Order on Motion for Extension of Time (Misc) AND Order on Motion for Miscellaneous Relief",
-     "url": "https://www.courtlistener.com/docket/73416148/21/georgia-gambling-recovery-llc-v-dabble-sports-llc/"
-    },
-    {
-     "date": "2026-10-28",
-     "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
-     "url": "https://www.courtlistener.com/docket/73416148/19/georgia-gambling-recovery-llc-v-dabble-sports-llc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73416148/georgia-gambling-recovery-llc-v-dabble-sports-llc/"
-  },
-  {
-   "id": "cl-d-73413959",
-   "kind": "docket",
-   "case_name": "GEORGIA GAMBLING RECOVERY LLC v. BLITZ STUDIOS INC",
-   "court": "District Court, M.D. Georgia",
-   "court_level": "federal-district",
-   "date_filed": "2026-05-29",
-   "latest_activity": "2026-11-16",
-   "citation": "",
-   "snippet": "28:1332 Diversity-Notice of Removal; nature of suit: Other Statutory Actions",
-   "documents": [
-    {
-     "date": "2026-11-16",
-     "description": "Order on Motion for Extension of Time (Misc) AND Order on Motion for Extension of Time (Misc) AND Order on Motion for Miscellaneous Relief",
-     "url": "https://www.courtlistener.com/docket/73413959/25/georgia-gambling-recovery-llc-v-blitz-studios-inc/"
-    },
-    {
-     "date": "2026-10-28",
-     "description": "Order on Motion to Remand AND Order on Motion to Remand AND Order on Motion to Remand",
-     "url": "https://www.courtlistener.com/docket/73413959/23/georgia-gambling-recovery-llc-v-blitz-studios-inc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73413959/georgia-gambling-recovery-llc-v-blitz-studios-inc/"
-  },
-  {
-   "id": "cl-d-73251327",
-   "kind": "docket",
-   "case_name": "Brown v. Kalshi Inc",
-   "court": "District Court, W.D. Washington",
-   "court_level": "federal-district",
-   "date_filed": "2026-04-27",
-   "latest_activity": "2026-11-16",
-   "citation": "",
-   "snippet": "28:1332 Diversity; nature of suit: 370 Other Fraud",
-   "documents": [
-    {
-     "date": "2026-11-16",
-     "description": "Response to Motion",
-     "url": "https://www.courtlistener.com/docket/73251327/36/brown-v-kalshi-inc/"
-    },
-    {
-     "date": "2026-11-16",
-     "description": "Email Transmittal",
-     "url": "https://www.courtlistener.com/docket/73251327/36/1/brown-v-kalshi-inc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73251327/brown-v-kalshi-inc/"
-  },
-  {
-   "id": "cl-d-75015506",
-   "kind": "docket",
-   "case_name": "Bright v. KalshiEX LLC",
-   "court": "District Court, W.D. Washington",
-   "court_level": "federal-district",
-   "date_filed": "2026-10-23",
-   "latest_activity": "2026-11-16",
-   "citation": "",
-   "snippet": "28:1441 Notice of Removal; nature of suit: 890 Other Statutory Actions",
-   "documents": [
-    {
-     "date": "2026-11-16",
-     "description": "Response to Motion",
-     "url": "https://www.courtlistener.com/docket/75015506/13/bright-v-kalshiex-llc/"
-    },
-    {
-     "date": "2026-10-23",
-     "description": "NOTICE OF REMOVAL from Superior Court of the State of Washington in and for the County of King, case number CASE NUMBER NOT ASSIGNED; (Recei",
-     "url": "https://www.courtlistener.com/docket/75015506/1/bright-v-kalshiex-llc/"
-    },
-    {
-     "date": "2026-10-23",
-     "description": "NOTICE of Appearance by attorney Jessica E La Londe on behalf of Defendants Kalshi Inc, KalshiEX LLC. (La Londe, Jessica)",
-     "url": "https://www.courtlistener.com/docket/75015506/2/bright-v-kalshiex-llc/"
-    },
-    {
-     "date": "2026-10-23",
-     "description": "CORPORATE AND DIVERSITY DISCLOSURE STATEMENT identifying Corporate Parent Kalshi Inc for KalshiEX LLC. Filed pursuant to Fed.R.Civ.P 7.1(a)(",
-     "url": "https://www.courtlistener.com/docket/75015506/3/bright-v-kalshiex-llc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/75015506/bright-v-kalshiex-llc/"
+   "id": "cl-o-11069974",
+   "kind": "opinion",
+   "case_name": "Matter of People v. Commons W., LLC",
+   "court": "New York Court of Appeals",
+   "court_level": "state-supreme",
+   "date_filed": "2026-11-23",
+   "latest_activity": "2026-11-23",
+   "citation": "2026 NY Slip Op 06932",
+   "snippet": "renters receiving income from a parent, from lawful gambling activities, or from alimony or child support payments\"",
+   "documents": [],
+   "url": "https://www.courtlistener.com/opinion/11069974/matter-of-people-v-commons-w-llc/"
   },
   {
    "id": "cl-d-75119504",
@@ -2485,45 +2396,6 @@
    "url": "https://www.courtlistener.com/docket/68927898/southern-ute-indian-tribe-v-polis/"
   },
   {
-   "id": "cl-d-73435998",
-   "kind": "docket",
-   "case_name": "South Carolina Gambling Recovery LLC v. Underdog Sports Holdings, Inc.",
-   "court": "District Court, D. South Carolina",
-   "court_level": "federal-district",
-   "date_filed": "2026-06-02",
-   "latest_activity": "2026-11-20",
-   "citation": "",
-   "snippet": "28:1332 Diversity-Account Receivable; nature of suit: 890 Other Statutory Actions",
-   "documents": [
-    {
-     "date": "2026-11-20",
-     "description": "Reply Not to a Motion",
-     "url": "https://www.courtlistener.com/docket/73435998/117/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-    },
-    {
-     "date": "2026-11-17",
-     "description": "Reply Not to a Motion",
-     "url": "https://www.courtlistener.com/docket/73435998/116/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-    },
-    {
-     "date": "2026-11-12",
-     "description": "Order",
-     "url": ""
-    },
-    {
-     "date": "2026-11-12",
-     "description": "TEXT ORDER: The Court has pending before it a Motion to Remand filed by Plaintiff and fifteen motions by various groups of Defendants asking",
-     "url": "https://www.courtlistener.com/docket/73435998/114/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-    },
-    {
-     "date": "2026-11-06",
-     "description": "SUPPLEMENT by South Carolina Gambling Recovery LLC to 59 MOTION to Remand to State Court, 72 Response in Opposition to Motion,,, Notice of S",
-     "url": "https://www.courtlistener.com/docket/73435998/113/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-    }
-   ],
-   "url": "https://www.courtlistener.com/docket/73435998/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
-  },
-  {
    "id": "cl-d-75091330",
    "kind": "docket",
    "case_name": "Robinhood Derivatives, LLC v. Catherine L. Hanaway,.",
@@ -2770,6 +2642,113 @@
     }
    ],
    "url": "https://www.courtlistener.com/docket/68451952/cayuga-nation-v-odwyer/"
+  },
+  {
+   "id": "cl-d-73456531",
+   "kind": "docket",
+   "case_name": "State of New Mexico v. Kalshi, Inc.",
+   "court": "District Court, D. New Mexico",
+   "court_level": "federal-district",
+   "date_filed": "2026-06-08",
+   "latest_activity": "2026-11-23",
+   "citation": "",
+   "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "description": "Stay",
+     "url": "https://www.courtlistener.com/docket/73456531/50/state-of-new-mexico-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-11-15",
+     "description": "Transcript",
+     "url": "https://www.courtlistener.com/docket/73456531/47/state-of-new-mexico-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-11-10",
+     "description": "Status Conference",
+     "url": "https://www.courtlistener.com/docket/73456531/46/state-of-new-mexico-v-kalshi-inc/"
+    }
+   ],
+   "url": "https://www.courtlistener.com/docket/73456531/state-of-new-mexico-v-kalshi-inc/"
+  },
+  {
+   "id": "cl-d-73435998",
+   "kind": "docket",
+   "case_name": "South Carolina Gambling Recovery LLC v. Underdog Sports Holdings, Inc.",
+   "court": "District Court, D. South Carolina",
+   "court_level": "federal-district",
+   "date_filed": "2026-06-02",
+   "latest_activity": "2026-11-23",
+   "citation": "",
+   "snippet": "28:1332 Diversity-Account Receivable; nature of suit: 890 Other Statutory Actions",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "description": "Notice of Hearing",
+     "url": ""
+    },
+    {
+     "date": "2026-11-20",
+     "description": "Reply Not to a Motion",
+     "url": "https://www.courtlistener.com/docket/73435998/117/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Reply Not to a Motion",
+     "url": "https://www.courtlistener.com/docket/73435998/116/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+    },
+    {
+     "date": "2026-11-12",
+     "description": "TEXT ORDER: The Court has pending before it a Motion to Remand filed by Plaintiff and fifteen motions by various groups of Defendants asking",
+     "url": "https://www.courtlistener.com/docket/73435998/114/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+    },
+    {
+     "date": "2026-11-06",
+     "description": "SUPPLEMENT by South Carolina Gambling Recovery LLC to 59 MOTION to Remand to State Court, 72 Response in Opposition to Motion,,, Notice of S",
+     "url": "https://www.courtlistener.com/docket/73435998/113/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+    }
+   ],
+   "url": "https://www.courtlistener.com/docket/73435998/south-carolina-gambling-recovery-llc-v-underdog-sports-holdings-inc/"
+  },
+  {
+   "id": "cl-d-73332277",
+   "kind": "docket",
+   "case_name": "Mescalero Apache Tribe v. Kalshi, Inc.",
+   "court": "District Court, D. New Mexico",
+   "court_level": "federal-district",
+   "date_filed": "2026-05-12",
+   "latest_activity": "2026-11-24",
+   "citation": "",
+   "snippet": "28:1331 Fed. Question; nature of suit: 890 Other Statutory Actions",
+   "documents": [
+    {
+     "date": "2026-11-24",
+     "description": "Initial Scheduling Order",
+     "url": "https://www.courtlistener.com/docket/73332277/68/mescalero-apache-tribe-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-11-23",
+     "description": "ORDER by District Judge Margaret I. Strickland DENYING 21 Defendants' Motion to Dismiss and GRANTING 23 Plaintiffs' Motion for Preliminary I",
+     "url": "https://www.courtlistener.com/docket/73332277/67/mescalero-apache-tribe-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-11-19",
+     "description": "NOTICE by Mescalero Apache Tribe, Pueblo of Isleta, Pueblo of Pojoaque, Pueblo of Sandia re 23 Response in Opposition to Motion,, 59 Motion ",
+     "url": "https://www.courtlistener.com/docket/73332277/66/mescalero-apache-tribe-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-11-11",
+     "description": "TRANSCRIPT of Proceedings before District Judge Margaret I. Strickland. Court Reporter Rachel M. Lopez. Transcript may be viewed at the Cler",
+     "url": "https://www.courtlistener.com/docket/73332277/65/mescalero-apache-tribe-v-kalshi-inc/"
+    },
+    {
+     "date": "2026-10-21",
+     "description": "Response (when not to a motion)",
+     "url": "https://www.courtlistener.com/docket/73332277/63/mescalero-apache-tribe-v-kalshi-inc/"
+    }
+   ],
+   "url": "https://www.courtlistener.com/docket/73332277/mescalero-apache-tribe-v-kalshi-inc/"
   },
   {
    "id": "cl-o-11069047",

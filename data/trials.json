@@ -42,6 +42,46 @@
   "status_changed": null
  },
  {
+  "id": "osf:xtk6d",
+  "registry": "osf",
+  "registry_label": "OSF Registries",
+  "kind": "registration",
+  "title": "Loneliness and risky behaviours in adolescents: a multilevel meta-analysis of domain-specific associations",
+  "status": "registered",
+  "study_type": "",
+  "phases": [],
+  "enrollment": null,
+  "conditions": [],
+  "interventions": [],
+  "sponsor": "",
+  "sponsor_class": "",
+  "collaborators": [],
+  "countries": [],
+  "country_names": [],
+  "regions": [],
+  "start_date": null,
+  "completion_date": null,
+  "first_posted": "2026-11-21",
+  "last_updated": "2026-11-21",
+  "results_posted": false,
+  "results_date": null,
+  "summary": "Systematic review with multilevel meta-analysis of observational associations (Pearson r, Fisher z), with synthesis without meta-analysis (SWiM) for adjusted estimates and sparse domains …",
+  "url": "https://osf.io/xtk6d/",
+  "registration_type": "OSF Preregistration",
+  "authors": [
+   "Wilson Alexander Zambrano Vélez"
+  ],
+  "topics": [
+   "youth",
+   "comorbidity"
+  ],
+  "designs": [
+   "review"
+  ],
+  "first_seen": "2026-11-24",
+  "status_changed": null
+ },
+ {
   "id": "osf:gvyku",
   "registry": "osf",
   "registry_label": "OSF Registries",

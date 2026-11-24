@@ -1,5 +1,123 @@
 [
  {
+  "id": "ocd-bill/a09fb85e-1436-47e8-9deb-9ffecc5d3ef4",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 10748",
+  "title": "Relates to universal pre-kindergarten",
+  "abstract": "Enacts the \"fairness, user transparency, universal pre-kindergarten, and responsible exchange safeguards act\" or the \"futures act\"; relates to prediction market consumer protection; establishes the futures fund for early education for the purpose of funding universal pre-kindergarten in the state; establishes taxes …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Jeremy Cooney"
+  ],
+  "introduced": "2026-11-23",
+  "latest_action_date": "2026-11-23",
+  "latest_action": "REFERRED TO RULES",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S10748/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10748?summary=&detail=",
+  "topics": [
+   "prediction-markets"
+  ],
+  "updated": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e5426179-afbf-4a22-942a-78c41f196a50",
+  "level": "state",
+  "jurisdiction": "New Jersey",
+  "jurisdiction_code": "nj",
+  "session": "222",
+  "identifier": "SR 114",
+  "title": "Urges prohibition of targeted gambling advertisements to individuals exhibiting signs of problem gambling or addiction.",
+  "abstract": "",
+  "classification": "resolution",
+  "subjects": [],
+  "sponsors": [
+   "Corrado, Kristin M."
+  ],
+  "introduced": "2026-11-23",
+  "latest_action_date": "2026-11-23",
+  "latest_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/nj/bills/222/SR114/",
+  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/SR114",
+  "topics": [],
+  "updated": "2026-11-24",
+  "first_seen": "2026-10-23",
+  "stage_changed": "2026-11-24",
+  "previous_stage": "introduced"
+ },
+ {
+  "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 568",
+  "title": "Revise alcohol licensure eligibility standards for felony convictions",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Alcohol",
+   "Gambling"
+  ],
+  "sponsors": [],
+  "introduced": "2026-09-28",
+  "latest_action_date": "2026-11-23",
+  "latest_action": "(LC) Draft Delivered to Requester",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC568/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0568",
+  "topics": [
+   "comorbidity"
+  ],
+  "updated": "2026-11-24",
+  "first_seen": "2026-09-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a3cd12e9-080f-435d-a750-fe5fa7bede65",
+  "level": "state",
+  "jurisdiction": "Montana",
+  "jurisdiction_code": "mt",
+  "session": "2027",
+  "identifier": "LC 2133",
+  "title": "Provide lottery proceeds to teacher's retirement",
+  "abstract": "",
+  "classification": "bill",
+  "subjects": [
+   "Education - Teachers",
+   "Gambling",
+   "Retirement"
+  ],
+  "sponsors": [],
+  "introduced": "2026-11-23",
+  "latest_action_date": "2026-11-23",
+  "latest_action": "(LC) Drafter Assigned",
+  "latest_passage_date": null,
+  "stage": "introduced",
+  "stage_label": "introduced",
+  "url": "https://openstates.org/mt/bills/2027/LC2133/",
+  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC2133",
+  "topics": [
+   "older-adults"
+  ],
+  "updated": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "stage_changed": null
+ },
+ {
   "id": "us-119-s-4035",
   "level": "federal",
   "jurisdiction": "United States",
@@ -17,14 +135,14 @@
   ],
   "introduced": "2026-03-10",
   "latest_action_date": "2026-11-20",
-  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action": "Held at the desk.",
   "latest_passage_date": null,
   "stage": "introduced",
   "stage_label": "introduced",
   "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4035",
   "source_url": "",
   "topics": [],
-  "updated": "2026-11-21",
+  "updated": "2026-11-24",
   "first_seen": "2026-03-10",
   "stage_changed": "2026-11-21",
   "congress": 119,
@@ -1141,36 +1259,6 @@
   "stage_changed": null
  },
  {
-  "id": "ocd-bill/e147c917-2aac-44ad-abeb-b9ab52698abd",
-  "level": "state",
-  "jurisdiction": "Montana",
-  "jurisdiction_code": "mt",
-  "session": "2027",
-  "identifier": "LC 568",
-  "title": "Revise alcohol licensure eligibility standards for felony convictions",
-  "abstract": "",
-  "classification": "bill",
-  "subjects": [
-   "Alcohol",
-   "Gambling"
-  ],
-  "sponsors": [],
-  "introduced": "2026-09-28",
-  "latest_action_date": "2026-11-09",
-  "latest_action": "(LC) Draft in Input/Proofing",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/mt/bills/2027/LC568/",
-  "source_url": "https://bills.legmt.gov/#/lc/bill/3/LC0568",
-  "topics": [
-   "comorbidity"
-  ],
-  "updated": "2026-11-11",
-  "first_seen": "2026-09-28",
-  "stage_changed": null
- },
- {
   "id": "ocd-bill/81ba7ce5-441a-4f23-946b-faffd2f92dea",
   "level": "state",
   "jurisdiction": "Montana",
@@ -1292,7 +1380,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -1810,7 +1898,8 @@
   "classification": "bill",
   "subjects": [],
   "sponsors": [
-   "Gopal, Vin"
+   "Gopal, Vin",
+   "Diegnan, Patrick J., Jr."
   ],
   "introduced": "2026-10-05",
   "latest_action_date": "2026-10-05",
@@ -1820,11 +1909,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/nj/bills/222/S4720/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/S4720",
-  "topics": [
-   "casino",
-   "industry"
-  ],
-  "updated": "2026-10-16",
+  "topics": [],
+  "updated": "2026-11-24",
   "first_seen": "2026-10-05",
   "stage_changed": null
  },
@@ -5310,7 +5396,8 @@
   "classification": "bill",
   "subjects": [],
   "sponsors": [
-   "McKeon, John F."
+   "McKeon, John F.",
+   "Vitale, Joseph F."
   ],
   "introduced": "2026-05-14",
   "latest_action_date": "2026-05-14",
@@ -5321,11 +5408,9 @@
   "url": "https://openstates.org/nj/bills/222/S4280/",
   "source_url": "https://www.njleg.state.nj.us/bill-search/2026/S4280",
   "topics": [
-   "sports-betting",
-   "casino",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-05-16",
+  "updated": "2026-11-24",
   "first_seen": "2026-05-14",
   "stage_changed": null
  },
@@ -19051,7 +19136,7 @@
   "stage": "passed-one",
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/mo/bills/2025/HB970/",
-  "source_url": "https://house.mo.gov/billactions.aspx?bill=HB970&year=2025&code=R",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB970&year=2025&code=R&style=new",
   "topics": [
    "lottery",
    "policy"
@@ -24053,33 +24138,6 @@
   "topics": [],
   "updated": "2026-11-13",
   "first_seen": "2026-11-13",
-  "stage_changed": null
- },
- {
-  "id": "ocd-bill/e5426179-afbf-4a22-942a-78c41f196a50",
-  "level": "state",
-  "jurisdiction": "New Jersey",
-  "jurisdiction_code": "nj",
-  "session": "222",
-  "identifier": "SR 114",
-  "title": "Urges prohibition of targeted gambling advertisements to individuals exhibiting signs of problem gambling or addiction.",
-  "abstract": "",
-  "classification": "resolution",
-  "subjects": [],
-  "sponsors": [
-   "Corrado, Kristin M."
-  ],
-  "introduced": null,
-  "latest_action_date": null,
-  "latest_action": "",
-  "latest_passage_date": null,
-  "stage": "introduced",
-  "stage_label": "introduced",
-  "url": "https://openstates.org/nj/bills/222/SR114/",
-  "source_url": "https://www.njleg.state.nj.us/bill-search/2026/SR114",
-  "topics": [],
-  "updated": "2026-10-23",
-  "first_seen": "2026-10-23",
   "stage_changed": null
  },
  {

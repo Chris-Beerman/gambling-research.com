@@ -1,10 +1,334 @@
 [
  {
+  "id": "doi:10.1007/s10899-026-10579-z",
+  "doi": "10.1007/s10899-026-10579-z",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "Predictors of Online Sports Betting in Undergraduates: Sociodemographic Characteristics, Betting Motivations, and Psychiatric Symptoms",
+  "journal": "Journal of Gambling Studies",
+  "authors": [
+   "Howard L. Fung",
+   "Laura J. Holt",
+   "Luke Herchenroeder"
+  ],
+  "published": "2026-11-24",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "summary": "Online sports betting (OSB) is a relatively new form of gambling in the United States. Accordingly, its prevalence, sociodemographic and psychiatric correlates, motivations, and consequences have not been widely documented, particularly among emerging adults, the demographic most likely to engage in sports betting …",
+  "url": "https://doi.org/10.1007/s10899-026-10579-z",
+  "oa_url": null,
+  "sources": [
+   "crossref",
+   "feed:jgs"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "youth",
+   "comorbidity",
+   "equity"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "US",
+   "GR"
+  ],
+  "setting_regions": [
+   "us",
+   "europe"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1159/ear/acrag020",
+  "doi": "10.1159/ear/acrag020",
+  "pmid": "43076437",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Gambling Harms: Locating the harm from gambling alongside substance addiction using Multi-Criteria Decision Analysis",
+  "journal": "European Addiction Research",
+  "authors": [
+   "Ryan Statton",
+   "James Close",
+   "Sharon Collard",
+   "Jamie Wheaton",
+   "Sara Davies",
+   "Imogen Martin",
+   "Crescenzo Pinto",
+   "Mark Conway",
+   "Colin Walsh",
+   "Matthew Browne",
+   "Owen Baily",
+   "Emily Crick",
+   "John Elisha Gani",
+   "David Hollingsworth",
+   "Gabriele Penazzi",
+   "Richie Paxton",
+   "Ingrid Louise Temmerman",
+   "David Quinti",
+   "Mara Airoldi"
+  ],
+  "published": "2026-11-24",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "summary": "Introduction Gambling harm has previously been treated differently from substance addiction in policy and regulation, despite emerging evidence of comparable population-level harm. However, direct comparison between gambling - a behavioural addiction - and substance addictions is difficult …",
+  "url": "https://doi.org/10.1159/ear/acrag020",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "treatment",
+   "policy",
+   "comorbidity",
+   "lived-experience"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/00332747.2026.2761679",
+  "doi": "10.1080/00332747.2026.2761679",
+  "pmid": "43076602",
+  "pmcid": null,
+  "openalex": null,
+  "title": "Evaluation of Alexithymia, Narcissism, and Aggression Levels in Gamblers in Terms of Gambling Disorder",
+  "journal": "Psychiatry",
+  "authors": [
+   "Melike Aslan",
+   "Gülseren Keskin"
+  ],
+  "published": "2026-11-24",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "summary": "Gambling disorder has been increasingly associated with various psychological traits that may influence its development and severity. Among these, alexithymia, narcissism, and aggression have gained attention for their potential roles in emotional regulation difficulties and maladaptive coping mechanisms in individuals with gambling problems …",
+  "url": "https://doi.org/10.1080/00332747.2026.2761679",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "TR"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/1329878x261508546",
+  "doi": "10.1177/1329878x261508546",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7238883423",
+  "title": "Uncovering the analogue archaeology of children's digital gamble-play media: walkin’ through Melbourne Central",
+  "journal": "Media International Australia",
+  "authors": [
+   "Jessica Balanzategui",
+   "César Albarrán‐Torres"
+  ],
+  "published": "2026-11-23",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "summary": "Gambling-like products and experiences, what we call ‘gamble-play’, have become ubiquitous in digital media spaces in the form of apps, loot boxes and giveaways. However, they have also become ever-present in urban spaces in the form of claw machines and arcades, trade card dispensers and a constant offer of blind boxes …",
+  "url": "https://doi.org/10.1177/1329878x261508546",
+  "oa_url": "https://doi.org/10.1177/1329878x261508546",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "loot-boxes",
+   "youth"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "AU"
+  ],
+  "setting_regions": [
+   "australia-nz"
+  ],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/25725300261510374",
+  "doi": "10.1177/25725300261510374",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": null,
+  "title": "THE HOUSE TAKES A CUT: INSTITUTIONAL CONFLICT of INTEREST and THE ASSURANCE PROBLEM IN GAMBLING REGULATION",
+  "journal": "Gaming Law Review",
+  "authors": [
+   "Kennedy Chun Yin Kong"
+  ],
+  "published": "2026-11-23",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "summary": "Gambling regulation is standardly debated as a contest between paternalism and adult autonomy. But the state that regulates the activity is also its revenue partner, collecting a forecast share of losses drawn disproportionately from the most heavily harmed …",
+  "url": "https://doi.org/10.1177/25725300261510374",
+  "oa_url": null,
+  "sources": [
+   "crossref"
+  ],
+  "type": "article",
+  "topics": [
+   "policy",
+   "industry"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "US"
+  ],
+  "setting_regions": [
+   "us"
+  ],
+  "countries": [
+   "HK"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/01639625.2026.2767137",
+  "doi": "10.1080/01639625.2026.2767137",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7238872692",
+  "title": "Counting Deviants and Deviant Counting in Indonesia’s Online Gambling Crackdown",
+  "journal": "Deviant Behavior",
+  "authors": [
+   "Rony Kurniawan Pratama",
+   "Eko Rujito Dwi Atmojo"
+  ],
+  "published": "2026-11-23",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "summary": "Between January 2024 and May 2026, Indonesian state actors established online gambling (judi online) as a national emergency through aggregate figures. From a public documentary corpus, we treat these figures as objects of analysis. Annual totals attributed to one agency circulate in incompatible versions …",
+  "url": "https://doi.org/10.1080/01639625.2026.2767137",
+  "oa_url": null,
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.68653/ayf59z19",
+  "doi": "10.68653/ayf59z19",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7237359942",
+  "title": "EVALUATION OF PATHOLOGICAL GAMBLING AND DESTRUCTIVE GAMBLING BEHAVIOUR: FINDINGS FROM BET9JA PLAYERS IN JOS NORTH LOCAL GOVERNMENT AREA OF PLATEAU STATE",
+  "journal": "Verstehen Journal of Social Research",
+  "authors": [
+   "Paul Joshua Oyakose",
+   "Paul Plangkhom Joyce"
+  ],
+  "published": "2026-11-21",
+  "year": 2026,
+  "created": "2026-11-22",
+  "first_seen": "2026-11-24",
+  "summary": "Despite the negative and economic implications associated with gambling, gambling stations seem to be striving with large followership. Purpose of the study is to evaluate gambling addiction among players of bet9ja …",
+  "url": "https://doi.org/10.68653/ayf59z19",
+  "oa_url": "https://journals.plasu.edu.ng/index.php/vjsr/article/download/482/484",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "policy",
+   "prevalence"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "CA"
+  ],
+  "setting_regions": [
+   "canada"
+  ],
+  "countries": [
+   "NG"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1080/14459795.2026.2766139",
   "doi": "10.1080/14459795.2026.2766139",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7224686665",
   "title": "The mediating effect of mindful non-judging on the association between positive and negative urgency and gambling severity",
   "journal": "International Gambling Studies",
   "authors": [
@@ -14,12 +338,13 @@
   "year": 2026,
   "created": "2026-11-23",
   "first_seen": "2026-11-23",
-  "summary": ".",
+  "summary": "While positive and negative urgency predict problem gambling severity and mindfulness is suggested to serve as a protective factor, the underlying mechanisms linking these traits remain unclear …",
   "url": "https://doi.org/10.1080/14459795.2026.2766139",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1080/14459795.2026.2766139",
   "sources": [
    "crossref",
-   "feed:igs"
+   "feed:igs",
+   "openalex"
   ],
   "type": "article",
   "topics": [],
@@ -27,8 +352,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -142,7 +471,7 @@
   "first_seen": "2026-11-23",
   "summary": "This study aims to describe the form of deviant behavior of adolescents in online gambling practices and analyze it from the perspective of Islamic education. This study uses a qualitative approach with a case study method conducted in Kampung Kepuh Nagasari, Nagasari Village, West Karawang District, Karawang Regency …",
   "url": "https://al-afkar.com/index.php/Afkar_Journal/article/view/2585",
-  "oa_url": "https://al-afkar.com/index.php/Afkar_Journal/article/view/2585",
+  "oa_url": "https://al-afkar.com/index.php/Afkar_Journal/article/download/2585/2917",
   "sources": [
    "openalex"
   ],
@@ -3477,7 +3806,7 @@
   ],
   "published": "2026-11-13",
   "year": 2026,
-  "created": "2026-11-09",
+  "created": "2026-11-10",
   "first_seen": "2026-11-10",
   "summary": "Gambling disorder (GD) is a heterogeneous behavioral addiction associated with dysregulated reward processing, impaired executive control, stress-system dysfunction, and maladaptive neuroplasticity …",
   "url": "https://doi.org/10.1080/14656566.2026.2761183",
@@ -3495,7 +3824,7 @@
   "designs": [
    "review"
   ],
-  "design_basis": "pubmed",
+  "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
   "countries": [
@@ -3636,7 +3965,7 @@
   ],
   "published": "2026-11-09",
   "year": 2026,
-  "created": "2026-11-09",
+  "created": "2026-11-10",
   "first_seen": "2026-11-10",
   "summary": "Gambling chasing has traditionally been defined as continued gambling after losses in an effort to recover money, although recent evidence suggests that it may also include broader persistence following salient outcomes, including wins. However, most research has focused on adults, and evidence in adolescence remains limited …",
   "url": "https://doi.org/10.1007/s11121-026-02009-8",
@@ -3647,21 +3976,12 @@
   ],
   "type": "article",
   "topics": [
-   "youth",
-   "cognition",
-   "comorbidity"
+   "youth"
   ],
-  "designs": [
-   "trial",
-   "experiment"
-  ],
+  "designs": [],
   "design_basis": "rules",
-  "settings": [
-   "IT"
-  ],
-  "setting_regions": [
-   "europe"
-  ],
+  "settings": [],
+  "setting_regions": [],
   "countries": [
    "IT"
   ],
@@ -3681,11 +4001,11 @@
   "title": "Incomplete compliance: Loot box prevalence, presence disclosures, probability disclosures, and Compu Gacha policy in Japanese mobile games",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
-   "Kuma X Xiong",
+   "Kuma X. Xiong",
    "Sunny Jie Yang",
    "Anh-Thu Nguyen",
    "Tsubasa Shinohara",
-   "Leon Y Xiao"
+   "Leon Y. Xiao"
   ],
   "published": "2026-11-09",
   "year": 2026,
@@ -27183,7 +27503,7 @@
   "year": 2026,
   "created": "2026-08-09",
   "first_seen": "2026-08-09",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 299-327 .",
   "url": "https://doi.org/10.1080/14459795.2026.2697453",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2697453?needAccess=true",
   "sources": [
@@ -28422,7 +28742,7 @@
   "year": 2026,
   "created": "2026-08-04",
   "first_seen": "2026-08-04",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 426-446 .",
   "url": "https://doi.org/10.1080/14459795.2026.2708667",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2708667?needAccess=true",
   "sources": [
@@ -31284,7 +31604,7 @@
   "year": 2026,
   "created": "2026-07-25",
   "first_seen": "2026-07-25",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 447-464 .",
   "url": "https://doi.org/10.1080/14459795.2026.2708668",
   "oa_url": null,
   "sources": [
@@ -33119,7 +33439,7 @@
   "year": 2026,
   "created": "2026-07-16",
   "first_seen": "2026-07-16",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 374-387 .",
   "url": "https://doi.org/10.1080/14459795.2026.2697447",
   "oa_url": null,
   "sources": [
@@ -36475,7 +36795,7 @@
   "year": 2026,
   "created": "2026-07-03",
   "first_seen": "2026-07-03",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 406-425 .",
   "url": "https://doi.org/10.1080/14459795.2026.2697457",
   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13733637/",
   "sources": [
@@ -36966,7 +37286,7 @@
   "year": 2026,
   "created": "2026-07-02",
   "first_seen": "2026-07-02",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 355-373 .",
   "url": "https://doi.org/10.1080/14459795.2026.2696244",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2696244?needAccess=true",
   "sources": [
@@ -37930,7 +38250,7 @@
   "year": 2026,
   "created": "2026-07-01",
   "first_seen": "2026-07-01",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 388-405 .",
   "url": "https://doi.org/10.1080/14459795.2026.2697456",
   "oa_url": null,
   "sources": [
@@ -40084,7 +40404,7 @@
   "year": 2026,
   "created": "2026-06-29",
   "first_seen": "2026-06-29",
-  "summary": ".",
+  "summary": "Volume 34, Issue 6, December 2026, Page 665-680 .",
   "url": "https://doi.org/10.1080/16066359.2026.2693271",
   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16066359.2026.2693271?needAccess=true",
   "sources": [
@@ -41415,7 +41735,7 @@
   "year": 2026,
   "created": "2026-06-25",
   "first_seen": "2026-06-25",
-  "summary": ".",
+  "summary": "Volume 26, Issue 3, December 2026, Page 328-354 .",
   "url": "https://doi.org/10.1080/14459795.2026.2682460",
   "oa_url": null,
   "sources": [
@@ -54582,7 +54902,7 @@
   "year": 2026,
   "created": "2026-05-07",
   "first_seen": "2026-05-07",
-  "summary": ".",
+  "summary": "Volume 34, Issue 6, December 2026, Page 755-779 .",
   "url": "https://doi.org/10.1080/16066359.2026.2665613",
   "oa_url": "https://doi.org/10.1080/16066359.2026.2665613",
   "sources": [
