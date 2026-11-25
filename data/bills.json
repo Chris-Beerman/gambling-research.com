@@ -1,5 +1,37 @@
 [
  {
+  "id": "us-119-hr-11160",
+  "level": "federal",
+  "jurisdiction": "United States",
+  "jurisdiction_code": "us",
+  "session": "119th Congress",
+  "identifier": "H.R. 11160",
+  "title": "DEATH BETS Act",
+  "abstract": "Discouraging Exploitative Assassination, Tragedy, and Harm Betting in Event Trading Systems Act; DEATH BETS Act",
+  "classification": "bill",
+  "subjects": [
+   "Finance and Financial Sector"
+  ],
+  "sponsors": [
+   "Rep. Levin, Mike [D-CA-49]"
+  ],
+  "introduced": "2026-11-24",
+  "latest_action_date": "2026-11-24",
+  "latest_action": "Referred to the House Committee on Agriculture.",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://www.congress.gov/bill/119th-congress/house-bill/11160",
+  "source_url": "",
+  "topics": [],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "stage_changed": null,
+  "congress": 119,
+  "bill_type": "hr",
+  "number": 11160
+ },
+ {
   "id": "ocd-bill/a09fb85e-1436-47e8-9deb-9ffecc5d3ef4",
   "level": "state",
   "jurisdiction": "New York",
@@ -1380,7 +1412,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -3409,6 +3441,38 @@
   ],
   "updated": "2026-06-05",
   "first_seen": "2025-09-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c772e733-6c2f-4b02-b967-9c012fa22724",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 4738",
+  "title": "Commission on Higher Education",
+  "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-26-20, RELATING TO CERTAIN DUTIES OF THE STATE BOARD OF EDUCATION AND THE COMMISSION ON HIGHER EDUCATION RELATING TO PUBLIC EDUCATOR TRAINING, SO AS TO ELIMINATE THE GOVERNOR'S TEACHING SCHOLARSHIP LOAN PROGRAM; BY AMENDING SECTION 59-26-35 …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "McGinnis",
+   "Erickson"
+  ],
+  "introduced": "2025-12-16",
+  "latest_action_date": "2026-06-02",
+  "latest_action": "Act No. 188",
+  "latest_passage_date": "2026-04-30",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/sc/bills/2025-2026/H4738/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4738&session=126&summary=B",
+  "topics": [
+   "lottery",
+   "policy",
+   "financial-harm"
+  ],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
   "stage_changed": null
  },
  {
@@ -7096,7 +7160,7 @@
   "topics": [
    "youth"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-25",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -12211,7 +12275,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-25",
   "first_seen": "2026-10-27",
   "stage_changed": null
  },
@@ -13649,6 +13713,38 @@
   "topics": [],
   "updated": "2026-03-18",
   "first_seen": "2025-01-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2b0cff50-995a-47fc-8c1c-08b08aec919f",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 4176",
+  "title": "Gaming Commission",
+  "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"I-95 ECONOMIC AND EDUCATION STIMULUS ACT\" BY ADDING CHAPTER 36 TO TITLE 1 SO AS TO ESTABLISH THE SOUTH CAROLINA GAMING COMMISSION THAT MAY AWARD CASINO LICENSES IN CERTAIN COUNTIES.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Murphy",
+   "Brewer",
+   "Stavrinakis",
+   "Wetmore",
+   "Rutherford",
+   "Rose"
+  ],
+  "introduced": "2025-03-06",
+  "latest_action_date": "2026-01-28",
+  "latest_action": "Recommitted to Committee on Ways and Means",
+  "latest_passage_date": null,
+  "stage": "reported",
+  "stage_label": "reported from committee",
+  "url": "https://openstates.org/sc/bills/2025-2026/H4176/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4176&session=126&summary=B",
+  "topics": [],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
   "stage_changed": null
  },
  {
@@ -16682,7 +16778,7 @@
   "topics": [
    "older-adults"
   ],
-  "updated": "2026-11-18",
+  "updated": "2026-11-25",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -19010,6 +19106,37 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/07963ba2-4e98-4046-8098-fe76258cbc39",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "S 62",
+  "title": "Education Scholarship Trust Fund",
+  "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-8-110, RELATING TO DEFINITIONS CONCERNING THE EDUCATION SCHOLARSHIP TRUST FUND, SO AS TO REVISE DEFINITIONS; BY AMENDING SECTION 59-8-115, RELATING TO SCHOLARSHIP APPLICATION CRITERIA AND PROCEDURES, SO AS PROVIDE REQUIREMENTS CONCERNING PRIORITY …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Hembree",
+   "Rice",
+   "Grooms"
+  ],
+  "introduced": "2024-12-11",
+  "latest_action_date": "2025-05-12",
+  "latest_action": "Act No. 11",
+  "latest_passage_date": "2025-02-27",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/sc/bills/2025-2026/S62/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=62&session=126&summary=B",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/d66bd6ef-6bde-464e-b41f-34cf75221780",
   "level": "state",
   "jurisdiction": "New York",
@@ -19078,6 +19205,38 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/0d2ea78d-ae93-4075-9781-c291170ae1b6",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 4129",
+  "title": "Gambling, exceptions",
+  "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 16-19-5 SO AS TO PROVIDE THAT A PERSON WHO PAYS A FEE TO PLAY A GAME IN WHICH SKILL PREDOMINATES OVER CHANCE AND RECEIVES A PRIZE PROPORTIONATE TO HOW SKILLFULLY HE PLAYED IS NOT GAMBLING.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Brewer",
+   "Guffey",
+   "M.M. Smith",
+   "Hartnett",
+   "Teeple",
+   "B.L. Cox"
+  ],
+  "introduced": "2025-03-05",
+  "latest_action_date": "2025-05-08",
+  "latest_action": "Scrivener's error corrected",
+  "latest_passage_date": "2025-05-08",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/sc/bills/2025-2026/H4129/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4129&session=126&summary=B",
+  "topics": [],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/8ab9791b-3a36-4a33-b852-bd3eab298aae",
   "level": "state",
   "jurisdiction": "New York",
@@ -19143,6 +19302,41 @@
   ],
   "updated": "2026-11-19",
   "first_seen": "2026-11-19",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/76af4ccd-0d30-463d-af0d-4eaeba24e047",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 4137",
+  "title": "American Heroes Bingo",
+  "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 12-21-3920, RELATING TO BINGO TAX ACT DEFINITIONS, SO AS TO ADD THE DEFINITIONS OF \"VETERANS' TRUST FUND\" AND \"VETERANS' ORGANIZATION\"; BY AMENDING SECTION 12-21-4020, RELATING TO CLASSES OF BINGO LICENSES, SO AS TO ADD A CLASS G LICENSE FOR …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "B.J. Cox",
+   "Caskey",
+   "T. Moore",
+   "B.L. Cox",
+   "Wooten",
+   "Bustos"
+  ],
+  "introduced": "2025-03-05",
+  "latest_action_date": "2025-05-06",
+  "latest_action": "Referred to Committee on Finance",
+  "latest_passage_date": "2025-05-02",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/sc/bills/2025-2026/H4137/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4137&session=126&summary=B",
+  "topics": [
+   "policy",
+   "veterans"
+  ],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
   "stage_changed": null
  },
  {
@@ -19808,6 +20002,40 @@
   "topics": [],
   "updated": "2026-10-28",
   "first_seen": "2026-10-28",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/427f7531-c033-4cc9-9f28-0a91367c3ab2",
+  "level": "state",
+  "jurisdiction": "South Carolina",
+  "jurisdiction_code": "sc",
+  "session": "2025-2026",
+  "identifier": "H 4321",
+  "title": "SC Children's book challenge/LMA student recognition at State House",
+  "abstract": "A CONCURRENT RESOLUTION TO CONGRATULATE SADIE GAMBLE, ELLAFAIR DURANT, RAILYN JOYNER, AND KAYDEN CRISANTI, FIFTH GRADE STUDENTS AT LAURENCE MANNING ACADEMY, ON WINNING THE 2025 CHILDREN'S BOOK CHALLENGE SPONSORED BY BLACK WATER ELECTRIC COOPERATIVE AND THE ELECTRIC COOPERATIVES OF SOUTH CAROLINA.",
+  "classification": "concurrent resolution",
+  "subjects": [],
+  "sponsors": [
+   "Pedalino",
+   "Alexander",
+   "Anderson",
+   "Atkinson",
+   "Bailey",
+   "Ballentine"
+  ],
+  "introduced": "2025-04-09",
+  "latest_action_date": "2025-04-10",
+  "latest_action": "Introduced, adopted, returned with concurrence",
+  "latest_passage_date": "2025-04-10",
+  "stage": "passed-both",
+  "stage_label": "passed both chambers",
+  "url": "https://openstates.org/sc/bills/2025-2026/H4321/",
+  "source_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4321&session=126&summary=B",
+  "topics": [
+   "youth"
+  ],
+  "updated": "2026-11-25",
+  "first_seen": "2026-11-25",
   "stage_changed": null
  },
  {
@@ -21930,7 +22158,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/mo/bills/2025/HB1251/",
-  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1251&year=2025&code=R&style=new",
+  "source_url": "https://house.mo.gov/billactions.aspx?bill=HB1251&year=2025&code=R",
   "topics": [],
   "updated": "2026-11-19",
   "first_seen": "2026-11-19",
@@ -22310,7 +22538,7 @@
    "sports-betting",
    "policy"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-25",
   "first_seen": "2024-12-12",
   "stage_changed": null
  },

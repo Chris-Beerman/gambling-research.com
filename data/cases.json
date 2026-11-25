@@ -20,7 +20,7 @@
   "documents": [
    {
     "date": "2026-11-24",
-    "description": "Initial Scheduling Order",
+    "description": "INITIAL SCHEDULING ORDER by Magistrate Judge Gregory J. Fouratt. A Telephonic Rule 16 Initial Scheduling Conference is set for January 20, 2",
     "url": "https://www.courtlistener.com/docket/73332277/68/mescalero-apache-tribe-v-kalshi-inc/"
    },
    {
@@ -49,6 +49,52 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-22"
+ },
+ {
+  "id": "cl-d-75135109",
+  "kind": "docket",
+  "case_name": "Farias v. Kalshi, Inc.",
+  "court": "District Court, D. Hawaii",
+  "court_id": "hid",
+  "court_citation": "D. Haw.",
+  "court_level": "federal-district",
+  "court_level_label": "federal district",
+  "date_filed": "2026-11-17",
+  "date_terminated": null,
+  "latest_activity": "2026-11-24",
+  "docket_number": "1:26-cv-00591",
+  "citation": "",
+  "status": "",
+  "url": "https://www.courtlistener.com/docket/75135109/farias-v-kalshi-inc/",
+  "snippet": "28:1441 Petition for Removal; nature of suit: 890 Other Statutory Actions",
+  "suit_nature": "890 Other Statutory Actions",
+  "documents": [
+   {
+    "date": "2026-11-24",
+    "description": "Order on Motion to Appear Pro Hac Vice",
+    "url": "https://www.courtlistener.com/docket/75135109/16/farias-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "NOTICE of Case Assignment: Please reflect Civil case number CV 26-00591 WRP on all further pleadings. (eta)",
+    "url": "https://www.courtlistener.com/docket/75135109/2/farias-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "Order Setting Telephonic Rule 16 Scheduling Conference is set for 09:00AM on 12/21/2026 before MAGISTRATE JUDGE WES REBER PORTER - Signed by",
+    "url": "https://www.courtlistener.com/docket/75135109/4/farias-v-kalshi-inc/"
+   },
+   {
+    "date": "2026-11-18",
+    "description": "Notice Regarding Use of Artificial Intelligence. (eta)",
+    "url": "https://www.courtlistener.com/docket/75135109/3/farias-v-kalshi-inc/"
+   }
+  ],
+  "cite_count": 0,
+  "topics": [
+   "prediction-markets"
+  ],
+  "first_seen": "2026-11-19"
  },
  {
   "id": "cl-o-11069047",
@@ -185,6 +231,29 @@
   "cite_count": 0,
   "topics": [],
   "first_seen": "2026-11-24"
+ },
+ {
+  "id": "cl-o-11071265",
+  "kind": "opinion",
+  "case_name": "Matter of People v. Commons W., LLC",
+  "court": "New York Court of Appeals",
+  "court_id": "ny",
+  "court_citation": "NY",
+  "court_level": "state-supreme",
+  "court_level_label": "state supreme",
+  "date_filed": "2026-11-23",
+  "date_terminated": null,
+  "latest_activity": "2026-11-23",
+  "docket_number": "86",
+  "citation": "2026 NY Slip Op 06932",
+  "status": "Published",
+  "url": "https://www.courtlistener.com/opinion/11071265/matter-of-people-v-commons-w-llc/",
+  "snippet": "renters receiving income from a parent, from lawful gambling activities, or from alimony or child support payments\"",
+  "suit_nature": "",
+  "documents": [],
+  "cite_count": 0,
+  "topics": [],
+  "first_seen": "2026-11-25"
  },
  {
   "id": "cl-d-73242633",
@@ -933,47 +1002,6 @@
    "prediction-markets"
   ],
   "first_seen": "2026-10-16"
- },
- {
-  "id": "cl-d-75135109",
-  "kind": "docket",
-  "case_name": "Farias v. Kalshi, Inc.",
-  "court": "District Court, D. Hawaii",
-  "court_id": "hid",
-  "court_citation": "D. Haw.",
-  "court_level": "federal-district",
-  "court_level_label": "federal district",
-  "date_filed": "2026-11-17",
-  "date_terminated": null,
-  "latest_activity": "2026-11-18",
-  "docket_number": "1:26-cv-00591",
-  "citation": "",
-  "status": "",
-  "url": "https://www.courtlistener.com/docket/75135109/farias-v-kalshi-inc/",
-  "snippet": "28:1441 Petition for Removal; nature of suit: 890 Other Statutory Actions",
-  "suit_nature": "890 Other Statutory Actions",
-  "documents": [
-   {
-    "date": "2026-11-18",
-    "description": "NOTICE of Case Assignment: Please reflect Civil case number CV 26-00591 WRP on all further pleadings. (eta)",
-    "url": "https://www.courtlistener.com/docket/75135109/2/farias-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-11-18",
-    "description": "Order Setting Telephonic Rule 16 Scheduling Conference is set for 09:00AM on 12/21/2026 before MAGISTRATE JUDGE WES REBER PORTER - Signed by",
-    "url": "https://www.courtlistener.com/docket/75135109/4/farias-v-kalshi-inc/"
-   },
-   {
-    "date": "2026-11-18",
-    "description": "Notice Regarding Use of Artificial Intelligence. (eta)",
-    "url": "https://www.courtlistener.com/docket/75135109/3/farias-v-kalshi-inc/"
-   }
-  ],
-  "cite_count": 0,
-  "topics": [
-   "prediction-markets"
-  ],
-  "first_seen": "2026-11-19"
  },
  {
   "id": "cl-d-75119504",

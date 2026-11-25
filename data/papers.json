@@ -1,15 +1,186 @@
 [
  {
-  "id": "doi:10.1007/s10899-026-10579-z",
-  "doi": "10.1007/s10899-026-10579-z",
+  "id": "doi:10.22052/mir.2026.257798.1549",
+  "doi": "10.22052/mir.2026.257798.1549",
   "pmid": null,
   "pmcid": null,
+  "openalex": "W7223696253",
+  "title": "Economic Determinants and Social Influences on Gambling in South Africa: A Mathematical Modeling Approach",
+  "journal": "Mathematics Interdisciplinary Research",
+  "authors": [
+   "Tichaona Chikore",
+   "Farai Nyabadza"
+  ],
+  "published": "2026-12-01",
+  "year": 2026,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-25",
+  "summary": "‎Gambling in South Africa‎, ‎propelled by casinos‎, ‎sports betting‎, ‎and a growing online sector‎, ‎is increasingly influenced by economic pressures and accessibility‎ …",
+  "url": "https://doi.org/10.22052/mir.2026.257798.1549",
+  "oa_url": "https://doaj.org/article/2bb0e997d7c64208b3d3d87ca7182c08",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "sports-betting",
+   "industry"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ZA"
+  ],
+  "setting_regions": [
+   "africa"
+  ],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.vaccine.2026.129385",
+  "doi": "10.1016/j.vaccine.2026.129385",
+  "pmid": "43077985",
+  "pmcid": null,
+  "openalex": "W7239417978",
+  "title": "Effectiveness of a community communication intervention on influenza vaccination uptake and vaccine hesitancy in older adults: A cluster randomised trial in Viet Nam",
+  "journal": "Vaccine",
+  "authors": [
+   "Nguyen Du Tran",
+   "Nhu Duong Tran",
+   "Minh Huu Le",
+   "Thi Tam Pham"
+  ],
+  "published": "2026-11-24",
+  "year": 2026,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-25",
+  "summary": "Influenza vaccination among older adults in Viet Nam is low; the vaccine is bought out of pocket and no reminder system exists. Evidence that communication raises uptake comes almost entirely from high-income settings with funded vaccine and reminders; its effect where vaccine must be bought is uncertain …",
+  "url": "https://doi.org/10.1016/j.vaccine.2026.129385",
+  "oa_url": null,
+  "sources": [
+   "openalex",
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "older-adults"
+  ],
+  "designs": [
+   "trial",
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "VN"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1177/00076503261508716",
+  "doi": "10.1177/00076503261508716",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7239369173",
+  "title": "Civic uncertainty for sale: prediction markets and corporate authority over democratic expectations",
+  "journal": "Business & Society",
+  "authors": [
+   "Martina K. Linnenluecke",
+   "Gerhard Hambusch",
+   "Mona Mashhadi Rajabi",
+   "Tom Smith"
+  ],
+  "published": "2026-11-24",
+  "year": 2026,
+  "created": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "summary": "Prediction market platforms such as Polymarket and Kalshi exercise corporate authority over democratic expectations by turning uncertain outcomes involving elections, policy and geopolitical events into objects of market governance. We urge business and society scholars to examine how this authority is organised and legitimised.",
+  "url": "https://doi.org/10.1177/00076503261508716",
+  "oa_url": "https://doi.org/10.1177/00076503261508716",
+  "sources": [
+   "openalex"
+  ],
+  "type": "editorial",
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [
+   "commentary"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1016/j.jacc.2026.10.074",
+  "doi": "10.1016/j.jacc.2026.10.074",
+  "pmid": "43083519",
+  "pmcid": null,
   "openalex": null,
+  "title": "Betting on Science: Prediction Markets and the Integrity of the Clinical Trial",
+  "journal": "Journal of the American College of Cardiology",
+  "authors": [
+   "Ankeet S Bhatt",
+   "Muthiah Vaduganathan"
+  ],
+  "published": "2026-11-14",
+  "year": 2026,
+  "created": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "summary": "",
+  "url": "https://doi.org/10.1016/j.jacc.2026.10.074",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "prediction-markets"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1007/s10899-026-10579-z",
+  "doi": "10.1007/s10899-026-10579-z",
+  "pmid": "43076996",
+  "pmcid": null,
+  "openalex": "W7239379988",
   "title": "Predictors of Online Sports Betting in Undergraduates: Sociodemographic Characteristics, Betting Motivations, and Psychiatric Symptoms",
   "journal": "Journal of Gambling Studies",
   "authors": [
-   "Howard L. Fung",
-   "Laura J. Holt",
+   "Howard L Fung",
+   "Laura J Holt",
    "Luke Herchenroeder"
   ],
   "published": "2026-11-24",
@@ -21,7 +192,9 @@
   "oa_url": null,
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [
@@ -42,8 +215,12 @@
    "us",
    "europe"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -53,7 +230,7 @@
   "doi": "10.1159/ear/acrag020",
   "pmid": "43076437",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7239430402",
   "title": "Gambling Harms: Locating the harm from gambling alongside substance addiction using Multi-Criteria Decision Analysis",
   "journal": "European Addiction Research",
   "authors": [
@@ -83,8 +260,9 @@
   "first_seen": "2026-11-24",
   "summary": "Introduction Gambling harm has previously been treated differently from substance addiction in policy and regulation, despite emerging evidence of comparable population-level harm. However, direct comparison between gambling - a behavioural addiction - and substance addictions is difficult …",
   "url": "https://doi.org/10.1159/ear/acrag020",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1159/ear/acrag020",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -109,7 +287,7 @@
   "doi": "10.1080/00332747.2026.2761679",
   "pmid": "43076602",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7239357037",
   "title": "Evaluation of Alexithymia, Narcissism, and Aggression Levels in Gamblers in Terms of Gambling Disorder",
   "journal": "Psychiatry",
   "authors": [
@@ -124,6 +302,7 @@
   "url": "https://doi.org/10.1080/00332747.2026.2761679",
   "oa_url": null,
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -138,8 +317,12 @@
   "setting_regions": [
    "europe"
   ],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "TR"
+  ],
+  "regions": [
+   "europe"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -194,7 +377,7 @@
   "doi": "10.1177/25725300261510374",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7239347504",
   "title": "THE HOUSE TAKES A CUT: INSTITUTIONAL CONFLICT of INTEREST and THE ASSURANCE PROBLEM IN GAMBLING REGULATION",
   "journal": "Gaming Law Review",
   "authors": [
@@ -208,7 +391,8 @@
   "url": "https://doi.org/10.1177/25725300261510374",
   "oa_url": null,
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex"
   ],
   "type": "article",
   "topics": [
@@ -340,7 +524,7 @@
   "first_seen": "2026-11-23",
   "summary": "While positive and negative urgency predict problem gambling severity and mindfulness is suggested to serve as a protective factor, the underlying mechanisms linking these traits remain unclear …",
   "url": "https://doi.org/10.1080/14459795.2026.2766139",
-  "oa_url": "https://doi.org/10.1080/14459795.2026.2766139",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14459795.2026.2766139?needAccess=true",
   "sources": [
    "crossref",
    "feed:igs",
@@ -3851,7 +4035,7 @@
    "Laurie Avila",
    "Megha Neelapu",
    "Sophia Boutouis",
-   "Jon E Grant"
+   "Jon E. Grant"
   ],
   "published": "2026-11-10",
   "year": 2026,
@@ -3900,13 +4084,13 @@
   "journal": "Journal of Gambling Studies",
   "authors": [
    "Victoria Matheou",
-   "Mahmood R Gohari",
-   "Karen A Patte",
+   "Mahmood R. Gohari",
+   "Karen A. Patte",
    "Tara Elton-Marshall",
-   "Mark A Ferro",
-   "Scott T Leatherdale",
+   "Mark A. Ferro",
+   "Scott T. Leatherdale",
    "Rachel Laxer",
-   "Adam G Cole"
+   "Adam G. Cole"
   ],
   "published": "2026-11-10",
   "year": 2026,
@@ -5545,17 +5729,8 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "CA",
-   "DE",
-   "GB",
-   "BE"
-  ],
-  "regions": [
-   "canada",
-   "europe",
-   "uk-ireland"
-  ],
+  "countries": [],
+  "regions": [],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -5750,11 +5925,7 @@
   "openalex": "W7225145199",
   "title": "Stigma and Purpose in Life in Gambling Disorder: A Mixed-Methods Study With a Gender Perspective",
   "journal": "Journal of Gambling Studies",
-  "authors": [
-   "Aitana Fernández-Villardón",
-   "Laura Macía",
-   "Ana Estévez"
-  ],
+  "authors": [],
   "published": "2026-11-03",
   "year": 2026,
   "created": "2026-11-03",
@@ -5779,13 +5950,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "ES"
-  ],
-  "regions": [
-   "europe"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -11572,7 +11739,7 @@
   "year": 2026,
   "created": null,
   "first_seen": "2026-10-16",
-  "summary": "Publication date: Available online 22 May 2026 Source: Cognitive and Behavioral Practice Author(s): Jennifer J. Park, Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Jennifer J. Park, Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000611?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
@@ -11610,7 +11777,7 @@
   "year": 2026,
   "created": null,
   "first_seen": "2026-10-16",
-  "summary": "Publication date: Available online 25 May 2026 Source: Cognitive and Behavioral Practice Author(s): Rory A. Pfund, Simone N. Rodda, Jeremiah Weinstock",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Rory A. Pfund, Simone N. Rodda, Jeremiah Weinstock",
   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000623?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
@@ -11644,7 +11811,7 @@
   "year": 2026,
   "created": null,
   "first_seen": "2026-10-16",
-  "summary": "Publication date: Available online 7 April 2026 Source: Cognitive and Behavioral Practice Author(s): Lisa M. Najavits, Marsha Harris, Melissa J. Muir, David M. Ledgerwood",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Lisa M. Najavits, Marsha Harris, Melissa J. Muir, David M. Ledgerwood",
   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000374?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
@@ -11676,7 +11843,7 @@
   "year": 2026,
   "created": null,
   "first_seen": "2026-10-16",
-  "summary": "Publication date: Available online 7 April 2026 Source: Cognitive and Behavioral Practice Author(s): Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Jennifer J. Park, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Li Yan McCurdy, Jennifer M. Loya, Melissa A. Gordon, Jennifer J. Park, Krysten W. Bold, Brian D. Kiluk, Marc N. Potenza",
   "url": "https://www.sciencedirect.com/science/article/pii/S1077722926000362?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
@@ -114601,38 +114768,29 @@
   "openalex": "W4415045201",
   "title": "Pragmatic, Brief, Free, and Validated: Screening, Assessment, and Outcome Measures for Gambling Treatment",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Nicki A. Dowling",
-   "Simone N. Rodda"
-  ],
+  "authors": [],
   "published": "2025-10-01",
   "year": 2025,
-  "created": "2025-10-11",
+  "created": null,
   "first_seen": "2025-10-01",
-  "summary": "• Routine service delivery includes measures for gambling and affected other client outcomes. • Measures should reflect the expected target of gambling treatment. • Screening for gambling harm can aid treatment planning and referral. • Assessment of gambling symptoms should be sensitive to change over a short time period …",
-  "url": "https://doi.org/10.1016/j.cbpra.2025.10.002",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Nicki A. Dowling, Simone N. Rodda",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722925000987?dgcid=rss_sd_all",
   "oa_url": "https://doi.org/10.1016/j.cbpra.2025.10.002",
   "sources": [
+   "feed:cbp",
    "openalex"
   ],
   "type": "article",
   "topics": [
-   "treatment",
-   "families",
-   "equity"
+   "treatment"
   ],
   "designs": [],
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "AU",
-   "NZ"
-  ],
-  "regions": [
-   "australia-nz"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -114876,21 +115034,16 @@
   "openalex": "W4415227043",
   "title": "Cognitive-Behavioral Therapy Techniques for Gambling Disorder: Practice Examples for Clinicians",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Matthew D. Andersland",
-   "Chance V. Dow",
-   "Meredith K. Ginley",
-   "James P. Whelan",
-   "Rory A. Pfund"
-  ],
+  "authors": [],
   "published": "2025-10-01",
   "year": 2025,
-  "created": "2025-10-16",
+  "created": null,
   "first_seen": "2025-10-01",
-  "summary": "",
-  "url": "https://doi.org/10.1016/j.cbpra.2025.10.004",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Matthew D. Andersland, Chance V. Dow, Meredith K. Ginley, James P. Whelan, Rory A. Pfund",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722925001038?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
+   "feed:cbp",
    "openalex"
   ],
   "type": "article",
@@ -114901,13 +115054,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -114919,23 +115068,16 @@
   "openalex": "W4415569384",
   "title": "Change 4 Better (C4B): Development of a Mobile App Providing Cognitive Behavioral Therapy Skills for Gambling Disorder",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Brian D. Kiluk",
-   "Melissa A Gordon",
-   "Jennifer M. Loya",
-   "Li Yan McCurdy",
-   "Jennifer J. Park",
-   "Tami L. Frankforter",
-   "Marc Nicholas Potenza"
-  ],
+  "authors": [],
   "published": "2025-10-01",
   "year": 2025,
-  "created": "2025-10-28",
+  "created": null,
   "first_seen": "2025-10-01",
-  "summary": "",
-  "url": "https://doi.org/10.1016/j.cbpra.2025.10.005",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Brian D. Kiluk, Melissa Gordon, Jennifer M. Loya, Li Yan McCurdy, Jennifer J. Park, Tami L. Frankforter, Marc N. Potenza",
+  "url": "https://www.sciencedirect.com/science/article/pii/S107772292500104X?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
+   "feed:cbp",
    "openalex"
   ],
   "type": "article",
@@ -114946,13 +115088,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
@@ -122674,21 +122812,16 @@
   "openalex": "W4414049341",
   "title": "The Challenge of Retaining Gamblers in Treatment: Comparing Cognitive Motivational Behavior Therapy and CBT",
   "journal": "Cognitive and Behavioral Practice",
-  "authors": [
-   "Edelgard Wulfert",
-   "James D. Broussard",
-   "Stephanie Wemm",
-   "Cathryn Glanton Holzhauer",
-   "Anthony V. Rubonis"
-  ],
+  "authors": [],
   "published": "2025-09-01",
   "year": 2025,
-  "created": "2025-10-10",
+  "created": null,
   "first_seen": "2025-09-01",
-  "summary": "",
-  "url": "https://doi.org/10.1016/j.cbpra.2025.08.004",
+  "summary": "Publication date: November 2026 Source: Cognitive and Behavioral Practice, Volume 33, Issue 4 Author(s): Edelgard Wulfert, James Broussard, Stephanie E. Wemm, Cathryn Glanton Holzhauer, Anthony V. Rubonis",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1077722925000811?dgcid=rss_sd_all",
   "oa_url": null,
   "sources": [
+   "feed:cbp",
    "openalex"
   ],
   "type": "article",
@@ -122699,13 +122832,9 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [
-   "US"
-  ],
-  "regions": [
-   "us"
-  ],
-  "language": "en",
+  "countries": [],
+  "regions": [],
+  "language": null,
   "relevance": "high",
   "retracted": false
  },
