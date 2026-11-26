@@ -824,7 +824,7 @@
   "url": "https://openstates.org/oh/bills/136/SB479/",
   "source_url": "https://www.legislature.ohio.gov/legislation/136/sb479",
   "topics": [],
-  "updated": "2026-11-11",
+  "updated": "2026-11-26",
   "first_seen": "2026-10-13",
   "stage_changed": "2026-11-11",
   "previous_stage": "introduced"
@@ -861,7 +861,7 @@
   "url": "https://openstates.org/oh/bills/136/HB971/",
   "source_url": "https://www.legislature.ohio.gov/legislation/136/hb971",
   "topics": [],
-  "updated": "2026-11-11",
+  "updated": "2026-11-26",
   "first_seen": "2026-07-01",
   "stage_changed": "2026-11-11",
   "previous_stage": "introduced"
@@ -2353,7 +2353,7 @@
   "topics": [
    "loot-boxes"
   ],
-  "updated": "2026-09-11",
+  "updated": "2026-11-26",
   "first_seen": "2025-09-05",
   "stage_changed": null
  },
@@ -2572,10 +2572,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A9251/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9251?summary=&detail=",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
-  "updated": "2026-08-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-11-07",
   "stage_changed": null
  },
@@ -2659,10 +2658,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A11660/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11660?summary=&detail=",
   "topics": [
-   "prediction-markets",
-   "industry"
+   "prediction-markets"
   ],
-  "updated": "2026-07-30",
+  "updated": "2026-11-26",
   "first_seen": "2026-07-29",
   "stage_changed": null
  },
@@ -3008,6 +3006,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/caa5793d-dea2-4d46-9ddb-58f98512455c",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 7704",
+  "title": "Provides exceptions to the three-year prohibition of employment with the New York state gaming commission",
+  "abstract": "Provides exceptions to the three-year prohibition of employment with the New York state gaming commission; excludes starters from the three-year prohibition; allows the commission to provide exceptions during the hiring process.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Peter Oberacker"
+  ],
+  "introduced": "2025-04-30",
+  "latest_action_date": "2026-07-08",
+  "latest_action": "PRINT NUMBER 7704A",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S7704/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S7704?summary=&detail=",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/ad6ca796-3af4-4d34-8f9f-72d07e999b57",
   "level": "state",
   "jurisdiction": "North Carolina",
@@ -3213,6 +3240,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/8a1be9ff-68ab-4edb-a0f6-d7d282fd72b6",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 11612",
+  "title": "Grants the gaming commission the authority to develop, and require racetrack operators to implement, fire protection systems requirements for stables and barns",
+  "abstract": "Grants the gaming commission the authority to develop, and require racetrack operators to implement, fire protection systems requirements for stables and barns used to house horses at racetracks.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rules Committee"
+  ],
+  "introduced": "2026-06-24",
+  "latest_action_date": "2026-06-24",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A11612/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11612?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/cf16b855-4974-4bd2-ba16-06d814e4d434",
   "level": "state",
   "jurisdiction": "New Jersey",
@@ -3341,7 +3395,7 @@
    "sports-betting",
    "policy"
   ],
-  "updated": "2026-06-05",
+  "updated": "2026-11-26",
   "first_seen": "2025-04-17",
   "stage_changed": null
  },
@@ -3369,10 +3423,9 @@
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S8636?summary=&detail=",
   "topics": [
    "sports-betting",
-   "self-exclusion",
-   "policy"
+   "self-exclusion"
   ],
-  "updated": "2026-06-05",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-07",
   "stage_changed": null
  },
@@ -3403,7 +3456,7 @@
    "sports-betting",
    "youth"
   ],
-  "updated": "2026-06-05",
+  "updated": "2026-11-26",
   "first_seen": "2025-05-13",
   "stage_changed": null
  },
@@ -3436,10 +3489,9 @@
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9113?summary=&detail=",
   "topics": [
    "sports-betting",
-   "self-exclusion",
-   "policy"
+   "self-exclusion"
   ],
-  "updated": "2026-06-05",
+  "updated": "2026-11-26",
   "first_seen": "2025-09-26",
   "stage_changed": null
  },
@@ -3499,10 +3551,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S9415/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9415?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-06-05",
+  "updated": "2026-11-26",
   "first_seen": "2026-03-10",
   "stage_changed": null
  },
@@ -3531,10 +3582,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A10329/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10329?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-06-03",
+  "updated": "2026-11-26",
   "first_seen": "2026-02-20",
   "stage_changed": null
  },
@@ -3563,12 +3613,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S10092/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10092?summary=&detail=",
   "topics": [
-   "online-gambling",
-   "youth",
-   "advertising",
-   "industry"
+   "online-gambling"
   ],
-  "updated": "2026-06-05",
+  "updated": "2026-11-26",
   "first_seen": "2026-04-28",
   "stage_changed": null
  },
@@ -3706,7 +3753,7 @@
    "sports-betting",
    "youth"
   ],
-  "updated": "2026-06-02",
+  "updated": "2026-11-26",
   "first_seen": "2026-03-06",
   "stage_changed": null
  },
@@ -3839,15 +3886,40 @@
   "topics": [
    "lottery",
    "casino",
-   "youth",
-   "treatment",
    "policy",
-   "comorbidity",
-   "industry",
-   "veterans"
+   "industry"
   ],
-  "updated": "2026-05-29",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-21",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a9f66b9c-7061-42af-896d-ffa717c0d31f",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 11521",
+  "title": "Enacts the New York prediction market regulation act",
+  "abstract": "Requires a license from the department of financial services to operate a prediction market; defines \"prediction market\" as any platform, electronic or physical, that allows participants to place wagers, trades, or financial positions on the outcome of future events, including but not limited to political, economic …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "John T. McDonald III"
+  ],
+  "introduced": "2026-05-28",
+  "latest_action_date": "2026-05-28",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A11521/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11521?summary=&detail=",
+  "topics": [
+   "prediction-markets"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -4718,7 +4790,7 @@
    "sports-betting",
    "policy"
   ],
-  "updated": "2026-05-22",
+  "updated": "2026-11-26",
   "first_seen": "2025-04-11",
   "stage_changed": null
  },
@@ -4849,10 +4921,9 @@
   "source_url": "https://www.legislature.ohio.gov/legislation/136/hb887",
   "topics": [
    "prediction-markets",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-05-21",
+  "updated": "2026-11-26",
   "first_seen": "2026-05-12",
   "stage_changed": null
  },
@@ -4879,11 +4950,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S9414/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9414?summary=&detail=",
   "topics": [
-   "prediction-markets",
-   "policy",
-   "industry"
+   "prediction-markets"
   ],
-  "updated": "2026-08-17",
+  "updated": "2026-11-26",
   "first_seen": "2026-03-10",
   "stage_changed": null
  },
@@ -5153,6 +5222,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/19f5a779-d023-4ae8-a77c-524a0fac8f25",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 10470",
+  "title": "Prohibits mobile sports wagering operators or platform providers from permitting, accepting, or facilitating placement of a sports wager through a mobile application from any individual on a NY college campus",
+  "abstract": "Prohibits mobile sports wagering operators or platform providers from permitting, accepting, or facilitating the placement of a sports wager through a mobile application or platform from any individual on a college campus in the state; requires mobile sports betting platforms to implement geofencing restrictions on …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Andrew Gounardes"
+  ],
+  "introduced": "2026-05-15",
+  "latest_action_date": "2026-05-15",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S10470/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10470?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/d647dff3-2573-41db-8b07-4c8315b52842",
   "level": "state",
   "jurisdiction": "New York",
@@ -5179,7 +5277,7 @@
    "advertising",
    "comorbidity"
   ],
-  "updated": "2026-05-16",
+  "updated": "2026-11-26",
   "first_seen": "2026-05-15",
   "stage_changed": null
  },
@@ -5209,11 +5307,37 @@
    "sports-betting",
    "advertising",
    "policy",
-   "comorbidity",
-   "industry"
+   "comorbidity"
   ],
-  "updated": "2026-05-16",
+  "updated": "2026-11-26",
   "first_seen": "2026-05-15",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/96119aba-b94b-4196-87e2-7d035712c8ba",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 11432",
+  "title": "Relates to operating historical horse racing products",
+  "abstract": "Authorizes the operation of historical horse racing; provides for the payment distribution of all pari-mutuel handle derived from historical horse racing.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rules Committee"
+  ],
+  "introduced": "2026-05-15",
+  "latest_action_date": "2026-05-15",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A11432/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11432?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -5239,10 +5363,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A11414/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11414?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "policy"
+   "sports-betting"
   ],
-  "updated": "2026-05-16",
+  "updated": "2026-11-26",
   "first_seen": "2026-05-15",
   "stage_changed": null
  },
@@ -5576,11 +5699,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/oh/bills/136/HB800/",
   "source_url": "https://www.legislature.ohio.gov/legislation/136/hb800",
-  "topics": [
-   "policy",
-   "industry"
-  ],
-  "updated": "2026-05-14",
+  "topics": [],
+  "updated": "2026-11-26",
   "first_seen": "2026-03-31",
   "stage_changed": null
  },
@@ -5639,6 +5759,35 @@
   "topics": [],
   "updated": "2026-08-08",
   "first_seen": "2026-01-30",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1ab3be8d-008f-4c60-9838-4922c4c5866b",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 10259",
+  "title": "Prohibits mobile sports wagering operators from being eligible to receive the excelsior jobs program credit",
+  "abstract": "Prohibits mobile sports wagering operators, including parent companies or subsidiaries thereof, from being eligible to receive the excelsior jobs program credit.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Siela Bynoe"
+  ],
+  "introduced": "2026-05-08",
+  "latest_action_date": "2026-05-08",
+  "latest_action": "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S10259/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10259?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -6238,10 +6387,9 @@
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10154?summary=&detail=",
   "topics": [
    "sports-betting",
-   "treatment",
-   "industry"
+   "treatment"
   ],
-  "updated": "2026-05-01",
+  "updated": "2026-11-26",
   "first_seen": "2026-04-30",
   "stage_changed": null
  },
@@ -6268,8 +6416,102 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S10153/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10153?summary=&detail=",
   "topics": [],
-  "updated": "2026-05-01",
+  "updated": "2026-11-26",
   "first_seen": "2026-04-30",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b18d78cb-3147-446a-8f6c-1b9587ee02ef",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 10152",
+  "title": "Relates to mechanisms authorized sports bettors may utilize to fund their mobile sports wagering accounts",
+  "abstract": "Provides that only automated clearing houses or electronic funds transfers from such authorized sports bettor's personal bank account, wire transfers from an authorized sports bettor's personal bank account, personal checks delivered to the operator, a debit card issued by a financial institution that draws directly …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Kristen Gonzalez",
+   "Patricia Fahy"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-04-30",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S10152/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10152?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/d6d9524b-9b46-4c35-85fb-ee7a6bfd6937",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 10121",
+  "title": "Establishes a former foster youth priority program that reserves a proportion of units in applicable housing lotteries for eligible former foster youth",
+  "abstract": "Establishes a former foster youth priority program that reserves at least five percent of units in housing lotteries that are administered by the New York city department of housing preservation and development or the New York city housing development corporation for eligible former foster youth; authorizes the …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Jabari Brisport"
+  ],
+  "introduced": "2026-04-30",
+  "latest_action_date": "2026-04-30",
+  "latest_action": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S10121/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10121?summary=&detail=",
+  "topics": [
+   "lottery",
+   "youth"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/02914244-237f-4a76-8e07-6a3b6acae416",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 9557",
+  "title": "Relates to mechanisms authorized sports bettors may utilize to fund their mobile sports wagering accounts",
+  "abstract": "Provides that only automated clearing houses or electronic funds transfers from such authorized sports bettor's personal bank account, wire transfers from an authorized sports bettor's personal bank account, personal checks delivered to the operator, a debit card issued by a financial institution that draws directly …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner",
+   "John T. McDonald III",
+   "MaryJane Shimsky",
+   "Yudelka Tapia",
+   "Sarah Clark",
+   "Scott H. Bendett"
+  ],
+  "introduced": "2026-01-14",
+  "latest_action_date": "2026-04-30",
+  "latest_action": "PRINT NUMBER 9557A",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A9557/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9557?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -6339,6 +6581,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/48582489-c43c-4cc8-8600-6b2444d1929d",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 10091",
+  "title": "Enacts the \"protecting our kids from gamification of gambling act\"",
+  "abstract": "Enacts the \"protecting our kids from gamification of gambling act\"; makes it unlawful for operators of social gaming platforms to provide a service to a minor user that allows online gaming-related gambling.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Samra Brouk"
+  ],
+  "introduced": "2026-04-28",
+  "latest_action_date": "2026-04-28",
+  "latest_action": "REFERRED TO INTERNET AND TECHNOLOGY",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S10091/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10091?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/f4fd38c1-61ce-4fe2-8c8a-80ba401bd46d",
   "level": "state",
   "jurisdiction": "Minnesota",
@@ -6399,10 +6668,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S10069/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10069?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-04-27",
+  "updated": "2026-11-26",
   "first_seen": "2026-04-27",
   "stage_changed": null
  },
@@ -8055,6 +8323,36 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/04fd8624-3775-43db-80a3-4fd5b722650e",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 9825",
+  "title": "Restricts the use of prediction markets and/or mobile sports wagering platforms by certain public officers when using information acquired by such person in the course of their official duties",
+  "abstract": "Restricts the use of prediction markets and/or mobile sports wagering platforms by officers or employees of a state agency, members of the legislature or legislative employees when using information acquired by such public officer in the course of their official duties.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "James Skoufis"
+  ],
+  "introduced": "2026-04-07",
+  "latest_action_date": "2026-04-07",
+  "latest_action": "REFERRED TO ETHICS AND INTERNAL GOVERNANCE",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S9825/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9825?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "prediction-markets"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/f80ea6b8-e8e6-4794-8cb3-ea6125703906",
   "level": "state",
   "jurisdiction": "Missouri",
@@ -8375,7 +8673,7 @@
    "prevention",
    "policy"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -8503,7 +8801,7 @@
   "url": "https://openstates.org/il/bills/104th/SB3718/",
   "source_url": "https://ilga.gov/Legislation/BillStatus?DocNum=3718&GAID=18&DocTypeID=SB&LegId=166968&SessionID=114",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-11-26",
   "first_seen": "2026-02-05",
   "stage_changed": null
  },
@@ -9016,12 +9314,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A10712/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10712?summary=&detail=",
   "topics": [
-   "online-gambling",
-   "youth",
-   "advertising",
-   "industry"
+   "online-gambling"
   ],
-  "updated": "2026-07-01",
+  "updated": "2026-11-26",
   "first_seen": "2026-03-26",
   "stage_changed": null
  },
@@ -9052,12 +9347,8 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/ny/bills/2025-2026/A10709/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10709?summary=&detail=",
-  "topics": [
-   "online-gambling",
-   "youth",
-   "industry"
-  ],
-  "updated": "2026-08-19",
+  "topics": [],
+  "updated": "2026-11-26",
   "first_seen": "2026-03-26",
   "stage_changed": null
  },
@@ -9125,6 +9416,35 @@
   "congress": 119,
   "bill_type": "s",
   "number": 4188
+ },
+ {
+  "id": "ocd-bill/03aae4fd-5d42-4e80-a674-42786a263ef5",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 6970",
+  "title": "Relates to unsold instant lottery game tickets",
+  "abstract": "Requires the return of unsold instant lottery game tickets to the division of the lottery when a licensed agent goes out of business, sells their business or if their license is suspended or revoked.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-03-27",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": "2026-03-25",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/ny/bills/2025-2026/S6970/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6970?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
  },
  {
   "id": "ocd-bill/9167f536-ff29-4599-966e-ca40366a9c51",
@@ -9218,6 +9538,42 @@
   "topics": [],
   "updated": "2026-05-16",
   "first_seen": "2025-05-20",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/05b89614-cd12-47bc-93ac-7b30c3d59426",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 382",
+  "title": "Relates to advertising restrictions for mobile sports wagering licensees",
+  "abstract": "Expands advertising restrictions for gaming facility licensees and applicants to include mobile sports wagering licensees.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Clyde Vanel",
+   "Phil Steck",
+   "Angelo Santabarbara",
+   "Alex Bores",
+   "Carrie Woerner",
+   "Nader Sayegh"
+  ],
+  "introduced": "2025-01-08",
+  "latest_action_date": "2026-03-25",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": "2026-03-25",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/ny/bills/2025-2026/A382/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A382?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "advertising",
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -9404,7 +9760,7 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A10538/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10538?summary=&detail=",
   "topics": [],
-  "updated": "2026-04-30",
+  "updated": "2026-11-26",
   "first_seen": "2026-03-09",
   "stage_changed": null
  },
@@ -9950,7 +10306,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-30",
   "stage_changed": null
  },
@@ -10379,6 +10735,37 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/f79e3ad7-8ef2-4ac2-b280-07fcc12ca0a1",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 9436",
+  "title": "Relates to advertising restrictions for mobile sports wagering licensees",
+  "abstract": "Expands advertising restrictions for gaming facility licensees and applicants to include mobile sports wagering licensees.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Leroy Comrie"
+  ],
+  "introduced": "2026-03-12",
+  "latest_action_date": "2026-03-12",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S9436/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9436?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "advertising",
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/82b61620-6d8a-489f-a030-21b90210ce4c",
   "level": "state",
   "jurisdiction": "Minnesota",
@@ -10472,11 +10859,9 @@
   "url": "https://openstates.org/hi/bills/2026/HB2198/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2198&year=2026",
   "topics": [
-   "prediction-markets",
-   "policy",
-   "industry"
+   "prediction-markets"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-26",
   "stage_changed": null
  },
@@ -10678,7 +11063,7 @@
   "url": "https://openstates.org/ny/bills/2025-2026/J1707/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/J1707?summary=&detail=",
   "topics": [],
-  "updated": "2026-03-31",
+  "updated": "2026-11-26",
   "first_seen": "2026-03-05",
   "stage_changed": null
  },
@@ -10899,6 +11284,92 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/dbd6a1ef-3bcc-4702-bdd1-2011a16fc062",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 10526",
+  "title": "Prohibits mobile sports wagering operators or platform providers from permitting, accepting, or facilitating placement of a sports wager through a mobile application from any individual on a NY college campus",
+  "abstract": "Prohibits mobile sports wagering operators or platform providers from permitting, accepting, or facilitating the placement of a sports wager through a mobile application or platform from any individual on a college campus in the state; requires mobile sports betting platforms to implement geofencing restrictions on …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rebecca Kassay",
+   "Deborah Glick"
+  ],
+  "introduced": "2026-03-06",
+  "latest_action_date": "2026-03-06",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A10526/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10526?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8eb0710f-8b31-46ee-b914-8df70a48c9bd",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 10495",
+  "title": "Prohibits mobile sports wagering operators from conditioning the withdrawal of funds on a requirement that a sports bettor first wager deposited funds",
+  "abstract": "Prohibits mobile sports wagering operators from imposing any condition requiring an authorized sports bettor to wager deposited funds as a prerequisite to withdrawing such funds.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Rebecca Kassay"
+  ],
+  "introduced": "2026-03-06",
+  "latest_action_date": "2026-03-06",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A10495/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10495?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/f3f08d87-2271-452f-abe9-c0e9aea50fac",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 10433",
+  "title": "Sets compensation and maximum compensation for the boards of directors of off-track betting corporations",
+  "abstract": "Increases compensation and maximum compensation for the boards of directors of off-track betting corporations.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Steve Stern"
+  ],
+  "introduced": "2026-03-06",
+  "latest_action_date": "2026-03-06",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A10433/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10433?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/8eaf8e19-abb1-4187-90ab-47bac755c69d",
   "level": "state",
   "jurisdiction": "Kentucky",
@@ -11078,6 +11549,36 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/2bcc0038-e836-47bc-ab1c-43e73b5304b1",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 2613",
+  "title": "Requires the state to keep state lottery winners identities anonymous",
+  "abstract": "Requires the state to keep state lottery winners' identities anonymous to the general public unless the lottery winner gives their consent.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr.",
+   "Jamaal Bailey"
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2026-03-04",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": "2026-03-04",
+  "stage": "passed-one",
+  "stage_label": "passed one chamber",
+  "url": "https://openstates.org/ny/bills/2025-2026/S2613/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2613?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/905f4a24-b4b1-4de4-92a8-b9d3b4f9d784",
   "level": "state",
   "jurisdiction": "Michigan",
@@ -11151,6 +11652,38 @@
   ],
   "updated": "2026-10-30",
   "first_seen": "2026-02-25",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b8cb25f2-013c-4066-a6d0-30c570340f97",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 10388",
+  "title": "Prohibits sports wagering on school property",
+  "abstract": "Prohibits sports wagering on public elementary or secondary school property, or in or on a school bus.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Phil Steck",
+   "Alicia Hyndman",
+   "Keith Brown",
+   "John T. McDonald III"
+  ],
+  "introduced": "2026-03-03",
+  "latest_action_date": "2026-03-03",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A10388/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10388?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -12280,6 +12813,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/a6fbe7d0-fc12-4f18-a02e-0a3214c9ab16",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 10231",
+  "title": "Relates to unclaimed winnings and refunds and the remittance of taxes",
+  "abstract": "Requires a regional off-track betting corporation that is comprised in the capital district to distribute unclaimed winnings and refunds to participating counties comprising the capital district corporation; provides penalties for late distributions; provides for the remittance of pari-mutuel wagering taxes.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "John T. McDonald III"
+  ],
+  "introduced": "2026-02-12",
+  "latest_action_date": "2026-02-12",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A10231/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10231?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/deadc834-be47-42e6-9a5d-f64c8f5d7be5",
   "level": "state",
   "jurisdiction": "Mississippi",
@@ -12396,7 +12956,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-28",
   "stage_changed": null
  },
@@ -12761,7 +13321,7 @@
   "topics": [
    "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-23",
   "stage_changed": null
  },
@@ -13185,12 +13745,41 @@
   "url": "https://openstates.org/hi/bills/2026/HB1527/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1527&year=2026",
   "topics": [
-   "casino",
    "advertising",
    "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-14",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/74433d1e-8621-4c46-9117-a32362da823b",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 9116",
+  "title": "Establishes an instant lottery scratch-off game to fund scholarships for veterans",
+  "abstract": "Establishes the veterans benefit instant lottery scratch-off game to fund scholarships for veterans through the veterans tuition awards program.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Pete Harckham"
+  ],
+  "introduced": "2026-02-04",
+  "latest_action_date": "2026-02-04",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S9116/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9116?summary=&detail=",
+  "topics": [
+   "lottery",
+   "veterans"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -13218,6 +13807,33 @@
   "topics": [],
   "updated": "2026-03-18",
   "first_seen": "2026-02-02",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/df2ffc1a-a363-4784-85f0-dcd3d433238b",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 9103",
+  "title": "Prohibits gambling on elections",
+  "abstract": "Provides that gambling upon the results of any political election shall be prohibited.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Luis R. Sepúlveda"
+  ],
+  "introduced": "2026-02-03",
+  "latest_action_date": "2026-02-03",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S9103/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9103?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -13536,7 +14152,7 @@
    "policy",
    "industry"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-30",
   "stage_changed": null
  },
@@ -13577,10 +14193,9 @@
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3268&year=2026",
   "topics": [
    "casino",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-28",
   "stage_changed": null
  },
@@ -13679,10 +14294,9 @@
   "url": "https://openstates.org/hi/bills/2026/HB2222/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2222&year=2026",
   "topics": [
-   "casino",
-   "policy"
+   "casino"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-26",
   "stage_changed": null
  },
@@ -13711,8 +14325,35 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S3632/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3632?summary=&detail=",
   "topics": [],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-29",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/79fe0d43-c760-49aa-8ff4-7b9cea281d34",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 3204",
+  "title": "Enacts the \"emergency school relief act of 2026\"",
+  "abstract": "Enacts the \"emergency school relief act\"; makes changes in the percentages for disposition of revenue from lottery prize account to increase the percentage directed to state aid for education funding.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Angelo Santabarbara"
+  ],
+  "introduced": "2025-01-23",
+  "latest_action_date": "2026-01-29",
+  "latest_action": "PRINT NUMBER 3204A",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A3204/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A3204?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -13864,11 +14505,41 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S9048/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9048?summary=&detail=",
   "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-01-27",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/4976d90e-d3e4-46cf-b9a7-06478e4a730b",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 9047",
+  "title": "Provides that mobile sports wagering operators and mobile sports wagering platforms are prohibited from limiting the size and frequency of deposits or wagers or banning authorized sports bettors individually",
+  "abstract": "Provides that mobile sports wagering operators and mobile sports wagering platforms are prohibited from limiting the size and frequency of deposits or wagers of authorized sports bettors because the bettor obtains financial benefit or due to the bettor's waging activity; provides exceptions for suspicious wagering …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Patricia Fahy"
+  ],
+  "introduced": "2026-01-27",
+  "latest_action_date": "2026-01-27",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S9047/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9047?summary=&detail=",
+  "topics": [
    "sports-betting",
+   "policy",
    "industry"
   ],
-  "updated": "2026-03-18",
-  "first_seen": "2026-01-27",
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -13973,8 +14644,38 @@
   "topics": [
    "sports-betting"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-21",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b1bbd9fd-4279-430a-84b0-1f6cf96a8d97",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 9635",
+  "title": "Restricts the use of prediction markets and/or mobile sports wagering platforms by certain public officers when using information acquired by such person in the course of their official duties",
+  "abstract": "Restricts the use of prediction markets and/or mobile sports wagering platforms by officers or employees of a state agency, members of the legislature or legislative employees when using information acquired by such public officer in the course of their official duties.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Phil Steck"
+  ],
+  "introduced": "2026-01-21",
+  "latest_action_date": "2026-01-21",
+  "latest_action": "REFERRED TO GOVERNMENTAL OPERATIONS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A9635/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9635?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "prediction-markets"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -14000,10 +14701,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A9580/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9580?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-21",
   "stage_changed": null
  },
@@ -14030,11 +14730,46 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A9579/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9579?summary=&detail=",
   "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-01-21",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9e4e84fe-c936-4eca-9f7d-efcb422e94c2",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 9125",
+  "title": "Provides that mobile sports wagering operators and mobile sports wagering platforms are prohibited from limiting the size and frequency of deposits or wagers or banning authorized sports bettors individually",
+  "abstract": "Provides that mobile sports wagering operators and mobile sports wagering platforms are prohibited from limiting the size and frequency of deposits or wagers of authorized sports bettors because the bettor obtains financial benefit or due to the bettor's waging activity; provides exceptions for suspicious wagering …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Alex Bores",
+   "MaryJane Shimsky",
+   "Carrie Woerner",
+   "Scott H. Bendett",
+   "William Colton",
+   "Grace Lee"
+  ],
+  "introduced": "2025-09-26",
+  "latest_action_date": "2026-01-21",
+  "latest_action": "PRINT NUMBER 9125A",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A9125/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9125?summary=&detail=",
+  "topics": [
    "sports-betting",
+   "policy",
    "industry"
   ],
-  "updated": "2026-03-18",
-  "first_seen": "2026-01-21",
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -14065,10 +14800,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A4280/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4280?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-02-03",
   "stage_changed": null
  },
@@ -14341,11 +15075,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A9542/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9542?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "cognition",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2026-01-14",
   "stage_changed": null
  },
@@ -15251,7 +15983,7 @@
   "url": "https://openstates.org/wa/bills/2025-2026/HB1362/",
   "source_url": "https://app.leg.wa.gov/billsummary/?BillNumber=1362&Year=2025&Initiative=false",
   "topics": [],
-  "updated": "2026-10-28",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-17",
   "stage_changed": null
  },
@@ -15441,7 +16173,7 @@
   "topics": [
    "self-exclusion"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-05-27",
   "stage_changed": null
  },
@@ -15470,8 +16202,207 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-05-15",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/f1e58467-4b2a-401b-af48-1bb92f016096",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 7876",
+  "title": "Relates to the itemized deduction for gambling losses",
+  "abstract": "Provides that the New York itemized deduction for gambling losses shall be zero percent of the amount allowed under the internal revenue code.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Andrew Gounardes"
+  ],
+  "introduced": "2025-05-13",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO BUDGET AND REVENUE",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S7876/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S7876?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/27c1a2f2-1e86-4e89-8f28-bb59d2090ba3",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 6695",
+  "title": "Prohibits certain predatory automated teller machine fees",
+  "abstract": "Prohibits predatory automated teller machine fees at casinos and colleges.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "James Sanders Jr."
+  ],
+  "introduced": "2025-03-19",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO CONSUMER PROTECTION",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S6695/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6695?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3b1ad50a-796a-43b3-abc1-1215a7c8d674",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 6594",
+  "title": "Relates to the investment of funds wagered on video lottery gaming for certain horse races; repealer",
+  "abstract": "Relates to the investment of funds wagered on video lottery gaming for certain horse races.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Robert Jackson",
+   "Jabari Brisport",
+   "Cordell Cleare",
+   "Brad Hoylman-Sigal",
+   "Liz Krueger",
+   "Gustavo Rivera"
+  ],
+  "introduced": "2025-03-18",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S6594/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6594?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2eb1b0c4-88a0-4f00-9c35-8ff5d57ca9f2",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 6357",
+  "title": "Sets compensation and maximum compensation for the boards of directors of off-track betting corporations",
+  "abstract": "Increases compensation and maximum compensation for the boards of directors of off-track betting corporations.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Monica Martinez",
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-03-11",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S6357/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6357?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/32cd3e8e-d45b-4924-bff8-9c5557be207a",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 6262",
+  "title": "Prohibits regional off-track betting corporations from providing items of value exceeding fifteen dollars to certain associates of the corporation",
+  "abstract": "Prohibits regional off-track betting corporations from providing items of value exceeding fifteen dollars to any board member, officer, or employee of the corporation, any contractor, subcontractor, consultant, or other agent of the corporation, or any spouse, child, sibling or parent of such persons; adds reporting …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "James Skoufis"
+  ],
+  "introduced": "2025-03-07",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S6262/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6262?summary=&detail=",
+  "topics": [
+   "families"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/dde0cefb-019a-4498-86f9-2a4898d4fe68",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 6252",
+  "title": "Prohibits off-track betting corporation vehicles from being used as take-home vehicles",
+  "abstract": "Prohibits off-track betting corporation vehicles from being used as take-home vehicles by board members, officers, employees, contractors, subcontractors, consultants, or agents of such corporation or by certain family members of such individuals; provides an exception therefor.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "James Skoufis"
+  ],
+  "introduced": "2025-03-07",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S6252/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6252?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/95bd1b97-6e8f-4653-b29b-4022da3a836a",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 5582",
+  "title": "Requires employees of gaming facilities to undergo human-trafficking recognition training",
+  "abstract": "Requires employees of gaming facilities to undergo human-trafficking recognition training which shall address the nature of human trafficking, how human trafficking is defined in law, how to identify victims of human trafficking, relief and recovery options for survivors, and social and legal services available to …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Andrew J. Lanza"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO CONSUMER PROTECTION",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S5582/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S5582?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15502,11 +16433,181 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S5537/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S5537?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-02-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/0b13f766-edcf-49eb-8eb3-4a66e5af5a03",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 5201",
+  "title": "Permits a potential lottery winner who lost their ticket to claim the winning amount",
+  "abstract": "Permits a potential lottery winner who lost their ticket to claim the winning amount provided that such person shows the lottery agency documentary proof of purchase of the winning ticket within one year of the winning date.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "James Sanders Jr."
+  ],
+  "introduced": "2025-02-19",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S5201/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S5201?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/bd789bbf-46ff-49d0-b062-feea08aec916",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 4715",
+  "title": "Relates to the period during which the empire state digital gaming tax credit may be claimed, criteria for such tax credit, and allowing a rollover of such credit",
+  "abstract": "Extends the period during which the empire state digital gaming tax credit may be claimed to 01/01/2032; amends the eligibility criteria for game development companies by changing the yearly timeframe structure, lowering the dollar threshold per production, and removing the in-state cost incurred threshold to …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Patricia Fahy",
+   "Jeremy Cooney"
+  ],
+  "introduced": "2025-02-12",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO BUDGET AND REVENUE",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S4715/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4715?summary=&detail=",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/bed87096-3eef-4461-aa0c-b51deee5010b",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 4608",
+  "title": "Relates to the acceleration of the downstate casino licenses",
+  "abstract": "Relates to the acceleration of the downstate casino licenses; sets forth fixed deadlines for different steps of the application process.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-02-10",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S4608/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4608?summary=&detail=",
+  "topics": [
+   "casino"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/379dc8ad-1a25-4c2e-a5b5-46b8bf8c985d",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 3613",
+  "title": "Relates to the percentage of free play allowance credits",
+  "abstract": "Provides that the gaming commission may, at its discretion, authorize an increase to the free play limitation for individual video lottery facilities upon illustration of benefit to the state.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Pamela Helming"
+  ],
+  "introduced": "2025-01-29",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S3613/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3613?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/ed12242c-9d70-44fc-986e-2233d2aa898c",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 3580",
+  "title": "Clarifies certain provisions regarding conflicts of interest of certain public employees",
+  "abstract": "Clarifies certain provisions regarding conflicts of interest of certain public employees regarding the licensing of a participant in horse racing activities.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-01-28",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S3580/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3580?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3682ea7a-51ba-446c-acb3-fc9f97bbbf03",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 2617",
+  "title": "Relates to interactive fantasy sports",
+  "abstract": "Includes contests wherein participants select whether athletes, in the case of sporting events, shall accumulate more or less than a target score set by an operator, as an interactive fantasy sports contest; provides a definition for interactive fantasy sports gross revenue; makes related provisions.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S2617/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2617?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15532,8 +16633,35 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S2616/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2616?summary=&detail=",
   "topics": [],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-21",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/c704c737-7ecf-498c-be6c-1edf3cce0957",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 2615",
+  "title": "Authorizes one percent of mobile sports tax revenue be used for problem gambling",
+  "abstract": "Authorizes one percent of mobile sports tax revenue, but not less than six million dollars, to be used for problem gambling.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S2615/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2615?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15558,11 +16686,63 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/ny/bills/2025-2026/S2614/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2614?summary=&detail=",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-03-18",
+  "topics": [],
+  "updated": "2026-11-26",
   "first_seen": "2025-01-21",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/7ae4dae8-2e89-4fa2-8bc5-985020524396",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 2610",
+  "title": "Prohibits individuals under the age of twenty-one from gambling",
+  "abstract": "Prohibits individuals under the age of twenty-one from gambling.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S2610/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2610?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/abdc3262-f47b-46f1-bb93-b200fd88f07d",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 1605",
+  "title": "Relates to the internet sale of raffle tickets",
+  "abstract": "Relates to the internet sale of raffle tickets.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "George Borrello"
+  ],
+  "introduced": "2025-01-10",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING, GAMING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/S1605/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S1605?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15590,8 +16770,101 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A9343/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9343?summary=&detail=",
   "topics": [],
-  "updated": "2026-04-14",
+  "updated": "2026-11-26",
   "first_seen": "2025-12-10",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/564220a1-2c27-4943-b401-85e0fce98ba5",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 9192",
+  "title": "Permits a potential lottery winner who lost their ticket to claim the winning amount",
+  "abstract": "Permits a potential lottery winner who lost their ticket to claim the winning amount provided that such person shows the lottery agency documentary proof of purchase of the winning ticket within one year of the winning date.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Alicia Hyndman"
+  ],
+  "introduced": "2025-11-03",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A9192/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9192?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/35ccbbed-21b6-499b-b940-b9ece38a7c25",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 8928",
+  "title": "Relates to prohibiting mobile sports wagering operators and platforms from allowing more than five deposits from an authorized sports bettor in twenty-four hours",
+  "abstract": "Prohibits mobile sports wagering operators and mobile sports wagering platforms from allowing more than five deposits from an authorized sports bettor in a twenty-four hour period.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Phil Steck",
+   "John T. McDonald III",
+   "Alicia Hyndman"
+  ],
+  "introduced": "2025-07-16",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A8928/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8928?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/99bf8cca-e516-4dfa-82de-3eae29f0015c",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 8925",
+  "title": "Relates to prohibiting mobile sports wagering advertisements during live sporting events",
+  "abstract": "Provides that no advertisement by or on behalf of a mobile sports wagering licensee shall be publicly disseminated during the broadcast of any live sporting event.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Phil Steck",
+   "Andrew Hevesi",
+   "Alicia Hyndman",
+   "John T. McDonald III"
+  ],
+  "introduced": "2025-07-16",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A8925/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8925?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "advertising"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15630,6 +16903,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/4732ca29-d15e-4d92-9540-c372de5758e5",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 8789",
+  "title": "Prohibits regional off-track betting corporations from providing items of value exceeding fifteen dollars to certain associates of the corporation",
+  "abstract": "Prohibits regional off-track betting corporations from providing items of value exceeding fifteen dollars to any board member, officer, or employee of the corporation, any contractor, subcontractor, consultant, or other agent of the corporation, or any spouse, child, sibling or parent of such persons; adds reporting …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Crystal Peoples-Stokes"
+  ],
+  "introduced": "2025-06-05",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A8789/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8789?summary=&detail=",
+  "topics": [
+   "families"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/473d7b09-6ef6-417c-8650-7b69c5170d36",
   "level": "state",
   "jurisdiction": "New York",
@@ -15657,11 +16959,40 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A8724/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8724?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-07-24",
+  "updated": "2026-11-26",
   "first_seen": "2025-06-02",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8144ecc9-d372-4701-8456-f8a302219365",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 8361",
+  "title": "Relates to video lottery gaming facilities",
+  "abstract": "Relates to sports wagers placed in video lottery gaming facilities.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Steve Stern",
+   "Judy Griffin"
+  ],
+  "introduced": "2025-05-13",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A8361/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8361?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15689,11 +17020,9 @@
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7962?summary=&detail=",
   "topics": [
    "sports-betting",
-   "casino",
-   "advertising",
-   "financial-harm"
+   "casino"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-04-16",
   "stage_changed": null
  },
@@ -15727,8 +17056,359 @@
   "topics": [
    "treatment"
   ],
-  "updated": "2026-03-30",
+  "updated": "2026-11-26",
   "first_seen": "2025-04-01",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9e89a045-80ab-4528-bfd9-b9f110104e03",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 7581",
+  "title": "Permits sports wagering on New York college teams",
+  "abstract": "Removes the prohibition on sports wagering on sports events involving New York college teams.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Paula Kay"
+  ],
+  "introduced": "2025-04-01",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A7581/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7581?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/17462573-051e-4120-b379-224ee5bdad97",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 7401",
+  "title": "Relates to video lottery gaming located in Orange county",
+  "abstract": "Relates to video lottery gaming located in Orange county.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "J. Gary Pretlow"
+  ],
+  "introduced": "2025-03-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A7401/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7401?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/116ac871-eadd-49f3-99ab-c77b7f7c3cae",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 7128",
+  "title": "Relates to the internet sale of raffle tickets",
+  "abstract": "Relates to the internet sale of raffle tickets.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Stephen Hawley",
+   "David DiPietro",
+   "Joseph Sempolinski",
+   "Karl Brabenec",
+   "Chris Tague",
+   "Kenneth Blankenbush"
+  ],
+  "introduced": "2025-03-20",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A7128/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7128?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3754509a-6e7f-4641-88cd-73792eff0436",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6937",
+  "title": "Prohibits reversable withdrawals",
+  "abstract": "Requires all withdrawal transactions made through a service provided by a mobile sports wagering licensee to be irreversible by the withdrawing consumer, the licensee or another at the consumer's request.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Clyde Vanel",
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-03-18",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6937/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6937?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2b966a71-4485-452a-891b-8ee3d5336cea",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6933",
+  "title": "Relates to knowingly encouraging a gambling addiction",
+  "abstract": "Imposes civil penalties; provides a private cause of action against entities knowingly encouraging a gambling addiction.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Clyde Vanel"
+  ],
+  "introduced": "2025-03-18",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6933/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6933?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2d3e75c2-cc6b-4de7-ae5e-cf1bb0abe91d",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6875",
+  "title": "Provides for standardbred equine drug testing standards",
+  "abstract": "Provides for standardbred equine drug testing standards by permitting the New York state gaming commission to participate in the interstate compact on anti-doping and drug testing standards.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-03-18",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6875/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6875?summary=&detail=",
+  "topics": [
+   "comorbidity"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/bb8e4843-d338-4a3b-8f63-09f7b2c803bf",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6814",
+  "title": "Prohibits individuals under the age of twenty-one from gambling",
+  "abstract": "Prohibits individuals under the age of twenty-one from gambling.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-03-14",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6814/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6814?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/0bf5018c-fdaf-4c3d-b2cd-28419d2ae178",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6555",
+  "title": "Requires the state to keep state lottery winners' identities anonymous",
+  "abstract": "Requires the state to keep state lottery winners' identities anonymous to the general public if requested by the lottery winner.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner",
+   "Marianne Buttenschon",
+   "Gabriella Romero",
+   "Paula Kay",
+   "Chris Burdick",
+   "MaryJane Shimsky"
+  ],
+  "introduced": "2025-03-06",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6555/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6555?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/690b7bbb-8299-4343-a346-d0331adbeaf2",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6117",
+  "title": "Establishes antitrust exemptions for certain horse racing agreements",
+  "abstract": "Provides that antitrust laws shall not apply to any joint agreement entered into, in consultation with and jointly approved by the state gaming commission and the attorney general, by or among non-profit associations, thoroughbred racing associations or corporations, harness racing associations or corporations …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6117/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6117?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/71d9745c-7db1-44ce-a2a3-0428323058fd",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6099",
+  "title": "Authorizing licensing of bowling establishments to offer video gaming if structure allows for segregated areas from patrons under 21 years of age",
+  "abstract": "Authorizes licensing of bowling establishments to offer video gaming if structure allows for segregated areas from patrons under 21 years of age; entitles the operators of bowling establishments to vendor fees where video lottery terminals are located.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner",
+   "Jo Anne Simon"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6099/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6099?summary=&detail=",
+  "topics": [
+   "loot-boxes"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/438a772b-2609-4103-9aca-75835aa5324b",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6085",
+  "title": "Relates to interactive fantasy sports contests; repealer",
+  "abstract": "Repeals provisions prohibiting the conduct of unregistered interactive fantasy sports contests; provides that interactive fantasy sports contests are not considered a contest of chance constituting a gambling offense under the penal law.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6085/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6085?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/091e8a94-ee57-4321-9a22-1b76d6a316ca",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6077",
+  "title": "Expands off-track betting to include the five counties comprising the city of New York; repealer",
+  "abstract": "Expands off-track betting to include the five counties comprising the city of New York which shall now be considered part of the Catskill region.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6077/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6077?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15754,12 +17434,123 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A6073/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6073?summary=&detail=",
   "topics": [
-   "sports-betting",
-   "advertising",
-   "industry"
+   "sports-betting"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-02-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8223998a-2fe2-4121-a706-c50cfecf44c9",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6048",
+  "title": "In relation to the additional vendor fee for a certain track located within Oneida county",
+  "abstract": "Provides that the additional vendor fee for a vendor track located within Oneida county within fifteen miles of a Native American class III gaming facility shall not be forfeited if the track does not maintain the ninety percent full-time equivalent employee requirement.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6048/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6048?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/495ac8ba-550b-4631-a147-d3b4646f841d",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6042",
+  "title": "Relates to issuing temporary permits to certain fantasy sports operators",
+  "abstract": "Relates to issuing temporary permits to certain fantasy sports operators that were not offering contests to persons located in New York prior to November 10, 2015.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6042/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6042?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1483132a-72ed-41bf-8c6e-3c7d3b3d9285",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6039",
+  "title": "Relates to the Catskill off-track betting corporation providing licensing and financing to the Monticello racetrack",
+  "abstract": "Relates to the Catskill off-track betting corporation providing licensing and financing to the Monticello racetrack and the ability to provide capital improvements.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6039/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6039?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a15425d3-acfe-42a2-b755-ab681b20f73e",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6030",
+  "title": "Relates to allowing certain interactive poker games",
+  "abstract": "Allows certain interactive poker games be considered games of skill rather than games of luck; includes definitions, authorization, required safeguards and minimum standards, the scope of licensing review and state tax implications; makes corresponding penal law amendments.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6030/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6030?summary=&detail=",
+  "topics": [
+   "casino",
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15784,11 +17575,233 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/ny/bills/2025-2026/A6027/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6027?summary=&detail=",
-  "topics": [
-   "lottery"
-  ],
-  "updated": "2026-03-18",
+  "topics": [],
+  "updated": "2026-11-26",
   "first_seen": "2025-02-25",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/b0455ddf-f3fe-47b1-8fd4-9850fc12a35f",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6022",
+  "title": "Relates to interactive fantasy sports",
+  "abstract": "Includes contests wherein participants select whether athletes, in the case of sporting events, shall accumulate more or less than a target score set by an operator, as an interactive fantasy sports contest; provides a definition for interactive fantasy sports gross revenue; makes related provisions.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6022/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6022?summary=&detail=",
+  "topics": [
+   "sports-betting"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/8d1f5281-6fa3-403e-8f3b-41ca61cf69f3",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6017",
+  "title": "Eases certain restrictions on the conducting of games of chance and bingo for charitable purposes",
+  "abstract": "Eases certain restrictions on the conducting of games of chance for charitable purposes; authorizes auxiliary members of authorized organizations to operate games of chance; authorizes conducting of games of chance on Sundays; expands advertising of games of chance; eases certain restrictions on the conducting of …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6017/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6017?summary=&detail=",
+  "topics": [
+   "advertising"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a7821238-0867-4891-9c9d-f920f8060e25",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6013",
+  "title": "Amends the definition of wager and changes the licensing requirements for mobile sports wagering operators",
+  "abstract": "Amends the definition of sports wager to include other things of value; changes the licensing requirement for mobile sports wagering operators; provides the state shall by no later than January 31, 2026 have fourteen operators and by January 31, 2027 have sixteen operators; provides tax rates shall be determined …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6013/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6013?summary=&detail=",
+  "topics": [
+   "sports-betting",
+   "policy",
+   "industry"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/84ac7cbf-85ae-4ab9-8954-d85ac5308abc",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6006",
+  "title": "Relates to equine screening and advanced imaging expenses",
+  "abstract": "Provides for and requires equine screening and advanced imaging to be conducted by a land grant university within this state at a location proximate to a racetrack owned by the state.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6006/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6006?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1f86c26f-6e8f-43a9-863a-eb0969af115f",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 5940",
+  "title": "Allows off-track betting corporations to set up special reserve funds",
+  "abstract": "Allows off-track betting corporations to set up special reserve funds to use as an alternative to current capital acquisition funds.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-25",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A5940/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A5940?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/36ac9d28-4ae7-4b2d-a656-d599bdb4e8b6",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 5925",
+  "title": "Utilizes funds from the capital acquisition fund",
+  "abstract": "Relates to utilizing funds from the capital acquisition fund for the payment of salaries and benefits of employees and other expenses of regional off-track betting corporations.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-24",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A5925/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A5925?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/a710e07d-a594-4ef7-837e-080043acfce0",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 5923",
+  "title": "Provides for payments to licensed harness tracks by regional off-track betting corporations",
+  "abstract": "Provides for payments to licensed harness tracks by regional off-track betting corporations.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-24",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A5923/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A5923?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/3b272cc9-191d-44f0-b9dd-9d218ca5c1ff",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 5919",
+  "title": "Relates to the disposition of net revenues of regional off-track betting corporations to participating counties",
+  "abstract": "Provides that the disposition of net revenues of regional off-track betting corporations to participating counties may be divided on an annual, bi-annual or quarterly basis as determined by such corporations.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-24",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A5919/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A5919?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15813,11 +17826,65 @@
   "stage_label": "in committee",
   "url": "https://openstates.org/ny/bills/2025-2026/A5904/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A5904?summary=&detail=",
-  "topics": [
-   "advertising"
-  ],
-  "updated": "2026-03-18",
+  "topics": [],
+  "updated": "2026-11-26",
   "first_seen": "2025-02-24",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/9426decd-8c0c-4dd0-b5c4-6a424bea800f",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 4543",
+  "title": "Relates to the tribal-state compact revenue account",
+  "abstract": "Relates to monies appropriated and received each year by the state as a portion of the negotiated percentage of the net drop from electronic gaming devices the state receives.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Angelo J. Morinello"
+  ],
+  "introduced": "2025-02-04",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A4543/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4543?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/2337be76-268e-400a-a52f-2db00a60e81e",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 4472",
+  "title": "Directs revenue from certain mobile casino gaming activities to be used for school safety and security purposes",
+  "abstract": "Directs revenue from certain mobile casino gaming activities to be used for school safety and security purposes.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Josh Jensen"
+  ],
+  "introduced": "2025-02-04",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A4472/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4472?summary=&detail=",
+  "topics": [
+   "casino"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15856,6 +17923,132 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/35d4221d-9349-49d7-8722-bf55cfca79b7",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 4224",
+  "title": "Prohibits the percentage of disbursements from the state lottery fund that goes towards education aid from falling below 45.15%",
+  "abstract": "Prohibits the percentage of disbursements from the state lottery fund that goes towards education aid from falling below 45.15 percent.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Chris Tague",
+   "Stephen Hawley",
+   "Joe DeStefano",
+   "Nader Sayegh",
+   "Brian D. Miller",
+   "Michael Durso"
+  ],
+  "introduced": "2025-01-31",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A4224/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4224?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/db3cbd00-caa9-494b-91f3-5533e6dccd08",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 3457",
+  "title": "Relates to the period during which the empire state digital gaming tax credit may be claimed, criteria for such tax credit, and allowing a rollover of such credit",
+  "abstract": "Extends the period during which the empire state digital gaming tax credit may be claimed to 01/01/2032; amends the eligibility criteria for game development companies by changing the yearly timeframe structure, lowering the dollar threshold per production, and removing the in-state cost incurred threshold to …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "John T. McDonald III",
+   "Rebecca Seawright",
+   "Jen Lunsford",
+   "Albert A. Stirpe",
+   "Al Taylor",
+   "Karl Brabenec"
+  ],
+  "introduced": "2025-01-27",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A3457/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A3457?summary=&detail=",
+  "topics": [
+   "policy"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/6ddd23ca-f780-419e-b395-bfc2d339ce74",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 344",
+  "title": "Relates to lottery aid formulas for school districts",
+  "abstract": "Relates to lottery aid formulas for school districts.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Amy Paulin",
+   "Donna Lupardo",
+   "Linda Rosenthal"
+  ],
+  "introduced": "2025-01-08",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A344/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A344?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/1647d522-ef83-4f21-9f6f-e949fcd6abd5",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 3250",
+  "title": "Clarifies certain provisions regarding conflicts of interest of certain public employees",
+  "abstract": "Clarifies certain provisions regarding conflicts of interest of certain public employees regarding the licensing of a participant in horse racing activities.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-01-27",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO RACING AND WAGERING",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A3250/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A3250?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/9bfe1cb9-aa2d-4787-ba90-1b36a185f13b",
   "level": "state",
   "jurisdiction": "New York",
@@ -15885,8 +18078,37 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-09-15",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-23",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/e8576e71-c4b5-42d6-a10a-cdca18025a99",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 2216",
+  "title": "Relates to unclaimed lottery prizes",
+  "abstract": "Requires unclaimed lottery prizes to be paid into the state treasury, to the credit of the state lottery fund.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Angelo Santabarbara"
+  ],
+  "introduced": "2025-01-15",
+  "latest_action_date": "2026-01-07",
+  "latest_action": "REFERRED TO WAYS AND MEANS",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/ny/bills/2025-2026/A2216/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A2216?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -15915,7 +18137,7 @@
   "url": "https://openstates.org/ny/bills/2025-2026/A2151/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A2151?summary=&detail=",
   "topics": [],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-15",
   "stage_changed": null
  },
@@ -16070,6 +18292,35 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/6344cf2c-0808-49a2-9f6a-a908ba4f1034",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 2612",
+  "title": "Relates to welfare, medical, and retirement plans provided by a horsemen's organization in the absence of contractual obligations",
+  "abstract": "Relates to welfare, medical, and retirement plans provided by a horsemen's organization in the absence of contractual obligations; provides in the absence of a contract between the licensed harness racing corporation or association and the representative horsemen's organization, the state gaming commission shall …",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr."
+  ],
+  "introduced": "2025-01-21",
+  "latest_action_date": "2025-12-19",
+  "latest_action": "APPROVAL MEMO.60",
+  "latest_passage_date": "2025-06-16",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ny/bills/2025-2026/S2612/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S2612?summary=&detail=",
+  "topics": [
+   "older-adults"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/4842c345-2fe8-43cf-8b42-063f1b1e8e7b",
   "level": "state",
   "jurisdiction": "Massachusetts",
@@ -16192,7 +18443,7 @@
   "topics": [
    "casino"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-17",
   "stage_changed": "2026-10-27",
   "previous_stage": "passed-one"
@@ -16267,12 +18518,9 @@
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=373&year=2026",
   "topics": [
    "sports-betting",
-   "online-gambling",
-   "treatment",
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-14",
   "stage_changed": null
  },
@@ -16308,7 +18556,7 @@
    "policy",
    "comorbidity"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-13",
   "stage_changed": null
  },
@@ -16347,11 +18595,10 @@
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1572&year=2026",
   "topics": [
    "sports-betting",
-   "prevention",
    "policy",
    "industry"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -16395,7 +18642,7 @@
    "prevention",
    "industry"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-22",
   "stage_changed": "2026-10-27",
   "previous_stage": "passed-one"
@@ -16501,7 +18748,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -16574,11 +18821,10 @@
   "url": "https://openstates.org/hi/bills/2026/HB1466/",
   "source_url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1466&year=2026",
   "topics": [
-   "casino",
    "policy",
    "industry"
   ],
-  "updated": "2026-07-15",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-23",
   "stage_changed": null
  },
@@ -16612,7 +18858,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-23",
   "stage_changed": null
  },
@@ -16672,10 +18918,9 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S5935/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S5935?summary=&detail=",
   "topics": [
-   "policy",
-   "industry"
+   "policy"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-03-04",
   "stage_changed": null
  },
@@ -16910,11 +19155,11 @@
   "stage": "passed-one",
   "stage_label": "passed one chamber",
   "url": "https://openstates.org/pa/bills/2025-2026/SB73/",
-  "source_url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=31&rollcallid=244&sessYr=2025&sessInd=0",
+  "source_url": "https://www.palegis.us/legislation/bills/2025/sb73",
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-10",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -17722,10 +19967,9 @@
   "source_url": "https://www.legislature.ohio.gov/legislation/136/hb344",
   "topics": [
    "lottery",
-   "casino",
    "policy"
   ],
-  "updated": "2026-03-17",
+  "updated": "2026-11-26",
   "first_seen": "2025-06-10",
   "stage_changed": null
  },
@@ -17796,7 +20040,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-04-03",
   "stage_changed": null
  },
@@ -18075,6 +20319,34 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/f5efafcd-d733-4997-b239-54809c89858a",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "S 3579",
+  "title": "Relates to the thoroughbred breeding and development fund",
+  "abstract": "Extends the provisions relating to the New York state thoroughbred breeding and development fund until seventeen years after the commencement of the operation of a video lottery terminal facility at Aqueduct racetrack.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Joseph P. Addabbo Jr.",
+   "Lea Webb"
+  ],
+  "introduced": "2025-01-28",
+  "latest_action_date": "2025-05-23",
+  "latest_action": "SIGNED CHAP.132",
+  "latest_passage_date": "2025-04-08",
+  "stage": "enacted",
+  "stage_label": "enacted",
+  "url": "https://openstates.org/ny/bills/2025-2026/S3579/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3579?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/2a6819ef-77ef-497b-911a-84f838e0c7ae",
   "level": "state",
   "jurisdiction": "Montana",
@@ -18262,8 +20534,37 @@
    "online-gambling",
    "policy"
   ],
-  "updated": "2026-03-17",
+  "updated": "2026-11-26",
   "first_seen": "2025-05-20",
+  "stage_changed": null
+ },
+ {
+  "id": "ocd-bill/6689547a-bd93-4401-8b7e-93ab65fbfa55",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 587",
+  "title": "Permits state lottery winners to remain anonymous to the general public",
+  "abstract": "Permits state lottery winners to remain anonymous to the general public.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Phil Steck"
+  ],
+  "introduced": "2025-01-08",
+  "latest_action_date": "2025-05-21",
+  "latest_action": "ENACTING CLAUSE STRICKEN",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ny/bills/2025-2026/A587/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A587?summary=&detail=",
+  "topics": [
+   "lottery"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
   "stage_changed": null
  },
  {
@@ -19259,12 +21560,10 @@
   "url": "https://openstates.org/ny/bills/2025-2026/S3009/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3009?summary=&detail=",
   "topics": [
-   "treatment",
    "policy",
-   "families",
    "industry"
   ],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-01-22",
   "stage_changed": null
  },
@@ -20772,6 +23071,33 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/2bef3e73-2da0-4fa7-99b9-dea4386cf7bd",
+  "level": "state",
+  "jurisdiction": "New York",
+  "jurisdiction_code": "ny",
+  "session": "2025-2026",
+  "identifier": "A 6075",
+  "title": "Relates to the thoroughbred breeding and development fund",
+  "abstract": "Extends the provisions relating to the New York state thoroughbred breeding and development fund until eleven years after the commencement of the operation of a video lottery terminal facility at Aqueduct racetrack.",
+  "classification": "bill",
+  "subjects": [],
+  "sponsors": [
+   "Carrie Woerner"
+  ],
+  "introduced": "2025-02-26",
+  "latest_action_date": "2025-03-24",
+  "latest_action": "ENACTING CLAUSE STRICKEN",
+  "latest_passage_date": null,
+  "stage": "failed",
+  "stage_label": "failed or withdrawn",
+  "url": "https://openstates.org/ny/bills/2025-2026/A6075/",
+  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6075?summary=&detail=",
+  "topics": [],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/fca63c31-6cda-4b84-918f-cad40ea299ff",
   "level": "state",
   "jurisdiction": "Missouri",
@@ -21374,6 +23700,40 @@
   "stage_changed": null
  },
  {
+  "id": "ocd-bill/819b256d-3891-429c-8d7c-53fdc109c420",
+  "level": "state",
+  "jurisdiction": "Ohio",
+  "jurisdiction_code": "oh",
+  "session": "136",
+  "identifier": "SB 150",
+  "title": "Increase sports gaming tax; allocate for athletics, sports venues",
+  "abstract": "To amend sections 123.28, 123.281, 5753.021, and 5753.031 and to enact section 123.282 of the Revised Code to increase the sports gaming tax, to allocate revenue from the increased tax to fund sports venues and interscholastic athletics, and to create a commission to evaluate projects and award sports venue funds.",
+  "classification": "bill",
+  "subjects": [
+   "Economic Development",
+   "Taxation",
+   "Tourism"
+  ],
+  "sponsors": [
+   "Louis W. Blessing, III"
+  ],
+  "introduced": "2025-03-18",
+  "latest_action_date": "2025-03-19",
+  "latest_action": "Referred to committee",
+  "latest_passage_date": null,
+  "stage": "committee",
+  "stage_label": "in committee",
+  "url": "https://openstates.org/oh/bills/136/SB150/",
+  "source_url": "https://www.legislature.ohio.gov/legislation/136/sb150",
+  "topics": [
+   "policy",
+   "industry"
+  ],
+  "updated": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "stage_changed": null
+ },
+ {
   "id": "ocd-bill/c2d76bf2-a9c6-4e2c-993e-fd100f690e5d",
   "level": "state",
   "jurisdiction": "Iowa",
@@ -21433,7 +23793,7 @@
   "url": "https://openstates.org/ny/bills/2025-2026/J493/",
   "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/J493?summary=&detail=",
   "topics": [],
-  "updated": "2026-03-18",
+  "updated": "2026-11-26",
   "first_seen": "2025-03-12",
   "stage_changed": null
  },
@@ -22158,7 +24518,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/mo/bills/2025/HB1251/",
-  "source_url": "https://house.mo.gov/billactions.aspx?bill=HB1251&year=2025&code=R",
+  "source_url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1251&year=2025&code=R&style=new",
   "topics": [],
   "updated": "2026-11-19",
   "first_seen": "2026-11-19",
