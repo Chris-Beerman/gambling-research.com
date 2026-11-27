@@ -52,7 +52,7 @@
   "stage": "committee",
   "stage_label": "in committee",
   "url": "https://openstates.org/ny/bills/2025-2026/S10748/",
-  "source_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10748?summary=&detail=",
+  "source_url": "https://nyassembly.gov/leg/?bn=S10748&term=2025",
   "topics": [
    "prediction-markets"
   ],
@@ -1412,7 +1412,7 @@
   "url": "https://openstates.org/pa/bills/2025-2026/SB398/",
   "source_url": "https://www.palegis.us/legislation/bills/2025/sb398",
   "topics": [],
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "first_seen": "2025-03-06",
   "stage_changed": "2026-10-24",
   "previous_stage": "passed-both"
@@ -19023,7 +19023,7 @@
   "topics": [
    "older-adults"
   ],
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "first_seen": "2025-05-05",
   "stage_changed": null
  },
@@ -19533,7 +19533,7 @@
   "topics": [
    "lottery"
   ],
-  "updated": "2026-11-21",
+  "updated": "2026-11-27",
   "first_seen": "2025-03-26",
   "stage_changed": null
  },

@@ -1,10 +1,367 @@
 [
  {
+  "id": "doi:10.63447/jimik.v8i1.2137",
+  "doi": "10.63447/jimik.v8i1.2137",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7240074251",
+  "title": "Analisis Wacana Kritis terhadap Kritik Kebijakan Pemotongan Bantuan Sosial Pelaku Judi Online di TikTok",
+  "journal": "Jurnal Indonesia Manajemen Informatika dan Komunikasi",
+  "authors": [
+   "Tsaabitah Naabigha"
+  ],
+  "published": "2027-01-10",
+  "year": 2027,
+  "created": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "summary": "The National Identification Number (NIK) data synchronization policy between the Center for Financial Transaction Reports and Analysis (PPATK) and the Ministry of Social Affairs triggered widespread public controversy through the automatic deactivation of Program Keluarga Harapan (PKH) social assistance for beneficiaries implicated in online gambling …",
+  "url": "https://doi.org/10.63447/jimik.v8i1.2137",
+  "oa_url": "https://doi.org/10.63447/jimik.v8i1.2137",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1017/bpp.2026.10054",
+  "doi": "10.1017/bpp.2026.10054",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7204488462",
+  "title": "Which gambling harm prevention messages appear the most effective? Results of an online experiment comparing self-appraisal, positive emotional, loss-based and counter-industry approaches",
+  "journal": "Behavioural Public Policy",
+  "authors": [
+   "Philip Newall",
+   "William George Chapman",
+   "Simon Thomas van Baal",
+   "Jamie Torrance",
+   "Maira Andrade",
+   "Leonardo Weiss‐Cohen"
+  ],
+  "published": "2026-11-26",
+  "year": 2026,
+  "created": "2026-08-28",
+  "first_seen": "2026-11-27",
+  "summary": "Gambling harm prevention messages are increasingly catching up with best practices from tobacco by utilizing independently designed warnings …",
+  "url": "https://doi.org/10.1017/bpp.2026.10054",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8F04E98358DE36C2C27E8F27CE487AE2/S2398063X26100542a.pdf/div-class-title-which-gambling-harm-prevention-messages-appear-the-most-effective-results-of-an-online-experiment-comparing-self-appraisal-positive-emotional-loss-based-and-counter-industry-approaches-div.pdf",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "prevention",
+   "industry"
+  ],
+  "designs": [
+   "experiment"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "AU"
+  ],
+  "setting_regions": [
+   "australia-nz"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1111/dom.71606",
+  "doi": "10.1111/dom.71606",
+  "pmid": "43098744",
+  "pmcid": null,
+  "openalex": null,
+  "title": "The Next Postcode Lottery in Type 1 Diabetes: Echoes of the Past and Future Direction",
+  "journal": "Diabetes, Obesity & Metabolism",
+  "authors": [
+   "Matthew Anson"
+  ],
+  "published": "2026-11-26",
+  "year": 2026,
+  "created": "2026-11-26",
+  "first_seen": "2026-11-27",
+  "summary": "",
+  "url": "https://doi.org/10.1111/dom.71606",
+  "oa_url": null,
+  "sources": [
+   "pubmed"
+  ],
+  "type": "article",
+  "topics": [
+   "lottery"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "uk-ireland"
+  ],
+  "language": "en",
+  "relevance": "low",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.66886/algafari-mp.v4i3.380",
+  "doi": "10.66886/algafari-mp.v4i3.380",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7240081101",
+  "title": "Fenomena Judi Online Berkedok Transaksi Digital: Dampaknya Bagi Ekosistem E-Business dan Pandangan Syariah",
+  "journal": "Al-Gafari Manajemen dan Pendidikan",
+  "authors": [
+   "Bella Audya Manalu",
+   "Muhammad Irwan Padli Nasution"
+  ],
+  "published": "2026-11-26",
+  "year": 2026,
+  "created": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "summary": "This study aims to analyze the phenomenon of online gambling that leverages digital transaction channels, its impact on the e-business ecosystem, and its status under Sharia law …",
+  "url": "https://doi.org/10.66886/algafari-mp.v4i3.380",
+  "oa_url": "https://www.jurnal.zarilgapari.org/index.php/gafari/article/download/380/488",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [
+   "ID"
+  ],
+  "setting_regions": [
+   "asia"
+  ],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.26685/urncst.1190",
+  "doi": "10.26685/urncst.1190",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7240089142",
+  "title": "Electroencephalography Biomarkers of Non-Substance Cravings: A Systematic Review",
+  "journal": "Undergraduate Research in Natural and Clinical Science and Technology (URNCST) Journal",
+  "authors": [
+   "Malak Gailan",
+   "Youssef Issa",
+   "Nicholas Elias"
+  ],
+  "published": "2026-11-26",
+  "year": 2026,
+  "created": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "summary": "Craving is a key driver of non-substance addictions, yet identifying the concrete neurophysiological biomarkers behind it remains a significant challenge, increasingly when dealing with non-substances …",
+  "url": "https://doi.org/10.26685/urncst.1190",
+  "oa_url": "https://doi.org/10.26685/urncst.1190",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "cognition"
+  ],
+  "designs": [
+   "review"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "canada"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.1080/13504851.2026.2770825",
+  "doi": "10.1080/13504851.2026.2770825",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7239424114",
+  "title": "The way adolescents gamble: game-type similarities with parents and peers",
+  "journal": "Applied Economics Letters",
+  "authors": [
+   "Alice Guerra",
+   "Antonello E. Scorcu"
+  ],
+  "published": "2026-11-25",
+  "year": 2026,
+  "created": "2026-11-25",
+  "first_seen": "2026-11-27",
+  "summary": "We investigate choices across gambling types among Italian adolescents and their associations with parental and peer gambling. Using a national school survey of 10,550 students, we distinguish non-gamblers, luck-only, skill-only, and mixed gamblers …",
+  "url": "https://doi.org/10.1080/13504851.2026.2770825",
+  "oa_url": "https://doi.org/10.2139/ssrn.7749461",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "youth",
+   "families"
+  ],
+  "designs": [
+   "survey"
+  ],
+  "design_basis": "rules",
+  "settings": [
+   "IT"
+  ],
+  "setting_regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.26877/civis.v13i2.28747",
+  "doi": "10.26877/civis.v13i2.28747",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7240073494",
+  "title": "DAMPAK JUDI ONLINE SLOT TERHADAP NILAI-NILAI MORAL PEMUDA: STUDI FENOMENOLOGIS DI DESA GUNTUR, KABUPATEN DEMAK",
+  "journal": "Civis",
+  "authors": [
+   "Muhammad Nadlir Mundhir",
+   "Suwarno Widodo",
+   "Rosalina Ginting"
+  ],
+  "published": "2026-11-25",
+  "year": 2026,
+  "created": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "summary": "Online slot gambling increasingly reaches young people throughsmartphones, yet studies on its moral consequences at the village levelremain scarce and tend to focus on finances or mental health …",
+  "url": "https://doi.org/10.26877/civis.v13i2.28747",
+  "oa_url": "https://journal.upgris.ac.id/index.php/civis/article/view/28747",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "youth"
+  ],
+  "designs": [
+   "qualitative"
+  ],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [
+   "ID"
+  ],
+  "regions": [
+   "asia"
+  ],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
+  "id": "doi:10.30872/jdr9pm63",
+  "doi": "10.30872/jdr9pm63",
+  "pmid": null,
+  "pmcid": null,
+  "openalex": "W7240074432",
+  "title": "Financial Literacy in the Digital Era: Education on the Dangers of Online Gambling, Illegal Lending, and Community Financial Record-Keeping: Cerdas Finansial di Era Digital: Edukasi Bahaya Judi Online, Pinjaman Ilegal, dan Pencatatan Keuangan Masyarakat",
+  "journal": "DESAMU: Prosiding Diseminasi KKN Universitas Mulawarman",
+  "authors": [
+   "Alvin Aprilian Edhy",
+   "Melda Nur Tia",
+   "Maria Jesselyn Yustitia Pakpahan",
+   "Rosa Angellica",
+   "Nurul Hidayah",
+   "Pandu Pranatan",
+   "Sani Aulia",
+   "Yoanelsa Kayra",
+   "Yunda Yuardani",
+   "Dwi Afrizal Ramadan",
+   "Adrianus Inu Natalisanto"
+  ],
+  "published": "2026-11-23",
+  "year": 2026,
+  "created": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "summary": "The development of digital technology has facilitated access to financial services but has also increased the risks associated with online gambling and illegal online lending …",
+  "url": "https://doi.org/10.30872/jdr9pm63",
+  "oa_url": "https://e-journals2.unmul.ac.id/index.php/pdkum/article/view/5525",
+  "sources": [
+   "openalex"
+  ],
+  "type": "article",
+  "topics": [
+   "online-gambling",
+   "policy"
+  ],
+  "designs": [],
+  "design_basis": "rules",
+  "settings": [],
+  "setting_regions": [],
+  "countries": [],
+  "regions": [],
+  "language": "en",
+  "relevance": "high",
+  "retracted": false
+ },
+ {
   "id": "doi:10.1080/13546805.2026.2767002",
   "doi": "10.1080/13546805.2026.2767002",
   "pmid": "43096873",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7240048421",
   "title": "Theory of mind and social problem solving in patients with gambling disorder",
   "journal": "Cognitive Neuropsychiatry",
   "authors": [
@@ -20,8 +377,9 @@
   "first_seen": "2026-11-26",
   "summary": "This study aimed to investigate the profile of Theory of Mind (ToM) and social problem solving impairments in patients diagnosed with gambling disorder (GD), using a scenario-based measure that requires both freely generating and identifying the best explanations and solutions …",
   "url": "https://doi.org/10.1080/13546805.2026.2767002",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1080/13546805.2026.2767002",
   "sources": [
+   "openalex",
    "pubmed"
   ],
   "type": "article",
@@ -45,10 +403,10 @@
  {
   "id": "doi:10.1556/2006.2026.00278",
   "doi": "10.1556/2006.2026.00278",
-  "pmid": null,
+  "pmid": "43097019",
   "pmcid": null,
-  "openalex": null,
-  "title": "Objectifying digital addiction: Commentary to the debate “Conceptualizing problematic internet use and digital screen use”",
+  "openalex": "W7240050776",
+  "title": "Objectifying digital addiction",
   "journal": "Journal of Behavioral Addictions",
   "authors": [
    "Steve Sussman"
@@ -59,9 +417,11 @@
   "first_seen": "2026-11-26",
   "summary": "Abstract An academic dialogue continues regarding how to frame addiction to electronic media, including when to consider it a disorder in the context of an increasingly digital world, how to name the disorder (e.g., “screen-based disorder”), and whether it refers to the medium or activities engaged on the medium (e.g., gambling, gaming) …",
   "url": "https://doi.org/10.1556/2006.2026.00278",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1556/2006.2026.00278",
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [],
@@ -77,16 +437,16 @@
   "regions": [
    "us"
   ],
-  "language": null,
+  "language": "en",
   "relevance": "low",
   "retracted": false
  },
  {
   "id": "doi:10.1007/s10899-026-10581-5",
   "doi": "10.1007/s10899-026-10581-5",
-  "pmid": null,
+  "pmid": "43097320",
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7166962800",
   "title": "Evaluating the Validity and Accuracy of the Gambling Pathways Questionnaire Scoring Criteria in Differentiating Between Gambling Sub-Types",
   "journal": "Journal of Gambling Studies",
   "authors": [
@@ -98,10 +458,12 @@
   "first_seen": "2026-11-26",
   "summary": "Abstract While the pathways model delineates problem gambling as a heterogeneous behaviour with three distinct pathways, few studies have examined whether its standardised measure, the Gambling Pathways Questionnaire (GPQ), accurately differentiates these sub-types …",
   "url": "https://doi.org/10.1007/s10899-026-10581-5",
-  "oa_url": null,
+  "oa_url": "https://doi.org/10.1007/s10899-026-10581-5",
   "sources": [
    "crossref",
-   "feed:jgs"
+   "feed:jgs",
+   "openalex",
+   "pubmed"
   ],
   "type": "article",
   "topics": [],
@@ -111,8 +473,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "AU"
+  ],
+  "regions": [
+   "australia-nz"
+  ],
   "language": "en",
   "relevance": "high",
   "retracted": false
@@ -200,7 +566,7 @@
   "doi": "10.1177/25725300261511911",
   "pmid": null,
   "pmcid": null,
-  "openalex": null,
+  "openalex": "W7240081735",
   "title": "FLORIDA’S PRE-STATEHOOD LOTTERIES",
   "journal": "Gaming Law Review",
   "authors": [
@@ -214,7 +580,8 @@
   "url": "https://doi.org/10.1177/25725300261511911",
   "oa_url": null,
   "sources": [
-   "crossref"
+   "crossref",
+   "openalex"
   ],
   "type": "article",
   "topics": [
@@ -224,8 +591,12 @@
   "design_basis": "rules",
   "settings": [],
   "setting_regions": [],
-  "countries": [],
-  "regions": [],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "us"
+  ],
   "language": "en",
   "relevance": "low",
   "retracted": false
@@ -234,7 +605,7 @@
   "id": "doi:10.1186/s40359-026-05976-3",
   "doi": "10.1186/s40359-026-05976-3",
   "pmid": "43086997",
-  "pmcid": null,
+  "pmcid": "PMC13811204",
   "openalex": "W7239876669",
   "title": "Examining gambling problems through the lens of outcome expectancies and maladaptive personality traits: direct associations and interactions",
   "journal": "BMC psychology",
@@ -249,7 +620,7 @@
   "first_seen": "2026-11-26",
   "summary": "Gambling outcome expectancies are the beliefs a person holds about the effects of gambling. These can influence gambling behaviour directly and in combination with individual and situational factors. A particularly important set of individual factors are maladaptive personality traits …",
   "url": "https://doi.org/10.1186/s40359-026-05976-3",
-  "oa_url": "https://doi.org/10.1186/s40359-026-05976-3",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13811204/",
   "sources": [
    "openalex",
    "pubmed"
@@ -3332,17 +3703,17 @@
   "pmcid": null,
   "openalex": "W7169500098",
   "title": "Suicidal Ideation Endorsed on the Patient Health Questionnaire-9 at Intake and Treatment Outcomes in Gambling Disorder Care: Retrospective Cohort Study",
-  "journal": "JMIR formative research",
+  "journal": "JMIR Formative Research",
   "authors": [
    "Elizabeth Knight",
-   "Kelsey McAlister",
-   "Landry Huffman",
+   "Kelsey Lynn McAlister",
+   "Landry Goodgame Huffman",
    "Cynthia Grant",
    "Jennifer Huberty"
   ],
   "published": "2026-11-12",
   "year": 2026,
-  "created": "2026-11-12",
+  "created": "2026-07-18",
   "first_seen": "2026-11-13",
   "summary": "Gambling disorder (GD) carries a disproportionate burden of suicide risk. Clinicians frequently encounter patients with suicidal ideation (SI) at treatment entry, yet no published study has examined whether SI at intake predicts treatment engagement or symptom change in GD care …",
   "url": "https://doi.org/10.2196/106739",
@@ -6331,7 +6702,7 @@
   "id": "doi:10.3390/bs16112069",
   "doi": "10.3390/bs16112069",
   "pmid": "43087367",
-  "pmcid": null,
+  "pmcid": "PMC13799385",
   "openalex": "W7225124894",
   "title": "Preferred Gambling Modality and Hazardous Drinking Among Adults Screening Positive for Gambling Disorder: A Conceptual Replication from Türkiye",
   "journal": "Behavioral Sciences",
@@ -6345,7 +6716,7 @@
   "first_seen": "2026-11-03",
   "summary": "Mixed-mode gamblers, who gamble online and in physical venues, reportedly consume more alcohol while gambling than online-only gamblers in Australia, where many venues serve alcohol. This conceptual replication tested whether this pattern holds in Türkiye, where alcohol consumption is low, casinos are closed, and licensed betting shops do not serve alcohol …",
   "url": "https://doi.org/10.3390/bs16112069",
-  "oa_url": "https://doi.org/10.3390/bs16112069",
+  "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13799385/",
   "sources": [
    "openalex",
    "pubmed"
